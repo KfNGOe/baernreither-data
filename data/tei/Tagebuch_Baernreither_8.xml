@@ -67,7 +67,7 @@
             </div>
             <div>
                 <p/>
-                <p>[<placeName key="lunz" ref="2772186" xml:id="">Lünz</placeName>, am
+                <p>[<placeName key="lunz" ref="2772186" xml:id="tb_001">Lünz</placeName>, am
                         <date>13.4.06</date>]</p>
                 <p>Die drei ersten Monate des Jahres 1906 bieten politisch ein geradezu widerliches
                     Bild. Eine Regierung, die aus Gründen, die nicht zu ergründen sind, einem
@@ -92,7 +92,7 @@
                 <p> Ich will hier nicht die schmutzigen Peripetien dieses Processes schildern,
                     sondern nur Streiflichter fixieren, von denen ein falsches in die Öffentlichkeit
                     gedrungen ist.</p>
-                <p>Zuerst die <persName key="PacakBedrich" ref="1024898318" xml:id=""
+                <p>Zuerst die <persName key="PacakBedrich" ref="1024898318" xml:id="tb_002"
                         >Pacák</persName>-<persName>Derschatta</persName> Frage.</p>
                 <p>Der Eintritt dieser beiden Herren in das <orgName>M[inisterium]</orgName> von der
                     Regierung – wenn man den kleinlich beschränkten Kreis ihrer Mittel überhaupt
@@ -138,7 +138,7 @@
                     sorgfältig verzapft werden.</p>
 
                 <p>Derschatta benimmt sich ebenso hinterhältig als dumm. Er will die Sache um jeden
-                    Preis, aber er weicht uns aus, lässt sich vom 4 Ausschuss nicht<pb facs="" n=""/>finden, eine
+                    Preis, aber er weicht uns aus, lässt sich vom 4 Ausschuss nicht<pb facs="fac_001" n=""/>finden, eine
                     lächerliche Suche nach ihm wird veranstaltet bis man ihn stellt u. er den
                     bereits gescheiterten Plan beichten muss. Ein Kartenbrief der ihn am 22.1.
                     rechtzeitig zu einer Besprechung einladet trifft ihn „unmittelbar“ vor Abgang
@@ -147,7 +147,8 @@
                     Einer abermaligen dringenden Aufforderung setzt er eine Conferenz mit den
                     Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu
                         <persName>Chiari</persName> u. expectorire mich; er telegrafirt, dass es
-                    unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4. </pb>
+                    unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4.</p>
+                <pb/>
                 <p>Endlich kommt die Stunde der Beichte. Sie wird von
                         <persName>Derschatta</persName> im Stande des unterdrückten u. schlecht
                     verhehlten Zornes abgelegt. Sie folgt hier nach den unmittelbar während der
@@ -159,7 +160,8 @@
                 <pb/>
             </div>
             <div>
-                <p><add>Diarium<p/> der Verhandlungen des Herrn von Derschatta mit Gautsch,
+                <p><add>Diarium</add></p>
+                <p><add> der Verhandlungen des Herrn von Derschatta mit Gautsch,
                         aufgenommen in der Sitzung des 4 Ausschusses vom 25.1.1906.</add></p>
                 <!-- an der Stelle eine lange Einfügung durch eingeklebtes Blatt, diese Einfügung ist aber selbst wiederum mit Absätzen strukturiert, aber das offenbar nicht zugelassen ... wie damit umgehen? -->
                 <p><date>Freitag den 12.1.1906</date> Telegrafische Einladung von
