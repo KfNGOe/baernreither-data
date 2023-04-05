@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -54,7 +57,7 @@
                 <!-- andere Sprachen? -->
             </langUsage>
             <textClass>
-                <classCode scheme="">Tagebuch</classCode>
+                <classCode scheme="xxxx">Tagebuch</classCode>
                 <!-- wo findet man die URLs der DTA-Hauptklassifikation -->
             </textClass>
         </profileDesc>
@@ -62,6 +65,7 @@
     </teiHeader>
     <text>
         <body>
+            <pb n="4"/>
             <div>
                 <head>Die Wahlreform</head>
             </div>
@@ -72,7 +76,7 @@
                 <p>Die drei ersten Monate des Jahres 1906 bieten politisch ein geradezu widerliches
                     Bild. Eine Regierung, die aus Gründen, die nicht zu ergründen sind, einem
                     Schlagworte politische Geltung verschaffen will, ohne sich über die großen
-                    Zusammenhänge staatlicher Wirkungen und Gegenwirkungen Rechenschaft geben zu
+                    Zusammenhänge staatlicher Wirkungen<pb n="5"/><!-- RH: warum nicht ausgezeichnet -->und Gegenwirkungen Rechenschaft geben zu
                     wollen – politische Parteien, die zerfaren u. unaufrichtig diesem Plan der
                     Regierung ohne Halt, ohne Ideen u. ohne Willen entgegenstehen – die
                     Socialdemokraten, die alles an Terrorismus u. Einschüchterung leisten, um eine
@@ -89,14 +93,14 @@
                         zur Rede stellte, sagte mir: „Was wollen Sie, die Deutschen in Österreich
                         sind so zermürbt, dass sie an einen planmäßigen Widerstand gar nicht
                         denken.“</note></p>
-                <p> Ich will hier nicht die schmutzigen Peripetien dieses Processes schildern,
+                <p>Ich will hier nicht die schmutzigen Peripetien dieses Processes schildern,
                     sondern nur Streiflichter fixieren, von denen ein falsches in die Öffentlichkeit
                     gedrungen ist.</p>
                 <p>Zuerst die <persName key="PacakBedrich" ref="1024898318" xml:id="tb_002"
                         >Pacák</persName>-<persName>Derschatta</persName> Frage.</p>
                 <p>Der Eintritt dieser beiden Herren in das <orgName>M[inisterium]</orgName> von der
                     Regierung – wenn man den kleinlich beschränkten Kreis ihrer Mittel überhaupt
-                    ernst nimmt – ein begreiflicher Versuch!<note>Mit Bleistift stenographisch
+                    ernst nimmt – ein begreiflicher Versuch!<note><!-- RH warum hier verweis auf die Fragmente = druckfassung? -->Mit Bleistift stenographisch
                         ergänzt, in Manuskript „Fragmente“ wiedergegeben: Zunächst hatte in unserem
                         Klub die engherzige Auffassung der Lage Oberwasser.
                             <persName>Stürgkh</persName>, vollkommen intransigent und borniert, jene
@@ -119,7 +123,7 @@
                         die Wahlreform sichern, hatte die Absicht, <persName>Prade</persName> und
                             <persName>Pacák</persName> zu Landsmannministern zu machen und
                             <persName>Derschatta</persName> zum Eisenbahnminister. Sie sollte ihm
-                        als</note><pb/>Vorspann für die Wahlreform. Aber ja keine Fühlung,
+                        als</note><pb n="6"/>Vorspann für die Wahlreform. Aber ja keine Fühlung,
                     Verständigung mit den Parteien. Nicht der leiseste Versuch einer wirklichen
                     Raillirung, sondern clandestine Benützung des persönlichen Ergeizes u.
                     persönlicher Verhältnisse. Hat man die beiden Obmänner der grossen čech. u.
@@ -138,7 +142,7 @@
                     sorgfältig verzapft werden.</p>
 
                 <p>Derschatta benimmt sich ebenso hinterhältig als dumm. Er will die Sache um jeden
-                    Preis, aber er weicht uns aus, lässt sich vom 4 Ausschuss nicht<pb facs="fac_001" n=""/>finden, eine
+                    Preis, aber er weicht uns aus, lässt sich vom 4 Ausschuss nicht<pb facs="fac_001" n="7"/>finden, eine
                     lächerliche Suche nach ihm wird veranstaltet bis man ihn stellt u. er den
                     bereits gescheiterten Plan beichten muss. Ein Kartenbrief der ihn am 22.1.
                     rechtzeitig zu einer Besprechung einladet trifft ihn „unmittelbar“ vor Abgang
@@ -148,7 +152,7 @@
                     Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu
                         <persName>Chiari</persName> u. expectorire mich; er telegrafirt, dass es
                     unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4.</p>
-                <pb/>
+                <pb/><!-- RH: warum hier pb? -->
                 <p>Endlich kommt die Stunde der Beichte. Sie wird von
                         <persName>Derschatta</persName> im Stande des unterdrückten u. schlecht
                     verhehlten Zornes abgelegt. Sie folgt hier nach den unmittelbar während der
@@ -157,28 +161,18 @@
                     alte Schacher um die alten Postulate, der Versuch eine „Situation“ zu schaffen
                     ohne politischen Boden. Das Ganze ein jämmerliches Beispiel für das Niveau
                     unserer Politik u. unserer Politiker.</p>
-                <pb/>
-            </div>
-            <div>
-                <p><add>Diarium</add></p>
-                <p><add> der Verhandlungen des Herrn von Derschatta mit Gautsch,
-                        aufgenommen in der Sitzung des 4 Ausschusses vom 25.1.1906.</add></p>
-                <!-- an der Stelle eine lange Einfügung durch eingeklebtes Blatt, diese Einfügung ist aber selbst wiederum mit Absätzen strukturiert, aber das offenbar nicht zugelassen ... wie damit umgehen? -->
-                <p><date>Freitag den 12.1.1906</date> Telegrafische Einladung von
-                        <persName>Gautsch</persName> zu einer Besprechung.</p>
-                <p><date>Samstag den 13. Vormittag</date> bei <persName>Gautsch</persName>.
-                    Mitteilung der Wahlordnung unter Ehrenwort. 205 deutsche Mandate bei einer
-                    Vermehrung der Gesamtzahl. Auf die Ziffern für <placeName>Galizien</placeName>
-                    wurde nicht eingegangen. Allgemeine politische Erörterungen über die Wahlreform
-                    die er machen will, Schwierigkeiten und Erörterungen über die Parteien, die
-                    geneigt sind.</p>
-                <p><date>Sonntag den 14., 11 Uhr Vorm.</date> abermalige Conferenz bei
-                        <persName>Gautsch</persName> mit <persName>Chiari</persName>. Dieselben
+                <pb n="8"/><!-- RH: pb falsch gesetzt -->
+                <addSpan spanTo="#"/>
+                <p>Diarium </p>
+                <p>der Verhandlungen des Herrn von Derschatta mit Gautsch, aufgenommen in der Sitzung des 4 Ausschusses vom 25.1.1906.</p><!-- an der Stelle eine lange Einfügung durch eingeklebtes Blatt, diese Einfügung ist aber selbst wiederum mit Absätzen strukturiert, aber das offenbar nicht zugelassen ... wie damit umgehen? -->
+                <p><date>Freitag den 12.1.1906</date> Telegrafische Einladung von <persName>Gautsch</persName> zu einer Besprechung.</p>
+                <p><date>Samstag den 13. Vormittag</date> bei <persName>Gautsch</persName>. Mitteilung der Wahlordnung unter Ehrenwort. 205 deutsche Mandate bei einer Vermehrung der Gesamtzahl. Auf die Ziffern für <placeName>Galizien</placeName> wurde nicht eingegangen. Allgemeine politische Erörterungen über die Wahlreform die er machen will, Schwierigkeiten und Erörterungen über die Parteien, die geneigt sind.</p>
+                <p><date>Sonntag den 14., 11 Uhr Vorm.</date> abermalige Conferenz bei <persName>Gautsch</persName> mit <persName>Chiari</persName>. Dieselben
                     Erörterungen. <persName>Gautsch</persName> spricht den Gedanken aus: ob es nicht
                     möglich wäre dass von Seite der Czechen und Deutschen je eine Persönlichkeit ins
                     Ministerium treten könnte. Er stelle sich vor, dass es auf diese Weise leichter
                     sein werde bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und
-                    <pb/>dass dann auch größere Aussicht vorhanden wäre die Verhandlungen über die
+                    <pb n="9"/>dass dann auch größere Aussicht vorhanden wäre die Verhandlungen über die
                     Wahlreform vor den grössten Gefaren zu schützen.</p>
                 <p><persName>Derschatta</persName> u. <add place="across"
                     >Chiari</add><!-- hier ist in der Worddatei eine FN, in der steht, dass man das korrigiert aus Prade ist, kann soll man das hier auch in einer FN wiedergeben oder gibt es die Möglichkeit, das mit dem add Element und entsprechendem attribut zu erledigen oder ist das umgekehrt eine Tilgung durch Überschreibung? -->
@@ -201,7 +195,7 @@
                         <placeName>Meran</placeName>. Er ist der Meinung die Sache weiter zu
                     verfolgen. <persName>Prade</persName> spricht am Abend allein mit
                         <persName>Gautsch</persName>.</p>
-                <pb/>
+                <pb n="10"/>
                 <p><date>Freitag den 19.1. nichts.</date></p>
                 <p><date>Samstag den 20.1. Nachmittag 3 Uhr</date> Besprechung bei
                         <persName>Gautsch</persName>: <persName>Derschatta</persName>,
@@ -221,7 +215,7 @@
                     der Tagesordnung abgesetzt. 2) Verordnung, welche bestimmen soll dass in
                         <placeName>Böhmen</placeName> bei den Staats- u. Landesanstellungen die
                     Nationalitäten wie 2:3 berücksichtigt werden sollen.
-                    <persName>Pacák</persName><pb/>stellt fest dass dies eine neue Norm sei,
+                    <persName>Pacák</persName><pb n="11"/>stellt fest dass dies eine neue Norm sei,
                         <add>stimmt aber zu</add> dass sie, wenn die Combination gelingt,
                     hinausgegeben werde. 3) Amtssprache via facti wurde lange discutirt. Frage wurde
                     vertagt, da <persName>Pacák</persName> sich ohne <persName>Kramář</persName>
@@ -256,6 +250,7 @@
                     <persName>Dr. v. Derschatta</persName> um ½ 11 Uhr bei
                         <persName>Gautsch</persName>, der die Combination als aufgegeben
                     erklärt.<!-- bis hier ginge die Einklebung! --></p>
+                <anchor xml:id="xxxx"/>
             </div>
         </body>
     </text>
