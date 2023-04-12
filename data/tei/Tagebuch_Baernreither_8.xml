@@ -1,114 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Die Tagebücher von Joseph Maria Baernreither</title>
-                <title type="volume">Tagebuch 8 (1905–1909)</title>
-                <author><persName ref="https://d-nb.info/gnd/118505858"><forename>Joseph
-                            Maria</forename>
-                        <surname>Baernreither</surname></persName></author>
-                <editor><persName ref="https://d-nb.info/gnd/131898248"
-                            ><forename>Doris</forename><surname>Corradini</surname></persName></editor>
-                <respStmt>
-                    <resp/>
-                    <orgName>Kommission für Neuere Geschichte Österreichs</orgName>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>Digitale Edition von Tagebüchern und Lebenserinnerungen</edition>
-            </editionStmt>
-            <extent><measure>[Seitenzahl]</measure></extent>
-            <publicationStmt>
-                <publisher><orgName>Kommission für Neuere Geschichte Österreichs</orgName>
-                    <address><addrLine>c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine></address>
-                </publisher>
-                <pubPlace>Wien</pubPlace>
-                <date/>
-                <availability>
-                    <p/>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>Österreichisches Staatsarchiv</repository>
-                        <idno>Signatur</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <typeDesc>
-                            <p>Kurrent und Gabelsberger Kurzschrift</p>
-                        </typeDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <editorialDecl>
-                <p>[Angaben zu den Transkriptionsrichtlinien]</p>
-                <p>[sonstige Angaben zur Transkription]</p>
-            </editorialDecl>
-        </encodingDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="deu">Deutsch</language>
-                <!-- andere Sprachen? -->
-            </langUsage>
-            <textClass>
-                <classCode scheme="xxxx">Tagebuch</classCode>
-                <!-- wo findet man die URLs der DTA-Hauptklassifikation -->
-            </textClass>
-        </profileDesc>
-
-    </teiHeader>
-    <text>
-        <body>
-            <pb n="4"/>
-            <div>
-                <head>Die Wahlreform</head>
-            </div>
-            <div>
-                <p/>
-                <p>[<placeName key="lunz" ref="2772186" xml:id="tb_001">Lünz</placeName>, am
-                        <date>13.4.06</date>]</p>
-                <p>Die drei ersten Monate des Jahres 1906 bieten politisch ein geradezu widerliches
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TB8_1">
+  <teiHeader xml:id="TB8_2">
+    <fileDesc xml:id="TB8_3">
+      <titleStmt xml:id="TB8_4">
+        <title xml:id="TB8_5">Die Tagebücher von Joseph Maria Baernreither</title>
+        <title type="volume" xml:id="TB8_6">Tagebuch 8 (1905–1909)</title>
+        <title type="short" xml:id="TB8_7">TB8</title>
+        <author xml:id="TB8_8">
+          <persName ref="https://d-nb.info/gnd/118505858" xml:id="TB8_9">
+            <forename xml:id="TB8_10">Joseph
+                    Maria</forename>
+            <surname xml:id="TB8_11">Baernreither</surname>
+          </persName>
+        </author>
+        <editor xml:id="TB8_12">
+          <persName ref="https://d-nb.info/gnd/131898248" xml:id="TB8_13">
+            <forename xml:id="TB8_14">Doris</forename>
+            <surname xml:id="TB8_15">Corradini</surname>
+          </persName>
+        </editor>
+        <respStmt xml:id="TB8_16">
+          <resp xml:id="TB8_17"/>
+          <orgName xml:id="TB8_18">Kommission für Neuere Geschichte Österreichs</orgName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt xml:id="TB8_19">
+        <edition xml:id="TB8_20">Digitale Edition von Tagebüchern und Lebenserinnerungen</edition>
+      </editionStmt>
+      <extent xml:id="TB8_21">
+        <measure xml:id="TB8_22">[Seitenzahl]</measure>
+      </extent>
+      <publicationStmt xml:id="TB8_23">
+        <publisher xml:id="TB8_24">
+          <orgName xml:id="TB8_25">Kommission für Neuere Geschichte Österreichs</orgName>
+          <address xml:id="TB8_26">
+            <addrLine xml:id="TB8_27">c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
+          </address>
+        </publisher>
+        <pubPlace xml:id="TB8_28">Wien</pubPlace>
+        <date xml:id="TB8_29"/>
+        <availability xml:id="TB8_30">
+          <p xml:id="TB8_31"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc xml:id="TB8_32">
+        <msDesc xml:id="TB8_33">
+          <msIdentifier xml:id="TB8_34">
+            <repository xml:id="TB8_35">Österreichisches Staatsarchiv</repository>
+            <idno xml:id="TB8_36">Signatur</idno>
+          </msIdentifier>
+          <physDesc xml:id="TB8_37">
+            <typeDesc xml:id="TB8_38">
+              <p xml:id="TB8_39">Kurrent und Gabelsberger Kurzschrift</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="TB8_40">
+      <editorialDecl xml:id="TB8_41">
+        <p xml:id="TB8_42">[Angaben zu den Transkriptionsrichtlinien]</p>
+        <p xml:id="TB8_43">[sonstige Angaben zur Transkription]</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc xml:id="TB8_44">
+      <langUsage xml:id="TB8_45">
+        <language ident="deu" xml:id="TB8_46">Deutsch</language>
+        <!-- andere Sprachen? -->
+      </langUsage>
+      <textClass xml:id="TB8_47">
+        <classCode scheme="xxxx" xml:id="TB8_48">Tagebuch</classCode>
+        <!-- wo findet man die URLs der DTA-Hauptklassifikation -->
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text xml:id="TB8_49">
+    <body xml:id="TB8_50">
+      <pb n="4" xml:id="TB8_51"/>
+      <div xml:id="TB8_52">
+        <head xml:id="TB8_53">Die Wahlreform</head>
+      </div>
+      <div xml:id="TB8_54">
+        <p xml:id="TB8_55"/>
+        <p xml:id="TB8_56">[
+          <placeName key="lunz" ref="2772186" xml:id="TB8_57">Lünz</placeName>, am
+                    
+          <date xml:id="TB8_58">13.4.06</date>]
+        </p>
+        <p xml:id="TB8_59">Die drei ersten Monate des Jahres 1906 bieten politisch ein geradezu widerliches
                     Bild. Eine Regierung, die aus Gründen, die nicht zu ergründen sind, einem
                     Schlagworte politische Geltung verschaffen will, ohne sich über die großen
-                    Zusammenhänge staatlicher Wirkungen<pb n="5"/><!-- RH: warum nicht ausgezeichnet -->und Gegenwirkungen Rechenschaft geben zu
+                    Zusammenhänge staatlicher Wirkungen
+          <pb n="5" xml:id="TB8_60"/>
+          <!-- RH: warum nicht ausgezeichnet -->und Gegenwirkungen Rechenschaft geben zu
                     wollen – politische Parteien, die zerfaren u. unaufrichtig diesem Plan der
                     Regierung ohne Halt, ohne Ideen u. ohne Willen entgegenstehen – die
                     Socialdemokraten, die alles an Terrorismus u. Einschüchterung leisten, um eine
                     Beute, die ihnen unerwartet winkt, in Sicherheit zu bringen – eine Presse die
                     ebenso feig wie falsch gegen ihre Überzeugung zu gleicher Zeit für und gegen die
-                    Wahlreform schreibt – endlich die Abgeordneten persönlich, jeder nur an <hi
-                        rendition="#u">seinen</hi> zukünftigen Wahlbezirk denkend, käuflich durch
+                    Wahlreform schreibt – endlich die Abgeordneten persönlich, jeder nur an 
+          <hi rendition="#u" xml:id="TB8_61">seinen</hi> zukünftigen Wahlbezirk denkend, käuflich durch
                     die Wahlkreiseinteilung – das ist der Sumpf, in dem wir seit Beginn dieses
                     Jahres stecken. Es ist nicht nur ein Niedergang jeder politischen Führung eines
                     Staates, ein Niedergang jeder politischen Moral im Abg.Hause, sondern eine
                     Verwirrung und Verknotung unserer Verhältnisse, die jeden halbwegs vernünftigen
-                    Ausweg zu versperren droht.<note>Mit Bleistift stenographisch ergänzt, in
+                    Ausweg zu versperren droht.
+          <note xml:id="TB8_62">Mit Bleistift stenographisch ergänzt, in
                         Manuskript „Fragmente“ wiedergegeben: Prade, den ich in dieser Zeit einmal
                         zur Rede stellte, sagte mir: „Was wollen Sie, die Deutschen in Österreich
                         sind so zermürbt, dass sie an einen planmäßigen Widerstand gar nicht
-                        denken.“</note></p>
-                <p>Ich will hier nicht die schmutzigen Peripetien dieses Processes schildern,
+                        denken.“</note>
+        </p>
+        <p xml:id="TB8_63">Ich will hier nicht die schmutzigen Peripetien dieses Processes schildern,
                     sondern nur Streiflichter fixieren, von denen ein falsches in die Öffentlichkeit
                     gedrungen ist.</p>
-                <p>Zuerst die <persName key="PacakBedrich" ref="1024898318" xml:id="tb_002"
-                        >Pacák</persName>-<persName>Derschatta</persName> Frage.</p>
-                <p>Der Eintritt dieser beiden Herren in das <orgName>M[inisterium]</orgName> von der
+        <p xml:id="TB8_64">Zuerst die 
+          <persName key="PacakBedrich" ref="1024898318" xml:id="TB8_65">Pacák</persName>-
+          <persName xml:id="TB8_66">Derschatta</persName> Frage.
+        </p>
+        <p xml:id="TB8_67">Der Eintritt dieser beiden Herren in das 
+          <orgName xml:id="TB8_68">M[inisterium]</orgName> von der
                     Regierung – wenn man den kleinlich beschränkten Kreis ihrer Mittel überhaupt
-                    ernst nimmt – ein begreiflicher Versuch!<note><!-- RH warum hier verweis auf die Fragmente = druckfassung? -->Mit Bleistift stenographisch
+                    ernst nimmt – ein begreiflicher Versuch!
+          <note xml:id="TB8_69">
+            <!-- RH warum hier verweis auf die Fragmente = druckfassung? -->Mit Bleistift stenographisch
                         ergänzt, in Manuskript „Fragmente“ wiedergegeben: Zunächst hatte in unserem
                         Klub die engherzige Auffassung der Lage Oberwasser.
-                            <persName>Stürgkh</persName>, vollkommen intransigent und borniert, jene
+                        
+            <persName xml:id="TB8_70">Stürgkh</persName>, vollkommen intransigent und borniert, jene
                         Herren bei uns, die am wenigsten parlamentarisch gearbeitet hatten, am
                         meisten schreiend, unmöglich einen Gegenplan zur Verhandlung, geschweige
                         denn zur Annahme zu bringen. Persönlich behielt ich enge Fühlung mit jenem
                         Teil der deutschen Abgeordneten, die nicht ganz den Kopf verloren hatten,
-                        besonders mit dem allezeit grundehrlichen <persName>Pergelt</persName>, mit
+                        besonders mit dem allezeit grundehrlichen 
+            <persName xml:id="TB8_71">Pergelt</persName>, mit
                         dem ich die Chancen der Deutschböhmen bei der zu erwartenden Wahlreform
                         durcharbeitete. Er versammelte bei sich eine Anzahl von deutsch-böhmischen
                         Abgeordneten, meines Wissens die Einzigen, welche wenigsten von dem
@@ -117,141 +144,254 @@
                         machten. Meine Bemühungen und Anregungen, um ein deutsches Gesamtelaborat
                         für alle Kronländer zustande zu bringen, scheiterten an der Zersplitterung
                         der einzelnen Interessen, an der Eifersucht der Parteien, die die Regierung
-                        klug zu benützen verstand.<p/>Charakteristisch war der Versuch
-                            <persName>Gautschs</persName>, eine teilweise Parlamentarisierung der
+                        klug zu benützen verstand.
+            <p xml:id="TB8_72"/>Charakteristisch war der Versuch
+                        
+            <persName xml:id="TB8_73">Gautschs</persName>, eine teilweise Parlamentarisierung der
                         Regierung zustande zu bringen. Dies spielte im Jänner 1906. Er wollte damit
-                        die Wahlreform sichern, hatte die Absicht, <persName>Prade</persName> und
-                            <persName>Pacák</persName> zu Landsmannministern zu machen und
-                            <persName>Derschatta</persName> zum Eisenbahnminister. Sie sollte ihm
-                        als</note><pb n="6"/>Vorspann für die Wahlreform. Aber ja keine Fühlung,
+                        die Wahlreform sichern, hatte die Absicht, 
+            <persName xml:id="TB8_74">Prade</persName> und
+                        
+            <persName xml:id="TB8_75">Pacák</persName> zu Landsmannministern zu machen und
+                        
+            <persName xml:id="TB8_76">Derschatta</persName> zum Eisenbahnminister. Sie sollte ihm
+                        als
+          </note>
+          <pb n="6" xml:id="TB8_77"/>Vorspann für die Wahlreform. Aber ja keine Fühlung,
                     Verständigung mit den Parteien. Nicht der leiseste Versuch einer wirklichen
                     Raillirung, sondern clandestine Benützung des persönlichen Ergeizes u.
                     persönlicher Verhältnisse. Hat man die beiden Obmänner der grossen čech. u.
                     deutschen Parteien gefangen, dann kann man mittelst ihrer Beziehungen u.
-                    Ambitionen diese Parteien beeinflussen, <del rendition="#s">eventuell
-                    sprengen</del><!-- hier im Word eine Streichung, ist das so richtig ausgezeichnet? -->,
+                    Ambitionen diese Parteien beeinflussen, 
+          <del rendition="#s" xml:id="TB8_78">eventuell
+                        sprengen</del>
+          <!-- hier im Word eine Streichung, ist das so richtig ausgezeichnet? -->,
                     bereden, die Widerstrebenden an die Wand drücken. Beileibe also nicht Ideen,
                     polit. klare Ziele, sondern einfach das Einfangen der wilden Elefanten d[urc]h
-                    die gezämten.</p>
-                <p>Es misslingt. Es wird von dem Plan zuviel den Zeitungen mitgeteilt, die sofort
+                    die gezämten.
+        </p>
+        <p xml:id="TB8_79">Es misslingt. Es wird von dem Plan zuviel den Zeitungen mitgeteilt, die sofort
                     ihr doppeltes Spiel spielen, loben u. tadeln zugleich, die ganze Aufmerksamkeit
                     auf die Vorgänge, welche zur „Parlamentarisierung“ führen sollen lenken u.
-                    zugleicherzeit contra geben, gegen die Sache hetzen. Die <orgName>N[eue] fr[eie]
+                    zugleicherzeit contra geben, gegen die Sache hetzen. Die 
+          <orgName xml:id="TB8_80">N[eue] fr[eie]
                         Presse</orgName> voran. Ihre Unterredakteure laufen herum bei den
                     Abgeordneten, die Gegner der Sache sind u. sammeln Gift und Galle, die dann
-                    sorgfältig verzapft werden.</p>
-
-                <p>Derschatta benimmt sich ebenso hinterhältig als dumm. Er will die Sache um jeden
-                    Preis, aber er weicht uns aus, lässt sich vom 4 Ausschuss nicht<pb facs="fac_001" n="7"/>finden, eine
+                    sorgfältig verzapft werden.
+        </p>
+        <p xml:id="TB8_81">Derschatta benimmt sich ebenso hinterhältig als dumm. Er will die Sache um jeden
+                    Preis, aber er weicht uns aus, lässt sich vom 4 Ausschuss nicht
+          <pb facs="fac_001" n="7" xml:id="TB8_82"/>finden, eine
                     lächerliche Suche nach ihm wird veranstaltet bis man ihn stellt u. er den
                     bereits gescheiterten Plan beichten muss. Ein Kartenbrief der ihn am 22.1.
                     rechtzeitig zu einer Besprechung einladet trifft ihn „unmittelbar“ vor Abgang
-                    des letzten Zuges nach <placeName>Graz</placeName>: Telegramm N. 1. Durch
+                    des letzten Zuges nach 
+          <placeName xml:id="TB8_83">Graz</placeName>: Telegramm N. 1. Durch
                     wichtige Kanzleigeschäfte ist er bis Freitag „festgenagelt“: Telegramm N. 2.
                     Einer abermaligen dringenden Aufforderung setzt er eine Conferenz mit den
                     Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu
-                        <persName>Chiari</persName> u. expectorire mich; er telegrafirt, dass es
-                    unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4.</p>
-                <pb/><!-- RH: warum hier pb? -->
-                <p>Endlich kommt die Stunde der Beichte. Sie wird von
-                        <persName>Derschatta</persName> im Stande des unterdrückten u. schlecht
+                    
+          <persName xml:id="TB8_84">Chiari</persName> u. expectorire mich; er telegrafirt, dass es
+                    unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4.
+        </p>
+        <pb xml:id="TB8_85"/>
+        <!-- RH: warum hier pb? -->
+        <p xml:id="TB8_86">Endlich kommt die Stunde der Beichte. Sie wird von
+                    
+          <persName xml:id="TB8_87">Derschatta</persName> im Stande des unterdrückten u. schlecht
                     verhehlten Zornes abgelegt. Sie folgt hier nach den unmittelbar während der
-                    Erzählung <persName>Derschatta‘s</persName> gemachten Aufzeichnungen. Nicht ein
+                    Erzählung 
+          <persName xml:id="TB8_88">Derschatta‘s</persName> gemachten Aufzeichnungen. Nicht ein
                     politischer Gedanke in den ganzen Verhandlungen, nicht ein Plan, sondern der
                     alte Schacher um die alten Postulate, der Versuch eine „Situation“ zu schaffen
                     ohne politischen Boden. Das Ganze ein jämmerliches Beispiel für das Niveau
-                    unserer Politik u. unserer Politiker.</p>
-                <pb n="8"/><!-- RH: pb falsch gesetzt -->
-                <addSpan spanTo="#"/>
-                <p>Diarium </p>
-                <p>der Verhandlungen des Herrn von Derschatta mit Gautsch, aufgenommen in der Sitzung des 4 Ausschusses vom 25.1.1906.</p><!-- an der Stelle eine lange Einfügung durch eingeklebtes Blatt, diese Einfügung ist aber selbst wiederum mit Absätzen strukturiert, aber das offenbar nicht zugelassen ... wie damit umgehen? -->
-                <p><date>Freitag den 12.1.1906</date> Telegrafische Einladung von <persName>Gautsch</persName> zu einer Besprechung.</p>
-                <p><date>Samstag den 13. Vormittag</date> bei <persName>Gautsch</persName>. Mitteilung der Wahlordnung unter Ehrenwort. 205 deutsche Mandate bei einer Vermehrung der Gesamtzahl. Auf die Ziffern für <placeName>Galizien</placeName> wurde nicht eingegangen. Allgemeine politische Erörterungen über die Wahlreform die er machen will, Schwierigkeiten und Erörterungen über die Parteien, die geneigt sind.</p>
-                <p><date>Sonntag den 14., 11 Uhr Vorm.</date> abermalige Conferenz bei <persName>Gautsch</persName> mit <persName>Chiari</persName>. Dieselben
-                    Erörterungen. <persName>Gautsch</persName> spricht den Gedanken aus: ob es nicht
+                    unserer Politik u. unserer Politiker.
+        </p>
+        <pb n="8" xml:id="TB8_89"/>
+        <!-- RH: pb falsch gesetzt -->
+        <addSpan spanTo="#TB8_183" xml:id="TB8_90"/>
+        <p xml:id="TB8_91">Diarium </p>
+        <p xml:id="TB8_92">der Verhandlungen des Herrn von Derschatta mit Gautsch, aufgenommen in der Sitzung des 4 Ausschusses vom 25.1.1906.</p>
+        <!-- an der Stelle eine lange Einfügung durch eingeklebtes Blatt, diese Einfügung ist aber selbst wiederum mit Absätzen strukturiert, aber das offenbar nicht zugelassen ... wie damit umgehen? -->
+        <p xml:id="TB8_93">
+          <date xml:id="TB8_94">Freitag den 12.1.1906</date> Telegrafische Einladung von 
+          <persName xml:id="TB8_95">Gautsch</persName> zu einer Besprechung.
+        </p>
+        <p xml:id="TB8_96">
+          <date xml:id="TB8_97">Samstag den 13. Vormittag</date> bei 
+          <persName xml:id="TB8_98">Gautsch</persName>. Mitteilung der Wahlordnung unter Ehrenwort. 205 deutsche Mandate bei einer Vermehrung der Gesamtzahl. Auf die Ziffern für 
+          <placeName xml:id="TB8_99">Galizien</placeName> wurde nicht eingegangen. Allgemeine politische Erörterungen über die Wahlreform die er machen will, Schwierigkeiten und Erörterungen über die Parteien, die geneigt sind.
+        </p>
+        <p xml:id="TB8_100">
+          <date xml:id="TB8_101">Sonntag den 14., 11 Uhr Vorm.</date> abermalige Conferenz bei 
+          <persName xml:id="TB8_102">Gautsch</persName> mit 
+          <persName xml:id="TB8_103">Chiari</persName>. Dieselben
+                    Erörterungen. 
+          <persName xml:id="TB8_104">Gautsch</persName> spricht den Gedanken aus: ob es nicht
                     möglich wäre dass von Seite der Czechen und Deutschen je eine Persönlichkeit ins
                     Ministerium treten könnte. Er stelle sich vor, dass es auf diese Weise leichter
                     sein werde bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und
-                    <pb n="9"/>dass dann auch größere Aussicht vorhanden wäre die Verhandlungen über die
-                    Wahlreform vor den grössten Gefaren zu schützen.</p>
-                <p><persName>Derschatta</persName> u. <add place="across"
-                    >Chiari</add><!-- hier ist in der Worddatei eine FN, in der steht, dass man das korrigiert aus Prade ist, kann soll man das hier auch in einer FN wiedergeben oder gibt es die Möglichkeit, das mit dem add Element und entsprechendem attribut zu erledigen oder ist das umgekehrt eine Tilgung durch Überschreibung? -->
+                    
+          <pb n="9" xml:id="TB8_105"/>dass dann auch größere Aussicht vorhanden wäre die Verhandlungen über die
+                    Wahlreform vor den grössten Gefaren zu schützen.
+        </p>
+        <p xml:id="TB8_106">
+          <persName xml:id="TB8_107">Derschatta</persName> u. 
+          <add place="across" xml:id="TB8_108">Chiari</add>
+          <!-- hier ist in der Worddatei eine FN, in der steht, dass man das korrigiert aus Prade ist, kann soll man das hier auch in einer FN wiedergeben oder gibt es die Möglichkeit, das mit dem add Element und entsprechendem attribut zu erledigen oder ist das umgekehrt eine Tilgung durch Überschreibung? -->
                     erwidern: 1) es ist ausgeschlossen, dass durch so einen Eintritt die deutsche
-                    Volkspartei gebunden werden kann 2) <persName>Derschatta</persName> tut allein
-                    nicht mit, es muss ein Deutschböhme dabei sein: <persName>Prade</persName>.
-                        <persName>Gautsch</persName> erwidert, er denke nicht daran die Partei
-                    dadurch zu binden, bittet aber die Sache geheim zu halten.</p>
-                <p><date>Montag den 15.1.</date>Erste Notiz im <orgName>Prager
-                        Tagblatt</orgName> (Abendblatt)!<note>Prager Tagblatt vom 16. Jänner
-                        1906</note><!-- hier wäre ein Link zu ANNO - wie soll das augezeichnet werden? -->
-                    Conferenz <persName>Derschatta’s</persName> mit einer andern <add>nicht
-                        genannten</add> Persönlichkeit über die <add place="across"
-                    >Fragen</add><!-- hier dieselbe Problematik wie oben --> ob man nicht die
-                    Wahlreform einverständlich verhindern könne.</p>
-                <p><date>Dienstag 16.1.</date>Telegramm <persName>Prade’s</persName> läuft
-                    ein, dass er von <placeName>Meran</placeName> kommt.</p>
-                <p><date>Mittwoch 17.1. nichts.</date></p>
-                <p><date>Donnerstag 18.1.</date> Ankunft <persName>Prade’s</persName> von
-                        <placeName>Meran</placeName>. Er ist der Meinung die Sache weiter zu
-                    verfolgen. <persName>Prade</persName> spricht am Abend allein mit
-                        <persName>Gautsch</persName>.</p>
-                <pb n="10"/>
-                <p><date>Freitag den 19.1. nichts.</date></p>
-                <p><date>Samstag den 20.1. Nachmittag 3 Uhr</date> Besprechung bei
-                        <persName>Gautsch</persName>: <persName>Derschatta</persName>,
-                        <persName>Chiari</persName>, <persName>Prade</persName>,
-                        <persName>Pacák</persName>.</p>
-                <p>Es wird mit der Wahlreform angefangen. <persName>Gautsch</persName> verlangt
+                    Volkspartei gebunden werden kann 2) 
+          <persName xml:id="TB8_109">Derschatta</persName> tut allein
+                    nicht mit, es muss ein Deutschböhme dabei sein: 
+          <persName xml:id="TB8_110">Prade</persName>.
+                    
+          <persName xml:id="TB8_111">Gautsch</persName> erwidert, er denke nicht daran die Partei
+                    dadurch zu binden, bittet aber die Sache geheim zu halten.
+        </p>
+        <p xml:id="TB8_112">
+          <date xml:id="TB8_113">Montag den 15.1.</date>Erste Notiz im 
+          <orgName xml:id="TB8_114">Prager
+                    Tagblatt</orgName> (Abendblatt)!
+          <note xml:id="TB8_115">Prager Tagblatt vom 16. Jänner
+                        1906</note>
+          <!-- hier wäre ein Link zu ANNO - wie soll das augezeichnet werden? -->
+                    Conferenz 
+          <persName xml:id="TB8_116">Derschatta’s</persName> mit einer andern 
+          <add xml:id="TB8_117">nicht
+                        genannten</add> Persönlichkeit über die 
+          <add place="across" xml:id="TB8_118">Fragen</add>
+          <!-- hier dieselbe Problematik wie oben --> ob man nicht die
+                    Wahlreform einverständlich verhindern könne.
+        </p>
+        <p xml:id="TB8_119">
+          <date xml:id="TB8_120">Dienstag 16.1.</date>Telegramm 
+          <persName xml:id="TB8_121">Prade’s</persName> läuft
+                    ein, dass er von 
+          <placeName xml:id="TB8_122">Meran</placeName> kommt.
+        </p>
+        <p xml:id="TB8_123">
+          <date xml:id="TB8_124">Mittwoch 17.1. nichts.</date>
+        </p>
+        <p xml:id="TB8_125">
+          <date xml:id="TB8_126">Donnerstag 18.1.</date> Ankunft 
+          <persName xml:id="TB8_127">Prade’s</persName> von
+                    
+          <placeName xml:id="TB8_128">Meran</placeName>. Er ist der Meinung die Sache weiter zu
+                    verfolgen. 
+          <persName xml:id="TB8_129">Prade</persName> spricht am Abend allein mit
+                    
+          <persName xml:id="TB8_130">Gautsch</persName>.
+        </p>
+        <pb n="10" xml:id="TB8_131"/>
+        <p xml:id="TB8_132">
+          <date xml:id="TB8_133">Freitag den 19.1. nichts.</date>
+        </p>
+        <p xml:id="TB8_134">
+          <date xml:id="TB8_135">Samstag den 20.1. Nachmittag 3 Uhr</date> Besprechung bei
+                    
+          <persName xml:id="TB8_136">Gautsch</persName>: 
+          <persName xml:id="TB8_137">Derschatta</persName>,
+                    
+          <persName xml:id="TB8_138">Chiari</persName>, 
+          <persName xml:id="TB8_139">Prade</persName>,
+                    
+          <persName xml:id="TB8_140">Pacák</persName>.
+        </p>
+        <p xml:id="TB8_141">Es wird mit der Wahlreform angefangen. 
+          <persName xml:id="TB8_142">Gautsch</persName> verlangt
                     nicht die Bindung irgend einer Partei, er setzt nur voraus, dass jene Personen,
                     welche eintreten die Pflicht übernehmen die Wahlordnung durchzusetzen. Grundzüge
                     der Wahlreform wurden mitgeteilt u. es haben sich Hindernisse nicht ergeben. Von
-                    Seite der Regierung wurde nun der Wunsch geäussert, dass der <orgName>böhm.
+                    Seite der Regierung wurde nun der Wunsch geäussert, dass der 
+          <orgName xml:id="TB8_143">böhm.
                         Landtag</orgName> die böhm. Wahlreform und das Curiengesetz erledigen solle,
-                    wogegen weder <persName>Pacák</persName> noch <persName>Prade</persName> eine
+                    wogegen weder 
+          <persName xml:id="TB8_144">Pacák</persName> noch 
+          <persName xml:id="TB8_145">Prade</persName> eine
                     Einwendung erhoben. Nun kamen die böhm. „Querelen“ dran. 1) Kreisgericht
-                        <placeName>Trauttenau</placeName>. <persName>Prade</persName> verlangte die
-                    Aktivirung ohne <placeName>Eipel</placeName>, <persName>Pacák</persName> wollte
-                    sie nur mit <placeName>Eipel</placeName> zugestehen. Keine Einigung, wurde von
+                    
+          <placeName xml:id="TB8_146">Trauttenau</placeName>. 
+          <persName xml:id="TB8_147">Prade</persName> verlangte die
+                    Aktivirung ohne 
+          <placeName xml:id="TB8_148">Eipel</placeName>, 
+          <persName xml:id="TB8_149">Pacák</persName> wollte
+                    sie nur mit 
+          <placeName xml:id="TB8_150">Eipel</placeName> zugestehen. Keine Einigung, wurde von
                     der Tagesordnung abgesetzt. 2) Verordnung, welche bestimmen soll dass in
-                        <placeName>Böhmen</placeName> bei den Staats- u. Landesanstellungen die
+                    
+          <placeName xml:id="TB8_151">Böhmen</placeName> bei den Staats- u. Landesanstellungen die
                     Nationalitäten wie 2:3 berücksichtigt werden sollen.
-                    <persName>Pacák</persName><pb n="11"/>stellt fest dass dies eine neue Norm sei,
-                        <add>stimmt aber zu</add> dass sie, wenn die Combination gelingt,
+                    
+          <persName xml:id="TB8_152">Pacák</persName>
+          <pb n="11" xml:id="TB8_153"/>stellt fest dass dies eine neue Norm sei,
+                    
+          <add xml:id="TB8_154">stimmt aber zu</add> dass sie, wenn die Combination gelingt,
                     hinausgegeben werde. 3) Amtssprache via facti wurde lange discutirt. Frage wurde
-                    vertagt, da <persName>Pacák</persName> sich ohne <persName>Kramář</persName>
-                    nicht entscheiden wollte. 4) Universität in <placeName>Mähren</placeName>.
-                        <persName>Pacák</persName> erklärte sofort, dass er es ohne dieselbe nicht
-                    machen könne. 5) Verstaatlichungen der Eisenbahnen. <persName>Prade</persName>
-                    verlangt zwei Direktionen in Deutschböhmen, was <persName>Pacák</persName>
-                    zusagt.</p>
-                <p> Gautsch erklärt, dass er sich die Durchfürung derartig denke, dass 2 Deutsche
-                            <add>(<persName>Derschatta</persName> und
-                        <persName>Prade</persName>)</add> ins Ministerium treten, einer als
+                    vertagt, da 
+          <persName xml:id="TB8_155">Pacák</persName> sich ohne 
+          <persName xml:id="TB8_156">Kramář</persName>
+                    nicht entscheiden wollte. 4) Universität in 
+          <placeName xml:id="TB8_157">Mähren</placeName>.
+                    
+          <persName xml:id="TB8_158">Pacák</persName> erklärte sofort, dass er es ohne dieselbe nicht
+                    machen könne. 5) Verstaatlichungen der Eisenbahnen. 
+          <persName xml:id="TB8_159">Prade</persName>
+                    verlangt zwei Direktionen in Deutschböhmen, was 
+          <persName xml:id="TB8_160">Pacák</persName>
+                    zusagt.
+        </p>
+        <p xml:id="TB8_161"> Gautsch erklärt, dass er sich die Durchfürung derartig denke, dass 2 Deutsche
+                    
+          <add xml:id="TB8_162">(
+            <persName xml:id="TB8_163">Derschatta</persName> und
+                        
+            <persName xml:id="TB8_164">Prade</persName>)
+          </add> ins Ministerium treten, einer als
                     Ressortminister, der andere als Landsmannminister, dagegen ein Czeche
-                            <add>(<persName>Pacák</persName>)</add> als Landsman Minister.
-                        <persName>Pacák</persName> widerspricht u. verlangt für diese Combination
+                    
+          <add xml:id="TB8_165">(
+            <persName xml:id="TB8_166">Pacák</persName>)
+          </add> als Landsman Minister.
+                    
+          <persName xml:id="TB8_167">Pacák</persName> widerspricht u. verlangt für diese Combination
                     auch einen Ressortminister für die Czechen, was die Deutschen als indiscutabel
-                    erklären. </p>
-                <p><date>Sonntag 21.1.</date> Neuerliche Conferenz zwischen denselben
-                    Herren, zu denen <persName>Zaczek</persName> noch dazukommt. Es wurde Alles noch
+                    erklären. 
+        </p>
+        <p xml:id="TB8_168">
+          <date xml:id="TB8_169">Sonntag 21.1.</date> Neuerliche Conferenz zwischen denselben
+                    Herren, zu denen 
+          <persName xml:id="TB8_170">Zaczek</persName> noch dazukommt. Es wurde Alles noch
                     einmal durchgesprochen mit demselben Resultat, wobei
-                        <persName>Derschatta</persName> den Standpunkt vertrat, dass aus diesem
+                    
+          <persName xml:id="TB8_171">Derschatta</persName> den Standpunkt vertrat, dass aus diesem
                     Anlass die böhm. Frage ja nicht |gelöst werden könne. In der Frage der mähr.
-                    Universität offener Dissens. <persName>Zaczek</persName> verlangt wenn nicht
-                        <placeName>Brünn</placeName>, so doch <placeName>Olmütz</placeName>. Lange
+                    Universität offener Dissens. 
+          <persName xml:id="TB8_172">Zaczek</persName> verlangt wenn nicht
+                    
+          <placeName xml:id="TB8_173">Brünn</placeName>, so doch 
+          <placeName xml:id="TB8_174">Olmütz</placeName>. Lange
                     Discussion ohne Erfolg. Die Deutschen resumieren, dass von der Combination nur
                     die Rede sein könne wenn innere Amtssprache u. Universität vollständig
                     ausgeschaltet werden, indem sie das eine wie das andere ablehnen müssen. Damit
                     waren die gemeinsamen Conferenzen beendet. Dr. v.
-                        <persName>Derschatta</persName> reiste noch Sonntag Abend nach
-                        <placeName>Graz</placeName>. <persName>Prade</persName> am Montag nach
-                        <placeName>Reichenberg</placeName>. --- </p>
-                <p><date>Donnerstag den 25.</date>
-                    <persName>Dr. v. Derschatta</persName> um ½ 11 Uhr bei
-                        <persName>Gautsch</persName>, der die Combination als aufgegeben
-                    erklärt.<!-- bis hier ginge die Einklebung! --></p>
-                <anchor xml:id="xxxx"/>
-            </div>
-        </body>
-    </text>
+                    
+          <persName xml:id="TB8_175">Derschatta</persName> reiste noch Sonntag Abend nach
+                    
+          <placeName xml:id="TB8_176">Graz</placeName>. 
+          <persName xml:id="TB8_177">Prade</persName> am Montag nach
+                    
+          <placeName xml:id="TB8_178">Reichenberg</placeName>. --- 
+        </p>
+        <p xml:id="TB8_179">
+          <date xml:id="TB8_180">Donnerstag den 25.</date>
+          <persName xml:id="TB8_181">Dr. v. Derschatta</persName> um ½ 11 Uhr bei
+                    
+          <persName xml:id="TB8_182">Gautsch</persName>, der die Combination als aufgegeben
+                    erklärt.
+          <!-- bis hier ginge die Einklebung! -->
+        </p>
+        <anchor xml:id="TB8_183"/>
+      </div>
+    </body>
+  </text>
 </TEI>
