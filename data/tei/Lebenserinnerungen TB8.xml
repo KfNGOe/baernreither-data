@@ -75,18 +75,23 @@
             </div>
 
             <div>
-                <p>1. Der <persName>Kaiser</persName></p>
+                <p>1. Der <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName></p>
             </div>
             <div>
-                <p>Das allgemeine Stimmrecht ist nur durch das Festhalten des
-                        <persName>Kaisers</persName> an diesem Gedanken zustande gekommen.
-                        <persName>Gautsch</persName>, <persName>Hohenlohe</persName>,
-                        <persName>Beck</persName> waren nur seine Werkzeuge, und wenn es auch
-                    vielleicht Momente gegen hat, in denen der <persName>Kaiser</persName>
-                    schwankend wurde, so hat doch er persönlich das Schicksal der Wahlreform
-                    entschieden. Oft ist die Frage aufgeworfen worden wer den
-                        <persName>Kaiser</persName> für das allgemeine Stimmrecht gewonnen habe. Ich
-                    glaube, daß er nach und nach dazu gekommen ist. Bekanntlich hat schon
+                <p>Das allgemeine Stimmrecht ist nur durch das Festhalten des <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaisers</persName> an diesem Gedanken zustande gekommen. <persName
+                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>,
+                        <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816"
+                        >Hohenlohe</persName>, <persName>Beck</persName> waren nur seine Werkzeuge,
+                    und wenn es auch vielleicht Momente gegen hat, in denen der <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> schwankend wurde, so hat doch er persönlich das Schicksal
+                    der Wahlreform entschieden. Oft ist die Frage aufgeworfen worden wer den
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> für das allgemeine Stimmrecht gewonnen habe. Ich glaube,
+                    daß er nach und nach dazu gekommen ist. Bekanntlich hat schon
                         <persName>Schäffle</persName>, wie dieser selbst erzählt, dem
                         <persName>Monarchen</persName> eine breite Wahlreform nahe gelegt. Einen
                     nachhaltigeren Eindruck hat jedenfalls <persName>Steinbach</persName> auf ihn
@@ -105,7 +110,7 @@
                     Für Selbstverwaltung, Selbsttätigkeit hatte er nur verächtliche Worte. Das
                     englische Gemeinwesen hatte er nie verstanden. Der deutsche Liberalismus in
                     Oesterreich hat keinen größern Feind gehabt als <persName>Steinbach</persName>.
-                    Die | Repräsentanten desselben waren ihm das rote Tuch. Er konnte in der
+                    Die <pb/> Repräsentanten desselben waren ihm das rote Tuch. Er konnte in der
                     ungerechtesten Weise über diese Richtung sprechen. Er übertrieb ihre Fehler ins
                     Maßlose und ließ kein gutes Haar an ihr. Sein Rezept für die Heilung
                         <placeName>Oesterreichs</placeName> war daher sehr einfach. Die
@@ -116,86 +121,97 @@
                     Oberfläche kommen. Diese seien noch gesund, sie werden soziale Politik machen,
                     nicht nationale, sie sind dynastisch gesinnt, nicht irredentistisch, sie sind
                     verlässlich, dankbar und leicht zu regieren. Alles das hat er mir unzählige Male
-                    auseinandergesetzt. Dieselben Ansichten hat er dem <persName>Kaiser</persName>
-                    in seiner unterwürfigen, treuherzig klingenden geschickten Weise
-                    vorgetragen.</p>
+                    auseinandergesetzt. Dieselben Ansichten hat er dem <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> in seiner unterwürfigen, treuherzig klingenden
+                    geschickten Weise vorgetragen.</p>
                 <p>Die <persName>Taaffe</persName>’sche Wahlreform war sein Werk. Allgemeines
                     Wahlrecht mit Belassung des Großgrundbesitzes (und der Handelskammer, als
-                    verlässlicher österreichischer Elemente). Damals mag er dem
-                        <persName>Kaiser</persName> seine Gedanken tief eingeprägt haben. Jetzt,
-                    1905, tauchten sie wieder auf. Wer sie dem <persName>Kaiser</persName> in
-                    Erinnerung gebracht hat ist nicht bekannt, aber gleichgültig. Keinesfalls sagte
-                    man dem <persName>Kaiser</persName> etwas Neues und gewiss wurde es ihm nicht
-                    besser und verführerischer dargestellt, als es seinerzeit
-                        <persName>Steinbach</persName> getan hatte. Aber es kam ein anderer Impuls
-                    hinzu, der stärker war, als die <persName>Steinbach</persName>’schen Ideen.
-                        <placeName>Ungarn</placeName>. Dort waren die Verhältnisse wieder einmal auf
-                    einem toten Punkt angelangt. Wie, wenn man dort das Rezept von den unberührten,
-                    dynastischen, treuen und lenkbaren unteren Volksschichten anwenden würde?
-                        <persName>Fejérváry</persName> sprach ganz wie seinerzeit
-                        <persName>Steinbach</persName>, sagte mir selbst in
+                    verlässlicher österreichischer Elemente). Damals mag er dem <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> seine Gedanken tief eingeprägt haben. Jetzt, 1905,
+                    tauchten sie wieder auf. Wer sie dem <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> in Erinnerung
+                    gebracht hat ist nicht bekannt, aber gleichgültig. Keinesfalls sagte man dem
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> etwas Neues und gewiss wurde es ihm nicht besser und
+                    verführerischer dargestellt, als es seinerzeit <persName>Steinbach</persName>
+                    getan hatte. Aber es kam ein anderer Impuls hinzu, der stärker war, als die
+                        <persName>Steinbach</persName>’schen Ideen. <placeName>Ungarn</placeName>.
+                    Dort waren die Verhältnisse wieder einmal auf einem toten Punkt angelangt. Wie,
+                    wenn man dort das Rezept von den unberührten, dynastischen, treuen und lenkbaren
+                    unteren Volksschichten anwenden würde? <persName>Fejérváry</persName> sprach
+                    ganz wie seinerzeit <persName>Steinbach</persName>, sagte mir selbst in
                         <placeName>Ofen</placeName>, als ich ihn dort als Ministerpräsident
-                    besuchte, es handle sich nur um den Widerstand | von ein paar hundert Magnaten,
-                    mit dem Volk könnte man regieren, aber mit jenen nicht. Bei dieser Gelegenheit
-                    bekam auch die Geistlichkeit eins ab. <persName>Kristóffy</persName> fand sich
-                    bereit, diesen Gedanken praktisch vertreten zu wollen. Das waren Gedankengänge,
-                    die beim <persName>Kaiser</persName> vorbereiteten Boden fanden. Der Ausgang war
-                    eine Ironie der Geschichte. In <placeName>Ungarn</placeName> scheiterte der Plan
-                    des allgemeinen Stimmrechts, in <placeName>Österreich</placeName> glückte er. Ob
-                    es den bürgerlichen Klassen im österreichischen <orgName>Parlament</orgName>
-                    möglich gewesen wäre, die Sache abzuwenden, ist schwer zu sagen. Der Druck war
-                    diesmal nicht nur von oben, sondern viel intensiver noch von unten, und der
-                    untere Druck wurde von oben, d.h. von der Regierung planmäßig benützt. Das war
-                    jetzt, 1905, von vornherein eine andere Situation als unter
-                        <persName>Taaffe</persName>. Es hätte eines Gegenplanes, einer großzügigen
-                    (breiten) Wahlreform aus den bürgerlichen Kreisen bedurft – aber dazu war das
-                        <orgName>Haus</orgName> zu zerrissen (ohne Ideen), kein anerkannter Führer
-                    und zu viel Ehrgeizige, die um jeden Preis mit welcher Wahlordnung immer, in die
-                    Höhe kommen wollten. </p>
-                <p>Zu alle dem trat aber in jenen Tagen noch ein Ereignis ein, das auf den
-                        <persName>Kaiser</persName> offenbar einen tiefen Eindruck machte — die
-                    russische Revolution. Deutliche Anzeichen waren vorhanden, daß sie auf unsere
-                    Volksmassen herüberwirke. Dieser Wirkung sollte in
-                        <placeName>Oesterreich</placeName> und in <placeName>Ungarn</placeName>
-                    durch das allgemeine Stimmrecht begegnet werden. </p>
-                <p>Alles das befestigte den <persName>Kaiser</persName> in seiner Absicht. Von
-                    Seiten jener Kreise, die ihm sonst am nächsten standen, wurden ihm in vielen
+                    besuchte, es handle sich nur um den Widerstand <pb/> von ein paar hundert
+                    Magnaten, mit dem Volk könnte man regieren, aber mit jenen nicht. Bei dieser
+                    Gelegenheit bekam auch die Geistlichkeit eins ab. <persName>Kristóffy</persName>
+                    fand sich bereit, diesen Gedanken praktisch vertreten zu wollen. Das waren
+                    Gedankengänge, die beim <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> vorbereiteten Boden
+                    fanden. Der Ausgang war eine Ironie der Geschichte. In
+                        <placeName>Ungarn</placeName> scheiterte der Plan des allgemeinen
+                    Stimmrechts, in <placeName>Österreich</placeName> glückte er. Ob es den
+                    bürgerlichen Klassen im österreichischen <orgName>Parlament</orgName> möglich
+                    gewesen wäre, die Sache abzuwenden, ist schwer zu sagen. Der Druck war diesmal
+                    nicht nur von oben, sondern viel intensiver noch von unten, und der untere Druck
+                    wurde von oben, d.h. von der Regierung planmäßig benützt. Das war jetzt, 1905,
+                    von vornherein eine andere Situation als unter <persName>Taaffe</persName>. Es
+                    hätte eines Gegenplanes, einer großzügigen (breiten) Wahlreform aus den
+                    bürgerlichen Kreisen bedurft – aber dazu war das <orgName>Haus</orgName> zu
+                    zerrissen (ohne Ideen), kein anerkannter Führer und zu viel Ehrgeizige, die um
+                    jeden Preis mit welcher Wahlordnung immer, in die Höhe kommen wollten. </p>
+                <p>Zu alle dem trat aber in jenen Tagen noch ein Ereignis ein, das auf den <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> offenbar einen tiefen Eindruck machte — die russische
+                    Revolution. Deutliche Anzeichen waren vorhanden, daß sie auf unsere Volksmassen
+                    herüberwirke. Dieser Wirkung sollte in <placeName>Oesterreich</placeName> und in
+                        <placeName>Ungarn</placeName> durch das allgemeine Stimmrecht begegnet
+                    werden. </p>
+                <p>Alles das befestigte den <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> in seiner Absicht.
+                    Von Seiten jener Kreise, die ihm sonst am nächsten standen, wurden ihm in vielen
                     Audienzen die Gefahren des allgemeinen Stimmrechtes vorgetragen und von den
                     verschiedensten Seiten beleuchtet. Er hörte diese Herren mehr oder weniger
                     wohlwollend an, blieb aber dabei. </p>
-                <p>Der <persName>Kaiser</persName> hat vom Beginne der Beratung über das allgemeine
-                    Stimmrecht mehrmals seine ganz Autorität | eingesetzt, um das Werk der
-                    Wahlreform zu retten. Bis in Details griff der <persName>Kaiser</persName> bei
-                    der Beratung der Wahlreform ein. Als die Verhandlungen des Ausschusses an dem
-                    von der Regierung veranschlagten Zahlenverhältnis der deutschen und
-                    tschechischen Mandate in Böhmen zu scheitern drohte – worauf alle Gegner der
-                    Wahlreform rechneten – berief er, offenbar über Veranlassung
-                        <persName>Becks</persName>, die damaligen Minister
-                        <persName>Pacák</persName> und <persName>Marchet</persName> zu sich,
+                <p>Der <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> hat vom Beginne der Beratung über das allgemeine
+                    Stimmrecht mehrmals seine ganz Autorität <pb/> eingesetzt, um das Werk der
+                    Wahlreform zu retten. Bis in Details griff der <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> bei der Beratung der
+                    Wahlreform ein. Als die Verhandlungen des Ausschusses an dem von der Regierung
+                    veranschlagten Zahlenverhältnis der deutschen und tschechischen Mandate in
+                    Böhmen zu scheitern drohte – worauf alle Gegner der Wahlreform rechneten –
+                    berief er, offenbar über Veranlassung <persName>Becks</persName>, die damaligen
+                    Minister <persName>Pacák</persName> und <persName>Marchet</persName> zu sich,
                     empfieng sie nacheinander und schärfte jedem besonders ein, das vorgeschlagene
                     Verhältnis müsse angenommen werden. Damals machte <persName>Pacák</persName> –
                     wie er mir in der Folge erzählte – noch Einwendungen gegen die überstürzte
                     Erledigung der Wahlreform: man möge sie einige Zeit aufs Eis legen, war sein
-                    Ausdruck, fand aber den <persName>Kaiser</persName> fest entschlossen und fügte
-                    sich. Zu verschiedenen Politikern äußerte sich der <persName>Monarch</persName>
-                    damals, daß, da die Legislaturperiode zu Ende geht, der neue Reichsrat
-                    keinesfalls nach der alten Wahlordnung gewählt werden dürfe. </p>
-                <p>Im Grunde war der <persName>Kaiser</persName> mit seinem Willen, das Wahlrecht
-                    auf eine neue Basis zu stellen vollkommen im Recht. Das alte Kurienparlament war
-                    nicht mehr haltbar. Des <persName>Kaisers</persName> Mißgeschick bestand aber
-                    darin, daß er zur Durchführung dieses Gedankens keinen wirklichen Staatsmann
-                    fand, der die Idee des allgemeinen Stimmrechts für die Entwicklung
+                    Ausdruck, fand aber den <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> fest entschlossen
+                    und fügte sich. Zu verschiedenen Politikern äußerte sich der
+                        <persName>Monarch</persName> damals, daß, da die Legislaturperiode zu Ende
+                    geht, der neue Reichsrat keinesfalls nach der alten Wahlordnung gewählt werden
+                    dürfe. </p>
+                <p>Im Grunde war der <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> mit seinem Willen,
+                    das Wahlrecht auf eine neue Basis zu stellen vollkommen im Recht. Das alte
+                    Kurienparlament war nicht mehr haltbar. Des <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaisers</persName> Mißgeschick bestand
+                    aber darin, daß er zur Durchführung dieses Gedankens keinen wirklichen
+                    Staatsmann fand, der die Idee des allgemeinen Stimmrechts für die Entwicklung
                         <placeName>Österreichs</placeName> fruchtbar gemacht hätte. Der alte
-                        <persName>Kaiser</persName> hat oft, viel öfter als man weiß, den richtigen
-                    Gedanken gehabt, aber die Kunst dafür den richtigen Mann herauszufinden war ihm
-                    versagt. </p>
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> hat oft, viel öfter als man weiß, den richtigen Gedanken
+                    gehabt, aber die Kunst dafür den richtigen Mann herauszufinden war ihm versagt. </p>
                 <p>Positivismus in der Politik! Das fehlt uns seit Jahrzehnten. Der Gegensatz dazu
                     ist unser Fortwursteln. Wenigen Herrschern und Staatsmännern ist es gegönnt
                     gewesen, positiv im großen Stil zu sein. (<persName>Bismarck</persName> war es
                     und <persName>Wilhelm II.</persName> suchte es zu sein.) Bei uns ist die
-                    positive Politik seit langem ausgeschaltet. Nur noch lavieren, zurückstellen, |
-                    ausweichen, verkleistern. Es mußte sich bei der Wahlreform zeigen, ob sie als
-                    Grundstein einer Neuordnung in <placeName>Oesterreich</placeName> in unser
+                    positive Politik seit langem ausgeschaltet. Nur noch lavieren, zurückstellen,
+                    <pb/> ausweichen, verkleistern. Es mußte sich bei der Wahlreform zeigen, ob sie
+                    als Grundstein einer Neuordnung in <placeName>Oesterreich</placeName> in unser
                     Staatswesen eingefügt werden würde, oder ob sie schließlich auch nichts anderes
                     war, als eine Verlegenheitsmaßregel, ein bloßes Nachgeben, der Versuch, sich aus
                     unmöglich gewordenen parlamentarischen Verhältnisse in andere zu retten, das
@@ -222,7 +238,7 @@
                     als Wahlkörper in Aussicht nahm. Auf der Durchreise in
                         <placeName>München</placeName> schrieb ich zwei Artikel über diesen
                     Gedanken, die ich in der <placeName>Prager</placeName>
-                    <orgName>Bohemia</orgName> erscheinen ließ. | Ausserdem arbeitete ich einen
+                    <orgName>Bohemia</orgName> erscheinen ließ. <pb/> Ausserdem arbeitete ich einen
                     vollständigen Gesetzentwurf aus. In der Vereinigten Linken wurde mir das
                     natürlich sehr verübelt, und mein Antrag, den ich im <orgName>Hause</orgName>
                     einbringen wollte, wurde von der Partei verworfen. Kurze Zeit darauf brachte
@@ -240,8 +256,9 @@
                     und stürzten <persName>Taaffe</persName> ohne Schwanken und ohne Pardon. Es wäre
                     ihnen aber nicht so leicht geworden, wenn die arbeitende Klassen sich in ihren
                     Organen nicht auch gegen den damaligen Wahlreformentwurf und zwar wegen
-                    Belassung des Großgrundbesitzes erklärt hätten. Der <persName>Kaiser</persName>
-                    fügte sich in die Situation, wiewohl er mit dem
+                    Belassung des Großgrundbesitzes erklärt hätten. Der <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> fügte sich in die Situation, wiewohl er mit dem
                         <persName>Taaffe</persName>-<persName>Steinbach</persName>’schen
                     Wahlreformvorschlag sehr einverstanden war und daraus kein Hehl gemacht
                     hatte.</p>
@@ -251,36 +268,39 @@
                     Herren, die <persName>Taaffe</persName> gestürzt hatten, sich zwar dazu rasch
                     vereinigt hatten, zu einem positiven Zusammenarbeiten jedoch die politische
                     Einsicht und Kraft nicht besassen. <persName>Windischgrätz</persName> erblickte
-                    im Abwägen | aller Umstände, Forderungen und Schwierigkeiten eine Hauptaufgabe
-                    seines Amtes und kam aus [dem edlen Streben nach] Unparteilichkeit zu keinem
-                    Entschluß. Im Kabinett war niemand, der zu einer durchgreifenden Geltung gelangt
-                    wäre. Die Zusammensetzung des Kabinetts war ganz verfehlt. Das Mitschleppen der
-                    alten <persName>Taaffe</persName>’schen Minister
-                    (<persName>Bacquehem</persName>, <persName>Schönborn</persName>,
+                    im Abwägen <pb/> aller Umstände, Forderungen und Schwierigkeiten eine
+                    Hauptaufgabe seines Amtes und kam aus [dem edlen Streben nach] Unparteilichkeit
+                    zu keinem Entschluß. Im Kabinett war niemand, der zu einer durchgreifenden
+                    Geltung gelangt wäre. Die Zusammensetzung des Kabinetts war ganz verfehlt. Das
+                    Mitschleppen der alten <persName>Taaffe</persName>’schen Minister
+                        (<persName>Bacquehem</persName>, <persName>Schönborn</persName>,
                         <persName>Falkenhayn</persName>) die von <orgName>Haus</orgName> aus ganz
                     anders orientiert waren, verhinderte von vornherein ein homogenes
                     Zusammenwirken. Man vertrug sich zwar leidlich, brachte aber nichts Positives
-                    zustande. Der <persName>Kaiser</persName> selbst glaubte nicht an einen längeren
-                    Bestand des Ministeriums. <persName>Bacquehem</persName> erzählte mir später,
-                    daß er als mehrjähriger Handelsminister unter <persName>Taaffe</persName> nicht
-                    geneigt gewesen war, in dem Koalitionskabinett das Ministerium des Innern zu
-                    übernehmen, der <persName>Kaiser</persName> ihn aber dazu bewog mit der
-                    Begründung: es wird ohnehin nicht lang dauern. So ist es erklärlich, daß der
-                    Wahlreformausschuss zwar unzählige Sitzungen abhielt, Subkomitees einsetzte und
-                    die verschiedensten Anträge beriet, aber zu keinem Ergebnis kam. In einer
-                    eingehenden Besprechung mit <persName>Windischgrätz</persName>, der den besten
-                    Willen hatte, bat ich ihn wenigstens meinen Antrag vom
-                        <orgName>Parlament</orgName> annehmen und die Arbeitervertreter sobald als
-                    möglich zu dem bestehenden <orgName>Haus</orgName> hinzu wählen zu lassen. Damit
-                    wäre die Frage wenigstens vorläufig zur Ruhe gekommen, aber niemand unterstützte
-                    diese meine Ansicht. <persName>Bacquehem</persName> als Minister des Innern
-                    betrieb die Reform des Wahlrechtes sehr [lau] und <persName>Kuenburg</persName>
-                    als Obmann des <orgName>Wahlrechtsausschusses</orgName> stand den
-                    divergierenden, sich bekämpfenden Ansichten machtlos gegenüber. Eine Initiative
-                    der Regierung fehlte und es schleppten sich die Verhandlungen im Ausschuss durch
-                    die ganze Lebensdauer der Koalitionsregierung ohne Entscheidung. </p>
+                    zustande. Der <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> selbst glaubte nicht
+                    an einen längeren Bestand des Ministeriums. <persName>Bacquehem</persName>
+                    erzählte mir später, daß er als mehrjähriger Handelsminister unter
+                        <persName>Taaffe</persName> nicht geneigt gewesen war, in dem
+                    Koalitionskabinett das Ministerium des Innern zu übernehmen, der <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> ihn aber dazu bewog mit der Begründung: es wird ohnehin
+                    nicht lang dauern. So ist es erklärlich, daß der Wahlreformausschuss zwar
+                    unzählige Sitzungen abhielt, Subkomitees einsetzte und die verschiedensten
+                    Anträge beriet, aber zu keinem Ergebnis kam. In einer eingehenden Besprechung
+                    mit <persName>Windischgrätz</persName>, der den besten Willen hatte, bat ich ihn
+                    wenigstens meinen Antrag vom <orgName>Parlament</orgName> annehmen und die
+                    Arbeitervertreter sobald als möglich zu dem bestehenden <orgName>Haus</orgName>
+                    hinzu wählen zu lassen. Damit wäre die Frage wenigstens vorläufig zur Ruhe
+                    gekommen, aber niemand unterstützte diese meine Ansicht.
+                        <persName>Bacquehem</persName> als Minister des Innern betrieb die Reform
+                    des Wahlrechtes sehr [lau] und <persName>Kuenburg</persName> als Obmann des
+                        <orgName>Wahlrechtsausschusses</orgName> stand den divergierenden, sich
+                    bekämpfenden Ansichten machtlos gegenüber. Eine Initiative der Regierung fehlte
+                    und es schleppten sich die Verhandlungen im Ausschuss durch die ganze
+                    Lebensdauer der Koalitionsregierung ohne Entscheidung. </p>
                 <p>Dann kam <persName>Badeni</persName> mit seiner Wahlreform, an der ich mich nicht
-                    beteiligte, weil ich die Kurie des allgemeinen | Wahlrechtes an das alte
+                    beteiligte, weil ich die Kurie des allgemeinen <pb/> Wahlrechtes an das alte
                     Kurienparlament angeflickt, als ein auf die Dauer unhaltbares Auskunftsmittel
                     ansah und überdies mit vielen anderen Arbeiten sehr beschäftigt war. </p>
                 <p>Vor der Erlassung der darauf bald erfolgenden unglückseligen Sprachenverordnung
@@ -293,22 +313,22 @@
                     Zusammenhang stehenden Gesetzen (ein Werk von 1400 Paragraphen ) war in
                     verhältnismäßig kurzer Zeit erledigt worden. Für die Wahlreform war doch auch
                     wenigstens momentan ein Ausweg gefunden – neben vielen kleinern Dingen. Als ich
-                    in dieser Zeit während einer Delegationstagung mit dem
-                        <persName>Kaiser</persName> über das Beratungsgesetz zur Zivilprozessordnung
-                    sprach, hatte ich den Eindruck, daß er – der das
-                        <orgName>Abgeordnetenhaus</orgName> vor allem vom Standpunkt der
-                    Geschäftserledigung betrachtete – seiner Tätigkeit mit Zuversicht entgegensah.
-                    Nach dem Umsturz der parlamentarischen Ordnung durch die Sprachenverhältnisse,
-                    dann unter <persName>Thun</persName>, war er wieder sehr skeptisch geworden, was
-                    man ersehen konnte, wenn er sehr kategorisch den § 14 als eine unbedingte
-                    Notwendigkeit bezeichnete und jedes Rütteln an dieser Bestimmung mit einer
-                    gewissen Heftigkeit zurückwies. </p>
+                    in dieser Zeit während einer Delegationstagung mit dem <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> über das Beratungsgesetz zur Zivilprozessordnung sprach,
+                    hatte ich den Eindruck, daß er – der das <orgName>Abgeordnetenhaus</orgName> vor
+                    allem vom Standpunkt der Geschäftserledigung betrachtete – seiner Tätigkeit mit
+                    Zuversicht entgegensah. Nach dem Umsturz der parlamentarischen Ordnung durch die
+                    Sprachenverhältnisse, dann unter <persName>Thun</persName>, war er wieder sehr
+                    skeptisch geworden, was man ersehen konnte, wenn er sehr kategorisch den § 14
+                    als eine unbedingte Notwendigkeit bezeichnete und jedes Rütteln an dieser
+                    Bestimmung mit einer gewissen Heftigkeit zurückwies. </p>
                 <p>Als dann <persName>Körber</persName> kam, hing der Himmel anfangs voller Geigen,
                     und ich war immer der Meinung, daß <persName>Körber</persName>, wenn er mit
                     praktischen, politischen Ideen, mit Kraft und Konsequenz eingegriffen und alles
                     darangesetzt hätte, das <orgName>Parlament</orgName> aufzurichten, dies
-                    wahrscheinlich gelungen wäre. | Seine Methode führte aber wieder zum § 14 und
-                    deswegen hat er auch, wenn auch nur indirekt, dem allgemeinen Stimmrecht
+                    wahrscheinlich gelungen wäre. <pb/> Seine Methode führte aber wieder zum § 14
+                    und deswegen hat er auch, wenn auch nur indirekt, dem allgemeinen Stimmrecht
                     vorgearbeitet. Er demoralisierte das <orgName>Parlament</orgName> und verleitete
                     die Deutschen auf jede selbstständige Regung, auf ein praktisches
                     parlamentarisches Ziel zu verzichten, hinter dem § 14 zu sitzen, nichts zu tun
@@ -316,12 +336,14 @@
                         <persName>Stürgkh</persName> in der <orgName>Montagspresse</orgName> in
                     einer langen Reihe blödsinniger Artikel unermüdlich bis zum Sturze
                         <persName>Körbers</persName>. Ich kann mir deswegen denken, daß die
-                    Unfruchtbarkeit des Kurienparlaments den <persName>Kaiser</persName> auch wieder
-                    näher einer allgemeinen breiten Wahlreform brachte. Schließlich wollte Körber
-                    selbst die Situation – wie ich schon erzählt habe – durch eine Wahlreform retten
-                    und wenn sie auch damals durch die Intervention <persName>Szélls</persName> von
-                    vornherein verhindert wurde, war das für den <persName>Kaiser</persName> doch
-                    wieder ein Anklang an die Worte <persName>Steinbachs</persName>. </p>
+                    Unfruchtbarkeit des Kurienparlaments den <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> auch wieder näher
+                    einer allgemeinen breiten Wahlreform brachte. Schließlich wollte Körber selbst
+                    die Situation – wie ich schon erzählt habe – durch eine Wahlreform retten und
+                    wenn sie auch damals durch die Intervention <persName>Szélls</persName> von
+                    vornherein verhindert wurde, war das für den <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> doch wieder ein
+                    Anklang an die Worte <persName>Steinbachs</persName>. </p>
                 <p> Im <orgName>Parlament</orgName> spielte in diesen Jahren das Problem der
                     Wahlreform keine Rolle, umso mehr aber in der Phantasie der Arbeiter und der
                     freisinnigen bürgerlichen Kreise. Die ersteren traten immer entschiedener für
@@ -332,31 +354,37 @@
             </div>
 
             <div>
-                <p>3. <persName>Gautsch</persName> als Gegner des allgemeinen Stimmrechts </p>
-                <p>Ich war am 10. September 1905 bei <persName>Gautsch</persName>, als sich das
+                <p>3. <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> als Gegner des allgemeinen Stimmrechts </p>
+                <p>Ich war am 10. September 1905 bei <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName>, als sich das
                     Kabinett <persName>Fejérváry</persName> in Ungarn mit der Frage der Wahlreform
                     beschäftigte. Ich sagte zu Gautsch , daß ich das allgemeine gleiche Wahlrecht
                     ohne jede Hemmung ins Werk gesetzt, als gleichbedeutend mit der vollständigen
-                    Radikalisierung des Parlaments und der Verwirrung unserer staatlichen |
-                    Verhältnisse ansehe. <persName>Gautsch</persName> stimmte mir vollständig und
-                    lebhaft zu, verurteilte das <persName>Fejérváry</persName>’sche Programm auf das
-                    schärfste, meinte er sei im Begriff zum <persName>Kaiser</persName> zu gehen und
-                    ihm das alles vorzustellen und frug mich ob er sich auf meine so dezidiert
-                    geäußerte Ansicht berufen könne. Natürlich erklärte ich mich einverstanden. </p>
-                <p>Wenn man die folgenden Ereignisse, insbesondere die Haltung
-                        <persName>Gautsch</persName>‘ sich erklären will, darf man die parallel in
-                    Ungarn sich abspielenden Vorgänge nicht aus dem Auge lassen. Im <date
-                        when="1905-09">September</date> fanden die Verhandlungen der Krone mit den
-                    Koalitionsparteien statt. Das Kabinett <persName>Fejérváry</persName> hatte
-                    demissioniert und es schien, daß eine Wendung zu Gunsten der Koalition sich
-                    vollziehen werde. Die Audienz der Koalitionsführer
-                    (<persName>Apponyi</persName>, <persName>Andrássy</persName>,
+                    Radikalisierung des Parlaments und der Verwirrung unserer staatlichen <pb/>
+                    Verhältnisse ansehe. <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> stimmte mir
+                    vollständig und lebhaft zu, verurteilte das <persName>Fejérváry</persName>’sche
+                    Programm auf das schärfste, meinte er sei im Begriff zum <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> zu gehen und ihm das alles vorzustellen und frug mich ob
+                    er sich auf meine so dezidiert geäußerte Ansicht berufen könne. Natürlich
+                    erklärte ich mich einverstanden. </p>
+                <p>Wenn man die folgenden Ereignisse, insbesondere die Haltung <persName
+                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>‘
+                    sich erklären will, darf man die parallel in Ungarn sich abspielenden Vorgänge
+                    nicht aus dem Auge lassen. Im <date when="1905-09">September</date> fanden die
+                    Verhandlungen der Krone mit den Koalitionsparteien statt. Das Kabinett
+                        <persName>Fejérváry</persName> hatte demissioniert und es schien, daß eine
+                    Wendung zu Gunsten der Koalition sich vollziehen werde. Die Audienz der
+                    Koalitionsführer (<persName>Apponyi</persName>, <persName>Andrássy</persName>,
                         <persName>Bánffy</persName>, <persName>Kossuth</persName>, <persName>Aladár
                         Zichy</persName>) am <date when="1905-09-23">23. September</date> verlief
                     zwar ebenso kurz als resultatlos, aber es war immer noch nichts definitiv
-                    entschieden. <persName>Gautsch</persName> hielt an seiner mir am <date
-                        when="1905-09-10">10. September</date> ausgesprochenen Ansicht fest, als er
-                    am <date when="1905-09-26">26. desselben Monates</date> im
+                    entschieden. <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> hielt an seiner mir am <date when="1905-09-10">10.
+                        September</date> ausgesprochenen Ansicht fest, als er am <date
+                        when="1905-09-26">26. desselben Monates</date> im
                         <orgName>Abgeordnetenhaus</orgName> eine Rede hielt, in der er das
                     allgemeine gleiche Wahlrecht auf <placeName>Österreich</placeName> unanwendbar
                     erklärte. Er sprach mitten in einem großen Tumult, den die Sozialisten mit allen
@@ -367,10 +395,11 @@
                     der Sache apathisch gegenüber, so daß diese Anträge zwar nicht die für die
                     Dringlichkeit notwendige Zweidrittelmajorität, jedoch eine nicht unerhebliche
                     einfache Majorität (155 zu 114) erhielten. </p>
-                <p>| In <placeName>Ungarn</placeName> trat nun nachdem die Verhandlungen mit der
+                <p><pb/> In <placeName>Ungarn</placeName> trat nun nachdem die Verhandlungen mit der
                     Koalition sich definitiv zerschlagen und <persName>Kristóffy</persName> seinen
-                    Plan des allgemeinen Wahlrechts dem <persName>Kaiser</persName> unterbreitet
-                    hatte, die Wendung zu Gunsten <persName>Fejérvárys</persName> ein, der mit
+                    Plan des allgemeinen Wahlrechts dem <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> unterbreitet hatte,
+                    die Wendung zu Gunsten <persName>Fejérvárys</persName> ein, der mit
                     Handschreiben vom <date when="1905-10-18">18. Oktober</date> abermals zum
                     Ministerpräsidenten ernannt wurde. Diese Tatsache wirkte natürlich elementar
                     zurück auf die Stimmung in <placeName>Oesterreich</placeName> und die Parteien
@@ -379,57 +408,64 @@
             </div>
 
             <div>
-                <p>4. <persName>Gautsch</persName> als Verteidiger des allgemeinen Stimmrechts </p>
-                <p>Als ich am <date when="1905-11-08">8. November 1905 </date>abermals zu
-                        <persName>Gautsch</persName> kam, hatte ich der Wind völlig gedreht. Er war
-                    ganz umgewandelt und vertrat geradezu herausfordernd das Gegenteil von dem, was
-                    er mir vor zwei Monaten gesagt hatte. Er berief sich auf
-                        <placeName>Russland</placeName> und die Abstimmung vom <date
-                        when="1905-10-08">8. Oktober</date> im <orgName>Abgeordnetenhaus</orgName> <!-- welches Abgeordnetenhaus? -->. Gegen alle meine
-                    Einwendungen und Bedenken war er taub. Auf eine Reihe von Fragen, die ich
-                    aufwarf, ging er gar nicht ein. Er erklärte sich für das allgemeine, gleiche und
-                    direkte Stimmrecht in derartigen Ausdrücken, daß ich entnehmen musste, er plane
-                    es so gut wie ohne Einschränkungen. Auf meine Warnung, daß so etwas nicht am
-                    grünen Tisch ohne genaue Kenntnis und Berücksichtigung der Verhältnisse in den
-                    einzelnen Kronländern ausgearbeitet werden könne – meinte er: die Parteien
-                    sollen an mich mit Wünschen herantreten. Die Regierung werde beim
-                    Wiederzusammentritt des Abgeordnetenhauses am 28. November eine Erklärung
-                    abgeben, daß sie die Wahlreform einbringen werde. Der Zeitpunkt der Einbringung
-                    selbst sei jedoch nicht bestimmbar, da die Vorarbeiten | noch nicht beendet
-                    seien. Die Deutschen müssen sich darauf gefasst machen, Mandate zu verlieren.
-                    Offenbar rechnet er auf den Druck der Straße , unter dem er selbst steht, denn
-                    er sagte mir zuletzt hochmütig: an dem Tage, an dem die Wahlordnung vorgelegt
-                    wird, ist sie auch angenommen. Das war ungefähr die Summe staatsmännischer
-                    Weisheit, über die der österreichische Ministerpräsident verfügt. </p>
-                <p>Am selben Tage hatte ich eine lange Unterredung mit Bylandt , dem Minister des
-                    Innern. Ich sprach zuerst von der bedenklich erschütterten öffentlichen Ordnung
-                    und Sicherheit in Prag und Umgebung. Er gab mir eine für unsere Regierungsweise
-                    sehr bezeichnende Antwort: alle Berichte konstatieren eine große Aufregung der
-                    untern Volksklassen . Höchst wahrscheinlich sei ein direkter Zusammenhang mit
-                    der Agitation in Russland . Der Statthalter habe alle nötigen Vollmachten, um
-                    die notwendigen Maßregeln zu ergreifen. Sie seien in seiner Hand. Was er
-                    beantragen wird, dem wird in Wien zugestimmt. Die Verhängung des
-                    Ausnahmezustandes muß vor dem Reichsrat begründet werde und würde eine grosse
-                    Debatte entfesseln. Trotzdem werde die Regierung nicht zögern, wenn die
-                    Notwendigkeit vom Statthalter konstatiert wird. Immer die Berufung auf den
-                    Statthalter. Nur keine eigene Verantwortung. </p>
+                <p>4. <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> als Verteidiger des allgemeinen Stimmrechts </p>
+                <p>Als ich am <date when="1905-11-08">8. November 1905 </date>abermals zu <persName
+                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>
+                    kam, hatte ich der Wind völlig gedreht. Er war ganz umgewandelt und vertrat
+                    geradezu herausfordernd das Gegenteil von dem, was er mir vor zwei Monaten
+                    gesagt hatte. Er berief sich auf <placeName>Russland</placeName> und die
+                    Abstimmung vom <date when="1905-10-08">8. Oktober</date> im
+                        <orgName>Abgeordnetenhaus</orgName>
+                    <!-- welches Abgeordnetenhaus? -->. Gegen alle meine Einwendungen und Bedenken
+                    war er taub. Auf eine Reihe von Fragen, die ich aufwarf, ging er gar nicht ein.
+                    Er erklärte sich für das allgemeine, gleiche und direkte Stimmrecht in
+                    derartigen Ausdrücken, daß ich entnehmen musste, er plane es so gut wie ohne
+                    Einschränkungen. Auf meine Warnung, daß so etwas nicht am grünen Tisch ohne
+                    genaue Kenntnis und Berücksichtigung der Verhältnisse in den einzelnen
+                    Kronländern ausgearbeitet werden könne – meinte er: die Parteien sollen an mich
+                    mit Wünschen herantreten. Die Regierung werde beim Wiederzusammentritt des
+                        <orgName>Abgeordnetenhauses</orgName> am <date when="1905-11-28">28.
+                        November</date> eine Erklärung abgeben, daß sie die Wahlreform einbringen
+                    werde. Der Zeitpunkt der Einbringung selbst sei jedoch nicht bestimmbar, da die
+                    Vorarbeiten <pb/> noch nicht beendet seien. Die Deutschen müssen sich darauf
+                    gefasst machen, Mandate zu verlieren. Offenbar rechnet er auf den Druck der
+                    Straße, unter dem er selbst steht, denn er sagte mir zuletzt hochmütig: an dem
+                    Tage, an dem die Wahlordnung vorgelegt wird, ist sie auch angenommen. Das war
+                    ungefähr die Summe staatsmännischer Weisheit, über die der österreichische
+                        <persName>Ministerpräsident</persName> verfügt. </p>
+                <p>Am selben Tage hatte ich eine lange Unterredung mit <persName>Bylandt</persName>,
+                    dem Minister des Innern. Ich sprach zuerst von der bedenklich erschütterten
+                    öffentlichen Ordnung und Sicherheit in Prag und Umgebung. Er gab mir eine für
+                    unsere Regierungsweise sehr bezeichnende Antwort: alle Berichte konstatieren
+                    eine große Aufregung der untern Volksklassen. Höchst wahrscheinlich sei ein
+                    direkter Zusammenhang mit der Agitation in Russland. Der Statthalter habe alle
+                    nötigen Vollmachten, um die notwendigen Maßregeln zu ergreifen. Sie seien in
+                    seiner Hand. Was er beantragen wird, dem wird in <placeName>Wien</placeName>
+                    zugestimmt. Die Verhängung des Ausnahmezustandes muß vor dem
+                        <orgName>Reichsrat</orgName> begründet werde und würde eine grosse Debatte
+                    entfesseln. Trotzdem werde die Regierung nicht zögern, wenn die Notwendigkeit
+                    vom <persName>Statthalter</persName> konstatiert wird. Immer die Berufung auf
+                    den <persName>Statthalter</persName>. Nur keine eigene Verantwortung. </p>
                 <p>Bezüglich des allgemeinen Stimmrechtes äusserte er, daß es nicht mehr aufzuhalten
-                    sei. Das Programm Fejérváry und die russischen Zustände drängen die Regierung zu
-                    einer Reform. Uebrigens habe das Parlament mit einer Majorität von 40 Stimmen
-                    sich ebenfalls für eine Wahlreform erklärt. Würde die Regierung zögern und sich
-                    sträuben, hätte sie keinen Halt an den Parteien des Hauses, | die ganz
-                    unverläßlich sind. Bei der Wahlreform handle es sich um die notwendigen
-                    Einschränkungen. Ueber diese sowie alle Details ist die Regierung noch nicht
-                    schlüßig. Er ist gegen das Pluralitätssystem und hält auch die
-                    Proportionalwahlen für undurchführbar. Ein Mittel die höhere Steuerleistung und
-                    Intelligenz zum Ausdruck zu bringen, wäre die verschiedene Größe der Wahlbezirke
-                    . Da könnte auch ein Vorteil für die Deutschen herausschauen. Beide Staatsmänner
-                    wußten auf meine Einwendung, daß das allgemeine Stimmrecht ohne weitere
-                    Voraussetzungen angewendet, den Nationalitätenkampf nicht abschwächen, sondern
-                    steigern werde, keine Antwort, doch gab mir Bylandt zu, daß Schlagworte eine
-                    noch größere Rolle spielen werden als heute. </p>
-                <p>Die wenigen Wochen, die zwischen meiner letzten Unterredung mit Gautsch und der
-                    Wiedereröffnung des Parlamentes lagen, benützte ich zu einem eingehenden Studium
+                    sei. Das Programm <persName>Fejérváry</persName> und die russischen Zustände
+                    drängen die Regierung zu einer Reform. Uebrigens habe das
+                        <orgName>Parlament</orgName>
+                    <!-- ungarisches Parlament --> mit einer Majorität von 40 Stimmen sich ebenfalls
+                    für eine Wahlreform erklärt. Würde die Regierung zögern und sich sträuben, hätte
+                    sie keinen Halt an den Parteien des Hauses, <pb/>die ganz unverläßlich sind. Bei
+                    der Wahlreform handle es sich um die notwendigen Einschränkungen. Ueber diese
+                    sowie alle Details ist die Regierung noch nicht schlüßig. Er ist gegen das
+                    Pluralitätssystem und hält auch die Proportionalwahlen für undurchführbar. Ein
+                    Mittel die höhere Steuerleistung und Intelligenz zum Ausdruck zu bringen, wäre
+                    die verschiedene Größe der Wahlbezirke. Da könnte auch ein Vorteil für die
+                    Deutschen herausschauen. Beide Staatsmänner wußten auf meine Einwendung, daß das
+                    allgemeine Stimmrecht ohne weitere Voraussetzungen angewendet, den
+                    Nationalitätenkampf nicht abschwächen, sondern steigern werde, keine Antwort,
+                    doch gab mir <persName>Bylandt</persName> zu, daß Schlagworte eine noch größere Rolle spielen werden
+                    als heute. </p>
+                <p>Die wenigen Wochen, die zwischen meiner letzten Unterredung mit <persName>Gautsch</persName> und der
+                    Wiedereröffnung des <orgName>Parlamentes</orgName> lagen, benützte ich zu einem eingehenden Studium
                     der Wahlrechtsfrage. Ich habe damals die Wahlordnungen fast aller europäischer
                     Staaten durchgelesen. Die englische Wahlrechtsgeschichte kannte ich genau und
                     betrachtete ihre stufenweise Entwicklung als ein Vorbild. Allerdings hatte man
@@ -437,34 +473,34 @@
                     durch die Ereignisse überholt. Wie immer: aufschieben, nichts tun und dann mit
                     grossen überstürzten Sprüngen nachholen wollen. Je mehr ich mich in den
                     Gegenstand vertiefte, desto klarer wurde mir, daß die ganze Wahlrechtsfrage in
-                    Österreich und ganz besonders aber für uns Deutsche in Oesterreich ganz anders
-                    liege, als in irgendeinem Lande. Gautsch hat in seiner ersten Rede am 26.
-                    [September] , als er noch auf dem das allgemeine Stimmrecht ablehnenden
-                    Standpunkt stand, | eine sehr richtige Bemerkung gemacht: „Das allgemeine
+                    <placeName>Oesterreich</placeName> und ganz besonders aber für uns Deutsche in Oesterreich ganz anders
+                    liege, als in irgendeinem Lande. <persName>Gautsch</persName> hat in seiner ersten Rede am <date when="1905-09-26">26.
+                    [September]</date>, als er noch auf dem das allgemeine Stimmrecht ablehnenden
+                    Standpunkt stand, <pb/>eine sehr richtige Bemerkung gemacht: „Das allgemeine
                     Stimmrecht, wenn es die Gewähr seines Bestandes in sich tragen soll, kann nur
                     auf der festen und dauernden Unterlage einer Ordnung unserer nationalen
                     Verhältnisse beruhen.“ Er begründete diesen Satz allerdings nur mit der
                     eigentümlichen ethnographischen Gestaltung unseres Staates, mit den
                     verschiedenen Siedlungs- und Sprachenverhältnissen, über die das mechanische
                     Gesetz der Zahl ihrer Natur nach nicht entscheiden könne. Die Wahrheit seines
-                    Satzes liegt aber tiefer. Das Deutschtum in Oesterreich ist untrennbar verbunden
-                    mit dem innern Aufbau des Staates. Der obrigkeitliche Staat in Oesterreich
-                    beruht auf dem deutschen Zentralismus . Ueberall wo dieser hinreicht, hat auch
+                    Satzes liegt aber tiefer. Das Deutschtum in <placeName>Oesterreich</placeName> ist untrennbar verbunden
+                    mit dem innern Aufbau des Staates. Der obrigkeitliche Staat in <placeName>Oesterreich</placeName>
+                    beruht auf dem deutschen Zentralismus. Ueberall wo dieser hinreicht, hat auch
                     das Deutschtum seine Ausläufer und Stützpunkte. Daher die oft behauptete
-                    künstliche Stellung der Deutschen in Oesterreich . Man muß sie zugeben, aber der
+                    künstliche Stellung der Deutschen in <placeName>Oesterreich</placeName>. Man muß sie zugeben, aber der
                     obrigkeitliche Staat und seine deutschen Organe, wie sie sich durch Jahrhunderte
                     entwickelt haben, sind untrennbare Dinge. Das allgemeine Stimmrecht lockert, das
                     deutsche Element schwächend, diese historische Klammer unseres Staates, ohne
                     etwas neues an die Stelle des Bestehenden zu setzen. Um das handelt es sich
-                    aber, denn der obrigkeitliche Staat in Oesterreich ist ebenso reformbedürftig
+                    aber, denn der obrigkeitliche Staat in <placeName>Oesterreich</placeName> ist ebenso reformbedürftig
                     wie das Wahlrecht, eins bedingt jedoch das andere. Deswegen befestigte sich bei
-                    mir immer mehr die Ueberzeugung, daß eine grundlegende breite Wahlreform , wie
+                    mir immer mehr die Ueberzeugung, daß eine grundlegende breite Wahlreform, wie
                     sie durch die Zeitverhältnisse notwendig geworden war, nur Hand in Hand mit
                     einer Reform unserer Verfassung und Verwaltung hätte gehen müssen, wenn sie
                     nicht bloß auflösen, sondern einem neuen Aufbau des Staates als Grundlage dienen
                     sollte. </p>
                 <p>Ich habe bei verschiedenen Gelegenheiten vertreten, daß man das allgemeine
-                    Stimmrecht – in geeigneter | Weise modifiziert – als Triebkraft für die
+                    Stimmrecht – in geeigneter <pb/> Weise modifiziert – als Triebkraft für die
                     Herstellung einer nationalen Ordnung in Oesterreich verwenden müßte, was ich
                     insbesondere in Böhmen für möglich halte. Das allgemeine Stimmrecht der
                     deutschen Reichsverfassung hat nach der Absicht Bismarck s in Deutschland die
@@ -490,11 +526,11 @@
                     verschiedenen Gruppen der Abgeordneten und einzelnen Politikern über die
                     Wahlreform verhandelte und diese von Bylandt im Ministerium des Innern
                     bearbeitet wurde, bieten im Abgeordnetenhaus ein widerliches Bild. Eine
-                    Regierung, die sich über die grossen | Zusammenhänge staatlicher Wirkungen und
-                    Gegenwirkungen nicht Rechenschaft geben will, politische Parteien, die zerfahren
-                    und unaufrichtig diesem Plane der Regierung ohne Halt, ohne Ideen, ohne Willen
-                    gegenüber stehen, die Sozialdemokraten , die alles an Terrorismus und
-                    Einschüchterung leisten, um einen Preis, der ihnen unerwartet winkt, in
+                    Regierung, die sich über die grossen <pb/> Zusammenhänge staatlicher Wirkungen
+                    und Gegenwirkungen nicht Rechenschaft geben will, politische Parteien, die
+                    zerfahren und unaufrichtig diesem Plane der Regierung ohne Halt, ohne Ideen,
+                    ohne Willen gegenüber stehen, die Sozialdemokraten , die alles an Terrorismus
+                    und Einschüchterung leisten, um einen Preis, der ihnen unerwartet winkt, in
                     Sicherheit zu bringen, eine Presse , die ebenso feig wie falsch gegen ihre
                     Ueberzeugung zu gleicher Zeit für und gegen die Wahlreform schreibt – endlich
                     die Abgeordneten jeder nur an seinen zukünftigen Wahlbezirk denkend, käuflich
@@ -512,16 +548,17 @@
                     Stürgkh vollkommen intransigent und borniert, jene Herren bei uns, die am
                     wenigsten parlamentarisch gearbeitet hatten, am meisten schreiend, unmöglich
                     einen Gegenplan zur Verhandlung, geschweige zur Annahme zu bringen. Persönlich
-                    behielt ich enge Fühlung mit jenem Teil der deutschen Abgeordneten, | die nicht
-                    ganz den Kopf verloren hatten, besonders mit dem allezeit grundehrlichen Pergelt
-                    , mit dem ich die Chancen der Deutschböhmen bei der zu erwartenden Wahlreform
-                    durcharbeitete. Er versammelte bei sich eine Anzahl von deutsch-böhmischen
-                    Abgeordneten, meines Wissens die einzigen, welche wenigsten von dem allgemeinen
-                    Standpunkt Deutschböhmen s aus, und nicht bloß von einzelnen Wahlbezirken
-                    ausgehend, den Stoff zum Gegenstand eines eingehenden Studiums machten. Meine
-                    Bemühungen und Anregungen, um ein deutsches Gesamtelaborat für alle Kronländer
-                    zustande zu bringen, scheiterten an der Zersplitterung der einzelnen Interessen,
-                    an der Eifersucht der Parteien, die die Regierung klug zu benützen verstand. </p>
+                    behielt ich enge Fühlung mit jenem Teil der deutschen Abgeordneten, <pb/> die
+                    nicht ganz den Kopf verloren hatten, besonders mit dem allezeit grundehrlichen
+                    Pergelt , mit dem ich die Chancen der Deutschböhmen bei der zu erwartenden
+                    Wahlreform durcharbeitete. Er versammelte bei sich eine Anzahl von
+                    deutsch-böhmischen Abgeordneten, meines Wissens die einzigen, welche wenigsten
+                    von dem allgemeinen Standpunkt Deutschböhmen s aus, und nicht bloß von einzelnen
+                    Wahlbezirken ausgehend, den Stoff zum Gegenstand eines eingehenden Studiums
+                    machten. Meine Bemühungen und Anregungen, um ein deutsches Gesamtelaborat für
+                    alle Kronländer zustande zu bringen, scheiterten an der Zersplitterung der
+                    einzelnen Interessen, an der Eifersucht der Parteien, die die Regierung klug zu
+                    benützen verstand. </p>
                 <p>Charakteristisch war der Versuch Gautsch s, eine teilweise Parlamentarisierung
                     der Regierung zustande zu bringen. Dies spielte im Jänner 1906. Er wollte damit
                     die Wahlreform sichern, hatte die Absicht Prade und Pacák zu Landsmannministern
@@ -534,8 +571,8 @@
                     Parteien beeinflußen, bereden, die Widerstrebenden an die Wand drücken. Beileibe
                     also nicht Ideen, politisch klare Ziele, sondern einfach das Einfangen der
                     wilden Elefanten durch die gezähmten. Alle diese Bemühungen spielen sich
-                    deswegen auch hinter den Kulissen ab. Nur einzelne | Persönlichkeiten, nicht die
-                    Parteien erfahren etwas von der Sache. Die Presse ergattert hie und da eine
+                    deswegen auch hinter den Kulissen ab. Nur einzelne <pb/> Persönlichkeiten, nicht
+                    die Parteien erfahren etwas von der Sache. Die Presse ergattert hie und da eine
                     Nachricht und beginnt sofort ihr doppeltes Spiel, lobt und tadelt, berichtet
                     Wahres und Falsches, alarmiert ohne wirklich zu informieren und es verbreitet
                     sich bald eine Atmosphäre des allgemeinen Mißtrauens, in der der ganze Plan
@@ -557,7 +594,7 @@
                     Mähren , die deutschen Eisenbahndirektionen in Böhmen sind angesichts einer
                     Staatsfrage ersten Ranges Gegenstand des Schachers, der sich zerschlägt.
                     Nebenbei aber doch auch geheime Besprechungen desselben Kreises von
-                    Abgeordneten, ob man | nicht die ganze Wahlreform einverständlich doch noch
+                    Abgeordneten, ob man <pb/> nicht die ganze Wahlreform einverständlich doch noch
                     verhindern könnte. </p>
                 <p>Schließlich wurde der Gesetzentwurf betreffend die Wahlreform vorgelegt und die
                     grosse Generaldebatte spielte sich ab. Die einzigen, die eigentlich ins Feuer
@@ -579,9 +616,9 @@
                     den Alldeutschen .“ Als ich dann ausführlicher die Folgen des allgemeinen
                     Stimmrechts auf den Parlamentarismus und die Führung der Staatsgeschäfte in
                     Oesterreich nach meiner Ueberzeugung auseinandersetzte, unterbrach mich der
-                    Kaiser abermals: „Das sind alles Ansichten, die man | begründen kann, es gibt
-                    aber andere Mittel, um seine Opposition zum Ausdruck zu bringen. Es ist nicht
-                    notwendig, mit Leuten zu stimmen, die solche Reden halten, denn das waren
+                    Kaiser abermals: „Das sind alles Ansichten, die man <pb/> begründen kann, es
+                    gibt aber andere Mittel, um seine Opposition zum Ausdruck zu bringen. Es ist
+                    nicht notwendig, mit Leuten zu stimmen, die solche Reden halten, denn das waren
                     hochverräterische Reden. Es ist tief bedauerlich, daß der Großgrundbesitz das
                     getan hat.“ Als ich nun abermals mir zu antworten erlaubte, daß auch bei unsern
                     Herren wie in jeder politischen Partei die Stimmung eine grosse Rolle spiele,
@@ -605,8 +642,8 @@
                     reich und gut, die Weine ebenso, die Stimmung bei Tisch lebhaft und die
                     Konversation nachher sehr ernst und ausführlich. Sie dauerte bis nach
                     Mitternacht. Fürstenberg war aufgeknüpft wie immer und es war gar nicht
-                    notwendig, das Eis zu brechen, denn er ließ es | gar nicht dazu kommen, daß sich
-                    eines bildete. Der Hausherr war ruhig wie immer, aber ausserordentlich
+                    notwendig, das Eis zu brechen, denn er ließ es <pb/> gar nicht dazu kommen, daß
+                    sich eines bildete. Der Hausherr war ruhig wie immer, aber ausserordentlich
                     liebenswürdig. Ferdinand Lobkowitz ließ es sich bei Tisch sehr gut schmecken und
                     es wirkte das gute Diner in seiner Stimmung sichtlich nach. Mildernd,
                     entgegenkommend. Alain Rohan war schweigsam, aber sehr aufmerksam. Karl
@@ -629,9 +666,9 @@
                     nicht verfehlt hätte, der Wahlreformfrage eine für die konservativen Elemente
                     Oesterreich s günstige Wendung zu geben und eine Modifikation der Wahlordnung zu
                     erzielen. In diesen Tagen sagte Kramář einmal zu mir: „Die Herren sollten doch
-                    irgend einen plausiblen Vorschlag machen, über den man reden könnte.“ Damals |
-                    stand die Sache der Wahlreform keineswegs sicher, Lueger sagte wiederholt zu
-                    mir: „Es kommt ja zu nichts“. Die Wahrscheinlichkeit eine Modifikation des
+                    irgend einen plausiblen Vorschlag machen, über den man reden könnte.“ Damals
+                    <pb/> stand die Sache der Wahlreform keineswegs sicher, Lueger sagte wiederholt
+                    zu mir: „Es kommt ja zu nichts“. Die Wahrscheinlichkeit eine Modifikation des
                     allgemeinen Stimmrechts durchzusetzen war vorhanden, wenn wir aus der starren
                     Opposition in eine Mitarbeit hätten eintreten können. Unserer Ansicht neigte
                     Fürstenberg zu, der so wie wir der Meinung ist, daß das allgemeine Wahlrecht so
@@ -654,8 +691,8 @@
                     Herren zu einer positiven Aktion im Sinne eines modernen und möglichen
                     Vermittlungsantrages nicht zu bringen seien. Ihr Hass gegen Gautsch und die
                     Wahlreform war zu groß, ihre Kenntnisse und Einsichten über die Entwicklung, die
-                    das | Wahlrecht in ganz Europa nimmt, zu klein, die Beurteilung der politischen
-                    Gesamtlage zu kurzsichtig. </p>
+                    das <pb/> Wahlrecht in ganz Europa nimmt, zu klein, die Beurteilung der
+                    politischen Gesamtlage zu kurzsichtig. </p>
                 <p>[Sie waren im Grunde alle überzeugt, daß das Curienwahlrecht nicht zu halten sei,
                     aber sie brachten den Willen nicht auf, grosszügig sich zu einem Opfer zu
                     bekennen, das damals noch gewisse konservative Interessen gerettet hätte. Sie
@@ -686,7 +723,7 @@
                     war die Folie für das Auftreten Gautsch . Aber die Verhandlungen mit der
                     Koalition wurden nicht definitiv abgebrochen und führten endlich zum Ministerium
                     Wekerle , das am 8. April 1906 beeidigt wurde. </p>
-                <p>| Damals hielt Wekerle im großen Saal des Hotel Royal in Budapest unmittelbar
+                <p><pb/> Damals hielt Wekerle im großen Saal des Hotel Royal in Budapest unmittelbar
                     nach seinem Amtsantritt vor den versammelten Mitgliedern der Koalitionsparteien
                     eine grosse Rede. Er verkündete, daß die Militärfrage ausgeschaltet sei, da die
                     Regierung während der Uebergangszeit die Frage der Dienst- und Kommandosprache
@@ -707,7 +744,7 @@
                     1905 gesagt haben. Der Kaiser hatte, wenn er den Weg Fejérváry aufgeben wollte,
                     zwei Möglichkeiten: Programm Wekerle und Programm Andrássy . Wekerle verlangte
                     nur die vorläufige Ausschaltung der militärischen Frage, hoffte von der Zeit
-                    eine Abschwächung dieser Forderungen und legte das | Hauptgewicht auf die
+                    eine Abschwächung dieser Forderungen und legte das <pb/> Hauptgewicht auf die
                     Erhaltung der 67er Basis, d.h. auf die Gemeinsamkeit [mit gewissen
                     Modifikationen] . Andrássy war gegen jeden faulen Frieden für ein klares
                     Kompromiss in der Militärfrage , das diese Frage definitiv aus der Welt schafft
@@ -732,8 +769,8 @@
                 <p>So ist es ein fauler Friede, der geschlossen worden ist, der aber den Kaiser
                     präjudiziert und den separatistischen Bestrebungen Ungarn s auf
                     staatsrechtlichem und wirtschaftlichem Gebiete Vorschub leistet, die
-                    militärische Frage offen lässt, in der wirtschaftlichen | an Stelle des Zoll-
-                    und Handelsbündnisses den Zollvertrag setzt, [den Ungarn einen autonomen
+                    militärische Frage offen lässt, in der wirtschaftlichen <pb/> an Stelle des
+                    Zoll- und Handelsbündnisses den Zollvertrag setzt, [den Ungarn einen autonomen
                     Zolltarif einräumt] und die Wahlreform auf unbestimmte Zeit vertagt. </p>
                 <p>In dieser Zeit, April 1906, wurde die Stellung Gautsch immer schwieriger. Die
                     Polen waren gegen ihn, und es ist keine Aussicht vorhanden, daß er sich mit
@@ -757,8 +794,8 @@
                     umbringen wolle, indem er uns den Rat gab zu kandidieren und unsere Grundsätze
                     im Volke zu vertreten. Das wurde als Hohn aufgefasst, während es doch nur eine
                     allerdings grundfalsche Vorstellung von der politischen Situation gewesen ist. </p>
-                <p>| Seine Politik war durchaus reinlich und wenn er sich hätte halten können, wäre
-                    es zur Herrschaft des Sieghartismus , wie er es nannte, in Österreich nicht
+                <p><pb/> Seine Politik war durchaus reinlich und wenn er sich hätte halten können,
+                    wäre es zur Herrschaft des Sieghartismus , wie er es nannte, in Österreich nicht
                     gekommen. Praktische Arbeit leistete er insbesondere mit Hilfe Marchets , der
                     ihm im Wahlreformausschuss treue Dienste leistete, wo Hohenlohes den Deutschen
                     günstiger Kompromißvorschlag in Sachen der deutschen Mandatszahl und der
@@ -781,7 +818,7 @@
             </div>
 
             <div>
-                <p>| 7. Beck bis zur Verabschiedung der Wahlreform </p>
+                <p><pb/> 7. Beck bis zur Verabschiedung der Wahlreform </p>
                 <p>Als Beck anfangs Juni 1906 die Geschäfte übernahm, wurde von verschiedenen Seiten
                     behauptet, daß in den obersten Kreisen bezüglich der Wahlreform eine
                     Sinnesänderung eingetreten sei. Es wäre erklärlich gewesen, daß, wenn der Plan
@@ -804,10 +841,10 @@
                     haben und sein Auftreten war nicht danach angetan, eine solche Wendung
                     vorzubereiten. Er ging im Gegenteil gerade und mit allen Mitteln auf das
                     allgemeine Stimmrecht los. </p>
-                <p>Gleich in den ersten Tagen seines Ministeriums | hatte ich mit den beiden neuen
-                    Landsmannministern Prade und Dzieduszycki eine Besprechung. Prade war klar und
-                    zynisch wie immer Die Wahlreform muss gemacht werden auf Grund des Hohenlohe
-                    ’schen Kompromissvorschlages. Die Regierung kann bezüglich der
+                <p>Gleich in den ersten Tagen seines Ministeriums <pb/> hatte ich mit den beiden
+                    neuen Landsmannministern Prade und Dzieduszycki eine Besprechung. Prade war
+                    klar und zynisch wie immer Die Wahlreform muss gemacht werden auf Grund des
+                    Hohenlohe ’schen Kompromissvorschlages. Die Regierung kann bezüglich der
                     Zweidrittelmajorität keine Stellung nehmen, aber die Tschechen werden sich
                     überstimmen lassen. Der Ausschuß muß Mitte Juli fertig sein und die Sache kommt
                     dann gleich ins Haus, welches eventuell bis in den August zu tagen hätte. Das
@@ -827,7 +864,7 @@
                     vorläufig anzustreben. Die ganze Konversation hatte offenbar den Zweck seinen
                     Eintritt in das Ministerium zu rechtfertigen, da er doch bisher der größte
                     Gegner der Wahlreform gewesen ist. </p>
-                <p>Der Hintergrund für die | folgenden Parlamentsverhandlungen bildete der
+                <p>Der Hintergrund für die <pb/> folgenden Parlamentsverhandlungen bildete der
                     Terrorismus , den die Sozialisten im Parlament, in Versammlungen und in ihrer
                     Presse übten. Die Regierung ließ ihnen ungehemmt die Zügel schießen. In den
                     letzten Tagen Hohenlohe s hielt Daszyński in Lemberg eine Rede, die in der
@@ -849,21 +886,21 @@
                     halten (stürmischer, langanhaltender Beifall).“ </p>
                 <p>Im Wahlreformausschuss entstand nun ein bis in den Oktober dauernder Kampf um die
                     Details der Wahlreform, insbesondere der Wahlkreiseinteilung . Das Resultat für
-                    Böhmen hat die eine gute Seite, daß die | Wahlkreise streng national abgegrenzt
-                    sind. Die Deutschen haben allerdings um einige Mandate mehr, als nach der
-                    Bevölkerungsziffer auf sie entfallen würde, aber ihre Steuerleistung, ihre alte
-                    kulturelle Bedeutung und ihre historischen Minoritäten bleiben unberücksichtigt.
-                    Letzteres gilt insbesondere von Prag , Budweis und Pilsen . In einer großen Rede
-                    (der Einzigen, die ich im Wahlreformausschuß hielt) trat ich dafür ein, daß den
-                    Deutschen in Prag ein Mandat und den Deutschen in Budweis und Pilsen zusammen
-                    auch ein Mandat (auf Grund eines nationalen Katasters nach mährischem Muster)
-                    zugewiesen würde. Ich warf einen historischen Rückblick auf das Zusammenleben
-                    der Deutschen und Tschechen in Böhmen , auf die wechselnden Schicksale, welche
-                    im Laufe der Jahrhunderte Deutsche und Tschechen in Böhmen erfahren haben, auf
-                    die großen Wandlungen der Ereignisse in diesem Lande, die einmal die eine
-                    Nation, dann wieder die andere einseitig begünstigt haben und kam zu dem
-                    Schluss, daß wir endlich diese für uns beide unheilvolle historische Peripetie
-                    schließen und uns auf den Boden moderner Ideen einrichten sollen. Ich
+                    Böhmen hat die eine gute Seite, daß die <pb/> Wahlkreise streng national
+                    abgegrenzt sind. Die Deutschen haben allerdings um einige Mandate mehr, als nach
+                    der Bevölkerungsziffer auf sie entfallen würde, aber ihre Steuerleistung, ihre
+                    alte kulturelle Bedeutung und ihre historischen Minoritäten bleiben
+                    unberücksichtigt. Letzteres gilt insbesondere von Prag , Budweis und Pilsen . In
+                    einer großen Rede (der Einzigen, die ich im Wahlreformausschuß hielt) trat ich
+                    dafür ein, daß den Deutschen in Prag ein Mandat und den Deutschen in Budweis und
+                    Pilsen zusammen auch ein Mandat (auf Grund eines nationalen Katasters nach
+                    mährischem Muster) zugewiesen würde. Ich warf einen historischen Rückblick auf
+                    das Zusammenleben der Deutschen und Tschechen in Böhmen , auf die wechselnden
+                    Schicksale, welche im Laufe der Jahrhunderte Deutsche und Tschechen in Böhmen
+                    erfahren haben, auf die großen Wandlungen der Ereignisse in diesem Lande, die
+                    einmal die eine Nation, dann wieder die andere einseitig begünstigt haben und
+                    kam zu dem Schluss, daß wir endlich diese für uns beide unheilvolle historische
+                    Peripetie schließen und uns auf den Boden moderner Ideen einrichten sollen. Ich
                     reklamierte die zwei Mandate ebenso sehr auf Grund des historischen Anrechtes
                     [der Deutschen] als ihrer modernen, kulturellen und wirtschaftlichen Bedeutung,
                     die dieses erbangesessene Deutschtum für die Entwicklung ganz Böhmen s seit
@@ -872,7 +909,7 @@
                     Situation nicht entscheidend. Von den Tschechen wurde ich selbstverständlich
                     bekämpft, aber am gehässigsten von Dr. Gessmann , der sich mit Haut und Haar der
                     Wahlreform verschrieben hatte. Natürlich wurde mein Antrag abgelehnt. </p>
-                <p>|Beck betrieb das Geschäft im Wahlreformausschuss mit einer grossen
+                <p><pb/>Beck betrieb das Geschäft im Wahlreformausschuss mit einer grossen
                     Geschicklichkeit, am lebhaftesten unterstützt von Marchet , Kramář , Löcker und
                     Gessmann . Seine Methode bestand darin, die ganze Wahlreformaktion in
                     Einzelgefechte für jedes Kronland und in diesen wieder von Mandat zu Mandat
@@ -894,7 +931,7 @@
                     damit, daß sie in diesem Falle kein neues Mandat in Istrien bekommen, was sie
                     anstreben. Prade erklärt den Christlich-Sozialen , die sich auch dem deutschen
                     Mandat von Biala geneigt zeigen, daß ein deutsches Mandat in Biala die ganze
-                    Wahlreform vereiteln würde, worauf sie | erklären, nicht deutscher als der
+                    Wahlreform vereiteln würde, worauf sie <pb/> erklären, nicht deutscher als der
                     deutsche Landsmannminister sein zu wollen und stimmen gegen Biala . Die
                     Deutschen sind leider die Charakterlosesten bei diesem Geschäfte. Ihre Furcht
                     vor den Sozialdemokraten ist geradezu lächerlich. Lecher , Kienmann , Löcker
@@ -919,8 +956,8 @@
                     kommen werde, stützten sich im wesentlichen auf drei Annahmen: die Krone wird
                     anderer Meinung werden – die nationalen Parteien werden sich bezüglich der
                     Verteilung der Mandate nicht einigen – die Zeit wird zu kurz werden bis Ende
-                    Jänner 1907. Dem entgegen steht heute fest: Die Krone bleibt bei | ihrer Meinung
-                    und alle gegenteiligen Gerüchte sind Wünsche aber keine Tatsachen – die
+                    Jänner 1907. Dem entgegen steht heute fest: Die Krone bleibt bei <pb/> ihrer
+                    Meinung und alle gegenteiligen Gerüchte sind Wünsche aber keine Tatsachen – die
                     nationalen Parteien haben sich bezüglich der Mandate geeinigt – auch die Zeit
                     wird reichen, denn die Erfahrung der Juliwochen zeigt, daß das parlamentarische
                     Kabinett eine grosse Pression auf die Parteien und den Gang der Verhandlungen
@@ -944,8 +981,8 @@
                     auszunützen. Die Zeit der geborenen Staatsparteien ist vorbei. Damit räumt das
                     allgemeine Wahlrecht vollkommen auf. Es wird in der Zukunft nur national
                     wirtschaftliche Parteien geben, die parlamentarisch auf ein Ziel zu vereinigen
-                    die schwere vielleicht | unlösbare Aufgabe der Regierung sein wird. Wir müssen
-                    daher national und wirtschaftlich werden, d. h.: uns als deutscher
+                    die schwere vielleicht <pb/> unlösbare Aufgabe der Regierung sein wird. Wir
+                    müssen daher national und wirtschaftlich werden, d. h.: uns als deutscher
                     Großgrundbesitz erklären und auf Seite der Agrarier treten, der wirtschaftlichen
                     Gruppe, die uns am nächsten steht. Damit tun wir gar nichts anderes, als die
                     Konsequenzen ziehen, die in der Wahlreform selbst liegen. Wir müssen uns
@@ -968,8 +1005,8 @@
                     Beginn der Verhandlungen im Ausschusse auftauchen wird. Ich bin dagegen, das
                     Pluralwahlrecht bloß dazu zu benützen, um der Regierung ein Bein zu stellen und
                     den letzten Versuch zu machen, die Wahlordnung zu Fall zu bringen. Das ist
-                    allerdings die ausgesprochene Absicht unserer Intransigenten, | würde aber gewiß
-                    wieder nur zu einer Niederlage führen. Das Pluralwahlrecht muß an sich ein
+                    allerdings die ausgesprochene Absicht unserer Intransigenten, <pb/> würde aber
+                    gewiß wieder nur zu einer Niederlage führen. Das Pluralwahlrecht muß an sich ein
                     mäßiges sein, denn zu grundstürzenden Aenderungen der Wahlreform ist es jetzt zu
                     spät und es muß als ein loyal angebotenes Kompromiß beantragt werden. Unter
                     diesen zwei Voraussetzungen ist die Aktion nicht aussichtslos, denn so
@@ -992,7 +1029,7 @@
                     unsere Stellung in der Zukunft vorzubereiten. Das sollte der Standpunkt sein,
                     den wir – falls es überhaupt zu einer allgemeinen Wählerversammlung im Herbste
                     kommt in derselben vertreten. </p>
-                <p>| Gelänge es uns, diesen Plan mit den anderen konservativen Parteien des
+                <p><pb/> Gelänge es uns, diesen Plan mit den anderen konservativen Parteien des
                     Abgeordnetenhauses und mit dem Herrenhaus zu vereinbaren, hätten wir das
                     Verdienst sie alle aus einer Sackgasse herausgeführt zu haben. </p>
             </div>
@@ -1018,14 +1055,15 @@
                     Stephansordens. </p>
                 <p>Von den Mitteln, die hinter den Kulissen, insbesondere im Abgeordnetenhaus
                     angewendet wurden um Parteien und Personen für die Wahlreform zu gewinnen, will
-                    ich nicht reden. Der ehrliche Pacák sagte mir einmal: | „Wenn Sie wüssten, was
-                    die Wahlreform und der Ausgleich mit Ungarn gekostet hat, würden Ihnen die Haare
-                    zu Berge stehen.“ </p>
+                    ich nicht reden. Der ehrliche Pacák sagte mir einmal: <pb/> „Wenn Sie wüssten,
+                    was die Wahlreform und der Ausgleich mit Ungarn gekostet hat, würden Ihnen die
+                    Haare zu Berge stehen.“ </p>
                 <p>Lünz , im Sommer 1907 </p>
             </div>
 
             <div>
-                <p> | 10. Meine Wahlbewerbung im Marienbad er Landbezirk </p>
+                <p>
+                    <pb/> 10. Meine Wahlbewerbung im Marienbad er Landbezirk </p>
                 <p>Von allen Seiten – den Kaiser nicht ausgenommen – wurden wir Großgrundbesitzer
                     aufgefordert zu kandidieren und uns dem allgemeinen Wahlrecht zu stellen.
                     Grabmayr versuchte es in Tirol , Stürgkh in Steiermark , Larisch in Schlesien ,
@@ -1047,7 +1085,7 @@
                     weitblickend sein und Dinge und Verhältnisse billig beurteilen, aber sie
                     entbehrten deswegen des Erdgeschmackes der Politik, des unmittelbaren
                     Zusammenhanges mit den augenblicklichen Volksströmungen. Wir spielten im
-                    Parlament eine große Rolle, wurden auch außerhalb desselben | anerkannt,
+                    Parlament eine große Rolle, wurden auch außerhalb desselben <pb/> anerkannt,
                     entbehrten aber des Zusammenhanges mit der Volksseele. Daher war es
                     ausgeschlossen, daß wir als Partei mit einem bestimmten Programm in die
                     Wahlbewegung eintreten konnten. In Böhmen machten wir den Versuch, uns den
@@ -1072,7 +1110,7 @@
                     Absicht, die nicht ungünstig aufgenommen wurde, aber ich konnte darüber nicht im
                     Zweifel sein, daß die Majorität der Wählerschaft deutsch-radikal sei und einen
                     Großgrundbesitzer aus der Gegend nicht akzeptieren würde. Ich ließ mich aber
-                    nicht verdrießen, mit den Deutschradikalen Fühlung zu | suchen, es war aber
+                    nicht verdrießen, mit den Deutschradikalen Fühlung zu <pb/> suchen, es war aber
                     nicht zu machen. So entschloß ich mich endlich, es im Marienbad er Landbezirk zu
                     versuchen. Es kandidierten dort: ein Schönerianischer Bauer, ein
                     Christlichsozialer , ein Sozialdemokrat und ein zweiter Bauer, der aber bald zu
@@ -1097,34 +1135,35 @@
                     also einen Mann, der alles in sich vereinigte, was sie am schärfsten bekämpften,
                     erklärt sich wieder nur daraus, daß ich ein Großgrundbesitzer , ein
                     Privilegierter, gegen das allgemeine Stimmrecht votiert hatte, den zu wählen,
-                    trotz der Verbindungen, die ich seit Jahren mit den | Sozialdemokraten hatte,
-                    sie nicht übers Herz brachten. Ich fuhr nach Wien und sprach mit Pernerstorfer ,
-                    mit dem ich auf dem besten Fuß war, über die Stichwahl. Er war bereit, mir zu
-                    helfen, aber die Genossen in meinem Wahlbezirk kümmerten sich um diese
-                    Einwirkungen von Wien nicht im geringsten. Aber auch die Christlich-Sozialen
-                    hatte ich nicht alle in der Stichwahl für mich, trotz Helmer und Tepl , denn
-                    Gessmann hatte gegen mich gearbeitet. Am unanständigsten benahmen sich die
-                    Agrarier . In der deutschen Sektion des Landeskulturrates war ihr Hauptquartier.
-                    Dort machte man mir Aussichten und stellte in dem Bezirk auch keinen offiziellen
-                    Kandidaten der Agrarpartei auf. Aber ich merkte bald, daß der zu ihnen
-                    abgeschwenkte Schönerianer ihre geheime Unterstützung hatte. Brutal erklärte mir
-                    Peschka , daß, wenn ich in den Versammlungen mich nicht unbedingt gegen den
-                    österreichisch-ungarischen Ausgleich erkläre, er mich nicht unterstützen könne –
-                    derselbe Ehrenmann, der sich sein und seiner Partei Votum für den Ausgleich von
-                    Beck mit einem Ministerportefeuille abkaufen ließ. Auch der agrarische
-                    Abgeordnete Jesser agitierte eifrig gegen mich, die extrem agrarische Richtung
-                    gegen mich ausspielend – um selbst bei der nächsten Reichsratswahl umzuschwenken
-                    und sich in einem industriellen Bezirk Mähren s mit Unterstützung der großen
-                    Unternehmer wählen zu lassen. Am meisten enttäuschte mich, daß die Lehrerschaft
-                    des Wahlbezirkes gegen mich war. Ich hatte unter ihnen nur drei, allerdings
-                    ehrliche und tätige Anhänger. Die andern gingen mit meinen Gegnern. Einer der
-                    führenden Lehrer des Bezirkes, den ich in seinem Dorfe besuchte, sagte mir: sie
-                    sind einer der hervorragendsten Männer, die wir haben, aber ich bin ihren
-                    Gegnern schon verpflichtet. Ein anderer bezeugte große Freude, als ich ihn
-                    besuchte, schüttelte mir die Hand und sagte: Ihre Reden lese ich immer mit
-                    größtem Interesse – aber zugleich erklärte er mir, daß er gegen mich stimmen
-                    werde. </p>
-                <p> | Diese Erlebnisse erinnerten mich an den seinerzeitigen Wahlkampf Rémusat
+                    trotz der Verbindungen, die ich seit Jahren mit den <pb/> Sozialdemokraten
+                    hatte, sie nicht übers Herz brachten. Ich fuhr nach Wien und sprach mit
+                    Pernerstorfer , mit dem ich auf dem besten Fuß war, über die Stichwahl. Er war
+                    bereit, mir zu helfen, aber die Genossen in meinem Wahlbezirk kümmerten sich um
+                    diese Einwirkungen von Wien nicht im geringsten. Aber auch die
+                    Christlich-Sozialen hatte ich nicht alle in der Stichwahl für mich, trotz Helmer
+                    und Tepl , denn Gessmann hatte gegen mich gearbeitet. Am unanständigsten
+                    benahmen sich die Agrarier . In der deutschen Sektion des Landeskulturrates war
+                    ihr Hauptquartier. Dort machte man mir Aussichten und stellte in dem Bezirk auch
+                    keinen offiziellen Kandidaten der Agrarpartei auf. Aber ich merkte bald, daß der
+                    zu ihnen abgeschwenkte Schönerianer ihre geheime Unterstützung hatte. Brutal
+                    erklärte mir Peschka , daß, wenn ich in den Versammlungen mich nicht unbedingt
+                    gegen den österreichisch-ungarischen Ausgleich erkläre, er mich nicht
+                    unterstützen könne – derselbe Ehrenmann, der sich sein und seiner Partei Votum
+                    für den Ausgleich von Beck mit einem Ministerportefeuille abkaufen ließ. Auch
+                    der agrarische Abgeordnete Jesser agitierte eifrig gegen mich, die extrem
+                    agrarische Richtung gegen mich ausspielend – um selbst bei der nächsten
+                    Reichsratswahl umzuschwenken und sich in einem industriellen Bezirk Mähren s mit
+                    Unterstützung der großen Unternehmer wählen zu lassen. Am meisten enttäuschte
+                    mich, daß die Lehrerschaft des Wahlbezirkes gegen mich war. Ich hatte unter
+                    ihnen nur drei, allerdings ehrliche und tätige Anhänger. Die andern gingen mit
+                    meinen Gegnern. Einer der führenden Lehrer des Bezirkes, den ich in seinem Dorfe
+                    besuchte, sagte mir: sie sind einer der hervorragendsten Männer, die wir haben,
+                    aber ich bin ihren Gegnern schon verpflichtet. Ein anderer bezeugte große
+                    Freude, als ich ihn besuchte, schüttelte mir die Hand und sagte: Ihre Reden lese
+                    ich immer mit größtem Interesse – aber zugleich erklärte er mir, daß er gegen
+                    mich stimmen werde. </p>
+                <p>
+                    <pb/> Diese Erlebnisse erinnerten mich an den seinerzeitigen Wahlkampf Rémusat
                     –Barodet in einem Paris er Wahlbezirk, wo der Akademiker gegen den Barbier
                     durchfiel. </p>
                 <p>Ich hatte mich gleich zu Beginn des Jahres 1907 in dem Hotel Neptun in Marienbad
@@ -1149,50 +1188,50 @@
                     gewinnen. Aber im ganzen Wahlbezirk, bei den schlechten Kommunikationen und den
                     Schneeverhältnissen jedes Dorf, jede kleine Ortschaft zu besuchen, erwies sich
                     als Ding der Unmöglichkeit. Ich lud also in eine größere Wirtsstube die Wähler
-                    mehrerer Dörfer ein. Auch bestellte ich einige Agenten, die herumreisten, und |
-                    verteilte Flugschriften aller Art. Der Landtag tagte um jene Zeit in Prag , und
-                    ich hielt dort eine Rede ad hoc über wirtschaftliche Verhältnisse und die Hebung
-                    der ländlichen Bevölkerung sowie über den österreichisch-ungarischen Ausgleich.
-                    Ich ließ sie in tausenden von Exemplaren drucken und schickte sie an die Wähler.
-                    Sehr geschadet hat mir eine Unterbrechung dieser Arbeit durch ein zwei Wochen
-                    dauerndes Unwohlsein, gerade in der Zeit, wo meine Anwesenheit am notwendigsten
-                    gewesen wäre. Aber auch während dieser Zeit ging meine ausgebreitete
-                    Korrespondenz weiter. Ich habe hunderte von Briefen diktiert und an jeden Wähler
-                    ein kurz gefasstes Programm versendet. Wo und wie ich konnte, erwies ich
-                    Gefälligkeiten. In einem großen Dorf in der unmittelbaren Nachbarschaft von
-                    Marienbad hatte einer der Dorfmagnaten unvorsichtigerweise ein geladenes Gewehr
-                    in der Scheune stehen lassen, das durch zufälliges Losgehen die Verletzung einer
-                    Person verursachte. Er war in erster Instanz wegen fahrlässiger Körperverletzung
-                    verurteilt worden und die Nichtigkeitsbeschwerde war beim Obersten Gerichtshof
-                    anhängig. Ich wurde dringend gebeten, zu intervenieren und einen Freispruch zu
-                    erlangen. Eine schwere Sache, wenn ich auch nach den unbefangenen Erzählungen
-                    der braven Leute den Eindruck hatte, daß die Verurteilung wirklich nicht gerecht
-                    war. Lange zögerte ich, endlich entschloss ich mich, doch zu Ruber zu gehen, um
-                    ihn zu fragen, wie die Sache stehe. Er gab mir aber sofort die Auskunft, daß sie
-                    schon entschieden und der Freispruch erfolgt sei. Man wird es begreiflich
-                    finden, daß ich dieses Ergebnis sofort nach dem Dorf in Marienbad
-                    telegraphierte, wo die Nachricht einige Tage früher eintraf, als die
-                    Verständigung durch das Kreisgericht in Eger . Das ganze Dorf stimmte wie ein
-                    Mann für mich. In einem andern Fall handelte es sich um die Befreiung von einer
-                    Landwehrdienstleistung. Auch diese Bitte war der Sachlage nach gerechtfertigt,
-                    aber der | Betreffende, ein einflußreicher Grundbesitzer in einem großen Dorf,
-                    hatte diese Befreiung nicht erreichen können. Ich fuhr nach Eger zum
-                    Landwehrkommando, sprach auch beim Landesverteidigungsministerium in Wien vor
-                    und erreichte die Befreiung. Auch dieses Dorf war eine feste Burg für mich. Aber
-                    ich beging auch Fehler. Ein großes Dorf verlor ich wegen eines ungeschickten
-                    Zwiegespräches mit einem dortigen Pfarrer. Dieser interpellierte mich wegen der
-                    damals vielerörterten Frage der sogenannten Volksversicherung. Besonders die
-                    christlich-soziale Partei hatte dieses Schlagwort ausgegeben und gegen das
-                    Verlangen der Arbeiter nach der Alters- und Invalidenversicherung ausgespielt.
-                    Statt mich zu dem frommen Betrug dieses Schlagwortes zu bekennen und in irgend
-                    einer Weise zuzustimmen und zu versprechen, beging ich die Torheit, das Thema
-                    der Sozialversicherung, wenn auch in sehr populären Ausdrücken, so doch vom
-                    Standpunkt neuer Studien und Überzeugungen darzustellen. Ich räumte ein, daß ein
-                    kleiner selbständiger Besitzer oder Gewerbemann ein gleiches Anrecht wie der
-                    Lohnarbeiter habe, für sein Alter gesichert zu sein, versuchte aber, natürlich
-                    vergebens, zu erklären, wie das unter anderer Form, als die der
-                    Arbeiterversicherung erzielt werden müsse. In diesem Dorf stimmte niemand für
-                    mich. </p>
+                    mehrerer Dörfer ein. Auch bestellte ich einige Agenten, die herumreisten, und
+                    <pb/> verteilte Flugschriften aller Art. Der Landtag tagte um jene Zeit in Prag
+                    , und ich hielt dort eine Rede ad hoc über wirtschaftliche Verhältnisse und die
+                    Hebung der ländlichen Bevölkerung sowie über den österreichisch-ungarischen
+                    Ausgleich. Ich ließ sie in tausenden von Exemplaren drucken und schickte sie an
+                    die Wähler. Sehr geschadet hat mir eine Unterbrechung dieser Arbeit durch ein
+                    zwei Wochen dauerndes Unwohlsein, gerade in der Zeit, wo meine Anwesenheit am
+                    notwendigsten gewesen wäre. Aber auch während dieser Zeit ging meine
+                    ausgebreitete Korrespondenz weiter. Ich habe hunderte von Briefen diktiert und
+                    an jeden Wähler ein kurz gefasstes Programm versendet. Wo und wie ich konnte,
+                    erwies ich Gefälligkeiten. In einem großen Dorf in der unmittelbaren
+                    Nachbarschaft von Marienbad hatte einer der Dorfmagnaten unvorsichtigerweise ein
+                    geladenes Gewehr in der Scheune stehen lassen, das durch zufälliges Losgehen die
+                    Verletzung einer Person verursachte. Er war in erster Instanz wegen fahrlässiger
+                    Körperverletzung verurteilt worden und die Nichtigkeitsbeschwerde war beim
+                    Obersten Gerichtshof anhängig. Ich wurde dringend gebeten, zu intervenieren und
+                    einen Freispruch zu erlangen. Eine schwere Sache, wenn ich auch nach den
+                    unbefangenen Erzählungen der braven Leute den Eindruck hatte, daß die
+                    Verurteilung wirklich nicht gerecht war. Lange zögerte ich, endlich entschloss
+                    ich mich, doch zu Ruber zu gehen, um ihn zu fragen, wie die Sache stehe. Er gab
+                    mir aber sofort die Auskunft, daß sie schon entschieden und der Freispruch
+                    erfolgt sei. Man wird es begreiflich finden, daß ich dieses Ergebnis sofort nach
+                    dem Dorf in Marienbad telegraphierte, wo die Nachricht einige Tage früher
+                    eintraf, als die Verständigung durch das Kreisgericht in Eger . Das ganze Dorf
+                    stimmte wie ein Mann für mich. In einem andern Fall handelte es sich um die
+                    Befreiung von einer Landwehrdienstleistung. Auch diese Bitte war der Sachlage
+                    nach gerechtfertigt, aber der <pb/> Betreffende, ein einflußreicher
+                    Grundbesitzer in einem großen Dorf, hatte diese Befreiung nicht erreichen
+                    können. Ich fuhr nach Eger zum Landwehrkommando, sprach auch beim
+                    Landesverteidigungsministerium in Wien vor und erreichte die Befreiung. Auch
+                    dieses Dorf war eine feste Burg für mich. Aber ich beging auch Fehler. Ein
+                    großes Dorf verlor ich wegen eines ungeschickten Zwiegespräches mit einem
+                    dortigen Pfarrer. Dieser interpellierte mich wegen der damals vielerörterten
+                    Frage der sogenannten Volksversicherung. Besonders die christlich-soziale Partei
+                    hatte dieses Schlagwort ausgegeben und gegen das Verlangen der Arbeiter nach der
+                    Alters- und Invalidenversicherung ausgespielt. Statt mich zu dem frommen Betrug
+                    dieses Schlagwortes zu bekennen und in irgend einer Weise zuzustimmen und zu
+                    versprechen, beging ich die Torheit, das Thema der Sozialversicherung, wenn auch
+                    in sehr populären Ausdrücken, so doch vom Standpunkt neuer Studien und
+                    Überzeugungen darzustellen. Ich räumte ein, daß ein kleiner selbständiger
+                    Besitzer oder Gewerbemann ein gleiches Anrecht wie der Lohnarbeiter habe, für
+                    sein Alter gesichert zu sein, versuchte aber, natürlich vergebens, zu erklären,
+                    wie das unter anderer Form, als die der Arbeiterversicherung erzielt werden
+                    müsse. In diesem Dorf stimmte niemand für mich. </p>
                 <p>Auf meinen langen Fahrten hatte ich Muße, darüber nachzudenken, worin die
                     richtige Vertretung eines solchen Bezirkes bestehen müsse. Ich nahm mir vor,
                     falls ich gewählt würde, jeden Sommer ein paar Wochen in Marienbad zuzubringen
@@ -1201,15 +1240,15 @@
                     für Maßregeln und Einrichtungen einzusetzen, die dem Bezirk nützen, die
                     Erziehungs- und Fürsorgeverhältnisse bessern und die Bevölkerung auch auf ein
                     höheres Niveau politischen Verständnisses heben würden. Ich malte mir diesen
-                    Plan in allen Einzelheiten aus, dachte, | zu diesen Zwecken Vereine zu gründen
-                    und Unterstützungen von der Regierung zu erlangen. Einer der mir zugetanen
-                    Lehrer fand die Idee ausgezeichnet und erbot sich, mich zu unterstützen. Mit
-                    diesem Manne konnte ich besprechen, was für eine solche landwirtschaftliche, in
-                    einer rauhen Gegend wohnende, im ganzen doch rückständige Bevölkerung geschehen
-                    könne. Er war kein Utopist, verkannte die Schwierigkeiten gegenüber einer
-                    schwerfälligen, an altem Hergebrachten hängenden Bevölkerung keineswegs, war
-                    aber sehr dafür, daß ein Abgeordneter mit so einem Versuche fürsorglicher und
-                    erzieherlicher Vertretung beginnen solle. </p>
+                    Plan in allen Einzelheiten aus, dachte, <pb/> zu diesen Zwecken Vereine zu
+                    gründen und Unterstützungen von der Regierung zu erlangen. Einer der mir
+                    zugetanen Lehrer fand die Idee ausgezeichnet und erbot sich, mich zu
+                    unterstützen. Mit diesem Manne konnte ich besprechen, was für eine solche
+                    landwirtschaftliche, in einer rauhen Gegend wohnende, im ganzen doch
+                    rückständige Bevölkerung geschehen könne. Er war kein Utopist, verkannte die
+                    Schwierigkeiten gegenüber einer schwerfälligen, an altem Hergebrachten hängenden
+                    Bevölkerung keineswegs, war aber sehr dafür, daß ein Abgeordneter mit so einem
+                    Versuche fürsorglicher und erzieherlicher Vertretung beginnen solle. </p>
                 <p>In den kleinen Städten konnte ich von den großen Fragen der Politik reden. Fast
                     regelmäßig waren auch meine Gegner anwesend, benahmen sich aber sehr anständig
                     und hörten meine Ausführungen mit sichtlicher Aufmerksamkeit an. Nur in den von
@@ -1226,9 +1265,9 @@
                     traute. Das war die Scheidewand, die ich zu durchbrechen nicht imstande war,
                     trotzdem ich mich immer in der Hand hatte, nie einen Unmut zeigte und
                     Gewohnheiten, die mich sonst unbeliebt machen, sorgfältig und mit Bewußtsein
-                    vermied. Ich hatte immer Begleiter, die mich | aufmerksam machten, wer von den
-                    Versammelten anzusprechen sei, was für lokale Interessen ich beachten müsse, wem
-                    ich das oder jenes zu Gehör reden solle u.s.w. Trotzdem gelang es mir nicht
+                    vermied. Ich hatte immer Begleiter, die mich <pb/> aufmerksam machten, wer von
+                    den Versammelten anzusprechen sei, was für lokale Interessen ich beachten müsse,
+                    wem ich das oder jenes zu Gehör reden solle u.s.w. Trotzdem gelang es mir nicht
                     immer, das Eis zu brechen. Im Nachbarbezirk gewann allerdings Graf Kolowrat das
                     Mandat in der Stichwahl. Aber er wurde rückhaltlos von den Agrariern
                     unterstützt, betrieb eine wohlorganisierte Agitation mit klingenden Argumenten,

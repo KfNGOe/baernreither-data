@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Die Tagebücher von Joseph Maria Baernreither</title>
                 <title type="volume">Tagebuch 8 (1905–1909)</title>
-               <title></title> 
+                <title/>
                 <author><persName ref="https://d-nb.info/gnd/118505858"><forename>Joseph
                             Maria</forename>
                         <surname>Baernreither</surname></persName></author>
@@ -91,8 +91,7 @@
                         stenographisch ergänzt, in Manuskript „Fragmente“ wiedergegeben siehe
                         dort</note></p>
                 <p>Ich will hier nicht die schmutzigen Peripetien dieses Processes schildern,
-     
-  sondern nur Streiflichter fixieren, von denen ein falsches in die Öffentlichkeit
+                    sondern nur Streiflichter fixieren, von denen ein falsches in die Öffentlichkeit
                     gedrungen ist.</p>
                 <p>Zuerst die <persName key="PacakBedrich" ref="1024898318" xml:id="tb_002"
                         >Pacák</persName>-<persName>Derschatta</persName> Frage.</p>
@@ -122,7 +121,6 @@
                     Ausschuss nicht <pb facs="#fK 5-005" n="7"/>finden, eine lächerliche Suche nach
                     ihm wird veranstaltet bis man ihn stellt u. er den bereits gescheiterten Plan
                     beichten muss. Ein Kartenbrief der ihn am <date when="1906-01-22">22.1.</date>
-
                     rechtzeitig zu einer Besprechung einladet trifft ihn „unmittelbar“ vor Abgang
                     des letzten Zuges nach <placeName>Graz</placeName>: Telegramm N. 1. Durch
                     wichtige Kanzleigeschäfte ist er bis Freitag „festgenagelt“: Telegramm N. 2.
@@ -143,35 +141,40 @@
             </div>
             <div>
                 <p><add><pb facs="#fK 5-006" n="8"/>Diarium der Verhandlungen des Herrn von
-                            <persName>Derschatta</persName> mit <persName>Gautsch</persName>,
-                        aufgenommen in der Sitzung des 4 Ausschusses vom <date when="1906-01-25"
-                            >25.1.1906</date>.</add></p>
+                            <persName>Derschatta</persName> mit <persName key="GautschPaul"
+                            ref="https://d-nb.info/gnd/137078080">Gautsch</persName>, aufgenommen in
+                        der Sitzung des 4 Ausschusses vom <date when="1906-01-25"
+                        >25.1.1906</date>.</add></p>
                 <!-- an der Stelle eine lange Einfügung durch eingeklebtes Blatt, diese Einfügung ist aber selbst wiederum mit Absätzen strukturiert, aber das offenbar nicht zugelassen... wie damit umgehen? -->
                 <p><date when="1906-01-12">Freitag den 12.1.1906</date> Telegrafische Einladung von
-
-           <persName>Gautsch</persName> zu einer Besprechung.</p>
-                <p><date when="1906-01-13">Samstag den 13. Vormittag</date> bei
-                        <persName>Gautsch</persName>. Mitteilung der Wahlordnung unter Ehrenwort.
-                    205 deutsche Mandate bei einer Vermehrung der Gesamtzahl. Auf die Ziffern für
-                        <placeName>Galizien</placeName> wurde nicht eingegangen. Allgemeine
-                    politische Erörterungen über die Wahlreform die er machen will, Schwierigkeiten
-                    und Erörterungen über die Parteien, die geneigt sind.</p>
+                        <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> zu einer Besprechung.</p>
+                <p><date when="1906-01-13">Samstag den 13. Vormittag</date> bei <persName
+                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>.
+                    Mitteilung der Wahlordnung unter Ehrenwort. 205 deutsche Mandate bei einer
+                    Vermehrung der Gesamtzahl. Auf die Ziffern für <placeName>Galizien</placeName>
+                    wurde nicht eingegangen. Allgemeine politische Erörterungen über die Wahlreform
+                    die er machen will, Schwierigkeiten und Erörterungen über die Parteien, die
+                    geneigt sind.</p>
                 <p><date when="1906-01-14">Sonntag den 14., 11 Uhr Vorm.</date> abermalige Conferenz
-                    bei <persName>Gautsch</persName> mit <persName>Chiari</persName>. Dieselben
-                    Erörterungen. <persName>Gautsch</persName> spricht den Gedanken aus: ob es nicht
-                    möglich wäre dass von Seite der Czechen und Deutschen je eine Persönlichkeit ins
-                    Ministerium treten könnte. Er stelle sich vor, dass es auf diese Weise leichter
-                    sein werde bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und
-                        <pb facs="#fK 5-007" n="9"/>dass dann auch größere Aussicht vorhanden wäre
-                    die Verhandlungen über die Wahlreform vor den grössten Gefaren zu schützen.</p>
+                    bei <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> mit <persName>Chiari</persName>. Dieselben Erörterungen.
+                        <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> spricht den Gedanken aus: ob es nicht möglich wäre dass
+                    von Seite der Czechen und Deutschen je eine Persönlichkeit ins Ministerium
+                    treten könnte. Er stelle sich vor, dass es auf diese Weise leichter sein werde
+                    bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und <pb
+                        facs="#fK 5-007" n="9"/>dass dann auch größere Aussicht vorhanden wäre die
+                    Verhandlungen über die Wahlreform vor den grössten Gefaren zu schützen.</p>
                 <p><persName>Derschatta</persName> u. <del rendition="#s"
                         ><persName>Prade</persName></del><add place="across"
                             ><persName>Chiari</persName></add> erwidern: 1) es ist ausgeschlossen,
                     dass durch so einen Eintritt die deutsche Volkspartei gebunden werden kann 2)
                         <persName>Derschatta</persName> tut allein nicht mit, es muss ein
-                    Deutschböhme dabei sein: <persName>Prade</persName>.
-                        <persName>Gautsch</persName> erwidert, er denke nicht daran die Partei
-                    dadurch zu binden, bittet aber die Sache geheim zu halten.</p>
+                    Deutschböhme dabei sein: <persName>Prade</persName>. <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> erwidert, er denke
+                    nicht daran die Partei dadurch zu binden, bittet aber die Sache geheim zu
+                    halten.</p>
                 <p><date when="1906-01-15">Montag den 15.1.</date>Erste Notiz im <orgName>Prager
                         Tagblatt</orgName> (Abendblatt)!<note>Prager Tagblatt vom 16.1.1906,
                         Abendausgabe S.
@@ -187,17 +190,20 @@
                 <p><date when="1906-01-18">Donnerstag 18.1.</date> Ankunft
                         <persName>Prade’s</persName> von <placeName>Meran</placeName>. Er ist der
                     Meinung die Sache weiter zu verfolgen. <persName>Prade</persName> spricht am
-                    Abend allein mit <persName>Gautsch</persName>.</p>
+                    Abend allein mit <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName>.</p>
                 <pb facs="#fK 5-008" n="10"/>
                 <p><date when="1906-01-19">Freitag den 19.1.</date>nichts.</p>
                 <p><date when="1906-01-20">Samstag den 20.1. Nachmittag 3 Uhr</date> Besprechung bei
-                        <persName>Gautsch</persName>: <persName>Derschatta</persName>,
+                        <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName>: <persName>Derschatta</persName>,
                         <persName>Chiari</persName>, <persName>Prade</persName>,
                         <persName>Pacák</persName>.</p>
-                <p>Es wird mit der Wahlreform angefangen. <persName>Gautsch</persName> verlangt
-                    nicht die Bindung irgend einer Partei, er setzt nur voraus, dass jene Personen,
-                    welche eintreten die Pflicht übernehmen die Wahlordnung durchzusetzen. Grundzüge
-                    der Wahlreform wurden mitgeteilt u. es haben sich Hindernisse nicht ergeben. Von
+                <p>Es wird mit der Wahlreform angefangen. <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> verlangt nicht die
+                    Bindung irgend einer Partei, er setzt nur voraus, dass jene Personen, welche
+                    eintreten die Pflicht übernehmen die Wahlordnung durchzusetzen. Grundzüge der
+                    Wahlreform wurden mitgeteilt u. es haben sich Hindernisse nicht ergeben. Von
                     Seite der Regierung wurde nun der Wunsch geäussert, dass der <orgName>böhm.
                         Landtag</orgName> die böhm. Wahlreform und das Curiengesetz erledigen solle,
                     wogegen weder <persName>Pacák</persName> noch <persName>Prade</persName> eine
@@ -217,8 +223,10 @@
                     dass er es ohne dieselbe nicht machen könne. 5) Verstaatlichungen der
                     Eisenbahnen. <persName>Prade</persName> verlangt zwei Direktionen in
                     Deutschböhmen, was <persName>Pacák</persName> zusagt.</p>
-                <p><persName>Gautsch</persName> erklärt, dass er sich die Durchfürung derartig
-                    denke, dass 2 Deutsche <add>(<persName>Derschatta</persName> und
+                <p>
+                    <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> erklärt, dass er sich die Durchfürung derartig denke,
+                    dass 2 Deutsche <add>(<persName>Derschatta</persName> und
                             <persName>Prade</persName>)</add> ins Ministerium treten, einer als
                     Ressortminister, der andere als Landsmannminister, dagegen ein Czeche
                             <add>(<persName>Pacák</persName>)</add> als Landsman Minister.
@@ -242,8 +250,9 @@
                         <placeName>Reichenberg</placeName>.</p>
                 <p>--- </p>
                 <p><date when="1906-01-25">Donnerstag den 25.</date>
-                    <persName>Dr. v. Derschatta</persName> um ½ 11 Uhr bei
-                        <persName>Gautsch</persName>, der die Combination als aufgegeben
+                    <persName>Dr. v. Derschatta</persName> um ½ 11 Uhr bei <persName
+                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>,
+                    der die Combination als aufgegeben
                     erklärt.<!-- bis hier ginge die Einklebung! --></p>
             </div>
             <div>
@@ -290,7 +299,8 @@
                     u. Grossgrundbesitzer stimmten mit Stein, so dass dieser Dringlichkeitsantrag,
                     wenn auch nicht die 2/3 Majorität, so doch die einfache Mehrheit erhielt. Am
                         <date when="1906-04-02">2. April</date> hatte ich meine gewönliche
-                    Jahresaudienz. Der <persName>Kaiser</persName> war ungnädig.</p>
+                    Jahresaudienz. Der <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> war ungnädig.</p>
                 <p>Wie geht es Ihnen?</p>
                 <p>Danke Euer Majestät, gut.</p>
                 <p>kleine Pause</p>
@@ -355,9 +365,10 @@
                         <persName>Alain Rohan</persName> war schweigsam aber sehr aufmerksam.
                         <persName>Carl Schwarzenberg</persName> war bei Tisch auffallend ruhig,
                     brütend, nachher nahm er aber sehr regen Anteil an der polit. Conversation, bei
-                    der allerdings seine Erbitterung über <persName>Gautsch</persName> u. die
-                    Wahlreform besonders zu Tage trat. <persName>Ernst Tarouca</persName> war eher
-                    nervös, da er mit seinen Parteigenossen nicht in allen Punkten übereinstimmt.
+                    der allerdings seine Erbitterung über <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> u. die Wahlreform
+                    besonders zu Tage trat. <persName>Ernst Tarouca</persName> war eher nervös, da
+                    er mit seinen Parteigenossen nicht in allen Punkten übereinstimmt.
                         <persName>Heinrich Clam</persName> war klar, logisch, ruhig.
                         <persName>Ottokar Czernin</persName> als jüngster Politiker in diesem Kreise
                     hielt sich zurück, aber man sah ihm an wie ihn Alles interessierte.
@@ -365,17 +376,19 @@
                     über den Gewässern schwebend.</p>
                 <p>Ueber die einzuschlagende Taktik der Regierung u. Wahlreform gegenüber waren die
                     Ansichten geteilt. Ein Theil war ganz intransigent: alles verhindern, den
-                        <persName>Gautsch</persName> stürzen, alles andere der Zukunft überlassen.
+                        <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> stürzen, alles andere der Zukunft überlassen.
                         <persName>Tarouca</persName> u. ich vertraten mehr den Standpunkt, eventuell
                     mitzuarbeiten u. zu verbessern, was zu verbessern sei.<note>Ergänzung mit
                         Bleistift, teils stenographisch, in Manuskript „Fragmente“ wiedergegeben,
                         siehe dort</note> Dieser Ansicht neigte auch
                         <persName>Fürstenberg</persName> zu, der so wie wir der Meinung ist, dass
-                    das allgem. Wahlrecht so oder so, von <persName>Gautsch</persName> oder einem
-                    andern gemacht, unausweichlich sei.<note>Ergänzung mit Bleistift, teils
-                        stenographisch, in Manuskript „Fragmente“ wiedergegeben, siehe dort</note>
-                    Leider ergab sich, dass keine Aussicht vorhanden ist, die Herren auf ein
-                    bestimmtes Gegenprojekt einigen zu können.</p>
+                    das allgem. Wahlrecht so oder so, von <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> oder einem andern
+                    gemacht, unausweichlich sei.<note>Ergänzung mit Bleistift, teils stenographisch,
+                        in Manuskript „Fragmente“ wiedergegeben, siehe dort</note> Leider ergab
+                    sich, dass keine Aussicht vorhanden ist, die Herren auf ein bestimmtes
+                    Gegenprojekt einigen zu können.</p>
                 <p><pb facs="#fK 5-017" n="19"/>Ich setzte alle denkbaren Modifikationen
                     ausseinander: das <persName>Hohenwart</persName>’sche Projekt, den
                         <persName>Schäffle</persName>’schen Gedanken, den
@@ -408,11 +421,12 @@
                     <pb facs="#fK 5-018" n="20"/>es über die Militärcredite im
                         <orgName>Abg.Haus</orgName> zur Abstimmung kommen werde u. dass es
                     warscheinlich von der Haltung der Polen u. des Grossgrundbesitzes abhängen
-                    werde, ob <persName>Gautsch</persName> dieselben werde bewilligt erhalten. Ich
-                    frug die Herren, ob sie der Meinung sind, dass der Grossgrundbesitz dagegen
-                    stimmen solle? <persName>Taroucca</persName> meinte sofort, dass er dazu nicht
-                    zu haben sei u. <persName>Franz Thun</persName> sagte: das ist nicht möglich.
-                        <persName>Alain Rohan</persName>, <persName>Lobkowitz</persName> u.
+                    werde, ob <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> dieselben werde bewilligt erhalten. Ich frug die Herren,
+                    ob sie der Meinung sind, dass der Grossgrundbesitz dagegen stimmen solle?
+                        <persName>Taroucca</persName> meinte sofort, dass er dazu nicht zu haben sei
+                    u. <persName>Franz Thun</persName> sagte: das ist nicht möglich. <persName>Alain
+                        Rohan</persName>, <persName>Lobkowitz</persName> u.
                         <persName>Czernin</persName> schwiegen – aber <persName>Fberg</persName>,
                         <persName>Schwarzenberg</persName> u. <persName>Clam</persName> schreckten
                     keineswegs davor zurück, im Gegenteil!</p>
@@ -429,27 +443,29 @@
                 <p><head><hi rend="ul">Sancta Simplicitas!</hi></head></p>
                 <p>Es gibt wirklich Menschen, die nach dem Bekanntwerden des Abkommens der Krone mit
                     dem Cabinet <persName>Wekerle</persName> der Ansicht Ausdruck gegeben haben: der
-                        <persName>Kaiser</persName> hat gesiegt, die Ungarn haben nachgegeben. Ich
-                    mache die Beobachtung, dass Einige es sagen, weil sie glauben dass es
-                    patriotisch ist dem <persName>Kaiser</persName> einen Sieg zuzuschreiben, einige
-                    lassen sich durch die offiziösen Zeitungen beeinflussen u. einige haben die
-                    Peripetien der ganzen Sache viel zu wenig verfolgt um <pb facs="#fK 5-019"
-                        n="21"/>richtig abschätzen zu können, was der <persName>Kaiser</persName>
-                    eigentlich concedirt hat. Und doch ist die Sache sehr einfach u. klar. Zu
-                    vergleichen, was mir <persName>Wekerle</persName> und
-                        <persName>Andrássy</persName> im Septbr v[origen] J[ahres] gesagt haben. Der
-                    Kaiser hatte, wenn er den Weg Fejérváry aufgeben wollte, zwei Möglichkeiten:
-                    Programm Wekerle, Programm Andrássy. Wekerle verlangte nur die vorläufige
-                    Ausschaltung der militär. Frage, hoffte von der Zeit eine Abschwächung dieser
-                    Forderungen u. legte das Hauptgewicht auf die Erhaltung der 67er Basis, das
-                    heisst auf die Gemeinsamkeit. Andrássy war gegen jeden faulen Frieden, für ein
-                    sofortiges klares Compromiss in der Militärfrage, das die Frage definitiv aus
-                    der Welt schafft u. die Erhaltung der bisherigen wirtschaftlichen Gemeinsamkeit.
-                    Er war der Meinung, dass Unnachgiebigkeit in militär. Dingen unbedingt
-                    Nachgiebigkeit gegenüber dem Verlangen nach wirtschaftlicher Selbständigkeit zur
-                    Folge haben müsse. Das letzte wollte er um jeden Preis vermeiden, weil er sagte,
-                    dass die wirtschaftliche Trennung die Gemeinsamkeit auf allen andern Gebieten in
-                    Frage stellt.</p>
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> hat gesiegt, die Ungarn haben nachgegeben. Ich mache die
+                    Beobachtung, dass Einige es sagen, weil sie glauben dass es patriotisch ist dem
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> einen Sieg zuzuschreiben, einige lassen sich durch die
+                    offiziösen Zeitungen beeinflussen u. einige haben die Peripetien der ganzen
+                    Sache viel zu wenig verfolgt um <pb facs="#fK 5-019" n="21"/>richtig abschätzen
+                    zu können, was der <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> eigentlich concedirt
+                    hat. Und doch ist die Sache sehr einfach u. klar. Zu vergleichen, was mir
+                        <persName>Wekerle</persName> und <persName>Andrássy</persName> im Septbr
+                    v[origen] J[ahres] gesagt haben. Der Kaiser hatte, wenn er den Weg Fejérváry
+                    aufgeben wollte, zwei Möglichkeiten: Programm Wekerle, Programm Andrássy.
+                    Wekerle verlangte nur die vorläufige Ausschaltung der militär. Frage, hoffte von
+                    der Zeit eine Abschwächung dieser Forderungen u. legte das Hauptgewicht auf die
+                    Erhaltung der 67er Basis, das heisst auf die Gemeinsamkeit. Andrássy war gegen
+                    jeden faulen Frieden, für ein sofortiges klares Compromiss in der Militärfrage,
+                    das die Frage definitiv aus der Welt schafft u. die Erhaltung der bisherigen
+                    wirtschaftlichen Gemeinsamkeit. Er war der Meinung, dass Unnachgiebigkeit in
+                    militär. Dingen unbedingt Nachgiebigkeit gegenüber dem Verlangen nach
+                    wirtschaftlicher Selbständigkeit zur Folge haben müsse. Das letzte wollte er um
+                    jeden Preis vermeiden, weil er sagte, dass die wirtschaftliche Trennung die
+                    Gemeinsamkeit auf allen andern Gebieten in Frage stellt.</p>
                 <p>Der Kaiser widerstrebte bisher beiden Anträgen, dem Antrag Wekerle, weil er
                     sagte, dass eine „Ausschaltung“, <pb facs="#fK 5-020" n="22"/>„ein in der
                     Schwebe Lassen“, ein „Verschieben“ u.s.w. der Entscheidung bezüglich der
@@ -485,11 +501,11 @@
                     gewesen, positiv im grossen Stil zu sein. <persName>Bismarck</persName> war es
                     u. <persName>Kaiser Wilhelm II.</persName> sucht es zu sein. Bei uns ist die
                     positive Politik seit Decennien ganz ausgeschaltet. Nur noch Laviren,
-                    Zurückstellen, Ausweichen, Verkleistern. Wird <persName>Hohenlohe</persName>,
-                    dem der Ruf eines „Idealisten“ vorangeht darin eine Aenderung herbeifüren? Wird
-                    er es klar wollen u. können? Das ist jetzt die Frage. Montag den <date
-                        when="1906-05-07">7.</date> habe ich eine Unterredung mit ihm. Ich werde
-                    sehen.</p>
+                    Zurückstellen, Ausweichen, Verkleistern. Wird <persName key="HohenloheKonrad"
+                        ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>, dem der Ruf
+                    eines „Idealisten“ vorangeht darin eine Aenderung herbeifüren? Wird er es klar
+                    wollen u. können? Das ist jetzt die Frage. Montag den <date when="1906-05-07"
+                        >7.</date> habe ich eine Unterredung mit ihm. Ich werde sehen.</p>
                 <p><placeName key="Lünz" ref="" xml:id="">Lünz</placeName>
                     <date when="1906-05-04">4.5.06</date>.</p>
             </div>
@@ -505,10 +521,12 @@
             </div>
 
             <div>
-                <p><pb facs="#fK 5-023" n="25"/><head><hi rend="ul">Von
-                                <persName>Hohenlohe</persName> bis
-                        <persName>Beck</persName></hi></head></p>
-                <p><persName>Hohenlohe</persName> eine Enttäuschung. Ich will nicht hart sein, aber
+                <p><pb facs="#fK 5-023" n="25"/><head><hi rend="ul">Von <persName
+                                key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816"
+                                >Hohenlohe</persName> bis <persName>Beck</persName></hi></head></p>
+                <p>
+                    <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816"
+                        >Hohenlohe</persName> eine Enttäuschung. Ich will nicht hart sein, aber
                     „Idealist“ ist zu viel gesagt. Sein Arcanum ist das „allgemeine, gleiche,
                     direkte, geheime Wahlrecht “ u. er verteidigt es nicht mit Gründen, sondern
                     quasi per inspirationem. Er war gegen uns Großgrundbesitzer höflich u. erklärte
@@ -521,14 +539,16 @@
                     wiedergegeben, siehe dort</note>
                 <p>Dass er über Ungarn zu Fall kommen musste, war nach der Programmrede von
                         <persName>Wekerle</persName> am <date when="1906-04-11">11. April</date> in
-                        <placeName>Temesvár</placeName> klar. Damals regierte
-                        <persName>Gautsch</persName>. Er roch den Braten, führte
-                        <persName>Hohenlohe</persName> ein u. empfahl sich. Ahnungslos schritt
-                    dieser dem Abgrund zu. Was er mir über Ungarn sagte war naiv. Er war gerade vor
-                    seiner Reise nach <placeName>Budapest</placeName>. Ausholen wollte er die ungar.
-                    Minister, weiter nichts – das war sein Reiseprogramm. „Also ihre Pläne wollen
-                    Sie den Ungarn herauslocken“, sagte ich, auf seine Absichten eingehend worauf er
-                    sehr vergnügt u. befriedigt antwortete: „natürlich nichts anderes“!</p>
+                        <placeName>Temesvár</placeName> klar. Damals regierte <persName
+                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>.
+                    Er roch den Braten, führte <persName key="HohenloheKonrad"
+                        ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> ein u. empfahl
+                    sich. Ahnungslos schritt dieser dem Abgrund zu. Was er mir über Ungarn sagte war
+                    naiv. Er war gerade vor seiner Reise nach <placeName>Budapest</placeName>.
+                    Ausholen wollte er die ungar. Minister, weiter nichts – das war sein
+                    Reiseprogramm. „Also ihre Pläne wollen Sie den Ungarn herauslocken“, sagte ich,
+                    auf seine Absichten eingehend worauf er sehr vergnügt u. befriedigt antwortete:
+                    „natürlich nichts anderes“!</p>
                 <p><pb facs="#fK 5-024" n="26"/>Aber das bittere Ende kam bald nach.</p>
                 <p>Und nun <persName>Beck</persName>. Hier liegen 2 Briefe inne. Der eine eine
                     Abschrift meines Briefes an <persName>Beck</persName>.<note>Die Abschrift dieses
@@ -540,16 +560,17 @@
                 <p>Die Krone hat durch ihre einseitige Entscheidung zu Gunsten
                         <persName>Wekerle</persName>’s die Österreicher bitter gemacht, sehr bitter
                     und was schlimmer ist, es ist keine Aussicht dass die Ungarn nachgeben, der
-                        <persName>Kaiser</persName> hat ihre Stärke gefühlt u. wird sie noch mehr zu
-                    fühlen bekommen. Also: die ganze Frage wird „Volksministern“ aufgehängt – die
-                    können sich daran verbrauchen u. müssen die spanische Wand machen. <hi rend="ul"
-                        >Ganz dasselbe mit der Wahlreform</hi>. Sie wird in ihrer radicalen Form
-                    nicht mehr gewünscht. Kaiserliche Beamte haben sie verheissen – Volksminister
-                    sollen sie beschneiden u. die enttäuschten Massen bändigen. So vollzieht sich
-                    auf der ganzen Linie der Rückzug auf dem Rücken jener leider zu billigen
-                    Minister, die sich einfangen liessen ohne sich vorher über „ein Programm“ zu
-                    einigen. <persName>Beck</persName> muss mich nach dem Erhalt meines Briefes für
-                    sehr naiv gehalten haben!</p>
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> hat ihre Stärke gefühlt u. wird sie noch mehr zu fühlen
+                    bekommen. Also: die ganze Frage wird „Volksministern“ aufgehängt – die können
+                    sich daran verbrauchen u. müssen die spanische Wand machen. <hi rend="ul">Ganz
+                        dasselbe mit der Wahlreform</hi>. Sie wird in ihrer radicalen Form nicht
+                    mehr gewünscht. Kaiserliche Beamte haben sie verheissen – Volksminister sollen
+                    sie beschneiden u. die enttäuschten Massen bändigen. So vollzieht sich auf der
+                    ganzen Linie der Rückzug auf dem Rücken jener leider zu billigen Minister, die
+                    sich einfangen liessen ohne sich vorher über „ein Programm“ zu einigen.
+                        <persName>Beck</persName> muss mich nach dem Erhalt meines Briefes für sehr
+                    naiv gehalten haben!</p>
                 <p><placeName key="Lünz" ref="" xml:id="">Lünz</placeName>, <date when="1906-06-06"
                         >6.6.06</date></p>
             </div>
@@ -566,13 +587,17 @@
                     streng vertraulich zu behandeln und, wenn Du das Ergebnis <pb facs="#fK 5-040"
                         n="40c"/>praktisch verwerthen kannst, weder mich noch
                         <persName>Coudenhove</persName> zu nennen.</p>
-                <p><persName>Coudenh.</persName> hat dem <persName>Kaiser</persName> gesagt: Es
-                    dürfe unter keiner Bedingung so aussehen, als ob er (der
-                        <persName>Kaiser</persName>) von der Wahlreform abgekommen sei – es müsse
-                    daher im <orgName>Parlamente</orgName> stecken bleiben und erst bis es dort eben
-                    nicht mehr weitergeht, müsse <pb facs="#fK 5-042" n="40b"/>der
-                        <persName>Kaiser</persName> (quasi deshalb) neue ganz andere
-                    Reformvorschläge acceptiren – der <persName>Kaiser</persName>
+                <p><persName>Coudenh.</persName> hat dem <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> gesagt: Es dürfe
+                    unter keiner Bedingung so aussehen, als ob er (der <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName>) von der Wahlreform abgekommen sei – es müsse daher im
+                        <orgName>Parlamente</orgName> stecken bleiben und erst bis es dort eben
+                    nicht mehr weitergeht, müsse <pb facs="#fK 5-042" n="40b"/>der <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> (quasi deshalb) neue ganz andere Reformvorschläge
+                    acceptiren – der <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName>
                     <rend>hat auch keiner Silbe</rend> widersprochen und qui tacet consentire
                     videtur. <persName>Coud.</persName> glaubt bestimmt, dass auch
                         <persName>Beck</persName> nur dergleichen machen wird die „Compromiss
@@ -604,7 +629,8 @@
                         <persName>Prade</persName> u. <persName>Dzieduszycki</persName>
                     Besprechungen gehabt.</p>
                 <p><persName>Prade</persName> war klar u. cynisch wie immer. Die Wahlreform muss
-                    gemacht werden auf Grund des <persName>Hohenlohe</persName>’schen
+                    gemacht werden auf Grund des <persName key="HohenloheKonrad"
+                        ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen
                     Compromissvorschlages. Die Regierung kann bezüglich der 2/3 Mehrheit keine
                     Stellung nehmen, aber die Czechen werden sich überstimmen lassen. Der Ausschuss
                     muss Mitte Juli fertig sein u. die Sache kommt dann gleich ins
@@ -615,17 +641,19 @@
                     Geschäftsordnung geben muss u. es wird sich bessern. Alles das ipsissima
                     verba.</p>
                 <p><persName>Dzieducycki</persName> sagte, das neulich gesprochene Wort des
-                        <persName>Kaisers</persName>: nach der alten W[ahl]O[rdnung] könne nicht
-                    mehr gewählt werden, sei ernst gemeint.<pb facs="#fK 5-026" n="28"/>Die Krone
-                    will die Wahlreform. Es wäre nichts leichter als sie dennoch zu verhindern und
-                    das jetzige Cabinet in die Luft zu sprengen, aber was wäre damit gewonnen? – man
-                    sei nicht sicher, dass nicht noch etwas ärgeres nachkommt. Im Ministerium werden
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaisers</persName>: nach der alten W[ahl]O[rdnung] könne nicht mehr gewählt
+                    werden, sei ernst gemeint.<pb facs="#fK 5-026" n="28"/>Die Krone will die
+                    Wahlreform. Es wäre nichts leichter als sie dennoch zu verhindern und das
+                    jetzige Cabinet in die Luft zu sprengen, aber was wäre damit gewonnen? – man sei
+                    nicht sicher, dass nicht noch etwas ärgeres nachkommt. Im Ministerium werden
                     Studien über das Pluralwahlrecht gemacht u. er hält es nicht für ausgeschlossen,
                     dass noch eine Modification in dieser Richtung eintritt. Sociale Gährungen
                     werden kommen, auch wenn die W[ahl]O[rdnung] Gesetz wird. Er bestättigt, dass
-                    die Regierung sich geeinigt hat, das <persName>Hohenlohe</persName> Projekt
-                    vorläufig anzustreben. Die ganze Conversation hatte offenbar den Zweck seinen
-                    Eintritt ins Ministerium zu rechtfertigen.</p>
+                    die Regierung sich geeinigt hat, das <persName key="HohenloheKonrad"
+                        ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> Projekt vorläufig
+                    anzustreben. Die ganze Conversation hatte offenbar den Zweck seinen Eintritt ins
+                    Ministerium zu rechtfertigen.</p>
                 <p><placeName>Wien</placeName>, <date when="1906-06-17">17.6.06</date></p>
             </div>
 
@@ -635,18 +663,21 @@
                         <placeName>Prag</placeName>: die Arbeiter in
                         <placeName>R[eichen]berg</placeName> u. Umgebung planten wärend der
                     Kaiserreise Demonstrationen durch Abstinenz beim Empfang u. den Fahrten des
-                        <persName>Kaisers</persName>. Wollten große Meetings außerhalb
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaisers</persName>. Wollten große Meetings außerhalb
                         <placeName>Reichenberg</placeName> veranstalten. Das wurde nach
-                        <placeName>Wien</placeName> gemeldet und daher das Wort des
-                        <persName>Kaisers</persName> wegen der Wahlreform, dass nach der alten
-                    Wahlordnung nicht mehr gewählt werden kann.</p>
+                        <placeName>Wien</placeName> gemeldet und daher das Wort des <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaisers</persName> wegen der Wahlreform, dass nach der alten Wahlordnung
+                    nicht mehr gewählt werden kann.</p>
                 <p><placeName>Wien</placeName>, <date when="1906-06-19">19.6.06</date></p>
             </div>
 
             <div>
                 <p><pb facs="#fK 5-027" n="29"/><hi rend="ul"><head>Aus dem
                             Wahlreformausschusse</head></hi></p>
-                <p>Die Regierung will die „<persName>Hohenlohe</persName>’schen Vorschläge“
+                <p>Die Regierung will die „ <persName key="HohenloheKonrad"
+                        ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen Vorschläge“
                     unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als
                     Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und
                     intrigiert wird. <note>Ergänzung mit Bleistift, teils stenographisch, im
@@ -838,13 +869,15 @@
                     Verfassungspartei und das Großkreuz des Stefansordens. Das nennt man im
                         <orgName>Herrenhaus</orgName> Politik.</p>
                 <p>Immer klarer wird heute allerdings der Zusammenhang <pb facs="#fK 5-037" n="39"
-                    />der Dinge bezüglich der Wahlreform. Insbesondere das Verhalten des
-                        <persName>Kaisers</persName>. Er sieht alles nur geschäftsmäßig an.
-                    Geschäftsmäßig aber war das Kurienparlament nichts wert. Es zu heben, zu
-                    reformieren, dazu hätte es politischer Ideen, Ziel, Kraft und Konsequenz
-                    bedurft. Vielleicht dachte der <persName>Kaiser</persName> daran, vielleicht war
-                    er auch der Meinung, dass die Phrasen <persName>Koerbers</persName>, seine in
-                    die Luft gezeichneten Pläne politische Ideen waren und sah daher auch diese
+                    />der Dinge bezüglich der Wahlreform. Insbesondere das Verhalten des <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaisers</persName>. Er sieht alles nur geschäftsmäßig an. Geschäftsmäßig
+                    aber war das Kurienparlament nichts wert. Es zu heben, zu reformieren, dazu
+                    hätte es politischer Ideen, Ziel, Kraft und Konsequenz bedurft. Vielleicht
+                    dachte der <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> daran, vielleicht
+                    war er auch der Meinung, dass die Phrasen <persName>Koerbers</persName>, seine
+                    in die Luft gezeichneten Pläne politische Ideen waren und sah daher auch diese
                     scheitern. Das sind Dinge, die ich nicht weiß, jedenfalls gab
                         <persName>Koerber</persName> dem Kurienparlament den Todesstoß. Er
                     demoralisierte es vollkommen und verleitete die Deutschen auf jede politische
@@ -855,13 +888,15 @@
                         1898 bis 1905 und diente dem Klub des Verfassungstreuen Großgrundbesitzes
                         als publizistisches Organ.</note>in einer langen Reihe blödsinniger Artikel
                     unermüdlich bis zum Sturze <persName>Koerbers</persName>. Ich kann mir denken,
-                    dass sich im Geiste des <persName>Kaisers</persName> eine Wandlung vollzog, die
-                    ihn schließlich zum allgemeinen Stimmrecht führte. Zwei Dinge scheinen es
-                    gewesen zu sein, die den Anstoß gaben.</p>
-                <p>Aus den Zeiten <persName>Taaffes</persName> klangen dem
-                        <persName>Kaiser</persName> die Worte <persName>Steinbachs</persName> in den
-                    Ohren. <persName>Steinbach</persName> hat mir – und zwar seit jeher, auch in
-                    seinen jungen Jahren <note>Ergänzung mit Bleistift, im Manuskript Fragmente
+                    dass sich im Geiste des <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaisers</persName> eine Wandlung
+                    vollzog, die ihn schließlich zum allgemeinen Stimmrecht führte. Zwei Dinge
+                    scheinen es gewesen zu sein, die den Anstoß gaben.</p>
+                <p>Aus den Zeiten <persName>Taaffes</persName> klangen dem <persName
+                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> die Worte <persName>Steinbachs</persName> in den Ohren.
+                        <persName>Steinbach</persName> hat mir – und zwar seit jeher, auch in seinen
+                    jungen Jahren <note>Ergänzung mit Bleistift, im Manuskript Fragmente
                         wiedergegeben, siehe dort</note> zu oft <pb facs="#fK 5-038" n="40"/>seine
                     Ansichten auseinandergesetzt. Er war im Grunde ein guter Mensch, aber hasste den
                     Besitz, sofern er ihm nicht durch Adel oder Erbgesessenheit imponierte. Die
@@ -891,7 +926,8 @@
                         Lebenserinnerungen wiedergegeben, siehe dort</note></p>
                 <p> Die <persName>Taaffe</persName>’sche Wahlreform war sein Werk. Allgemeines
                     Wahlrecht mit Belassung des Großgrundbesitzes, denn vor dem Adel machte er immer
-                    halt. <hi rend="ul">Damals mag er dem <persName>Kaiser</persName> seine Gedanken
+                    halt. <hi rend="ul">Damals mag er dem <persName key="KaiserFranzJosef"
+                            ref="https://d-nb.info/gnd/118535013">Kaiser</persName> seine Gedanken
                         tief eingeprägt haben</hi>. Der Plan scheiterte damals aus zwei Gründen. <hi
                         rend="ul">Erstens</hi> rafften sich die bürgerlichen Parteien, damals noch
                     im <orgName>Hause</orgName> gut organisiert und unter anerkannten Führern, auf,
@@ -902,9 +938,11 @@
                     Großgrundbesitzes.</p>
                 <p>Jetzt <date>1906</date>
                     <note>mit Bleistift korrigiert in 1905</note> tauchten dieselben Gedanken wieder
-                    auf. Wer sie dem <persName>Kaiser</persName> in Erinnerung gebracht hat, ist
-                    nicht bekannt, aber gleichgültig. Keinesfalls sagte man dem
-                        <persName>Kaiser</persName> etwas Neues, und gewiss wurde es ihm nicht <pb
+                    auf. Wer sie dem <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> in Erinnerung
+                    gebracht hat, ist nicht bekannt, aber gleichgültig. Keinesfalls sagte man dem
+                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> etwas Neues, und gewiss wurde es ihm nicht <pb
                         facs="#fK 5-044" n="42"/>besser und verführerischer dargestellt, als es
                     seinerzeit <persName>Steinbach</persName> getan hatte. Aber es kam ein anderer
                     Impuls hinzu, der wahrscheinlich stärker war als alle
