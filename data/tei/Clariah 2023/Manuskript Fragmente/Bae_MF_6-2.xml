@@ -68,18 +68,10 @@
         <body>
             <div>
                 <head><pb facs="#fK 5-002" n="4"/><hi rend="ul">Die Wahlreform</hi></head>
-            </div>
-            <div>
 
-                <p>
-                    <header>Die Wahlreform</header></p>
-            </div>
 
-            <div>
-                <p>1. Der <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
-                        >Kaiser</persName></p>
-            </div>
-            <div>
+                <head>1. Der <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName></head>
                 <p>Das allgemeine Stimmrecht ist nur durch das Festhalten des <persName
                         key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
                         >Kaisers</persName> an diesem Gedanken zustande gekommen. <persName
@@ -229,7 +221,7 @@
             </div>
 
             <div>
-                <p><head>2. Die Vorgeschichte des allgemeinen Stimmrechts im Parlament</head></p>
+                <head>2. Die Vorgeschichte des allgemeinen Stimmrechts im Parlament</head>
                 <p> Ich will hier nur den Anteil erzählen, den ich an all diesen Dingen gehabt habe,
                     denn eine vollständige Uebersicht der Wahlrechtsbewegung zu geben, liegt nicht
                     in meiner Absicht. Ich will zeigen wie die parlamentarischen Ereignisse es
@@ -372,8 +364,8 @@
             </div>
 
             <div>
-                <p><head>3. <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
-                            >Gautsch</persName> als Gegner des allgemeinen Stimmrechts</head></p>
+                <head>3. <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> als Gegner des allgemeinen Stimmrechts</head>
                 <p>Ich war am <date when="1905-09-10">10. September 1905</date> bei <persName
                         key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>,
                     als sich das Kabinett <persName>Fejérváry</persName> in
@@ -430,9 +422,8 @@
             </div>
 
             <div>
-                <p><head>4. <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
-                            >Gautsch</persName> als Verteidiger des allgemeinen
-                    Stimmrechts</head></p>
+                <head>4. <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName>als Verteidiger des allgemeinen Stimmrechts</head>
                 <p>Als ich am <date when="1905-11-08">8. November <add place="across">1905</add>
                     </date>abermals zu <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName> kam, hatte ich der
@@ -759,24 +750,28 @@
                     reformierte Interessenvertretung und zwei Drittel allgemeines Stimmrecht) wollte
                     niemand. Das Pluralwahlrecht mit dem Proporz, welches von
                         <persName>Tarouca</persName> und mir als eine mögliche Plattform für eine
-                    modifizierte Wahlreform bezeichnet <add place="across">und warm empfohlen</add> wurde, wurde lebhaft
-                    bestritten, man verlangte es möge die statistische Wirkung bewiesen werden, was
-                    wir ziffermäßig allerdings nicht imstande waren. Schließlich kamen die Herren zu
-                    dem nichtssagenden Ausweg, alle diese Projekte zu unterstützen, wenn sie
-                    vorgebracht werden, aber es den andern Parteien zu überlassen, solche Anträge zu
-                    stellen. Es war mir klar, daß diese Herren zu einer positiven Aktion im Sinne
-                    eines modernen und möglichen Vermittlungsantrages nicht zu bringen seien. Ihr
-                    Hass gegen <persName>Gautsch</persName> und die Wahlreform war zu groß, ihre
-                    Kenntnisse und Einsichten über die Entwicklung, die das <pb/> Wahlrecht in ganz
-                    Europa nimmt, zu klein, die Beurteilung der politischen Gesamtlage zu
-                    kurzsichtig. </p>
-                <p>[Sie waren im Grunde alle überzeugt, daß das Curienwahlrecht nicht zu halten sei,
-                    aber sie brachten den Willen nicht auf, grosszügig sich zu einem Opfer zu
-                    bekennen, das damals noch gewisse konservative Interessen gerettet hätte. Sie
-                    blieben trotz unserer Vorstellungen intransigent aus Misstrauen u. Hass gegen
-                    die Regierung und aus Entschlusslosigkeit. Sie konnten sich nicht aufschwingen,
-                    anzuerkennen und zu fördern, was eine österreichische Notwendigkeit geworden
-                    war.] </p>
+                    modifizierte Wahlreform bezeichnet <add place="across">und warm empfohlen</add>
+                    wurde, wurde lebhaft bestritten <del rendition="#s">von
+                            <persName>Clam</persName>, der </del>
+                    <add place="across">man</add> verlangte <del rendition="#s">man</del>
+                    <add place="across">es</add> möge <del rendition="#s">ihm</del> die statistische
+                    Wirkung <del rendition="#s">beweisen</del>
+                    <add place="across">bewiesen werden</add>, was wir ziffermäßig allerdings nicht
+                    imstande waren. Schließlich kamen die Herren zu dem nichtssagenden Ausweg, alle
+                    diese Projekte zu unterstützen, wenn sie vorgebracht werden, aber es den andern
+                    Parteien zu überlassen, solche Anträge zu stellen. Es war mir klar, daß diese
+                    Herren zu einer positiven Aktion im Sinne eines modernen und möglichen
+                    Vermittlungsantrages nicht zu bringen seien. Ihr Hass gegen
+                        <persName>Gautsch</persName> und die Wahlreform war zu groß, ihre Kenntnisse
+                    und Einsichten über die Entwicklung, die das <pb/> Wahlrecht in ganz Europa
+                    nimmt, zu klein, die Beurteilung der politischen Gesamtlage zu kurzsichtig. </p>
+                <p><add place="overleaf">Sie waren im Grunde alle überzeugt, daß das Curienwahlrecht
+                        nicht zu halten sei, aber sie brachten den Willen nicht auf, grosszügig sich
+                        zu einem Opfer zu bekennen, das damals noch gewisse conservative Interessen
+                        gerettet hätte. Sie blieben trotz unserer Vorstellungen intransingent aus
+                        Misstrauen u. Hass gegen die Regierung und aus Entschlusslosigkeit. Sie
+                        konnten sich nicht aufschwingen, anzuerkennen und zu fördern, was eine
+                        österreichische Notwendigkeit geworden war.</add></p>
                 <p>Interessant war es, als die Frage der Rückwirkung der ungarischen Ereignisse auf
                         <placeName>Oesterreich</placeName> zur Sprache kam. Ich stellte fest, daß
                     nunmehr in nächster Zeit, etwa im <date when="1906-06">Juni</date>, es über die
@@ -792,13 +787,13 @@
                         <persName>Clam</persName> schreckten keineswegs davor zurück, im Gegenteil.
                     Später erfuhren <persName>Tarouca</persName> und ich, daß der eine oder andere
                     der Herren in <placeName>Prag</placeName> den Verdacht ausgesprochen hatte, daß
-                    wir nur deswegen für ein Einlenken plädierten, weil wir Minister werden wollen.
-                </p>
+                    wir nur deswegen für ein Einlenken <add place="across">in der Wahlreform</add>
+                    plädierten, weil wir Minister werden wollen. </p>
             </div>
 
             <div>
-                <p>5. Die Wendung in <placeName>Ungarn</placeName> und die letzten Wochen
-                        <persName>Gautsch</persName>‘ </p>
+                <head>5. Die Wendung in <placeName>Ungarn</placeName> und die letzten Wochen
+                        <persName>Gautsch'</persName></head>
                 <p>Die Wiederbetrauung <persName>Fejérvárys</persName> mit der Führung der
                     Geschäfte, die Auflösung des <orgName>ungarischen Abgeordnetenhauses</orgName>,
                     endlich der bekannte <date when="1906-02-19">19. Februar 1906</date>, als Oberst
@@ -808,7 +803,15 @@
                     werden würde. Sie war die Folie für das Auftreten <persName>Gautsch</persName>.
                     Aber die Verhandlungen mit der Koalition wurden nicht definitiv abgebrochen und
                     führten endlich zum Ministerium <persName>Wekerle</persName>, das am 8. April
-                    1906 beeidigt wurde. </p>
+                    1906 beeidigt wurde.</p>
+                <note>Nach der militärischen und polizeilichen Besetzung des ungarischen
+                    Abgeordnetenhauses verlas der Oberst des ersten Honved-Infanterie-Regiments
+                    Fabricius am 19.2.1906 das königliche Auflösungsdekret des ungarischen
+                    Abgeordnetenhauses. Die Auflösung wurde damit begründet, dass „die zur Mehrheit
+                    gehörigen koalierenden Parteien die Übernahme der Regierung ohne
+                    Beeinträchtigung der im Gesetz gewährleisteten königlichen Rechte auf
+                    annehmbarer Grundlage hartnäckig verweigerten und demnach eine nützliche
+                    Tätigkeit im Interesse des Landes vom Reichstag nicht zu erwarten“ wäre.</note>
                 <p><pb/> Damals hielt <persName>Wekerle</persName> im großen Saal des Hotel Royal in
                         <placeName>Budapest</placeName> unmittelbar nach seinem Amtsantritt vor den
                     versammelten Mitgliedern der Koalitionsparteien eine grosse Rede. Er verkündete,
@@ -834,18 +837,21 @@
                         when="1905-09">September 1905</date> gesagt haben. Der
                         <persName>Kaiser</persName> hatte, wenn er den Weg
                         <persName>Fejérváry</persName> aufgeben wollte, zwei Möglichkeiten: Programm
-                        <persName>Wekerle</persName> und Programm <persName>Andrássy</persName>.
+                        <persName>Wekerle</persName>
+                    <del rendition="#s">und</del>
+                    <add place="across">oder</add> Programm <persName>Andrássy</persName>.
                         <persName>Wekerle</persName> verlangte nur die vorläufige Ausschaltung der
                     militärischen Frage, hoffte von der Zeit eine Abschwächung dieser Forderungen
                     und legte das <pb/> Hauptgewicht auf die Erhaltung der 67er Basis, d.h. auf die
-                    Gemeinsamkeit [mit gewissen Modifikationen]. <persName>Andrássy</persName> war
-                    gegen jeden faulen Frieden für ein klares Kompromiss in der Militärfrage, das
-                    diese Frage definitiv aus der Welt schafft und für die Erhaltung der bisherigen
-                    wirtschaftlichen Gemeinsamkeit. Er war der Meinung, daß Unnachgiebigkeit in
-                    militärischen Dingen unbedingt Nachgiebigkeit gegenüber dem Verlangen nach
-                    wirtschaftlicher Selbständigkeit zur Folge haben müsse. Das letzte wollte er um
-                    jeden Preis vermeiden, weil er sagte, daß die wirtschaftliche Trennung die
-                    Gemeinsamkeit auf allen andern Gebieten in Frage stellt. </p>
+                    Gemeinsamkeit <add place="across">mit gewissen Modifikationen</add>.
+                        <persName>Andrássy</persName> war gegen jeden faulen Frieden für ein klares
+                    Kompromiss in der Militärfrage, das diese Frage definitiv aus der Welt schafft
+                    und für die Erhaltung der bisherigen wirtschaftlichen Gemeinsamkeit. Er war der
+                    Meinung, daß Unnachgiebigkeit in militärischen Dingen unbedingt Nachgiebigkeit
+                    gegenüber dem Verlangen nach wirtschaftlicher Selbständigkeit zur Folge haben
+                    müsse. Das letzte wollte er um jeden Preis vermeiden, weil er sagte, daß die
+                    wirtschaftliche Trennung die Gemeinsamkeit auf allen andern Gebieten in Frage
+                    stellt. </p>
                 <p>Der <persName>Kaiser</persName> widerstrebte bisher beiden Anträgen, dem Antrag
                         <persName>Wekerle</persName>, weil er sagte, daß eine Ausschaltung ein
                     Inderschwebelassen, ein Verschieben u.s.w. der militärischen Frage die Deutung
@@ -867,8 +873,8 @@
                     Bestrebungen <placeName>Ungarns</placeName> auf staatsrechtlichem und
                     wirtschaftlichem Gebiete Vorschub leistet, die militärische Frage offen lässt,
                     in der wirtschaftlichen <pb/> an Stelle des Zoll- und Handelsbündnisses den
-                    Zollvertrag setzt, [den Ungarn einen autonomen Zolltarif einräumt] und die
-                    Wahlreform auf unbestimmte Zeit vertagt. </p>
+                    Zollvertrag setzt, <add place="across">den Ungarn einen autonomen Zolltarif
+                        einräumt</add> und die Wahlreform auf unbestimmte Zeit vertagt. </p>
                 <p>In dieser Zeit, <date when="1906-04">April 1906</date>, wurde die Stellung
                         <persName>Gautsch</persName> immer schwieriger. Die Polen waren gegen ihn,
                     und es ist keine Aussicht vorhanden, daß er sich mit ihnen über die Wahlreform
@@ -885,8 +891,7 @@
                     zwar leicht wie immer, weil er immer hofft, wiederzukommen. </p>
             </div>
             <div>
-                <p>6. <persName>Hohenlohe</persName>
-                </p>
+                <head>6. <persName>Hohenlohe</persName></head>
                 <p>Es war eine kurze, ehrliche, aber wenig glückliche Episode. Sein Arcanum war das
                     allgemeine, gleiche, direkte und geheime Wahlrecht und er verteidigte es nicht
                     mit Gründen, sondern quasi per inspirationem. Er war gegen uns Großgrundbesitzer
@@ -921,11 +926,13 @@
                         „<persName>Hohenlohe</persName> ist dem <persName>Kaiser</persName> durch
                     eine Triumphpforte entwischt.“ Dieses Wort traf aber nicht das Richtige:
                         <persName>Hohenlohe</persName> ging als aufrechter Mann aus einer Schlacht,
-                    die der <persName>Kaiser</persName> [schon] verloren hatte. </p>
+                    die der <persName>Kaiser</persName>
+                    <add place="across">schon</add> verloren hatte. </p>
             </div>
 
             <div>
-                <p><pb/> 7. <persName>Beck</persName> bis zur Verabschiedung der Wahlreform </p>
+                <pb/>
+                <head>7. <persName>Beck</persName> bis zur Verabschiedung der Wahlreform </head>
                 <p>Als <persName>Beck</persName> anfangs <date when="1906-06-02">Juni 1906</date>
                     die Geschäfte übernahm, wurde von verschiedenen Seiten behauptet, daß in den
                     obersten Kreisen bezüglich der Wahlreform eine Sinnesänderung eingetreten sei.
@@ -935,15 +942,15 @@
                         <persName>Czernin</persName> schrieb mir am <date when="1906-06-05">5. Juni
                         1906</date> von einer Audienz, die der Statthalter
                         <persName>Coudenhove</persName> beim <persName>Kaiser</persName> gehabt
-                    hatte, [folgendermaßen]: “<persName>Coudenhove</persName> hat dem
-                        <persName>Kaiser</persName> gesagt: es dürfe unter keiner Bedingung so
-                    aussehen, als ob er, der <persName>Kaiser</persName> von der Wahlreform
-                    abgekommen sei, sie müsse daher im <orgName>Parlamente</orgName> stecken bleiben
-                    und erst bis es dort eben nicht mehr weiter gehe, müsse der
-                        <persName>Kaiser</persName> (quasi deshalb) neue ganz andere
-                    Reformvorschläge akzeptieren. Der <persName>Kaiser</persName> hat mit keiner
-                    Silbe widersprochen und qui tacet [consentire videtur].
-                        <persName>Coudenhove</persName> glaubt bestimmt, daß auch
+                    hatte, <add place="across">folgendermaßen</add>:
+                        “<persName>Coudenhove</persName> hat dem <persName>Kaiser</persName> gesagt:
+                    es dürfe unter keiner Bedingung so aussehen, als ob er, der
+                        <persName>Kaiser</persName> von der Wahlreform abgekommen sei, sie müsse
+                    daher im <orgName>Parlamente</orgName> stecken bleiben und erst bis es dort eben
+                    nicht mehr weiter gehe, müsse der <persName>Kaiser</persName> (quasi deshalb)
+                    neue ganz andere Reformvorschläge akzeptieren. Der <persName>Kaiser</persName>
+                    hat mit keiner Silbe widersprochen und qui tacet <add place="across">consentire
+                        videtur</add>. <persName>Coudenhove</persName> glaubt bestimmt, daß auch
                         <persName>Beck</persName> nur dergleichen machen wird, die
                     Kompromissverhandlungen fortzusetzen, und nicht daran denkt, die Sache zu Ende
                     zu führen. Es soll eben dem <persName>Kaiser</persName> aus dem Engpass, in den
@@ -991,14 +998,16 @@
                     Zügel schießen. In den letzten Tagen <persName>Hohenlohes</persName> hielt
                         <persName>Daszyński</persName> in <placeName>Lemberg</placeName> eine Rede,
                     die in der <orgName>Arbeiterzeitung</orgName> am <date when="1906-06-01">1. Juni
-                        1906</date> glatt abgedruckt wurde. In dieser Rede hieß es: „Ich muß
-                    erklären, daß für die eventuelle psychologisch erklärbare elementare Entladung
-                    des Volkshasses diejenigen verantwortlich sein werden, die ganz bewußt die im
-                    höchsten Grade erbitterten Massen provozieren (lebhafter Beifall). Es war nicht
-                    eine Drohung, wenn ich vor einigen Wochen in <placeName>Lemberg</placeName>
-                    öffentlich erklärt habe, es werde die Zeit kommen, wo trockene Weiden ihre
-                    Zweige ausstrecken werden und zum Hängen einladen (stürmischer Beifall). Daß es
-                    dann dem <persName>Dzieduszycki</persName> und <persName>Abrahamowicz</persName>
+                        1906</date> glatt abgedruckt wurde.<note>Arbeiter Zeitung vom 1.6.1906, S.
+                        3.<!-- Link zur Arbeiterzeitung: https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19060601&seite=3&zoom=33&query=%22hoffnungen%22%2B%22bauen%22&ref=anno-search --></note>
+                    In dieser Rede hieß es: „Ich muß erklären, daß für die eventuelle psychologisch
+                    erklärbare elementare Entladung des Volkshasses diejenigen verantwortlich sein
+                    werden, die ganz bewußt die im höchsten Grade erbitterten Massen provozieren
+                    (lebhafter Beifall). Es war nicht eine Drohung, wenn ich vor einigen Wochen in
+                        <placeName>Lemberg</placeName> öffentlich erklärt habe, es werde die Zeit
+                    kommen, wo trockene Weiden ihre Zweige ausstrecken werden und zum Hängen
+                    einladen (stürmischer Beifall). Daß es dann dem
+                        <persName>Dzieduszycki</persName> und <persName>Abrahamowicz</persName>
                     schlimm ergeht, ist selbstverständlich. Heute ist die Zeit, wo die Taktik
                     unserer Feinde unsere Taktik beeinflußt. In dem Augenblick, wo uns der legale
                     Weg versperrt wird, betreten wir, koste es, was es wolle, den illegalen
@@ -1010,9 +1019,15 @@
                     langanhaltender Beifall).“ </p>
                 <p>Im Wahlreformausschuss entstand nun ein bis in den <date when="1906-10"
                         >Oktober</date> dauernder Kampf um die Details der Wahlreform, insbesondere
-                    der Wahlkreiseinteilung. Das Resultat für <placeName>Böhmen</placeName> hat die
-                    eine gute Seite, daß die <pb/> Wahlkreise streng national abgegrenzt sind. Die
-                    Deutschen haben allerdings um einige Mandate mehr, als nach der
+                    der Wahlkreiseinteilung. <note>Zu den 62 Sitzungen des Wahlreformausschusses
+                        siehe: Zu 2727 der Beilagen zu den stenographischen Protokollen des
+                        Abgeordnetenhauses – XVIII. Session 1906: Verhandlungen des
+                        Wahlreformausschusses, in: Beilagen zu den stenographischen Protokollen des
+                        Hauses der Abgeordneten des österreichischen Reichsrates im Jahre 1906,
+                        XVII. Session, XXVII. Band (enthaltend die Beilagen 2727 bis 2741) (Wien
+                        1907) S. 189-746. </note> Das Resultat für <placeName>Böhmen</placeName> hat
+                    die eine gute Seite, daß die <pb/> Wahlkreise streng national abgegrenzt sind.
+                    Die Deutschen haben allerdings um einige Mandate mehr, als nach der
                     Bevölkerungsziffer auf sie entfallen würde, aber ihre Steuerleistung, ihre alte
                     kulturelle Bedeutung und ihre historischen Minoritäten bleiben unberücksichtigt.
                     Letzteres gilt insbesondere von <placeName>Prag</placeName>,
@@ -1021,15 +1036,22 @@
                     ein, daß den Deutschen in <placeName>Prag</placeName> ein Mandat und den
                     Deutschen in <placeName>Budweis</placeName> und <placeName>Pilsen</placeName>
                     zusammen auch ein Mandat (auf Grund eines nationalen Katasters nach mährischem
-                    Muster) zugewiesen würde. Ich warf einen historischen Rückblick auf das
-                    Zusammenleben der Deutschen und Tschechen in <placeName>Böhmen</placeName>, auf
-                    die wechselnden Schicksale, welche im Laufe der Jahrhunderte Deutsche und
-                    Tschechen in <placeName>Böhmen</placeName> erfahren haben, auf die großen
-                    Wandlungen der Ereignisse in diesem Lande, die einmal die eine Nation, dann
-                    wieder die andere einseitig begünstigt haben und kam zu dem Schluss, daß wir
-                    endlich diese für uns beide unheilvolle historische Peripetie schließen und uns
-                    auf den Boden moderner Ideen einrichten sollen. Ich reklamierte die zwei Mandate
-                    ebenso sehr auf Grund des historischen Anrechtes [der Deutschen] als ihrer
+                    Muster) zugewiesen würde. <note>Baernreither hielt seine Rede in der 31. Sitzung
+                        des Wahlreformausschusses am 18.7.1906: Zu 2727 der Beilagen zu den
+                        stenographischen Protokollen des Abgeordnetenhauses – XVIII. Session 1906:
+                        Verhandlungen des Wahlreformausschusses, in: Beilagen zu den
+                        stenographischen Protokollen des Hauses der Abgeordneten des
+                        österreichischen Reichsrates im Jahre 1906, XVII. Session, XXVII. Band
+                        (enthaltend die Beilagen 2727 bis 2741) (Wien 1907) S. 381-400.</note> Ich
+                    warf einen historischen Rückblick auf das Zusammenleben der Deutschen und
+                    Tschechen in <placeName>Böhmen</placeName>, auf die wechselnden Schicksale,
+                    welche im Laufe der Jahrhunderte Deutsche und Tschechen in
+                        <placeName>Böhmen</placeName> erfahren haben, auf die großen Wandlungen der
+                    Ereignisse in diesem Lande, die einmal die eine Nation, dann wieder die andere
+                    einseitig begünstigt haben und kam zu dem Schluss, daß wir endlich diese für uns
+                    beide unheilvolle historische Peripetie schließen und uns auf den Boden moderner
+                    Ideen einrichten sollen. Ich reklamierte die zwei Mandate ebenso sehr auf Grund
+                    des historischen Anrechtes <add place="across">der Deutschen</add> als ihrer
                     modernen, kulturellen und wirtschaftlichen Bedeutung, die dieses erbangesessene
                     Deutschtum für die Entwicklung ganz <placeName>Böhmens</placeName> seit
                     Jahrhunderten gehabt hat. Meine Rede machte einen gewissen Eindruck. Selbst Dr.
@@ -1045,9 +1067,10 @@
                     bestand darin, die ganze Wahlreformaktion in Einzelgefechte für jedes Kronland
                     und in diesen wieder von Mandat zu Mandat aufzulösen, die sich kreuzenden
                     Interessen klug zu benützen, einen gegen den anderen auszuspielen, die
-                    Abgeordneten durch die Konstruktion ihrer [Wahlbezirke] persönlich zu gewinnen,
-                    den unerhörten Druck der Sozialdemokratie zuzulassen und die Krone selbst in
-                    kritischen Momenten einzuspannen. </p>
+                    Abgeordneten durch die Konstruktion ihrer <del rendition="#s">Mandate</del>
+                    <add place="across">Wahlbezirke</add> persönlich zu gewinnen, den unerhörten
+                    Druck der Sozialdemokratie zuzulassen und die Krone selbst in kritischen
+                    Momenten einzuspannen.</p>
                 <p>Die Feinde der Wahlreform unterstützen jeden Abänderungsantrag, weil er die Sache
                     komplizierte, die Anhänger lehnen jeden, auch den vernünftigsten ab, weil sie
                     jede Abänderung als ein Hindernis ansehen. Im ganzen Saal sieht man Abgeordnete
@@ -1092,8 +1115,8 @@
             </div>
 
             <div>
-                <p> 8. Meine Denkschrift vom <date when="1906-08-13">13. August 1906</date>
-                </p>
+                <head> 8. Meine Denkschrift vom <date when="1906-08-13">13. August 1906</date>
+                </head>
                 <p>Die politischen Berechnungen, daß die Wahlreform schließlich doch nicht zu Stande
                     kommen werde, stützten sich im wesentlichen auf drei Annahmen: die
                         <persName>Krone</persName> wird anderer Meinung werden – die nationalen
@@ -1181,9 +1204,8 @@
             </div>
 
             <div>
-                <p> 9. Das <orgName>Herrenhaus</orgName>
-                </p>
-                <p>Wir haben uns in der letzten Zeit mit dem Exekutivkomitee der verfassungstreuen
+                <head> 9. Das <orgName>Herrenhaus</orgName></head>
+                    <p>Wir haben uns in der letzten Zeit mit dem Exekutivkomitee der verfassungstreuen
                     Gruppe des <orgName>Herrenhauses</orgName> in Verbindung gesetzt. Die Herren
                     wissen aber noch viel weniger als wir was sie wollen. Wir konnten ihnen auch
                     keinen bestimmten Antrag unterbreiten, weil bei uns die Intransigenten, vor
@@ -1213,8 +1235,9 @@
             </div>
 
             <div>
-                <p>
-                    <pb/> 10. Meine Wahlbewerbung im <placeName>Marienbader</placeName> Landbezirk </p>
+                <pb/>
+                <head> 10. Meine Wahlbewerbung im <placeName>Marienbader</placeName>
+                    Landbezirk</head>
                 <p>Von allen Seiten – den <persName>Kaiser</persName> nicht ausgenommen – wurden wir
                     Großgrundbesitzer aufgefordert zu kandidieren und uns dem allgemeinen Wahlrecht
                     zu stellen. <persName>Grabmayr</persName> versuchte es in
