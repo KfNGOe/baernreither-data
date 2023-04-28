@@ -5,7 +5,7 @@
                 <title>Die Tagebücher von Joseph Maria Baernreither</title>
                 <title type="volume">Tagebuch 8 (1905–1909)</title>
                 <title type="short">Bae_TB_8</title>
-      
+
                 <author><persName ref="https://d-nb.info/gnd/118505858"><forename>Joseph
                             Maria</forename>
                         <surname>Baernreither</surname></persName></author>
@@ -73,24 +73,74 @@
             <div>
                 <p>[<placeName key="Lünz" ref="" xml:id="">Lünz</placeName>, am <date
                         when="1906-04-13">13.4.06</date>]</p>
-                <p>Die drei <date>ersten Monate des Jahres 1906</date> bieten politisch ein geradezu
-                    widerliches Bild. Eine Regierung, die aus Gründen, die nicht zu ergründen sind,
-                    einem Schlagworte politische Geltung verschaffen will, ohne sich über die großen
+                <p><anchor xml:id=""/>Die drei <date>ersten Monate des Jahres 1906 <app from="">
+                            <rdg wit="#Bae_MF_6-2">Die drei ersten Monate des Jahres 1906</rdg>
+                        </app>
+                    </date><anchor xml:id=""/>
+                    <app from="">
+                        <rdg wit="#Bae_MF_6-2">, in denen die Regierung mit den verschiedenen
+                            Gruppen der Abgeordneten und einzelnen Politikern über die Wahlreform
+                            verhandelte und diese von Bylandt im Ministerium des Innern bearbeitet
+                            wurde</rdg>
+                    </app> bieten <anchor/>politisch ein geradezu <app from="">
+                        <rdg wit="#Bae_MF_6-2"> im Abgeordnetenhaus</rdg>
+                    </app>
+                    <anchor/> widerliches Bild. <app from="">
+                        <rdg wit="#Bae_MF_6-2">widerliches Bild.</rdg>
+                    </app>
+                    <anchor xml:id=""/>Eine Regierung, <app>
+                        <rdg wit="#Bae_MF_6-2">Eine Regierung,</rdg>
+                    </app>
+                    <anchor xml:id=""/>die aus Gründen, die nicht zu ergründen sind, einem
+                    Schlagworte politische Geltung verschaffen will, ohne sich über die großen
                     Zusammenhänge staatlicher Wirkungen und <pb facs="#fK 5-003" n="5"
-                    />Gegenwirkungen Rechenschaft geben zu wollen – politische Parteien, die
-                    zerfaren u. unaufrichtig diesem Plan der Regierung ohne Halt, ohne Ideen u. ohne
-                    Willen entgegenstehen – die Socialdemokraten, die alles an Terrorismus u.
-                    Einschüchterung leisten, um eine Beute, die ihnen unerwartet winkt, in
-                    Sicherheit zu bringen – eine Presse die ebenso feig wie falsch gegen ihre
-                    Überzeugung zu gleicher Zeit für und gegen die Wahlreform schreibt – endlich die
-                    Abgeordneten persönlich, jeder nur an <hi rend="ul">seinen</hi> zukünftigen
-                    Wahlbezirk denkend, käuflich durch die Wahlkreiseinteilung – das ist der Sumpf,
-                    in dem wir seit Beginn dieses Jahres stecken. Es ist nicht nur ein Niedergang
-                    jeder politischen Führung eines Staates, ein Niedergang jeder politischen Moral
-                    im Abg.Hause, sondern eine Verwirrung und Verknotung unserer Verhältnisse, die
-                    jeden halbwegs vernünftigen Ausweg zu versperren droht.<note>Mit Bleistift
-                        stenographisch ergänzt, in Manuskript „Fragmente“ wiedergegeben siehe
-                        dort</note></p>
+                    />Gegenwirkungen Rechenschaft geben zu wollen – 
+                    <app>
+                        <rdg wit="#Bae_MF_6-2">die sich über die großen Zusammenhänge staatlicher
+                            Wirkungen und Gegenwirkungen nicht Rechenschaft geben will, </rdg>
+                    </app> 
+                    politische Parteien, die zerfaren u. unaufrichtig diesem Plan der
+                    Regierung ohne Halt, ohne Ideen u. ohne Willen <anchor/>entgegenstehen 
+                    <app>
+                        <rdg>gegenüber stehen, </rdg>
+                    </app>
+                    – die Socialdemokraten, die alles an Terrorismus u. Einschüchterung
+                    leisten, um <anchor/>eine Beute 
+                    <app>
+                        <rdg wit="#Bae_MF_6-2">einen Preis</rdg>
+                    </app>
+                    , die ihnen unerwartet winkt, in Sicherheit zu bringen – eine Presse die
+                    ebenso feig wie falsch gegen ihre Überzeugung zu gleicher Zeit für und gegen die
+                    Wahlreform schreibt – endlich die Abgeordneten persönlich, jeder nur an <hi
+                        rend="ul">seinen</hi> zukünftigen Wahlbezirk denkend, käuflich durch die
+                    Wahlkreiseinteilung<anchor/> – das ist der Sumpf, in dem wir seit Beginn dieses
+                    Jahres stecken. 
+                    <app>
+                        <rdg wit="#Bae_MF_6-2">das ist die politische Atmosphähre, in der wir uns seit
+                            Beginn des Jahres 1906 bewegen.</rdg>
+                    </app>
+                    Es ist <anchor/>
+                    nicht nur<app>
+                        <rdg wit="#Bae_MF_6-2"></rdg>
+                    </app>
+                    ein Niedergang jeder politischen Führung <anchor/>eines Staates
+                    <app>
+                        <rdg wit="#Bae_MF_6-2"></rdg>
+                    </app>,
+                    ein Niedergang <anchor/>jeder
+                    <app>
+                        <rdg wit="#Bae_MF_6-2">der</rdg>
+                    </app>politischen Moral<anchor/> im Abg.Hause
+                    <app>
+                        <rdg wit="#Bae_MF_6-2"></rdg>
+                    </app>
+                    <anchor/>, sondern
+                    <app>
+                        <rdg wit="#Bae_MF_6-2"></rdg>
+                    </app>eine Verwirrung und
+                    Verknotung unserer Verhältnisse, die jeden halbwegs vernünftigen Ausweg zu
+                    versperren droht.<note>Mit Bleistift stenographisch ergänzt, in Manuskript
+                        „Fragmente“ wiedergegeben siehe dort</note></p>
                 <p>Ich will hier nicht die schmutzigen Peripetien dieses Processes schildern,
                     sondern nur Streiflichter fixieren, von denen ein falsches in die Öffentlichkeit
                     gedrungen ist.</p>
