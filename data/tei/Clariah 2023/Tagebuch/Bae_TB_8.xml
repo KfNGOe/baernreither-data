@@ -60,7 +60,7 @@
                 <!-- andere Sprachen? -->
             </langUsage>
             <textClass>
-                <classCode scheme="">Tagebuch</classCode>
+                <classCode scheme="xxxx">Tagebuch</classCode>
                 <!-- wo findet man die URLs der DTA-Hauptklassifikation -->
             </textClass>
         </profileDesc>
@@ -74,19 +74,19 @@
             <div>
                 <p>[<placeName key="Lünz" ref="" xml:id="">Lünz</placeName>, am <date
                         when="1906-04-13">13.4.06</date>]</p>
-                <p><anchor xml:id=""/>Die <date from="1906-01" to="1906-03">drei ersten Monate des Jahres 1906</date> <app from="">
+                <p><anchor xml:id=""/>Die <date from="1906-01" to="1906-03">drei ersten Monate des Jahres 1906</date> <app from="xxxx">
                             <rdg wit="#Bae_MF_6-2">Die drei ersten Monate des Jahres 1906</rdg>
                         </app>
                     <anchor xml:id=""/>
-                    <app from="">
+                    <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">, in denen die Regierung mit den verschiedenen
                             Gruppen der Abgeordneten und einzelnen Politikern über die Wahlreform
                             verhandelte und diese von Bylandt im Ministerium des Innern bearbeitet
                             wurde</rdg>
-                    </app> bieten <anchor/>politisch ein geradezu <app from="">
+                    </app> bieten <anchor/>politisch ein geradezu <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2"> im Abgeordnetenhaus</rdg>
                     </app>
-                    <anchor/> widerliches Bild. <app from="">
+                    <anchor/> widerliches Bild. <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">widerliches Bild.</rdg>
                     </app>
                     <anchor xml:id=""/>Eine Regierung, <app>
@@ -146,7 +146,7 @@
                     sondern nur Streiflichter fixieren, von denen ein falsches in die Öffentlichkeit
                     gedrungen ist.</p>
                 <p>Zuerst die <persName key="PacakBedrich" ref="1024898318" xml:id="tb_002"
-                        >Pacák</persName>-<persName>Derschatta</persName> Frage.</p>
+                    >Pacák</persName>-<persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> Frage.</p>
                 <p>Der Eintritt dieser beiden Herren in das M[inisterium] von der Regierung – wenn
                     man den kleinlich beschränkten Kreis ihrer Mittel überhaupt ernst nimmt – ein
                     begreiflicher Versuch! <pb facs="#fK 5-004" n="6"/>Vorspann für die Wahlreform. Aber ja keine Fühlung,
@@ -166,7 +166,7 @@
                     Abgeordneten, die Gegner der Sache sind u. sammeln Gift und Galle, die dann
                     sorgfältig verzapft werden.</p>
 
-                <p><persName>Derschatta</persName> benimmt sich ebenso hinterhältig als dumm. Er
+                <p><persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> benimmt sich ebenso hinterhältig als dumm. Er
                     will die Sache um jeden Preis, aber er weicht uns aus, lässt sich vom 4
                     Ausschuss nicht <pb facs="#fK 5-005" n="7"/>finden, eine lächerliche Suche nach
                     ihm wird veranstaltet bis man ihn stellt u. er den bereits gescheiterten Plan
@@ -175,14 +175,12 @@
                     des letzten Zuges nach <placeName>Graz</placeName>: Telegramm N. 1. Durch
                     wichtige Kanzleigeschäfte ist er bis Freitag „festgenagelt“: Telegramm N. 2.
                     Einer abermaligen dringenden Aufforderung setzt er eine Conferenz mit den
-                    Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu
-                        <persName>Chiari</persName> u. expectorire mich; er telegrafirt, dass es
+                    Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu <persName>Chiari</persName> u. expectorire mich; er telegrafirt, dass es
                     unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4.</p>
                 <pb/>
-                <p>Endlich kommt die Stunde der Beichte. Sie wird von
-                        <persName>Derschatta</persName> im Stande des unterdrückten u. schlecht
+                <p>Endlich kommt die Stunde der Beichte. Sie wird von <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> im Stande des unterdrückten u. schlecht
                     verhehlten Zornes abgelegt. Sie folgt hier nach den unmittelbar während der
-                    Erzählung <persName>Derschatta‘s</persName> gemachten Aufzeichnungen. Nicht ein
+                    Erzählung <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta‘s</persName> gemachten Aufzeichnungen. Nicht ein
                     politischer Gedanke in den ganzen Verhandlungen, nicht ein Plan, sondern der
                     alte Schacher um die alten Postulate, der Versuch eine „Situation“ zu schaffen
                     ohne politischen Boden. Das Ganze ein jämmerliches Beispiel für das Niveau
@@ -191,7 +189,7 @@
             </div>
             <div>
                 <p><add><pb facs="#fK 5-006" n="8"/>Diarium der Verhandlungen des Herrn von
-                            <persName>Derschatta</persName> mit <persName key="GautschPaul"
+                    <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> mit <persName key="GautschPaul"
                             ref="https://d-nb.info/gnd/137078080">Gautsch</persName>, aufgenommen in
                         der Sitzung des 4 Ausschusses vom <date when="1906-01-25"
                         >25.1.1906</date>.</add></p>
@@ -216,11 +214,11 @@
                     bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und <pb
                         facs="#fK 5-007" n="9"/>dass dann auch größere Aussicht vorhanden wäre die
                     Verhandlungen über die Wahlreform vor den grössten Gefaren zu schützen.</p>
-                <p><persName>Derschatta</persName> u. <del rendition="#s"
+                <p><persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> u. <del rendition="#s"
                         ><persName>Prade</persName></del><add place="across"
                             ><persName>Chiari</persName></add> erwidern: 1) es ist ausgeschlossen,
                     dass durch so einen Eintritt die deutsche Volkspartei gebunden werden kann 2)
-                        <persName>Derschatta</persName> tut allein nicht mit, es muss ein
+                    <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> tut allein nicht mit, es muss ein
                     Deutschböhme dabei sein: <persName>Prade</persName>. <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName> erwidert, er denke
                     nicht daran die Partei dadurch zu binden, bittet aber die Sache geheim zu
@@ -229,7 +227,7 @@
                         Tagblatt</orgName> (Abendblatt)!<note>Prager Tagblatt vom 16.1.1906,
                         Abendausgabe S.
                     1.</note><!-- hier wäre ein Link zu ANNO - wie soll das augezeichnet werden? -->
-                    Conferenz <persName>Derschatta’s</persName> mit einer andern <add>nicht
+                    Conferenz <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta’s</persName> mit einer andern <add>nicht
                         genannten</add> Persönlichkeit über die <del rendition="#s">Anregungen</del>
                     <add place="across">Fragen</add> ob man nicht die Wahlreform einverständlich
                     verhindern könne.</p>
@@ -246,7 +244,7 @@
                 <p><date when="1906-01-19">Freitag den 19.1.</date>nichts.</p>
                 <p><date when="1906-01-20">Samstag den 20.1. Nachmittag 3 Uhr</date> Besprechung bei
                         <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
-                        >Gautsch</persName>: <persName>Derschatta</persName>,
+                            >Gautsch</persName>: <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName>,
                         <persName>Chiari</persName>, <persName>Prade</persName>,
                         <persName>Pacák</persName>.</p>
                 <p>Es wird mit der Wahlreform angefangen. <persName key="GautschPaul"
@@ -276,7 +274,7 @@
                 <p>
                     <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
                         >Gautsch</persName> erklärt, dass er sich die Durchfürung derartig denke,
-                    dass 2 Deutsche <add>(<persName>Derschatta</persName> und
+                    dass 2 Deutsche <add>(<persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> und
                             <persName>Prade</persName>)</add> ins Ministerium treten, einer als
                     Ressortminister, der andere als Landsmannminister, dagegen ein Czeche
                             <add>(<persName>Pacák</persName>)</add> als Landsman Minister.
@@ -286,7 +284,7 @@
                 <p><date when="1906-01-21">Sonntag 21.1.</date> Neuerliche Conferenz zwischen
                     denselben Herren, zu denen <persName>Zaczek</persName> noch dazukommt. Es wurde
                     Alles noch einmal durchgesprochen mit demselben Resultat, wobei
-                        <persName>Derschatta</persName> den Standpunkt vertrat, dass aus diesem
+                    <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> den Standpunkt vertrat, dass aus diesem
                     Anlass die böhm. Frage ja nicht <pb facs="#fK 5-010" n="12"/>gelöst werden
                     könne. In der Frage der mähr. Universität offener Dissens.
                         <persName>Zaczek</persName> verlangt wenn nicht
@@ -295,12 +293,12 @@
                     die Rede sein könne wenn innere Amtssprache u. Universität vollständig
                     ausgeschaltet werden, indem sie das eine wie das andere ablehnen müssen. Damit
                     waren die gemeinsamen Conferenzen beendet. Dr. v.
-                        <persName>Derschatta</persName> reiste noch Sonntag Abend nach
+                    <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> reiste noch Sonntag Abend nach
                         <placeName>Graz</placeName>. <persName>Prade</persName> am Montag nach
                         <placeName>Reichenberg</placeName>.</p>
                 <p>--- </p>
                 <p><date when="1906-01-25">Donnerstag den 25.</date>
-                    <persName>Dr. v. Derschatta</persName> um ½ 11 Uhr bei <persName
+                    <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Dr. v. Derschatta</persName> um ½ 11 Uhr bei <persName
                         key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>,
                     der die Combination als aufgegeben
                     erklärt.<!-- bis hier ginge die Einklebung! --></p>
@@ -326,7 +324,7 @@
                         >24.</date>) die „Verhandlungen“ u. Gross zwang Chiari mit ihm das Gleiche
                     bezüglich Mährens zu tun. Diese kategorischen Dementis trugen offenbar dazu bei
                     dass Pacák am <date when="1906-01-24">24.</date> glatt ablehnte, was zur Folge
-                    hatte dass Gautsch am <date when="1906-01-25">25.</date> Derschatta ebenfalls
+                    hatte dass Gautsch am <date when="1906-01-25">25.</date> <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> ebenfalls
                     abwinkte.</p>
                 <p> Schließlich wurde die Wahlreform vorgelegt u. die grosse Generaldebatte spielte
                     sich ab. Die Einzigen, die eigentlich ins Feuer gingen, waren wir und die
@@ -490,7 +488,7 @@
             </div>
 
             <div>
-                <p><head><hi rend="ul">Sancta Simplicitas!</hi></head></p>
+                <head><hi rend="ul">Sancta Simplicitas!</hi></head>
                 <p>Es gibt wirklich Menschen, die nach dem Bekanntwerden des Abkommens der Krone mit
                     dem Cabinet <persName>Wekerle</persName> der Ansicht Ausdruck gegeben haben: der
                         <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
@@ -569,14 +567,11 @@
                 <p><placeName key="Lünz" ref="" xml:id="">Lünz</placeName>, <date when="1906-06-05"
                         >5.6.1906</date></p>
             </div>
-
+            <pb facs="#fK 5-023" n="25"/>
             <div>
-                <p><pb facs="#fK 5-023" n="25"/><head><hi rend="ul">Von <persName
-                                key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816"
-                                >Hohenlohe</persName> bis <persName>Beck</persName></hi></head></p>
+                <head><hi rend="ul">Von <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> bis <persName>Beck</persName></hi></head>
                 <p>
-                    <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816"
-                        >Hohenlohe</persName> eine Enttäuschung. Ich will nicht hart sein, aber
+                    <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> eine Enttäuschung. Ich will nicht hart sein, aber
                     „Idealist“ ist zu viel gesagt. Sein Arcanum ist das „allgemeine, gleiche,
                     direkte, geheime Wahlrecht “ u. er verteidigt es nicht mit Gründen, sondern
                     quasi per inspirationem. Er war gegen uns Großgrundbesitzer höflich u. erklärte
@@ -722,12 +717,11 @@
                     nicht mehr gewählt werden kann.</p>
                 <p><placeName>Wien</placeName>, <date when="1906-06-19">19.6.06</date></p>
             </div>
-
+            <pb facs="#fK 5-027" n="29"/>
             <div>
-                <p><pb facs="#fK 5-027" n="29"/><hi rend="ul"><head>Aus dem
-                            Wahlreformausschusse</head></hi></p>
-                <p>Die Regierung will die „ <persName key="HohenloheKonrad"
-                        ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen Vorschläge“
+                <head><hi rend="ul">Aus dem Wahlreformausschusse</hi></head>
+                <p>Die Regierung will die <q><persName key="HohenloheKonrad"
+                        ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen Vorschläge</q>
                     unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als
                     Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und
                     intrigiert wird. <note>Ergänzung mit Bleistift, teils stenographisch, im
@@ -757,7 +751,7 @@
                         <persName>Kienmann</persName>, <persName>Löcker</persName> besorgen geradezu
                     die Geschäfte der Socialdemocratie, die ihnen Hilfe im Wahlkampf versprochen
                     haben – auf wie lange!! Heute kommen auch <persName>Marchet</persName> u.
-                        <persName>Derschatta</persName> in den Ausschuss – alles arbeitet gegen die
+                    <persName key="DerschattaJuliusVon" ref="136192165" xml:id="">Derschatta</persName> in den Ausschuss – alles arbeitet gegen die
                     armen Deutschen in <placeName>Biala</placeName>. <persName>Beck</persName> sagte
                     zu mir: „Sie werden doch nicht für die Juden in <placeName>Biala</placeName>
                     stimmen“ worauf ich ihm antwortete dass er <placeName>Biala</placeName> ja nicht
@@ -790,13 +784,10 @@
                     Untreue, wie kein österreichischer Monarch vor ihm.</p>
                 <p><placeName>W[ien]</placeName>. <date when="1906-06-29">29.6.06</date></p>
             </div>
-
-            <div>
-                <p><pb facs="#fK 5-030" n="32"/>
-                    <head><hi rend="ul">Denkschrift verfasst für <persName>Nostitz</persName> –
-                                <persName>Fürstenberg</persName>,
-                            <placeName>München</placeName></hi></head>
-                    <date when="1906-08-13">13.8.06</date></p>
+            <pb facs="#fK 5-030" n="32"/>
+            <div><head><hi rend="ul">Denkschrift verfasst für <persName>Nostitz</persName> –
+                <persName>Fürstenberg</persName>,
+                <placeName>München</placeName></hi> <date when="1906-08-13">13.8.06</date></head>
                 <p>Die polit[ischen] Berechnungen, dass die Wahlr[eform] schliesslich doch nicht zu
                     Stande kommen werde, stützten sich im Wesentlichen auf drei Suppositionen: die
                         <persName>Krone</persName> wird anderer Meinung werden – die nationalen
