@@ -74,10 +74,10 @@
             <div>
                 <p>[<placeName key="Lünz" ref="" xml:id="">Lünz</placeName>, am <date
                         when="1906-04-13">13.4.06</date>]</p>
-                <p><anchor xml:id=""/>Die drei <date>ersten Monate des Jahres 1906 <app from="">
+                <p><anchor xml:id=""/>Die <date from="1906-01" to="1906-03">drei ersten Monate des Jahres 1906</date> <app from="">
                             <rdg wit="#Bae_MF_6-2">Die drei ersten Monate des Jahres 1906</rdg>
                         </app>
-                    </date><anchor xml:id=""/>
+                    <anchor xml:id=""/>
                     <app from="">
                         <rdg wit="#Bae_MF_6-2">, in denen die Regierung mit den verschiedenen
                             Gruppen der Abgeordneten und einzelnen Politikern über die Wahlreform
