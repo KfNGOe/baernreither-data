@@ -7,8 +7,8 @@
                 <title type="volume">Tagebuch 8 (1905–1909)</title>
                 <title type="short">Bae_TB_8</title>
 
-                <author><!-- xxxx RH: ohne @key? --><persName ref="https://d-nb.info/gnd/118505858"><forename>Joseph
-                            Maria</forename>
+                <author><persName key="BaernreitherJosephMaria"
+                        ref="https://d-nb.info/gnd/118505858"><forename>Joseph Maria</forename>
                         <surname>Baernreither</surname></persName></author>
                 <editor><persName ref="https://d-nb.info/gnd/131898248"
                             ><forename>Doris</forename><surname>Corradini</surname></persName></editor>
@@ -72,11 +72,13 @@
                 <head><pb facs="#fK 5-002" n="4"/><hi rend="ul">Die Wahlreform</hi></head>
             </div>
             <div>
-                <p>[<placeName key="Lünz" ref="" xml:id="">Lünz</placeName>, am <date
-                        when="1906-04-13">13.4.06</date>]</p>
-                <p><anchor xml:id=""/>Die <date from="1906-01" to="1906-03">drei ersten Monate des Jahres 1906</date> <app from="xxxx">
-                            <rdg wit="#Bae_MF_6-2">Die drei ersten Monate des Jahres 1906</rdg>
-                        </app>
+                <p>[<placeName key="Lünz">Lünz</placeName>, am <date when="1906-04-13"
+                        >13.4.06</date>]</p>
+                <p><anchor xml:id=""/>Die <date from="1906-01" to="1906-03">drei ersten Monate des
+                        Jahres 1906</date>
+                    <app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Die drei ersten Monate des Jahres 1906</rdg>
+                    </app>
                     <anchor xml:id=""/>
                     <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">, in denen die Regierung mit den verschiedenen
@@ -95,105 +97,151 @@
                     <anchor xml:id=""/>die aus Gründen, die nicht zu ergründen sind, einem
                     Schlagworte politische Geltung verschaffen will, ohne sich über die großen
                     Zusammenhänge staatlicher Wirkungen und <pb facs="#fK 5-003" n="5"
-                    />Gegenwirkungen Rechenschaft geben zu wollen – 
-                    <app>
+                    />Gegenwirkungen Rechenschaft geben zu wollen – <app>
                         <rdg wit="#Bae_MF_6-2">die sich über die großen Zusammenhänge staatlicher
                             Wirkungen und Gegenwirkungen nicht Rechenschaft geben will, </rdg>
-                    </app> 
-                    politische Parteien, die zerfaren u. unaufrichtig diesem Plan der
-                    Regierung ohne Halt, ohne Ideen u. ohne Willen <anchor/>entgegenstehen 
-                    <app>
+                    </app> politische Parteien, die zerfaren u. unaufrichtig diesem Plan der
+                    Regierung ohne Halt, ohne Ideen u. ohne Willen <anchor/>entgegenstehen <app>
                         <rdg>gegenüber stehen, </rdg>
-                    </app>
-                    – die Socialdemokraten, die alles an Terrorismus u. Einschüchterung
-                    leisten, um <anchor/>eine Beute 
-                    <app>
+                    </app> – die Socialdemokraten, die alles an Terrorismus u. Einschüchterung
+                    leisten, um <anchor/>eine Beute <app>
                         <rdg wit="#Bae_MF_6-2">einen Preis</rdg>
-                    </app>
-                    , die ihnen unerwartet winkt, in Sicherheit zu bringen – eine Presse die
+                    </app> , die ihnen unerwartet winkt, in Sicherheit zu bringen – eine Presse die
                     ebenso feig wie falsch gegen ihre Überzeugung zu gleicher Zeit für und gegen die
                     Wahlreform schreibt – endlich die Abgeordneten persönlich, jeder nur an <hi
                         rend="ul">seinen</hi> zukünftigen Wahlbezirk denkend, käuflich durch die
                     Wahlkreiseinteilung<anchor/> – das ist der Sumpf, in dem wir seit Beginn dieses
-                    Jahres stecken. 
-                    <app>
-                        <rdg wit="#Bae_MF_6-2">das ist die politische Atmosphähre, in der wir uns seit
-                            Beginn des Jahres 1906 bewegen.</rdg>
-                    </app>
-                    Es ist <anchor/>
-                    nicht nur<app>
-                        <rdg wit="#Bae_MF_6-2"></rdg>
-                    </app>
-                    ein Niedergang jeder politischen Führung <anchor/>eines Staates
-                    <app>
-                        <rdg wit="#Bae_MF_6-2"></rdg>
-                    </app>,
-                    ein Niedergang <anchor/>jeder
-                    <app>
+                    Jahres stecken. <app>
+                        <rdg wit="#Bae_MF_6-2">das ist die politische Atmosphähre, in der wir uns
+                            seit Beginn des Jahres 1906 bewegen.</rdg>
+                    </app> Es ist <anchor/> nicht nur<app>
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app> ein Niedergang jeder politischen Führung <anchor/>eines Staates <app>
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app>, ein Niedergang <anchor/>jeder <app>
                         <rdg wit="#Bae_MF_6-2">der</rdg>
-                    </app>politischen Moral<anchor/> im Abg.Hause
-                    <app>
-                        <rdg wit="#Bae_MF_6-2"></rdg>
+                    </app>politischen Moral<anchor/> im Abg.Hause <app>
+                        <rdg wit="#Bae_MF_6-2"/>
                     </app>
-                    <anchor/>, sondern
+                    <anchor/>, sondern <app>
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app>eine Verwirrung und Verknotung unserer Verhältnisse, die jeden halbwegs
+                    vernünftigen Ausweg zu versperren droht.<anchor/>
                     <app>
-                        <rdg wit="#Bae_MF_6-2"></rdg>
-                    </app>eine Verwirrung und
-                    Verknotung unserer Verhältnisse, die jeden halbwegs vernünftigen Ausweg zu
-                    versperren droht.<note>Mit Bleistift stenographisch ergänzt, in Manuskript
-                        „Fragmente“ wiedergegeben siehe dort</note></p>
-                <p>Ich will hier nicht die schmutzigen Peripetien dieses Processes schildern,
-                    sondern nur Streiflichter fixieren, von denen ein falsches in die Öffentlichkeit
-                    gedrungen ist.</p>
-                <p>Zuerst die <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="tb_002"
-                    >Pacák</persName>-<persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> Frage.</p>
+                        <rdg wit="Bae_MF_6-2">Prade, den ich in dieser Zet einmal zur Rede stellte,
+                            sagte mir: Was wollen Sie, die Deutschen in Oesterreich sind so
+                            zermürbt, dass se an einen planmäßigen Widerstand gar nicht
+                            denken.</rdg>
+                    </app></p>
+                <!-- CA: hier stünde in Word in der FN, dass dieser Teil stenographisch ergänzt ist, lassen wir diese Info hier weg? -->
+                <p>Ich will hier nicht die <anchor/>schmutzige Perspektive dieses Prozesses<app>
+                        <rdg wit="#Bae_MF_6-2">verschiedenen Peripetien dieser Wahlrechtsbewegung im
+                            Hause</rdg>
+                    </app> schildern, sondern nur Streiflichter <anchor/>fixieren, von denen ein
+                    falsches in die Öffentlichkeit gedrungen ist. <app>
+                        <rdg wit="#Bae_MF_6-2">auf die Ereignisse werfen, bei denen ich unmittelbar
+                            beteiligt war.</rdg>
+                    </app></p>
+                <p><anchor/>Zuerst die <persName key="PacakBedrich"
+                        ref="https://d-nb.info/gnd/1024898318" xml:id="tb_002"
+                        >Pacák</persName>-<persName key="DerschattaJulius"
+                        ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName>
+                    Frage.</p>
                 <p>Der Eintritt dieser beiden Herren in das M[inisterium] von der Regierung – wenn
                     man den kleinlich beschränkten Kreis ihrer Mittel überhaupt ernst nimmt – ein
-                    begreiflicher Versuch! <pb facs="#fK 5-004" n="6"/>Vorspann für die Wahlreform. Aber ja keine Fühlung,
-                    Verständigung mit den Parteien. Nicht der leiseste Versuch einer wirklichen
-                    Raillirung, sondern clandestine Benützung des persönlichen Ergeizes u.
-                    persönlicher Verhältnisse. Hat man die beiden Obmänner der grossen čech. u.
-                    deutschen Parteien gefangen, dann kann man mittelst ihrer Beziehungen u.
-                    Ambitionen diese Parteien beeinflussen, <del rendition="#s">eventuell
-                        sprengen</del>, bereden, die Widerstrebenden an die Wand drücken. Beileibe
-                    also nicht Ideen, polit. klare Ziele, sondern einfach das Einfangen der wilden
-                    Elefanten d[urc]h die gezämten.</p>
-                <p>Es misslingt. Es wird von dem Plan zuviel den Zeitungen mitgeteilt, die sofort
-                    ihr doppeltes Spiel spielen, loben u. tadeln zugleich, die ganze Aufmerksamkeit
-                    auf die Vorgänge, welche zur „Parlamentarisierung“ führen sollen lenken u.
-                    zugleicherzeit contra geben, gegen die Sache hetzen. Die <orgName>N[eue] fr[eie]
-                        Presse</orgName> voran. Ihre Unterredakteure laufen herum bei den
-                    Abgeordneten, die Gegner der Sache sind u. sammeln Gift und Galle, die dann
-                    sorgfältig verzapft werden.</p>
-
-                <p><persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> benimmt sich ebenso hinterhältig als dumm. Er
-                    will die Sache um jeden Preis, aber er weicht uns aus, lässt sich vom 4
-                    Ausschuss nicht <pb facs="#fK 5-005" n="7"/>finden, eine lächerliche Suche nach
-                    ihm wird veranstaltet bis man ihn stellt u. er den bereits gescheiterten Plan
-                    beichten muss. Ein Kartenbrief der ihn am <date when="1906-01-22">22.1.</date>
+                    begreiflicher Versuch! <pb facs="#fK 5-004" n="6"/>
+                    <app>
+                        <rdg wit="#Bae_MF_6-2">Zunächst hatte in unserem Klub die engherzige
+                            Auffassung der Lage Oberwasser. <persName>Stürgkh</persName> vollkommen
+                            intransigent und borniert, jene Herren bei uns, die am wenigsten
+                            parlamentarisch gearbeitet hatten, am meisten schreiend, unmöglich einen
+                            Gegenplan zur Verhandlung, geschweige zur Annahme zu bringen. Persönlich
+                            behielt ich enge Fühlung mit jenem Teil der deutschen Abgeordneten,
+                            <pb/> die nicht ganz den Kopf verloren hatten, besonders mit dem
+                            allezeit grundehrlichen <persName>Pergelt</persName>, mit dem ich die
+                            Chancen der Deutschböhmen bei der zu erwartenden Wahlreform
+                            durcharbeitete. Er versammelte bei sich eine Anzahl von
+                            deutsch-böhmischen Abgeordneten, meines Wissens die einzigen, welche
+                            wenigsten von dem allgemeinen Standpunkt
+                                <placeName>Deutschböhmens</placeName> aus, und nicht bloß von
+                            einzelnen Wahlbezirken ausgehend, den Stoff zum Gegenstand eines
+                            eingehenden Studiums machten. Meine Bemühungen und Anregungen, um ein
+                            deutsches Gesamtelaborat für alle Kronländer zustande zu bringen,
+                            scheiterten an der Zersplitterung der einzelnen Interessen, an der
+                            Eifersucht der Parteien, die die Regierung klug zu benützen verstand.
+                            Charakteristisch war der Versuch <persName>Gautschs</persName>, eine
+                            teilweise Parlamentarisierung der Regierung zustande zu bringen. Dies
+                            spielte im <date when="1906-01">Jänner 1906</date>. Er wollte damit die
+                            Wahlreform sichern, hatte die Absicht <persName>Prade</persName> und
+                                <persName>Pacák</persName> zu Landsmannministern zu machen und
+                                <persName>Derschatta</persName> zum Eisenbahnminister. Sie sollte
+                            ihm</rdg>
+                        <!-- CA: hier die Frage, ist das so ausreichend, oder muss hier noch eine FN ergänzt werden? -->
+                    </app>Vorspann für die Wahlreform. Aber ja keine Fühlung<anchor/>,<app>
+                        <rdg wit="#Bae_MF_6-2">oder</rdg>
+                    </app> Verständigung mit den Parteien<anchor/>
+                    <app>
+                        <rdg wit="#Bae_MF_6-2"> als Ganzes</rdg>
+                    </app>. Nicht der leiseste Versuch einer wirklichen Raillirung, sondern
+                    clandestine Benützung des persönlichen Ergeizes u. persönlicher Verhältnisse.
+                    Hat man die beiden Obmänner der grossen čech. u. deutschen Parteien
+                    <anchor/>gefangen, <app>
+                        <rdg wit="#Bae_MF_6-2">eingefangen,</rdg>
+                    </app> dann kann man mittelst ihrer Beziehungen u. Ambitionen diese Parteien
+                    beeinflussen, <del rendition="#s">eventuell sprengen</del>, bereden, die
+                    Widerstrebenden an die Wand drücken. Beileibe also nicht Ideen, polit. klare
+                    Ziele, sondern einfach das Einfangen der wilden Elefanten d[urc]h die
+                    gezämten.</p>
+                <p><anchor/>Es misslingt. Es wird von dem Plan zuviel den Zeitungen mitgeteilt, die
+                    sofort ihr doppeltes Spiel spielen, loben u. tadeln zugleich, die ganze
+                    Aufmerksamkeit auf die Vorgänge, welche zur „Parlamentarisierung“ führen sollen
+                    lenken u. zugleicherzeit contra geben, gegen die Sache hetzen. Die
+                        <orgName>N[eue] fr[eie] Presse</orgName> voran. Ihre Unterredakteure laufen
+                    herum bei den Abgeordneten, die Gegner der Sache sind u. sammeln Gift und Galle,
+                    die dann sorgfältig verzapft werden. <app>
+                        <rdg>Alle diese Bemühungen spielen sich deswegen auch hinter den Kulissen
+                            ab. Nur einzelne Persönlichkeiten, nicht die Parteien erfahren etwas von
+                            der Sache. Die Presse ergattert hie und da eine Nachricht und beginnt
+                            sofort ihr doppeltes Spiel, lobt und tadelt, berichtet Wahres und
+                            Falsches, alarmiert ohne wirklich zu informieren und es verbreitet sich
+                            bald eine Atmosphäre des allgemeinen Mißtrauens, in der der ganze Plan
+                            scheitern muss.</rdg>
+                    </app></p>
+                <p><persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id=""
+                        >Derschatta</persName> benimmt sich ebenso hinterhältig als dumm. Er will
+                    die Sache um jeden Preis, aber er weicht uns aus, lässt sich vom 4 Ausschuss
+                    nicht <pb facs="#fK 5-005" n="7"/>finden, eine lächerliche Suche nach ihm wird
+                    veranstaltet bis man ihn stellt u. er den bereits gescheiterten Plan beichten
+                    muss. Ein Kartenbrief der ihn am <date when="1906-01-22">22.1.</date>
                     rechtzeitig zu einer Besprechung einladet trifft ihn „unmittelbar“ vor Abgang
                     des letzten Zuges nach <placeName>Graz</placeName>: Telegramm N. 1. Durch
                     wichtige Kanzleigeschäfte ist er bis Freitag „festgenagelt“: Telegramm N. 2.
                     Einer abermaligen dringenden Aufforderung setzt er eine Conferenz mit den
-                    Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765">Chiari</persName> u. expectorire mich; er telegrafirt, dass es
-                    unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4.</p>
+                    Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu <persName
+                        key="ChiariKarl" ref="https://d-nb.info/gnd/116504765">Chiari</persName> u.
+                    expectorire mich; er telegrafirt, dass es unmöglich sei sich länger zu entziehen
+                    – er kommt: Telegramm N. 4.</p>
                 <pb/>
-                <p>Endlich kommt die Stunde der Beichte. Sie wird von <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> im Stande des unterdrückten u. schlecht
-                    verhehlten Zornes abgelegt. Sie folgt hier nach den unmittelbar während der
-                    Erzählung <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta‘s</persName> gemachten Aufzeichnungen. Nicht ein
+                <p>Endlich kommt die Stunde der Beichte. Sie wird von <persName
+                        key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id=""
+                        >Derschatta</persName> im Stande des unterdrückten u. schlecht verhehlten
+                    Zornes abgelegt. Sie folgt hier nach den unmittelbar während der Erzählung
+                        <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
+                        xml:id="">Derschatta‘s</persName> gemachten Aufzeichnungen. Nicht ein
                     politischer Gedanke in den ganzen Verhandlungen, nicht ein Plan, sondern der
                     alte Schacher um die alten Postulate, der Versuch eine „Situation“ zu schaffen
                     ohne politischen Boden. Das Ganze ein jämmerliches Beispiel für das Niveau
-                    unserer Politik u. unserer Politiker.</p>
-                <pb/>
+                    unserer Politik u. unserer Politiker.<pb/></p>
+
             </div>
             <div>
                 <p><add><pb facs="#fK 5-006" n="8"/>Diarium der Verhandlungen des Herrn von
-                    <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> mit <persName key="GautschPaul"
+                            <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
+                            xml:id="">Derschatta</persName> mit <persName key="GautschPaul"
                             ref="https://d-nb.info/gnd/137078080">Gautsch</persName>, aufgenommen in
                         der Sitzung des 4 Ausschusses vom <date when="1906-01-25"
                         >25.1.1906</date>.</add></p>
-                <!-- an der Stelle eine lange Einfügung durch eingeklebtes Blatt, diese Einfügung ist aber selbst wiederum mit Absätzen strukturiert, aber das offenbar nicht zugelassen... wie damit umgehen? -->
+                <addSpan spanTo=""/>
                 <p><date when="1906-01-12">Freitag den 12.1.1906</date> Telegrafische Einladung von
                         <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
                         >Gautsch</persName> zu einer Besprechung.</p>
@@ -206,45 +254,57 @@
                     geneigt sind.</p>
                 <p><date when="1906-01-14">Sonntag den 14., 11 Uhr Vorm.</date> abermalige Conferenz
                     bei <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
-                        >Gautsch</persName> mit <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765">Chiari</persName>. Dieselben Erörterungen.
-                        <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> mit <persName key="ChiariKarl"
+                        ref="https://d-nb.info/gnd/116504765">Chiari</persName>. Dieselben
+                    Erörterungen. <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
                         >Gautsch</persName> spricht den Gedanken aus: ob es nicht möglich wäre dass
                     von Seite der Czechen und Deutschen je eine Persönlichkeit ins Ministerium
                     treten könnte. Er stelle sich vor, dass es auf diese Weise leichter sein werde
                     bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und <pb
                         facs="#fK 5-007" n="9"/>dass dann auch größere Aussicht vorhanden wäre die
                     Verhandlungen über die Wahlreform vor den grössten Gefaren zu schützen.</p>
-                <p><persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> u. <del rendition="#s"><!-- xxxx RH: person doch in del auszeichnen? --><persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName></del><add place="across"
-                            ><persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765">Chiari</persName></add> erwidern: 1) es ist ausgeschlossen,
-                    dass durch so einen Eintritt die deutsche Volkspartei gebunden werden kann 2)
-                    <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> tut allein nicht mit, es muss ein
-                    Deutschböhme dabei sein: <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName>. <persName key="GautschPaul"
-                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> erwidert, er denke
-                    nicht daran die Partei dadurch zu binden, bittet aber die Sache geheim zu
-                    halten.</p>
+                <p><persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id=""
+                        >Derschatta</persName> u. <del rendition="#s"
+                            ><!-- xxxx RH: person doch in del auszeichnen? --><persName
+                            key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                            >Prade</persName></del><add place="across"><persName key="ChiariKarl"
+                            ref="https://d-nb.info/gnd/116504765">Chiari</persName></add> erwidern:
+                    1) es ist ausgeschlossen, dass durch so einen Eintritt die deutsche Volkspartei
+                    gebunden werden kann 2) <persName key="DerschattaJulius"
+                        ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> tut
+                    allein nicht mit, es muss ein Deutschböhme dabei sein: <persName
+                        key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName>.
+                        <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> erwidert, er denke nicht daran die Partei dadurch zu
+                    binden, bittet aber die Sache geheim zu halten.</p>
                 <p><date when="1906-01-15">Montag den 15.1.</date>Erste Notiz im <orgName>Prager
                         Tagblatt</orgName> (Abendblatt)!<note>Prager Tagblatt vom 16.1.1906,
                         Abendausgabe S.
                     1.</note><!-- hier wäre ein Link zu ANNO - wie soll das augezeichnet werden? -->
-                    Conferenz <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta’s</persName> mit einer andern <add>nicht
+                    Conferenz <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
+                        xml:id="">Derschatta’s</persName> mit einer andern <add>nicht
                         genannten</add> Persönlichkeit über die <del rendition="#s">Anregungen</del>
                     <add place="across">Fragen</add> ob man nicht die Wahlreform einverständlich
                     verhindern könne.</p>
-                <p><date when="1906-01-16">Dienstag 16.1.</date>Telegramm
-                    <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade’s</persName> läuft ein, dass er von
-                        <placeName>Meran</placeName> kommt.</p>
+                <p><date when="1906-01-16">Dienstag 16.1.</date>Telegramm <persName
+                        key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade’s</persName>
+                    läuft ein, dass er von <placeName>Meran</placeName> kommt.</p>
                 <p><date when="1906-01-17">Mittwoch 17.1.</date>nichts</p>
-                <p><date when="1906-01-18">Donnerstag 18.1.</date> Ankunft
-                    <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade’s</persName> von <placeName>Meran</placeName>. Er ist der
-                    Meinung die Sache weiter zu verfolgen. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> spricht am
-                    Abend allein mit <persName key="GautschPaul"
+                <p><date when="1906-01-18">Donnerstag 18.1.</date> Ankunft <persName
+                        key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade’s</persName>
+                    von <placeName>Meran</placeName>. Er ist der Meinung die Sache weiter zu
+                    verfolgen. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                        >Prade</persName> spricht am Abend allein mit <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName>.</p>
                 <pb facs="#fK 5-008" n="10"/>
                 <p><date when="1906-01-19">Freitag den 19.1.</date>nichts.</p>
                 <p><date when="1906-01-20">Samstag den 20.1. Nachmittag 3 Uhr</date> Besprechung bei
                         <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
-                            >Gautsch</persName>: <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName>,
-                    <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765">Chiari</persName>, <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName>,
+                        >Gautsch</persName>: <persName key="DerschattaJulius"
+                        ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName>,
+                        <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765"
+                        >Chiari</persName>, <persName key="PradeHeinrich"
+                        ref="https://d-nb.info/gnd/127915672">Prade</persName>,
                         <persName>Pacák</persName>.</p>
                 <p>Es wird mit der Wahlreform angefangen. <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName> verlangt nicht die
@@ -253,9 +313,11 @@
                     Wahlreform wurden mitgeteilt u. es haben sich Hindernisse nicht ergeben. Von
                     Seite der Regierung wurde nun der Wunsch geäussert, dass der <orgName>böhm.
                         Landtag</orgName> die böhm. Wahlreform und das Curiengesetz erledigen solle,
-                    wogegen weder <persName>Pacák</persName> noch <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> eine
-                    Einwendung erhoben. Nun kamen die böhm. „Querelen“ dran. 1) Kreisgericht
-                    <placeName>Trauttenau</placeName>. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> verlangte die
+                    wogegen weder <persName>Pacák</persName> noch <persName key="PradeHeinrich"
+                        ref="https://d-nb.info/gnd/127915672">Prade</persName> eine Einwendung
+                    erhoben. Nun kamen die böhm. „Querelen“ dran. 1) Kreisgericht
+                        <placeName>Trauttenau</placeName>. <persName key="PradeHeinrich"
+                        ref="https://d-nb.info/gnd/127915672">Prade</persName> verlangte die
                     Aktivirung ohne <placeName>Eipel</placeName>, <persName>Pacák</persName> wollte
                     sie nur mit <placeName>Eipel</placeName> zugestehen. Keine Einigung, wurde von
                     der Tagesordnung abgesetzt. 2) Verordnung, welche bestimmen soll dass in
@@ -268,13 +330,16 @@
                         <persName>Kramář</persName> nicht entscheiden wollte. 4) Universität in
                         <placeName>Mähren</placeName>. <persName>Pacák</persName> erklärte sofort,
                     dass er es ohne dieselbe nicht machen könne. 5) Verstaatlichungen der
-                    Eisenbahnen. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> verlangt zwei Direktionen in
-                    Deutschböhmen, was <persName>Pacák</persName> zusagt.</p>
+                    Eisenbahnen. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                        >Prade</persName> verlangt zwei Direktionen in Deutschböhmen, was
+                        <persName>Pacák</persName> zusagt.</p>
                 <p>
                     <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
                         >Gautsch</persName> erklärt, dass er sich die Durchfürung derartig denke,
-                    dass 2 Deutsche <add>(<persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> und
-                        <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName>)</add> ins Ministerium treten, einer als
+                    dass 2 Deutsche <add>(<persName key="DerschattaJulius"
+                            ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName>
+                        und <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                            >Prade</persName>)</add> ins Ministerium treten, einer als
                     Ressortminister, der andere als Landsmannminister, dagegen ein Czeche
                             <add>(<persName>Pacák</persName>)</add> als Landsman Minister.
                         <persName>Pacák</persName> widerspricht u. verlangt für diese Combination
@@ -282,25 +347,28 @@
                     erklären. </p>
                 <p><date when="1906-01-21">Sonntag 21.1.</date> Neuerliche Conferenz zwischen
                     denselben Herren, zu denen <persName>Zaczek</persName> noch dazukommt. Es wurde
-                    Alles noch einmal durchgesprochen mit demselben Resultat, wobei
-                    <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> den Standpunkt vertrat, dass aus diesem
-                    Anlass die böhm. Frage ja nicht <pb facs="#fK 5-010" n="12"/>gelöst werden
-                    könne. In der Frage der mähr. Universität offener Dissens.
-                        <persName>Zaczek</persName> verlangt wenn nicht
-                    <placeName>Brünn</placeName>, so doch <placeName>Olmütz</placeName>. Lange
-                    Discussion ohne Erfolg. Die Deutschen resumieren, dass von der Combination nur
-                    die Rede sein könne wenn innere Amtssprache u. Universität vollständig
-                    ausgeschaltet werden, indem sie das eine wie das andere ablehnen müssen. Damit
-                    waren die gemeinsamen Conferenzen beendet. Dr. v.
-                    <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> reiste noch Sonntag Abend nach
-                    <placeName>Graz</placeName>. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> am Montag nach
+                    Alles noch einmal durchgesprochen mit demselben Resultat, wobei <persName
+                        key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id=""
+                        >Derschatta</persName> den Standpunkt vertrat, dass aus diesem Anlass die
+                    böhm. Frage ja nicht <pb facs="#fK 5-010" n="12"/>gelöst werden könne. In der
+                    Frage der mähr. Universität offener Dissens. <persName>Zaczek</persName>
+                    verlangt wenn nicht <placeName>Brünn</placeName>, so doch
+                        <placeName>Olmütz</placeName>. Lange Discussion ohne Erfolg. Die Deutschen
+                    resumieren, dass von der Combination nur die Rede sein könne wenn innere
+                    Amtssprache u. Universität vollständig ausgeschaltet werden, indem sie das eine
+                    wie das andere ablehnen müssen. Damit waren die gemeinsamen Conferenzen beendet.
+                    Dr. v. <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
+                        xml:id="">Derschatta</persName> reiste noch Sonntag Abend nach
+                        <placeName>Graz</placeName>. <persName key="PradeHeinrich"
+                        ref="https://d-nb.info/gnd/127915672">Prade</persName> am Montag nach
                         <placeName>Reichenberg</placeName>.</p>
                 <p>--- </p>
                 <p><date when="1906-01-25">Donnerstag den 25.</date>
-                    <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Dr. v. Derschatta</persName> um ½ 11 Uhr bei <persName
-                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>,
-                    der die Combination als aufgegeben
-                    erklärt.<!-- bis hier ginge die Einklebung! --></p>
+                    <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id=""
+                        >Dr. v. Derschatta</persName> um ½ 11 Uhr bei <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName>, der die
+                    Combination als aufgegeben
+                    erklärt.<anchor/><!-- CA bis hier geht die Einklebung anchor für das addspan --></p>
             </div>
             <div>
                 <p>Das Ganze war kein offen eingestandener Plan, sondern sollte hinter den Coulissen
@@ -320,11 +388,13 @@
                 <p><pb facs="#fK 5-012" n="14"/>Darauf hin <del rendition="#s">zwang Pergelt sowol
                         Gross als Chiari</del> dementierte <persName>Pergelt</persName> ganz
                     entschieden in der <orgName>N. fr. Presse</orgName> (vom <date when="1906-01-24"
-                        >24.</date>) die „Verhandlungen“ u. Gross zwang <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765">Chiari</persName> mit ihm das Gleiche
+                        >24.</date>) die „Verhandlungen“ u. Gross zwang <persName key="ChiariKarl"
+                        ref="https://d-nb.info/gnd/116504765">Chiari</persName> mit ihm das Gleiche
                     bezüglich Mährens zu tun. Diese kategorischen Dementis trugen offenbar dazu bei
                     dass Pacák am <date when="1906-01-24">24.</date> glatt ablehnte, was zur Folge
-                    hatte dass Gautsch am <date when="1906-01-25">25.</date> <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> ebenfalls
-                    abwinkte.</p>
+                    hatte dass Gautsch am <date when="1906-01-25">25.</date>
+                    <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id=""
+                        >Derschatta</persName> ebenfalls abwinkte.</p>
                 <p> Schließlich wurde die Wahlreform vorgelegt u. die grosse Generaldebatte spielte
                     sich ab. Die Einzigen, die eigentlich ins Feuer gingen, waren wir und die
                     conservativen Grossgrundbesitzer – daher entlud sich die ganze Wut der
@@ -568,9 +638,12 @@
             </div>
             <pb facs="#fK 5-023" n="25"/>
             <div>
-                <head><hi rend="ul">Von <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> bis <persName>Beck</persName></hi></head>
+                <head><hi rend="ul">Von <persName key="HohenloheKonrad"
+                            ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> bis
+                            <persName>Beck</persName></hi></head>
                 <p>
-                    <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> eine Enttäuschung. Ich will nicht hart sein, aber
+                    <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816"
+                        >Hohenlohe</persName> eine Enttäuschung. Ich will nicht hart sein, aber
                     „Idealist“ ist zu viel gesagt. Sein Arcanum ist das „allgemeine, gleiche,
                     direkte, geheime Wahlrecht “ u. er verteidigt es nicht mit Gründen, sondern
                     quasi per inspirationem. Er war gegen uns Großgrundbesitzer höflich u. erklärte
@@ -669,11 +742,12 @@
             </div>
 
             <div>
-                <p><pb facs="#fK 5-025" n="27"/>Ich habe heute mit den neuen Ministern
-                    <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> u. <persName>Dzieduszycki</persName>
-                    Besprechungen gehabt.</p>
-                <p><persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> war klar u. cynisch wie immer. Die Wahlreform muss
-                    gemacht werden auf Grund des <persName key="HohenloheKonrad"
+                <p><pb facs="#fK 5-025" n="27"/>Ich habe heute mit den neuen Ministern <persName
+                        key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName>
+                    u. <persName>Dzieduszycki</persName> Besprechungen gehabt.</p>
+                <p><persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                        >Prade</persName> war klar u. cynisch wie immer. Die Wahlreform muss gemacht
+                    werden auf Grund des <persName key="HohenloheKonrad"
                         ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen
                     Compromissvorschlages. Die Regierung kann bezüglich der 2/3 Mehrheit keine
                     Stellung nehmen, aber die Czechen werden sich überstimmen lassen. Der Ausschuss
@@ -720,39 +794,42 @@
             <div>
                 <head><hi rend="ul">Aus dem Wahlreformausschusse</hi></head>
                 <p>Die Regierung will die <q><persName key="HohenloheKonrad"
-                        ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen Vorschläge</q>
-                    unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als
-                    Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und
-                    intrigiert wird. <note>Ergänzung mit Bleistift, teils stenographisch, im
-                        Manuskript „Fragmente“ wiedergegeben, siehe dort</note> Die Feinde der
-                    Wahlreform unterstützen jeden Abänderungsantrag, weil er die Sache complicirt,
-                    die Anhänger lehnen jeden, auch den vernünftigsten ab, weil sie jede Abänderung
-                    als ein Hinderniss ansehen. Im ganzen Saal sieht man Abg[eordnete] zu zweien,
-                    dreien beisammen, die miteinander verhandeln. <persName>Beck</persName> u.
-                    <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> laufen von einem zum andern u. agitiren, bereden,
-                    belügen die Leute so gut es geht. Alles wird von der einen wie von der andern
-                    Seite aufgeboten, um abzuwehren oder die Zustimmung zu Sonderanträgen zu
-                    erlangen. Heute handelt es sich um ein deutsches Mandat von
+                            ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen
+                        Vorschläge</q> unverändert durchbringen, die Parteien wollen ihre nationalen
+                    Wünsche als Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft,
+                    gesprochen und intrigiert wird. <note>Ergänzung mit Bleistift, teils
+                        stenographisch, im Manuskript „Fragmente“ wiedergegeben, siehe dort</note>
+                    Die Feinde der Wahlreform unterstützen jeden Abänderungsantrag, weil er die
+                    Sache complicirt, die Anhänger lehnen jeden, auch den vernünftigsten ab, weil
+                    sie jede Abänderung als ein Hinderniss ansehen. Im ganzen Saal sieht man
+                    Abg[eordnete] zu zweien, dreien beisammen, die miteinander verhandeln.
+                        <persName>Beck</persName> u. <persName key="PradeHeinrich"
+                        ref="https://d-nb.info/gnd/127915672">Prade</persName> laufen von einem zum
+                    andern u. agitiren, bereden, belügen die Leute so gut es geht. Alles wird von
+                    der einen wie von der andern Seite aufgeboten, um abzuwehren oder die Zustimmung
+                    zu Sonderanträgen zu erlangen. Heute handelt es sich um ein deutsches Mandat von
                         <placeName>Biala</placeName>, morgen um ein deutsches Mandat in
                         <placeName>Krain</placeName>, dann wieder um ein slowenisches Mandat in
                         <placeName>Steiermark</placeName> u.s.f. Die ganze Sache ist auf <pb
                         facs="#fK 5-028" n="30"/>das niedrigste Niveau des Schachers angelangt.
                         <persName>Beck</persName> droht den Italienern, die mit den Deutschen
                     stimmen wollen damit, dass sie in dem Fall (<placeName>Biala</placeName>) kein
-                    neues Mandat in <placeName>Istrien</placeName> bekommen.
-                    <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName> erklärt den Christlich Socialen, die per la vita
-                    für die Wahlreform sind, dass ein deutsches Mandat in
-                        <placeName>Biala</placeName> die ganze Wahlreform vereiteln würde, worauf
-                    diese wieder erklären, nicht deutscher als der deutsche Landsmanminister sein zu
-                    wollen u. stimmen gegen für <placeName>Biala</placeName> nicht u.s.f. Die
-                    Deutschen sind die charakterlosesten bei diesem Geschäft. Ihre Furcht vor den
-                    Socialdemocraten ist geradezu lächerlich. <persName>Lecher</persName>,
-                        <persName>Kienmann</persName>, <persName>Löcker</persName> besorgen geradezu
-                    die Geschäfte der Socialdemocratie, die ihnen Hilfe im Wahlkampf versprochen
-                    haben – auf wie lange!! Heute kommen auch <persName>Marchet</persName> u.
-                    <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="">Derschatta</persName> in den Ausschuss – alles arbeitet gegen die
-                    armen Deutschen in <placeName>Biala</placeName>. <persName>Beck</persName> sagte
-                    zu mir: „Sie werden doch nicht für die Juden in <placeName>Biala</placeName>
+                    neues Mandat in <placeName>Istrien</placeName> bekommen. <persName
+                        key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName>
+                    erklärt den Christlich Socialen, die per la vita für die Wahlreform sind, dass
+                    ein deutsches Mandat in <placeName>Biala</placeName> die ganze Wahlreform
+                    vereiteln würde, worauf diese wieder erklären, nicht deutscher als der deutsche
+                    Landsmanminister sein zu wollen u. stimmen gegen für
+                        <placeName>Biala</placeName> nicht u.s.f. Die Deutschen sind die
+                    charakterlosesten bei diesem Geschäft. Ihre Furcht vor den Socialdemocraten ist
+                    geradezu lächerlich. <persName>Lecher</persName>, <persName>Kienmann</persName>,
+                        <persName>Löcker</persName> besorgen geradezu die Geschäfte der
+                    Socialdemocratie, die ihnen Hilfe im Wahlkampf versprochen haben – auf wie
+                    lange!! Heute kommen auch <persName>Marchet</persName> u. <persName
+                        key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id=""
+                        >Derschatta</persName> in den Ausschuss – alles arbeitet gegen die armen
+                    Deutschen in <placeName>Biala</placeName>. <persName>Beck</persName> sagte zu
+                    mir: „Sie werden doch nicht für die Juden in <placeName>Biala</placeName>
                     stimmen“ worauf ich ihm antwortete dass er <placeName>Biala</placeName> ja nicht
                     kenne, ich es aber wohl kenne. Es ist eine alte schwäbische Colonie, der
                     allerdings kleine Stock deutscher Bevölkerung bestes Blut. Darauf verlies er
@@ -784,9 +861,10 @@
                 <p><placeName>W[ien]</placeName>. <date when="1906-06-29">29.6.06</date></p>
             </div>
             <pb facs="#fK 5-030" n="32"/>
-            <div><head><hi rend="ul">Denkschrift verfasst für <persName>Nostitz</persName> –
-                <persName>Fürstenberg</persName>,
-                <placeName>München</placeName></hi> <date when="1906-08-13">13.8.06</date></head>
+            <div>
+                <head><hi rend="ul">Denkschrift verfasst für <persName>Nostitz</persName> –
+                            <persName>Fürstenberg</persName>, <placeName>München</placeName></hi>
+                    <date when="1906-08-13">13.8.06</date></head>
                 <p>Die polit[ischen] Berechnungen, dass die Wahlr[eform] schliesslich doch nicht zu
                     Stande kommen werde, stützten sich im Wesentlichen auf drei Suppositionen: die
                         <persName>Krone</persName> wird anderer Meinung werden – die nationalen
