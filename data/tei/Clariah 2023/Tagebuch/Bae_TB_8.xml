@@ -196,7 +196,7 @@
                             und es verbreitet sich bald eine Atmosphäre des allgemeinen Mißtrauens,
                             in der der ganze Plan scheitern muss.</rdg>
                     </app></p>
-                <p><persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id=""
+                <p><persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
                         >Derschatta</persName> benimmt sich <anchor/>ebenso hinterhältig als dumm.
                     Er <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">hinterhältig, er</rdg>
@@ -469,8 +469,8 @@
                             Galiziens zur Abstimmung. Er erhielt durch unsere Unterstützung die
                             einfache Majorität. Unsere Herren waren nicht abzuhalten, diese
                             Demonstration mitzumachen, um dadurch Gautsch eine Verlegenheit zu
-                            bereiten. Unmittelbar darauf, am</rdg> Am</app>
-                    <date when="1906-04-02">2. April</date><anchor/>
+                            bereiten. Unmittelbar darauf, am</rdg>
+                    </app> Am <date when="1906-04-02">2. April</date><anchor/>
                     <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">1906</rdg>
                     </app> hatte ich <anchor/>meine gewönliche Jahresaudienz.<app from="xxxx">
@@ -744,7 +744,7 @@
                     </app></p>
                 <p>Interessant war es als die Frage der Rückwirkung der ungar. Ereignisse auf
                         <placeName>Österreich</placeName> zur Sprache kam. Ich stellte fest, dass
-                    nunmehr in nächster Zeit, etwa im <date when="1906–06">Juni</date>
+                    nunmehr in nächster Zeit, etwa im <date when="1906-06">Juni</date>
                     <pb facs="#fK 5-018" n="20"/>es über die Militärcredite im
                         <orgName>Abg.Haus</orgName> zur Abstimmung kommen werde u. dass es
                     warscheinlich von der Haltung der Polen u. des Grossgrundbesitzes abhängen
@@ -981,6 +981,7 @@
                 <p><note>Ausschnitt aus „Arbeiter-Zeitung “ 1. Juni 1906, S. 3. Der Zeitungsartikel
                         ist hier eingeklebt und mit stenographischen Notizen versehen, siehe auch
                         Faksimile.</note></p>
+                <!-- die Stelle mit der Arbeiterzeitung in den MF deutlich weiter unten, wohl am einfachsten wenn man das kursorische dann mit einem anchor dort hinlegt, oder? -->
                 <p><placeName key="Lünz" ref="" xml:id="">Lünz</placeName>, <date when="1906-06-05"
                         >5.6.1906</date></p>
             </div>
@@ -1025,7 +1026,7 @@
                             Wahlkreiseinteilung die Grundlage aller folgenden Verhandlungen und
                             schließlich des Zustandekommens der Wahlreform geworden ist.</rdg>
                     </app></p>
-                <p>Dass er über Ungarn zu Fall kommen musste, war nach der Programmrede von
+                <p><anchor/>Dass er über Ungarn zu Fall kommen musste, war nach der Programmrede von
                         <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691"
                         >Wekerle</persName> am <date when="1906-04-11">11. April</date> in
                         <placeName>Temesvár</placeName> klar. Damals regierte <persName
@@ -1038,7 +1039,26 @@
                     weiter nichts – das war sein Reiseprogramm. „Also ihre Pläne wollen Sie den
                     Ungarn herauslocken“, sagte ich, auf seine Absichten eingehend worauf er sehr
                     vergnügt u. befriedigt antwortete: „natürlich nichts anderes“!</p>
-                <p><pb facs="#fK 5-024" n="26"/>Aber das bittere Ende kam bald nach.</p>
+                <p><pb facs="#fK 5-024" n="26"/>Aber das bittere Ende kam bald nach.<app
+                        fromm="xxxx">
+                        <rdg wit="#Bae_MF_6-2">In dem Kampf mit den Ungarn hat er sich charaktervoll
+                            benommen. Er war allerdings von vornherein in der Lage eines Kämpfers
+                            mit einem überlegenen Gegner, dem zu widerstehen selbst der Kaiser nicht
+                            die Macht besessen hatte. Es handelte sich – wie bereits erwähnt –
+                            darum, ob, wie Hohenlohe mit vollem Recht verlangte, der neue Zolltarif
+                            als österreichisch-ungarischer in beiden Parlamenten einzubringen sei,
+                            oder, wie Wekerle wollte und schon verkündet hatte, in Ungarn der
+                            Zolltarif als selbständiger ungarischer Tarif, wenn auch gleichlautend
+                            mit dem österreichischen, dem Haus vorzulegen sei. Ein Kronrat, der am
+                            27. Mai in dieser Sache abgehalten wurde, brachte keine Entscheidung,
+                            der Kaiser fällte sie kurz darauf zugunsten Wekerles, worauf Hohenlohe
+                            sofort demissionierte. Alois Liechtenstein machte damals den viel
+                            belachten Witz: „Hohenlohe ist dem Kaiser durch eine Triumphpforte
+                            entwischt.“ Dieses Wort traf aber nicht das Richtige: Hohenlohe ging als
+                            aufrechter Mann aus einer Schlacht, die der Kaiser schon verloren
+                            hatte.</rdg>
+                    </app></p>
+                <!-- CA: Hier das rdg vorher unsicher, ob das so passt, die Stelle folgt zwar im MF hier, aber der Text unterscheidet sich doch deutlich; beim folgenden Absatz ist es ähnlich, gibt es hierzu eine korrespondierende Stelle in MF? -->
                 <p>Und nun <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373"
                         >Beck</persName>. Hier liegen 2 Briefe inne. Der eine eine Abschrift meines
                     Briefes an <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373"
@@ -1069,14 +1089,14 @@
                 <p><placeName key="Lünz" ref="" xml:id="">Lünz</placeName>, <date when="1906-06-06"
                         >6.6.06</date></p>
             </div>
-
             <div>
-                <p><pb facs="#fK 5-039" n="40a"/><note>Brief von Ottokar <persName
-                            key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659"
-                            >Czernin</persName> an Baernreither</note></p>
+                <p><pb facs="#fK 5-039" n="40a"/><note>Brief von <persName key="CzerninOttokar"
+                            ref="https://d-nb.info/gnd/118677659">Ottokar Czernin</persName> an
+                        Baernreither.</note></p>
                 <p><placeName>Winař</placeName>, <date when="1906-06-05">5. Juni 1906</date>.
                     Vertraulich</p>
                 <p>Lieber Freund.</p>
+                <!-- CA: Sollen diese Briefe mit addspan codiert werden, bzw. sind das Einklebungen? -->
                 <p>Obwohl ich Dir vielleicht nichts Neues sage, so möchte ich Dir erzählen, was
                         <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920"
                         >Coudenhove</persName>, der gestern bei mir war, über
@@ -1085,7 +1105,7 @@
                         n="40c"/>praktisch verwerthen kannst, weder mich noch <persName
                         key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920"
                         >Coudenhove</persName> zu nennen.</p>
-                <p><persName>Coudenh.</persName> hat dem <persName key="KaiserFranzJosef"
+                <p><anchor/><persName>Coudenh.</persName> hat dem <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName> gesagt: Es dürfe
                     unter keiner Bedingung so aussehen, als ob er (der <persName
                         key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
@@ -1104,13 +1124,25 @@
                     Sache zu Ende zu führen. Es soll eben dem <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName> aus dem Engpass, in
                     den er sich verrannt hat, herausgeholfen werden, und ihm der peinliche Moment
-                    eines eingestandenen Meinungswechsels erspart bleiben.</p>
-                <p><pb facs="#fK 5-040" n="40c"/>Das Ganze ist wieder einmal ein typisches manöver
-                    österreichischer Politik – voll Lüge und Falschheit – ich glaube aber, dass die
-                    Feiglinge aller Fractionen des Parlamentes mehr Courage bekommen werden, wenn
-                    man ihnen steckt, dass man wisse, dass <rend>oben</rend> der Wind bereits <pb
-                        facs="#fK 5-041" n="40d"/>umgeschlagen hat und meiner unmaßgeblichen Ansicht
-                    wäre dieses Material in diesem Sinne discret zu verwerten!</p>
+                    eines eingestandenen Meinungswechsels erspart bleiben.<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Coudenhove hat dem Kaiser gesagt: es dürfe unter
+                            keiner Bedingung so aussehen, als ob er, der Kaiser von der Wahlreform
+                            abgekommen sei, sie müsse daher im Parlamente stecken bleiben und erst
+                            bis es dort eben nicht mehr weiter gehe, müsse der Kaiser (quasi
+                            deshalb) neue ganz andere Reformvorschläge akzeptieren. Der Kaiser hat
+                            mit keiner Silbe widersprochen und qui tacet consentire videtur.
+                            Coudenhove glaubt bestimmt, daß auch Beck nur dergleichen machen wird,
+                            die Kompromissverhandlungen fortzusetzen, und nicht daran denkt, die
+                            Sache zu Ende zu führen. Es soll eben dem Kaiser aus dem Engpass, in den
+                            er sich verrannt hat, herausgeholfen werden und ihm der peinliche Moment
+                            eines eingestandenen Meinungswechsels erspart bleiben.</rdg>
+                    </app></p>
+                <p><pb facs="#fK 5-040" n="40c"/><anchor/>Das Ganze ist wieder einmal ein typisches
+                    manöver österreichischer Politik – voll Lüge und Falschheit – ich glaube aber,
+                    dass die Feiglinge aller Fractionen des Parlamentes mehr Courage bekommen
+                    werden, wenn man ihnen steckt, dass man wisse, dass <rend>oben</rend> der Wind
+                    bereits <pb facs="#fK 5-041" n="40d"/>umgeschlagen hat und meiner unmaßgeblichen
+                    Ansicht wäre dieses Material in diesem Sinne discret zu verwerten!</p>
                 <p>Ist der Blödsinn des gleichen W.Rechtes einmal abgethan, dann wird – glaube ich –
                     der Moment für jene vernünftigen Menschen <pb facs="#fK 5-041" n="40d"/>kommen,
                     die andere Propositionen machen können – wozu ich Dich in erster Linie
@@ -1123,15 +1155,27 @@
                         ref="https://d-nb.info/gnd/118934481">Daszyński</persName> bekommen?</p>
                 <p>Alles Schöne, aufrichtig ergeben,</p>
                 <p>O. <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659"
-                        >Czernin</persName></p>
+                        >Czernin</persName><app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Der Schluss, den Czernin in diesem Briefe aus der
+                            Audienz Coudenhoves zieht, ist, wie es sich bald herausstellte, voreilig
+                            gewesen. Der Kaiser hatte zu den Ausführungen Coudenhoves geschwiegen,
+                            mehr nicht. Beck leugnet, von so einem Schwanken des Kaisers irgendetwas
+                            gewußt zu haben und sein Auftreten war nicht danach angetan, eine solche
+                            Wendung vorzubereiten. Er ging im Gegenteil gerade und mit allen Mitteln
+                            auf das allgemeine Stimmrecht los.</rdg>
+                    </app></p>
             </div>
-
             <div>
-                <p><pb facs="#fK 5-025" n="27"/>Ich habe heute mit den neuen Ministern <persName
-                        key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName>
-                    u. <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320"
-                        >Dzieduszycki</persName> Besprechungen gehabt.</p>
-                <p><persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                <p><pb facs="#fK 5-025" n="27"/><anchor/>Ich habe heute mit den neuen Ministern
+                        <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                        >Prade</persName> u. <persName key="DzieduszyckiWojciech"
+                        ref="https://d-nb.info/gnd/119285320">Dzieduszycki</persName> Besprechungen
+                        gehabt.<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Gleich in den ersten Tagen seines Ministeriums <pb/>
+                            hatte ich mit den beiden neuen Landsmannministern Prade und Dzieduszycki
+                            eine Besprechung.</rdg>
+                    </app></p>
+                <p><anchor/><persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
                         >Prade</persName> war klar u. cynisch wie immer. Die Wahlreform muss gemacht
                     werden auf Grund des <persName key="HohenloheKonrad"
                         ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen
@@ -1143,7 +1187,18 @@
                     arbeitsfähig sein u. es wird der § 14 angewendet werden müssen. Erst nach und
                     nach werden sich die Dinge bessern, das Haus wird einsehen, dass es sich eine
                     Geschäftsordnung geben muss u. es wird sich bessern. Alles das ipsissima
-                    verba.</p>
+                        verba.<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Prade war klar und zynisch wie immer. Die Wahlreform
+                            muss gemacht werden auf Grund des Hohenlohe’schen Kompromissvorschlages.
+                            Die Regierung kann bezüglich der Zweidrittelmajorität keine Stellung
+                            nehmen, aber die Tschechen werden sich überstimmen lassen. Der Ausschuß
+                            muß Mitte Juli fertig sein und die Sache kommt dann gleich ins Haus,
+                            welches eventuell bis in den August zu tagen hätte. Das Haus auf Grund
+                            der neuen Wahlordnung wird anfangs nicht arbeitsfähig sein und es wird
+                            der § 14 angewendet werden müssen. Erst nach und nach werden sich die
+                            Dinge klären, das Haus wird einsehen, daß es sich eine Geschäftsordnung
+                            geben muß und es wird sich bessern, alles ipsissima verba.</rdg>
+                    </app></p>
                 <p>
                     <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320"
                         >Dzieduszycki</persName> sagte, das neulich gesprochene Wort des <persName
@@ -1154,16 +1209,27 @@
                     jetzige Cabinet in die Luft zu sprengen, aber was wäre damit gewonnen? – man sei
                     nicht sicher, dass nicht noch etwas ärgeres nachkommt. Im Ministerium werden
                     Studien über das Pluralwahlrecht gemacht u. er hält es nicht für ausgeschlossen,
-                    dass noch eine Modification in dieser Richtung eintritt. Sociale Gährungen
-                    werden kommen, auch wenn die W[ahl]O[rdnung] Gesetz wird. Er bestättigt, dass
-                    die Regierung sich geeinigt hat, das <persName key="HohenloheKonrad"
+                    dass noch eine <anchor/>Modification in dieser Richtung eintritt<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Modifikation in dieser Richtung durchzusetzen
+                            wäre</rdg>
+                    </app>. Sociale Gährungen werden kommen, auch wenn die W[ahl]O[rdnung] Gesetz
+                    wird. Er bestättigt, <anchor/>dass die Regierung sich geeinigt <anchor/>hat<app
+                        from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">habe</rdg>
+                    </app>, das <persName key="HohenloheKonrad"
                         ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> Projekt vorläufig
-                    anzustreben. Die ganze Conversation hatte offenbar den Zweck seinen Eintritt ins
-                    Ministerium zu rechtfertigen.</p>
+                        anzustreben<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">das Hohenlohische Kompromiß vorläufig
+                            anzustreben</rdg>
+                    </app>. Die ganze Conversation hatte offenbar den Zweck seinen Eintritt ins
+                    Ministerium zu rechtfertigen<anchor/><app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">, da er doch bisher der größte Gegner der Wahlreform
+                            gewesen ist</rdg>
+                    </app>.</p>
                 <p><placeName>Wien</placeName>, <date when="1906-06-17">17.6.06</date></p>
             </div>
-
             <div>
+                <!-- für den folgenden Eintrag keine korrespondierende Stelle, wie zeichne ich das dann aus, mit einem leeren rdg-Element? -->
                 <p>Will nicht jeden Tratsch registrieren. <persName key="UrbanKarl"
                         ref="https://d-nb.info/gnd/1148771107">Urban</persName> aber erzälte doch
                     etwas sehr Interessantes. Aus Statthalterkreisen in <placeName>Prag</placeName>:
@@ -1182,60 +1248,145 @@
             <div>
                 <p><pb facs="#fK 5-027" n="29"/><hi rend="ul"><head>Aus dem
                             Wahlreformausschusse</head></hi></p>
-                <p>Die Regierung will die „<persName key="HohenloheKonrad"
+                <p><anchor/>Die Regierung will die „<persName key="HohenloheKonrad"
                         ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen Vorschläge“
                     unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als
                     Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und
-                    intrigiert wird. <note>Ergänzung mit Bleistift, teils stenographisch, im
-                        Manuskript „Fragmente“ wiedergegeben, siehe dort</note> Die Feinde der
-                    Wahlreform unterstützen jeden Abänderungsantrag, weil er die Sache complicirt,
-                    die Anhänger lehnen jeden, auch den vernünftigsten ab, weil sie jede Abänderung
-                    als ein Hinderniss ansehen. Im ganzen Saal sieht man Abg[eordnete] zu zweien,
-                    dreien beisammen, die miteinander verhandeln. <persName key="BeckMaxWladimir"
-                        ref="https://d-nb.info/gnd/118654373">Beck</persName> u. <persName
-                        key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade</persName>
-                    laufen von einem zum andern u. agitiren, bereden, belügen die Leute so gut es
-                    geht. Alles wird von der einen wie von der andern Seite aufgeboten, um
-                    abzuwehren oder die Zustimmung zu Sonderanträgen zu erlangen. Heute handelt es
-                    sich um ein deutsches Mandat von <placeName>Biala</placeName>, morgen um ein
-                    deutsches Mandat in <placeName>Krain</placeName>, dann wieder um ein
-                    slowenisches Mandat in <placeName>Steiermark</placeName> u.s.f. Die ganze Sache
-                    ist auf <pb facs="#fK 5-028" n="30"/>das niedrigste Niveau des Schachers
-                    angelangt. <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373"
+                    intrigiert wird.<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app></p>
+                <anchor/>
+                <app from="xxxx">
+                    <rdg wit="#Bae_MF_6-2">Im Wahlreformausschuss entstand nun ein bis in den
+                        Oktober dauernder Kampf um die Details der Wahlreform, insbesondere der
+                        Wahlkreiseinteilung. Das Resultat für Böhmen hat die eine gute Seite, daß
+                        die Wahlkreise streng national abgegrenzt sind. Die Deutschen haben
+                        allerdings um einige Mandate mehr, als nach der Bevölkerungsziffer auf sie
+                        entfallen würde, aber ihre Steuerleistung, ihre alte kulturelle Bedeutung
+                        und ihre historischen Minoritäten bleiben unberücksichtigt. Letzteres gilt
+                        insbesondere von Prag, Budweis und Pilsen. In einer großen Rede (der
+                        Einzigen, die ich im Wahlreformausschuß hielt) trat ich dafür ein, daß den
+                        Deutschen in Prag ein Mandat und den Deutschen in Budweis und Pilsen
+                        zusammen auch ein Mandat (auf Grund eines nationalen Katasters nach
+                        mährischem Muster) zugewiesen würde. Ich warf einen historischen Rückblick
+                        auf das Zusammenleben der Deutschen und Tschechen in Böhmen, auf die
+                        wechselnden Schicksale, welche im Laufe der Jahrhunderte Deutsche und
+                        Tschechen in Böhmen erfahren haben, auf die großen Wandlungen der Ereignisse
+                        in diesem Lande, die einmal die eine Nation, dann wieder die andere
+                        einseitig begünstigt haben und kam zu dem Schluss, daß wir endlich diese für
+                        uns beide unheilvolle historische Peripetie schließen und uns auf den Boden
+                        moderner Ideen einrichten sollen. Ich reklamierte die zwei Mandate ebenso
+                        sehr auf Grund des historischen Anrechtes der Deutschen als ihrer modernen,
+                        kulturellen und wirtschaftlichen Bedeutung, die dieses erbangesessene
+                        Deutschtum für die Entwicklung ganz Böhmens seit Jahrhunderten gehabt hat.
+                        Meine Rede machte einen gewissen Eindruck. Selbst Dr. Adler sagte mir, sie
+                        sei ein historisches Kabinettstück gewesen, aber für die Situation nicht
+                        entscheidend. Von den Tschechen wurde ich selbstverständlich bekämpft, aber
+                        am gehässigsten von Dr. Gessmann, der sich mit Haut und Haar der Wahlreform
+                        verschrieben hatte. Natürlich wurde mein Antrag abgelehnt. Beck betrieb das
+                        Geschäft im Wahlreformausschuss mit einer grossen Geschicklichkeit, am
+                        lebhaftesten unterstützt von Marchet, Kramář, Löcker und Gessmann. Seine
+                        Methode bestand darin, die ganze Wahlreformaktion in Einzelgefechte für
+                        jedes Kronland und in diesen wieder von Mandat zu Mandat aufzulösen, die
+                        sich kreuzenden Interessen klug zu benützen, einen gegen den anderen
+                        auszuspielen, die Abgeordneten durch die Konstruktion ihrer Mandate
+                        Wahlbezirke persönlich zu gewinnen, den unerhörten Druck der
+                        Sozialdemokratie zuzulassen und die Krone selbst in kritischen Momenten
+                        einzuspannen.</rdg>
+                </app>
+                <p>Die Feinde der Wahlreform unterstützen jeden Abänderungsantrag, weil er die Sache
+                        <anchor/>complicirt<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app>, die Anhänger lehnen jeden, auch den vernünftigsten ab, weil sie jede
+                    Abänderung als ein Hinderniss ansehen. Im ganzen Saal sieht man Abg[eordnete] zu
+                    zweien, dreien beisammen, die miteinander verhandeln. <persName
+                        key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373">Beck</persName>
+                    u. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                        >Prade</persName> laufen von einem zum andern u. <anchor/>agitiren, bereden,
+                        belügen<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">agitiere und bereden</rdg>
+                    </app> die Leute so gut es geht. Alles wird von der einen wie von der andern
+                    Seite aufgeboten, um abzuwehren oder die Zustimmung zu Sonderanträgen zu
+                    erlangen. Heute handelt es sich um ein deutsches Mandat von
+                        <placeName>Biala</placeName>, morgen um ein deutsches Mandat in
+                        <placeName>Krain</placeName>, dann wieder um ein slowenisches Mandat in
+                        <placeName>Steiermark</placeName> u.s.f. Die ganze Sache ist auf <pb
+                        facs="#fK 5-028" n="30"/>das niedrigste Niveau des Schachers
+                        angelangt.<anchor/><app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Typisch der Kampf um das deutsche Mandat der Stadt
+                            Biala.</rdg>
+                    </app>
+                    <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373"
                         >Beck</persName> droht den Italienern, die mit den Deutschen stimmen wollen
-                    damit, dass sie in dem Fall (<placeName>Biala</placeName>) kein neues Mandat in
-                        <placeName>Istrien</placeName> bekommen. <persName key="PradeHeinrich"
-                        ref="https://d-nb.info/gnd/127915672">Prade</persName> erklärt den
-                    Christlich Socialen, die per la vita für die Wahlreform sind, dass ein deutsches
-                    Mandat in <placeName>Biala</placeName> die ganze Wahlreform vereiteln würde,
-                    worauf diese wieder erklären, nicht deutscher als der deutsche Landsmanminister
-                    sein zu wollen u. stimmen gegen für <placeName>Biala</placeName> nicht u.s.f.
-                    Die Deutschen sind die charakterlosesten bei diesem Geschäft. Ihre Furcht vor
-                    den Socialdemocraten ist geradezu lächerlich. <persName key="LecherOtto"
+                    damit, dass sie in <anchor/>dem Fall (<placeName>Biala</placeName>)<app
+                        from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">diesem Falle</rdg>
+                    </app> kein neues Mandat in <placeName>Istrien</placeName> bekommen<anchor/><app
+                        from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">, was sie anstreben</rdg>
+                    </app>. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                        >Prade</persName> erklärt den Christlich Socialen, <anchor/>die per la vita
+                    für die Wahlreform sind,<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">die sich auch dem deutschen Mandat von Biala geneigt
+                            zeigen</rdg>
+                    </app> dass ein deutsches Mandat in <placeName>Biala</placeName> die ganze
+                    Wahlreform vereiteln würde, worauf <anchor/>diese wieder<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">sie</rdg>
+                    </app> erklären, nicht deutscher als der deutsche Landsmanminister sein zu
+                    wollen u. stimmen gegen für<!-- CA: ist das hier richtig, gegen für? -->
+                    <placeName>Biala</placeName> nicht u.s.f. Die Deutschen sind<anchor/><app
+                        from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">leider</rdg>
+                    </app> die charakterlosesten bei diesem <anchor/>Geschäft<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Geschäfte</rdg>
+                    </app>. Ihre Furcht vor den <anchor/>Socialdemocraten<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Sozialdemokraten</rdg>
+                    </app> ist geradezu lächerlich. <persName key="LecherOtto"
                         ref="https://d-nb.info/gnd/141657472">Lecher</persName>,
                         <persName>Kienmann</persName>, <persName key="LoeckerJulius"
-                        ref="https://d-nb.info/gnd/137851227">Löcker</persName> besorgen geradezu
-                    die Geschäfte der Socialdemocratie, die ihnen Hilfe im Wahlkampf versprochen
-                    haben – auf wie lange!! Heute kommen auch <persName key="MarchetGustav"
+                        ref="https://d-nb.info/gnd/137851227">Löcker</persName> besorgen
+                        geradezu<anchor/><app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app> die Geschäfte der <anchor/>Socialdemocratie<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Sozialdemokratie</rdg>
+                    </app>, die ihnen Hilfe im Wahlkampf versprochen haben – auf wie lange!!
+                    <anchor/>Heute kommen auch <persName key="MarchetGustav"
                         ref="https://d-nb.info/gnd/129095648">Marchet</persName> u. <persName
                         key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
-                        >Derschatta</persName> in den Ausschuss – alles arbeitet gegen die armen
-                    Deutschen in <placeName>Biala</placeName>. <persName key="BeckMaxWladimir"
-                        ref="https://d-nb.info/gnd/118654373">Beck</persName> sagte zu mir: „Sie
-                    werden doch nicht für die Juden in <placeName>Biala</placeName> stimmen“ worauf
-                    ich ihm antwortete dass er <placeName>Biala</placeName> ja nicht kenne, ich es
-                    aber wohl kenne. Es ist eine alte schwäbische Colonie, der allerdings kleine
-                    Stock deutscher Bevölkerung bestes Blut. Darauf verlies er mich sofort u. lief
-                    zu einem anderen um ihn zu bearbeiten.</p>
-                <p><pb facs="#fK 5-029" n="31"/>Man kann sich kein unwürdigeres Spiel denken als
-                    dieses, an dem die Minister mit einer Art Begeisterung teilnehmen: die deutschen
-                    voran. Und wenn ich mir so das ganze Getue ansehe, so denke ich ob nicht die
-                    Zeit kommen wird wo man alle diese Kerle auf das Wildeste verurteilen u.
-                    verfluchen wird.</p>
+                        >Derschatta</persName><app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Auch Marchet und Derschatte kommen</rdg>
+                    </app> in den Ausschuss – alles arbeitet gegen die <anchor/>armen<app
+                        from="xxxx">
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app> Deutschen in <placeName>Biala</placeName>. <persName
+                        key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373">Beck</persName>
+                    sagte zu mir: „Sie werden doch nicht für die Juden in
+                        <placeName>Biala</placeName> stimmen“ worauf ich ihm antwortete<anchor/>
+                    dass er <placeName>Biala</placeName> ja nicht kenne, ich es aber wohl kenne. Es
+                    ist eine alte schwäbische Colonie, der allerdings kleine Stock deutscher
+                    Bevölkerung bestes Blut.<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">, daß Biala eine alte schwäbische Kolonie sei, der
+                            dortige Stock deutscher Bevölkerung sei gar nicht jüdisch, sondern
+                            bestes deutsches Blut.</rdg>
+                    </app> Darauf verlies er mich sofort u. lief zu einem anderen um ihn zu
+                    bearbeiten.</p>
+                <p><pb facs="#fK 5-029" n="31"/><anchor/>Man kann sich kein unwürdigeres Spiel
+                    denken als dieses, an dem die Minister mit einer Art Begeisterung teilnehmen:
+                    die deutschen voran. Und wenn ich mir so das ganze Getue ansehe, so denke ich ob
+                    nicht die Zeit kommen wird wo man alle diese Kerle auf das Wildeste verurteilen
+                    u. verfluchen wird.<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Im August, während der kurzen Parlamentsferien,
+                            schrieb ich in München noch eine Denkschrift, als letzten Versuch, die
+                            konservativen Kreise zu einer Aktion zu vereinigen. Ich ließ sie in
+                            München vervielfältigen und sandte sie an eine Reihe von Personen, von
+                            denen ich hoffte, daß sie dafür einen Sinn haben würden, ohne jeden
+                            Erfolg. Das Pluralwahlrecht erzielte durch den Antrag Tollinger im
+                            Abgeordnetenhause nur die Bedeutung einer Demonstration.</rdg>
+                    </app></p>
                 <p><placeName>Wien</placeName>, <date when="1906-06-27">27.6.06</date></p>
             </div>
-
             <div>
+                <!-- CA: auch der folgende Abschnitt offenbar in den MF nicht, auch hier leeres rdg-Element? -->
                 <p>Gestern hat Franko <persName key="SteinFranko"
                         ref="https://d-nb.info/gnd/129277169">Stein</persName> in der Delegation
                     eine Rede gehalten die an hochverräterischem Cynismus Alles übertroffen hat was
@@ -1243,8 +1394,8 @@
                             ref="https://d-nb.info/gnd/129277169">Stein</persName> in der 5. Sitzung
                         der 41. Session am 26. Juni 1906, in: Stenographische Sitzungsprotokolle der
                         41. Delegation des Reichsrats (Wien 1906) S. 261ff.</note>
-                    <!-- wie Link zu ANNO einfügen? --> Man sah dabei dass einige wenige wirklich
-                    innerlich empört waren, aber der <persName key="VetterMoritz"
+                    <!-- DC: wie Link zu ANNO einfügen? --> Man sah dabei dass einige wenige
+                    wirklich innerlich empört waren, aber der <persName key="VetterMoritz"
                         ref="https://d-nb.info/gnd/110638972">Präsident</persName> lies ihn ruhig
                     ausreden u. da <persName key="SteinFranko" ref="https://d-nb.info/gnd/129277169"
                         >Stein</persName> in der Form sehr ruhig sprach, erhielt er für eine Rede,
@@ -1268,24 +1419,37 @@
                     <date when="1906-08-13">13.8.06</date></p>
 
                 <p>Die polit[ischen] Berechnungen, dass die Wahlr[eform] schliesslich doch nicht zu
-                    Stande kommen werde, stützten sich im Wesentlichen auf drei Suppositionen: die
-                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
-                        >Krone</persName> wird anderer Meinung werden – die nationalen Parteien
-                    werden sich bezüglich der Verteilung der Mandate nicht einigen – die Zeit wird
-                    zu kurz werden bis Ende <date when="1907-01">Jänner 1907</date>. Dem entgegen
-                    steht heute fest: die Krone blieb bei ihrer Meinung u. alle gegenteiligen
-                    Gerüchte sind Wünsche aber keine Tatsachen – die nationalen Parteien haben sich
-                    bezüglich der Mandate geeinigt – auch die Zeit wird reichen, denn die Erfarung
-                    der Juliwochen zeigt, dass das parlamentarisierte Cabinett eine grosse Pression
-                    auf die Parteien u. den Gang der Verhandlungen auszuüben in der Lage ist.</p>
+                    Stande kommen werde, stützten sich im Wesentlichen auf drei
+                        <anchor/>Suppositionen<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Annahmen</rdg>
+                    </app>: die <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Krone</persName> wird anderer Meinung
+                    werden – die nationalen Parteien werden sich bezüglich der Verteilung der
+                    Mandate nicht einigen – die Zeit wird zu kurz werden bis Ende <date
+                        when="1907-01">Jänner 1907</date>. Dem entgegen steht heute fest: die Krone
+                        <anchor/>blieb<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">bleibt</rdg>
+                    </app> bei ihrer Meinung u. alle gegenteiligen Gerüchte sind Wünsche aber keine
+                    Tatsachen – die nationalen Parteien haben sich bezüglich der Mandate geeinigt –
+                    auch die Zeit wird reichen, denn die Erfarung der Juliwochen zeigt, dass das
+                    parlamentarisierte Cabinett eine grosse Pression auf die Parteien u. den Gang
+                    der Verhandlungen auszuüben in der Lage ist.<anchor/><app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Dazu kommt, daß im Verlaufe des Sommers keine
+                            nennenswerte Reaktion gegen die Wahlordnung in den Volkskreisen zu
+                            verzeichnen ist, im Gegenteil, die bürgerlichen Kreise sich damit
+                            abfinden, daß sie Gesetz wird. Die von oben und unten veranlasste
+                            Einimpfung radikaler Ideen ist gelungen.</rdg>
+                    </app></p>
                 <p>Was für eine Stellung soll unsere Partei diesen veränderten Verhältnissen
-                    gegenüber einnern.</p>
+                    gegenüber einnern.<!-- CA: stimmt dieses Wort hier? heißt es einnehmen? --></p>
                 <p>Ich gehe bei der Beantwortung dieser Frage davon aus, dass der weitere Widerstand
-                    fruchtlos ist. Daher modificiert sich die gestellte Frage dahin: Sollen wir den
-                    bisherigen Kampf, Arm in Arm mit den Alldeutschen, die Politik der Fallstricke
-                    usf. fortsetzen oder nicht? Ich bin dagegen, denn es ist töricht von einer
-                    politischen Partei, sich in einem nutzlosen <pb facs="#fK 5-031" n="33"/>Kampf
-                    und durch sehr bedenkliche Allianzen zu verbrauchen.</p>
+                    fruchtlos <anchor/>ist. Daher modificiert<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">ist, daher modifiziert</rdg>
+                    </app> sich die gestellte Frage dahin: Sollen wir den bisherigen Kampf, Arm in
+                    Arm mit den Alldeutschen, die Politik der Fallstricke usf. fortsetzen oder
+                    nicht? Ich bin dagegen, denn es ist töricht von einer politischen Partei, sich
+                    in einem nutzlosen <pb facs="#fK 5-031" n="33"/>Kampf und durch sehr bedenkliche
+                    Allianzen zu verbrauchen.</p>
                 <p>Lassen wir also geschehen, was wir nicht hindern können, und blicken wir in die
                     Zukunft.</p>
                 <p>Haben wir noch eine Zukunft?</p>
@@ -1298,10 +1462,14 @@
                     Parteien geben, die parlamentarisch auf ein Ziel zu vereinigen die schwere,
                     vielleicht unlösbare Aufgabe der Regierung sein wird. Wir müssen daher national
                     und wirtschaftlich werden, das heißt: uns als deutscher Großgrundbesitz erklären
-                    und auf Seite der Agrarier treten, als der wirtschaftlichen Gruppe, die uns am
-                    nächsten steht. <pb facs="#fK 5-032" n="34"/>Damit tun wir gar nichts anderes
-                    als die Konsequenzen ziehen, die in der Wahlreform selbst liegen.</p>
-                <p>Man muss sich vollkommen klar sein, dass wir, wenn in der <date>zweiten Hälfte
+                    und auf Seite der Agrarier <anchor/>treten, als der<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">treten, der</rdg>
+                    </app> wirtschaftlichen Gruppe, die uns am nächsten steht. <pb facs="#fK 5-032"
+                        n="34"/>Damit tun wir gar nichts anderes als die Konsequenzen ziehen, die in
+                    der Wahlreform selbst liegen.</p>
+                <p><anchor/>Man muss sich<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Wir müssen uns</rdg>
+                    </app> vollkommen klar sein, dass wir, wenn in der <date>zweiten Hälfte
                         September</date> eine allgemeine Wählerversammlung abgehalten wird, in
                     dieser Frage Farbe bekennen müssen. Das Leitmotiv für diese Versammlung kann nur
                     sein entweder „wir setzen unseren Widerstand gegen die Wahlreform fort“ oder
@@ -1315,55 +1483,75 @@
                     Missbilligung der Intransigenten auf uns laden. Trotzdem bin ich dafür, aber
                     nicht um schön zu sterben, sondern um weiterleben zu können. Es handelt sich
                     darum, eine Form zu finden, die unsere <pb facs="#fK 5-033" n="35"
-                    />Frontveränderung manifestiert und die angedeuteten Folgen eines solchen
-                    Schrittes abschwächt, unsere Stellung für die Zukunft aber vorbereitet.</p>
-                <p>Die Handhabe dazu bietet die Frage des Pluralwahlrechts, die im September gleich
-                    zu Beginn der Verhandlungen im Ausschuss auftauchen wird.</p>
+                    />Frontveränderung <anchor/>manifestiert<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">rechtfertigt</rdg>
+                    </app> und die angedeuteten Folgen eines solchen Schrittes abschwächt, unsere
+                    Stellung für die Zukunft aber vorbereitet.</p>
+                <p>Die Handhabe dazu bietet<anchor/><app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">immer noch</rdg>
+                    </app> die Frage des Pluralwahlrechts, die im September gleich zu Beginn der
+                    Verhandlungen im Ausschuss auftauchen wird.</p>
                 <p>Ich bin unbedingt dagegen, das Pluralwahlrecht bloß dazu zu benutzen, um der
                     Regierung ein Bein zu stellen und den letzten Versuch zu machen, die Wahlordnung
                     zu Fall zu bringen. Das ist allerdings die ausgesprochene Absicht unserer
                     Intransigenten, würde aber gewiss wieder nur zu einer Niederlage führen. Das
-                    Pluralwahlrecht muss 1.) an sich ein mäßiges sein, denn zu grundstürzenden
-                    Änderungen des Wahlrechts ist es jetzt zu spät – und es muss 2.) als ein loyal
-                    angebotener Kompromiss beantragt werden. Unter diesen zwei Voraussetzungen ist
-                    die Aktion nicht aussichtslos, denn so siegesgewiss sind Regierung und Parteien
+                    Pluralwahlrecht muss <anchor/>1.)<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app> an sich ein mäßiges sein, denn zu grundstürzenden Änderungen des
+                    Wahlrechts ist es jetzt zu spät – und es muss <anchor/>2.)<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app> als ein loyal <anchor/>angebotener<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app> Kompromiss beantragt werden. Unter diesen zwei Voraussetzungen ist die
+                    Aktion nicht aussichtslos, denn so siegesgewiss sind Regierung und Parteien
                     nicht, als dass sie nicht einem solchen Convenio, dem <pb facs="#fK 5-034"
                         n="36"/>natürlich auch das <orgName>Herrenhaus</orgName> beistimmen und an
                     dem es unbedingt festzuhalten erklären müsste – eine gewisse Geneigtheit
                     entgegenbringen würden.</p>
                 <p>Es würden sich demnach folgende Eventualitäten ergeben: Kommt das Pluralwahlrecht
-                    auf diese Weise zu Stande, so verwandeln wir uns dadurch noch nicht aus Gegnern
-                    in Freunde und Verteidiger des Wahlrechts, aber wir machen ihm keine
-                    Schwierigkeiten mehr und stehen bei den voraussichtlichen wilden Kämpfen der
-                    Alldeutschen und Radikalen im Plenum des <orgName>Abgeordnetenhauses</orgName>
-                    Gewehr bei Fuß. Kommt das Pluralwahlrecht trotz unserer loyalen Erklärungen im
-                    Abgeordnetenhaus nicht zu Stande, dann hat das <orgName>Herrenhaus</orgName>
-                    eine wirksame Handhabe und kann, wenn auch dort die beiden von mir oben
-                    bezeichneten Voraussetzungen Richtschnur bleiben, eine Abänderung der Vorlage
-                    beschließen. Auf diese Weise könnte der von mir befürwortete Convenio bei der
-                    zweiten Beratung im <orgName>Abgeordnetenhaus</orgName> zum Abschluss gelangen.
-                    Dieser Plan setzt allerdings eine sehr ruhige politische Beurteilung der
+                    auf diese Weise zu Stande, <anchor/>so verwandeln wir uns dadurch noch nicht aus
+                    Gegnern in Freunde und Verteidiger des Wahlrechts, aber wir machen<app
+                        from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">machen wir</rdg>
+                    </app> ihm keine Schwierigkeiten mehr und stehen bei den voraussichtlichen
+                    wilden Kämpfen der Alldeutschen und Radikalen im Plenum des
+                        <orgName>Abgeordnetenhauses</orgName> Gewehr bei Fuß. Kommt das
+                    Pluralwahlrecht trotz unserer loyalen Erklärungen im Abgeordnetenhaus nicht zu
+                    Stande, dann <anchor/>hat das <orgName>Herrenhaus</orgName> eine wirksame
+                    Handhabe und kann, wenn auch dort die beiden von mir oben bezeichneten
+                    Voraussetzungen Richtschnur bleiben, eine Abänderung der Vorlage beschließen.
+                    Auf diese Weise könnte der von mir befürwortete Convenio bei der zweiten
+                    Beratung im <orgName>Abgeordnetenhaus</orgName> zum Abschluss gelangen.<app
+                        from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">steht die Sache so, dass das Herrenhaus die Aktion
+                            für das Pluralwahlrecht aufnehmen müsste.</rdg>
+                    </app> Dieser Plan setzt allerdings eine sehr ruhige politische Beurteilung der
                     Situation und viel Selbstbeherrschung <pb facs="#fK 5-035" n="37"/>voraus. Die
                     Intransigenten in beiden Häusern werden das Schwäche nennen. Der bisherige
-                    wilde, verbissene Widerstand, ist aber nichts anderes als das Rennen mit dem
-                    Kopf an die Wand.</p>
-                <p> Ich resümiere. Wir dürfen nicht im Schmollwinkel bleiben, denn wir hindern
+                    wilde, verbissene Widerstand,<anchor/><app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">der kein Gegenprojekt aufkommen ließ</rdg>
+                    </app> ist aber nichts anderes als das Rennen mit dem Kopf an die Wand.</p>
+                <p>Ich resümiere. Wir dürfen nicht im Schmollwinkel bleiben, denn wir hindern
                     nichts, entfremden uns die deutschen Parteien immer mehr und versäumen es,
                     unsere Stellung in der Zukunft vorzubereiten. Das sollte der Standpunkt sein,
                     den wir – falls es überhaupt zu einer allgemeinen Wählerversammlung im Herbste
                     kommt – in derselben vertreten.</p>
-                <p>Dieser Plan bedarf allerdings eine gewisse Vorbereitung. Wir sind es den
+                <p><anchor/>Dieser Plan bedarf allerdings eine gewisse Vorbereitung. Wir sind es den
                     Vertretern der andern verfassungstreuen Grundbesitzer schuldig, dass wir
                     zunächst in einer Obmännerkonferenz des ganzen verfassungstreuen
                     Großgrundbesitzes unsere Ansicht sagen. Wir müssen sie auch dem konservativen
                     Großgrundbesitz mitteilen sowie jenen deutschen Abgeordneten (<persName
                         key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X">Pergelt</persName>
-                    und Comp.), mit denen wir bisher gegangen sind. Gelingt der Plan, haben wir den
-                    Verdienst, sie alle aus einer Sackgasse herausgeführt zu haben.</p>
+                    und Comp.), mit denen wir bisher gegangen sind. Gelingt der Plan, haben wir
+                        den<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Gelänge es uns, diesen Plan mit den anderen
+                            konservativen Parteien des Abgeordnetenhauses und mit dem Herrenhaus zu
+                            vereinbaren, hätten wir das</rdg>
+                    </app> Verdienst, sie alle aus einer Sackgasse herausgeführt zu haben.</p>
                 <p><placeName>München</placeName>
                     <date when="1906-08-13">13.8.06</date></p>
             </div>
-
+<!-- CA: bis hier zum Textvergleich das markup gemacht! -->
             <div>
                 <p><pb facs="#fK 5-036" n="38"/><placeName key="Lünz" ref="" xml:id=""
                         >Lünz</placeName>, <date when="1909-07-30">30.7.1909</date><note>mit
