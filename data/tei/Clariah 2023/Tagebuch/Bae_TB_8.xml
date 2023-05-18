@@ -476,7 +476,7 @@
                     stimmten mit Stein, so dass dieser Dringlichkeitsantrag, wenn auch nicht die 2/3
                     Majorität, so doch die einfache Mehrheit erhielt.<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">der ersten Lesung des Wahlreformentwurfes kam ein
-                    Dringlichkeitsantrag des Alldeutschen Franko Stein auf Sonderstellung Galiziens
+                            Dringlichkeitsantrag des Alldeutschen Franko Stein<!-- RH: xxxx alle vorkommnisse eine namens auszeichnen --> auf Sonderstellung Galiziens
                     zur Abstimmung. Er erhielt durch unsere Unterstützung die einfache Majorität.
                     Unsere Herren waren nicht abzuhalten, diese Demonstration mitzumachen, um
                     dadurch Gautsch eine Verlegenheit zu bereiten. Unmittelbar darauf, am</rdg>
@@ -485,7 +485,7 @@
                         <rdg wit="#Bae_MF_6-2">1906</rdg>
                     </app> hatte ich <anchor />meine
                     gewönliche Jahresaudienz.<app from="xxxx">
-                        <rdg wit="#Bae_MF_6-2">eine Audienz beim Kaiser.</rdg>
+                        <rdg wit="#Bae_MF_6-2">eine Audienz beim Kaiser<!-- RH: xxxx alle vorkommnisse eine namens auszeichnen -->.</rdg>
                     </app> <anchor />
                     Der <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013">
                     Kaiser</persName><app from="xxxx">
@@ -575,7 +575,7 @@
                 <p><anchor />In der Osterpause haben in <placeName>Prag</placeName> mehrfache
                     Besprechungen zwischen Grossgrundbesitzern beider Parteien stattgefunden. Die
                     interessanteste fand am <date when="1906-04-11">11.<del rend="#s">März</del> <add>April
-                    1906</add></date> statt, aus Anlass eines Diners, welches Erwein <persName
+                    1906</add></date> statt, aus Anlass eines Diners, welches Erwein<!-- RH: xxxx Vornamen auch in markup --> <persName
                         key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X">Nostitz</persName>
                     uns in seinem prachtvollen Palais gab. <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Leider war es unmöglich, den Großgrundbesitz und die
@@ -605,11 +605,11 @@
                     </app> bildete. <pb
                         facs="#fK 5-016" n="18" />Der <persName key="NostitzErwein"
                         ref="https://d-nb.info/gnd/13012589X">Hausherr</persName> war ruhig wie
-                    immer, aber ausserordentlich liebenswürdig. Ferdinand <persName
-                        key="LobkowitzFerdinand" ref="https://d-nb.info/gnd/117143952" /> lies es
+                    immer, aber ausserordentlich liebenswürdig. <persName
+                        key="LobkowitzFerdinand" ref="https://d-nb.info/gnd/117143952">Ferdinand</persName> lies es
                     sich bei Tisch sehr gut schmecken u. es wirkte das gute Diner in seiner Stimmung
-                    sichtlich nach, mildernd, entgegenkommend. Alain <persName key="RohanAlain"
-                        ref="https://d-nb.info/gnd/139262210">Rohan</persName> war schweigsam aber
+                    sichtlich nach, mildernd, entgegenkommend. <persName key="RohanAlain"
+                        ref="https://d-nb.info/gnd/139262210">Alain Rohan</persName> war schweigsam aber
                     sehr aufmerksam. <anchor />Carl<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Karl</rdg>
                     </app> <persName
@@ -637,11 +637,11 @@
                     als jüngster <anchor />Politiker<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2" />
                     </app> in diesem Kreise hielt
-                    sich zurück, aber man sah ihm an wie ihn Alles interessierte. Franz <persName
-                        key="ThunFranz" ref="https://d-nb.info/gnd/117626651">Thun</persName>
+                    sich zurück, aber man sah ihm an wie ihn Alles interessierte. <persName
+                        key="ThunFranz" ref="https://d-nb.info/gnd/117626651">Franz Thun</persName>
                     endlich war mehr grossartig, vorsichtig, über den Gewässern schwebend.</p>
-                <p>Ueber die einzuschlagende Taktik der Regierung u. Wahlreform gegenüber waren die
-                    Ansichten geteilt<anchor />. Ein Theil war ganz <app from="xxxx">
+                <p>Ueber die einzuschlagende Taktik der Regierung u.<!-- RH: xxxx editorischer eingriff bei abkürzungen etc.? normalisierte/lesefassung - diplomatische fassung? --> Wahlreform gegenüber waren die
+                    Ansichten geteilt<anchor /><!-- RH: xxxx keine leerzeichen in tags oder am anfang/ende eine taginhaltes -->. Ein Theil war ganz <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">, fast alle Herren waren</rdg>
                     </app>
                     intransigent: alles verhindern, den <persName key="GautschPaul"
