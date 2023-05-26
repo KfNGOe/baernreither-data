@@ -345,7 +345,7 @@
                         <placeName key="Tratenau"
                         ref="https://www.geonames.org/3063907/trutnov.html">Trauttenau</placeName>.
                         <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
-                        >Prade</persName> verlangte die Aktivirung ohne <placeName key="eipel"
+                        >Prade</persName> verlangte die Aktivirung ohne <placeName key="Eipel"
                         ref="https://www.geonames.org/11926030/mnichov.html">Eipel</placeName>,
                         <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318"
                         >Pacák</persName> wollte sie nur mit <placeName key="eipel"
@@ -367,8 +367,9 @@
                         >Pacák</persName> erklärte sofort, dass er es ohne dieselbe nicht machen
                     könne. 5) Verstaatlichungen der Eisenbahnen. <persName key="PradeHeinrich"
                         ref="https://d-nb.info/gnd/127915672">Prade</persName> verlangt zwei
-                    Direktionen in Deutschböhmen, was <persName key="PacakBedrich"
-                        ref="https://d-nb.info/gnd/1024898318">Pacák</persName> zusagt.</p>
+                    Direktionen in <placeName key="Deutschboehmen">Deutschböhmen</placeName>, was
+                        <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318"
+                        >Pacák</persName> zusagt.</p>
                 <p><persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
                         >Gautsch</persName> erklärt, dass er sich die Durchfürung derartig denke,
                     dass 2 Deutsche <add>(<persName key="DerschattaJulius"
@@ -922,10 +923,11 @@
                         <rdg wit="#Bae_MF_6-2">sich aber doch für Wekerle entschieden.</rdg>
                     </app>
                     <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659">Ottokar
-                        Czernin</persName> traf neulich in Wien gerade als die Sache gekocht wurde
-                        <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
-                        >Andrássy</persName> u. frug ihn, warum er nicht die
-                        <anchor/>Cabinetsbildung<app from="xxxx">
+                        Czernin</persName> traf neulich in <placeName key="Wien"
+                        ref="https://www.geonames.org/2761367/wien.html">Wien</placeName> gerade als
+                    die Sache gekocht wurde <persName key="AndrassyGyula"
+                        ref="https://d-nb.info/gnd/118502875">Andrássy</persName> u. frug ihn, warum
+                    er nicht die <anchor/>Cabinetsbildung<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Kabinettsbildung</rdg>
                     </app> übernommen habe, worauf dieser antwortete, er könne da der <persName
                         key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
@@ -1518,12 +1520,10 @@
                     Stande kommen werde, stützten sich im Wesentlichen auf drei <anchor/>
                         Suppositionen<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Annahmen</rdg>
-                    </app>: die <persName key="KaiserFranzJosef"
-                        ref="https://d-nb.info/gnd/118535013">Krone</persName> wird anderer Meinung
-                    werden – die nationalen Parteien werden sich bezüglich der Verteilung der
-                    Mandate nicht einigen – die Zeit wird zu kurz werden bis Ende <date
-                        when="1907-01">Jänner 1907</date>. Dem entgegen steht heute fest: die Krone
-                    <anchor/> blieb<app from="xxxx">
+                    </app>: die Krone wird anderer Meinung werden – die nationalen Parteien werden
+                    sich bezüglich der Verteilung der Mandate nicht einigen – die Zeit wird zu kurz
+                    werden bis Ende <date when="1907-01">Jänner 1907</date>. Dem entgegen steht
+                    heute fest: die Krone <anchor/> blieb<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">bleibt</rdg>
                     </app> bei ihrer Meinung u. alle gegenteiligen Gerüchte sind Wünsche aber keine
                     Tatsachen – die nationalen Parteien haben sich bezüglich der Mandate geeinigt –
@@ -1560,15 +1560,15 @@
                     und wirtschaftlich werden, das heißt: uns als deutscher Großgrundbesitz erklären
                     und auf Seite der Agrarier <anchor/>treten, als der<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">treten, der</rdg>
-                    </app> wirtschaftlichen Gruppe, die uns am nächsten steht. <pb facs="#fK 5-032"
+                    </app> wirtschaftlichen Gruppe, die uns am nächsten steht.<pb facs="#fK 5-032"
                         n="34"/>Damit tun wir gar nichts anderes als die Konsequenzen ziehen, die in
                     der Wahlreform selbst liegen.</p>
                 <p><anchor/>Man muss sich<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Wir müssen uns</rdg>
-                    </app> vollkommen klar sein, dass wir, wenn in der <date>zweiten Hälfte
-                        September</date> eine allgemeine Wählerversammlung abgehalten wird, in
-                    dieser Frage Farbe bekennen müssen. Das Leitmotiv für diese Versammlung kann nur
-                    sein entweder „wir setzen unseren Widerstand gegen die Wahlreform fort“ oder
+                    </app> vollkommen klar sein, dass wir, wenn in der <date when="1906–09">zweiten
+                        Hälfte September</date> eine allgemeine Wählerversammlung abgehalten wird,
+                    in dieser Frage Farbe bekennen müssen. Das Leitmotiv für diese Versammlung kann
+                    nur sein entweder „wir setzen unseren Widerstand gegen die Wahlreform fort“ oder
                     „wir fügen uns den Tatsachen und bereiten eine Politik der Zukunft vor“. Will
                     man sich weder zu dem einen noch zu dem andern bekennen, dann muss die
                     Versammlung unterbleiben, da sie mit bloßem Wischiwaschi nicht ausgefüllt werden
@@ -1601,7 +1601,7 @@
                     </app> Kompromiss beantragt werden. Unter diesen zwei Voraussetzungen ist die
                     Aktion nicht aussichtslos, denn so siegesgewiss sind Regierung und Parteien
                     nicht, als dass sie nicht einem solchen Convenio, dem <pb facs="#fK 5-034"
-                        n="36"/>natürlich auch das <orgName> Herrenhaus</orgName> beistimmen und an
+                        n="36"/>natürlich auch das <orgName>Herrenhaus</orgName> beistimmen und an
                     dem es unbedingt festzuhalten erklären müsste – eine gewisse Geneigtheit
                     entgegenbringen würden.</p>
                 <p>Es würden sich demnach folgende Eventualitäten ergeben: Kommt das Pluralwahlrecht
@@ -1649,9 +1649,10 @@
             </div>
             <div>
                 <!-- CA: der folgende Teil bis zum nächsten anchor lässt sich nicht wirklich zuordnen, evt. noch zum Anfang des Kapitel 9???? -->
-                <p><pb facs="#fK 5-036" n="38"/><placeName key="Lünz" ref="xxxx">Lünz</placeName> ,
-                        <date when="1909-07-30">30.7.1909</date><note>mit Bleistift korrigiert in
-                        1906.</note></p>
+                <p><pb facs="#fK 5-036" n="38"/><placeName key="Luenz"
+                        ref="https://www.geonames.org/3070490/mlynce.html">Lünz</placeName> , <date
+                        when="1909-07-30">30.7.<del rendition="s"
+                    >1909</del><add>1906</add></date></p>
                 <p>Das vorstehende Memorandum blieb natürlich wirkungslos. Die Herren waren in die
                     Opposition gegen die Wahlreform blind verrannt. Beschränkte Menschen wie
                         <persName key="StürgkhKarl" ref="https://d-nb.info/gnd/117677957"
@@ -1747,8 +1748,10 @@
                     war im Grunde ein guter Mensch, aber hasste den Besitz, sofern er ihm nicht
                     durch Adel oder Erbgesessenheit imponierte. Die besitzende, gebildete, oft genug
                     halbgebildete Mittelklasse war ihm zuwider. Das, was man „bourgeoisie“ nennt,
-                    „middle class“ in <placeName>England</placeName>, hielt er politisch und sozial
-                    für unfähig <anchor/>und borniert<app from="xxxx">
+                    „middle class“ in <placeName key="England"
+                        ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
+                        >England</placeName>, hielt er politisch und sozial für unfähig <anchor/>und
+                        borniert<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">die staatlichen Aufgaben zu lösen.</rdg>
                     </app>. Die wirtschaftliche Bedeutung dieser Klasse unterschätzte er vollständig
                     und suchte sie einzuschränken, wo er konnte. Daher auch seine Überschätzung des
@@ -1764,10 +1767,10 @@
                     Er konnte in der ungerechtesten Weise über diese Richtung sprechen. Er übertrieb
                     <anchor/>ins Maßlose die von ihr begangenen Fehler<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">ihre Fehler ins Maßlose</rdg>
-                    </app> und ließ kein gutes Haar an ihr. Sein Rezept für die Heilung
-                        <placeName>Österreichs</placeName> war daher sehr einfach<anchor/>: weg mit
-                    den Repräsentanten dieser Schichten, die unfähig sind den Staat zu regieren.
-                        Man<app from="xxxx">
+                    </app> und ließ kein gutes Haar an ihr. Sein Rezept für die Heilung <placeName
+                        key="Oesterreich">Österreichs</placeName> war daher sehr einfach<anchor/>:
+                    weg mit den Repräsentanten dieser Schichten, die unfähig sind den Staat zu
+                    regieren. Man<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">. Die Repräsentanten dieser Schicht sind unfähig den
                             Staat zu regieren; man</rdg>
                     </app> müsse tiefer greifen, wo ungenützt die gesunden Elemente der
@@ -1816,8 +1819,9 @@
                         ref="https://d-nb.info/gnd/129263958">Steinbach</persName>’schen
                         Ideologien<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">die Steinbach'schen Ideen</rdg>
-                    </app>: <placeName>Ungarn</placeName>. Dort waren die Verhältnisse<anchor/> –
-                    durch wessen Schuld soll hier nicht erörtert werden –<app from="xxxx">
+                    </app>: <placeName key="Ungarn">Ungarn</placeName>. Dort waren die
+                    Verhältnisse<anchor/> – durch wessen Schuld soll hier nicht erörtert werden
+                        –<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2"/>
                     </app> wieder einmal auf einem toten Punkt angelangt. Wie, wenn man dort das
                     Rezept von den unberührten, dynastischen, treuen und lenkbaren unteren
@@ -1825,8 +1829,10 @@
                         ref="https://d-nb.info/gnd/130147729">Fejérváry</persName>
                     <anchor/><app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">sprach ganz wie seinerzeit Steinbach, </rdg>
-                    </app>sagte mir selbst in <placeName>Ofen</placeName>, als ich ihn dort als
-                    Ministerpräsident[en] besuchte, es handle sich nur um<anchor/><app from="xxxx">
+                    </app>sagte mir selbst in <placeName key="Ofen"
+                        ref="https://www.geonames.org/3054667/buda.html">Ofen</placeName>, als ich
+                    ihn dort als Ministerpräsident[en] besuchte, es handle sich nur um<anchor/><app
+                        from="xxxx">
                         <rdg wit="#Bae_MF_6-2">den Widerstand von</rdg>
                     </app> ein paar hundert Magnaten, mit dem Volk könnte man regieren, aber mit
                     jenen nicht. Bei dieser Gelegenheit bekam auch die Geistlichkeit
@@ -1837,16 +1843,17 @@
                     zu wollen.<anchor/><app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Das waen Gedankengänge, die beim Kaiser vorbereiteten
                             Boden fanden.</rdg>
-                    </app> Der Ausgang war eine Ironie der Geschichte. In
-                        <placeName>Ungarn</placeName> scheiterte <anchor/>– wenigstens vorläufig
-                        –<app from="xxxx">
+                    </app> Der Ausgang war eine Ironie der Geschichte. In <placeName key="Ungarn"
+                        >Ungarn</placeName> scheiterte <anchor/>– wenigstens vorläufig –<app
+                        from="xxxx">
                         <rdg wit="#Bae_MF_6-2"/>
                     </app> der Plan<anchor/><app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">des allgemeinen Stimmrechtes</rdg>
-                    </app>, in <placeName>Österreich</placeName> glückte er. Ob es den bürgerlichen
-                    Klassen im österreichischen <orgName>Parlament</orgName> möglich gewesen wäre,
-                    die Sache abzuwenden, ist schwer zu sagen. Der Druck kam diesmal nicht nur von
-                    oben, sondern viel intensiver noch von unten, <anchor/>ja<app from="xxxx">
+                    </app>, in <placeName key="Oesterreich">Österreich</placeName> glückte er. Ob es
+                    den bürgerlichen Klassen im österreichischen <orgName>Parlament</orgName>
+                    möglich gewesen wäre, die Sache abzuwenden, ist schwer zu sagen. Der Druck kam
+                    diesmal nicht nur von oben, sondern viel intensiver noch von unten,
+                        <anchor/>ja<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">und</rdg>
                     </app> der untere Druck wurde von oben, <anchor/>wenigstens<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">d.h.</rdg>
