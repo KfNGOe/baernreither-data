@@ -83,7 +83,7 @@
                     <hi rend="ul">Die Wahlreform</hi>
                 </head>
             </div>
-            <div>
+            <div n="yyyy-mm-dd" type="diary-entry"><!-- RH: markup for date of diary entry -->
                 <p>Die <date from="1906-01" to="1906-03">drei ersten Monate des Jahres 1906</date>
                     <anchor/>
                     <app from="xxxx">
