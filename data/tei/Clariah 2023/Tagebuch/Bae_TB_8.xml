@@ -20,7 +20,9 @@
                 </editor>
                 <respStmt>
                     <resp/>
-                    <orgName>Kommission für Neuere Geschichte Österreichs</orgName>
+                    <orgName key="KommissionfuerNeuereGeschichteOesterreichs"
+                        ref="https://d-nb.info/gnd/2016019-7">Kommission für Neuere Geschichte
+                        Österreichs</orgName>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -31,7 +33,9 @@
             </extent>
             <publicationStmt>
                 <publisher>
-                    <orgName>Kommission für Neuere Geschichte Österreichs</orgName>
+                    <orgName key="KommissionfuerNeuereGeschichteOesterreichs"
+                        ref="https://d-nb.info/gnd/2016019-7">Kommission für Neuere Geschichte
+                        Österreichs</orgName>
                     <address>
                         <addrLine>c/o Universität Innsbruck, Institut für Geschichtswissenschaften
                             und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
@@ -92,19 +96,18 @@
                             verhandelte und diese von Bylandt im Ministerium des Innern bearbeitet
                             wurde</rdg>
                     </app> bieten <anchor/>politisch ein geradezu<app from="xxxx">
-                        <rdg wit="#Bae_MF_6-2">im Abgeordnetenhaus</rdg>
-                    </app>
-                    <anchor/> widerliches Bild.<app from="xxxx">
-                        <rdg wit="#Bae_MF_6-2">ein widerliches Bild.</rdg>
-                    </app> Eine Regierung, <anchor/>die aus Gründen, die nicht zu ergründen sind,
-                    einem Schlagworte politische Geltung verschaffen will, ohne sich über die großen
-                    Zusammenhänge staatlicher Wirkungen und <pb facs="#fK 5-003" n="5"
-                    />Gegenwirkungen Rechenschaft geben zu wollen – <app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">im Abgeordnetenhaus ein</rdg>
+                    </app> widerliches Bild. Eine Regierung, <anchor/>die aus Gründen, die nicht zu
+                    ergründen sind, einem Schlagworte politische Geltung verschaffen will, ohne sich
+                    über die großen Zusammenhänge staatlicher Wirkungen und <pb facs="#fK 5-003"
+                        n="5"/>Gegenwirkungen Rechenschaft geben zu wollen – <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">die sich über die großen Zusammenhänge staatlicher
                             Wirkungen und Gegenwirkungen nicht Rechenschaft geben will, </rdg>
-                    </app> politische Parteien, die zerfaren u. unaufrichtig diesem Plan der
-                    Regierung ohne Halt, ohne Ideen u. ohne Willen <anchor/>entgegenstehen <app
-                        from="xxxx">
+                    </app> politische Parteien, die zerfaren u. unaufrichtig diesem
+                        <anchor/>Plan<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Plane</rdg>
+                    </app> der Regierung ohne Halt, ohne Ideen u. ohne Willen
+                    <anchor/>entgegenstehen <app from="xxxx">
                         <rdg>gegenüber stehen, </rdg>
                     </app> – die <index>
                         <term key="Parteien/Sozialdemokraten">Socialdemokraten</term>
@@ -128,11 +131,10 @@
                     </app> ein Niedergang jeder politischen Führung <anchor/>eines Staates <app
                         from="xxxx">
                         <rdg wit="#Bae_MF_6-2"/>
-                    </app>, ein Niedergang <anchor/> jeder <app from="xxxx">
+                    </app>, ein Niedergang <anchor/>jeder<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">der</rdg>
-                    </app>politischen Moral<anchor/> im <index>
-                        <term key="Reichsrat/Abgeordnetenhaus">Abg.Hause</term>
-                    </index>
+                    </app> politischen Moral<anchor/> im <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Abg.Hause</orgName>
                     <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2"/>
                     </app>
@@ -209,9 +211,11 @@
                     </index> mitgeteilt, die sofort ihr doppeltes Spiel spielen, loben u. tadeln
                     zugleich, die ganze Aufmerksamkeit auf die Vorgänge, welche zur
                     „Parlamentarisierung“ führen sollen lenken u. zugleicherzeit contra geben, gegen
-                    die Sache hetzen. Die <orgName>N[eue] fr[eie] Presse</orgName> voran. Ihre
-                    Unterredakteure laufen herum bei den Abgeordneten, die Gegner der Sache sind u.
-                    sammeln Gift und Galle, die dann sorgfältig verzapft werden. <app from="xxxx">
+                    die Sache hetzen. Die <orgName key="NeueFreiePresse"
+                        ref="https://d-nb.info/gnd/1123578060">N[eue] fr[eie] Presse</orgName>
+                    voran. Ihre Unterredakteure laufen herum bei den Abgeordneten, die Gegner der
+                    Sache sind u. sammeln Gift und Galle, die dann sorgfältig verzapft werden. <app
+                        from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Alle diese Bemühungen spielen sich deswegen auch
                             hinter den Kulissen ab. Nur einzelne Persönlichkeiten, nicht die
                             Parteien erfahren etwas von der Sache. Die Presse ergattert hie und da
@@ -225,10 +229,8 @@
                     Er <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">hinterhältig, er</rdg>
                     </app>
-                    <anchor/> will die Sache <anchor/>um jeden Preis<app from="xxxx">
-                        <rdg wit="#Bae_MF_6-2"/>
-                    </app>, <anchor/>aber<app from="xxxx">
-                        <rdg wit="#Bae_MF_6-2"/>
+                    <anchor/> will die Sache<anchor/> um jeden Preis, aber<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">, </rdg>
                     </app> er weicht uns aus, lässt sich vom <index>
                         <term key="Parteien/Viererausschuss der deutschen Parteien">4
                             Ausschuss</term>
@@ -239,18 +241,18 @@
                         <rdg wit="#Bae_MF_6-2">Briefe und Telegramme werden nach Graz gesendet, er
                             kommt zwar ab und zu nach Wien, ist aber immer verhindert</rdg>
                     </app> bis man ihn stellt u. er den bereits gescheiterten Plan beichten
-                    muss.<anchor/><!--
-                    CA: diese folgende Textstelle ist lang und umfasst auch die eingeklebte Stelle -->
-                    Ein Kartenbrief der ihn am <date when="1906-01-22">22.1.</date> rechtzeitig zu
-                    einer Besprechung einladet trifft ihn „unmittelbar“ vor Abgang des letzten Zuges
-                    nach <placeName key="Graz"
-                        ref="https://www.geonames.org/2778058/graz-stadt.html">Graz</placeName>:
-                    Telegramm N. 1. Durch wichtige Kanzleigeschäfte ist er bis Freitag
-                    „festgenagelt“: Telegramm N. 2. Einer abermaligen dringenden Aufforderung setzt
-                    er eine Conferenz mit den Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu
-                        <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765"
-                        >Chiari</persName> u. expectorire mich; er telegrafirt, dass es unmöglich
-                    sei sich länger zu entziehen – er kommt: Telegramm N. 4.</p>
+                    muss.</p>
+                <p><!-- CA: dieser anchor umfasst alles bis zum Ende der eingeklebten Stellen für den Textvergleich app --><anchor/>Ein
+                    Kartenbrief der ihn am <date when="1906-01-22">22.1.</date> rechtzeitig zu einer
+                    Besprechung einladet trifft ihn „unmittelbar“ vor Abgang des letzten Zuges nach
+                        <placeName key="Graz" ref="https://www.geonames.org/2778058/graz-stadt.html"
+                        >Graz</placeName>: Telegramm N. 1. Durch wichtige Kanzleigeschäfte ist er
+                    bis Freitag „festgenagelt“: Telegramm N. 2. Einer abermaligen dringenden
+                    Aufforderung setzt er eine Conferenz mit den Steirern entgegen: Telegramm N. 3.
+                    Endlich gehe ich zu <persName key="ChiariKarl"
+                        ref="https://d-nb.info/gnd/116504765">Chiari</persName> u. expectorire mich;
+                    er telegrafirt, dass es unmöglich sei sich länger zu entziehen – er kommt:
+                    Telegramm N. 4.</p>
                 <pb/>
                 <p>Endlich kommt die Stunde der Beichte. Sie wird von <persName
                         key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
@@ -269,8 +271,8 @@
                     <add><pb facs="#fK 5-006" n="8"/>Diarium der Verhandlungen des Herrn von
                             <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
                             >Derschatta</persName> mit <persName key="GautschPaul"
-                            ref="https://d-nb.info/gnd/137078080"> Gautsch</persName>, aufgenommen
-                        in der Sitzung des <index>
+                            ref="https://d-nb.info/gnd/137078080">Gautsch</persName>, aufgenommen in
+                        der Sitzung des <index>
                             <term key="Parteien/Viererausschuss der deutschen Parteien">4
                                 Ausschusses</term>
                         </index> vom <date when="1906-01-25">25.1.1906</date>.</add>
@@ -317,9 +319,9 @@
                         key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>
                     erwidert, er denke nicht daran die Partei dadurch zu binden, bittet aber die
                     Sache geheim zu halten.</p>
-                <p><date when="1906-01-15">Montag den 15.1.</date>Erste Notiz im <orgName>Prager
-                        Tagblatt</orgName> (Abendblatt)!<note>Prager Tagblatt vom 16.1.1906,
-                        Abendausgabe S.
+                <p><date when="1906-01-15">Montag den 15.1.</date>Erste Notiz im <orgName
+                        key="PragerTagblatt">Prager Tagblatt</orgName> (Abendblatt)!<note>Prager
+                        Tagblatt vom 16.1.1906, Abendausgabe S.
                     1.</note><!-- DC: hier wäre ein Link zu ANNO - wie soll das
                     augezeichnet werden? -->
                     Conferenz <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
@@ -338,8 +340,8 @@
                         key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">Prade’s</persName>
                     von <placeName key="Meran" ref="https://www.geonames.org/3173577/merano.html"
                         >Meran</placeName>. Er ist der Meinung die Sache weiter zu verfolgen.
-                        <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672">
-                        Prade</persName> spricht am Abend allein mit <persName key="GautschPaul"
+                        <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                        >Prade</persName> spricht am Abend allein mit <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName>.</p>
                 <pb facs="#fK 5-008" n="10"/>
                 <p><date when="1906-01-19">Freitag den 19.1.</date>nichts.</p>
@@ -358,7 +360,8 @@
                     Bindung irgend einer Partei, er setzt nur voraus, dass jene Personen, welche
                     eintreten die Pflicht übernehmen die Wahlordnung durchzusetzen. Grundzüge der
                     Wahlreform wurden mitgeteilt u. es haben sich Hindernisse nicht ergeben. Von
-                    Seite der Regierung wurde nun der Wunsch geäussert, dass der <orgName>böhm.
+                    Seite der Regierung wurde nun der Wunsch geäussert, dass der <orgName
+                        key="BoehmischerLandtag" ref="https://d-nb.info/gnd/5005623-2">böhm.
                         Landtag</orgName> die böhm. Wahlreform und das Curiengesetz erledigen solle,
                     wogegen weder <persName key="PacakBedrich"
                         ref="https://d-nb.info/gnd/1024898318">Pacák</persName> noch <persName
@@ -445,12 +448,14 @@
                         <term key="Presse">Presse</term>
                     </index> Details der Sache in die Öffentlichkeit brachte u. das <index>
                         <term key="Presse/Pressebuero des Ministerratspräsidiums">Pressbureau</term>
-                    </index> insbes. in der <orgName>N. fr. Presse</orgName> „Stimmung“ machen
-                    wollte.</p>
-                <p> Am <date when="1906-01-23">23.1.</date> erschien in der
-                        <orgName>Presse</orgName> ein Entrefilet <pb facs="#fK 5-011" n="13"
-                    />offenbar von regierungswegen das die Absichten der Regierung plump enthüllte,
-                    aber auf gelogene Voraussetzungen baute.</p>
+                    </index> insbes. in der <orgName key="NeueFreiePresse"
+                        ref="https://d-nb.info/gnd/1123578060">N. fr. Presse</orgName> „Stimmung“
+                    machen wollte.</p>
+                <p> Am <date when="1906-01-23">23.1.</date> erschien in der <orgName
+                        key="NeueFreiePresse" ref="https://d-nb.info/gnd/1123578060"
+                        >Presse</orgName> ein Entrefilet <pb facs="#fK 5-011" n="13"/>offenbar von
+                    regierungswegen das die Absichten der Regierung plump enthüllte, aber auf
+                    gelogene Voraussetzungen baute.</p>
                 <p><!-- CA: das noch im Original ansehen und dann schauen, ob/wie man das löst -->
                     <note> Hier ist der Artikel "Der Verlauf der Verhandlungen" aus der Neuen Freien
                         Presse vom 23.1.1906, S. 3 eingeklebt. Die Passage „haben zwischen deutschen
@@ -464,8 +469,9 @@
                             ref="https://d-nb.info/gnd/134055136">Gross</persName> als <persName
                             key="ChiariKarl" ref="/d-nb.info/gnd/116504765">Chiari</persName></del>
                     dementierte <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X">
-                        Pergelt</persName> ganz entschieden in der <orgName>N. fr. Presse</orgName>
-                    (vom <date when="1906-01-24">24.</date>) die „Verhandlungen“ u. <persName
+                        Pergelt</persName> ganz entschieden in der <orgName key="NeueFreiePresse"
+                        ref="https://d-nb.info/gnd/1123578060">N. fr. Presse</orgName> (vom <date
+                        when="1906-01-24">24.</date>) die „Verhandlungen“ u. <persName
                         key="GroßGustav" ref="https://d-nb.info/gnd/134055136">Gross</persName>
                     zwang <persName key="ChiariKarl" ref="/d-nb.info/gnd/116504765"
                         >Chiari</persName> mit ihm das Gleiche bezüglich Mährens zu tun. Diese
@@ -523,9 +529,8 @@
                     Sonderstellung <placeName key="Galizien"
                         ref="https://www.geonames.org/562153/galicia.html"
                         >Galiziens</placeName>.<note>Über den Dringlichkeitsantrag des Abgeordneten
-                            <persName key="SteinFranko" ref="https://d-nb.info/gnd/129277169"
-                            >Stein</persName> wurde am <date when="1906-03-27">27. März 1906</date>
-                        abgestimmt. Siehe Neue Freie Presse vom 27.3.1906 Abendblatt S. 2.</note>
+                        Stein wurde am 27. März 1906 abgestimmt. Siehe Neue Freie Presse vom
+                        27.3.1906 Abendblatt S. 2.</note>
                     <!-- Link zu neuer freier Presse
                         einfügen? --> Polen u. <index>
                         <term key="Parteien/Großgrundbesitz (beide Parteien)"
@@ -561,9 +566,9 @@
                 <app from="xxxx">
                     <rdg wit="#Bae_MF-6-2">Er fing gleich damit an:</rdg>
                 </app>
-                <p>Es war neulich die hässlichste Sitzung die das
-                        <orgName>Abgeordnetenhaus</orgName> gehabt hat, die Abstimmung wegen der
-                    Sonderstellung <placeName key="Galizien"
+                <p>Es war neulich die hässlichste Sitzung die das <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhaus</orgName> gehabt hat,
+                    die Abstimmung wegen der Sonderstellung <placeName key="Galizien"
                         ref="https://www.geonames.org/562153/galicia.html"
                     >Galiziens</placeName>!</p>
                 <p><anchor/>Die Abstimmung bedeutet keine Gemeinschaft mit den Alldeutschen, wir
@@ -617,8 +622,9 @@
                     </index>, der deutsche <index>
                         <term key="Österreich-Ungarn/Handelsvertrag mit Deutschland"
                             >Handelsvertrag</term>
-                    </index> – alles das haben wir im <orgName>Abgeordnetenhaus</orgName> ermöglicht
-                    u. man wirft uns weg wie <pb facs="#fK 5-015" n="17"/>eine ausgepresste Citrone.
+                    </index> – alles das haben wir im <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhaus</orgName> ermöglicht u.
+                    man wirft uns weg wie <pb facs="#fK 5-015" n="17"/>eine ausgepresste Citrone.
                         <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Als ich nun abermals mir zu antworten erlaubte, daß
                             auch bei unsern Herren wie in jeder politischen Partei die Stimmung eine
@@ -856,9 +862,10 @@
                         ref="https://www.geonames.org/2782113/republic-of-austria.html"
                         >Österreich</placeName> zur Sprache kam. Ich stellte fest, dass nunmehr in
                     nächster Zeit, etwa im <date when="1906-06">Juni</date>
-                    <pb facs="#fK 5-018" n="20"/>es über die Militärcredite im
-                        <orgName>Abg.Haus</orgName> zur Abstimmung kommen werde u. dass es
-                    warscheinlich von der Haltung der Polen u. des <index>
+                    <pb facs="#fK 5-018" n="20"/>es über die Militärcredite im <orgName
+                        key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
+                        >Abg.Haus</orgName> zur Abstimmung kommen werde u. dass es warscheinlich von
+                    der Haltung der Polen u. des <index>
                         <term key="Parteien/Großgrundbesitz (beide Parteien)"
                             >Grossgrundbesitzes</term>
                     </index> abhängen werde, ob <persName key="GautschPaul"
@@ -1261,11 +1268,12 @@
                         key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
                         >Kaiser</persName>) von der <index>
                         <term key="Wahlrechtsreform">Wahlreform</term>
-                    </index> abgekommen sei – es müsse daher im <orgName>Parlamente</orgName>
-                    stecken bleiben und erst bis es dort eben nicht mehr weitergeht, müsse <pb
-                        facs="#fK 5-042" n="40b"/>der <persName key="KaiserFranzJosef"
-                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> (quasi deshalb) neue
-                    ganz andere Reformvorschläge acceptiren – der <persName key="KaiserFranzJosef"
+                    </index> abgekommen sei – es müsse daher im <orgName key="Reichsrat"
+                        ref="https://d-nb.info/gnd/35882-4">Parlamente</orgName> stecken bleiben und
+                    erst bis es dort eben nicht mehr weitergeht, müsse <pb facs="#fK 5-042" n="40b"
+                    />der <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                        >Kaiser</persName> (quasi deshalb) neue ganz andere Reformvorschläge
+                    acceptiren – der <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName>
                     <hi rendition="xxxx">hat auch keiner Silbe</hi> widersprochen und qui tacet
                     consentire videtur. <persName key="CoudenhoveKarl"
@@ -1334,10 +1342,12 @@
                         ref="https://d-nb.info/gnd/137601816">Hohenlohe’schen</persName>
                     Compromissvorschlages. Die Regierung kann bezüglich der 2/3 Mehrheit keine
                     Stellung nehmen, aber die Czechen werden sich überstimmen lassen. Der Ausschuss
-                    muss Mitte Juli fertig sein u. die Sache kommt dann gleich ins
-                        <orgName>Haus</orgName>, welches eventuell bis in den August zu tagen hätte.
-                    Das <orgName>Haus</orgName> auf Grund des neuen Wahlrechts wird anfangs nicht
-                    arbeitsfähig sein u. es wird der <index>
+                    muss Mitte Juli fertig sein u. die Sache kommt dann gleich ins <orgName
+                        key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9">Haus</orgName>,
+                    welches eventuell bis in den August zu tagen hätte. Das <orgName
+                        key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9">Haus</orgName>
+                    auf Grund des neuen Wahlrechts wird anfangs nicht arbeitsfähig sein u. es wird
+                    der <index>
                         <term key="Paragraph 14, kaiserliches Notverordnungsrecht">§ 14</term>
                     </index> angewendet werden müssen. Erst nach und nach werden sich die Dinge
                     bessern, das Haus wird einsehen, dass es sich eine Geschäftsordnung geben muss
@@ -1713,7 +1723,8 @@
                     </app> Kompromiss beantragt werden. Unter diesen zwei Voraussetzungen ist die
                     Aktion nicht aussichtslos, denn so siegesgewiss sind Regierung und Parteien
                     nicht, als dass sie nicht einem solchen Convenio, dem <pb facs="#fK 5-034"
-                        n="36"/>natürlich auch das <orgName>Herrenhaus</orgName> beistimmen und an
+                        n="36"/>natürlich auch das <orgName key="Herrenhaus"
+                        ref="https://d-nb.info/gnd/41999-0">Herrenhaus</orgName> beistimmen und an
                     dem es unbedingt festzuhalten erklären müsste – eine gewisse Geneigtheit
                     entgegenbringen würden.</p>
                 <p>Es würden sich demnach folgende Eventualitäten ergeben: Kommt das Pluralwahlrecht
@@ -1726,14 +1737,17 @@
                         <term key="Parteien/Alldeutsche">Alldeutschen</term>
                     </index> und <index>
                         <term key="Parteien/Deutschradikale">Radikalen</term>
-                    </index> im Plenum des <orgName>Abgeordnetenhauses</orgName> Gewehr bei Fuß.
-                    Kommt das Pluralwahlrecht trotz unserer loyalen Erklärungen im Abgeordnetenhaus
-                    nicht zu Stande, dann <anchor/>hat das <orgName>Herrenhaus</orgName> eine
-                    wirksame Handhabe und kann, wenn auch dort die beiden von mir oben bezeichneten
-                    Voraussetzungen Richtschnur bleiben, eine Abänderung der Vorlage beschließen.
-                    Auf diese Weise könnte der von mir befürwortete Convenio bei der zweiten
-                    Beratung im <orgName>Abgeordnetenhaus</orgName> zum Abschluss gelangen.<app
-                        from="xxxx">
+                    </index> im Plenum des <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhauses</orgName> Gewehr bei
+                    Fuß. Kommt das Pluralwahlrecht trotz unserer loyalen Erklärungen im
+                    Abgeordnetenhaus nicht zu Stande, dann <anchor/>hat das <orgName
+                        key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0">Herrenhaus</orgName>
+                    eine wirksame Handhabe und kann, wenn auch dort die beiden von mir oben
+                    bezeichneten Voraussetzungen Richtschnur bleiben, eine Abänderung der Vorlage
+                    beschließen. Auf diese Weise könnte der von mir befürwortete Convenio bei der
+                    zweiten Beratung im <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhaus</orgName> zum Abschluss
+                        gelangen.<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">steht die Sache so, dass das Herrenhaus die Aktion
                             für das Pluralwahlrecht aufnehmen müsste.</rdg>
                     </app> Dieser Plan setzt allerdings eine sehr ruhige politische Beurteilung der
@@ -1751,10 +1765,10 @@
                     Vertretern der andern verfassungstreuen Grundbesitzer schuldig, dass wir
                     zunächst in einer <index>
                         <term key="Parteien/Obmännerkonferenz">Obmännerkonferenz</term>
-                    </index> des ganzen <index>v<term
-                            key="Parteien/Verfassungstreuer Großgrundbesitz">erfassungstreuen
-                            Großgrundbesitzes</term></index> unsere Ansicht sagen. Wir müssen sie
-                    auch dem <index>
+                    </index> des ganzen <index>
+                        <term key="Parteien/Verfassungstreuer Großgrundbesitz">verfassungstreuen
+                            Großgrundbesitzes</term>
+                    </index> unsere Ansicht sagen. Wir müssen sie auch dem <index>
                         <term key="Parteien/Konservativer Großgrundbesitz">konservativen
                             Großgrundbesitz</term>
                     </index> mitteilen sowie jenen deutschen Abgeordneten (<persName
@@ -1785,12 +1799,14 @@
                     u.s.f. fürten immer noch das grosse Wort u. schmiedeten Pläne. Meine Aktion zu
                     Gunsten eines <index>
                         <term ke="Wahlrechtsreform/Pluralwahlrecht">Pluralrechtes</term>
-                    </index> scheiterte. Erzielte im <orgName>Abgeordnetenhause</orgName> durch den
+                    </index> scheiterte. Erzielte im <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhause</orgName> durch den
                     Antrag <persName key="TollingerJohann" ref="https://d-nb.info/gnd/1081488964"
                         >Tollinger</persName> nur die Bedeutung einer Demonstration.<note>Über die
                         Abstimmung über den Antrag Tollinger siehe: Stenographische Protokolle des
                         Abgeordnetenhauses. 455 Sitzung der XVII. Session am 21. November 1906, S.
-                        40179.</note> Dann auch das <orgName>Herrenhaus</orgName>, das ihn aufnehmen
+                        40179.</note> Dann auch das <orgName key="Herrenhaus"
+                        ref="https://d-nb.info/gnd/41999-0">Herrenhaus</orgName>, das ihn aufnehmen
                     sollte, versagte natürlich. <anchor/>Dort wurde die Opposition gegen die
                     Wahlreform ganz kopflos geführt<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Die Opposition gegen die Wahlreform wurde ganz
@@ -1799,10 +1815,11 @@
                         <rdg wit="#Bae_MF_6-2"/>
                     </app> Führung überhaupt reden kann. Auch in der <index>
                         <term key="Parteien/Verfassungspartei">Verfassungspartei</term>
-                    </index> des <orgName>Herrenhauses</orgName> war die Majorität anfangs gegen die
-                    Wahlreform. Die Wahlen in die betreffende Kommission fielen in diesem Sinne aus.
-                    Die Herren triumphierten und – fuhren auf die Jagd. Aber doch nicht alle.
-                        <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907"
+                    </index> des <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0"
+                        >Herrenhauses</orgName> war die Majorität anfangs gegen die Wahlreform. Die
+                    Wahlen in die betreffende Kommission fielen in diesem Sinne aus. Die Herren
+                    triumphierten und – fuhren auf die Jagd. Aber doch nicht alle. <persName
+                        key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907"
                         >Chlumecký</persName> blieb<anchor/>, und sein treuer Kutscher <persName
                         key="Georg">Georg</persName> (der sich um die Wahlreform die größten
                     Verdienste erwarb, ohne einen Orden zu bekommen!) fuhr ihn <app from="xxxx">
@@ -1811,8 +1828,9 @@
                     </app>von Haus zu Haus zur Bekehrung der Widerspenstigen. Die Folge war der
                     Umfall der Majorität der <index>
                         <term key="Parteien/Verfassungspartei">Verfassungspartei</term>
-                    </index> und das Großkreuz des Stefansordens. Das nennt man im
-                        <orgName>Herrenhaus</orgName> Politik.</p>
+                    </index> und das Großkreuz des Stefansordens. Das nennt man im <orgName
+                        key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0">Herrenhaus</orgName>
+                    Politik.</p>
                 <!-- CA: auch hier unklar, wo die entsprechende Stelle ist, bzw. muss man irgendwie klar machen, dass dieser Teil fehlt. mit leerem rdg? -->
                 <p><anchor/>Immer klarer wird heute allerdings der Zusammenhang<pb facs="#fK 5-037"
                         n="39"/>der Dinge bezüglich der Wahlreform. Insbesondere das Verhalten des
@@ -1845,11 +1863,11 @@
                         <rdg wit="#Bae_MF_6-2">, auf ein praktisches parlamentarisches Ziel</rdg>
                     </app> zu verzichten, hinter dem § 14 zu sitzen, nichts zu tun und den Dingen
                     ihren Lauf zu lassen. Diese Haltung empfahl <persName key="StürgkhKarl"
-                        ref="https://d-nb.info/gnd/117677957">Stürgkh</persName> in der
-                        „<orgName>Montagspresse</orgName>“<note>Die „Montagspresse“ erschien von
-                        1898 bis 1905 und diente dem Klub des Verfassungstreuen Großgrundbesitzes
-                        als publizistisches Organ.</note>in einer langen Reihe blödsinniger Artikel
-                    unermüdlich bis zum Sturze <persName key="KoerberErnest"
+                        ref="https://d-nb.info/gnd/117677957">Stürgkh</persName> in der „<orgName
+                        key="Montagspresse">Montagspresse</orgName>“<note>Die „Montagspresse“
+                        erschien von 1898 bis 1905 und diente dem Klub des Verfassungstreuen
+                        Großgrundbesitzes als publizistisches Organ.</note>in einer langen Reihe
+                    blödsinniger Artikel unermüdlich bis zum Sturze <persName key="KoerberErnest"
                         ref="https://d-nb.info/gnd/118713434">Körbers</persName>. Ich kann mir
                     denken, dass <anchor/>sich im Geiste des <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaisers</persName> eine Wandlung
@@ -1941,10 +1959,12 @@
                             ref="https://d-nb.info/gnd/118535013">Kaiser</persName> seine Gedanken
                         tief eingeprägt haben</hi>. <anchor/>Der Plan scheiterte damals aus zwei
                     Gründen. <hi rend="ul">Erstens</hi> rafften sich die bürgerlichen Parteien,
-                    damals noch im <orgName>Hause</orgName> gut organisiert und unter anerkannten
-                    Führern, auf, schlossen sich zusammen und stürzten <persName key="TaaffeEduard"
-                        ref="https://d-nb.info/gnd/118620428">Taaffe</persName> ohne Schwanken und
-                    ohne Pardon. Es wäre ihnen aber nicht so leicht geworden, wenn die <index>
+                    damals noch im <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Hause</orgName> gut organisiert und
+                    unter anerkannten Führern, auf, schlossen sich zusammen und stürzten <persName
+                        key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428">Taaffe</persName>
+                    ohne Schwanken und ohne Pardon. Es wäre ihnen aber nicht so leicht geworden,
+                    wenn die <index>
                         <term key="Arbeiter">arbeitende Klasse</term>
                     </index> und ihre Organe nicht <hi rend="ul">auch Gegner der damaligen
                         Wahlreform gewesen</hi> wären, und zwar wegen Belassung des <index>
@@ -2003,9 +2023,10 @@
                         ref="https://www.geonames.org/2782113/republic-of-austria.html"
                         >Österreich</placeName> glückte er. Ob es den <index>
                         <term key="Bürgertum">bürgerlichen Klassen</term>
-                    </index> im österreichischen <orgName>Parlament</orgName> möglich gewesen wäre,
-                    die Sache abzuwenden, ist schwer zu sagen. Der Druck kam diesmal nicht nur von
-                    oben, sondern viel intensiver noch von unten, <anchor/>ja<app from="xxxx">
+                    </index> im österreichischen <orgName key="Reichsrat"
+                        ref="https://d-nb.info/gnd/35882-4">Parlament</orgName> möglich gewesen
+                    wäre, die Sache abzuwenden, ist schwer zu sagen. Der Druck kam diesmal nicht nur
+                    von oben, sondern viel intensiver noch von unten, <anchor/>ja<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">und</rdg>
                     </app> der untere Druck wurde von oben, <anchor/>wenigstens<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">d.h.</rdg>
@@ -2021,9 +2042,10 @@
                         ref="https://d-nb.info/gnd/127064842">Silva Tarouca</persName> andeutete
                         –<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2"/>
-                    </app> aber dazu war das <orgName>Haus</orgName> zu zerrissen, kein anerkannter
-                    Führer und zu viele Ehrgeizige, die um jeden Preis, mit welcher Wahlordnung
-                    immer, in die Höhe kommen wollten.<anchor/><app from="xxxx">
+                    </app> aber dazu war das <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Haus</orgName> zu zerrissen, kein
+                    anerkannter Führer und zu viele Ehrgeizige, die um jeden Preis, mit welcher
+                    Wahlordnung immer, in die Höhe kommen wollten.<anchor/><app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Zu alle dem trat aber in jenen Tagen noch ein
                             Ereignis ein, das auf den Kaiser offenbar einen tiefen Eindruck machte —
                             die russische Revolution. Deutliche Anzeichen waren vorhanden, daß sie
