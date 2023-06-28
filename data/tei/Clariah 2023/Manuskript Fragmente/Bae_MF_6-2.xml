@@ -104,9 +104,10 @@
                     gemacht.</p>
                 <p><persName key="SteinbachEmil" ref="https://d-nb.info/gnd/129263958"
                         >Steinbach</persName> hat mir – und zwar seit jeher, auch in seinen jungen
-                    Jahren als wir neben einander im Justizministerium arbeiteten – oft seine
-                    Ansichten auseinandergesetzt. Er war im Grunde ein guter Mensch, aber haßte den
-                    Besitz, sofern er ihm nicht durch <index>
+                    Jahren als wir neben einander im <orgName key="Justizministerium"
+                        ref="https://d-nb.info/gnd/39547-X">Justizministerium</orgName> arbeiteten –
+                    oft seine Ansichten auseinandergesetzt. Er war im Grunde ein guter Mensch, aber
+                    haßte den Besitz, sofern er ihm nicht durch <index>
                         <term key="Aristokratie">Adel</term>
                     </index> oder Erbgesessenheit imponierte. Die besitzende, gebildete oft genug
                     halbgebildete <index>
@@ -305,12 +306,12 @@
                         >Prager</placeName>
                     <orgName key="Bohemia" ref="https://d-nb.info/014500817">Bohemia</orgName>
                     erscheinen ließ. Ausser<pb facs="#F_K-11_Bae_MF_6-2_007" n="6"/>dem arbeitete
-                    ich einen vollständigen Gesetzentwurf aus. In der <index>
-                        <term key="Parteien/Vereinigte Deutsche Linke">Vereinigten Linken</term>
-                    </index> wurde mir das natürlich sehr verübelt, und mein Antrag, den ich im
-                        <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
-                        >Hause</orgName> einbringen wollte, wurde von der Partei verworfen. Kurze
-                    Zeit darauf brachte <persName key="TaaffeEduard"
+                    ich einen vollständigen Gesetzentwurf aus. In der <orgName
+                        key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679"
+                        >Vereinigten Linken</orgName> wurde mir das natürlich sehr verübelt, und
+                    mein Antrag, den ich im <orgName key="Abgeordnetenhaus"
+                        ref="https://d-nb.info/gnd/41998-9">Hause</orgName> einbringen wollte, wurde
+                    von der Partei verworfen. Kurze Zeit darauf brachte <persName key="TaaffeEduard"
                         ref="https://d-nb.info/gnd/118620428">Taaffe</persName> die Wahlreform im
                         <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
                         >Hause</orgName> ein: Das allgemeine Wahlrecht mit Belassung der Kurie des
@@ -371,19 +372,18 @@
                         ref="https://d-nb.info/gnd/143865420">Bacquehem</persName> erzählte mir
                     später, daß er als mehrjähriger Handelsminister unter <persName
                         key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428">Taaffe</persName>
-                    nicht geneigt gewesen war, in dem Koalitionskabinett das Ministerium des Innern
-                    zu übernehmen, der <persName key="KaiserFranzJosef"
+                    nicht geneigt gewesen war, in dem Koalitionskabinett das <orgName
+                        key="MinisteriumdesInnern" ref="https://d-nb.info/gnd/260143-6">Ministerium
+                        des Innern</orgName> zu übernehmen, der <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName> ihn aber dazu bewog
                     mit der Begründung: es wird ohnehin nicht lang dauern. So ist es erklärlich, daß
-                    der <index>
-                        <term key="Wahlrechtsreform/Wahlreformausschuss">Wahlreformausschuss</term>
-                    </index> zwar unzählige Sitzungen abhielt, Subkomitees einsetzte und die
-                    verschiedensten Anträge beriet, aber zu keinem Ergebnis kam. In einer
-                    eingehenden Besprechung mit <persName key="WindischgraetzAlfred"
-                        ref="https://d-nb.info/gnd/1019805544">Windischgrätz</persName>, der den
-                    besten Willen hatte, bat ich ihn wenigstens meinen Antrag vom <orgName
-                        key="Reichsrat" ref="https://d-nb.info/gnd/35882-4">Parlament</orgName>
-                    annehmen und die <index>
+                    der <orgName key="Wahlreformausschuss">Wahlreformausschuss</orgName> zwar
+                    unzählige Sitzungen abhielt, Subkomitees einsetzte und die verschiedensten
+                    Anträge beriet, aber zu keinem Ergebnis kam. In einer eingehenden Besprechung
+                    mit <persName key="WindischgraetzAlfred" ref="https://d-nb.info/gnd/1019805544"
+                        >Windischgrätz</persName>, der den besten Willen hatte, bat ich ihn
+                    wenigstens meinen Antrag vom <orgName key="Reichsrat"
+                        ref="https://d-nb.info/gnd/35882-4">Parlament</orgName> annehmen und die <index>
                         <term key="Wahlrechtsreform/Arbeiterkurie">Arbeitervertreter</term>
                     </index> sobald als möglich zu dem bestehenden <orgName
                         key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus">Haus</orgName>
@@ -394,7 +394,7 @@
                     Wahlrechtes sehr <del rendition="#s">lahm</del>
                     <add place="across">lau</add> und <persName key="KuenburgGandolph"
                         ref="https://d-nb.info/gnd/1017823952">Kuenburg</persName> als Obmann des
-                        <orgName key="Wahlrechtsausschuss">Wahlrechtsausschusses</orgName> stand den
+                        <orgName key="Wahlreformausschuss">Wahlrechtsausschusses</orgName> stand den
                     divergierenden, sich bekämpfenden Ansichten machtlos gegenüber. Eine Initiative
                     der Regierung fehlte und es schleppten sich die Verhandlungen im Ausschuss durch
                     die ganze Lebensdauer der Koalitionsregierung ohne Entscheidung.</p>
@@ -426,7 +426,7 @@
                     </index> mit dem <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName> über das
                     Beratungsgesetz zur Zivilprozessordnung sprach, hatte ich den Eindruck, daß er –
-                    der das <orgName key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus"
+                    der das <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
                         >Abgeordnetenhaus</orgName> vor allem vom Standpunkt der Geschäftserledigung
                     betrachtete – seiner Tätigkeit mit Zuversicht entgegensah. Nach dem Umsturz der
                     parlamentarischen Ordnung durch die Sprachenverhältnisse, dann unter <persName
@@ -539,9 +539,9 @@
                     gleiche Wahlrecht auf <placeName key="Oesterreich"
                         ref="https://www.geonames.org/2782113/republic-of-austria.html"
                         >Österreich</placeName> unanwendbar erklärte. Er sprach mitten in einem
-                    großen Tumult, den die <index>
-                        <term key="Parteien/Sozialdemokraten">Sozialisten</term>
-                    </index> mit allen Mitteln des <index>
+                    großen Tumult, den die <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Sozialisten</orgName> mit allen Mitteln
+                    des <index>
                         <term key="Wahlrechtsreform/Wahlrechtsagitation">Terrorismus</term>
                     </index> in Szene setzten. Die Wogen der Wahlrechtsbewegung gingen immer höher.
                     Am <date when="1905-10-06">6. Oktober</date> wurden im <orgName
@@ -632,13 +632,13 @@
                         ref="https://d-nb.info/gnd/130147729">Fejérváry</persName> und die <index>
                         <term key="Russland/Revolution 1905">russischen Zustände</term>
                     </index> drängen die Regierung zu einer Reform. Uebrigens habe das <orgName
-                        key="Reichsrat" ref="https://d-nb.info/gnd/35882-4">Parlament</orgName>
-                    <!-- DC: ungarisches Parlament --> mit einer Majorität von 40 Stimmen sich
-                    ebenfalls für eine Wahlreform erklärt. Würde die Regierung zögern und sich
-                    sträuben, hätte sie keinen Halt an den Parteien des Hau<pb
-                        facs="#F_K-11_Bae_MF_6-2_014" n="13"/>ses, die ganz unverläßlich sind. Bei
-                    der Wahlreform handle es sich um die notwendigen Einschränkungen. Ueber diese
-                    sowie alle Details ist die Regierung noch nicht schlüßig. Er ist gegen das <index>
+                        key="Reichstag" ref="https://d-nb.info/gnd/4194545-1">Parlament</orgName>
+                    mit einer Majorität von 40 Stimmen sich ebenfalls für eine Wahlreform erklärt.
+                    Würde die Regierung zögern und sich sträuben, hätte sie keinen Halt an den
+                    Parteien des Hau<pb facs="#F_K-11_Bae_MF_6-2_014" n="13"/>ses, die ganz
+                    unverläßlich sind. Bei der Wahlreform handle es sich um die notwendigen
+                    Einschränkungen. Ueber diese sowie alle Details ist die Regierung noch nicht
+                    schlüßig. Er ist gegen das <index>
                         <term key="Wahlrechtsreform/Pluralwahlrecht">Pluralitätssystem</term>
                     </index> und hält auch die <index>
                         <term key="Wahlrechtsreform/Proportionalwahlrecht">Proportionalwahlen</term>
@@ -721,9 +721,9 @@
                 <p>Am <date when="1905-11-28">28. November</date> wurde das <orgName key="Reichsrat"
                         ref="https://d-nb.info/gnd/35882-4">Parlament</orgName> unter lärmenden
                     Kundgebungen für das allgemeine Stimmrecht, Umzügen und dem ganzen
-                    Demonstrationsapparat über den die <index>
-                        <term key="Parteien/Sozialdemokratie">Sozialdemokratie</term>
-                    </index> verfügt, eröffnet. Die Rede <persName key="GautschPaul"
+                    Demonstrationsapparat über den die <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Sozialdemokratie</orgName> verfügt,
+                    eröffnet. Die Rede <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName>', mit der er die
                     Wahlreform ankündigte, lautete natürlich ganz anders als die vor acht Wochen
                     gehaltene. Der schöne Satz von dem Zusammenhang der Wahlreform mit der Ordnung
@@ -744,8 +744,9 @@
                     <anchor/>in denen die Regierung mit den verschiedenen Gruppen der Abgeordneten
                     und einzelnen Politikern über die Wahlreform verhandelte und diese von <persName
                         key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305"
-                        >Bylandt</persName> im Ministerium des Innern bearbeitet wurde, <app
-                        from="xxxx">
+                        >Bylandt</persName> im <orgName key="MinisteriumdesInnern"
+                        ref="https://d-nb.info/gnd/260143-6">Ministerium des Innern</orgName>
+                    bearbeitet wurde, <app from="xxxx">
                         <rdg wit="#Bae_TB_8"/>
                     </app>bieten <anchor/> im <orgName key="Abgeordnetenhaus"
                         ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhaus</orgName> ein<app
@@ -764,10 +765,9 @@
                     </app> der Regierung ohne Halt, ohne Ideen, ohne Willen <anchor/>gegenüber
                         stehen<app from="xxxx">
                         <rdg wit="#Bae_TB_8">entgegenstehen</rdg>
-                    </app>, die <index>
-                        <term key="Parteien/Sozialdemokraten">Sozialdemokraten</term>
-                    </index>, die alles an Terrorismus und Einschüchterung leisten, um
-                    <anchor/>einen Preis<app from="xxxx">
+                    </app>, die <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
+                        >Sozialdemokraten</orgName>, die alles an Terrorismus und Einschüchterung
+                    leisten, um <anchor/>einen Preis<app from="xxxx">
                         <rdg wit="#Bae_TB_8">eine Beute</rdg>
                     </app>, der ihnen unerwartet winkt, in Sicherheit zu bringen, eine <index>
                         <term key="Presse">Presse</term>
@@ -892,17 +892,18 @@
                     denn der <index>
                         <term key="Parteien/Viererausschuss der deutschen Parteien">Viererausschuß
                             der deutschen Parteien</term>
-                    </index> (<persName key="GroßGustav" ref="https://d-nb.info/gnd/134055136"
-                        >Gross</persName>, <persName key="DerschattaJulius"
-                        ref="https://d-nb.info/gnd/136192165">Derschatta</persName>, <persName
-                        key="LuegerKarl" ref="https://d-nb.info/gnd/118729578">Lueger</persName> und
-                    ich) bestand und funktionierte noch.<note>Im Viererausschuss der deutschen
-                        Parteien verbanden sich seit Juni 1903 mit Julius von Derschatta, Gustav
-                        Groß, Joseph M. Baernreither und Karl Lueger die führenden Abgeordneten der
-                        Deutschen Fortschrittspartei, der Deutschen Volkspartei, des
-                        Verfassungstreuen Großgrundbesitzes und der Christlichsoziale Partei zu
-                        einem Ausschuss, mit dem Ziel, die deutschen nationalen Interessen gemeinsam
-                        zu vertreten.</note>Aber nicht einmal in diesem Kreis hatte <persName
+                    </index><!-- CA: das auch als OrgName? --> (<persName key="GroßGustav"
+                        ref="https://d-nb.info/gnd/134055136">Gross</persName>, <persName
+                        key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
+                        >Derschatta</persName>, <persName key="LuegerKarl"
+                        ref="https://d-nb.info/gnd/118729578">Lueger</persName> und ich) bestand und
+                    funktionierte noch.<note>Im Viererausschuss der deutschen Parteien verbanden
+                        sich seit Juni 1903 mit Julius von Derschatta, Gustav Groß, Joseph M.
+                        Baernreither und Karl Lueger die führenden Abgeordneten der Deutschen
+                        Fortschrittspartei, der Deutschen Volkspartei, des Verfassungstreuen
+                        Großgrundbesitzes und der Christlichsoziale Partei zu einem Ausschuss, mit
+                        dem Ziel, die deutschen nationalen Interessen gemeinsam zu
+                    vertreten.</note>Aber nicht einmal in diesem Kreis hatte <persName
                         key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
                         >Derschatta</persName> Farbe bekannt. Diese ganzen Winkelzüge sind aber viel
                     zu kleinlich, als daß ich sie wieder erzählen will. Die ganzen Verhandlungen der
@@ -1038,14 +1039,13 @@
                     Die einzigen, die eigentlich ins Feuer gingen, waren wir und die konservativen <index>
                         <term key="Parteien/Großgrundbesitz (beide Parteien)"
                             >Großgrundbesitzer</term>
-                    </index>, daher entlud sich der ganze Zorn der <index>
-                        <term key="Parteien/Sozialdemokraten">Sozialdemokraten</term>
-                    </index>
+                    </index>, daher entlud sich der ganze Zorn der <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Sozialdemokraten</orgName>
                     <anchor/><app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">u. der Regierung</rdg>
-                    </app>auf uns. Wir wurden in den Blättern der <anchor/><index>
-                        <term key="Parteien/Sozialdemokraten">Sozialdemokraten</term>
-                    </index><app from="xxxx">
+                    </app>auf uns. Wir wurden in den Blättern der <anchor/><orgName
+                        key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
+                        >Sozialdemokraten</orgName><app from="xxxx">
                         <rdg wit="#Bae_TB_8">Socialdemokratie</rdg>
                     </app> auf das unflätigste angegriffen und beschimpft.<anchor/><app from="xxxx">
                         <rdg wit="#Bae_TB_8">Die Regierung anschwärzte uns „oben“ u. das Pressbureau
@@ -1055,9 +1055,8 @@
                             waren. Nur mir gegenüber blieben sie natürlich ihrem jargon treu.</rdg>
                     </app></p>
                 <p>Nach <anchor/>der ersten Lesung des Wahlreformentwurfes kam ein
-                    Dringlichkeitsantrag des <index>
-                        <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                    </index>
+                    Dringlichkeitsantrag des <orgName key="SchoenererAlldeutsche"
+                        ref="https://d-nb.info/gnd/3039149-0">Alldeutschen</orgName>
                     <persName key="SteinFranko" ref="https://d-nb.info/gnd/129277169">Franko
                         Stein</persName> auf Sonderstellung <placeName key="Galizien"
                         ref="https://www.geonames.org/562153/galicia.html">Galiziens</placeName> zur
@@ -1090,10 +1089,10 @@
                         >Abgeordnetenhaus</orgName> gehabt hat, die Abstimmung wegen der
                     Sonderstellung <placeName key="Galizien"
                         ref="https://www.geonames.org/562153/galicia.html">Galiziens</placeName>.“
-                    <anchor/>Als ich einwendete, daß diese Abstimmung keine Gemeinschaft mit den <index>
-                        <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                    </index> bedeute und daß wir mit ihren Zielen und Wünschen nichts gemein
-                        haben<app from="xxxx">
+                    <anchor/>Als ich einwendete, daß diese Abstimmung keine Gemeinschaft mit den
+                        <orgName key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0"
+                        >Alldeutschen</orgName> bedeute und daß wir mit ihren Zielen und Wünschen
+                    nichts gemein haben<app from="xxxx">
                         <rdg wit="#Bae_TB_8">Die Abstimmung bedeutet keine Gemeinschaft mit den
                             Alldeutschen, wir haben mit ihren Zielen u. Wünschen nichts gemein
                             –</rdg>
@@ -1102,14 +1101,14 @@
                         <rdg wit="#Bae_TB_8">(unterbrechend)</rdg>
                     </app> „Ja, das weiß ich, aber gerade nach diesen Reden, die gehalten wurden,
                     das waren ja geradezu hochverräterische Reden, nach solchen Reden stimmt man
-                    doch nicht mit den <index>
-                        <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                    </index>.“ <anchor/>Als ich dann ausführlicher die Folgen des allgemeinen
-                    Stimmrechts auf den Parlamentarismus und die Führung der Staatsgeschäfte in
-                        <placeName key="Oesterreich">Oesterreich</placeName> nach meiner
-                    Ueberzeugung auseinandersetzte, unterbrach mich der <persName
-                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
-                        >Kaiser</persName> abermals:<app from="xxxx">
+                    doch nicht mit den <orgName key="SchoenererAlldeutsche"
+                        ref="https://d-nb.info/gnd/3039149-0">Alldeutschen</orgName> .“ <anchor/>Als
+                    ich dann ausführlicher die Folgen des allgemeinen Stimmrechts auf den
+                    Parlamentarismus und die Führung der Staatsgeschäfte in <placeName
+                        key="Oesterreich">Oesterreich</placeName> nach meiner Ueberzeugung
+                    auseinandersetzte, unterbrach mich der <persName key="KaiserFranzJosef"
+                        ref="https://d-nb.info/gnd/118535013">Kaiser</persName> abermals:<app
+                        from="xxxx">
                         <rdg wit="#Bae_TB_8">Wir sind in diese Situation durch die Regierung
                             gedrängt worden u. stehen in einem unbedingten Gegensatz zur Regierung.
                             Wir sind der festen Ueberzeugung, dass die Politik der Regierung zum
@@ -1415,7 +1414,7 @@
                         ref="https://d-nb.info/gnd/137078080">Gautsch'</persName></head>
                 <p><anchor/>Die Wiederbetrauung <persName key="FejervaryGeza"
                         ref="https://d-nb.info/gnd/130147729">Fejérvárys</persName> mit der Führung
-                    der Geschäfte, die Auflösung des <orgName key="UngarReichstag"
+                    der Geschäfte, die Auflösung des <orgName key="Reichstag"
                         ref="https://d-nb.info/gnd/4194545-1">ungarischen
                         Abgeordnetenhauses</orgName>, endlich der bekannte <date when="1906-02-19"
                         >19. Februar 1906</date>, als Oberst <persName key="FabriciusViktor"
@@ -1535,12 +1534,12 @@
                             u.s.w.</rdg>
                     </app> der militärischen Frage die Deutung <anchor/>zulasse<app from="xxxx">
                         <rdg wit="#Bae_TB_8">zulässt</rdg>
-                    </app>, daß er überhaupt nachgeben werde.<!-- CA: bis hie den Textvergleich. --> Das sei eine Zweideutigkeit, der er
-                    sich nicht schuldig machen wolle. Nun hat er sich aber doch für <persName
-                        key="WekerleSandor" ref="https://d-nb.info/gnd/119128691">Wekerle</persName>
-                    entschieden. <persName key="CzerninOttokar"
-                        ref="https://d-nb.info/gnd/118677659">Ottokar Czernin</persName> traf
-                    neulich in <placeName key="Wien"
+                    </app>, daß er überhaupt nachgeben werde.<!-- CA: bis hie den Textvergleich. -->
+                    Das sei eine Zweideutigkeit, der er sich nicht schuldig machen wolle. Nun hat er
+                    sich aber doch für <persName key="WekerleSandor"
+                        ref="https://d-nb.info/gnd/119128691">Wekerle</persName> entschieden.
+                        <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659">Ottokar
+                        Czernin</persName> traf neulich in <placeName key="Wien"
                         ref="https://www.geonames.org/2761367/wien.html">Wien</placeName>, gerade
                     als die Sache gekocht wurde, <persName key="AndrassyGyula"
                         ref="https://d-nb.info/gnd/118502875">Andrássy</persName> und frug ihn,
@@ -1610,9 +1609,9 @@
                         ref="https://www.geonames.org/2782113/republic-of-austria.html"
                         >Österreich</placeName> nicht gekommen. Praktische Arbeit leistete er
                     insbesondere mit Hilfe <persName key="MarchetGustav"
-                        ref="https://d-nb.info/gnd/129095648">Marchets</persName>, der ihm im <index>
-                        <term key="Wahlrechtsreform/Wahlreformausschuss">Wahlreformausschuss</term>
-                    </index> treue Dienste leistete, wo <persName key="HohenloheKonrad"
+                        ref="https://d-nb.info/gnd/129095648">Marchets</persName>, der ihm im
+                        <orgName key="Wahlreformausschuss">Wahlreformausschuss</orgName> treue
+                    Dienste leistete, wo <persName key="HohenloheKonrad"
                         ref="https://d-nb.info/gnd/137601816">Hohenlohes</persName> den Deutschen
                     günstiger Kompromißvorschlag in Sachen der deutschen <index>
                         <term key="Wahlrechtsreform/nationale Mandatszahl">Mandatszahl</term>
@@ -1759,18 +1758,17 @@
                 <p>Der Hintergrund für die<pb facs="#F_K-11_Bae_MF_6-2_031" n="30"/>folgenden
                     Parlamentsverhandlungen bildete der <index>
                         <term key="Wahlrechtsreform/Wahlrechtsagitation">Terrorismus</term>
-                    </index>, den die <index>
-                        <term key="Parteien/Sozialdemokraten">Sozialisten</term>
-                    </index> im <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
-                        >Parlament</orgName>, in Versammlungen und in ihrer <index>
-                        <term key="Presse/Arbeiterzeitung">Presse</term>
-                    </index> übten. Die Regierung ließ ihnen ungehemmt die Zügel schießen. In den
-                    letzten Tagen <persName key="HohenloheKonrad"
-                        ref="https://d-nb.info/gnd/137601816">Hohenlohes</persName> hielt <persName
-                        key="DaszynskiIgnacy" ref="https://d-nb.info/gnd/118934481"
-                        >Daszyński</persName> in <placeName key="Lemberg"
-                        ref="https://www.geonames.org/702550/lviv.html">Lemberg</placeName> eine
-                    Rede, die in der <orgName key="Arbeiterzeitung"
+                    </index>, den die <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Sozialisten</orgName> im <orgName
+                        key="Reichsrat" ref="https://d-nb.info/gnd/35882-4">Parlament</orgName>, in
+                    Versammlungen und in ihrer <orgName key="Arbeiterzeitung"
+                        ref="https://d-nb.info/gnd/1086227697">Presse</orgName> übten. Die Regierung
+                    ließ ihnen ungehemmt die Zügel schießen. In den letzten Tagen <persName
+                        key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816"
+                        >Hohenlohes</persName> hielt <persName key="DaszynskiIgnacy"
+                        ref="https://d-nb.info/gnd/118934481">Daszyński</persName> in <placeName
+                        key="Lemberg" ref="https://www.geonames.org/702550/lviv.html"
+                        >Lemberg</placeName> eine Rede, die in der <orgName key="Arbeiterzeitung"
                         ref="https://d-nb.info/gnd/1086227697">Arbeiterzeitung</orgName> am <date
                         when="1906-06-01">1. Juni 1906</date> glatt abgedruckt wurde.<note>Arbeiter
                         Zeitung vom 1.6.1906, S.
@@ -1795,10 +1793,9 @@
                     totgeschlagen werden. Wir gehen vorwärts zu unserem Ziele, wir gehen vorwärts
                     und erfüllen das, was Volk und Nation mit der revolutionären Moral für vereinbar
                     halten (stürmischer, langanhaltender Beifall).“</p>
-                <p>Im <index>
-                        <term key="Wahlrechtsreform/Wahlreformausschuss">Wahlreformausschuss</term>
-                    </index> entstand nun ein bis in den <date when="1906-10">Oktober</date>
-                    dauernder Kampf um die Details der Wahlreform, insbesondere der <index>
+                <p>Im <orgName key="Wahlreformausschuss">Wahlreformausschuss</orgName> entstand nun
+                    ein bis in den <date when="1906-10">Oktober</date> dauernder Kampf um die
+                    Details der Wahlreform, insbesondere der <index>
                         <term key="Wahlreform/Wahlkreiseinteilung">Wahlkreiseinteilung</term>
                     </index>.<note>Zu den 62 Sitzungen des Wahlreformausschusses siehe: Zu 2727 der
                         Beilagen zu den stenographischen Protokollen des Abgeordnetenhauses – XVIII.
@@ -1873,10 +1870,9 @@
                     einen gegen den anderen auszuspielen, die Abgeordneten durch die Konstruktion
                     ihrer <del rendition="#s">Mandate</del>
                     <add place="across">Wahlbezirke</add> persönlich zu gewinnen, den unerhörten
-                    Druck der <index>
-                        <term key="Parteien/Sozialdemokraten">Sozialdemokratie</term>
-                    </index> zuzulassen und die Krone selbst in kritischen Momenten
-                    einzuspannen.</p>
+                    Druck der <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
+                        >Sozialdemokratie</orgName> zuzulassen und die Krone selbst in kritischen
+                    Momenten einzuspannen.</p>
                 <p>Die Feinde der Wahlreform unterstützen jeden Abänderungsantrag, weil er die Sache
                     komplizierte, die Anhänger lehnen jeden, auch den vernünftigsten ab, weil sie
                     jede Abänderung als ein Hindernis ansehen. Im ganzen Saal sieht man Abgeordnete
@@ -1901,9 +1897,10 @@
                     damit, daß sie in diesem Falle kein neues Mandat in <placeName key="Istrien"
                         ref="https://www.geonames.org/3337514/istria.html">Istrien</placeName>
                     bekommen, was sie anstreben. <persName key="PradeHeinrich"
-                        ref="https://d-nb.info/gnd/127915672">Prade</persName> erklärt den <index>
-                        <term key="Parteien/Christlichsoziale">Christlich-Sozialen</term>
-                    </index>, die sich auch dem deutschen Mandat von <placeName key="Biala"
+                        ref="https://d-nb.info/gnd/127915672">Prade</persName> erklärt den <orgName
+                        key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1"
+                        >Christlich-Sozialen</orgName> , die sich auch dem deutschen Mandat von
+                        <placeName key="Biala"
                         ref="https://www.geonames.org/3103402/bielsko-biala.html">Biala</placeName>
                     geneigt zeigen, daß ein deutsches Mandat in <placeName key="Biala"
                         ref="https://www.geonames.org/3103402/bielsko-biala.html">Biala</placeName>
@@ -1912,17 +1909,17 @@
                     deutsche Landsmannminister sein zu wollen und stimmen gegen <placeName
                         key="Biala" ref="https://www.geonames.org/3103402/bielsko-biala.html"
                         >Biala</placeName>. Die Deutschen sind leider die Charakterlosesten bei
-                    diesem Geschäfte. Ihre Furcht vor den <index>
-                        <term key="Parteien/Sozialdemokraten">Sozialdemokraten</term>
-                    </index> ist geradezu lächerlich. <persName key="LecherOtto"
-                        ref="https://d-nb.info/gnd/141657472">Lecher</persName>, <persName
-                        key="KienmannEmerich" ref="https://d-nb.info/gnd/1136597980"
-                        >Kienmann</persName>, <persName key="LoeckerJulius"
-                        ref="https://d-nb.info/gnd/137851227">Löcker</persName> besorgen die
-                    Geschäfte der Sozialdemokratie, die ihnen Hilfe im Wahlkampf versprochen haben –
-                    auf wie lange! Auch <persName key="MarchetGustav"
-                        ref="https://d-nb.info/gnd/129095648">Marchet</persName> und <persName
-                        key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
+                    diesem Geschäfte. Ihre Furcht vor den <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Sozialdemokraten</orgName> ist geradezu
+                    lächerlich. <persName key="LecherOtto" ref="https://d-nb.info/gnd/141657472"
+                        >Lecher</persName>, <persName key="KienmannEmerich"
+                        ref="https://d-nb.info/gnd/1136597980">Kienmann</persName>, <persName
+                        key="LoeckerJulius" ref="https://d-nb.info/gnd/137851227">Löcker</persName>
+                    besorgen die Geschäfte der <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Sozialdemokratie</orgName>, die ihnen
+                    Hilfe im Wahlkampf versprochen haben – auf wie lange! Auch <persName
+                        key="MarchetGustav" ref="https://d-nb.info/gnd/129095648">Marchet</persName>
+                    und <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
                         >Derschatta</persName> kommen in den Ausschuß, alles arbeitet gegen die
                     Deutschen in <placeName key="Biala"
                         ref="https://www.geonames.org/3103402/bielsko-biala.html">Biala</placeName>.
@@ -1970,36 +1967,35 @@
                     verzeichnen ist, im Gegenteil, die bürgerlichen Kreise sich damit abfinden, daß
                     sie Gesetz wird. Die von oben und unten veranlasste Einimpfung radikaler Ideen
                     ist gelungen.</p>
-                <p>Was für eine Stellung soll unsere <index>
-                        <term key="Parteien/Verfassungstreuer Großgrundbesitz">Partei</term>
-                    </index> diesen veränderten Verhältnissen gegenüber einnehmen?</p>
+                <p>Was für eine Stellung soll unsere <orgName key="VerfassungstreuerGroßgrundbesitz"
+                        ref="https://d-nb.info/gnd/2120665-X">Partei</orgName> diesen veränderten
+                    Verhältnissen gegenüber einnehmen?</p>
                 <p>Ich gehe bei der Beantwortung dieser Frage davon aus, daß der weitere Widerstand
                     fruchtlos ist, daher modifiziert sich die gestellte Frage dahin: sollen wir den
-                    bisherigen Kampf, Arm in Arm mit den <index>
-                        <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                    </index>, die Politik der Fallstricke und kleinen Mittel fortsetzen oder nicht?
-                    Ich bin dagegen, denn es ist töricht von einer politischen Partei sich in einem
-                    nutzlosen Kampf und durch sehr bedenkliche Allianzen zu verbrauchen. Lassen wir
-                    also geschehen, was wir nicht hindern können und blicken wir in die Zukunft.
-                    Haben wir noch eine Zukunft? Es ist die letzte Stunde um uns eine zu sichern.
-                    Das Ernennungsrecht von so und so viel Abgeordneten wird uns genommen,
-                    keineswegs die Möglichkeit, unseren Einfluß, unsere wirtschaftliche Position,
-                    unsere Verbindungen politisch auszunützen. Die Zeit der geborenen Staatsparteien
-                    ist vorbei. Damit räumt das allgemeine <index>
+                    bisherigen Kampf, Arm in Arm mit den <orgName key="SchoenererAlldeutsche"
+                        ref="https://d-nb.info/gnd/3039149-0">Alldeutschen</orgName> , die Politik
+                    der Fallstricke und kleinen Mittel fortsetzen oder nicht? Ich bin dagegen, denn
+                    es ist töricht von einer politischen Partei sich in einem nutzlosen Kampf und
+                    durch sehr bedenkliche Allianzen zu verbrauchen. Lassen wir also geschehen, was
+                    wir nicht hindern können und blicken wir in die Zukunft. Haben wir noch eine
+                    Zukunft? Es ist die letzte Stunde um uns eine zu sichern. Das Ernennungsrecht
+                    von so und so viel Abgeordneten wird uns genommen, keineswegs die Möglichkeit,
+                    unseren Einfluß, unsere wirtschaftliche Position, unsere Verbindungen politisch
+                    auszunützen. Die Zeit der geborenen Staatsparteien ist vorbei. Damit räumt das
+                    allgemeine <index>
                         <term key="Wahlrechtsreform">Wahlrecht</term>
                     </index> vollkommen auf. Es wird in der Zukunft nur national wirtschaftliche
                     Parteien geben, die parlamentarisch auf ein Ziel zu vereinigen die schwere
                         vielleicht<pb facs="#F_K-11_Bae_MF_6-2_036" n="35"/>unlösbare Aufgabe der
                     Regierung sein wird. Wir müssen daher national und wirtschaftlich werden, d. h.:
-                    uns als deutscher <index>
-                        <term key="Parteien/Verfassungstreuer Großgrundbesitz"
-                            >Großgrundbesitz</term>
-                    </index> erklären und auf Seite der <index>
-                        <term key="Parteien/Agrarier">Agrarier</term>
-                    </index> treten, der wirtschaftlichen Gruppe, die uns am nächsten steht. Damit
-                    tun wir gar nichts anderes, als die Konsequenzen ziehen, die in der Wahlreform
-                    selbst liegen. Wir müssen uns vollkommen klar sein, daß wir, wenn in der <date
-                        when="1906-09">zweiten Hälfte September</date> eine allgemeine <index>
+                    uns als deutscher <orgName key="VerfassungstreuerGroßgrundbesitz"
+                        ref="https://d-nb.info/gnd/2120665-X">Großgrundbesitz</orgName> erklären und
+                    auf Seite der <orgName key="DeutscheAgrarier"
+                        ref="https://d-nb.info/gnd/1041439059">Agrarier</orgName> treten, der
+                    wirtschaftlichen Gruppe, die uns am nächsten steht. Damit tun wir gar nichts
+                    anderes, als die Konsequenzen ziehen, die in der Wahlreform selbst liegen. Wir
+                    müssen uns vollkommen klar sein, daß wir, wenn in der <date when="1906-09"
+                        >zweiten Hälfte September</date> eine allgemeine <index>
                         <term key="Wahlrechtsreform/Wahlkampf">Wählerversammlung</term>
                     </index> abgehalten werden soll, in dieser Frage Farbe bekennen müssen. Das
                     Leitmotiv für diese Versammlung kann nur sein entweder: wir setzen unsern
@@ -2009,14 +2005,14 @@
                     Wischiwaschi nicht ausgefüllt werden kann. Das erste Leitmotiv halte ich für
                     unglücklich, weil es gegen Tatsachen streitet, die wir nicht mehr abwenden
                     können. Das Intonieren des zweiten Leitmotivs hätte die Folgen: daß wir dadurch
-                    der Finalisierung der Wahlreform Vorschub leisten, die Haltung unserer <index>
-                        <term key="Reichsrat/Herrenhaus">Herrenhausmitglieder</term>
-                    </index> präjudizieren, Mißbilligung der Intransigenten auf uns laden. Trotzdem
-                    bin ich dafür, aber nicht um schön zu sterben, sondern um weiter zu leben. Es
-                    handelt sich darum, eine Form zu finden, die unsere Frontveränderung
-                    rechtfertigt, die angedeuteten Folgen eines solchen Schrittes abschwächt, unsere
-                    Stellung für die Zukunft aber vorbereitet. Die Handhabe dazu bietet immer noch
-                    die Frage des <index>
+                    der Finalisierung der Wahlreform Vorschub leisten, die Haltung unserer <orgName
+                        key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0"
+                        >Herrenhausmitglieder</orgName> präjudizieren, Mißbilligung der
+                    Intransigenten auf uns laden. Trotzdem bin ich dafür, aber nicht um schön zu
+                    sterben, sondern um weiter zu leben. Es handelt sich darum, eine Form zu finden,
+                    die unsere Frontveränderung rechtfertigt, die angedeuteten Folgen eines solchen
+                    Schrittes abschwächt, unsere Stellung für die Zukunft aber vorbereitet. Die
+                    Handhabe dazu bietet immer noch die Frage des <index>
                         <term key="Wahlrechtsreform/Pluralwahlrecht">Pluralwahlrechts</term>
                     </index>, die im September gleich zu Beginn der Verhandlungen im Ausschusse
                     auftauchen wird. Ich bin dagegen, das Pluralwahlrecht bloß dazu zu benützen, um
@@ -2034,11 +2030,10 @@
                     entgegenbringen würden.</p>
                 <p>Es würden sich demnach folgende Eventualitäten ergeben: kommt das Pluralwahlrecht
                     auf diese Weise zustande, machen wir keine Schwierigkeiten mehr und stehen bei
-                    den voraussichtlichen wilden Kämpfen der <index>
-                        <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                    </index> und <index>
-                        <term key="Parteien/Deutschradikale">Radikalen</term>
-                    </index> im Plenum des <orgName key="Abgeordnetenhaus"
+                    den voraussichtlichen wilden Kämpfen der <orgName key="SchoenererAlldeutsche"
+                        ref="https://d-nb.info/gnd/3039149-0">Alldeutschen</orgName> und <orgName
+                        key="DeutschradikalePartei" ref="https://d-nb.info/gnd/104140834X"
+                        >Radikalen</orgName> im Plenum des <orgName key="Abgeordnetenhaus"
                         ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhauses</orgName> Gewehr bei
                     Fuß. Kommt das Pluralwahlrecht trotz unsern loyalen Erklärungen im <orgName
                         key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
@@ -2140,10 +2135,10 @@
                     einzige <persName key="DammHans" ref="https://d-nb.info/gnd/1056935251"
                         >Damm</persName> wurde im <placeName key="Saaz"
                         ref="https://www.geonames.org/3061822/zatec.html">Saazer</placeName>
-                    Landbezirk als erklärter <index>
-                        <term key="Parteien/Agrarier">Agrarier</term>
-                    </index> gewählt, ich kam in die Stichwahl, die anderen unterlagen glatt. Bei
-                    allen diesen Wahlbewegungen kam heraus, daß der <index>
+                    Landbezirk als erklärter <orgName key="DeutscheAgrarier"
+                        ref="https://d-nb.info/gnd/1041439059">Agrarier</orgName> gewählt, ich kam
+                    in die Stichwahl, die anderen unterlagen glatt. Bei allen diesen Wahlbewegungen
+                    kam heraus, daß der <index>
                         <term key="Parteien/Großgrundbesitz (beide Parteien)">Großgrundbesitz</term>
                     </index> in der ganzen Zeit keine lebendige, im Volke wurzelnde Richtung
                     vertreten hatte. Wir waren immer gut deutsch, zentralistisch, im großen Ganzen
@@ -2167,12 +2162,11 @@
                     ausgeschlossen, daß wir als Partei mit einem bestimmten Programm in die
                     Wahlbewegung eintreten konnten. In <placeName key="Boehmen"
                         ref="https://www.geonames.org/3078198/cechy.html">Böhmen</placeName> machten
-                    wir den Versuch, uns den <index>
-                        <term key="Parteien/Agrarier">Agrariern</term>
-                    </index> anzuschließen. Die Sache zerschlug sich aber, denn die Agrarier unter
-                    der Führung <persName key="PeschkaFranz" ref="https://d-nb.info/gnd/127901221"
-                        >Peschkas</persName> konnten das altbäuerliche Mißtrauen gegen die großen
-                    Herren und den <index>
+                    wir den Versuch, uns den <orgName key="DeutscheAgrarier"
+                        ref="https://d-nb.info/gnd/1041439059">Agrariern</orgName> anzuschließen.
+                    Die Sache zerschlug sich aber, denn die Agrarier unter der Führung <persName
+                        key="PeschkaFranz" ref="https://d-nb.info/gnd/127901221">Peschkas</persName>
+                    konnten das altbäuerliche Mißtrauen gegen die großen Herren und den <index>
                         <term key="Parteien/Großgrundbesitz (beide Parteien)">Großgrundbesitz</term>
                     </index> im allgemeinen nicht überwinden, auch merkten sie, daß unserer
                     Agrarismus nicht waschecht war. Er ging nämlich nicht bis zur Unvernunft. Ein
@@ -2184,16 +2178,17 @@
                     die Herren nichts wissen, da jede Fraktion unter den Deutschen eifersüchtig auf
                     alle anderen, Jagd nach Mandaten machte. Als ich mit <persName key="WolfKarl"
                         ref="https://d-nb.info/gnd/1013678079">Wolf</persName> einmal darüber
-                    sprach, sagte er mir, ich könne gewählt werden, müsse aber auf das <index>
-                        <term key="Parteien/Deutschradikale">radikale</term>
-                    </index> Programm kandidieren. In <placeName key="Wien"
+                    sprach, sagte er mir, ich könne gewählt werden, müsse aber auf das <orgName
+                        key="DeutschradikalePartei" ref="https://d-nb.info/gnd/104140834X"
+                        >radikale</orgName> Programm kandidieren. In <placeName key="Wien"
                         ref="https://www.geonames.org/2761367/wien.html">Wien</placeName> wurde mir
                     der eine oder andere Bezirk angetragen, aber nur von ausgesprochenen
-                    Minoritäten. Ich hätte in diesen Fällen gegen die <index>
-                        <term key="Parteien/Christlichsoziale">christlich-sozialen</term>
-                    </index> Kandidaten kämpfen und auf das spezifisch Wiener liberale Programm
-                    schwören müssen. Beides passte mir nicht. Man empfahl mir <placeName
-                        key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html"
+                    Minoritäten. Ich hätte in diesen Fällen gegen die <orgName
+                        key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1"
+                        >christlich-sozialen</orgName> Kandidaten kämpfen und auf das spezifisch
+                    Wiener liberale Programm schwören müssen. Beides passte mir nicht. Man empfahl
+                    mir <placeName key="Karlsbad"
+                        ref="https://www.geonames.org/3073803/karlovy-vary.html"
                         >Karlsbad</placeName> und ich hoffte, daß ein Kandidat in einem Weltkurort
                     doch von einem höheren politischen Standpunkt beurteilt würde. Der Bürgermeister
                     kam mir sehr wohlwollend entgegen. In einem Kreise von Stadträten sprach ich von
@@ -2203,24 +2198,23 @@
                         <term key="Parteien/Großgrundbesitz (beide Parteien)"
                             >Großgrundbesitzer</term>
                     </index> aus der Gegend nicht akzeptieren würde. Ich ließ mich aber nicht
-                    verdrießen, mit den <index>
-                        <term key="Parteien/Deutschradikale">Deutschradikalen</term>
-                    </index> Fühlung zu su<pb facs="#F_K-11_Bae_MF_6-2_042" n="41"/>chen, es war
-                    aber nicht zu machen. So entschloß ich mich endlich, es im <placeName
-                        key="Marienbad" ref="https://www.geonames.org/3071024/marianske-lazne.html"
+                    verdrießen, mit den <orgName key="DeutschradikalePartei"
+                        ref="https://d-nb.info/gnd/104140834X">Deutschradikalen</orgName> Fühlung zu
+                        su<pb facs="#F_K-11_Bae_MF_6-2_042" n="41"/>chen, es war aber nicht zu
+                    machen. So entschloß ich mich endlich, es im <placeName key="Marienbad"
+                        ref="https://www.geonames.org/3071024/marianske-lazne.html"
                         >Marienbader</placeName> Landbezirk zu versuchen. Es kandidierten dort: ein
-                    Schönerianischer Bauer, ein <index>
-                        <term key="Parteien/Christlichsoziale">Christlichsozialer</term>
-                    </index>, ein <index>
-                        <term key="Parteien/Sozialdemokraten">Sozialdemokrat</term>
-                    </index> und ein zweiter Bauer, der aber bald zu meinen Gunsten zurücktrat. Ich
-                    kam mit dem Schönerianer, der aber noch während der Wahl zu den <index>
-                        <term key="Parteien/Agrarier">Agrariern</term>
-                    </index> abschwenkte in die Stichwahl, in der ich gegen den agrarischen
-                    Schönerianern unterlag. Im Wahlbezirk gab es, besonders in den kleinen Städten,
-                    noch viele Anhänger der alten <index>
-                        <term key="Parteien/Fortschrittspartei">Fortschrittspartei</term>
-                    </index>, auf die ich rechnen konnte. Der <persName key="HelmerGilbert"
+                    Schönerianischer Bauer, ein <orgName key="ChristlichsozialePartei"
+                        ref="https://d-nb.info/gnd/5199156-1">Christlichsozialer</orgName> , ein
+                        <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
+                        >Sozialdemokrat</orgName> und ein zweiter Bauer, der aber bald zu meinen
+                    Gunsten zurücktrat. Ich kam mit dem Schönerianer, der aber noch während der Wahl
+                    zu den <orgName key="DeutscheAgrarier" ref="https://d-nb.info/gnd/1041439059"
+                        >Agrariern</orgName> abschwenkte in die Stichwahl, in der ich gegen den
+                    agrarischen Schönerianern unterlag. Im Wahlbezirk gab es, besonders in den
+                    kleinen Städten, noch viele Anhänger der alten <orgName key="Fortschrittspartei"
+                        ref="https://d-nb.info/gnd/1041415753">Fortschrittspartei</orgName>, auf die
+                    ich rechnen konnte. Der <persName key="HelmerGilbert"
                         ref="https://d-nb.info/gnd/118548921">Abt von Tepl</persName> sagte mir
                     seine Unterstützung zu und hat sein Versprechen voll gehalten. Ebenso der
                         <persName key="DietlWenzel">Bürgermeister von Marienbad</persName>, der in
@@ -2237,41 +2231,42 @@
                     freilich sich alles vorbehaltend; wo er Vertrauen schenkte, auch verlässlich.
                     Ich lernte bald eine Anzahl solcher Männer kennen, denen meine Kandidatur
                     einleuchtete und die mit Aufopferung ihrer Zeit und Mühe für mich arbeiteten.
-                    Unbedingt gegen mich hatte ich die im Wahlbezirk stark vertretenen <index>
-                        <term key="Parteien/Schönerer-Gruppe">Schönerianer</term>
-                    </index> und in der Hauptwahl [natürlich] die <index>
-                        <term key="Parteien/Sozialdemokraten">Sozialdemokraten</term>
-                    </index>. Daß die letzteren in der Stichwahl den Ausschlag gegen mich gaben und
-                    meinen Gegenkandidaten, einen agrarischen Schönerianer, wählen würden, also
-                    einen Mann, der alles in sich vereinigte, was sie am schärfsten bekämpften,
-                    erklärt sich wieder nur daraus, daß ich ein <index>
+                    Unbedingt gegen mich hatte ich die im Wahlbezirk stark vertretenen <orgName
+                        key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0"
+                        >Schönerianer</orgName> und in der Hauptwahl [natürlich] die <orgName
+                        key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
+                        >Sozialdemokraten</orgName>. Daß die letzteren in der Stichwahl den
+                    Ausschlag gegen mich gaben und meinen Gegenkandidaten, einen agrarischen
+                    Schönerianer, wählen würden, also einen Mann, der alles in sich vereinigte, was
+                    sie am schärfsten bekämpften, erklärt sich wieder nur daraus, daß ich ein <index>
                         <term key="Parteien/Großgrundbesitz (beide Parteien)"
                             >Großgrundbesitzer</term>
                     </index>, ein Privilegierter, gegen das allgemeine Stimmrecht votiert hatte, den
                     zu wählen, trotz der Verbindungen, die ich seit Jahren mit den<pb
-                        facs="#F_K-11_Bae_MF_6-2_043" n="42"/>Sozialdemokraten hatte, sie nicht
-                    übers Herz brachten. Ich fuhr nach <placeName key="Wien"
+                        facs="#F_K-11_Bae_MF_6-2_043" n="42"/><orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Sozialdemokraten</orgName> hatte, sie
+                    nicht übers Herz brachten. Ich fuhr nach <placeName key="Wien"
                         ref="https://www.geonames.org/2761367/wien.html">Wien</placeName> und sprach
                     mit <persName key="PernerstorferEngelbert" ref="https://d-nb.info/gnd/119148331"
                         >Pernerstorfer</persName>, mit dem ich auf dem besten Fuß war, über die
                     Stichwahl. Er war bereit, mir zu helfen, aber die Genossen in meinem Wahlbezirk
                     kümmerten sich um diese Einwirkungen von <placeName key="Wien"
                         ref="https://www.geonames.org/2761367/wien.html">Wien</placeName> nicht im
-                    geringsten. Aber auch die <index>
-                        <term key="Parteien/Christlichsoziale">Christlich-Sozialen</term>
-                    </index> hatte ich nicht alle in der Stichwahl für mich, trotz <persName
-                        key="HelmerGilbert" ref="https://d-nb.info/gnd/118548921">Helmer</persName>
-                    und Tepl, denn <persName key="GessmannAlbert"
-                        ref="https://d-nb.info/gnd/124326250">Gessmann</persName> hatte gegen mich
-                    gearbeitet. Am unanständigsten benahmen sich die <index>
-                        <term key="Parteien/Agrarier">Agrarier</term>
-                    </index>. In der deutschen Sektion des Landeskulturrates war ihr Hauptquartier.
-                    Dort machte man mir Aussichten und stellte in dem Bezirk auch keinen offiziellen
-                    Kandidaten der Agrarpartei auf. Aber ich merkte bald, daß der zu ihnen
-                    abgeschwenkte Schönerianer ihre geheime Unterstützung hatte. Brutal erklärte mir
-                        <persName key="PeschkaFranz" ref="https://d-nb.info/gnd/127901221"
-                        >Peschka</persName>, daß, wenn ich in den Versammlungen mich nicht unbedingt
-                    gegen den österreichisch-ungarischen <index>
+                    geringsten. Aber auch die <orgName key="ChristlichsozialePartei"
+                        ref="https://d-nb.info/gnd/5199156-1">Christlich-Sozialen</orgName> hatte
+                    ich nicht alle in der Stichwahl für mich, trotz <persName key="HelmerGilbert"
+                        ref="https://d-nb.info/gnd/118548921">Helmer</persName> und Tepl, denn
+                        <persName key="GessmannAlbert" ref="https://d-nb.info/gnd/124326250"
+                        >Gessmann</persName> hatte gegen mich gearbeitet. Am unanständigsten
+                    benahmen sich die <orgName key="DeutscheAgrarier"
+                        ref="https://d-nb.info/gnd/1041439059">Agrarier</orgName> . In der deutschen
+                    Sektion des Landeskulturrates war ihr Hauptquartier. Dort machte man mir
+                    Aussichten und stellte in dem Bezirk auch keinen offiziellen Kandidaten der
+                    Agrarpartei auf. Aber ich merkte bald, daß der zu ihnen abgeschwenkte
+                    Schönerianer ihre geheime Unterstützung hatte. Brutal erklärte mir <persName
+                        key="PeschkaFranz" ref="https://d-nb.info/gnd/127901221">Peschka</persName>,
+                    daß, wenn ich in den Versammlungen mich nicht unbedingt gegen den
+                    österreichisch-ungarischen <index>
                         <term key="Österreich-Ungarn/Ausgleich">Ausgleich</term>
                     </index> erkläre, er mich nicht unterstützen könne – derselbe Ehrenmann, der
                     sich sein und seiner Partei Votum für den Ausgleich von <persName
@@ -2381,9 +2376,10 @@
                     erreichte die Befreiung. Auch dieses Dorf war eine feste Burg für mich. Aber ich
                     beging auch Fehler. Ein großes Dorf verlor ich wegen eines ungeschickten
                     Zwiegespräches mit einem dortigen Pfarrer. Dieser interpellierte mich wegen der
-                    damals vielerörterten Frage der sogenannten Volksversicherung. Besonders die <index>
-                        <term key="Parteien/Christlichsoziale">christlich-soziale Partei</term>
-                    </index> hatte dieses Schlagwort ausgegeben und gegen das Verlangen der <index>
+                    damals vielerörterten Frage der sogenannten Volksversicherung. Besonders die
+                        <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1"
+                        >christlich-soziale Partei</orgName> hatte dieses Schlagwort ausgegeben und
+                    gegen das Verlangen der <index>
                         <term key="Arbeiter">Arbeiter</term>
                     </index> nach der <index>
                         <term key="Arbeiter/Versicherung">Alters- und Invalidenversicherung</term>
@@ -2429,22 +2425,21 @@
                     erhalten bliebe. Deswegen hörte ich auch zuweilen, nicht etwa in einem
                     feindlichen, sondern eher in einem wohlwollenden Ton am Wirtstisch: Wozu haben
                     Sie diese Plage nötig! Schließlich gab ich mich aber keiner Illusion hin. Ich
-                    unterlag, weil die Majorität trotz aller meiner Bemühungen dem „<index>
-                        <term key="Parteien/Verfassungstreuer Großgrundbesitz"
-                            >Großgrundbesitzer</term>
-                    </index>“ (mit allem, was für die Menge an diesem Wort klebt) nicht traute. Das
-                    war die Scheidewand, die ich zu durchbrechen nicht imstande war, trotzdem ich
-                    mich immer in der Hand hatte, nie einen Unmut zeigte und Gewohnheiten, die mich
-                    sonst unbeliebt machen, sorgfältig und mit Bewußtsein vermied. Ich hatte immer
-                    Begleiter, die mich<pb facs="#F_K-11_Bae_MF_6-2_048" n="47"/>aufmerksam machten,
-                    wer von den Versammelten anzusprechen sei, was für lokale Interessen ich
-                    beachten müsse, wem ich das oder jenes zu Gehör reden solle u.s.w. Trotzdem
-                    gelang es mir nicht immer, das Eis zu brechen. Im Nachbarbezirk gewann
-                    allerdings Graf <persName key="KolowratLeopold"
+                    unterlag, weil die Majorität trotz aller meiner Bemühungen dem „<orgName
+                        key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X"
+                        >Großgrundbesitzer</orgName>“ (mit allem, was für die Menge an diesem Wort
+                    klebt) nicht traute. Das war die Scheidewand, die ich zu durchbrechen nicht
+                    imstande war, trotzdem ich mich immer in der Hand hatte, nie einen Unmut zeigte
+                    und Gewohnheiten, die mich sonst unbeliebt machen, sorgfältig und mit Bewußtsein
+                    vermied. Ich hatte immer Begleiter, die mich<pb facs="#F_K-11_Bae_MF_6-2_048"
+                        n="47"/>aufmerksam machten, wer von den Versammelten anzusprechen sei, was
+                    für lokale Interessen ich beachten müsse, wem ich das oder jenes zu Gehör reden
+                    solle u.s.w. Trotzdem gelang es mir nicht immer, das Eis zu brechen. Im
+                    Nachbarbezirk gewann allerdings Graf <persName key="KolowratLeopold"
                         ref="https://d-nb.info/gnd/129225088">Kolowrat</persName> das Mandat in der
-                    Stichwahl. Aber er wurde rückhaltlos von den <index>
-                        <term key="Parteien/Agrarier">Agrariern</term>
-                    </index> unterstützt, betrieb eine wohlorganisierte <index>
+                    Stichwahl. Aber er wurde rückhaltlos von den <orgName key="DeutscheAgrarier"
+                        ref="https://d-nb.info/gnd/1041439059">Agrariern</orgName> unterstützt,
+                    betrieb eine wohlorganisierte <index>
                         <term key="Wahlrechtsreform/Wahlkampf">Agitation</term>
                     </index> mit klingenden Argumenten, die ihm Unsummen kostetet, besaß die Kunst,
                     sich mit den Leuten sehr gemütlich zu machen, und log ihnen das Blaue vom Himmel

@@ -109,9 +109,9 @@
                     </app> der Regierung ohne Halt, ohne Ideen u. ohne Willen
                     <anchor/>entgegenstehen <app from="xxxx">
                         <rdg>gegenüber stehen, </rdg>
-                    </app> – die <index>
-                        <term key="Parteien/Sozialdemokraten">Socialdemokraten</term>
-                    </index>, die alles an <index>
+                    </app> – die <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Socialdemokraten</orgName>, die alles
+                    an <index>
                         <term key="Wahlrechtsreform/Wahlrechtsagitation">Terrorismus</term>
                     </index> u. Einschüchterung leisten, um <anchor/>eine Beute <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">einen Preis</rdg>
@@ -310,15 +310,15 @@
                     </del><add place="across">
                         <persName key="ChiariKarl" ref="/d-nb.info/gnd/116504765">Chiari</persName>
                     </add> erwidern: 1) es ist ausgeschlossen, dass durch so einen Eintritt die
-                    deutsche <index>
-                        <term key="Parteien/Deutsche Volkspartei">Volkspartei</term>
-                    </index> gebunden werden kann 2) <persName key="DerschattaJulius"
-                        ref="https://d-nb.info/gnd/136192165">Derschatta</persName> tut allein nicht
-                    mit, es muss ein Deutschböhme dabei sein: <persName key="PradeHeinrich"
-                        ref="https://d-nb.info/gnd/127915672">Prade</persName>. <persName
-                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>
-                    erwidert, er denke nicht daran die Partei dadurch zu binden, bittet aber die
-                    Sache geheim zu halten.</p>
+                    deutsche <orgName key="DeutscheVolkspartei"
+                        ref="https://d-nb.info/gnd/1041438885">Volkspartei</orgName> gebunden werden
+                    kann 2) <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
+                        >Derschatta</persName> tut allein nicht mit, es muss ein Deutschböhme dabei
+                    sein: <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
+                        >Prade</persName>. <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> erwidert, er denke
+                    nicht daran die Partei dadurch zu binden, bittet aber die Sache geheim zu
+                    halten.</p>
                 <p><date when="1906-01-15">Montag den 15.1.</date>Erste Notiz im <orgName
                         key="PragerTagblatt">Prager Tagblatt</orgName> (Abendblatt)!<note>Prager
                         Tagblatt vom 16.1.1906, Abendausgabe S.
@@ -361,7 +361,7 @@
                     eintreten die Pflicht übernehmen die Wahlordnung durchzusetzen. Grundzüge der
                     Wahlreform wurden mitgeteilt u. es haben sich Hindernisse nicht ergeben. Von
                     Seite der Regierung wurde nun der Wunsch geäussert, dass der <orgName
-                        key="BoehmischerLandtag" ref="https://d-nb.info/gnd/5005623-2">böhm.
+                        key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2">böhm.
                         Landtag</orgName> die böhm. Wahlreform und das Curiengesetz erledigen solle,
                     wogegen weder <persName key="PacakBedrich"
                         ref="https://d-nb.info/gnd/1024898318">Pacák</persName> noch <persName
@@ -504,15 +504,16 @@
                 <p>Schließlich wurde <anchor/><app from="xxxx">
                         <rdg wit="#Bae_Mf_6-2">der Gesetzesentwurf betreffend</rdg>
                     </app>die Wahlreform vorgelegt u. die grosse Generaldebatte spielte sich ab. Die
-                    Einzigen, die eigentlich ins Feuer gingen, waren wir und die conservativen <index>
-                        <term key="Parteien/Konservativer Großgrundbesitz">Grossgrundbesitzer</term>
-                    </index> – daher entlud sich die ganze Wut der <index>
-                        <term key="Parteien/Sozialdemokraten">Socialdemokraten</term>
-                    </index><anchor/> u. der Regierung<app from="xxxx">
+                    Einzigen, die eigentlich ins Feuer gingen, waren wir und die conservativen 
+                    <orgName key="KonservativerGroßgrundbesitz">Grossgrundbesitzer</orgName>
+                     – daher entlud sich die ganze Wut der <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Socialdemokraten</orgName><anchor/> u.
+                    der Regierung<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2"/>
-                    </app> auf uns. Wir wurden in den Blättern der <anchor/><index>
-                        <term key="Presse/Arbeiterzeitung">Socialdemokratie</term>
-                    </index><app from="xxxx">
+                    </app> auf uns. Wir wurden in den Blättern der <anchor/>
+                    <orgName key="Arbeiterzeitung" ref="https://d-nb.info/gnd/1086227697"
+                        >Socialdemokratie</orgName>
+                    <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Sozialdemokraten</rdg>
                     </app> auf das Unflätigste angegriffen u. beschimpft. <anchor/>Die Regierung
                     anschwärzte uns „oben“ u. das Pressbureau arbeitete mit derselben Perfidie und
@@ -535,6 +536,7 @@
                         einfügen? --> Polen u. <index>
                         <term key="Parteien/Großgrundbesitz (beide Parteien)"
                             >Grossgrundbesitzer</term>
+                        <!-- CA: welchen OrgName hier nehmen? -->
                     </index> stimmten mit <persName key="SteinFranko"
                         ref="https://d-nb.info/gnd/129277169">>Stein</persName>, so dass dieser
                     Dringlichkeitsantrag, wenn auch nicht die 2/3 Majorität, so doch die einfache
@@ -574,18 +576,16 @@
                 <p><anchor/>Die Abstimmung bedeutet keine Gemeinschaft mit den Alldeutschen, wir
                     haben mit ihren Zielen u. Wünschen nichts gemein –<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Als ich einwendete, daß diese Abstimmung keine
-                            Gemeinschaft mit den <index>
-                                <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                            </index> bedeute und daß wir mit ihren Zielen und Wünschen nichts gemein
-                            haben</rdg>
+                            Gemeinschaft mit den <orgName key="SchoenererAlldeutsche"
+                                ref="https://d-nb.info/gnd/3039149-0">Alldeutschen</orgName> bedeute
+                            und daß wir mit ihren Zielen und Wünschen nichts gemein haben</rdg>
                     </app></p>
                 <p><anchor/>(unterbrechend)<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">– unterbrach mich der Kaiser:</rdg>
                     </app> ja das weiß ich, aber gerade nach diesen Reden die gehalten wurden, das
                     waren ja geradezu hochverräterische Reden, nach solchen Reden stimmt man doch
-                    nicht mit den <index>
-                        <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                    </index>!</p>
+                    nicht mit den <orgName key="SchoenererAlldeutsche"
+                        ref="https://d-nb.info/gnd/3039149-0">Alldeutschen</orgName>!</p>
                 <p><anchor/>Wir sind in diese Situation durch die Regierung gedrängt worden u.
                     stehen in einem unbedingten Gegensatz zur Regierung. Wir sind der festen
                     Ueberzeugung, dass die <pb facs="#fK 5-014" n="16"/>Politik der Regierung zum
@@ -593,13 +593,13 @@
                         ref="https://www.geonames.org/2782113/republic-of-austria.html"
                         >Österreichs</placeName> ausschlagen muss. Wir sind nicht gegen eine
                     Wahlreform, aber die Regierung ist viel zu weit gegangen u. arbeitet im Haus
-                    Hand in Hand mit den <index>
-                        <term key="Parteien/Sozialdemokraten">Socialdemokraten</term>
-                    </index>. Die socialdemokratische Agitation breitet sich besonders auch am
-                    flachen Lande immer weiter aus; heute sind schon in entlegenen Dörfern
-                    socialdemokratische Agitatoren tätig u. es wird in dem neuen Haus, wenn nach der
-                    neuen Wahlordnung gewählt wird der Parlamentarismus einfach ad absurdum gefürt
-                        werden.<app from="xxxx">
+                    Hand in Hand mit den <orgName key="Sozialdemokraten"
+                        ref="https://d-nb.info/gnd/505671-8">Socialdemokraten</orgName> . Die
+                    socialdemokratische Agitation breitet sich besonders auch am flachen Lande immer
+                    weiter aus; heute sind schon in entlegenen Dörfern socialdemokratische
+                    Agitatoren tätig u. es wird in dem neuen Haus, wenn nach der neuen Wahlordnung
+                    gewählt wird der Parlamentarismus einfach ad absurdum gefürt werden.<app
+                        from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Als ich dann ausführlicher die Folgen des allgemeinen
                             Stimmrechts auf den Parlamentarismus und die Führung der Staatsgeschäfte
                             in Oesterreich nach meiner Ueberzeugung auseinandersetzte, unterbrach
@@ -1422,10 +1422,9 @@
             </div>
             <pb facs="#fK 5-027" n="29"/>
             <div n="1906-06-27" type="diary-entry">
-                <head><hi rend="ul">Aus dem <index>
-                            <term key="Wahlrechtsreform/Wahlrechtsagitation"
-                                >Wahlreformausschusse</term>
-                        </index></hi></head>
+                <head><hi rend="ul">Aus dem 
+                    <orgName key="Wahlreformausschuss">Wahlreformausschusse</orgName>
+                        </hi></head>
                 <p>
                     <anchor/>Die Regierung will die „<persName key="HohenloheKonrad"
                         ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName>’schen Vorschläge“
@@ -1512,9 +1511,9 @@
                         bekommen<anchor/><app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">, was sie anstreben</rdg>
                     </app>. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
-                        >Prade</persName> erklärt den <index>
-                        <term key="Parteien/Christlichsoziale">Christlich Socialen</term>
-                    </index>, <anchor/>die per la vita für die Wahlreform sind,<app from="xxxx">
+                        >Prade</persName> erklärt den <orgName key="ChristlichsozialePartei"
+                        ref="https://d-nb.info/gnd/5199156-1">Christlich Socialen</orgName> ,
+                    <anchor/>die per la vita für die Wahlreform sind,<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">die sich auch dem deutschen Mandat von Biala geneigt
                             zeigen</rdg>
                     </app> dass ein deutsches Mandat in <placeName key="Biala"
@@ -1530,9 +1529,10 @@
                         <rdg wit="#Bae_MF_6-2">leider</rdg>
                     </app> die charakterlosesten bei diesem <anchor/>Geschäft<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Geschäfte</rdg>
-                    </app>. Ihre Furcht vor den <anchor/><index>
-                        <term key="Parteien/Sozialdemokraten">Socialdemocraten</term>
-                    </index><app from="xxxx">
+                    </app>. Ihre Furcht vor den <anchor/>
+                    <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
+                        >Socialdemocraten</orgName>
+                    <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Sozialdemokraten</rdg>
                     </app> ist geradezu lächerlich. <persName key="LecherOtto"
                         ref="https://d-nb.info/gnd/141657472">Lecher</persName>, <persName
@@ -1646,20 +1646,19 @@
                             abfinden, daß sie Gesetz wird. Die von oben und unten veranlasste
                             Einimpfung radikaler Ideen ist gelungen.</rdg>
                     </app></p>
-                <p>Was für eine Stellung soll unsere <index>
-                        <term key="Partei/Verfassungstreuer Großgrundbesitz">Partei</term>
-                    </index> diesen veränderten Verhältnissen gegenüber
+                <p>Was für eine Stellung soll unsere <orgName key="VerfassungstreuerGroßgrundbesitz"
+                        ref="https://d-nb.info/gnd/2120665-X">Partei</orgName> diesen veränderten
+                    Verhältnissen gegenüber
                     einnern.<!-- CA: stimmt dieses Wort hier? heißt es einnehmen? --></p>
                 <p>Ich gehe bei der Beantwortung dieser Frage davon aus, dass der weitere Widerstand
                     fruchtlos <anchor/>ist. Daher modificiert<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">ist, daher modifiziert</rdg>
                     </app> sich die gestellte Frage dahin: Sollen wir den bisherigen Kampf, Arm in
-                    Arm mit den <index>
-                        <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                    </index>, die Politik der Fallstricke usf. fortsetzen oder nicht? Ich bin
-                    dagegen, denn es ist töricht von einer politischen Partei, sich in einem
-                    nutzlosen <pb facs="#fK 5-031" n="33"/>Kampf und durch sehr bedenkliche
-                    Allianzen zu verbrauchen.</p>
+                    Arm mit den <orgName key="SchoenererAlldeutsche"
+                        ref="https://d-nb.info/gnd/3039149-0">Alldeutschen</orgName>, die Politik
+                    der Fallstricke usf. fortsetzen oder nicht? Ich bin dagegen, denn es ist töricht
+                    von einer politischen Partei, sich in einem nutzlosen <pb facs="#fK 5-031"
+                        n="33"/>Kampf und durch sehr bedenkliche Allianzen zu verbrauchen.</p>
                 <p>Lassen wir also geschehen, was wir nicht hindern können, und blicken wir in die
                     Zukunft.</p>
                 <p>Haben wir noch eine Zukunft?</p>
@@ -1734,21 +1733,18 @@
                         from="xxxx">
                         <rdg wit="#Bae_MF_6-2">machen wir</rdg>
                     </app> ihm keine Schwierigkeiten mehr und stehen bei den voraussichtlichen
-                    wilden Kämpfen der <index>
-                        <term key="Parteien/Alldeutsche">Alldeutschen</term>
-                    </index> und <index>
-                        <term key="Parteien/Deutschradikale">Radikalen</term>
-                    </index> im Plenum des <orgName key="Abgeordnetenhaus"
-                        ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhauses</orgName> Gewehr bei
-                    Fuß. Kommt das Pluralwahlrecht trotz unserer loyalen Erklärungen im
-                    Abgeordnetenhaus nicht zu Stande, dann <anchor/>hat das <orgName
-                        key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0">Herrenhaus</orgName>
-                    eine wirksame Handhabe und kann, wenn auch dort die beiden von mir oben
-                    bezeichneten Voraussetzungen Richtschnur bleiben, eine Abänderung der Vorlage
-                    beschließen. Auf diese Weise könnte der von mir befürwortete Convenio bei der
-                    zweiten Beratung im <orgName key="Abgeordnetenhaus"
-                        ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhaus</orgName> zum Abschluss
-                        gelangen.<app from="xxxx">
+                    wilden Kämpfen der <orgName key="SchoenererAlldeutsche"
+                        ref="https://d-nb.info/gnd/3039149-0">Alldeutschen</orgName> Radikalen im
+                    Plenum des <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
+                        >Abgeordnetenhauses</orgName> Gewehr bei Fuß. Kommt das Pluralwahlrecht
+                    trotz unserer loyalen Erklärungen im Abgeordnetenhaus nicht zu Stande, dann
+                    <anchor/>hat das <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0"
+                        >Herrenhaus</orgName> eine wirksame Handhabe und kann, wenn auch dort die
+                    beiden von mir oben bezeichneten Voraussetzungen Richtschnur bleiben, eine
+                    Abänderung der Vorlage beschließen. Auf diese Weise könnte der von mir
+                    befürwortete Convenio bei der zweiten Beratung im <orgName
+                        key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
+                        >Abgeordnetenhaus</orgName> zum Abschluss gelangen.<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">steht die Sache so, dass das Herrenhaus die Aktion
                             für das Pluralwahlrecht aufnehmen müsste.</rdg>
                     </app> Dieser Plan setzt allerdings eine sehr ruhige politische Beurteilung der
@@ -1766,16 +1762,14 @@
                     Vertretern der andern verfassungstreuen Grundbesitzer schuldig, dass wir
                     zunächst in einer <index>
                         <term key="Parteien/Obmännerkonferenz">Obmännerkonferenz</term>
-                    </index> des ganzen <index>
-                        <term key="Parteien/Verfassungstreuer Großgrundbesitz">verfassungstreuen
-                            Großgrundbesitzes</term>
-                    </index> unsere Ansicht sagen. Wir müssen sie auch dem <index>
-                        <term key="Parteien/Konservativer Großgrundbesitz">konservativen
-                            Großgrundbesitz</term>
-                    </index> mitteilen sowie jenen deutschen Abgeordneten (<persName
-                        key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X">Pergelt</persName>
-                    und Comp.), mit denen wir bisher gegangen sind. Gelingt der Plan, haben wir
-                        den<app from="xxxx">
+                    </index> des ganzen <orgName key="VerfassungstreuerGroßgrundbesitz"
+                        ref="https://d-nb.info/gnd/2120665-X">verfassungstreuen
+                        Großgrundbesitzes</orgName> unsere Ansicht sagen. Wir müssen sie auch dem
+                        <orgName key="KonservativerGroßgrundbesitz">konservativen
+                        Großgrundbesitz</orgName> mitteilen sowie jenen deutschen Abgeordneten
+                        (<persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X"
+                        >Pergelt</persName> und Comp.), mit denen wir bisher gegangen sind. Gelingt
+                    der Plan, haben wir den<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Gelänge es uns, diesen Plan mit den anderen
                             konservativen Parteien des Abgeordnetenhauses und mit dem Herrenhaus zu
                             vereinbaren, hätten wir das</rdg>
@@ -1814,24 +1808,23 @@
                             kopflos geführt</rdg>
                     </app>, wenn man von <anchor/>einer<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2"/>
-                    </app> Führung überhaupt reden kann. Auch in der <index>
-                        <term key="Parteien/Verfassungspartei">Verfassungspartei</term>
-                    </index> des <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0"
-                        >Herrenhauses</orgName> war die Majorität anfangs gegen die Wahlreform. Die
-                    Wahlen in die betreffende Kommission fielen in diesem Sinne aus. Die Herren
-                    triumphierten und – fuhren auf die Jagd. Aber doch nicht alle. <persName
-                        key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907"
-                        >Chlumecký</persName> blieb<anchor/>, und sein treuer Kutscher <persName
-                        key="Georg">Georg</persName> (der sich um die Wahlreform die größten
-                    Verdienste erwarb, ohne einen Orden zu bekommen!) fuhr ihn <app from="xxxx">
+                    </app> Führung überhaupt reden kann. Auch in der <orgName
+                        key="Verfassungspartei">Verfassungspartei</orgName> des <orgName
+                        key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0">Herrenhauses</orgName>
+                    war die Majorität anfangs gegen die Wahlreform. Die Wahlen in die betreffende
+                    Kommission fielen in diesem Sinne aus. Die Herren triumphierten und – fuhren auf
+                    die Jagd. Aber doch nicht alle. <persName key="ChlumeckyJohann"
+                        ref="https://d-nb.info/gnd/116505907">Chlumecký</persName> blieb<anchor/>,
+                    und sein treuer Kutscher <persName key="Georg">Georg</persName> (der sich um die
+                    Wahlreform die größten Verdienste erwarb, ohne einen Orden zu bekommen!) fuhr
+                    ihn <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">in Wien mit seinem treuen Kutscher Georg und fuhr
                         </rdg>
                     </app>von Haus zu Haus zur Bekehrung der Widerspenstigen. Die Folge war der
-                    Umfall der Majorität der <index>
-                        <term key="Parteien/Verfassungspartei">Verfassungspartei</term>
-                    </index> und das Großkreuz des Stefansordens. Das nennt man im <orgName
-                        key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0">Herrenhaus</orgName>
-                    Politik.</p>
+                    Umfall der Majorität der <orgName key="Verfassungspartei"
+                        >Verfassungspartei</orgName> und das Großkreuz des Stefansordens. Das nennt
+                    man im <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0"
+                        >Herrenhaus</orgName> Politik.</p>
                 <!-- CA: auch hier unklar, wo die entsprechende Stelle ist, bzw. muss man irgendwie klar machen, dass dieser Teil fehlt. mit leerem rdg? -->
                 <p><anchor/>Immer klarer wird heute allerdings der Zusammenhang<pb facs="#fK 5-037"
                         n="39"/>der Dinge bezüglich der Wahlreform. Insbesondere das Verhalten des
