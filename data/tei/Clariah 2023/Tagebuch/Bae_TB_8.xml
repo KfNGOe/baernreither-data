@@ -730,10 +730,8 @@
                     interessierte. <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651"
                         >Franz Thun</persName> endlich war mehr grossartig, vorsichtig, über den
                     Gewässern schwebend.</p>
-                <p>Ueber die einzuschlagende Taktik der Regierung
-                    u.<!-- RH: xxxx editorischer eingriff bei abkürzungen etc.? normalisierte/lesefassung - diplomatische fassung? -->
-                    Wahlreform gegenüber waren die Ansichten geteilt<anchor/> Ein Theil war ganz
-                        <app from="xxxx">
+                <p>Ueber die einzuschlagende Taktik der Regierung u. Wahlreform gegenüber waren die
+                    Ansichten geteilt <anchor/>. Ein Theil war ganz <app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">, fast alle Herren waren</rdg>
                     </app> intransigent: alles verhindern, den <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName> stürzen, alles
@@ -762,13 +760,16 @@
                     </app></p>
                 <p><anchor/>Dieser<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Unserer</rdg>
-                    </app> Ansicht neigte auch <persName key="FuerstenbergMaxEgon"
-                        ref="https://d-nb.info/gnd/116847034">Fürstenberg</persName> zu, der so wie
-                    wir der Meinung ist, dass das allgem. Wahlrecht so oder so, von <persName
-                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>
-                    oder einem andern gemacht, unausweichlich sei. <anchor/>Leider ergab sich, dass
-                    keine Aussicht vorhanden ist, die Herren auf ein bestimmtes Gegenprojekt einigen
-                    zu können.<app from="xxxx">
+                    </app> Ansicht neigte <anchor/>auch<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2"/>
+                    </app>
+                    <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034"
+                        >Fürstenberg</persName> zu, der so wie wir der Meinung ist, dass das allgem.
+                    Wahlrecht so oder so, von <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> oder einem andern
+                    gemacht, unausweichlich sei. <anchor/>Leider ergab sich, dass keine Aussicht
+                    vorhanden ist, die Herren auf ein bestimmtes Gegenprojekt einigen zu können.<app
+                        from="xxxx">
                         <rdg wit="#Bae_MF_6-2">Aber leider ergab sich keine Aussicht, die Herren auf
                             ein bestimmtes Gegenprojekt zu einigen.</rdg>
                     </app></p>
@@ -824,7 +825,7 @@
                         ref="https://d-nb.info/gnd/118676245">Clam</persName>, der verlangte, man
                     möge ihm die statist. Wirkung desselben beweisen, was wir
                         allerdings<anchor/><app from="xxxx">
-                        <rdg wit="#Bae_MF_6-2">ziffernmäßig</rdg>
+                        <rdg wit="#Bae_MF_6-2">ziffermäßig</rdg>
                     </app> nicht im Stande waren. Schliesslich kamen <anchor/>wir aber doch
                         überein,<app from="xxxx">
                         <rdg wit="#Bae_MF_6-2">die Herren zu dem nichtssagenden Ausweg</rdg>
@@ -929,7 +930,7 @@
                         ref="https://d-nb.info/gnd/119128691">Wekerle</persName> der Ansicht
                     Ausdruck gegeben haben: der <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName> hat gesiegt, die
-                    Ungarn haben nachgegeben. Ich mache die Beobachtung, dass anchor/>Einige<app
+                    Ungarn haben nachgegeben. Ich mache die Beobachtung, dass <anchor/>Einige<app
                         from="xxxx">
                         <rdg wit="#Bae_MF_6-2">einige</rdg>
                     </app> es sagen, weil sie glauben dass es patriotisch ist dem <persName
