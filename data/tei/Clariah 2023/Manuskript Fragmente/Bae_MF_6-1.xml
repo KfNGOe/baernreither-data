@@ -44,7 +44,8 @@
                     </msIdentifier>
                     <physDesc>
                         <typeDesc>
-                            <p>Lateinschrift und Gabelsberger Kurzschrift</p>
+                            <p>Lateinschrift</p>
+                            <p>Gabelsberger Kurzschrift</p>
                         </typeDesc>
                     </physDesc>
                 </msDesc>
@@ -75,19 +76,20 @@
                 <head>Die Erbschaft, die <persName key="KoerberErnest"
                         ref="https://d-nb.info/gnd/118713434">Koerber</persName> hinterließ</head>
 
-                <p> In der <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2"
+                <p>In der <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2"
                         >Budgetausschusssitzung</orgName> vom <date when="1904-12-07">7. Dezember
-                        1904</date> kam es über die Notstandskredite zur Abstimmung. <note>Im Herbst
-                        1904 kam es wegen eines regenarmen Sommers in Teilen der Monarchie, v.a. in
-                        Böhmen, zu Missernten und in Folge zu einem Notstand, der in dem vom
-                        Reichsrat zu bewilligenden Budget mit finanziellen Maßnahmen in Höhe von
-                        15,5 Millionen Kronen niederschlug.</note> Wir Großgrundbesitzer stimmten
-                    für die Regierung, diese blieb aber, da die Deutschen unter der Führung
-                        <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
-                        >Derschatta</persName>'s abfielen, in der Minorität, worauf <persName
-                        key="KoerberErnest" ref="https://d-nb.info/gnd/118713434">Koerber</persName>
-                    das <orgName key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus"
-                        >Haus</orgName> sofort vertagte.<note>Der Reichsrat war vom 9. Dezember 1904
+                        1904</date> kam es über die Notstandskredite zur Abstimmung.<note
+                        type="editorial">Im Herbst 1904 kam es wegen eines regenarmen Sommers in
+                        Teilen der Monarchie, v.a. in Böhmen, zu Missernten und in Folge zu einem
+                        Notstand, der in dem vom Reichsrat zu bewilligenden Budget mit finanziellen
+                        Maßnahmen in Höhe von 15,5 Millionen Kronen niederschlug.</note> Wir
+                    Großgrundbesitzer stimmten für die Regierung, diese blieb aber, da die Deutschen
+                    unter der Führung <persName key="DerschattaJulius"
+                        ref="https://d-nb.info/gnd/136192165">Derschatta</persName>'s abfielen, in
+                    der Minorität, worauf <persName key="KoerberErnest"
+                        ref="https://d-nb.info/gnd/118713434">Koerber</persName> das <orgName
+                        key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus">Haus</orgName>
+                    sofort vertagte.<note type="editorial">Der Reichsrat war vom 9. Dezember 1904
                         bis zur Wiedereinberufung am 24. Jänner 1905 vertagt.</note></p>
                 <p>Es folgten noch einige wenig erbauliche Szenen in unserem durch die schwache
                     Leitung und die Meinungsverschiedenheiten zerfahrenen <orgName
@@ -100,17 +102,19 @@
                         <orgName key="VerfassungstreuerGroßgrundbesitz"
                         ref="https://d-nb.info/gnd/2120665-X">Klub</orgName> drang Einiges in die
                     Oeffentlichkeit, und die <orgName key="Bohemia"
-                        ref="https://d-nb.info/014500817">Bohemia</orgName> in
-                        <placeName>Prag</placeName> machte einen perfiden Ausfall auf mich.
-                        <note>Die liberale Prager Zeitung „Bohemia" berichtete Mitte Dezember 1904
-                        über die Differenzen in den Klubsitzungen des Verfassungstreuen
-                        Großgrundbesitzes. Sie bezeichnete Graf Stürgkh als Wortführer der Kritiker
-                        an Baernreither, die ihm vorwarfen, daß er für ein
-                        deutschliberal-jungtschechisches Koalitionsministerium Stimmung machte, für
-                        welches man ihn und Kramař als Ministerkandidaten bezeichnete. Vgl. <ref
+                        ref="https://d-nb.info/014500817">Bohemia</orgName> in <placeName key="Prag"
+                        ref="https://www.geonames.org/3067696/prague.html">Prag</placeName> machte
+                    einen perfiden Ausfall auf mich. <note type="editorial">Die liberale Prager
+                        Zeitung „Bohemia" berichtete Mitte Dezember 1904 über die Differenzen in den
+                        Klubsitzungen des Verfassungstreuen Großgrundbesitzes. Sie bezeichnete Graf
+                        Stürgkh als Wortführer der Kritiker an Baernreither, die ihm vorwarfen, daß
+                        er für ein deutschliberal-jungtschechisches Koalitionsministerium Stimmung
+                        machte, für welches man ihn und Kramař als Ministerkandidaten bezeichnete.
+                        Vgl. <ref
                             target="https://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19041217&amp;seite=5&amp;zoom=33"
                             >Reichspost v. 17.12. 1904, S. 5</ref>.</note> Als ich in diesen Tagen
-                    in <placeName>Prag</placeName> den <persName key="MladotaNepomuk" ref="">Baron
+                    in <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html"
+                        >Prag</placeName> den <persName key="MladotaNepomuk" ref="">Baron
                         Mladota</persName> begegnete, sagte er zu mir: Das hat Dir wohl <persName
                         key="StürgkhKarl" ref="https://d-nb.info/gnd/117677957">Stürgkh</persName>
                     eingebrockt. Die Anhänger <persName key="KoerberErnest"
@@ -166,21 +170,24 @@
                         <term key="Notverordnungsrecht§14">§ 14</term>
                     </index> zu erhalten.</p>
                 <p>Es ist nicht zu leugnen, daß er sich gewisse große Ziele gesteckt hatte. Er
-                    geizte nach dem Ruhme eines modernen Reformators
-                        <placeName>Oesterreichs</placeName>, es war aber nur ein politisches
-                    Anempfinden [Korrekturen!], denn keines seiner Projekte (Wasserstraßen,
-                    Verwaltungsreform, Arbeiterversicherung usw.) war ausgedacht, <pb n="3"/>alle
-                    waren nur Ideen, die nicht einmal auf dem Papiere fertig waren, geschweige denn
-                    in der Wirklichkeit fertig werden konnten. Was er hinterließ, waren
-                    angeschnittene Probleme, die er teilweise unheilvoll präjudizierte. Ueber die
-                    Vorlage der Alters- und Invalidenversicherung der Arbeiter hatte er den
-                    Staatsbeitrag um 50% höher angesetzt, als dies im Deutschen Reiche der Fall ist
-                    und den <persName key="Böhm-BawerkEugen" ref="https://d-nb.info/gnd/118660691"
+                    geizte nach dem Ruhme eines modernen Reformators <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreichs</placeName>, es war aber nur ein politisches Anempfinden
+                    [Korrekturen!], denn keines seiner Projekte (Wasserstraßen, Verwaltungsreform,
+                    Arbeiterversicherung usw.) war ausgedacht, <pb n="3"/>alle waren nur Ideen, die
+                    nicht einmal auf dem Papiere fertig waren, geschweige denn in der Wirklichkeit
+                    fertig werden konnten. Was er hinterließ, waren angeschnittene Probleme, die er
+                    teilweise unheilvoll präjudizierte. Ueber die Vorlage der Alters- und
+                    Invalidenversicherung der Arbeiter hatte er den Staatsbeitrag um 50% höher
+                    angesetzt, als dies im Deutschen Reiche der Fall ist und den <persName
+                        key="Böhm-BawerkEugen" ref="https://d-nb.info/gnd/118660691"
                         >Finanzminister</persName> zwischen Tür und Angel gezwungen zuzustimmen. –
-                    Reklame. Als ich später in <placeName>Berlin</placeName> mit dem Präsidenten des
-                    Reichsversicherungsamtes <persName key="KaufmannPaul"
+                    Reklame. Als ich später in <placeName key="Berlin"
+                        ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>
+                    mit dem Präsidenten des Reichsversicherungsamtes <persName key="KaufmannPaul"
                         ref="https://d-nb.info/gnd/116074965">Kaufmann</persName> darüber sprach,
-                    meinte er: So reich sind wir in <placeName>Deutschland</placeName> nicht. Besah
+                    meinte er: So reich sind wir in <placeName key="Deutschland"
+                        ref="https://d-nb.info/gnd/7509421-6">Deutschland</placeName> nicht. Besah
                     man aber die <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
                         >Koerber</persName>’sche Vorlage näher, fehlte es auf der andern Seite in
                     wichtigen Punkten: die landwirtschaftlichen Arbeiter waren ausgelassen und
@@ -206,12 +213,13 @@
                     geholfen – manchmal entscheidend – solange ich gehofft habe, er werde doch von
                     seinen Worten zu Taten übergehen. Mehrmals mahnte ich ihn unter vier Augen,
                     endlich auch mit seinen Reden Ernst zu machen. Er rückte aber immer weiter von
-                    dem Tatsächlichen ab. Sein Versuch, <placeName>Oesterreich</placeName> wie zu
-                    Zeiten <persName key="BachAlexander" ref="https://d-nb.info/gnd/118651455"
-                        >Bach</persName>'s bürokratisch aber modern zu regieren, mißlang. <add>Ganz
-                        abgesehen davon, daß diese längst überlebte, den Kern des österreichischen
-                        Problems total verkennende Methode obrigkeitlicher Regierung ein
-                        Anachronismus schlimmster Sorte war</add>
+                    dem Tatsächlichen ab. Sein Versuch, <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> wie zu Zeiten <persName key="BachAlexander"
+                        ref="https://d-nb.info/gnd/118651455">Bach</persName>'s bürokratisch aber
+                    modern zu regieren, mißlang. <add>Ganz abgesehen davon, daß diese längst
+                        überlebte, den Kern des österreichischen Problems total verkennende Methode
+                        obrigkeitlicher Regierung ein Anachronismus schlimmster Sorte war</add>
                     <del>Es</del> fehlten alle <add>äusseren</add> Voraussetzungen, um nur eine
                     schwache Nachahmung <persName key="BachAlexander"
                         ref="https://d-nb.info/gnd/118651455">Bach</persName>'s zustandezubringen.
@@ -220,31 +228,36 @@
                         ref="https://d-nb.info/gnd/118651455">Bach</persName> hatten Ideen und
                     tüchtige Männer, die ganz im Sinne eines zentralistisch bürokratischen Systems
                     zu wirken und zu arbeiten imstande waren. Sie hatten vor allem die Macht und
-                    freie Hand in <placeName>Oesterreich</placeName> und
-                        <placeName>Ungarn</placeName>. <persName key="KoerberErnest"
-                        ref="https://d-nb.info/gnd/118713434">Koerber</persName> hatte im
-                    Handelsressort tüchtige Kenntnisse und Erfahrungen. In der politischen
-                    Verwaltung war er wenig bewandert. In der Justiz fehlte ihm der höhere Sinn für
-                    Unparteilichkeit und die finanziellen Fragen unterschätzte er. Zudem standen ihm
-                    echtösterreichische Beamte, wie in den 50er Jahren, nur noch <del>ganz</del>
-                    vereinzelt zu Gebote. Die Streberei hat er begünstigt und manchen wirklich
-                    fähigen Beamten hat er kalt gestellt. Das Produkt der Regierungsmaschine war
-                    gerade auf der Höhe, um der öffentlichen Meinung, die in ihrem Urteil bei uns
-                    tiefer steht als wo anders, zu imponieren. Daß er wirklich Bewunderer hatte
-                    unter den Abgeordneten, besonders unter der Aristokratie bleibt für diese Kreise
-                    ein Armutszeugnis. Aber das Geheimnis war, daß jeder seinen Vorteil fand. Mit
-                    Adel- und Ordensauszeichnungen war er nicht karg <add>verteilte sie ohne oder
-                        mit klingenden Gegenleistungen</add>. Der Presse ließ er vollkommen freies
-                    Spiel und das Versammlungsrecht war uneingeschränkt. Einmal kam ich nach
-                        <placeName>Podersam</placeName> und fand an den Straßenecken die Ankündigung
-                    einer sozialistischen Versammlung „Arbeiter heraus", in der der Oberlehrer einer
-                    benachbarten Stadt den Hauptvortrag über eine sozialistische Tagesfrage zu
-                    halten hatte. Der Bezirkshauptmann, den ich verwundert fragte <pb n="5"/> ob das
-                    wohl angängig sei, zuckte die Achseln und erzählte mir, er habe in
-                        <placeName>Prag</placeName> bei der <orgName key="böhmStatthalterei"
-                        ref="https://d-nb.info/gnd/5057353-6">Statthalterei</orgName> angefragt, die
-                    Antwort sei aber gewesen: Gewähren lassen. Deswegen waren die Sozialdemokraten
-                    im <orgName key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus"
+                    freie Hand in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>.
+                        <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
+                        >Koerber</persName> hatte im Handelsressort tüchtige Kenntnisse und
+                    Erfahrungen. In der politischen Verwaltung war er wenig bewandert. In der Justiz
+                    fehlte ihm der höhere Sinn für Unparteilichkeit und die finanziellen Fragen
+                    unterschätzte er. Zudem standen ihm echtösterreichische Beamte, wie in den 50er
+                    Jahren, nur noch <del>ganz</del> vereinzelt zu Gebote. Die Streberei hat er
+                    begünstigt und manchen wirklich fähigen Beamten hat er kalt gestellt. Das
+                    Produkt der Regierungsmaschine war gerade auf der Höhe, um der öffentlichen
+                    Meinung, die in ihrem Urteil bei uns tiefer steht als wo anders, zu imponieren.
+                    Daß er wirklich Bewunderer hatte unter den Abgeordneten, besonders unter der
+                    Aristokratie bleibt für diese Kreise ein Armutszeugnis. Aber das Geheimnis war,
+                    daß jeder seinen Vorteil fand. Mit Adel- und Ordensauszeichnungen war er nicht
+                    karg <add>verteilte sie ohne oder mit klingenden Gegenleistungen</add>. Der
+                    Presse ließ er vollkommen freies Spiel und das Versammlungsrecht war
+                    uneingeschränkt. Einmal kam ich nach <placeName key="Podersam"
+                        ref="https://www.geonames.org/3068119/podborany.html">Podersam</placeName>
+                    und fand an den Straßenecken die Ankündigung einer sozialistischen Versammlung
+                    „Arbeiter heraus", in der der Oberlehrer einer benachbarten Stadt den
+                    Hauptvortrag über eine sozialistische Tagesfrage zu halten hatte. Der
+                    Bezirkshauptmann, den ich verwundert fragte <pb n="5"/> ob das wohl angängig
+                    sei, zuckte die Achseln und erzählte mir, er habe in <placeName key="Prag"
+                        ref="https://www.geonames.org/3067696/prague.html">Prag</placeName> bei der
+                        <orgName key="böhmStatthalterei" ref="https://d-nb.info/gnd/5057353-6"
+                        >Statthalterei</orgName> angefragt, die Antwort sei aber gewesen: Gewähren
+                    lassen. Deswegen waren die Sozialdemokraten im <orgName
+                        key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus"
                         >Abgeordnetenhause</orgName> auch seine verkappten Anhänger. Da er aber auch
                     die Alldeutschen ganz ungehindert ihre Propaganda treiben ließ, so war diese
                     sonst so unbequeme Gesellschaft im Stillen auch für ihn. So erzielte er, daß
@@ -255,9 +268,10 @@
                     unternahmen. Die alldeutschen Abgeordneten fanden in den Ministerien offene Tür.
                     Minister <persName key="HartelWilhelm" ref="https://d-nb.info/gnd/119035030"
                         >Hartel</persName> besuchte an der Seite des Schönerianers <persName
-                        key="SchalkAnton" ref="">Schalk</persName> die Musikschule in
-                        <placeName>Petschau</placeName>; alle Minister verkehrten ohne Bedenken
-                        <add>mit Männern</add>, die in die <persName key="SchoenererGeorg"
+                        key="SchalkAnton" ref="">Schalk</persName> die Musikschule in <placeName
+                        key="Petschau" ref="https://www.geonames.org/3079609/becov-nad-teplou.html"
+                        >Petschau</placeName>; alle Minister verkehrten ohne Bedenken <add>mit
+                        Männern</add>, die in die <persName key="SchoenererGeorg"
                         ref="https://d-nb.info/gnd/118610163">Schönerer</persName>s Hochrufe auf die
                     Hohenzollern einstimmten. Alles das ist der Ausdruck jener gemütlichen
                     Demoralisation, die unter <persName key="KoerberErnest"
@@ -278,27 +292,31 @@
                         <add>Körbers</add> Kopfschütteln und scharfe Urteile.</p>
                 <p>Fünf kostbare Jahre waren verloren, viel guter Wille ist ungenutzt geblieben,
                     nichts Positives wurde geschaffen. Die große Frage des Zusammenlebens der
-                    Nationalitäten in <placeName>Oesterreich</placeName> wurde zwar von <persName
-                        key="KoerberErnest" ref="https://d-nb.info/gnd/118713434">Koerber</persName>
-                    zu Beginn seiner Amtswirksamkeit mit Fleiß und Geschick auf die Tagesordnung
-                    gesetzt, aber als sich Schwierigkeiten zeigten, gab er das Spiel <pb n="6"/>auf.
-                    „Das ewige Anfangen und Fallenlassen, die ewige Treulosigkeit in allen Vorsätzen
-                    und Entschlüssen", von denen <persName key="KuernbergerFerdinand"
+                    Nationalitäten in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> wurde zwar von <persName key="KoerberErnest"
+                        ref="https://d-nb.info/gnd/118713434">Koerber</persName> zu Beginn seiner
+                    Amtswirksamkeit mit Fleiß und Geschick auf die Tagesordnung gesetzt, aber als
+                    sich Schwierigkeiten zeigten, gab er das Spiel <pb n="6"/>auf. „Das ewige
+                    Anfangen und Fallenlassen, die ewige Treulosigkeit in allen Vorsätzen und
+                    Entschlüssen", von denen <persName key="KuernbergerFerdinand"
                         ref="https://d-nb.info/gnd/118567764">Kürnberger</persName> in einer
-                    Charakteristik Oesterreichs spricht, waren leider auch sein Teil.
-                        <note>Ferdinand Kürnberger, „Asiatisch und selbstlos." (16. Nov. 1871), in:
-                        ders., Gesammelte Werke, hg. v. O. E. Deutsch, Bd. 1: Siegelringe. Eine
-                        Sammlung politscher Feuilletons (München/Leipzig 1910) S. 194.</note> In
-                        <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
-                        >Koerber</persName> ist eine große Intelligenz an dem Mangel politischen
-                    Charakters für den Staat verlorengegangen – nicht das einzige Beispiel in
-                        <placeName>Oesterreich</placeName>. Mit unleugbarer Geschicklichkeit
-                    benützte er die einzelnen Verwaltungsfragen zur Befestigung seiner politischen
-                    Stellung. Die Objektivität der Verwaltung hat unter ihm dadurch schwer gelitten,
-                    während der Zeit, als er das Justizportefeuille an sich genommen hatte, auch die
-                    der Justiz – was noch schlimmer ist. Seine Minister setzte er zu Sektionschefs
-                    herab und griff über ihre Köpfe in die verschiedenen Ressorts ein, wie er es
-                    gerade brauchte. Er konzentrierte alle wichtigen Verwaltungssachen im
+                    Charakteristik Oesterreichs spricht, waren leider auch sein Teil. <note
+                        type="editorial">Ferdinand Kürnberger, „Asiatisch und selbstlos." (16. Nov.
+                        1871), in: ders., Gesammelte Werke, hg. v. O. E. Deutsch, Bd. 1:
+                        Siegelringe. Eine Sammlung politscher Feuilletons (München/Leipzig 1910) S.
+                        194.</note> In <persName key="KoerberErnest"
+                        ref="https://d-nb.info/gnd/118713434">Koerber</persName> ist eine große
+                    Intelligenz an dem Mangel politischen Charakters für den Staat verlorengegangen
+                    – nicht das einzige Beispiel in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName>. Mit unleugbarer Geschicklichkeit benützte er die
+                    einzelnen Verwaltungsfragen zur Befestigung seiner politischen Stellung. Die
+                    Objektivität der Verwaltung hat unter ihm dadurch schwer gelitten, während der
+                    Zeit, als er das Justizportefeuille an sich genommen hatte, auch die der Justiz
+                    – was noch schlimmer ist. Seine Minister setzte er zu Sektionschefs herab und
+                    griff über ihre Köpfe in die verschiedenen Ressorts ein, wie er es gerade
+                    brauchte. Er konzentrierte alle wichtigen Verwaltungssachen im
                     Ministerratspräsidium, welches er zu einer Art Oberinstanz ausbildete, in der
                     er, durch die sehr geschickte, aber <add>alles demoralisierende</add> Hand
                         <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452"
@@ -316,22 +334,23 @@
                     journalistische Mache gegründet. Dadurch hat er sein besseres Selbst und seine
                     großen Kenntnisse in Schatten gestellt und sich um die Früchte seines
                     unermüdlichen Fleißes gebracht.</p>
-                <p><placeName>Wien</placeName>, <date when="1905-01">Jänner 1905</date></p>
+                <p><placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html"
+                        >Wien</placeName>, <date when="1905-01">Jänner 1905</date></p>
             </div>
             <div n="1905-07" type="diary-entry">
                 <pb n="7"/>
                 <head>Die Flitterwochen <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName></head>
-                <p>Er wird anfangs kühl aufgenommen. <note>Paul Gautsch wurde am 1.1.1905 das zweite
-                        Mal zum österreichischen Ministerpräsidenten ernannt.</note> Hat mit
-                    unangenehmen Reminiszenzen zu kämpfen. Benimmt sich gut. Besprechungen mit aller
-                    Welt. Macht den Fehler, sofort urbi et orbi zu erklären, daß er auf ein
-                    parlamentarisches Koalitionsministerium lossteuert. Sagt mir allerhand schöne
-                    Sachen und versichert mich, daß er ganz besonders auf mich rechne. Sehr
-                    vernünftig ist die Erklärung, er wünsche aufrichtig, daß Deutsche und Tschechen
-                    sich nur besprechen mögen, er gebe seinen Segen dazu. Von dieser Methode hat er
-                    den größten Vorteil gehabt. Unsere vertraulichen Beratungen mit den Tschechen
-                    (Teilnehmer: <persName key="Silva-TaroucaErnst"
+                <p>Er wird anfangs kühl aufgenommen. <note type="editorial">Paul Gautsch wurde am
+                        1.1.1905 das zweite Mal zum österreichischen Ministerpräsidenten
+                        ernannt.</note> Hat mit unangenehmen Reminiszenzen zu kämpfen. Benimmt sich
+                    gut. Besprechungen mit aller Welt. Macht den Fehler, sofort urbi et orbi zu
+                    erklären, daß er auf ein parlamentarisches Koalitionsministerium lossteuert.
+                    Sagt mir allerhand schöne Sachen und versichert mich, daß er ganz besonders auf
+                    mich rechne. Sehr vernünftig ist die Erklärung, er wünsche aufrichtig, daß
+                    Deutsche und Tschechen sich nur besprechen mögen, er gebe seinen Segen dazu. Von
+                    dieser Methode hat er den größten Vorteil gehabt. Unsere vertraulichen
+                    Beratungen mit den Tschechen (Teilnehmer: <persName key="Silva-TaroucaErnst"
                         ref="https://d-nb.info/gnd/127064842">Tarouca</persName>, <persName
                         key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318">Pacák</persName>,
                         <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116"
@@ -362,20 +381,21 @@
                     beiden Seiten vorhanden.</p>
                 <p>Diese Besprechungen halfen den <orgName key="BoehmischerLandtag"
                         ref="https://d-nb.info/gnd/5005623-2">Landtag</orgName> vorzubereiten. Sie
-                    wurden in <placeName>Prag</placeName> in der Wohnung des <persName
-                        key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107">Dr. Urban</persName>
-                    fortgesetzt und die dort versammelten Herren dirigierten den ganzen <orgName
-                        key="BoehmischerLandtag" ref="https://d-nb.info/gnd/5005623-2"
-                        >Landtag</orgName>. Der Oberstlandmarschall <persName
-                        key="LobkowitzFerdinand" ref="https://d-nb.info/gnd/117143952"
-                        >Lobkowitz</persName> benahm sich sehr klug, ließ uns gewähren, hielt
-                    Obmännerkonferenzen ab, <pb n="8"/>um einen ruhigen Gang der Verhandlungen zu
-                    erzielen – wir aber bereiteten wieder diese Obmännerkonferenzen vor. Die
-                    Regierung hatte den Hofrat <persName key="Petrzikowsky" ref=""
-                        >Petrzikowksy</persName>, einen Schwager <persName key="UrbanKarl"
-                        ref="https://d-nb.info/gnd/1148771107">Urbans</persName>, nach
-                        <placeName>Prag</placeName> geschickt, um in direkter Fühlung mit uns zu
-                    sein.</p>
+                    wurden in <placeName key="Prag"
+                        ref="https://www.geonames.org/3067696/prague.html">Prag</placeName> in der
+                    Wohnung des <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107">Dr.
+                        Urban</persName> fortgesetzt und die dort versammelten Herren dirigierten
+                    den ganzen <orgName key="BoehmischerLandtag"
+                        ref="https://d-nb.info/gnd/5005623-2">Landtag</orgName>. Der
+                    Oberstlandmarschall <persName key="LobkowitzFerdinand"
+                        ref="https://d-nb.info/gnd/117143952">Lobkowitz</persName> benahm sich sehr
+                    klug, ließ uns gewähren, hielt Obmännerkonferenzen ab, <pb n="8"/>um einen
+                    ruhigen Gang der Verhandlungen zu erzielen – wir aber bereiteten wieder diese
+                    Obmännerkonferenzen vor. Die Regierung hatte den Hofrat <persName
+                        key="Petrzikowsky" ref="">Petrzikowksy</persName>, einen Schwager <persName
+                        key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107">Urbans</persName>,
+                    nach <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html"
+                        >Prag</placeName> geschickt, um in direkter Fühlung mit uns zu sein.</p>
                 <p>Leider machten wir damals einen großen Fehler. Statt die so wohl vorbereiteten
                     Gesetzentwürfe sofort in den <orgName key="BoehmischerLandtag"
                         ref="https://d-nb.info/gnd/5005623-2">Landtag</orgName> zu bringen und zu
@@ -384,11 +404,12 @@
                         >Landtags</orgName>. Die Regierung wollte nämlich gleich nach Pfingsten den
                         <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
                         >Reichsrat</orgName> einberufen, da die Genehmigung des Handelsvertrages mit
-                        <placeName>Deutschland</placeName> eine dringende politische Notwendigkeit
-                    war. Wären wir aber fest geblieben, so hätten die Landtagsverhandlungen doch
-                    wohl platzgefunden, denn die Regierung nahm damals unsere Ratschläge sehr
-                    vernünftig und ohne jede Eifersucht auf und befolgte sie. Sogar jener Erklärung,
-                    welche sie am Schlusse des <orgName key="BoehmischerLandtag"
+                        <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName> eine dringende politische Notwendigkeit war. Wären
+                    wir aber fest geblieben, so hätten die Landtagsverhandlungen doch wohl
+                    platzgefunden, denn die Regierung nahm damals unsere Ratschläge sehr vernünftig
+                    und ohne jede Eifersucht auf und befolgte sie. Sogar jener Erklärung, welche sie
+                    am Schlusse des <orgName key="BoehmischerLandtag"
                         ref="https://d-nb.info/gnd/5005623-2">Landtages</orgName> abgab, lag ein
                     Entwurf zu Grunde, den ich verfaßt und der die Zustimmung der im Hause <persName
                         key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107">Urban</persName>
@@ -450,53 +471,55 @@
                     Regierung wirklich mit Einsicht und Konsequenz tut, was sie in den paar
                     unscheinbaren Sätzen verspricht, kann es wirklich besser werden. Ein großes
                     Hindernis war aber dann die Krankheit von <persName key="GautschPaul"
-                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName>.
-                        <note>Ministerpräsident Gautsch war in den Monaten März und April 1905 wegen
-                        Erkrankung an Influenza, Mittelohrentzündung und Gesichtsrose (Erysipel) in
-                        seiner Arbeitsfähigkeit eingeschränkt. (Vgl. Rutkowski, Briefe Bd. 3, S.
-                        57).</note> Sie raubte ihm die Aktionsfähigkeit gerade in einer Zeit, in der
-                    er vieles hätte vorbereiten können. Seine Idee der Parlamentarisierung des
-                    Ministeriums wurde in der Öffentlichkeit breitgetreten ohne vorbereitet zu
-                    werden. Sie ist dadurch derzeit unmöglich geworden.</p>
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName>. <note
+                        type="editorial">Ministerpräsident Gautsch war in den Monaten März und April
+                        1905 wegen Erkrankung an Influenza, Mittelohrentzündung und Gesichtsrose
+                        (Erysipel) in seiner Arbeitsfähigkeit eingeschränkt. (Vgl. Rutkowski, Briefe
+                        Bd. 3, S. 57).</note> Sie raubte ihm die Aktionsfähigkeit gerade in einer
+                    Zeit, in der er vieles hätte vorbereiten können. Seine Idee der
+                    Parlamentarisierung des Ministeriums wurde in der Öffentlichkeit breitgetreten
+                    ohne vorbereitet zu werden. Sie ist dadurch derzeit unmöglich geworden.</p>
                 <p>In der ungarischen Frage hatte <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName> eine weniger
                     glückliche Hand. Im Zollausschuß <add>den ich leitete</add> zieht er sich gut
-                    aus der Affaire, im Ausgleichsausschuß <note>Im Tagebuch nennt Baernreither an
-                        dieser Stelle den "Derschatta-Ausschuss", womit er sich vermutlich auf den
-                        von Abg. Dr. Derschatta und Genossen am 15.2.1905 beantragten "48gliedrigen
-                        Ausschuss zur Prüfung des Verhältnisses der im Reichsrate vertretenen
-                        Königreiche und Ländern zu den Ländern der ungarischen Krone" (2168 d.B.
-                        Abgeordnetenhaus XVII. Session) bezog, als dessen Obmann Derschatta vom
-                        10.4. bis 6.7.1905 fungiert hatte.</note>ist er nicht auf der Höhe der
-                    Situation. Erfaßt nicht den Moment, mußte ein Ermächtigungsgesetz
-                        <del>selbst</del> einbringen und sich an die Spitze des <orgName
-                        key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus">Hauses</orgName>
-                    setzen. Das hätte sein Prestige sehr gehoben. Er ließ aber die kostbare
-                    Situation unbenützt. Im ganzen Ministerium kein einziger politischer Kopf.
-                    Unsere Bürokraten glauben immer, daß alle die parlamentarischen Taten für ewig
-                    festgenagelt <pb n="11"/> und sie für immer präjudizieren. Aber das Materielle
-                    dieser Aktionen wird <del>immer</del> rasch vergessen, was aber bleibt, ist die
-                    Erinnerung an die Festigkeit der Regierung, an ihre Fähigkeit, sich rasch zu
-                    entschließen – oder an das Gegenteil. Man sagt nach Monaten, ja nach Jahren:
-                    Damals war die Regierung fest, oder damals war die Regierung schwach – wenn
-                    längst der genaue Vorgang aus dem Bewußtsein entschwunden ist. Das Fluidum eines
-                    entschlossenen Handelns ist das Lebenselixier der Regierungen.</p>
+                    aus der Affaire, im Ausgleichsausschuß<note type="editorial">Im Tagebuch nennt
+                        Baernreither an dieser Stelle den "Derschatta-Ausschuss", womit er sich
+                        vermutlich auf den von Abg. Dr. Derschatta und Genossen am 15.2.1905
+                        beantragten "48gliedrigen Ausschuss zur Prüfung des Verhältnisses der im
+                        Reichsrate vertretenen Königreiche und Ländern zu den Ländern der
+                        ungarischen Krone" (2168 d.B. Abgeordnetenhaus XVII. Session) bezog, als
+                        dessen Obmann Derschatta vom 10.4. bis 6.7.1905 fungiert hatte.</note>ist er
+                    nicht auf der Höhe der Situation. Erfaßt nicht den Moment, mußte ein
+                    Ermächtigungsgesetz <del>selbst</del> einbringen und sich an die Spitze des
+                        <orgName key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus"
+                        >Hauses</orgName> setzen. Das hätte sein Prestige sehr gehoben. Er ließ aber
+                    die kostbare Situation unbenützt. Im ganzen Ministerium kein einziger
+                    politischer Kopf. Unsere Bürokraten glauben immer, daß alle die
+                    parlamentarischen Taten für ewig festgenagelt <pb n="11"/> und sie für immer
+                    präjudizieren. Aber das Materielle dieser Aktionen wird <del>immer</del> rasch
+                    vergessen, was aber bleibt, ist die Erinnerung an die Festigkeit der Regierung,
+                    an ihre Fähigkeit, sich rasch zu entschließen – oder an das Gegenteil. Man sagt
+                    nach Monaten, ja nach Jahren: Damals war die Regierung fest, oder damals war die
+                    Regierung schwach – wenn längst der genaue Vorgang aus dem Bewußtsein
+                    entschwunden ist. Das Fluidum eines entschlossenen Handelns ist das
+                    Lebenselixier der Regierungen.</p>
                 <p>So schloß der <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
                         >Reichsrat</orgName> weniger gut als er nach den Antezedenzien der letzten
-                    Monate hätte sein können.<note>Der Reichsrat war vom 15.7. an vertagt und wurde
-                        mit 26.9.1905 wieder einberufen.</note> Die Arbeitsleistung des <orgName
-                        key="Reichsrat" ref="https://d-nb.info/gnd/35882-4">Reichsrates</orgName>
-                    war eine große gewesen, dank der Anstrengungen einiger Abgeordneter, denen die
-                    Regierung Hilfe leistete. Politisch hat <persName key="GautschPaul"
-                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> aber den <orgName
-                        key="Reichsrat" ref="https://d-nb.info/gnd/35882-4">Reichsrat</orgName>
-                    nicht geführt und er schloß mit gewundenen, vereinbarten Erklärungen und
-                    Versprechungen, die wenigstens auf deutscher Seite keinen guten Eindruck
-                    machten.</p>
+                    Monate hätte sein können.<note type="editorial">Der Reichsrat war vom 15.7. an
+                        vertagt und wurde mit 26.9.1905 wieder einberufen.</note> Die
+                    Arbeitsleistung des <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
+                        >Reichsrates</orgName> war eine große gewesen, dank der Anstrengungen
+                    einiger Abgeordneter, denen die Regierung Hilfe leistete. Politisch hat
+                        <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                        >Gautsch</persName> aber den <orgName key="Reichsrat"
+                        ref="https://d-nb.info/gnd/35882-4">Reichsrat</orgName> nicht geführt und er
+                    schloß mit gewundenen, vereinbarten Erklärungen und Versprechungen, die
+                    wenigstens auf deutscher Seite keinen guten Eindruck machten.</p>
                 <p>Ich habe es <del>in</del>direkt gesagt, habe es <persName
                         key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305"
-                        >Bylandt</persName> geschrieben und habe neulich in
-                        <placeName>Karlsbad</placeName>
+                        >Bylandt</persName> geschrieben und habe neulich in <placeName
+                        key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html"
+                        >Karlsbad</placeName>
                     <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907"
                         >Chlumecký</persName> gebeten, es ebenfalls zu sagen: Wenn <persName
                         key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>
@@ -506,12 +529,14 @@
                     </index> nicht anwenden und das muß man ihm hoch anrechnen. Er kann auch
                     deswegen auf die Mitwirkung von allen Seiten rechnen, aber es ist die alte
                     Geschichte, er muss nicht nur reden, sondern auch handeln.</p>
-                <p><placeName>Lünz</placeName>, im <date when="1905-07">Juli 1905</date></p>
+                <p><placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
+                        >Lünz</placeName>, im <date when="1905-07">Juli 1905</date></p>
             </div>
             <div n="1905-07" type="diary-entry">
                 <pb n="12"/>
-                <head>Die Beratungen über Zolltarif und Handelsvertrag mit
-                        <placeName>Deutschland</placeName></head>
+                <head>Die Beratungen über Zolltarif und Handelsvertrag mit <placeName
+                        key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName></head>
                 <p>Die Krankheit von <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName>, die ihn monatelang
                     von den eigentlichen Arbeiten fernhielt, hat der politischen Situation sehr
@@ -526,16 +551,21 @@
                     des Zolltarifs und der Handelsverträge. In diesen Dingen überließ mir die
                     Regierung die Führung ganz.</p>
                 <p>Durch die am <date when="1901-07-26">26. Juli 1901</date> erfolgte
-                    Veröffentlichung des Zolltarifes für das <placeName>Deutsche Reich</placeName>
-                    war die zoll- und handelspolitische Kampagne eröffnet worden.<note>Der deutsche
-                        "Reichsanzeiger" veröffentlichete am 26.7.1901 den dem Bundesrat vorgelegten
-                        Zolltarif und das dazugehörige Zolltarifgesetz. Siehe <ref
+                    Veröffentlichung des Zolltarifes für das <placeName key="Deutschland"
+                        ref="https://d-nb.info/gnd/7509421-6">Deutsche Reich</placeName> war die
+                    zoll- und handelspolitische Kampagne eröffnet worden.<note type="editorial">Der
+                        deutsche "Reichsanzeiger" veröffentlichete am 26.7.1901 den dem Bundesrat
+                        vorgelegten Zolltarif und das dazugehörige Zolltarifgesetz. Siehe <ref
                             target="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19010727&amp;seite=1&amp;zoom=33"
                             >Neue Freie Presse vom 27.7.1901</ref></note> Ich war damals, auf einer
-                    Reise nach <placeName>England</placeName> begriffen, einige Zeit in
-                        <placeName>Norderney</placeName>. Dort traf ich <persName
-                        key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023">Bülow</persName>.
-                    Er war so artig, mich zu einer Fahrt nach <placeName>Helgoland</placeName>
+                    Reise nach <placeName key="England"
+                        ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
+                        >England</placeName> begriffen, einige Zeit in <placeName key="Noderney"
+                        ref="https://www.geonames.org/6557460/norderney.html">Norderney</placeName>.
+                    Dort traf ich <persName key="BuelowBernhard"
+                        ref="https://d-nb.info/gnd/118517023">Bülow</persName>. Er war so artig,
+                    mich zu einer Fahrt nach <placeName key="Helgoland"
+                        ref="https://www.geonames.org/2906947/helgoland.html">Helgoland</placeName>
                     einzuladen, da ihm der <orgName key="NorddeutscherLloyd"
                         ref="https://d-nb.info/gnd/2020453-X">Norddeutsche Lloyd</orgName> ein
                     Schiff zu solchen Ausflügen zur Verfügung gestellt hatte. Es war eine sehr
@@ -549,53 +579,71 @@
                         key="LindauRudolf" ref="https://d-nb.info/gnd/117014613">Lindau</persName>,
                     der dort wohnte und bei dem wir eine sehr angenehme Stunde verplauderten. Auf
                     dieser <pb n="13"/>Fahrt ergab sich natürlich die Gelegenheit, über den neuen
-                    Zolltarif zu sprechen. An der <placeName>Nordsee</placeName> weht
-                    freihändlerische Luft. Von verschiedenen Seiten wurde <persName
-                        key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023">Bülow</persName>
-                    ausgeholt über die Absichten, die <placeName>Deutschland</placeName> mit dem
-                    Tarif wohl verfolge; als irgendeine überseeische Fleischart auf den Tisch kam,
-                    wurde ihm lachend gesagt, das werde jetzt wohl ein Ende haben, auch ich warf ihm
-                    das Hölzl – er blieb aber verschanzt und versicherte immer wieder, der Tarif sei
+                    Zolltarif zu sprechen. An der Nordsee weht freihändlerische Luft. Von
+                    verschiedenen Seiten wurde <persName key="BuelowBernhard"
+                        ref="https://d-nb.info/gnd/118517023">Bülow</persName> ausgeholt über die
+                    Absichten, die <placeName key="Deutschland"
+                        ref="https://d-nb.info/gnd/7509421-6">Deutschland</placeName> mit dem Tarif
+                    wohl verfolge; als irgendeine überseeische Fleischart auf den Tisch kam, wurde
+                    ihm lachend gesagt, das werde jetzt wohl ein Ende haben, auch ich warf ihm das
+                    Hölzl – er blieb aber verschanzt und versicherte immer wieder, der Tarif sei
                     gegen Niemanden gerichtet, schütze, wo es nötig sei, alle Produktionszweige
                     gleichmäßig und sei kein Hindernis der Erneuerung der Handelsverträge. Weniger
                     konnte er wohl nicht sagen.</p>
                 <p>Viel eingehender als diese Kajütenkonversation war die Erörterung der
-                    Handelspolitik auf der Versammlung des <placeName>Vereins für
-                        Socialpolitik,</placeName> die im September 1901 in München stattfand. Ich
+                    Handelspolitik auf der Versammlung des <OrgName>Vereins für
+                        Socialpolitik,</OrgName> die im September 1901 in München stattfand. Ich
                     hatte mir zu dieser Tagung Stelldichein mit <persName key="MarchetGustav"
                         ref="https://d-nb.info/gnd/129095648">Marchet</persName> und <persName
                         key="EhrenfelsBernhard" ref="https://d-nb.info/gnd/132868369"
                         >Ehrenfels</persName> gegeben. Wir fanden auch <persName
                         key="PhilippovichEugen" ref="https://d-nb.info/gnd/116176199"
-                        >Philippovich</persName> in <placeName>München</placeName> und mein guter
-                    alter Heidelberger Universitätsfreund <persName key="PestalozzaHugo" ref=""
-                        >Pestalozza</persName> schloß sich uns an. So bildeten wir eine kleine
-                    Gesellschaft, die die <index>
+                        >Philippovich</persName> in <placeName key="Muenchen"
+                        ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html"
+                        >München</placeName> und mein guter alter Heidelberger Universitätsfreund
+                        <persName key="PestalozzaHugo" ref="">Pestalozza</persName> schloß sich uns
+                    an. So bildeten wir eine kleine Gesellschaft, die die <index>
                         <term key="Kongresse/Enqueten">Kongreßverhandlungen</term>
                     </index> mit großem Interesse verfolgte und ausserdem die angenehmsten Stunden
-                    verbrachte. Auch die Umgebung von <placeName>München</placeName> wurde genossen,
-                    soweit wir dazu Zeit hatten und soviel sie in <placeName>München</placeName>
-                    überhaupt vorhanden ist. An einem schönen Abend in
-                        <placeName>Nymphenburg</placeName> erzählte uns <persName
-                        key="PestalozzaHugo" ref="">Pestalozza</persName> sehr ausführlich und
-                    wirklich erhebend von der Schlacht von <placeName>Wörth</placeName>, die er als
-                    Chevauleger mitgemacht hatte. <note>Die Schlacht von Wörth am Beginn des
-                        Deutsch-Französischen Kriegs am 6. August 1879 war für Deutsche Reich
-                        siegreich.</note> Der genius loci spricht in <placeName>München</placeName>
-                    sehr laut und ergreifend zu mir. Schon in meiner Gymnasialzeit war ich in
-                        <placeName>München</placeName>, dann öfter als in irgend einer Stadt des
-                        <placeName>Deutschen Reiches</placeName>. Bis zu seinem Tode meist auf
-                    Besuch bei <persName key="PestalozzaHugo" ref="">Pestalozza</persName>, der im
-                    Sommer eine reizende Villa am <placeName>Starnberger See</placeName> bewohnte,
-                    die er sich mit vielem Geschmack erbaut hatte. Aber der Glanzpunkt meiner
-                    Münchner Erinnerun<pb n="14"/>gen ist doch der Einzug der bayerischen Truppen im
-                    Jahre <date when="1871">1871</date> nach Beendigung des Krieges und das
-                    Siegesfest. Unvergesslich sind wohl jedem, der aus diesem Born nationaler
-                    Begeisterung getrunken hat, solche Tage. Wie das Brausen der Brandung ging es
-                    durch die Gassen von <placeName>München</placeName>, als die Truppen heranzogen,
-                    eine weihevolle Freude hatte die ganze Bevölkerung ergriffen. Davon erzählten
-                        <persName key="PestalozzaHugo" ref="">Pestalozza</persName> und ich meinen
-                    Freunden an jenem schönen Abend in <placeName>Nymphenburg</placeName>.</p>
+                    verbrachte. Auch die Umgebung von <placeName key="Muenchen"
+                        ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html"
+                        >München</placeName> wurde genossen, soweit wir dazu Zeit hatten und soviel
+                    sie in <placeName key="Muenchen"
+                        ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html"
+                        >München</placeName> überhaupt vorhanden ist. An einem schönen Abend in
+                        <placeName key="Nymphenburg"
+                        ref="https://www.geonames.org/2861525/nymphenburg.html"
+                        >Nymphenburg</placeName> erzählte uns <persName key="PestalozzaHugo" ref=""
+                        >Pestalozza</persName> sehr ausführlich und wirklich erhebend von der
+                    Schlacht von <placeName key="Woerth"
+                        ref="https://www.geonames.org/2967305/woerth.html">Wörth</placeName>, die er
+                    als Chevauleger mitgemacht hatte.<note type="editorial">Die Schlacht von Wörth
+                        am Beginn des Deutsch-Französischen Kriegs am 6. August 1879 war für
+                        Deutsche Reich siegreich.</note> Der genius loci spricht in <placeName
+                        key="Muenchen"
+                        ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html"
+                        >München</placeName> sehr laut und ergreifend zu mir. Schon in meiner
+                    Gymnasialzeit war ich in <placeName key="Muenchen"
+                        ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html"
+                        >München</placeName>, dann öfter als in irgend einer Stadt des <placeName
+                        key="Deutschland" ref="https://d-nb.info/gnd/7509421-6">Deutschen
+                        Reiches</placeName>. Bis zu seinem Tode meist auf Besuch bei <persName
+                        key="PestalozzaHugo" ref="">Pestalozza</persName>, der im Sommer eine
+                    reizende Villa am <placeName key="StarnbergerSee"
+                        ref="https://www.geonames.org/2829454/starnberger-see.html">Starnberger
+                        See</placeName> bewohnte, die er sich mit vielem Geschmack erbaut hatte.
+                    Aber der Glanzpunkt meiner Münchner Erinnerun<pb n="14"/>gen ist doch der Einzug
+                    der bayerischen Truppen im Jahre <date when="1871">1871</date> nach Beendigung
+                    des Krieges und das Siegesfest. Unvergesslich sind wohl jedem, der aus diesem
+                    Born nationaler Begeisterung getrunken hat, solche Tage. Wie das Brausen der
+                    Brandung ging es durch die Gassen von <placeName key="Muenchen"
+                        ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html"
+                        >München</placeName>, als die Truppen heranzogen, eine weihevolle Freude
+                    hatte die ganze Bevölkerung ergriffen. Davon erzählten <persName
+                        key="PestalozzaHugo" ref="">Pestalozza</persName> und ich meinen Freunden an
+                    jenem schönen Abend in <placeName key="Nymphenburg"
+                        ref="https://www.geonames.org/2861525/nymphenburg.html"
+                        >Nymphenburg</placeName>.</p>
                 <p>Der <index>
                         <term key="Kongresse/Enqueten">Kongreß</term>
                     </index> war von Theoretikern und Praktikern gleich gut besucht. Der autonome
@@ -616,109 +664,131 @@
                     eigentlich überflüssig"! Sie war jedenfalls ein lehrreicher Gedankenaustausch,
                     mehr freilich nicht, denn eine klare Richtung kam nicht zum Durchbruch.
                         <persName key="PhilippovichEugen" ref="https://d-nb.info/gnd/116176199"
-                        >Philippovich</persName> vertrat <placeName>Oesterreich</placeName> gut und
-                    schlagfertig. Er bezeichnete die Posten des deutschen Tarifes, die für uns eine
-                    besondere Bedeutung haben, und meinte scherzhaft-ernst: daß auch in
-                    wirtschaftlichen Angelegenheiten die Zeiten der österreichischen Gemütlichkeit
-                    ebenso vorüber sind, wie die Zeiten des deutschen Michels. Trotzdem in den
-                    vorbereitenden Publikationen des Vereins ein ausgezeichneter Aufsatz von
-                        <persName key="FranckeErnst" ref="https://d-nb.info/gnd/116697407">Ernst
-                        Francke</persName> (Berlin) über zollpolitische Einigungsbestrebungen in
-                        Mittel<pb n="14a"/>europa enthalten war, ist diese Seite der Frage in den
-                    Verhandlungen ganz ignoriert worden.<note>Ernst Francke, Zollpolitische
-                        Einigungsbestrebungen in Mitteleuropa während des letzten Jahrzehnts, in:
-                        Beiträge zur neuesten Handelspolitik Deutschlands, hg. v. Verein für
-                        Socialpolitik, Bd. 1 (Leipzig 1900) S. 187-272.</note> Es war doch für die
-                    ganze Mentalität des <index>
+                        >Philippovich</persName> vertrat <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> gut und schlagfertig. Er bezeichnete die Posten des
+                    deutschen Tarifes, die für uns eine besondere Bedeutung haben, und meinte
+                    scherzhaft-ernst: daß auch in wirtschaftlichen Angelegenheiten die Zeiten der
+                    österreichischen Gemütlichkeit ebenso vorüber sind, wie die Zeiten des deutschen
+                    Michels. Trotzdem in den vorbereitenden Publikationen des Vereins ein
+                    ausgezeichneter Aufsatz von <persName key="FranckeErnst"
+                        ref="https://d-nb.info/gnd/116697407">Ernst Francke</persName> (Berlin) über
+                    zollpolitische Einigungsbestrebungen in Mittel<pb n="14a"/>europa enthalten war,
+                    ist diese Seite der Frage in den Verhandlungen ganz ignoriert worden.<note
+                        type="editorial">Ernst Francke, Zollpolitische Einigungsbestrebungen in
+                        Mitteleuropa während des letzten Jahrzehnts, in: Beiträge zur neuesten
+                        Handelspolitik Deutschlands, hg. v. Verein für Socialpolitik, Bd. 1 (Leipzig
+                        1900) S. 187-272.</note> Es war doch für die ganze Mentalität des <index>
                         <term key="Kongresse/Enqueten">Kongresses</term>
                     </index> sowie auch wohl für die ganze handelspolitische Strömung bezeichnend,
                     daß eine Versammlung, wo die Leuchten der deutschen ökonomischen Wissenschaft
                     vereinigt waren und allen Ernstes darüber stritten, wie die industrielle und
-                    landwirtschaftliche Entwicklung <placeName>Deutschlands</placeName> in fünfzig
+                    landwirtschaftliche Entwicklung <placeName key="Deutschland"
+                        ref="https://d-nb.info/gnd/7509421-6">Deutschlands</placeName> in fünfzig
                     Jahren aussehen werde – sie kein Wort für die Beurteilung der zollpolitischen
-                    Einigungsbestrebungen in <placeName>Mitteleuropa</placeName> fanden. Einige Zeit
-                    nach dem <index>
+                    Einigungsbestrebungen in Mitteleuropa fanden. Einige Zeit nach dem <index>
                         <term key="Kongresse/Enqueten">Kongress</term>
-                    </index> sprach ich in <placeName>Berlin</placeName> mit dem Sektionschef
-                        <persName key="BažantJohann" ref="https://d-nb.info/gnd/1157617565"
-                        >Bažant</persName>, der vom Handelsministerium dahin entsendet war, um die
-                    handelspolitische Lage zu studieren. Er bezeichnete ein engeres Zollbündnis
-                    zwischen <placeName>Deutschland</placeName>, <placeName>Oesterreich</placeName>,
-                        <placeName>Ungarn</placeName> für ganz aussichtslos. <persName
-                        key="SzellKalman" ref="https://d-nb.info/gnd/1084341417">Széll</persName>
-                    hat <persName key="HertzkaTivadar" ref="https://d-nb.info/gnd/118825186"
-                        >Hertzka</persName> nach <placeName>Berlin</placeName> geschickt, um in
-                    dieser Hinsicht Fühlung zu nehmen. <persName key="HertzkaTivadar"
-                        ref="https://d-nb.info/gnd/118825186">Hertzka</persName> hielt dort einen
-                    Vortrag im mitteleuropäischen Sinne, fiel aber ganz ab. Der Wind wehte nach der
-                    andern Richtung.</p>
+                    </index> sprach ich in <placeName key="Berlin"
+                        ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>
+                    mit dem Sektionschef <persName key="BažantJohann"
+                        ref="https://d-nb.info/gnd/1157617565">Bažant</persName>, der vom
+                    Handelsministerium dahin entsendet war, um die handelspolitische Lage zu
+                    studieren. Er bezeichnete ein engeres Zollbündnis zwischen <placeName
+                        key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName>, <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName>, <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> für
+                    ganz aussichtslos. <persName key="SzellKalman"
+                        ref="https://d-nb.info/gnd/1084341417">Széll</persName> hat <persName
+                        key="HertzkaTivadar" ref="https://d-nb.info/gnd/118825186"
+                        >Hertzka</persName> nach <placeName key="Berlin"
+                        ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>
+                    geschickt, um in dieser Hinsicht Fühlung zu nehmen. <persName
+                        key="HertzkaTivadar" ref="https://d-nb.info/gnd/118825186"
+                        >Hertzka</persName> hielt dort einen Vortrag im mitteleuropäischen Sinne,
+                    fiel aber ganz ab. Der Wind wehte nach der andern Richtung.</p>
                 <p>Die folgenden Jahre waren bei uns mit der Ausarbeitung und parlamentarischen
                     Verhandlung des öst.-ungarischen <index>
                         <term key="Oesterreich-Ungarn/Ausgleich">Ausgleiches</term>
-                    </index>, des Zolltarifs und des Handelsvertrages mit
-                        <placeName>Deutschland</placeName> und den andern Staaten, mit dem die
-                    Verträge im <date when="1906-03">März 1906</date> abliefen,
-                        ausgefüllt.<note>Baernreither war Berichterstatter des Ausschusses für den
+                    </index>, des Zolltarifs und des Handelsvertrages mit <placeName
+                        key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName> und den andern Staaten, mit dem die Verträge im
+                        <date when="1906-03">März 1906</date> abliefen, ausgefüllt.<note
+                        type="editorial">Baernreither war Berichterstatter des Ausschusses für den
                         Allgemeinen Zolltarif und für den Handels- und Zollvertrag mit dem Deutschen
                         Reich.</note>
                     <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
                         >Koerber</persName> brachte im <orgName key="Abgeordnetenhaus"
                         ref="https://d-nb.info/gnd/41998-9">Abgeordnetenhaus</orgName> die Vorlagen
-                    ein. Ohne ihre Erledigung abzuwarten, wurde der Vertrag mit
-                        <placeName>Deutschland</placeName> geschlossen. Die Verhandlungen des <index>
+                    ein. Ohne ihre Erledigung abzuwarten, wurde der Vertrag mit <placeName
+                        key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName> geschlossen. Die Verhandlungen des <index>
                         <term key="Oesterreich-Ungarn/Ausgleich">Ausgleiches</term>
-                    </index> mit <placeName>Ungarn</placeName> zogen sich in die Länge, dagegen
-                    gelang es <add>der Regierung <persName key="GautschPaul"
-                            ref="https://d-nb.info/gnd/137078080">Gautsch</persName></add>
+                    </index> mit <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> zogen
+                    sich in die Länge, dagegen gelang es <add>der Regierung <persName
+                            key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+                            >Gautsch</persName></add>
                     <date when="1905-05">im Mai 1905</date>, den Zolltarif (und alles, was damit
                     zusammenhing) und im <date when="1905-07">Juli 1905</date> den Handelsvertrag
-                    mit <placeName>Deutschland</placeName> parlamentarisch unter Dach und Fach zu
-                    bringen. Ich kann mit gutem Gewissen sagen, daß ich den Tarif und den Vertrag
-                    mit <placeName>Deutschland</placeName> parlamentarisch zustande gebracht habe.
-                        <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
-                        >Gautsch</persName> war nicht da, <persName key="CallGuido"
-                        ref="https://d-nb.info/gnd/136187226">Call</persName> hatte gar keinen
-                    Einfluß und gar keinen Trieb, <persName key="BylandtRheidtArthur"
-                        ref="https://d-nb.info/gnd/1049718305">Bylandt</persName>, der der Vertreter
-                    des <pb n="14b"/>
+                    mit <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName> parlamentarisch unter Dach und Fach zu bringen. Ich
+                    kann mit gutem Gewissen sagen, daß ich den Tarif und den Vertrag mit <placeName
+                        key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName> parlamentarisch zustande gebracht habe. <persName
+                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>
+                    war nicht da, <persName key="CallGuido" ref="https://d-nb.info/gnd/136187226"
+                        >Call</persName> hatte gar keinen Einfluß und gar keinen Trieb, <persName
+                        key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305"
+                        >Bylandt</persName>, der der Vertreter des <pb n="14b"/>
                     <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
                         >Ministerpräsidenten</persName> war, hatte von der Sache keine Ahnung und
                     war bei seiner Bequemlichkeit auch gar nicht geneigt, sich in etwas
                     einzuarbeiten. Gegen den Tarif wurden schwere, begründete Bedenken laut. Mehr
                     als je trat hervor, daß es keine eigentlich autonome, lediglich auf die
                     Verhältnisse der österreichischen Wirtschaftsgebiete zugeschnittene Arbeit war,
-                    sondern ein, trotz der selbständigen Einbringung in
-                        <placeName>Oesterreich</placeName> und <placeName>Ungarn</placeName> doch
+                    sondern ein, trotz der selbständigen Einbringung in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> doch
                     Post für Post zwischen beiden Staaten vereinbarter Tarif, da die Identität wegen
                     der abzuschließenden Handelsverträge um jeden Preis hergestellt werden musste.
                     Die Opfer, die diese Übereinstimmung kostete, brachte in überwiegendem Maße
-                        <placeName>Oesterreich</placeName>, denn die ungarische Regierung <persName
+                        <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName>, denn die ungarische Regierung <persName
                         key="TiszaIstvan" ref="https://d-nb.info/gnd/118998897">Tisza</persName> war
                     stärker als unsere Regierung <persName key="KoerberErnest"
                         ref="https://d-nb.info/gnd/118713434">Koerber</persName>
-                    <add>, die den Tarif mit <placeName>Ungarn</placeName> verhandelte</add>.
-                    Besonders bei den Eisenzöllen war dies greifbar. Das Verhältnis zwischen Cis und
-                    Trans war damals sehr gespannt. In den Verhandlungen spielte die Möglichkeit
-                    einer wirtschaftlichen Trennung einer <index>
+                    <add>, die den Tarif mit <placeName key="Ungarn"
+                            ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
+                        verhandelte</add>. Besonders bei den Eisenzöllen war dies greifbar. Das
+                    Verhältnis zwischen Cis und Trans war damals sehr gespannt. In den Verhandlungen
+                    spielte die Möglichkeit einer wirtschaftlichen Trennung einer <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzolllinie</term>
                     </index> eine große Rolle. Von vielen Seiten wurde der Tarif als ein nur
                     österreichischer beurteilt und Änderungen aus diesem Gesichtspunkt verlangt.
                     Damals stand unser Verhältnis zu Ungarn wieder einmal auf der Schneide. Ich
                     hatte zwei Wege vor mir: den Wünschen nach Abänderung des Tarifes nachgeben und
-                    dadurch neue Verhandlungen mit <placeName>Ungarn</placeName> hervorzurufen oder
-                    den Tarif glatt annehmen zu lassen. Nach reiflicher Erwägung entschloss ich mich
-                    für das letztere. Mit Sektionschef <persName key="RoesslerMauriz"
-                        ref="https://d-nb.info/gnd/1028553323">Rössler</persName> habe ich diese
-                    Möglichkeiten nach allen Richtungen durchgesprochen und die Chancen erwogen, die
-                    neuerliche Verhandlungen mit <placeName>Ungarn</placeName> boten. Diese waren
-                    sehr gering. Das Uebergewicht der ungarischen Regierung gegenüber <persName
-                        key="GautschPaul" ref="https://d-nb.info/gnd/137078080">Gautsch</persName>
-                    war ebenso groß wie gegenüber <persName key="KoerberErnest"
-                        ref="https://d-nb.info/gnd/118713434">Koerber</persName>; wenn das
-                    österreichische <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
-                        >Parlament</orgName> von der Regierungsvorlage abweichende Entschlüsse
-                    fasste und es zu neuen Verhandlungen mit <placeName>Ungarn</placeName> kam, war
-                    eine Niederlage nahezu sicher. Erblich belastet mit dem <index>
+                    dadurch neue Verhandlungen mit <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
+                    hervorzurufen oder den Tarif glatt annehmen zu lassen. Nach reiflicher Erwägung
+                    entschloss ich mich für das letztere. Mit Sektionschef <persName
+                        key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323"
+                        >Rössler</persName> habe ich diese Möglichkeiten nach allen Richtungen
+                    durchgesprochen und die Chancen erwogen, die neuerliche Verhandlungen mit
+                        <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> boten. Diese waren sehr gering. Das Uebergewicht der
+                    ungarischen Regierung gegenüber <persName key="GautschPaul"
+                        ref="https://d-nb.info/gnd/137078080">Gautsch</persName> war ebenso groß wie
+                    gegenüber <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
+                        >Koerber</persName>; wenn das österreichische <orgName key="Reichsrat"
+                        ref="https://d-nb.info/gnd/35882-4">Parlament</orgName> von der
+                    Regierungsvorlage abweichende Entschlüsse fasste und es zu neuen Verhandlungen
+                    mit <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> kam, war eine Niederlage nahezu sicher. Erblich belastet
+                    mit dem <index>
                         <term key="Notverordnungsrecht§14">Paragraph Vierzehn</term>
                     </index> hatte keine österreichische Regierung <pb n="14c"/>die Kraft der
                     ungarischen, die ihr <orgName key="Reichsrat"
@@ -726,19 +796,29 @@
                         hinter sich</add> hatte, Widerstand zu leisten. Besonders in dem Zustand, in
                     dem die Regierung <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Gautsch</persName> war. Dazu kam, daß
-                    der Vertrag mit <placeName>Deutschland</placeName> geschlossen war und genehmigt
-                    werden musste. Neue Verhandlungen mit <placeName>Ungarn</placeName> hätten die
-                    Genehmigung auf ganz unbestimmte Zeit hinausgeschoben. Außerdem war aber der <index>
+                    der Vertrag mit <placeName key="Deutschland"
+                        ref="https://d-nb.info/gnd/7509421-6">Deutschland</placeName> geschlossen
+                    war und genehmigt werden musste. Neue Verhandlungen mit <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> hätten
+                    die Genehmigung auf ganz unbestimmte Zeit hinausgeschoben. Außerdem war aber der <index>
                         <term key="Oesterreich-Ungarn/Ausgleich">Ausgleich</term>
-                    </index> zwischen <placeName>Oesterreich</placeName> und
-                        <placeName>Ungarn</placeName> nicht perfekt. Trennungsgedanken regten sich
-                    auf beiden Seiten. Kam aber der Tarif und der Handelsvertrag zustande, so wirkte
-                    das als eine Klammer zwischen <placeName>Oesterreich</placeName> und
-                        <placeName>Ungarn</placeName>, einer Trennung war vorgebeugt und dem <index>
+                    </index> zwischen <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> nicht
+                    perfekt. Trennungsgedanken regten sich auf beiden Seiten. Kam aber der Tarif und
+                    der Handelsvertrag zustande, so wirkte das als eine Klammer zwischen <placeName
+                        key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>, einer
+                    Trennung war vorgebeugt und dem <index>
                         <term key="Oesterreich-Ungarn/Ausgleich">Ausgleich</term>
-                    </index> dadurch vorgearbeitet. Diese Situation war wieder einmal für
-                        <placeName>Oesterreich</placeName> die typische Zwangslage. Ich glaube es
-                    aber verantworten zu könne, die geringe Aussicht, durch Verhandlungen mit Ungarn
+                    </index> dadurch vorgearbeitet. Diese Situation war wieder einmal für <placeName
+                        key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> die typische Zwangslage. Ich glaube es aber
+                    verantworten zu könne, die geringe Aussicht, durch Verhandlungen mit Ungarn
                     Tarifänderungen zu erzielen, jenen anderen Erwägungen geopfert zu haben.
                     Abgeordnetenkollegen verschiedener Parteien sahen die Sache ebenso an, stimmten
                     mir zu und unterstützten mich. <persName key="RoesslerMauriz"
@@ -792,9 +872,9 @@
                     sicher war. Aber es war sehr viel Arbeit dabei, denn ich musste nicht nur den
                     Ausschuss und alle vorgängigen Besprechungen leiten, ich arbeitete oder
                     amendierte auch gestellte Anträge und wurde schließlich für die Vorlagen
-                    (Zolltarif, Handelsvertrag mit Deutschland) zum Berichterstatter gewählt.
-                        <note>Baernreither erstattete schriftlichen Bericht über den allgemeinen
-                        Zolltarif für das österreichisch-ungarische Zollgebiet <ref
+                    (Zolltarif, Handelsvertrag mit Deutschland) zum Berichterstatter gewählt. <note
+                        type="editorial">Baernreither erstattete schriftlichen Bericht über den
+                        allgemeinen Zolltarif für das österreichisch-ungarische Zollgebiet <ref
                             target="https://alex.onb.ac.at/cgi-content/alex?aid=spa&amp;datum=0017&amp;page=64908&amp;size=45"
                             >(2216 d.B. Abgeordnetenhaus XVII. Session)</ref> und über den Handels-
                         und Zollvertrag mit dem Deutschen Reich (<ref
@@ -803,8 +883,8 @@
                 <p>Im Plenum des <orgName key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus"
                         >Abgeordnetenhauses</orgName> wurde der Tarif von verschiedenen Seiten
                     heftig angegriffen und insbesondere verlangt, die Regierung solle ihn zu einem
-                    spezifisch österreichischen zurechtstutzen.<note>Der Bericht über den
-                        allgemeinen Zolltarif wurde in der 325. und 328.-331. Sitzung des
+                    spezifisch österreichischen zurechtstutzen.<note type="editorial">Der Bericht
+                        über den allgemeinen Zolltarif wurde in der 325. und 328.-331. Sitzung des
                         Abgeordnetenhauses vom 3. bis 12. Mai 1905 verhandelt. Zu Baernreithers
                         Redebeiträgen vgl. Sten. Prot. AH XVIII. Session <ref
                             target="https://alex.onb.ac.at/cgi-content/alex?aid=spa&amp;datum=0017&amp;page=29182&amp;size=45"
@@ -826,15 +906,17 @@
                     mir immer, wie die Sache stehe. Ich musste alle Anstrengungen machen, den Tarif
                     durchzubringen, aber schließlich wurde er in zweiter und dritter Lesung
                     genehmigt.</p>
-                <p>Der Handelsvertrag mit <placeName>Deutschland</placeName> bot weniger
+                <p>Der Handelsvertrag mit <placeName key="Deutschland"
+                        ref="https://d-nb.info/gnd/7509421-6">Deutschland</placeName> bot weniger
                     Schwierigkeiten, besonders da gewisse Abnormitäten des Tarifes (Schwefelkies und
                     Bücherzoll) durch ihn aus der Welt geschaffen wurden. Im Plenum des <orgName
                         key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus">Hauses</orgName>
                     versuchten aber Tschechen und Alldeutsche, aus sehr verschiedenen Gründen, durch
                     einen großen Spektakel die Verhandlungen zu stören und mich am Sprechen zu
-                    verhindern. <note>Der Bericht über den Handels- und Zollvertrag mit dem
-                        Deutschen Reich wurde in der 45. Sitzung des Abgeordnetenhauses am 6. Juli
-                        1905 behandelt. Vgl. Sten. Prot. AH XVII. Session <ref
+                        verhindern.<note type="editorial">Der Bericht über den Handels- und
+                        Zollvertrag mit dem Deutschen Reich wurde in der 45. Sitzung des
+                        Abgeordnetenhauses am 6. Juli 1905 behandelt. Vgl. Sten. Prot. AH XVII.
+                        Session <ref
                             target="https://alex.onb.ac.at/cgi-content/alex?aid=spa&amp;datum=0017&amp;page=31188&amp;size=45"
                             >S. 31036ff.</ref></note> Ich ließ mich aber nicht irre machen, und der
                     Handelsvertrag wurde genehmigt. Ich erzähle hier die Sache <pb n="14g"
@@ -842,18 +924,22 @@
                     wieder vor dem Dilemma: unsere Interessen rücksichtslos zu vertreten und dadurch
                     ganz unabsehbare Verwicklungen herbeizuführen oder für die Sicherheit und
                     Verhandlungsfähigkeit der Monarchie Opfer zu bringen. Der Dualismus ist eben
-                    brüchig geworden. Unser Verhältnis zu <placeName>Ungarn</placeName> muss von
-                    Grund auf saniert werden.</p>
-                <p><placeName>Lünz</placeName>, im <date when="1905-07">Juli 1905</date></p>
+                    brüchig geworden. Unser Verhältnis zu <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> muss
+                    von Grund auf saniert werden.</p>
+                <p><placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
+                        >Lünz</placeName>, im <date when="1905-07">Juli 1905</date></p>
                 <p>-----------</p>
                 <p><persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727"
                         >Hieronymi</persName>, der Handelsminister <persName key="TiszaIstvan"
                         ref="https://d-nb.info/gnd/118998897">Tiszas</persName>, erzählte mir später
-                    einmal in <placeName>Karlsbad</placeName>, wo er in der Kur war und ich ihn
-                    besuchte, er sei mit den Eisenzöllen nicht einverstanden gewesen und hätte ihrer
-                    Herabsetzung nicht widerstrebt, aber sie seien das eigenste Werk <persName
-                        key="TiszaIstvan" ref="https://d-nb.info/gnd/118998897">Tiszas</persName>
-                    gewesen, der unbedingt für sie eintrat.</p>
+                    einmal in <placeName key="Karlsbad"
+                        ref="https://www.geonames.org/3073803/karlovy-vary.html"
+                        >Karlsbad</placeName>, wo er in der Kur war und ich ihn besuchte, er sei mit
+                    den Eisenzöllen nicht einverstanden gewesen und hätte ihrer Herabsetzung nicht
+                    widerstrebt, aber sie seien das eigenste Werk <persName key="TiszaIstvan"
+                        ref="https://d-nb.info/gnd/118998897">Tiszas</persName> gewesen, der
+                    unbedingt für sie eintrat.</p>
                 <p>-----------</p>
             </div>
             <div n="" type="diary-entry">
@@ -871,14 +957,17 @@
                     war mit dem bekannten Finanzier und Mitglied des <orgName key="Magnatenhaus"
                         ref="https://d-nb.info/gnd/5270827-5">Magnatenhauses</orgName>
                     <persName key="KornfeldSigmund" ref="https://d-nb.info/gnd/136423078">Sigmund
-                        Kornfeld</persName> in <placeName>Karlsbad</placeName> zusammen gekommen, es
-                    fand eine Besprechung zwischen <persName key="KornfeldSigmund"
-                        ref="https://d-nb.info/gnd/136423078">Kornfeld</persName>, <persName
-                        key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107">Urban</persName> und
-                    mir am <date when="1905-07-03">3. Juli 1905</date> in dem Zimmer <persName
+                        Kornfeld</persName> in <placeName key="Karlsbad"
+                        ref="https://www.geonames.org/3073803/karlovy-vary.html"
+                        >Karlsbad</placeName> zusammen gekommen, es fand eine Besprechung zwischen
+                        <persName key="KornfeldSigmund" ref="https://d-nb.info/gnd/136423078"
+                        >Kornfeld</persName>, <persName key="UrbanKarl"
+                        ref="https://d-nb.info/gnd/1148771107">Urban</persName> und mir am <date
+                        when="1905-07-03">3. Juli 1905</date> in dem Zimmer <persName
                         key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107">Urban</persName>'s im
-                    Grand Hotel in <placeName>Wien</placeName> statt, die zwei Stunden dauerte und
-                    sehr interessant war. <persName key="KornfeldSigmund"
+                    Grand Hotel in <placeName key="Wien"
+                        ref="https://www.geonames.org/2761367/wien.html">Wien</placeName> statt, die
+                    zwei Stunden dauerte und sehr interessant war. <persName key="KornfeldSigmund"
                         ref="https://d-nb.info/gnd/136423078">Kornfeld</persName> bekannte sich
                     offen und dezidiert als Anhänger <persName key="AndrassyGyula"
                         ref="https://d-nb.info/gnd/118502875">Andrassy</persName>'s, aber als
@@ -902,8 +991,11 @@
                     />ganz anderer Meinung seien.</p>
                 <p>Sehr interessant waren <persName key="KornfeldSigmund"
                         ref="https://d-nb.info/gnd/136423078">Kornfeld</persName>'s Äußerungen
-                    bezüglich der wirtschaftlichen Verhältnisse zwischen
-                        <placeName>Oesterreich</placeName> und <placeName>Ungarn</placeName>. Sie
+                    bezüglich der wirtschaftlichen Verhältnisse zwischen <placeName
+                        key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>. Sie
                     laufen auf die Idee einer <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzolllinie</term>
                     </index> hinaus. Er begründete ihre Notwendigkeit mit den wachsenden Interessen
@@ -932,10 +1024,11 @@
                     ein Zweites möglich, nämlich die Aufrechterhaltung des <index>
                         <term key="Oesterreich-Ungarn/Ausgleich">67er-Ausgleiches</term>
                     </index>, jedoch nur in der Form eines zwischen den beiden voneinander ganz
-                    unabhängigen starken <note>Sollte lauten: Staaten</note> geschlossenen
-                    Staatsvertrages, bei dem aber jede gesamtstaatliche Idee ausgeschlossen bleiben
-                    müßte. Ein Staatsvertrag zwischen den beiden gleichberechtigten Staaten könnte
-                    dann auch eine längere Dauer haben als der bisherige 10jährige <index>
+                    unabhängigen starken<note type="editorial">Sollte lauten: Staaten</note>
+                    geschlossenen Staatsvertrages, bei dem aber jede gesamtstaatliche Idee
+                    ausgeschlossen bleiben müßte. Ein Staatsvertrag zwischen den beiden
+                    gleichberechtigten Staaten könnte dann auch eine längere Dauer haben als der
+                    bisherige 10jährige <index>
                         <term key="Oesterreich-Ungarn/Ausgleich">Ausgleich</term>
                     </index>. Ein Gedanke, den auch <persName key="KornfeldSigmund"
                         ref="https://d-nb.info/gnd/136423078">Kornfeld</persName> ventilierte, indem
@@ -945,9 +1038,12 @@
                         key="ApponyiAlbert" ref="https://d-nb.info/gnd/118645501">Apponyi</persName>
                     kann sich nicht denken, daß von einer Seite ein Zollkrieg gewünscht wird. Eine
                     Vereinbarung in wirtschaftlicher Hinsicht stellt er sich nicht schwer vor.
-                        <placeName>Ungarn</placeName> werde loyal die Interessen <pb n="17"
-                        /><placeName>Oesterreichs</placeName> berücksichtigen. Beide Staaten könnten
-                    dann immer dem Ausland gegenüber eine Einheit bilden. <index>
+                        <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> werde loyal die Interessen <pb n="17"/><placeName
+                        key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreichs</placeName> berücksichtigen. Beide Staaten könnten dann immer
+                    dem Ausland gegenüber eine Einheit bilden. <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzolllinie</term>
                     </index>. Die Unterredung hatte den Zweck, eine Besprechung zwischen dem
                     Ausschuß der ungarischen Koalition (21 Mitglieder) und eine entsprechenden Zahl
@@ -955,8 +1051,9 @@
                         ref="https://d-nb.info/gnd/118645501">Apponyi</persName> verlangte aber, daß
                     diese dann auch die Sache im österreichischen <orgName key="Reichsrat"
                         ref="https://d-nb.info/gnd/35882-4">Parlamente</orgName> vertreten. Die
-                    Armeefrage sei nur eine Frage zwischen <placeName>Ungarn</placeName> und der
-                        <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                    Armeefrage sei nur eine Frage zwischen <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> und
+                    der <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
                         >Krone</persName>. Eine Einmischung des andern Staates müsse er ablehnen.
                     Unter diesem Vorbehalt nichts gegen eine Diskussion derselben.</p>
                 <p>Nachdem <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
@@ -968,7 +1065,8 @@
                         key="AbrahamowiczDawid" ref="https://d-nb.info/gnd/143832883"
                         >Abrahamowicz</persName> und <persName key="Silva-TaroucaErnst"
                         ref="https://d-nb.info/gnd/127064842">Tarouca</persName> von der Sache zu
-                    verständigen. Die beiden ersten waren noch in <placeName>Wien</placeName> und
+                    verständigen. Die beiden ersten waren noch in <placeName key="Wien"
+                        ref="https://www.geonames.org/2761367/wien.html">Wien</placeName> und
                     stimmten einer solchen Besprechung zu. Ganz meiner Meinung, daß die Armeefragen
                     als dem <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
                         >Kaiser</persName> zugehörig außer Spiel bleiben müssen. <persName
@@ -977,11 +1075,12 @@
                         ref="https://d-nb.info/gnd/118645501">Apponyi</persName>, daß wir bereit
                     wären und zwar unter den von mir formulierten Vorbehalt. Erhielt Antwort, daß
                     auch die Tschechen mit von der Partie sein müßten. Hierauf sprach ich in
-                        <placeName>Prag</placeName> mit <persName key="Silva-TaroucaErnst"
+                        <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html"
+                        >Prag</placeName> mit <persName key="Silva-TaroucaErnst"
                         ref="https://d-nb.info/gnd/127064842">Tarouca</persName> und wir einigten
                     uns, die Rückkehr <persName key="PacakBedrich"
-                        ref="https://d-nb.info/gnd/1024898318">Pacak</persName> aus
-                        <placeName>Misdroy</placeName> abzuwarten. Inzwischen nochmaliger
+                        ref="https://d-nb.info/gnd/1024898318">Pacak</persName> aus <placeName
+                        key="Misdroy">Misdroy</placeName> abzuwarten. Inzwischen nochmaliger
                     Schriftenwechsel zwischen <persName key="DerschattaJulius"
                         ref="https://d-nb.info/gnd/136192165">Derschatta</persName> und <persName
                         key="ApponyiAlbert" ref="https://d-nb.info/gnd/118645501"
@@ -989,8 +1088,9 @@
                     Beschleunigung der Sache keinen Wert legen, andererseits den Wunsch hatten, daß
                         <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
                         >Derschatta</persName> mit <persName key="KossuthFerenc"
-                        ref="https://d-nb.info/gnd/138888744">Kossuth</persName> der in
-                        <placeName>Karlsbad</placeName> mit <persName key="DerschattaJulius"
+                        ref="https://d-nb.info/gnd/138888744">Kossuth</persName> der in <placeName
+                        key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html"
+                        >Karlsbad</placeName> mit <persName key="DerschattaJulius"
                         ref="https://d-nb.info/gnd/136192165">Derschatta</persName> zugleich in der
                     Kur war, sprechen sollte. Diese Unterredung fand zwar statt, aber zu der
                     geplanten Konferenz kam es nicht.</p>
@@ -1000,23 +1100,27 @@
                 <head><persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729"
                         >Fejervary</persName> und die Koalition. <p>Tagebuchblätter aus dem Herbst
                         1905</p></head>
-                <p>Während meiner Studien in <placeName>England</placeName>
+                <p>Während meiner Studien in <placeName key="England"
+                        ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
+                        >England</placeName>
                     <add>in den Jahren <date when="1883">1883</date> und <date when="1884"
                             >1884</date></add> war es eine Hauptaufgabe von mir, mit den
                     verschiedensten Persönlichkeiten über politische, wirtschaftliche und soziale
                     Verhältnisse zu sprechen. Ich bereitete mich jedes Mal sorgfältig vor, was schon
                     wegen der Sprache und der Beherrschung aller technischen Ausdrücke notwendig
-                    war. Ganz besonders für <placeName>England</placeName> gilt, daß man präzise
-                    Antworten nur bekommt, wenn man präzise frägt. Da das Ergebnis dieser
-                    Besprechungen in <placeName>England</placeName> ein wichtiges Material für meine
-                    damalige Arbeit <add>die Vorbereitung des Buches über die Arbeiterverbände</add>
-                    war, schärfte ich dabei meine Aufmerksamkeit und mein Gedächtnis, im Bestreben,
-                    das Gehörte so genau als möglich fixieren zu können.<note><persName
-                            key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858">J.M.
-                            Baernreither</persName>, Die englischen Arbeiterverbände und ihr Recht.
-                        Ein Beitrag zur Geschichte der sozialen Bewegung in der Gegenwart, Bd. 1
-                        (Tübingen 1886).</note> Wo immer es angäng[ig] war, machte ich mir während
-                    der Besprechung stenographische Notizen. Auf diese Weise erwarb ich mir eine
+                    war. Ganz besonders für <placeName key="England"
+                        ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
+                        >England</placeName> gilt, daß man präzise Antworten nur bekommt, wenn man
+                    präzise frägt. Da das Ergebnis dieser Besprechungen in <placeName key="England"
+                        ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
+                        >England</placeName> ein wichtiges Material für meine damalige Arbeit
+                        <add>die Vorbereitung des Buches über die Arbeiterverbände</add> war,
+                    schärfte ich dabei meine Aufmerksamkeit und mein Gedächtnis, im Bestreben, das
+                    Gehörte so genau als möglich fixieren zu können.<note type="editorial">J.M.
+                        Baernreither, Die englischen Arbeiterverbände und ihr Recht. Ein Beitrag zur
+                        Geschichte der sozialen Bewegung in der Gegenwart, Bd. 1 (Tübingen
+                        1886).</note> Wo immer es angäng[ig] war, machte ich mir während der
+                    Besprechung stenographische Notizen. Auf diese Weise erwarb ich mir eine
                     Fertigkeit, die ich damals und später immer mehr ausbildete. Zu keiner der
                     Besprechungen, über die ich in diesen Blättern berichte, bin ich gegangen, ohne
                     mir einen genauen Plan für die Konversation zu machen und über keine
@@ -1034,10 +1138,13 @@
                     in heftiger Fehde lag.</p>
             </div>
             <div n="1905-09-05" type="diary-entry">
-                <p><placeName>Budapest</placeName>, den <date when="1905-09-05">5. September
-                        1905</date></p>
+                <p><placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
+                        >Budapest</placeName>, den <date when="1905-09-05">5. September
+                    1905</date></p>
                 <p>Nach den bisherigen Anknüpfungen mit den Ungarn halte ich es für angemessen
-                    während meiner Anwesenheit in <placeName>Budapest</placeName> aus Anlaß des <index>
+                    während meiner Anwesenheit in <placeName key="Budapest"
+                        ref="https://www.geonames.org/3054638/budapest.html">Budapest</placeName>
+                    aus Anlaß des <index>
                         <term key="Kongresse/Enqueten">Gefängniskongreßes</term>
                     </index> vor allem Fühlung mit <persName key="AndrassyGyula"
                         ref="https://d-nb.info/gnd/118502875">Andrassy</persName> zu suchen, als
@@ -1072,10 +1179,13 @@
                     wäre ein Ausweg, wenn die ungarische <index>
                         <term key="Oesterreich-Ungarn/Kommandosprache">Kommandosprache</term>
                     </index> z. B. nur bei den Husarenregimentern eingeführt würde und nur in der
-                    Eskadron. Aber es kommt darauf an, wie in <placeName>Oesterreich</placeName> ein
-                    solcher Schritt aufgefaßt würde, denn man sagt uns immer, so etwas sei
-                    unmöglich, weil dann in <placeName>Oesterreich</placeName> alles in die Luft
-                    gehe. Ich erwiderte darauf, daß wir bei Einfüh<pb n="20"/>rung der ungarischen <index>
+                    Eskadron. Aber es kommt darauf an, wie in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> ein solcher Schritt aufgefaßt würde, denn man sagt
+                    uns immer, so etwas sei unmöglich, weil dann in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> alles in die Luft gehe. Ich erwiderte darauf, daß
+                    wir bei Einfüh<pb n="20"/>rung der ungarischen <index>
                         <term key="Oesterreich-Ungarn/Kommandosprache">Kommandosprache</term>
                     </index> fürchten, daß Tschechen und Polen dann sofort die Frage der
                     tschechischen und polnischen Kommandosprache aufrollen würden und der
@@ -1095,9 +1205,11 @@
                     Wiederholt kam <persName key="AndrassyGyula"
                         ref="https://d-nb.info/gnd/118502875">Andrássy</persName> auf folgenden
                     Gedankengang zurück.</p>
-                <p>Wenn eine Regierung in <placeName>Ungarn</placeName>, welche immer es sei, keine
-                    Konzessionen in militärischer Hinsicht bringt, wird sie Zugeständnisse in
-                    wirtschaftlicher Hinsicht erreichen müssen. Kein ungarisches <index>
+                <p>Wenn eine Regierung in <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>,
+                    welche immer es sei, keine Konzessionen in militärischer Hinsicht bringt, wird
+                    sie Zugeständnisse in wirtschaftlicher Hinsicht erreichen müssen. Kein
+                    ungarisches <index>
                         <term key="Oesterreich-Ungarn/Kommandosprache">Kommando</term>
                     </index>, dann wirtschaftliche Trennung, Konzessionen auf wirtschaftlichem
                     Gebiete. Wenn aber Konzessionen auf militärischem Gebiete, dann ist die 67er
@@ -1124,8 +1236,9 @@
                     der <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzollinie</term>
                     </index> propagiere. Man hofft in diesen Kreisen auf eine Einwanderung der
-                    österreichischen Industrie in größerem Umfange nach
-                        <placeName>Ungarn</placeName> und erblickt in dem <index>
+                    österreichischen Industrie in größerem Umfange nach <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> und
+                    erblickt in dem <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzoll</term>
                     </index> einen Uebergang, den Industrie und Landwirtschaft Ungarns notwendig
                     haben, bevor die vollständige Trennung eintritt. <persName key="AndrassyGyula"
@@ -1133,8 +1246,9 @@
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzoll</term>
                     </index>, der nur der Anfang der Trennung ist, würde ihn aber im Notfall
                     akzeptieren als das kleinere Uebel gegenüber der vollständigen Trennung.</p>
-                <p>Ferner fragte ich, was für Modifikationen der 67er Basis man in
-                        <placeName>Ungarn</placeName> im Auge habe? Hierauf erörterte <persName
+                <p>Ferner fragte ich, was für Modifikationen der 67er Basis man in <placeName
+                        key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> im Auge habe? Hierauf erörterte <persName
                         key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
                         >Andrássy</persName> in beständiger Wechselrede mit mir die Verschiedenheit
                     des österreichischen und ungarischen <index>
@@ -1153,14 +1267,17 @@
                         <term key="Oesterreich-Ungarn/Kommandosprache">Kommandosprache</term>
                     </index> die Rektifizierung der <index>
                         <term key="Oesterreich-Ungarn/Quote">Quote</term>
-                    </index> sei und daß man in dieser Hinsicht in
-                        <placeName>Oesterreich</placeName> wirken sollte, um eine Lösung der Krise
-                    zu ermöglichen. Ganz entschieden ist er der An<pb n="22"/>sicht, daß diese
-                    Verständigung zwischen <placeName>Oesterreich</placeName> und
-                        <placeName>Ungarn</placeName> nicht durch Besprechungen zwischen
-                    österreichischen und ungarischen Parlamentariern zu erzielen sei. Bei solchen
-                    Besprechungen würden beide Teile, um keine Verantwortung auf sich zu laden, das
-                    Meiste fordern und man würde bei der <index>
+                    </index> sei und daß man in dieser Hinsicht in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> wirken sollte, um eine Lösung der Krise zu
+                    ermöglichen. Ganz entschieden ist er der An<pb n="22"/>sicht, daß diese
+                    Verständigung zwischen <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> nicht
+                    durch Besprechungen zwischen österreichischen und ungarischen Parlamentariern zu
+                    erzielen sei. Bei solchen Besprechungen würden beide Teile, um keine
+                    Verantwortung auf sich zu laden, das Meiste fordern und man würde bei der <index>
                         <term key="Oesterreich-Ungarn/Personalunion">Personalunion</term>
                     </index> enden. Nur starke Regierungen hüben und drüben, denen die <persName
                         key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
@@ -1179,38 +1296,44 @@
                         ref="https://d-nb.info/gnd/124554865">Kristoffy</persName> sei Minister
                     geworden, was er nie geträumt hatte und habe die von ihm gefaßte Idee des
                     allgemeinen Stimmrechtes aufgeworfen, um sich momentan zu helfen. Gegen dieses
-                    sprach er sich in den schärfsten Ausdrücken aus. Jetzt habe
-                        <placeName>Ungarn</placeName> eine Million Wähler, dann soll es vier
-                    Millionen haben; dieser Schritt sei ein zu großer;
-                        <placeName>England</placeName> habe seit der Reformbill 3 oder 4
-                    Wahlerweiterungen beschlossen und sei heute noch nicht bei dem allgemeinen
-                    gleichen Stimmrecht angelangt; in <placeName>Deutschland</placeName> liegen die
-                    Verhältnisse ganz anders, da sei Heer und Bürokratie und eine sehr starke
-                    Dynastie ein Gegengewicht. In <placeName>Ungarn</placeName> kommen aber
-                    unvermittelt Schichten zur Wahlurne, auf welche eine staatliche Politik
-                    überhaupt nicht zu gründen ist. Das zwanzigste Jahrhundert nötige zu Reformen,
-                    selbst solchen, die man für überstürzt ansehe, aber daß man von Regierungs wegen
-                        <pb n="23"/>die radikalen Instinkte derartig anfache, wie es jetzt in
-                        <placeName>Ungarn</placeName> geschieht, das sei unverantwortlich und
-                    wiewohl <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
-                        >Andrassy</persName> in der Form und in den Worten immer glatt und gentil
-                    ist, brauchte er bei dieser Gelegenheit, insbesondere gegen <persName
-                        key="KristoffyJozsef" ref="https://d-nb.info/gnd/124554865"
-                        >Kristoffy</persName>, die heftigsten Worte. Er erzählte unter anderem auch,
-                    daß <persName key="TiszaIstvan" ref="https://d-nb.info/gnd/118998897"
-                        >Tisza</persName> von jeher der Meinung war, daß die ungarische
-                    Verfassungsmäßigkeit nur durch einen Parlamentsstreich gerettet werden könne.
-                        <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
-                        >Andrassy</persName> habe ihn aber stets gewarnt und es habe große Kämpfe
-                    über diese Frage zwischen ihnen gegeben.</p>
+                    sprach er sich in den schärfsten Ausdrücken aus. Jetzt habe <placeName
+                        key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> eine Million Wähler, dann soll es vier Millionen haben;
+                    dieser Schritt sei ein zu großer; <placeName key="England"
+                        ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
+                        >England</placeName> habe seit der Reformbill 3 oder 4 Wahlerweiterungen
+                    beschlossen und sei heute noch nicht bei dem allgemeinen gleichen Stimmrecht
+                    angelangt; in <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName> liegen die Verhältnisse ganz anders, da sei Heer
+                    und Bürokratie und eine sehr starke Dynastie ein Gegengewicht. In <placeName
+                        key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> kommen aber unvermittelt Schichten zur Wahlurne, auf
+                    welche eine staatliche Politik überhaupt nicht zu gründen ist. Das zwanzigste
+                    Jahrhundert nötige zu Reformen, selbst solchen, die man für überstürzt ansehe,
+                    aber daß man von Regierungs wegen <pb n="23"/>die radikalen Instinkte derartig
+                    anfache, wie es jetzt in <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
+                    geschieht, das sei unverantwortlich und wiewohl <persName key="AndrassyGyula"
+                        ref="https://d-nb.info/gnd/118502875">Andrassy</persName> in der Form und in
+                    den Worten immer glatt und gentil ist, brauchte er bei dieser Gelegenheit,
+                    insbesondere gegen <persName key="KristoffyJozsef"
+                        ref="https://d-nb.info/gnd/124554865">Kristoffy</persName>, die heftigsten
+                    Worte. Er erzählte unter anderem auch, daß <persName key="TiszaIstvan"
+                        ref="https://d-nb.info/gnd/118998897">Tisza</persName> von jeher der Meinung
+                    war, daß die ungarische Verfassungsmäßigkeit nur durch einen Parlamentsstreich
+                    gerettet werden könne. <persName key="AndrassyGyula"
+                        ref="https://d-nb.info/gnd/118502875">Andrassy</persName> habe ihn aber
+                    stets gewarnt und es habe große Kämpfe über diese Frage zwischen ihnen
+                    gegeben.</p>
                 <p> Wir schieden von einander, indem er die Bemerkung machte, es wäre gut, wenn
                     diese Gesichtspunkte doch noch einmal <persName key="GoluchowskiAgenor"
                         ref="https://d-nb.info/gnd/1011172178">Goluchowski</persName>
                     auseinandergesetzt würden.</p>
             </div>
             <div n="1905-09-06" type="diary-entry">
-                <p><placeName>Budapest</placeName>, den <date when="1905-09-06">6. September
-                        1905</date></p>
+                <p><placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
+                        >Budapest</placeName>, den <date when="1905-09-06">6. September
+                    1905</date></p>
                 <p>Die Regierung hat auch Anhänger. <persName key="SzilagyiArthur" ref="">Dr. Arthur
                         Charles Szilágyi</persName>, Advokat, Honvedmajor, Vertreter der
                     erzherzoglichen Familie, am <index>
@@ -1227,15 +1350,17 @@
                     auch reif sei, antwortete er gedämpft, das könne man allerdings nicht behaupten.
                     Auf meine weitere Frage, ob ein so zusammengesetztes <orgName key="Reichsrat"
                         ref="https://d-nb.info/gnd/35882-4">Parlament</orgName> für die
-                    Gemeinsamkeit mit Oesterreich zu haben sein werde, meinte er, daß die
-                    agrarischen Ideen vorherrschen werden und diese würden für die <pb n="24"
-                    />Gemeinsamkeit in die Wagschale fallen. Auf jeden Fall werde aber ein solches
-                        <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
-                        >Parlament</orgName> lenksamer sein. Die Macht, welche eine Regierung in der
-                    Hand habe, sei überhaupt eine große, schon jetzt antichambrieren Mitglieder der
-                    Unabhängigkeitspartei bei allen Ministern. Einem auf breiter Basis gewählten
-                    Haus könne ein Ministerium durch alle möglichen Mittel der individuellen
-                    Begünstigung beikommen. Vor allem müssen aber die <persName key="SzellKalman"
+                    Gemeinsamkeit mit <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> zu haben sein werde, meinte er, daß die agrarischen
+                    Ideen vorherrschen werden und diese würden für die <pb n="24"/>Gemeinsamkeit in
+                    die Wagschale fallen. Auf jeden Fall werde aber ein solches <orgName
+                        key="Reichsrat" ref="https://d-nb.info/gnd/35882-4">Parlament</orgName>
+                    lenksamer sein. Die Macht, welche eine Regierung in der Hand habe, sei überhaupt
+                    eine große, schon jetzt antichambrieren Mitglieder der Unabhängigkeitspartei bei
+                    allen Ministern. Einem auf breiter Basis gewählten Haus könne ein Ministerium
+                    durch alle möglichen Mittel der individuellen Begünstigung beikommen. Vor allem
+                    müssen aber die <persName key="SzellKalman"
                         ref="https://d-nb.info/gnd/1084341417">Szell</persName>’schen Gesetze über
                     Inkompatibilität und über die Wahlrektifizierung durch die Kurie aufgehoben
                     werden. Schließlich sagte er doch – im Widerspruch mit früherem - es werde
@@ -1248,23 +1373,27 @@
                         ref="https://d-nb.info/gnd/118502875">Andrassy</persName> überein, nur ist
                     er nicht so pessimistisch. In wirtschaftlicher Hinsicht kommt er wieder auf die <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzollinie</term>
-                    </index> zurück, die er schon in <placeName>Wien</placeName> gepredigt hat. Er
-                    meint, dies sei die einzige Form des Dualismus und der wirtschaftlichen Einheit,
-                    die heute möglich ist. Selbst wenn der <index>
+                    </index> zurück, die er schon in <placeName key="Wien"
+                        ref="https://www.geonames.org/2761367/wien.html">Wien</placeName> gepredigt
+                    hat. Er meint, dies sei die einzige Form des Dualismus und der wirtschaftlichen
+                    Einheit, die heute möglich ist. Selbst wenn der <index>
                         <term key="Oesterreich-Ungarn/Ausgleich">Ausgleich</term>
                     </index> in der bisherigen Form zustande käme, also ohne <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzoll</term>
                     </index>, so würde sich aus Notwendigkeit die ungarische Industriepolitik nur
                     noch mehr akzentuieren, und der Schutz, welcher neu entstehenden Industrien in
-                        <placeName>Ungarn</placeName> dann von Staatswegen gewährt werden müßte,
-                    wären in der Wirkung ebenso einschneidend, wie ein <index>
+                        <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> dann von Staatswegen gewährt werden müßte, wären in der
+                    Wirkung ebenso einschneidend, wie ein <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzoll</term>
-                    </index>, nur viel willkürlicher. Die Versuche <placeName>Ungarns</placeName>
-                    sich eine Industrie um jeden Preis zu schaffen, würden noch viel intensiver
-                    werden. Man werde österreichische Industrien herüber zu ziehen trachten,
-                        <placeName>Oesterreich</placeName> werde sich gegen alle diese Dinge wehren
-                    und es würde sich ein ganz unleidlicher Zustand herausbilden. Beim Bestande
-                    eines <index>
+                    </index>, nur viel willkürlicher. Die Versuche <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarns</placeName> sich
+                    eine Industrie um jeden Preis zu schaffen, würden noch viel intensiver werden.
+                    Man werde österreichische Industrien herüber zu ziehen trachten, <placeName
+                        key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> werde sich gegen alle diese Dinge wehren und es
+                    würde sich ein ganz unleidlicher Zustand herausbilden. Beim Bestande eines <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzolles</term>
                     </index> würde diese Art Rivalität aufhören, und es könnte sich ein leidliches
                     Verhältnis herausbilden.</p>
@@ -1295,10 +1424,11 @@
                     heutigen Verhältnissen der <index>
                         <term key="Oesterreich-Ungarn/Kommandosprache">Kommandosprache</term>
                     </index> festzuhalten. Was das allgemeine Stimmrecht anbelangt, wundert er sich,
-                    daß die Deutschen in <placeName>Oesterreich</placeName> gegen die doch
-                    naheliegende Uebertragung der Idee nach der andern Reichshälfte nicht
-                    protestieren. Er deutete an, daß in diesen Tagen dem <persName
-                        key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+                    daß die Deutschen in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> gegen die doch naheliegende Uebertragung der Idee
+                    nach der andern Reichshälfte nicht protestieren. Er deutete an, daß in diesen
+                    Tagen dem <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
                         >Kaiser</persName> die große Gefahr, die in der Anwendung dieses Mittels
                     liegt, klar gemacht werden wird. Dem <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName> sei die Sache
@@ -1307,8 +1437,8 @@
                         >Kristoffys</persName>, die Frage zu lancieren, glaubt er nicht.</p>
             </div>
             <div n="1905-09-07" type="diary-entry">
-                <p><placeName>Budapest</placeName>, <date when="1905-09-07">7. September
-                    1905</date></p>
+                <p><placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
+                        >Budapest</placeName>, <date when="1905-09-07">7. September 1905</date></p>
                 <p>Ich habe gestern <persName key="FejervaryGeza"
                         ref="https://d-nb.info/gnd/130147729">Fejervary</persName> aufgesucht, ihn
                     aber nicht getroffen. Nachmittags sandte er mir seinen Sekretär und ließ mich
@@ -1326,7 +1456,9 @@
                     den Neugewählten sind viele höchst zweifelhafte Elemente. Von 80 neugewählten
                     Abgeordneten sind die Diäten gepfändet. Diese Elemente würden befriedigt werden
                     müssen, wenn die Koalition an die Herrschaft käme. Auf meine Einwendung, daß man
-                    in <placeName>Oesterreich</placeName> vielfach der Meinung sei, der <persName
+                    in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> vielfach der Meinung sei, der <persName
                         key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
                         >Kaiser</persName> hätte gleich nach den Wahlen der Koalition die Regierung
                     übertragen sollen - antwortete er, das sei unmöglich gewesen, der <persName
@@ -1375,26 +1507,31 @@
                     Bewegung mit großen Geldmitteln. Der <orgName key="MagyarOrszag" ref="">Magyar
                         ország</orgName>, ein radikales Blatt, Redakteur ist der Abgeordnete
                         <persName key="HolloLajos" ref="https://d-nb.info/gnd/1012033074"
-                        >Holló</persName>, hatte noch vor kurzem in <placeName>Wien</placeName> bei
-                    einer Bank eine Schuld von 170.000 K für Papier, jetzt ist sie bezahlt mit
-                    geistlichen Geldern. Die Kongregationen haben im Ganzen 4 Millionen Kronen
-                    hergegeben, und als ich dies bezweifelte, meinte er, das sei außer Frage und er
-                    könne sich nur die Motive nicht erklären. Er fügte bei, das könne aber den
-                    Geistlichen teuer zu stehen kommen, denn ein <orgName key="ungarReichstag"
+                        >Holló</persName>, hatte noch vor kurzem in <placeName key="Wien"
+                        ref="https://www.geonames.org/2761367/wien.html">Wien</placeName> bei einer
+                    Bank eine Schuld von 170.000 K für Papier, jetzt ist sie bezahlt mit geistlichen
+                    Geldern. Die Kongregationen haben im Ganzen 4 Millionen Kronen hergegeben, und
+                    als ich dies bezweifelte, meinte er, das sei außer Frage und er könne sich nur
+                    die Motive nicht erklären. Er fügte bei, das könne aber den Geistlichen teuer zu
+                    stehen kommen, denn ein <orgName key="ungarReichstag"
                         ref="https://d-nb.info/gnd/4194545-1">Reichstag</orgName> auf Grund des
                     allgemeinen Stimmrechtes könne auch die Säkularisierung der geistlichen Güter
                     aussprechen.</p>
                 <p>Weiter kamen wir auf die Rückwirkung, welche diese ungarischen Dinge auf uns in
-                        <placeName>Oesterreich</placeName> ausüben können. Zu<pb n="28"/>erst
-                    bezüglich des allgemeinen Stimmrechtes. Ich machte sehr eindringlich geltend,
-                    daß, wenn hier das allgemeine Stimmrecht ausgespielt wird, wir sofort die ganze
-                    Frage am Hals haben werden. Er antwortete, daß dies bis zu einem gewissen Grad
-                    allerdings unvermeidlich sei. <placeName>Oesterreich</placeName> hat auch die
-                    fünfte Kurie und das allgemeine Stimmrecht ohne Rücksicht auf Ungarn eingeführt.
-                        <note>1896 wurde durch die Badenische Wahlrechtsreform eine fünfte Kurie
-                        geschaffen, die 72 Mandate umfasste und in der Männer über 25 Jahren mit
-                        einer jährlichen Steuerleistung von 5 Gulden resp. 4 Gulden wahlberechtigt
-                        waren geschaffen.</note> Die Ideen wirken herüber und hinüber, dem sei nicht
+                        <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> ausüben können. Zu<pb n="28"/>erst bezüglich des
+                    allgemeinen Stimmrechtes. Ich machte sehr eindringlich geltend, daß, wenn hier
+                    das allgemeine Stimmrecht ausgespielt wird, wir sofort die ganze Frage am Hals
+                    haben werden. Er antwortete, daß dies bis zu einem gewissen Grad allerdings
+                    unvermeidlich sei. <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> hat auch die fünfte Kurie und das allgemeine
+                    Stimmrecht ohne Rücksicht auf Ungarn eingeführt. <note type="editorial">1896
+                        wurde durch die Badenische Wahlrechtsreform eine fünfte Kurie geschaffen,
+                        die 72 Mandate umfasste und in der Männer über 25 Jahren mit einer
+                        jährlichen Steuerleistung von 5 Gulden resp. 4 Gulden wahlberechtigt waren
+                        geschaffen.</note> Die Ideen wirken herüber und hinüber, dem sei nicht
                     auszuweichen. Nun setzte ich ihm ausführlich auseinander, wenn die <orgName
                         key="Delegationen" ref="https://d-nb.info/gnd/35883-6"
                         >Delegationen</orgName> nicht zusammentreten, das gemeinsame Budget pro 1906
@@ -1412,20 +1549,24 @@
                     bisherigen <index>
                         <term key="Oesterreich-Ungarn/Quote">Quote</term>
                     </index> die betreffende Summen votiert zu erhalten oder überhaupt
-                    sicherzustellen. Er werde für seine Person für die Leistung
-                        <placeName>Ungarns</placeName> schon sorgen,
-                        <placeName>Oesterreich</placeName> müsste das Gleiche tun und als ich
-                    daraufhin meinte, wir in <placeName>Oesterreich</placeName> müssten dafür eine
-                    parlamentarische Form erfinden, fand er das ganz natürlich. Um ganz sicher zu
-                    gehen und da ich meinen Ohren nicht traute, wiederholte ich ihm seinen ganzen
-                    Gedankengang, den er als richtig aufgefaßt bestätigte. Ich suchte ihm klar zu
-                    machen, daß man so einen Ausweg bei uns als der staatsrechtlichen Grundlage
-                    entbehrend bezeichnen werde, worauf er aber die Achseln zuckte und meinte, er
-                        <pb n="29"/>sei bereit, alles auf sich zu nehmen, es sei kein anderer
-                    Ausweg.</p>
+                    sicherzustellen. Er werde für seine Person für die Leistung <placeName
+                        key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarns</placeName> schon sorgen, <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> müsste das Gleiche tun und als ich daraufhin
+                    meinte, wir in <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> müssten dafür eine parlamentarische Form erfinden,
+                    fand er das ganz natürlich. Um ganz sicher zu gehen und da ich meinen Ohren
+                    nicht traute, wiederholte ich ihm seinen ganzen Gedankengang, den er als richtig
+                    aufgefaßt bestätigte. Ich suchte ihm klar zu machen, daß man so einen Ausweg bei
+                    uns als der staatsrechtlichen Grundlage entbehrend bezeichnen werde, worauf er
+                    aber die Achseln zuckte und meinte, er <pb n="29"/>sei bereit, alles auf sich zu
+                    nehmen, es sei kein anderer Ausweg.</p>
                 <p>Zum Schluß warf ich noch einmal die Frage auf, ob mit der Koalition nicht doch
-                    ein Kompromiß möglich wäre. Er sagte, daß seit 100 Jahren in
-                        <placeName>Ungarn</placeName> die <index>
+                    ein Kompromiß möglich wäre. Er sagte, daß seit 100 Jahren in <placeName
+                        key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> die <index>
                         <term key="Oligarchie">Oligarchie</term>
                     </index>, der ewig unzufriedene kleine <index>
                         <term key="Aristokratie">Adel</term>
@@ -1434,25 +1575,25 @@
                     aber es sei in einer Weise an ihn appelliert worden, daß er nicht sich hätte
                     weigern können.</p>
                 <p>Wenn ich sonst Eindrücke fixieren soll, die ich hier gewonnen habe, so ist es
-                    zunächst von einer Fahrt die ich im Wagen nach
-                        <placeName>Rakos-Palota</placeName> machte, wo ich eine
-                    Mädchenbesserungsanstalt besuchte.<note>Baernreither beschäftige sich seit den
+                    zunächst von einer Fahrt die ich im Wagen nach <placeName key="Rakos-Palota"
+                        >Rakos-Palota</placeName> machte, wo ich eine Mädchenbesserungsanstalt
+                        besuchte.<note type="editorial">Baernreither beschäftige sich seit den
                         1880er Jahren mit Fürsorgeeinrichtungen und Strafanstalten für Jugendliche
-                        im internationalen Vergleich</note> Man kommt auf dem Wege durch
-                        <placeName>Neupest</placeName>, wo ich seit 8 Jahren nicht gewesen war.
+                        im internationalen Vergleich</note> Man kommt auf dem Wege durch <placeName
+                        key="Neupest">Neupest</placeName>, wo ich seit 8 Jahren nicht gewesen war.
                     Auffallend ist die große Vermehrung der industriellen Etablissements in diesem
                     Stadtteil. Sie scheinen alle im lebhaften Betriebe und da es gerade 6 Uhr Abend
                     war als ich durchfuhr, so sah ich viele Arbeiter, die gesund und intelligent
                     aussahen. Von hier werden also jedenfalls einige Arbeiterbataillone am <date
                         when="1905-09-15">15. September</date> vor das Parlamentsgebäude
-                        marschieren.<note>Am Tag der Wiederöffnung des ungarischen Reichstags am 15.
-                        September 1905 veranstaltete die ungarische sozialdemokratische Partei eine
-                        Massenkundgebung für das allgemeine Wahlrecht, die ohne Zwischenfälle
-                        verlief.</note>Hie und da hörte ich in Verkaufsläden, daß die Geschäfte
-                    schlecht gehen, weniger gekauft wird als früher und daß sich alles einschränke.
-                    Im äußern Bild der Stadt fällt das nicht auf und als ich heute zum Redakteur des
-                        <orgName key="PesterLloyd" ref="https://d-nb.info/gnd/5092487-4">Pester
-                        Lloyd</orgName>
+                        marschieren.<note type="editorial">Am Tag der Wiederöffnung des ungarischen
+                        Reichstags am 15. September 1905 veranstaltete die ungarische
+                        sozialdemokratische Partei eine Massenkundgebung für das allgemeine
+                        Wahlrecht, die ohne Zwischenfälle verlief.</note>Hie und da hörte ich in
+                    Verkaufsläden, daß die Geschäfte schlecht gehen, weniger gekauft wird als früher
+                    und daß sich alles einschränke. Im äußern Bild der Stadt fällt das nicht auf und
+                    als ich heute zum Redakteur des <orgName key="PesterLloyd"
+                        ref="https://d-nb.info/gnd/5092487-4">Pester Lloyd</orgName>
                     <persName key="VeigelsbergLeo" ref="https://d-nb.info/gnd/117360430"
                         >Veigelsberg</persName> bemerkte, die letzten 30 Jahre mit ihrer
                     aufsteigenden Bewegung rechtfertigen nicht die Unzufriedenheit der hiesigen <index>
@@ -1479,9 +1620,9 @@
                     Abgeordnete erschienen als Zuseher für kurze Zeit auf der Galerie.</p>
             </div>
             <div n="1905-09-09" type="diary-entry">
-                <p><placeName>Agram</placeName>, am <date when="1905-09-09">9. September
-                    1905</date></p>
-                <note>Im Tagebuch ist dieser Eintrag mit 8.9.1905 datiert.</note>
+                <p><placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html"
+                        >Agram</placeName>, am <date when="1905-09-09">9. September 1905</date></p>
+                <note type="editorial">Im Tagebuch ist dieser Eintrag mit 8.9.1905 datiert.</note>
                 <p>Ich war <add>diesmal</add> zwar nur kurz hier, hatte aber den Vorteil, vom
                     hiesigen Bürgermeister <persName key="AmrusMilan"
                         ref="https://d-nb.info/gnd/143840010">Dr. Amruš</persName> geführt <add>und
@@ -1496,38 +1637,48 @@
                     eine Elle Rechte" – „ein kleines Land soll sich nur bescheidene Ziele setzen" –
                     „ein Volk hat ein größeres Interesse an einer guten Verwaltung als an
                     staatsrechtlichen Theorien" – mit solchen und ähnlichen Sätzen würzte er seine
-                    Konversation. Heute ist in <placeName>Laibach</placeName> eine große
-                    Festlichkeit zu Ehren eines slowenischen Dichters. <persName key="AmrusMilan"
-                        ref="https://d-nb.info/gnd/143840010">Amrusch</persName> erzählte mir
-                    gestern <add>er habe sich</add> mit dem <persName key="PejacevicTivadar"
-                        ref="https://d-nb.info/gnd/1025703324">Banus</persName> verständigt und
-                    wolle hinfahren, werde aber nichts von Verbrüderung und dergleichen sprechen.
-                    Das alles zu seiner Charakteristik. Trotz alledem kommen selbst bei ihm die
-                    nationalen Ideale der Kroaten zum Ausdruck. Er hat eine <pb n="31"
-                    />schwärmerische Verehrung für <persName key="StrossmayerJosip"
-                        ref="https://d-nb.info/gnd/118799185">Strossmayer</persName>, den er einen
-                    der größten Menschen nennt. <add>Damit ist alles gesagt.</add> Er hat Vieles den
-                    Ungarn gegenüber auf dem Herzen, und immer wieder kommt er darauf, wie hart es
-                    in <placeName>Kroatien</placeName> empfunden werde, daß die Ungarn seit
-                    Jahrzehnten die Bahn <placeName>Novi</placeName>–<placeName>Knin</placeName>
+                    Konversation. Heute ist in <placeName key="Laibach"
+                        ref="https://www.geonames.org/3239318/mestna-obcina-ljubljana.html"
+                        >Laibach</placeName> eine große Festlichkeit zu Ehren eines slowenischen
+                    Dichters. <persName key="AmrusMilan" ref="https://d-nb.info/gnd/143840010"
+                        >Amrusch</persName> erzählte mir gestern <add>er habe sich</add> mit dem
+                        <persName key="PejacevicTivadar" ref="https://d-nb.info/gnd/1025703324"
+                        >Banus</persName> verständigt und wolle hinfahren, werde aber nichts von
+                    Verbrüderung und dergleichen sprechen. Das alles zu seiner Charakteristik. Trotz
+                    alledem kommen selbst bei ihm die nationalen Ideale der Kroaten zum Ausdruck. Er
+                    hat eine <pb n="31"/>schwärmerische Verehrung für <persName
+                        key="StrossmayerJosip" ref="https://d-nb.info/gnd/118799185"
+                        >Strossmayer</persName>, den er einen der größten Menschen nennt. <add>Damit
+                        ist alles gesagt.</add> Er hat Vieles den Ungarn gegenüber auf dem Herzen,
+                    und immer wieder kommt er darauf, wie hart es in <placeName key="Kroatien"
+                        ref="https://www.geonames.org/3202326/republic-of-croatia.html"
+                        >Kroatien</placeName> empfunden werde, daß die Ungarn seit Jahrzehnten die
+                    Bahn <placeName key="NoviGrad">Novi</placeName>–<placeName key="Knin"
+                        ref="https://www.geonames.org/3197986/knin.html">Knin</placeName>
                     hintertreiben. So regierungsfreundlich er ist, schimmert bei ihm doch das Ideal
                     der Kroaten durch. Auf Schritt und Tritt wird man hier an dasselbe gemahnt. Es
-                    ist die Vereinigung aller kroatischen Länder <placeName>Oesterreichs</placeName>
-                    in ein staatsrechtliches Ganzes. Ich war immer der Meinung und diese ist durch
-                    meinen Agramer Aufenthalt und stundenlange Besprechungen gerade mit
-                    Konservativen nur bestärkt worden, daß die bei uns immer noch gehörte Phrase:
-                    Die Kroaten sollte man gegen die Ungarn ausspielen, keinen Sinn mehr hat. Von
-                    den alten Ideen, denen einst <persName key="JelacicJosip"
-                        ref="https://d-nb.info/gnd/118776088">Jellacic</persName> gedient: Wien
-                    gegen die Ungarn zu stützen, habe ich kaum mehr schwache Reminiszenzen gefunden.
-                    Die sogenannte illyrische Idee beherrscht alle Köpfe. Die Opposition spricht sie
-                    offen aus, sowohl das gemäßigte <orgName key="Obzor" ref="">„Obzor"</orgName>
-                    als die radikale <persName key="StarcevicAnte"
+                    ist die Vereinigung aller kroatischen Länder <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreichs</placeName> in ein staatsrechtliches Ganzes. Ich war immer der
+                    Meinung und diese ist durch meinen Agramer Aufenthalt und stundenlange
+                    Besprechungen gerade mit Konservativen nur bestärkt worden, daß die bei uns
+                    immer noch gehörte Phrase: Die Kroaten sollte man gegen die Ungarn ausspielen,
+                    keinen Sinn mehr hat. Von den alten Ideen, denen einst <persName
+                        key="JelacicJosip" ref="https://d-nb.info/gnd/118776088">Jellacic</persName>
+                    gedient: <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html"
+                        >Wien</placeName> gegen die Ungarn zu stützen, habe ich kaum mehr schwache
+                    Reminiszenzen gefunden. Die sogenannte illyrische Idee beherrscht alle Köpfe.
+                    Die Opposition spricht sie offen aus, sowohl das gemäßigte <orgName key="Obzor"
+                        ref="">„Obzor"</orgName> als die radikale <persName key="StarcevicAnte"
                         ref="https://d-nb.info/gnd/119559013">Stračevič</persName>-Partei, und nur
-                    mit dieser Idee könnte man operieren. Wäre es möglich,
-                        <placeName>Kroatien</placeName>, <placeName>Bosnien</placeName> und
-                        <placeName>Dalmatien</placeName> staatsrechtlich zu vereinigen, könnte man
-                    sich ein Gegengewicht gegen Ungarn verschaffen, aber das setzt eine so
+                    mit dieser Idee könnte man operieren. Wäre es möglich, <placeName key="Kroatien"
+                        ref="https://www.geonames.org/3202326/republic-of-croatia.html"
+                        >Kroatien</placeName>, <placeName key="Bosnien"
+                        ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html"
+                        >Bosnien</placeName> und <placeName key="Dalamatien"
+                        ref="https://www.geonames.org/3202210/dalmatia.html">Dalmatien</placeName>
+                    staatsrechtlich zu vereinigen, könnte man sich ein Gegengewicht gegen Ungarn
+                    verschaffen, aber das setzt eine so
                         <del>rücksichtslose</del><add>energische</add> Politik voraus, so viel
                     Kraft, die inneren und äußeren Hindernisse zu besiegen, so viel Schwung
                         <add>und</add> Mut <del>und Energie</del>, daß daran wohl praktisch keiner
@@ -1542,20 +1693,22 @@
                         >Amrus</persName> erzählte, ist eher eine <pb n="32"/>Bestätigung dieser
                     Möglichkeit als das Gegenteil. Der Kroat ist lang nicht so fleißig wie der
                     Tscheche, aber sehr anstellig. Es ist jetzt eine Gewerbeausstellung in
-                        <placeName>Agram</placeName>. Jede Ausstellung einer kleinen
-                    deutsch-böhmischen Stadt schlägt sie – aber es ist doch von allem etwas und rein
-                    manuell geschickt gemacht. Die Neubauten in <placeName>Agram</placeName> sind
+                        <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html"
+                        >Agram</placeName>. Jede Ausstellung einer kleinen deutsch-böhmischen Stadt
+                    schlägt sie – aber es ist doch von allem etwas und rein manuell geschickt
+                    gemacht. Die Neubauten in <placeName key="Agram"
+                        ref="https://www.geonames.org/3186886/zagreb.html">Agram</placeName> sind
                     geschmackvoll, sehr reinlich und das Aussehen der <del>nicht
                         unbedeutenden</del><add>neueren</add> Stadtteile geradezu überraschend nett
                     und gut gehalten. Ausgezeichnete Wasserleitung. Elektrische Anlage wird geplant,
                     aber Gasbeleuchtung, die dieser Stadt 250.000 K jährlich trägt, wird nicht
                     aufgelassen. Von Industrie allerdings erst Anfänge. Aber am gestrigen Feiertag
                     sah man in den Straßen und in den schönen Anlagen in der Umgebung der Stadt,
-                    insbesondere in <placeName>Maximir</placeName>, eine wohlgekleidete,
-                    bürgerliche, sehr gut aussehende Bevölkerung. Die Landbevölkerung voll
-                    äußerlicher Frömmigkeit. Landleute, bloßfüßig mit Bündeln und Körben deponieren
-                    diese am Eingang des Domes und knien sich betend nacheinander vor alle Altäre.
-                    Küssen den Altar, bekreuzigen zuerst das Altartuch und dann sich selbst.</p>
+                    insbesondere in Maximir, eine wohlgekleidete, bürgerliche, sehr gut aussehende
+                    Bevölkerung. Die Landbevölkerung voll äußerlicher Frömmigkeit. Landleute,
+                    bloßfüßig mit Bündeln und Körben deponieren diese am Eingang des Domes und knien
+                    sich betend nacheinander vor alle Altäre. Küssen den Altar, bekreuzigen zuerst
+                    das Altartuch und dann sich selbst.</p>
                 <p>Boden und Klima würden die Ausdehnung der Obst- und Seidenzucht erlauben. Die
                     letztere ist aber unpopulär geworden, weil sie von Ungarn aus durch die
                     Bemühungen des bekannten Bézerédy gefördert wurde und weil man zwar den Ankauf
@@ -1566,9 +1719,11 @@
 
             </div>
             <div n="1905-09-11" type="diary-entry">
-                <p><placeName>Budapest</placeName>, am <date when="1905-09-11">11. September
-                        1905</date></p>
-                <note>Im Tagebuch ist dieser Eintrag mit 9. September 1905 datiert.</note>
+                <p><placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
+                        >Budapest</placeName>, am <date when="1905-09-11">11. September
+                    1905</date></p>
+                <note type="editorial">Im Tagebuch ist dieser Eintrag mit 9. September 1905
+                    datiert.</note>
                 <p>Hatte heute eine lange Unterredung mit dem Staatssekretär <persName
                         key="SzterenyiJozsef" ref="https://d-nb.info/gnd/126999007"
                         >Szterényi</persName>. Seiner Meinung nach ist das bisherige wirtschaftliche
@@ -1581,11 +1736,17 @@
                     </index> auch Schlimmes für die ungarische Landwirtschaft. Die reichsdeutsche
                     Industrie würde durch den <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzoll</term>
-                    </index> in <placeName>Ungarn</placeName> konkurrenzfähiger mit der
-                    österreichischen. Dagegen würden überseeische Agrarprodukte konkurrenzfähiger
-                    mit ungarischen Produkten in <placeName>Oesterreich</placeName>; die Frachtrate
-                    von Weizen, <placeName>New York</placeName>–<placeName>Liverpool</placeName> hat
-                    zu Zeiten nicht einmal einen halben Shilling betragen. Die Idee eines <index>
+                    </index> in <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
+                    konkurrenzfähiger mit der österreichischen. Dagegen würden überseeische
+                    Agrarprodukte konkurrenzfähiger mit ungarischen Produkten in <placeName
+                        key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName>; die Frachtrate von Weizen, <placeName
+                        key="NewYork" ref="https://www.geonames.org/5128638/new-york.html">New
+                        York</placeName>–<placeName key="Liverpool"
+                        ref="https://www.geonames.org/3333167/liverpool.html">Liverpool</placeName>
+                    hat zu Zeiten nicht einmal einen halben Shilling betragen. Die Idee eines <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzolls</term>
                     </index> wird vor allem von <persName key="KornfeldSigmund"
                         ref="https://d-nb.info/gnd/136423078">Kornfeld</persName> lanciert. Er ist
@@ -1596,54 +1757,77 @@
                         key="SzterenyiJozsef" ref="https://d-nb.info/gnd/126999007"
                         >Szterényi</persName>, bemühe sich diesen Politikern zu beweisen, daß der <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzoll</term>
-                    </index> jetzt eingeführt, für <placeName>Ungarn</placeName> so gut wie für
-                        <placeName>Oesterreich</placeName> ein wirtschaftliches Unglück bedeutet und
-                    daß man vernünftiger Weise jetzt nach Abschluß des <index>
+                    </index> jetzt eingeführt, für <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> so gut
+                    wie für <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> ein wirtschaftliches Unglück bedeutet und daß man
+                    vernünftiger Weise jetzt nach Abschluß des <index>
                         <term key="Oesterreich-Ungarn/Handelsvertrag mit Deutschland"
                             >österreichisch-ungarisch-deutschen Handelsvertrages</term>
                     </index> an der Zolleinheit nicht rütteln dürfe.</p>
-                <p> Sein Plan ist der folgende: <placeName>Oesterreich</placeName> und
-                        <placeName>Ungarn</placeName> schließen miteinander einen Handelsvertrag,
-                    indem sie sich vollen Freihandel gewähren. In beiden Staaten wird der autonome
-                    Zolltarif als selbständiger Tarif aber als identisches Gesetz proklamiert. Die
-                    wirtschaftlich-politischen <del>Staaten</del><add>Abmachungen</add> werden vom
-                        <orgName key="MinisteriumdesAeußern" ref="https://d-nb.info/gnd/119828-2"
-                        >Ministerium des Äußern</orgName> im Namen von
-                        <placeName>Oesterreich</placeName> und <placeName>Ungarn</placeName>
+                <p> Sein Plan ist der folgende: <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
+                    schließen miteinander einen Handelsvertrag, indem sie sich vollen Freihandel
+                    gewähren. In beiden Staaten wird der autonome Zolltarif als selbständiger Tarif
+                    aber als identisches Gesetz proklamiert. Die wirtschaftlich-politischen
+                        <del>Staaten</del><add>Abmachungen</add> werden vom <orgName
+                        key="MinisteriumdesAeußern" ref="https://d-nb.info/gnd/119828-2">Ministerium
+                        des Äußern</orgName> im Namen von <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
                     geschlossen. Der Text ist ungarisch-französisch und deutsch-französisch. In dem
-                    Handelsvertrag zwischen <placeName>Oesterreich</placeName> und
-                        <placeName>Ungarn</placeName> werden alle Vorteile des bisherigen Zoll- und
-                    Handelsbündnisses mit den nötigen Modifikationen aufgenommen. Die Frage der
-                    Verzehrungssteuer haben die beiden Finanzminister miteinander auszumachen.
-                        <placeName>Ungarn</placeName> müsse aber auf diesem Gebiete auf
-                    Selbständigkeit dringen, da es ein Spiritus- und Petroleummonopol einführen
-                    wolle. Neben diesem Handelsvertrage seien aber parallele Abmachungen nötig, von
-                    Regierung zu Regierung auf administrativem Wege. <placeName>Ungarn</placeName>
-                    könne nämlich nicht darauf verzichten, seine Industrie auszugestalten.
-                            <placeName>Oester<pb n="34"/>reich</placeName> müßte daher darauf
-                    eingehen, daß zur Befriedigung des ungarischen Industriebedürfnisses die
-                    österreichische Industrie Zweigniederlassungen in <placeName>Ungarn</placeName>
+                    Handelsvertrag zwischen <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> werden
+                    alle Vorteile des bisherigen Zoll- und Handelsbündnisses mit den nötigen
+                    Modifikationen aufgenommen. Die Frage der Verzehrungssteuer haben die beiden
+                    Finanzminister miteinander auszumachen. <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> müsse
+                    aber auf diesem Gebiete auf Selbständigkeit dringen, da es ein Spiritus- und
+                    Petroleummonopol einführen wolle. Neben diesem Handelsvertrage seien aber
+                    parallele Abmachungen nötig, von Regierung zu Regierung auf administrativem
+                    Wege. <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> könne nämlich nicht darauf verzichten, seine Industrie
+                    auszugestalten. <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html">Oester<pb
+                            n="34"/>reich</placeName> müßte daher darauf eingehen, daß zur
+                    Befriedigung des ungarischen Industriebedürfnisses die österreichische Industrie
+                    Zweigniederlassungen in <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
                     errichte, und diesbezüglich planmäßige Vereinbarungen zwischen den beiden
                     Regierungen stattfinden. Er hat vor allem die Textilindustrie vor Augen und
                     denkt sich das so, daß gewisse Etablissements mit österreichischen Mitteln
-                    (Kapital, Erfahrung, Vorarbeitern) in <placeName>Ungarn</placeName> von
+                    (Kapital, Erfahrung, Vorarbeitern) in <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> von
                     österreichischen Industriellen errichtet werden, ohne daß die österreichische
                     Regierung dagegen wirkt. Er meint, daß dadurch das ungarische Industriebedürfnis
                     befriedigt würde und die österreichische Industrie immer noch viel besser
                     wegkäme, als bei einer Zollgrenze. Die österreichische Industrie könnte dann
-                    jene Zweige besonders planmäßig kultivieren, in denen Deutschland noch nach
-                    Oesterreich verkauft. Meinerseits suchte ich nun die Rückwirkung dieses
-                    ungarischen Systems der Industrieförderung auf
-                        <placeName>Oesterreich</placeName> klarzumachen.</p>
+                    jene Zweige besonders planmäßig kultivieren, in denen <placeName
+                        key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName> noch nach <placeName key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> verkauft. Meinerseits suchte ich nun die
+                    Rückwirkung dieses ungarischen Systems der Industrieförderung auf <placeName
+                        key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> klarzumachen.</p>
             </div>
             <div n="1905-09-12" type="diary-entry">
-                <p><placeName>Wien</placeName>, am <date when="1905-09-12">12. September
-                    1905</date></p>
-                <note>Im Tagebuch ist dieser Eintrag mit 10. September 1905 datiert.</note>
+                <p><placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html"
+                        >Wien</placeName>, am <date when="1905-09-12">12. September 1905</date></p>
+                <note type="editorial">Im Tagebuch ist dieser Eintrag mit 10. September 1905
+                    datiert.</note>
                 <p>Knapp vor meiner Abreise sprach ich noch <persName key="WekerleSandor"
                         ref="https://d-nb.info/gnd/119128691">Wekerle</persName>. Er ist in den
                     wirtschaftlichen Fragen der klarste Kopf von allen. Mit Entschiedenheit für die
-                    Zolleinheit. Seit dreihundert Jahren war es in <placeName>Ungarn</placeName> die
+                    Zolleinheit. Seit dreihundert Jahren war es in <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> die
                     unbestrittene Meinung, daß Ungarn allein für sich zu schwach sei. Es war ein
                     großer Fehler, daß man von oben die Parole ausgegeben hat: In der <index>
                         <term key="Oesterreich-Ungarn/Kommandosprache">Kommandosprache</term>
@@ -1658,35 +1842,49 @@
                     </index>. <persName key="KornfeldSigmund" ref="https://d-nb.info/gnd/136423078"
                         >Kornfeld</persName> nimmt die Sache sehr oberflächlich. Er sieht die Sache
                     so an, als ob es sich um einen Brückenzoll handeln würde, der so einfach
-                    eingehoben wird. Zunächst bestehen <pb n="35"/>gerade für
-                        <placeName>Ungarn</placeName> große technische Schwierigkeiten. Der <index>
+                    eingehoben wird. Zunächst bestehen <pb n="35"/>gerade für <placeName
+                        key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> große technische Schwierigkeiten. Der <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzoll</term>
                     </index> verlangt die Aktivierung eines vollständigen Grenzzolldienstes.
-                        <placeName>Ungarn</placeName> hat heute nur die Zollämter in
-                        <placeName>Budapest</placeName> und in <placeName>Fiume</placeName>, die
-                    etwas bedeuten, und besitzt daher kein genügend geschultes Personal, um damit
-                    die lange Zollgrenze zu besetzen. Diese lange Grenze zwischen
-                        <placeName>Oesterreich</placeName> und <placeName>Ungarn</placeName> würde
+                        <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> hat heute nur die Zollämter in <placeName key="Budapest"
+                        ref="https://www.geonames.org/3054638/budapest.html">Budapest</placeName>
+                    und in <placeName key="Fiume"
+                        ref="https://www.geonames.org/3191647/grad-rijeka.html">Fiume</placeName>,
+                    die etwas bedeuten, und besitzt daher kein genügend geschultes Personal, um
+                    damit die lange Zollgrenze zu besetzen. Diese lange Grenze zwischen <placeName
+                        key="Oesterreich"
+                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
+                        >Oesterreich</placeName> und <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> würde
                     große Kosten verursachen und nach seiner Berechnung ein Drittel des
                     Zwischenzollertrages aufzehren. Wäre aber der <index>
                         <term key="Österreich-Ungarn/Zwischenzoll">Zwischenzoll</term>
                     </index> einmal etabliert, so würde man auf diesem Wege fortschreiten und die
                     vollständige Trennung wäre nur eine Frage der Zeit. Zudem: Hat jemand schon
                     darüber nachgedacht, was im Falle einer Zollgrenze, welcher Art immer, mit
-                        <placeName>Bosnien</placeName> und der <placeName>Herzegowina</placeName>
-                    und mit <placeName>Dalmatien</placeName> zu geschehen hätte? Die Logik, daß wenn
-                    in der Armeefrage nichts konzediert wird, man um der öffentlichen Meinung
-                    entgegenzukommen auf wirtschaftlichen Gebieten den Trennungsgelüsten nachgeben
-                    solle, verstehe er nicht. Man kompensiert sich doch nicht dadurch, daß man sich
-                    an einer andern Stelle einen Schaden zufügt. Alle wirklich urteilsfähigen Leute
-                    sind in <placeName>Ungarn</placeName> für die Gemeinsamkeit und er bestreitet
-                    ausdrücklich dasjenige, was der österreichische Abgeordnete <persName
-                        key="GroßGustav" ref="https://d-nb.info/gnd/134055136">Dr. Groß</persName>
-                    jüngst in einer Wahlversammlung über die der Gemeinsamkeit feindliche Strömung
-                    in <placeName>Ungarn</placeName> behauptet hat. Allerdings wird, wenn der
-                    heutige Zustand andauert, die ausgleichsfreundliche Stimmung in
-                        <placeName>Ungarn</placeName> immer mehr in den Hintergrund gedrängt
-                    werden.</p>
+                        <placeName key="Bosnien"
+                        ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html"
+                        >Bosnien</placeName> und der <placeName key="Herzegowina"
+                        ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html"
+                        >Herzegowina</placeName> und mit <placeName key="Dalmatien"
+                        ref="https://www.geonames.org/3202210/dalmatia.html">Dalmatien</placeName>
+                    zu geschehen hätte? Die Logik, daß wenn in der Armeefrage nichts konzediert
+                    wird, man um der öffentlichen Meinung entgegenzukommen auf wirtschaftlichen
+                    Gebieten den Trennungsgelüsten nachgeben solle, verstehe er nicht. Man
+                    kompensiert sich doch nicht dadurch, daß man sich an einer andern Stelle einen
+                    Schaden zufügt. Alle wirklich urteilsfähigen Leute sind in <placeName
+                        key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> für die Gemeinsamkeit und er bestreitet ausdrücklich
+                    dasjenige, was der österreichische Abgeordnete <persName key="GroßGustav"
+                        ref="https://d-nb.info/gnd/134055136">Dr. Groß</persName> jüngst in einer
+                    Wahlversammlung über die der Gemeinsamkeit feindliche Strömung in <placeName
+                        key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+                        >Ungarn</placeName> behauptet hat. Allerdings wird, wenn der heutige Zustand
+                    andauert, die ausgleichsfreundliche Stimmung in <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> immer
+                    mehr in den Hintergrund gedrängt werden.</p>
                 <p>Das brachte uns auf die immer weiter fortschreitende Krise. <persName
                         key="WekerleSandor" ref="https://d-nb.info/gnd/119128691">Wekerle</persName>
                     meint, daß die Lösung mit jedem Monate schwieriger werde. Ausführlich begründet
@@ -1695,20 +1893,21 @@
                     </index> geregelt werden müsse und zwar im Sinne irgend einer Nachgibigkeit der
                         <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
                         >Krone</persName>. Man müsse die Sache nur natürlich auffassen, aber auch
-                    historisch. <placeName>Ungarn</placeName> hat von jeher Ansprüche erhoben auf
-                    einen besonderen Offiziersstatus <pb n="36"/>und dies insbesondere auf einem
-                        <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1"
-                        >Reichstage</orgName> in den 30er Jahren verlangt. Damals antwortete
-                        <persName key="KaiserFranz" ref="https://d-nb.info/gnd/118534955">Kaiser
-                        Franz</persName> keineswegs ablehnend, sondern dilatorisch. Und als derselbe
-                        <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1"
-                        >Reichstag</orgName> verlangte, daß alle Erzherzoge und Erzherzoginnen, da
-                    sie auch Prinzen der ungarischen Krone seien, ungarisch lernen sollen, war
-                        <persName key="KaiserFranz" ref="https://d-nb.info/gnd/118534955">Kaiser
-                        Franz</persName> so klug zu antworten: Damit komme der ungarische <orgName
-                        key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1"
-                        >Reichstag</orgName> zu spät, das habe er Kraft seines Rechtes als Haupt der
-                    Familie längst angeordnet.</p>
+                    historisch. <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> hat
+                    von jeher Ansprüche erhoben auf einen besonderen Offiziersstatus <pb n="36"/>und
+                    dies insbesondere auf einem <orgName key="ungarReichstag"
+                        ref="https://d-nb.info/gnd/4194545-1">Reichstage</orgName> in den 30er
+                    Jahren verlangt. Damals antwortete <persName key="KaiserFranz"
+                        ref="https://d-nb.info/gnd/118534955">Kaiser Franz</persName> keineswegs
+                    ablehnend, sondern dilatorisch. Und als derselbe <orgName key="ungarReichstag"
+                        ref="https://d-nb.info/gnd/4194545-1">Reichstag</orgName> verlangte, daß
+                    alle Erzherzoge und Erzherzoginnen, da sie auch Prinzen der ungarischen Krone
+                    seien, ungarisch lernen sollen, war <persName key="KaiserFranz"
+                        ref="https://d-nb.info/gnd/118534955">Kaiser Franz</persName> so klug zu
+                    antworten: Damit komme der ungarische <orgName key="ungarReichstag"
+                        ref="https://d-nb.info/gnd/4194545-1">Reichstag</orgName> zu spät, das habe
+                    er Kraft seines Rechtes als Haupt der Familie längst angeordnet.</p>
                 <p>So sei es auch jetzt. Die schroffe Ablehnung schaffte einen unmöglichen Zustand.
                     Er, <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691"
                         >Wekerle</persName>, habe dem <persName key="KaiserFranzJosef"
@@ -1751,46 +1950,52 @@
                     selbständige Divisionen vereinigt hat. Unsere Artillerie einst unsere beste
                     Waffe, ist rückständig. Er habe ein Gut in der Nähe eines
                     Artillerieschießplatzes und beobachte, wie wegen der Wirkung des rauchlosen
-                    Pulvers nach jeder größeren Schießübung eine Anzahl Kanonen nach
-                        <placeName>Wien</placeName> ins <orgName key="Arsenal"
-                        ref="https://d-nb.info/gnd/4808611-3">Arsenal</orgName> geschickt werden
-                    müsse. Das Bestreben in den ungarischen Regimentern Unteroffiziere anzustellen,
-                    die der deutschen Sprache mächtig sind, führe dahin, daß die Juden dabei
-                    bevorzugt werden. Diese genießen aber bei der Mannschaft keine Autorität, seien
-                    der Bestechung zugänglich, nötigen die Mannschaft, sich Begünstigungen zu
-                    erkaufen.</p>
+                    Pulvers nach jeder größeren Schießübung eine Anzahl Kanonen nach <placeName
+                        key="Wien" ref="https://www.geonames.org/2761367/wien.html">Wien</placeName>
+                    ins <orgName key="Arsenal" ref="https://d-nb.info/gnd/4808611-3"
+                        >Arsenal</orgName> geschickt werden müsse. Das Bestreben in den ungarischen
+                    Regimentern Unteroffiziere anzustellen, die der deutschen Sprache mächtig sind,
+                    führe dahin, daß die Juden dabei bevorzugt werden. Diese genießen aber bei der
+                    Mannschaft keine Autorität, seien der Bestechung zugänglich, nötigen die
+                    Mannschaft, sich Begünstigungen zu erkaufen.</p>
                 <p><persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691"
                         >Wekerle</persName> ist nicht für eine gewaltsame Magyarisierung der anderen
                     Nationalitäten. Die Städte werden ohnehin mehr und mehr magyarisch, mit Ausnahme
-                    der rein deutschen Städte <placeName>Ungarns</placeName>, aber der Gegensatz
-                    müsse sich abschwächen. Jetzt gelte es als patriotisch, wenn ein junger Mann
-                    nicht Deutsch lernen will. Das wird aufhören, wenn gewisse Einräumungen in der
-                    Armeesprache gemacht werden. Schon jetzt werden auch die Honvedoffiziere
-                    gezwungen, deutsch zu lernen, das wird sich alles viel natürlicher gestalten,
-                    wenn man nicht ganz abweisend in der <index>
+                    der rein deutschen Städte <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarns</placeName>, aber
+                    der Gegensatz müsse sich abschwächen. Jetzt gelte es als patriotisch, wenn ein
+                    junger Mann nicht Deutsch lernen will. Das wird aufhören, wenn gewisse
+                    Einräumungen in der Armeesprache gemacht werden. Schon jetzt werden auch die
+                    Honvedoffiziere gezwungen, deutsch zu lernen, das wird sich alles viel
+                    natürlicher gestalten, wenn man nicht ganz abweisend in der <index>
                         <term key="Oesterreich-Ungarn/Kommandosprache">Armeesprache</term>
                     </index> ist.</p>
                 <p>Das <index>
                         <term key="Wahlrechtsreform/AllgemeinesWahlrecht">allgemeine
                             Stimmrecht</term>
                     </index> ist gar nicht durchzuführen, wenn es bezüglich der Wählerlisten mit
-                    rechten Dingen zugehen soll. In <placeName>Ungarn</placeName> ist die
-                    Gemeindeangehörigkeit noch gar nicht geregelt; die Aufstellung von Wählerlisten
-                    des allgemeinen Stimmrechtes, eine Unmöglichkeit. Bei den letzten <pb n="38"
-                    />Wahlen hat ohnedies die ganze Bevölkerung mitgewählt. Die
-                        <placeName>Theresienstadt</placeName> in <placeName>Budapest</placeName> hat
-                    6000 Wähler und vielleicht 60.000 haben mitgewählt, nämlich durch die Pression,
-                    die sie auf die Wähler ausgeübt haben. Das <index>
+                    rechten Dingen zugehen soll. In <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> ist
+                    die Gemeindeangehörigkeit noch gar nicht geregelt; die Aufstellung von
+                    Wählerlisten des allgemeinen Stimmrechtes, eine Unmöglichkeit. Bei den letzten
+                        <pb n="38"/>Wahlen hat ohnedies die ganze Bevölkerung mitgewählt. Die
+                        <placeName key="Theresienstadt">Theresienstadt</placeName> in <placeName
+                        key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
+                        >Budapest</placeName> hat 6000 Wähler und vielleicht 60.000 haben
+                    mitgewählt, nämlich durch die Pression, die sie auf die Wähler ausgeübt haben.
+                    Das <index>
                         <term key="Wahlrechtsreform">Wahlrecht</term>
                     </index> muß erweitert werden, aber schrittweise. An eine Zolltrennung vor <date
-                        when="1917">1917</date> dem Ablauftermin des Vertrages mit
-                        <placeName>Deutschland</placeName> ist überhaupt nicht zu denken. Die
-                    Verträge halten uns notwendigerweise zusammen.</p>
+                        when="1917">1917</date> dem Ablauftermin des Vertrages mit <placeName
+                        key="Deutschland" ref="https://d-nb.info/gnd/7509421-6"
+                        >Deutschland</placeName> ist überhaupt nicht zu denken. Die Verträge halten
+                    uns notwendigerweise zusammen.</p>
             </div>
             <div n="1905-10" type="diary-entry">
-                <p><placeName>Wien</placeName>, im <date when="1905-10">Oktober 1905</date></p>
-                <note>Im Tagebuch ist der Eintrag datiert mit: Bozen, am 10. Oktober 1905 und mit
-                    Bleistift korrigiert in: Wien im Oktober 1905. </note>
+                <p><placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html"
+                        >Wien</placeName>, im <date when="1905-10">Oktober 1905</date></p>
+                <note type="editorial">Im Tagebuch ist der Eintrag datiert mit: Bozen, am 10.
+                    Oktober 1905 und mit Bleistift korrigiert in: Wien im Oktober 1905. </note>
 
                 <p>Es ist heute klar, was für ein Beweggrund die <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Krone</persName> bestimmt hat, die
@@ -1831,13 +2036,13 @@
                         key="WekerleSandor" ref="https://d-nb.info/gnd/119128691">Wekerle</persName>
                     gemachten Aeußerungen – man hätte sehr gern eingelenkt, man suchte nach irgend
                     einem Ausweg, eine Handhabe, eine Formel. Da kam die Fünfminuten-Audienz am
-                        <date when="1905-09-23">23. September 1905</date>.<note>Am 23. September
-                        1905 waren die Führer der ungarischen Koalitionsparteien Graf Julius
-                        Andrássy, Baron Desider Bánffy, Franz Kossuth, Graf Albert Apponyi und Graf
-                        Aladár Zichy zur Audienz bei Kaiser/König Franz Joseph geladen, um die
-                        Differenzen bezüglich eines Regierungsprogrammes zu bereinigen. Franz Joseph
-                        erklärte seine Bedingungen und delegierte die weitere Gesprächsführung an
-                        Außenminister <persName key="GoluchowskiAgenor"
+                        <date when="1905-09-23">23. September 1905</date>.<note type="editorial">Am
+                        23. September 1905 waren die Führer der ungarischen Koalitionsparteien Graf
+                        Julius Andrássy, Baron Desider Bánffy, Franz Kossuth, Graf Albert Apponyi
+                        und Graf Aladár Zichy zur Audienz bei Kaiser/König Franz Joseph geladen, um
+                        die Differenzen bezüglich eines Regierungsprogrammes zu bereinigen. Franz
+                        Joseph erklärte seine Bedingungen und delegierte die weitere
+                        Gesprächsführung an Außenminister <persName key="GoluchowskiAgenor"
                             ref="https://d-nb.info/gnd/1011172178">Gołuchowski</persName>, was von
                         den ungarischen Abgeordneten mit der Begründung abgelehnt wurde, daß sie
                         über ungarische Belange nicht mit einem Nichtungarn verhandeln möchten. Die
@@ -1860,16 +2065,17 @@
                     alles das bestärkte den <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName>, daß er das Land den
                     Händen der Koalition nicht anvertrauen dürfe und ein Ausspruch, den er jüngst
-                    getan haben soll: Ich habe in <placeName>Ungarn</placeName> niemanden, auf den
-                    ich mich verlassen kann, drückt, selbst wenn er nicht wirklich geschehen ist,
-                    wohl seine Meinung aus.</p>
+                    getan haben soll: Ich habe in <placeName key="Ungarn"
+                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
+                    niemanden, auf den ich mich verlassen kann, drückt, selbst wenn er nicht
+                    wirklich geschehen ist, wohl seine Meinung aus.</p>
                 <p>Voraussichtlich muß alles, was in der nächsten Zukunft geschehen wird, unter
                     diesem Gesichtspunkt beurteilt werden.</p>
             </div>
             <div n="1905-12-12-" type="diary-entry">
                 <p>
-                    <placeName>Wien</placeName>, am <date when="1905-12-02">2. Dezember
-                    1905</date></p>
+                    <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html"
+                        >Wien</placeName>, am <date when="1905-12-02">2. Dezember 1905</date></p>
                 <p>Ich habe vorgestern zufällig <persName key="SzellKalman"
                         ref="https://d-nb.info/gnd/1084341417">Szell</persName> getroffen und mit
                     ihm bei Sacher gefrühstückt. Er sieht sehr trübe, fast hoffnungslos. Daß er über
@@ -1903,13 +2109,13 @@
                     </index> erklärt er für absolut undurchführbar und staatlich unmöglich. Auf
                     meine Frage, wer eigentlich der Urheber des sogenannten <persName
                         key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729"
-                        >Fejervary</persName>'schen Programmes<note>Das am 28. Oktober 1905
-                        veröffentlichte Regierungsprogramm des ungarischen Ministerpräsidenten
-                        Fejervary verkündete u.a. die Absicht der Einführung des allgemeinen,
-                        gleichen und geheimen Wahlrechtes für großjährige Männer.</note> sei,
-                    erzählte er, daß der eigentliche Verfasser <persName key="VesziJozsef"
-                        ref="https://d-nb.info/gnd/1172479844">Veszi</persName> sei, ein früherer
-                    Leibjournalist <persName key="SzellKalman"
+                        >Fejervary</persName>'schen Programmes<note type="editorial">Das am 28.
+                        Oktober 1905 veröffentlichte Regierungsprogramm des ungarischen
+                        Ministerpräsidenten Fejervary verkündete u.a. die Absicht der Einführung des
+                        allgemeinen, gleichen und geheimen Wahlrechtes für großjährige
+                        Männer.</note> sei, erzählte er, daß der eigentliche Verfasser <persName
+                        key="VesziJozsef" ref="https://d-nb.info/gnd/1172479844">Veszi</persName>
+                    sei, ein früherer Leibjournalist <persName key="SzellKalman"
                         ref="https://d-nb.info/gnd/1084341417">Szell</persName>'s, auch
                     Abgeordneter, der seinerzeit <persName key="SzellKalman"
                         ref="https://d-nb.info/gnd/1084341417">Szell</persName> ausdrücklich um die
