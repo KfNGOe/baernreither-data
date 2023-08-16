@@ -91,7 +91,7 @@
                     </index> u. Refundirung der Tilgungsrente.<add place="across">1904</add></p>
                 <!--  Beginn Einklebung Zeitungsausschnitt aus Neues Wiener Tagblatt vom
                     7.12.1904, S. 2-3-->
-                <addSpan spanTo="" type=""/>
+                <addSpan spanTo="xxxx" type="insertion"/>
                 <p>Die Debatte im <orgName key="Budgetausschuss"
                         ref="https://d-nb.info/gnd/1701874-2">Budgetausschusse</orgName> selbst nahm
                     folgenden Verlauf: </p>
@@ -228,7 +228,7 @@
                     finden - aber die Kosten dieser Politik gehören ins Budget und nicht in <index>
                         <term key="Reichsrat/Notstandskredite">Notstandsvorlagen</term>
                     </index> und daher müssen wir alle agrarischen Ansprüche, wenn sie auch noch so
-                    berechtigt sind, sich aber nicht direkt auf den <pb facs="F_K-4_TB_7_" n=""
+                    berechtigt sind, sich aber nicht direkt auf den <pb facs="F_K-4_TB_7_" n="xxxx"
                         /><note type="editorial"/><pb facs="F_K-4_TB_7_100" n="2r"/>Notstand
                     beziehen, ins Budget verweisen. Das eigentliche Gebiet der <index>
                         <term key="Reichsrat/Notstandskredite">Notstandskredite</term>
@@ -372,10 +372,10 @@
                     </index> als die Refundierungspost gehören ins Budget, und nachdem das jetzt
                     nicht mehr möglich ist, ins Budgetprovisorium. Der <persName key="KoerberErnest"
                         ref="https://d-nb.info/gnd/118713434">Ministerpräsident</persName> hat daher
-                    im <orgName key="Notstandsausschuss" ref="">Nostandsausschuß</orgName> den
-                    einzig korrekten Standpunkt eingenommen, <hi>indem er sich bereiterklärte, die
-                        Emission der Tilgungsrente mit dem Budgetprovisorium zu verbinden</hi>. Das
-                    ist der Standpunkt, auf dem ich stehe.</p>
+                    im <orgName key="Notstandsausschuss">Nostandsausschuß</orgName> den einzig
+                    korrekten Standpunkt eingenommen, <hi>indem er sich bereiterklärte, die Emission
+                        der Tilgungsrente mit dem Budgetprovisorium zu verbinden</hi>. Das ist der
+                    Standpunkt, auf dem ich stehe.</p>
                 <p>Aber aus all dem, was ich gesagt habe, folgt, daß die Refundierungsfrage der 69
                     Millionen Kronen eigentlich nur eine <hi>Nebenfrage</hi> ist angesichts der
                     großen finanziellen Aufgaben, die der Staat lösen muß. Es ist auch nur eine
@@ -904,30 +904,29 @@
                         ref="https://d-nb.info/gnd/1209783282">Hofmann</persName> zu den
                     fortschrittlichen Abgeordneten gehört, so konnte die Regierung bei dessen
                     Zustimmung die Sache als erledigt betrachten. Von einer mala fides der Regierung
-                    könne nicht die Rede sein. <persName key="Pohl" ref="">Dr. Pohl</persName> sei
-                    im Namen des <persName key="KoppGeorg" ref="https://d-nb.info/gnd/118714031"
-                        >Kardinals Kopp</persName> zum <persName key="KoerberErnest"
+                    könne nicht die Rede sein. <persName key="Pohl">Dr. Pohl</persName> sei im Namen
+                    des <persName key="KoppGeorg" ref="https://d-nb.info/gnd/118714031">Kardinals
+                        Kopp</persName> zum <persName key="KoerberErnest"
                         ref="https://d-nb.info/gnd/118713434">Ministerpräsidenten</persName>
                     gekommen und habe die Möglichkeit dargestellt, durch Verhandlungen zwischen den
                     Deutschen, Czechen und Polen die einvernehmliche Erledigung dieser Frage
-                    herbeizuführen. <persName key="Pohl" ref="">Dr. Pohl</persName> erschien
-                    wiederholt bei dem Ministerpräsiden<pb facs="F_K-4_Tb_7-110" n="10v"/>ten und
-                    bezeichnete es als besonders wünschenswert, daß eine definitive Erledigung
-                    erfolgen würde, bevor der <orgName key="BoehmischerLandtag"
+                    herbeizuführen. <persName key="Pohl">Dr. Pohl</persName> erschien wiederholt bei
+                    dem Ministerpräsiden<pb facs="F_K-4_Tb_7-110" n="10v"/>ten und bezeichnete es
+                    als besonders wünschenswert, daß eine definitive Erledigung erfolgen würde,
+                    bevor der <orgName key="BoehmischerLandtag"
                         ref="https://d-nb.info/gnd/5005623-2">Landtag</orgName> geschlossen wurde.
                     Daraufhin erfolgte auch die Erklärung des <persName key="KoppGeorg"
                         ref="https://d-nb.info/gnd/118714031">Kardinals Kopp</persName>, daß die
                     Regierung eine alle Parteien befriedigende Lösung herbeizuführen wünsche.</p>
-                <p>Mit <persName key="Pohl" ref="">Dr. Pohl</persName> wurde auch bezüglich der
-                    Verlegung der Parallelklassen gesprochen, weiter wisse der <persName
-                        key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
-                        >Ministerpräsidenten</persName> nichts. <persName key="Pohl" ref="">Dr.
-                        Pohl</persName> versuchte nun, eine solche Verständigung zustande zu
-                    bringen; seine Bemühungen müssen abgewartet werden, bevor sich die Regierung
-                    irgendwie äußert, da ja die Herren sich selbst angetragen haben, sich mit der
-                    Sache zu befassen, und weil sie selbst die Hoffnung haben, zu einer
-                    Verständigung zu gelangen. Es werde für die Verlegung der czechischen
-                    Parallelklassen nach <placeName key="Koenigsberg"
+                <p>Mit <persName key="Pohl">Dr. Pohl</persName> wurde auch bezüglich der Verlegung
+                    der Parallelklassen gesprochen, weiter wisse der <persName key="KoerberErnest"
+                        ref="https://d-nb.info/gnd/118713434">Ministerpräsidenten</persName> nichts.
+                        <persName key="Pohl">Dr. Pohl</persName> versuchte nun, eine solche
+                    Verständigung zustande zu bringen; seine Bemühungen müssen abgewartet werden,
+                    bevor sich die Regierung irgendwie äußert, da ja die Herren sich selbst
+                    angetragen haben, sich mit der Sache zu befassen, und weil sie selbst die
+                    Hoffnung haben, zu einer Verständigung zu gelangen. Es werde für die Verlegung
+                    der czechischen Parallelklassen nach <placeName key="Koenigsberg"
                         ref="https://www.geonames.org/11921844/kynsperk-nad-ohri.html"
                         >Königsberg</placeName> und für die Verlegung der polnischen Parallelklassen
                     von <placeName key="Teschen" ref="https://www.geonames.org/7532301/cieszyn.html"
@@ -944,13 +943,13 @@
                     Parteien, also auch der Czechen und Polen abhängig sein werden.</p>
                 <p>Der Herr <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
                         >Ministerpräsident</persName> entgegnet, daß dies selbst von <persName
-                        key="Pohl" ref="">Dr. Pohl</persName> in Aussicht genommen sei und, bevor
-                    derselbe zu einem Ergebnisse gekommen ist, könne sich die Regierung nicht
-                    äußern. Man sei also, wie die Dinge jetzt liegen, sehr schwer imstande, gegen
-                    die Regierung einen Vorwurf zu erheben.</p>
+                        key="Pohl">Dr. Pohl</persName> in Aussicht genommen sei und, bevor derselbe
+                    zu einem Ergebnisse gekommen ist, könne sich die Regierung nicht äußern. Man sei
+                    also, wie die Dinge jetzt liegen, sehr schwer imstande, gegen die Regierung
+                    einen Vorwurf zu erheben.</p>
                 <p><persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165">Dr. von
-                        Derschatta</persName> erwähnt, dass <persName key="Pohl" ref="">Dr.
-                        Pohl</persName> gestern in <placeName key="Wien"
+                        Derschatta</persName> erwähnt, dass <persName key="Pohl">Dr. Pohl</persName>
+                    gestern in <placeName key="Wien"
                         ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName> anwesend
                     gewesen sei und sich schon sehr skeptisch hinsichtlich der Einwilligung der
                     Polen und Czechen geäußert habe.</p>
@@ -1109,17 +1108,16 @@
                         ref="https://d-nb.info/gnd/118505858">Dr. Baernreither</persName> zunächst
                     darauf, daß man, wenn von Agitation in dieser Angelegenheit gesprochen werde,
                     doch nicht vergessen dürfe, daß in den italienischen Blättern seit Monaten eine
-                    Hetze vor sich gehe und dass ganz besonders dem <orgName key="AltoAdige" ref=""
-                        >"Alto Adige"</orgName> sowie dem <orgName key="Popolo" ref=""
-                        >"Popolo"</orgName> eine große Schuld beigemessen <pb facs="F_K-4_Tb_7-114"
-                        n="15r"/>werden müsse.<note type="editorial">Die Eröffnungsfeier für die
-                        neuerrichtete italienische Rechtsfakultät in Innsbruck am 4.11.1904 wurde
-                        durch Ausschreitungen zwischen deutschen und italienischen Studenten und
-                        Einsatz des Militärs überschattet. Wegen der Verwüstung der
-                        Fakultätsräumlichkeiten durch deutsche Studenten am folgenden Tag wurde der
-                        Betrieb der italienischen Rechtsfakultät in Innsbruck beendet.</note>
-                    Allgemein werde über die Verwilderung der italienischen Presse im <placeName
-                        key="Trentino"
+                    Hetze vor sich gehe und dass ganz besonders dem <orgName key="AltoAdige">"Alto
+                        Adige"</orgName> sowie dem <orgName key="Popolo">"Popolo"</orgName> eine
+                    große Schuld beigemessen <pb facs="F_K-4_Tb_7-114" n="15r"/>werden müsse.<note
+                        type="editorial">Die Eröffnungsfeier für die neuerrichtete italienische
+                        Rechtsfakultät in Innsbruck am 4.11.1904 wurde durch Ausschreitungen
+                        zwischen deutschen und italienischen Studenten und Einsatz des Militärs
+                        überschattet. Wegen der Verwüstung der Fakultätsräumlichkeiten durch
+                        deutsche Studenten am folgenden Tag wurde der Betrieb der italienischen
+                        Rechtsfakultät in Innsbruck beendet.</note> Allgemein werde über die
+                    Verwilderung der italienischen Presse im <placeName key="Trentino"
                         ref="https://www.geonames.org/3165241/provincia-autonoma-di-trento.html"
                         >Trentino</placeName> geklagt. Über das Verhalten des <persName
                         key="SchwartzenauErwin" ref="https://d-nb.info/gnd/1033476587"
@@ -1438,7 +1436,7 @@
                         Baernreither</persName> wirft nun die Frage auf, wie es mit der
                     Arbeitsfähigkeit des <orgName key="Reichsrat"
                         ref="https://d-nb.info/gnd/35882-4">Reichsrates</orgName> aussehe. Die
-                    Deutschen hätten sich diesbezüglich sowohl mit dem <orgName key="Zentrum" ref=""
+                    Deutschen hätten sich diesbezüglich sowohl mit dem <orgName key="Zentrum"
                         >Katholischen Zentrum</orgName> als auch mit den <orgName key="Polenklub"
                         ref="https://d-nb.info/gnd/1050830423">Polen</orgName> in Verbindung
                     gesetzt, aber es sie vor allem wichtig zu wissen, wie sich die Regierung die
@@ -1592,8 +1590,8 @@
                         Ministerkandidaten bezeichnete.</note> machte einen perfiden Ausfall auf
                     mich. Als ich in diesen Tagen in <placeName key="Prag"
                         ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
-                    <persName key="MladotaNepomuk" ref="">Mladota</persName> begegnete sagte er mir:
-                    nicht wahr, das verdankst du <persName key="StürgkhKarl"
+                    <persName key="MladotaNepomuk">Mladota</persName> begegnete sagte er mir: nicht
+                    wahr, das verdankst du <persName key="StürgkhKarl"
                         ref="https://d-nb.info/gnd/117677957">Stürgkh</persName>. Die Wut der
                         <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
                         >Körber</persName> Knechte war aber erklärlich, denn sie ahnten doch wohl
@@ -1608,7 +1606,7 @@
                     nicht zu bewegen zu bleiben. Authentisches weiß ich über den Vorgang bei der
                     Demission nicht.-->
                     Ich habe dann gehört dass die Czechen Mittel u. Wege gefunden haben (<persName
-                        key="Palmer" ref="">Palmer</persName>?) den <persName key="KaiserFranzJosef"
+                        key="Palmer">Palmer</persName>?) den <persName key="KaiserFranzJosef"
                         ref="https://d-nb.info/gnd/118535013">Kaiser</persName> wissen zu lassen,
                     dass sie jedem Nachfolger gegenüber die <index>
                         <term key="Reichsrat/Obstruktion">Obstructionswaffe</term>
@@ -1815,7 +1813,7 @@
                         >alldeutschen Abgeordneten</orgName> genossen in den Ministerien offene
                     Protection. Minister <persName key="HartelWilhelm"
                         ref="https://d-nb.info/gnd/119035030">Hartel</persName> besuchte an der
-                    Seite des Abgeordneten <persName key="SchalkAnton" ref="">Schalk</persName> die
+                    Seite des Abgeordneten <persName key="SchalkAnton">Schalk</persName> die
                     Musikschule in <placeName key="Petschau"
                         ref="https://www.geonames.org/3079609/becov-nad-teplou.html"
                         >Petschau</placeName>; alle Minister verkehrten (u. verkehren noch!) auf das
@@ -1932,9 +1930,9 @@
                         key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107">Urban</persName>,
                         <persName key="PeschkaFranz" ref="https://d-nb.info/gnd/127901221"
                         >Peschka</persName>, <add place="across"><persName key="TrauttmansdorffKarl"
-                            ref="">Trauttmansdorff</persName></add> und ich) kommen zuerst bei
-                        <persName key="Silva-TaroucaErnst" ref="https://d-nb.info/gnd/127064842"
-                        >Taroucca</persName>, dann bei <persName key="TrauttmansdorffKarl" ref=""
+                            >Trauttmansdorff</persName></add> und ich) kommen zuerst bei <persName
+                        key="Silva-TaroucaErnst" ref="https://d-nb.info/gnd/127064842"
+                        >Taroucca</persName>, dann bei <persName key="TrauttmansdorffKarl"
                         >Trauttmansdorf</persName> zusammen u. beraten die beiden dem <orgName
                         key="BoehmischerLandtag" ref="https://d-nb.info/gnd/5005623-2"
                         >Landtage</orgName> zu machenden Vorlagen (<index>
@@ -1963,8 +1961,8 @@
                         ref="https://d-nb.info/gnd/117143952">Lobkowitz</persName> hielt
                     Obmännerconferenzen ab, um einen ruhigen Gang der Verhandlungen zu erzielen –
                     wir aber bereiteten wieder diese Obmännerconferenzen vor. Die Regierung hatte
-                    den Hofrat <persName key="Petrzikowsky" ref="">Petrzikowsky</persName>, einen
-                    Schwager <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107"
+                    den Hofrat <persName key="Petrzikowsky">Petrzikowsky</persName>, einen Schwager
+                        <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107"
                         >Urban</persName>'s, nach <placeName key="Prag"
                         ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
                     geschickt um in direkter Fühlung mit uns zu sein.
@@ -2086,7 +2084,7 @@
                     ohne vorbereitet zu werden. Sie ist dadurch derzeit unmöglich geworden.</p>
                 <p>In der <index>
                         <term key="Österreich-Ungarn/Verhaeltnis">ungarischen Frage</term>
-                    </index> weniger glückliche Hand. Im <orgName key="Zollausschuss" ref=""
+                    </index> weniger glückliche Hand. Im <orgName key="Zollausschuss"
                         >Zollausschuss</orgName> zieht er sich gut aus der Affaire. Im <persName
                         key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
                         >Derschatta</persName>ausschuss ist er nicht auf der Höhe der
@@ -2138,11 +2136,10 @@
                         <term key="Notverordnungsrecht§14">§ 14</term>
                     </index> nicht anwenden u. das muss man ihm hoch anrechnen. Er kann auch
                     deswegen auf die Mitwirkung von allen Seiten rechnen, aber es ist die alte
-                    Geschichte, er muss nicht nur reden, sondern handeln!</p>
-                <!-- mit Bleistift nachträglich ergänzt! -->
-                <add place="below"><placeName key="Luenz"
-                        ref="https://www.geonames.org/3070490/mlynce.html">Lünz</placeName> im <date
-                        when="1905-07">Juli 1905</date></add>
+                    Geschichte, er muss nicht nur reden, sondern handeln! <!-- mit Bleistift nachträglich ergänzt! -->
+                    <add place="below"><placeName key="Luenz"
+                            ref="https://www.geonames.org/3070490/mlynce.html">Lünz</placeName> im
+                            <date when="1905-07">Juli 1905</date></add></p>
             </div>
             <pb facs="F_K-4_Tb_7-139" n="39r"/>
             <div>
@@ -2165,8 +2162,8 @@
                     </index>. In diesen Dingen hatte ich das Commando.<note type="editorial"
                         >Baernreither war Obmann des Zollausschusses des Abgeordnetenhauses, dem die
                         beiden Regierungsvorlagen zugewiesen worden waren.</note> Der <orgName
-                        key="Zollausschuss" ref="">Ausschuss</orgName> war willig, ich bereitete
-                    jede Sitzung durch unermüdliche Conferenzen mit den einzelnen maasgebenden
+                        key="Zollausschuss">Ausschuss</orgName> war willig, ich bereitete jede
+                    Sitzung durch unermüdliche Conferenzen mit den einzelnen maasgebenden
                     Persönlichkeiten, insbes. den deutschen und czechischen Agrariern vor, ich
                     instruierte die Regierungsvertreter, ausgezeichnete Beamte, wenn sie reden o.
                     schweigen sollten u. auch die Minister fügten sich völlig in meine Anordnungen
@@ -2354,14 +2351,14 @@
                         ref="https://d-nb.info/gnd/136192165">D[erschatta]</persName> gegenüber
                     ähnliche Gedanken entwickelt zu haben wie (<orgName key="NeueFreiePresse"
                         ref="https://d-nb.info/gnd/7640546-1">N. Fr. Presse</orgName> vom <date
-                        when="1905-09-01">1.9.05</date>) der <orgName key="BudapestiHirlap" ref=""
+                        when="1905-09-01">1.9.05</date>) der <orgName key="BudapestiHirlap"
                         >Budapesti Hirlap</orgName>. </p>
                 <!-- Einklebung Zeitungsausschnitt "Revision des
                         Gesetzartikels 12 vom Jahre 1867" Neue Freie Presse vom 1.9.1905
                         S. 4. -->
                 <p><hi>Revision des Gesetzartikels 12 vom Jahre 1867</hi>.</p>
-                <p><orgName key="BudapestiHirlap" ref="">"Budapesti Hirlap"</orgName> erscheint
-                    heute wieder in der Gestalt eines besorgten Freundes der 1867er Basis und will
+                <p><orgName key="BudapestiHirlap">"Budapesti Hirlap"</orgName> erscheint heute
+                    wieder in der Gestalt eines besorgten Freundes der 1867er Basis und will
                     nachweisen, daß diese nur durch eine radikale Abänderung des Gesetzartikel 12 ex
                     1867 gerettet werden kann. "Wer ein wahrer Freund der 1867er Basis ist," sagt
                     das Blatt, "muß den Standpunkt einnehmen, daß der Gesetzartikel 12 ex 1867
@@ -2804,16 +2801,16 @@
                         >Budapest</placeName>
                     <date when="1905-09-06">6.9.05</date>
                 </p>
-                <p>Die Regierung hat auch Anhänger. <hi rend="ul"><persName key="SzilagyiArthur"
-                            ref="">Dr. Arthur Charles Szilágyi</persName></hi>, Advocat,
-                    Honvedmajor, Vertreter der erzherzoglichen Familie, beim <index>
+                <p>Die Regierung hat auch Anhänger. <hi rend="ul"><persName key="SzilagyiArthur">Dr.
+                            Arthur Charles Szilágyi</persName></hi>, Advocat, Honvedmajor, Vertreter
+                    der erzherzoglichen Familie, beim <index>
                         <term key="Kongresse/Enqueten">Gefängniscongress</term>
                     </index> lebhaft beteiligt erklärte mir heute seine Auffassung von der
                     Situation: die Regierung hat einen sehr klugen Schachzug mit dem allgem.
                     Wahlrecht gemacht. Neue Schichten kommen an die Oberfläche <pb
                         facs="F_K-4_Tb_7-159" n="58r"/>als Gegengewicht gegen die jetzigen führenden
                     Politiker. Das Ministerium besteht aus lauter sehr fleissigen Leuten, die eine
-                    grosse Thätigkeit entfalten. Der <persName key="GyoergyAndreas" ref=""
+                    grosse Thätigkeit entfalten. Der <persName key="GyoergyAndreas"
                         >Ackerbauminister</persName> bereitet eine grosse Entschuldungsaktion für
                     die kleinen u. mittleren Güter vor. Auf meine Frage ob denn das Volk für das <index>
                         <term key="Wahlrechtsreform/AllgemeinesWahlrecht">allgem. Stimmrecht</term>
@@ -2993,8 +2990,8 @@
                     Minorität im Hause, alle Beamten u. Richter sind entgegen u. vor Allem die
                     Geistlichkeit. Diese u. mit ihnen die kathol. Congregationen voran, unterstützen
                     die nationale Bewegung mit grossen Geldmitteln. Der <orgName key="MagyarOrszag"
-                        ref="">Magyar oszak</orgName>, ein radikales Blatt, Redacteur der
-                    Abg[eordnete] <persName key="HolloLajos" ref="https://d-nb.info/gnd/1012033074"
+                        >Magyar oszak</orgName>, ein radikales Blatt, Redacteur der Abg[eordnete]
+                        <persName key="HolloLajos" ref="https://d-nb.info/gnd/1012033074"
                         >Holló</persName> hatte noch vor Kurzem in <placeName key="Wien"
                         ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName> bei
                     einer Bank eine Schuld von 170.000 Kronen für Papier, jetzt ist sie bezahlt mit
@@ -3191,14 +3188,13 @@
                     Laufe der Stunden über alles u. jedes zu sprechen. <persName key="AmrusMilan"
                         ref="https://d-nb.info/gnd/143840010">Amruš</persName> war früher radical u.
                     ist jetzt regierungsfreundlich, gehört also der <orgName key="Nationalpartei"
-                        ref="">Nationalpartei</orgName> an, steht mit dem <persName
-                        key="PejacevicTivadar" ref="https://d-nb.info/gnd/1025703324"
-                        >Banus</persName> gut u. ist sehr gemässigt und – wenigstens äusserlich –
-                    fromm. "Ein Zoll Macht ist mehr wert als eine Elle Rechte" – "ein kleines Land
-                    soll sich nur bescheidene Ziele setzen" – "ein Volk hat ein grösseres Interesse
-                    an einer guten Verwaltung als an staatsrechtlichen Theorien" – mit solchen u.
-                    ähnlichen Sätzen würzte er seine Conversation. Heute ist in <placeName
-                        key="Laibach"
+                        >Nationalpartei</orgName> an, steht mit dem <persName key="PejacevicTivadar"
+                        ref="https://d-nb.info/gnd/1025703324">Banus</persName> gut u. ist sehr
+                    gemässigt und – wenigstens äusserlich – fromm. "Ein Zoll Macht ist mehr wert als
+                    eine Elle Rechte" – "ein kleines Land soll sich nur bescheidene Ziele setzen" –
+                    "ein Volk hat ein grösseres Interesse an einer guten Verwaltung als an
+                    staatsrechtlichen Theorien" – mit solchen u. ähnlichen Sätzen würzte er seine
+                    Conversation. Heute ist in <placeName key="Laibach"
                         ref="https://www.geonames.org/3239318/mestna-obcina-ljubljana.html"
                         >Laibach</placeName> eine grosse Festlichkeit zu Ehren eines slowenischen
                     Dichters. <persName key="AmrusMilan" ref="https://d-nb.info/gnd/143840010"
@@ -3233,8 +3229,8 @@
                         >Wien</placeName> gegen die Ungarn zu stützen ist keine Spur mehr, kaum mehr
                     schwache Reminiscenzen. Die großillyrische Idee beherrscht <hi rend="ul"
                         >alle</hi> Köpfe, die Opposition spricht sie offen aus, sowol die gemässigte
-                        <orgName key="Obzorpartei" ref="">Obzorpartei</orgName> als die radikale
-                        <persName key="StarcevicAnte" ref="https://d-nb.info/gnd/119559013"
+                        <orgName key="Obzorpartei">Obzorpartei</orgName> als die radikale <persName
+                        key="StarcevicAnte" ref="https://d-nb.info/gnd/119559013"
                         >Starczewicz</persName>-Partei u. nur mit dieser Idee könnte man operiren.
                     Wäre es möglich <placeName key="Kroatien"
                         ref="https://www.geonames.org/3202326/republic-of-croatia.html"
@@ -3281,9 +3277,9 @@
                     die Ausdehnung der Obst u. Seidenzucht erlauben. Die letztere ist aber ganz
                     unpopulär geworden, weil sie von <placeName key="Ungarn"
                         ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> aus
-                    durch die Bemühungen des bekannten <persName key="Bezeredy" ref=""
-                        >Bezeredy</persName> gefördert wurde u. weil man zwar den Ankauf der Cocons
-                    in <placeName key="Kroatien"
+                    durch die Bemühungen des bekannten <persName key="Bezeredy">Bezeredy</persName>
+                    gefördert wurde u. weil man zwar den Ankauf der Cocons in <placeName
+                        key="Kroatien"
                         ref="https://www.geonames.org/3202326/republic-of-croatia.html"
                         >Kroatien</placeName> betrieb, aber keine der neu errichteten Filanden in
                         <placeName key="Kroatien"
@@ -3724,7 +3720,7 @@
                     gekümmert habe; im Ministerrate habe er entweder geschlafen oder Pferdchen
                     gezeichnet. Die letzte Thorheit, welche zu tun übrig bleibt wäre die <pb
                         facs="F_K-4_Tb_7-189" n="88r"/>Auflösung des Hauses. Sie würde eine
-                    unzweifelhafte Majorität für die <orgName key="Unabhaengigkeitspartei" ref=""
+                    unzweifelhafte Majorität für die <orgName key="Unabhaengigkeitspartei"
                         >Unabhängigkeitspartei</orgName> ergeben u. mit diesem Resultat wäre die <index>
                         <term key="Oesterreich-Ungarn/Personalunion">Personalunion</term>
                     </index> unvermeidlich geworden. Der <persName key="KaiserFranzJosef"
@@ -3794,7 +3790,8 @@
 
 
                 <pb facs="F_K-4_Tb_7-191" n="90r"/>
-                <p>Über meine Gespräche mit <persName key="GautschPaul"
+                <p><!-- CA: dieser anchor für eine Stelle im MF_6-2 im Abschntt 4 --><anchor/>Über
+                    meine Gespräche mit <persName key="GautschPaul"
                         ref="https://d-nb.info/gnd/137078080">Paul Gautsch</persName> u. <persName
                         key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305"
                         >Bylandt</persName> Anfang Nov[em]b[e]r 05 gibt der inliegende Brief an
@@ -3870,7 +3867,37 @@
                     die Gemeinsamkeit mit <placeName key="Ungarn"
                         ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>.</p>
                 <p>Darauf erwiderte er nichts und meinte nur, dass Schlagworte eine noch grössere
-                    Rolle spielen werden als heute.</p>
+                    Rolle spielen werden als heute.<app from="xxxx">
+                        <rdg wit="#Bae_MF_6-2">Am selben Tage hatte ich eine lange Unterredung mit
+                            Bylandt, dem Minister des Innern. Ich sprach zuerst von der bedenklich
+                            erschütterten öffentlichen Ordnung und Sicherheit in Prag und Umgebung.
+                            Er gab mir eine für unsere Regierungsweise sehr bezeichnende Antwort:
+                            alle Berichte konstatieren eine große Aufregung der untern Volksklassen
+                            . Höchst wahrscheinlich sei ein direkter Zusammenhang mit der Agitation
+                            in Russland. Der Statthalter habe alle nötigen Vollmachten, um die
+                            notwendigen Maßregeln zu ergreifen. Sie seien in seiner Hand. Was er
+                            beantragen wird, dem wird in Wien zugestimmt. Die Verhängung des
+                            Ausnahmezustandes muß vor dem Reichsrat begründet werde und würde eine
+                            grosse Debatte entfesseln. Trotzdem werde die Regierung nicht zögern,
+                            wenn die Notwendigkeit vom Statthalter konstatiert wird. Immer die
+                            Berufung auf den Statthalter. Nur keine eigene Verantwortung. Bezüglich
+                            des allgemeinen Stimmrechtes äusserte er, daß es nicht mehr aufzuhalten
+                            sei. Das Programm Fejérváry und die russischen Zustände drängen die
+                            Regierung zu einer Reform. Uebrigens habe das Parlament mit einer
+                            Majorität von 40 Stimmen sich ebenfalls für eine Wahlreform erklärt.
+                            Würde die Regierung zögern und sich sträuben, hätte sie keinen Halt an
+                            den Parteien des Hauses, die ganz unverläßlich sind. Bei der Wahlreform
+                            handle es sich um die notwendigen Einschränkungen. Ueber diese sowie
+                            alle Details ist die Regierung noch nicht schlüßig. Er ist gegen das
+                            Pluralitätssystem Proportionalwahlen für undurchführbar. Ein Mittel die
+                            höhere Steuerleistung und Intelligenz zum Ausdruck zu bringen, wäre die
+                            verschiedene Größe der Wahlbezirke . Da könnte auch ein Vorteil für die
+                            Deutschen herausschauen. Beide Staatsmänner wußten auf meine Einwendung,
+                            daß das allgemeine Stimmrecht ohne weitere Voraussetzungen angewendet,
+                            den Nationalitätenkampf nicht abschwächen, sondern steigern werde, keine
+                            Antwort, doch gab mir Bylandt zu, daß Schlagworte eine noch größere
+                            Rolle spielen werden als heute.</rdg>
+                    </app></p>
                 <p><hi rend="ul"><persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
                             >Paul Gautsch</persName></hi></p>
                 <p>Was die Zustände in <placeName key="Prag"
@@ -3884,14 +3911,15 @@
                         >Statthalter</persName> hat Vollmacht. Seinen Anträgen würde stattgegeben.
                     Es ist jetzt so viel Militär in <placeName key="Prag"
                         ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
-                    zusammengezogen, dass Stadt u. Umgebung beherrscht werden können. Die Regierung
-                    wird am <date when="1905-11-28">28. Nov[em]b[e]r</date> als am Tage der
-                    Eröffnung des <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
+                    zusammengezogen, dass Stadt u. Umgebung beherrscht werden können.
+                    Die
+                    Regierung wird am <date when="1905-11-28">28. Nov[em]b[e]r</date> als am Tage
+                    der Eröffnung des <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
                         >R[eichs]Rates</orgName> eine Erklärung abgeben, dass sie die <index>
                         <term key="Wahlrechtsreform">Wahlreform</term>
                     </index> einbringen wird. Zeitpunkt der Einbringung jedoch nicht bestimmbar, da
                     Vorarbeiten noch nicht beendet. Die Deutschen müssen sich darauf gefasst machen
-                    Mandate zu verlieren. Ueber die notwendigen Ein<pb facs="F_K-4_Tb_7-195" n="94r"
+                    Mandate zu verlieren. <!-- CA: dieser anchor für die Textstelle in MF_6-2 im Abschnitt 4 zu Beginn --><anchor/>Ueber die notwendigen Ein<pb facs="F_K-4_Tb_7-195" n="94r"
                     /><!-- Fortsetzung der Einklebung -->schränkungen des allgem. <hi rend="ul"
                         >gleichen</hi> Wahlrechtes äusserte er sich noch unbestimmter als <persName
                         key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305"
@@ -4189,10 +4217,10 @@
                         ref="https://d-nb.info/gnd/119128691">Dr. Alexander
                         <hi>Wekerle</hi></persName> übernahm heute um 1 Uhr mittags, wie bereits
                     kurz berichtet, die Agenden des Ministerpräsidiums. Er wurde dort vom
-                    Staatssekretär <persName key="MarffyAlbin" ref="">Albin v.
-                        <hi>Marffy</hi></persName> an der Spitze des Beamtenkörpers begrüßt. Die bei
-                    diesem Anlasse gewechselten Reden waren rein persönlichen und durchaus
-                    unpolitischen Charakters. Ministerpräsident Dr. <persName key="WekerleSandor"
+                    Staatssekretär <persName key="MarffyAlbin">Albin v. <hi>Marffy</hi></persName>
+                    an der Spitze des Beamtenkörpers begrüßt. Die bei diesem Anlasse gewechselten
+                    Reden waren rein persönlichen und durchaus unpolitischen Charakters.
+                    Ministerpräsident Dr. <persName key="WekerleSandor"
                         ref="https://d-nb.info/gnd/119128691"><hi>Wekerle</hi></persName> erklärte,
                     daß er schon einmal mit dem vornehmen Beamtenkörper des Ministerpräsidiums Jahre
                     hindurch zusammen gearbeitet habe und ihm nur die Direktive geben könne, in
@@ -4292,7 +4320,7 @@
                     zur Entwicklung der allgemeinen Wohlfahrt anvertraut sind. (Zustimmung.) Bei dem
                     riesenhaften Maße meiner politischen Agenden, die während der Zeit meiner
                     Minsterschaft sich nicht verringern, sondern noch anwachsen, da ich der
-                    Präsident und Führer der <orgName key="Unabhaengigkeitspartei" ref=""
+                    Präsident und Führer der <orgName key="Unabhaengigkeitspartei"
                         >Unabhängigkeitspartei</orgName> bleibe (Eljen-Rufe), hätte ich es kaum
                     gewagt, mich der Bedingung zu unterwerfen, daß eine Entwirrung nur dann erfolgen
                     könne, wenn ich ein Portefeuille übernehme, hätt ich nicht gewußt, daß es in
@@ -4305,7 +4333,7 @@
             </div>
             <div n="1906-01-01" type="diary-entry">
                 <pb facs="F_K-4_Tb_7-202" n="101r"/>
-                <hi rend="ul">Bonmots </hi>
+                <p><hi rend="ul">Bonmots </hi></p>
                 <p>Der "rote Prinz" <persName key="HohenloheKonrad"
                         ref="https://d-nb.info/gnd/137601816">Hohenlohe</persName> hat sich als
                     "grüner" gezeigt.</p>
