@@ -73,7 +73,7 @@
         <language ident="deu" xml:id="Bae_MF_6-2_46">Deutsch</language>
       </langUsage>
       <textClass xml:id="Bae_MF_6-2_47">
-        <classCode scheme="" xml:id="Bae_MF_6-2_48">Tagebuch</classCode>
+        <classCode scheme="nnnn" xml:id="Bae_MF_6-2_48">Tagebuch</classCode>
         <!-- wo findet man die URLs der DTA-Hauptklassifikation -->
       </textClass>
     </profileDesc>
@@ -2635,7 +2635,7 @@
               Meinungswechsels erspart bleiben.</rdg>
           </app>
         </p>
-        <anchor xml:id="Bae_MF_6-2_1242"/>Der Schluss, den <persName key="CzerninOttokar"
+        <p><anchor xml:id="Bae_MF_6-2_1242"/>Der Schluss, den <persName key="CzerninOttokar"
           ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1243">Czernin</persName> in
         diesem Briefe aus der <index xml:id="Bae_MF_6-2_1244">
           <term key="Kaiser Franz Joseph/Audienzen" xml:id="Bae_MF_6-2_1245">Audienz</term>
@@ -2669,6 +2669,7 @@
             <p xml:id="Bae_MF_6-2_1258">O. Czernin</p>
           </rdg>
         </app>
+        </p>
         <p xml:id="Bae_MF_6-2_1259">
           <anchor xml:id="Bae_MF_6-2_1260"/>Gleich in den ersten Tagen seines Ministeriums <pb
             facs="#F_K-11_Bae_MF_6-2_030" n="28v" xml:id="Bae_MF_6-2_1261"/>
@@ -3010,8 +3011,8 @@
           </app><anchor/>. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
             xml:id="Bae_MF_6-2_1396">Prade</persName> erklärt den <orgName
             key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1"
-            xml:id="Bae_MF_6-2_1397">Christlich-Sozialen</orgName>, <app from="xxxx" type="equal">.
-            Prade erklärt den Christlich Socialen</app><anchor xml:id="Bae_MF_6-2_1398"/>die sich
+            xml:id="Bae_MF_6-2_1397">Christlich-Sozialen</orgName>, <app from="xxxx" type="equal"><rdg>.
+            Prade erklärt den Christlich Socialen</rdg></app><anchor xml:id="Bae_MF_6-2_1398"/>die sich
           auch dem deutschen Mandat von <placeName key="Biala"
             ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1399"
             >Biala</placeName> geneigt zeigen <app from="#Bae_TB_8_1043" xml:id="Bae_MF_6-2_1400">
@@ -3020,8 +3021,8 @@
           </app><anchor/>, daß ein deutsches Mandat in <placeName key="Biala"
             ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1402"
             >Biala</placeName> die ganze Wahlreform vereiteln würde, worauf <app from="xxxx"
-            type="equal">dass ein deutsches Mandat in Biala die ganze Wahlreform vereiteln würde,
-            worauf</app><anchor xml:id="Bae_MF_6-2_1403"/>sie <app from="#Bae_TB_8_1047"
+            type="equal"><rdg>dass ein deutsches Mandat in Biala die ganze Wahlreform vereiteln würde,
+            worauf</rdg></app><anchor xml:id="Bae_MF_6-2_1403"/>sie <app from="#Bae_TB_8_1047"
             xml:id="Bae_MF_6-2_1404">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1405">diese wieder</rdg>
           </app>
