@@ -130,19 +130,19 @@
             <term key="Aristokratie" xml:id="Bae_MF_6-2_77">Adel</term>
           </index> oder Erbgesessenheit imponierte. Die besitzende, gebildete oft genug
           halbgebildete <index xml:id="Bae_MF_6-2_78">
-            <term key="Bürgertum" xml:id="Bae_MF_6-2_79">Mittelklasse</term>
+            <term key="Buergertum" xml:id="Bae_MF_6-2_79">Mittelklasse</term>
           </index> war ihm zuwider. Das, was man <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8"> – oft seine Ansichten auseinandergesetzt. Er war im Grunde ein
               guter Mensch, aber hasste den Besitz, sofern er ihm nicht durch Adel oder
               Erbgesessenheit imponierte. Die besitzende, gebildete, oft genug halbgebildete
               Mittelklasse war ihm zuwider. Das, was man</rdg>
           </app><anchor xml:id="Bae_MF_6-2_80"/>bourgeoisie <app from="#Bae_TB_8_1319"
-            xml:id="Bae_MF_6-2_81">
+            type="notEqual" xml:id="Bae_MF_6-2_81">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_82">"bourgeoisie"</rdg>
           </app><anchor/> nennt, <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8"> nennt, </rdg>
           </app><anchor xml:id="Bae_MF_6-2_83"/>middleclass <app from="#Bae_TB_8_1322"
-            xml:id="Bae_MF_6-2_84">
+            type="notEqual" xml:id="Bae_MF_6-2_84">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_85">"middle class"</rdg>
           </app><anchor/> in <placeName key="England"
             ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
@@ -153,12 +153,15 @@
           <anchor xml:id="Bae_MF_6-2_87"/>
           <del rendition="#s" xml:id="Bae_MF_6-2_88">und borniert</del>
           <add place="across" xml:id="Bae_MF_6-2_89">die staatlichen Aufgaben zu lösen</add>
-          <app from="#Bae_TB_8_1326" xml:id="Bae_MF_6-2_90">
+          <app from="#Bae_TB_8_1326" type="notEqual" xml:id="Bae_MF_6-2_90">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_91">und borniert</rdg>
           </app><anchor/>. Die wirtschaftliche Bedeutung dieser Klasse unterschätzte er vollständig
           und suchte sie einzuschränken, wo er konnte. Daher auch seine Ueberschätzung des <index
             xml:id="Bae_MF_6-2_92">
-            <term key="Verwaltung/Bürokratie" xml:id="Bae_MF_6-2_93">Beamtenstandes</term>
+            <term key="Verwaltung" xml:id="Bae_MF_6-2_93">Beamtenstandes</term>
+            <index>
+              <term>Bürokratie</term>
+            </index>
           </index>. Sein Ideal war die Ausübung aller staatlichen und wirtschaftlichen Funktionen
           als Amt. Darin war er ganz Sozialist älteren Stils. Für Selbstverwaltung, Selbsttätigkeit
           hatte er nur <app from="xxxx" type="equal">
@@ -168,7 +171,7 @@
               wirtschaftlichen Funktionen als Amt. Darin war er ganz Sozialist älteren Stils. Für
               Selbstverwaltung, Selbsttätigkeit hatte er nur</rdg>
           </app><anchor xml:id="Bae_MF_6-2_94"/>verächtliche <app from="#Bae_TB_8_1331"
-            xml:id="Bae_MF_6-2_95">
+            type="notEqual" xml:id="Bae_MF_6-2_95">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_96">höhnende</rdg>
           </app><anchor/> Worte. Das englische Gemeinwesen hatte er nie verstanden. Der deutsche
             <index xml:id="Bae_MF_6-2_97">
@@ -186,7 +189,7 @@
               Die Repräsentanten desselben waren ihm das rote Tuch. Er konnte in der ungerechtesten
               Weise über diese Richtung sprechen. Er übertrieb</rdg>
           </app><anchor xml:id="Bae_MF_6-2_104"/>ihre Fehler ins Maßlose <app from="#Bae_TB_8_1338"
-            xml:id="Bae_MF_6-2_105">
+            type="notEqual" xml:id="Bae_MF_6-2_105">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_106">ins Maßlose die von ihr begangenen
               Fehler</rdg>
           </app><anchor/> und ließ kein gutes Haar an ihr. Sein Rezept für die Heilung <placeName
@@ -195,7 +198,8 @@
             <rdg wit="#Bae_TB_8"> und ließ kein gutes Haar an ihr. Sein Rezept für die Heilung
               Österreichs war daher sehr einfach</rdg>
           </app><anchor xml:id="Bae_MF_6-2_108"/>. Die Repräsentanten dieser Schichten sind unfähig
-          den Staat zu regieren; man <app from="#Bae_TB_8_1342" xml:id="Bae_MF_6-2_109">
+          den Staat zu regieren; man <app from="#Bae_TB_8_1342" type="notEqual"
+            xml:id="Bae_MF_6-2_109">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_110">: weg mit den Repräsentanten dieser
               Schichten , die unfähig sind den Staat zu regieren. Man</rdg>
           </app><anchor/> müsse tiefer greifen, wo ungenützt die gesunden Elemente der
@@ -205,7 +209,7 @@
               österreichischen Völker ruhen. Durch ein radicales Wahlrecht müssen die bürgerlichen
               Klassen </rdg>
           </app><anchor xml:id="Bae_MF_6-2_111"/>eingeschränkt <app from="#Bae_TB_8_1348"
-            xml:id="Bae_MF_6-2_112">
+            type="notEqual" xml:id="Bae_MF_6-2_112">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_113">depossediert</rdg>
           </app><anchor/> werden und die untern, politisch unberührten <index
             xml:id="Bae_MF_6-2_114">
@@ -214,7 +218,7 @@
             <rdg wit="#Bae_TB_8">werden und die untern, politisch unberührten Schichten</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_116"/>
-          <app from="#Bae_TB_8_1351" xml:id="Bae_MF_6-2_117">
+          <app from="#Bae_TB_8_1351" type="notEqual" xml:id="Bae_MF_6-2_117">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_118">(wie er meinte)</rdg>
           </app><anchor/> an die Oberfläche kommen. Diese seien noch gesund, sie werden soziale
           Politik machen, nicht nationale, sie sind dynastisch gesinnt, nicht irredentistisch, sie
@@ -235,7 +239,7 @@
               Allgemeines Wahlrecht mit Belassung des Großgrundbesitzes</rdg>
           </app><anchor xml:id="Bae_MF_6-2_124"/>
           <del rendition="#s" xml:id="Bae_MF_6-2_125">denn vor dem Adel machte er immer Halt</del>
-          <app from="#Bae_TB_8_1361" xml:id="Bae_MF_6-2_126">
+          <app from="#Bae_TB_8_1361" type="notEqual" xml:id="Bae_MF_6-2_126">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_127">, denn vor dem Adel machte er immer
               halt.</rdg>
           </app>
@@ -248,7 +252,7 @@
           </app>
           <anchor/>Jetzt, 1905, tauchten <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Jetzt, 1905, tauchten</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_133"/>sie <app from="#Bae_TB_8_1386"
+          </app><anchor xml:id="Bae_MF_6-2_133"/>sie <app from="#Bae_TB_8_1386" type="notEqual"
             xml:id="Bae_MF_6-2_134">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_135">dieselben Gedanken</rdg>
           </app><anchor/> wieder auf. Wer sie dem <persName key="KaiserFranzJosef"
@@ -267,7 +271,7 @@
               stärker war als</rdg>
           </app><anchor xml:id="Bae_MF_6-2_139"/>die <persName key="SteinbachEmil"
             ref="https://d-nb.info/gnd/129263958" xml:id="Bae_MF_6-2_140">Steinbach</persName>’schen
-          Ideen. <app from="#Bae_TB_8_1395" xml:id="Bae_MF_6-2_141">
+          Ideen. <app from="#Bae_TB_8_1395" type="notEqual" xml:id="Bae_MF_6-2_141">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_142">alle Steinbach’schen Ideologien:</rdg>
           </app><anchor/>
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
@@ -275,7 +279,7 @@
             type="equal">
             <rdg wit="#Bae_TB_8">Ungarn. Dort waren die Verhältnisse</rdg>
           </app><anchor xml:id="Bae_MF_6-2_144"/>
-          <app from="#Bae_TB_8_1400" xml:id="Bae_MF_6-2_145">
+          <app from="#Bae_TB_8_1400" type="notEqual" xml:id="Bae_MF_6-2_145">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_146">– durch wessen Schuld soll hier nicht
               erörtert werden –</rdg>
           </app><anchor/> wieder einmal auf einem toten Punkt angelangt. Wie, wenn man dort das
@@ -310,7 +314,7 @@
             type="equal">
             <rdg wit="#Bae_TB_8">ein paar hundert Magnaten, mit dem Volk könnte man regieren, aber
               mit jenen nicht. Bei dieser Gelegenheit bekam auch die Geistlichkeit</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_161"/>eins <app from="#Bae_TB_8_1413"
+          </app><anchor xml:id="Bae_MF_6-2_161"/>eins <app from="#Bae_TB_8_1413" type="notEqual"
             xml:id="Bae_MF_6-2_162">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_163">etwas</rdg>
           </app><anchor/> ab. <persName key="KristoffyJozsef" ref="https://d-nb.info/gnd/124554865"
@@ -330,13 +334,15 @@
             <rdg wit="#Bae_TB_8">Der Ausgang war eine Ironie der Geschichte. In Ungarn
               scheiterte</rdg>
           </app><anchor xml:id="Bae_MF_6-2_170"/>
-          <app from="#Bae_TB_8_1421" xml:id="Bae_MF_6-2_171">
+          <app from="#Bae_TB_8_1421" type="missing" xml:id="Bae_MF_6-2_171">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_172">– wenigstens vorläufig –</rdg>
           </app><anchor/>der Plan <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">der Plan</rdg>
           </app><anchor xml:id="Bae_MF_6-2_173"/>des allgemeinen <index xml:id="Bae_MF_6-2_174">
-            <term key="Ungarischer Reichstag/Wahlrechtsreform" xml:id="Bae_MF_6-2_175"
-              >Stimmrechts</term>
+            <term key="UngarischerReichstag" xml:id="Bae_MF_6-2_175">Stimmrechts</term>
+            <index>
+              <term>Wahlrechtsreform</term>
+            </index>
           </index>
           <app from="#Bae_TB_8_1424" type="missing" xml:id="Bae_MF_6-2_176">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_177"/>
@@ -351,12 +357,12 @@
               österreichischen Parlament möglich gewesen wäre, die Sache abzuwenden, ist schwer zu
               sagen. Der Druck kam diesmal nicht nur von oben, sondern viel intensiver noch von
               unten,</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_180"/>und <app from="#Bae_TB_8_1431"
+          </app><anchor xml:id="Bae_MF_6-2_180"/>und <app from="#Bae_TB_8_1431" type="notEqual"
             xml:id="Bae_MF_6-2_181">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_182">ja</rdg>
           </app><anchor/> der untere Druck wurde von oben, <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">der untere Druck wurde von oben, </rdg>
-          </app><anchor xml:id="Bae_MF_6-2_183"/>d.h. <app from="#Bae_TB_8_1434"
+          </app><anchor xml:id="Bae_MF_6-2_183"/>d.h. <app from="#Bae_TB_8_1434" type="notEqual"
             xml:id="Bae_MF_6-2_184">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_185">wenigstens</rdg>
           </app><anchor/> von der Regierung planmäßig benützt. Das war <app from="xxxx" type="equal">
@@ -373,7 +379,7 @@
               eines Gegenplanes, einer großzügigen Wahlreform aus den bürgerlichen Kreisen
               bedurft,</rdg>
           </app><anchor xml:id="Bae_MF_6-2_192"/>
-          <app from="#Bae_TB_8_1446" xml:id="Bae_MF_6-2_193">
+          <app from="#Bae_TB_8_1446" type="missing" xml:id="Bae_MF_6-2_193">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_194">, nicht wie ihn Grabmayr vorschlug, sondern
               wie ihn Silva Tarouca andeutete</rdg>
           </app><anchor/> – aber dazu war das <orgName key="Abgeordnetenhaus"
@@ -390,7 +396,10 @@
           ein, das auf den <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
             xml:id="Bae_MF_6-2_199">Kaiser</persName> offenbar einen tiefen Eindruck machte — die
           russische <index xml:id="Bae_MF_6-2_200">
-            <term key="Russland/Russische Revolution" xml:id="Bae_MF_6-2_201">Revolution</term>
+            <term key="Russland" xml:id="Bae_MF_6-2_201">Revolution</term>
+            <index>
+              <term>Russische Revolution 1905</term>
+            </index>
           </index>. Deutliche Anzeichen waren vorhanden, daß sie auf unsere Volksmassen
           herüberwirke. Dieser Wirkung sollte in <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_202"
@@ -401,7 +410,10 @@
             ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_205">Kaiser</persName> in
           seiner Absicht. Von Seiten jener Kreise, die ihm sonst am nächsten standen, wurden ihm in
           vielen <index xml:id="Bae_MF_6-2_206">
-            <term key="Kaiser Franz Joseph/Audienzen" xml:id="Bae_MF_6-2_207">Audienzen</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_MF_6-2_207">Audienzen</term>
+            <index>
+              <term>Audienzen</term>
+            </index>
           </index> die Gefahren des allgemeinen <index xml:id="Bae_MF_6-2_208">
             <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_209">Stimmrechtes</term>
           </index> vorgetragen und von den verschiedensten Seiten beleuchtet. Er hörte diese Herren
@@ -410,7 +422,7 @@
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_211"/>
           </app>
           <anchor xml:id="Bae_MF_6-2_212"/>
-          <app from="#Bae_TB_8_1455" xml:id="Bae_MF_6-2_213">
+          <app from="#Bae_TB_8_1455" type="missing" xml:id="Bae_MF_6-2_213">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_214">Das ist, glaub ich, eine ziemlich richtige
               Darstellung der Geschichte der Wahlreform.</rdg>
           </app>
@@ -464,12 +476,12 @@
             from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Positivismus in der Politik! Das fehlt uns seit</rdg>
           </app><anchor xml:id="Bae_MF_6-2_237"/>Jahrzehnten.<app from="#Bae_TB_8_763"
-            xml:id="Bae_MF_6-2_238">
+            type="notEqual" xml:id="Bae_MF_6-2_238">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_239">Decennien.</rdg>
           </app><anchor/> Der Gegensatz dazu ist unser <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Der Gegensatz dazu ist unser</rdg>
           </app><anchor xml:id="Bae_MF_6-2_240"/>Fortwursteln. <app from="#Bae_TB_8_766"
-            xml:id="Bae_MF_6-2_241">
+            type="notEqual" xml:id="Bae_MF_6-2_241">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_242">"Fortwursteln".</rdg>
           </app>
           <anchor/>Wenigen Herrschern und Staatsmännern ist es gegönnt gewesen, positiv im großen
@@ -477,20 +489,20 @@
             <persName key="BismarckOtto" ref="https://d-nb.info/gnd/11851136X"
               xml:id="Bae_MF_6-2_244">Bismarck</persName> war es und <persName
               key="KaiserWilhelmII." ref="https://d-nb.info/gnd/118632892" xml:id="Bae_MF_6-2_245"
-              >Wilhelm II.</persName> suchte es zu sein.</add><app from="xxxx">
+              >Wilhelm II.</persName> suchte es zu sein.</add><app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Wenigen Herrschern und Staatsmännern ist es gegönnt gewesen,
               positiv im großen Stil zu sein. Bismarck war es und Kaiser Wilhelm II. sucht es zu
               sein.</rdg>
           </app><anchor/> Bei uns ist die positive Politik seit <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Bei uns ist die positive Politik seit</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_249"/>langem <app from="#Bae_TB_8_774"
+          </app><anchor xml:id="Bae_MF_6-2_249"/>langem <app from="#Bae_TB_8_774" type="notEqual"
             xml:id="Bae_MF_6-2_250">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_251">Decennien ganz</rdg>
           </app><anchor/> ausgeschaltet. Nur noch lavieren, zurückstellen, aus <pb
             facs="#F_K-11_Bae_MF_6-2_006" n="4v" xml:id="Bae_MF_6-2_252"/>
           <note type="editorial" xml:id="Bae_MF_6-2_253">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_006" n="5r" xml:id="Bae_MF_6-2_254"/>weichen,
-            verkleistern.<app from="xxxx">
+            verkleistern.<app from="xxxx" type="notEqual">
             <rdg wit="#Bae_TB_8">ausgeschaltet. Nur noch Laviren, Zurückstellen, Ausweichen,
               Verkleistern.</rdg>
           </app>
@@ -501,7 +513,7 @@
           der Versuch, sich aus unmöglich gewordenen parlamentarischen Verhältnisse in andere zu
           retten, das Kapitulieren vor einem Wort, dessen tiefer sozialer Sinn ohne gehörige
           Vorbereitung und ohne innern Zusammenhang mit dem Aufbau des Staates zu einem Schlagwort
-          herabsinkt. <app from="#Bae_TB_8_777" xml:id="Bae_MF_6-2_257">
+          herabsinkt. <app from="#Bae_TB_8_777" type="notEqual" xml:id="Bae_MF_6-2_257">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_258">Wird Hohenlohe, dem der Ruf eines
               „Idealisten“ vorangeht darin eine Aenderung herbeifüren? Wird er es klar wollen u.
               können? Das ist jetzt die Frage. Montag den 7. habe ich eine Unterredung mit ihm. Ich
@@ -529,12 +541,12 @@
             ref="https://www.geonames.org/2802361/kingdom-of-belgium.html" xml:id="Bae_MF_6-2_269"
             >Belgien</placeName> benütze ich um das damals dort geltende <index
             xml:id="Bae_MF_6-2_270">
-            <term key="Wahlrechtsreform/Pluralwahlrecht" xml:id="Bae_MF_6-2_271"
-              >Pluralitätswahlrecht</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_271"
+              >Pluralitätswahlrecht</term><index><term>Pluralwahlrecht</term></index>
           </index> genau kennen zu lernen. Schließlich kam ich aber zu dem Entschluß eine Ergänzung
           unserer Interessenvertretung vorzuschlagen und zwar durch eine <index
             xml:id="Bae_MF_6-2_272">
-            <term key="Wahlrechtsreform/Arbeiterkurie" xml:id="Bae_MF_6-2_273">Arbeiterkurie</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_273">Arbeiterkurie</term><index><term>Arbeiterkurie</term></index>
           </index>, für die ich die Krankenkasse als Wahlkörper in Aussicht nahm. Auf der Durchreise
           in <placeName key="Muenchen"
             ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html"
@@ -576,12 +588,12 @@
           </app><anchor/><persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428"
             xml:id="Bae_MF_6-2_289">Taaffes</persName><app from="xxxx" type="missing">
             <rdg wit="#Bae_TB_8"/>
-          </app> scheiterte<anchor/><app from="xxxx">
+          </app> scheiterte<anchor/><app from="xxxx" type="missing">
             <rdg wit="#Bae_TB_8">damals</rdg>
-          </app><anchor/> aus zwei <app from="xxxx">
-            <rdg wit="#Bae_TB_8"/>
+          </app><anchor/> aus zwei <app from="xxxx" type="equal">
+            <rdg wit="#Bae_TB_8">aus zwei</rdg>
           </app><anchor xml:id="Bae_MF_6-2_290"/>Gründen. Es <app from="#Bae_TB_8_1368"
-            xml:id="Bae_MF_6-2_291">
+            type="notEqual" xml:id="Bae_MF_6-2_291">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_292">Gründen. Erstens</rdg>
           </app>
           <anchor/>rafften sich die bürgerlichen Parteien, damals noch im <orgName
@@ -598,7 +610,8 @@
           <anchor/><index xml:id="Bae_MF_6-2_295">
             <term key="Arbeiter" xml:id="Bae_MF_6-2_296">Klassen</term>
           </index> sich in ihren Organen nicht auch gegen den damaligen Wahlreformentwurf und zwar
-          wegen Belassung des Großgrundbesitzes erklärt hätten.<app from="#Bae_TB_8_1376">
+          wegen Belassung des Großgrundbesitzes erklärt hätten.<app from="#Bae_TB_8_1376"
+            type="notEqual">
             <rdg wit="#Bae_TB_8">Klasse und ihre Organe nicht auch Gegner der damaligen Wahlreform
               gewesen wären, und zwar wegen Belassung des Großgrundbesitzes.</rdg>
           </app>
@@ -653,8 +666,10 @@
           der den besten Willen hatte, bat ich ihn wenigstens meinen Antrag vom <orgName
             key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_323"
             >Parlament</orgName> annehmen und die <index xml:id="Bae_MF_6-2_324">
-            <term key="Wahlrechtsreform/Arbeiterkurie" xml:id="Bae_MF_6-2_325"
-              >Arbeitervertreter</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_325">Arbeitervertreter</term>
+            <index>
+              <term>Arbeiterkurie</term>
+            </index>
           </index> sobald als möglich zu dem bestehenden <orgName
             key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus" xml:id="Bae_MF_6-2_326"
             >Haus</orgName> hinzu wählen zu lassen. Damit wäre die Frage wenigstens vorläufig zur
@@ -673,8 +688,8 @@
             ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_6-2_333">Badeni</persName> mit
           seiner Wahlreform, an der ich mich nicht beteiligte, weil ich die <index
             xml:id="Bae_MF_6-2_334">
-            <term key="Wahlrechtsreform/Kurie Allgemeines Wahlrecht" xml:id="Bae_MF_6-2_335"
-              >Kurie</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_335"
+              >Kurie</term><index><term>Kurie Allgemeines Wahlrecht</term></index>
           </index> des allgemeinen <pb facs="#F_K-11_Bae_MF_6-2_009" n="7v" xml:id="Bae_MF_6-2_336"/>
           <note type="editorial" xml:id="Bae_MF_6-2_337">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_009" n="8r" xml:id="Bae_MF_6-2_338"/>Wahlrechtes an das alte
@@ -682,8 +697,10 @@
           überdies mit vielen anderen Arbeiten sehr beschäftigt war. </p>
         <p xml:id="Bae_MF_6-2_339">Vor der Erlassung der darauf bald erfolgenden unglückseligen
             <index xml:id="Bae_MF_6-2_340">
-            <term key="Reichsrat/Sprachenverordnung Badeni" xml:id="Bae_MF_6-2_341"
-              >Sprachenverordnung</term>
+            <term key="Reichsrat" xml:id="Bae_MF_6-2_341">Sprachenverordnung</term>
+            <index>
+              <term>Sprachverordnung Badeni</term>
+            </index>
           </index> hatte das Kurienparlament noch gute Stunden. Große Gesetzeswerke, unter der
           Koalitionsregierung begonnen und unter dem Zwischensystem <persName key="KielmanseggErich"
             ref="https://d-nb.info/gnd/107511584" xml:id="Bae_MF_6-2_342">Kielmansegg</persName> und
@@ -692,17 +709,21 @@
           sachlicher Beratung in beiden <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4"
             xml:id="Bae_MF_6-2_344">Häusern</orgName> Gesetzeskraft. So wurde die Steuerreform unter
           Dach und Fach gebracht, die neue <index xml:id="Bae_MF_6-2_345">
-            <term key="Reichsrat/Zivilprozessreform" xml:id="Bae_MF_6-2_346"
-              >Zivilprozeßordnung</term>
+            <term key="Reichsrat" xml:id="Bae_MF_6-2_346">Zivilprozeßordnung</term>
+            <index>
+              <term>Zivilprozessreform</term>
+            </index>
           </index> mit allen damit im Zusammenhang stehenden Gesetzen (ein Werk von 1400 Paragraphen
           ) war in verhältnismäßig kurzer Zeit erledigt worden. Für die <index
             xml:id="Bae_MF_6-2_347">
-            <term key="Wahlrechtsreform/Badenische Wahlreform" xml:id="Bae_MF_6-2_348"
-              >Wahlreform</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_348"
+              >Wahlreform</term><index><term>Badenische Wahlreform</term></index>
           </index> war doch auch wenigstens momentan ein Ausweg gefunden – neben vielen kleinern
           Dingen. Als ich in dieser Zeit während einer <index xml:id="Bae_MF_6-2_349">
-            <term key="Österreich-Ungarn/Delegationen" xml:id="Bae_MF_6-2_350"
-              >Delegationstagung</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_350">Delegationstagung</term>
+            <index>
+              <term>Delegationen</term>
+            </index>
           </index> mit dem <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
             xml:id="Bae_MF_6-2_351">Kaiser</persName> über das Beratungsgesetz zur
           Zivilprozessordnung sprach, hatte ich den Eindruck, daß er – der das <orgName
@@ -713,7 +734,10 @@
             ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_6-2_353">Thun</persName>, war er
           wieder sehr skeptisch geworden, was man ersehen konnte, wenn er sehr kategorisch den
             <index xml:id="Bae_MF_6-2_354">
-            <term key="Notverordnungsrecht§14" xml:id="Bae_MF_6-2_355">§ 14</term>
+            <term key="Notverordnungsrecht" xml:id="Bae_MF_6-2_355">§ 14</term>
+            <index>
+              <term>Paragraph 14</term>
+            </index>
           </index> als eine unbedingte Notwendigkeit bezeichnete und jedes Rütteln an dieser
           Bestimmung mit einer gewissen Heftigkeit zurückwies.<app from="xxxx" type="missing"
             xml:id="Bae_MF_6-2_356">
@@ -733,11 +757,11 @@
           <note type="editorial" xml:id="Bae_MF_6-2_364">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_010" n="9r" xml:id="Bae_MF_6-2_365"/>Seine Methode führte
           aber wieder zum <index xml:id="Bae_MF_6-2_366">
-            <term key="Notverordnungsrecht§14" xml:id="Bae_MF_6-2_367">§ 14</term>
+            <term key="Notverordnungsrecht" xml:id="Bae_MF_6-2_367">§ 14</term><index><term>Paragraph 14</term></index>
           </index> und deswegen hat er auch, wenn auch nur indirekt, dem allgemeinen <index
             xml:id="Bae_MF_6-2_368">
             <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_369">Stimmrecht</term>
-          </index> vorgearbeitet. <app from="#Bae_TB_8_1274" xml:id="Bae_MF_6-2_370">
+          </index> vorgearbeitet. <app from="#Bae_TB_8_1274" type="notEqual" xml:id="Bae_MF_6-2_370">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_371">Immer klarer wird heute allerdings der
               Zusammenhang der Dinge bezüglich der Wahlreform. Insbesondere das Verhalten des
               Kaisers. Er sieht alles nur geschäftsmäßig an. Geschäftsmäßig aber war das
@@ -751,19 +775,19 @@
             <rdg wit="#Bae_TB_8">Er demoralisierte</rdg>
           </app><anchor xml:id="Bae_MF_6-2_372"/>das <orgName key="Reichsrat"
             ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_373">Parlament</orgName>
-          <app from="#Bae_TB_8_1284" xml:id="Bae_MF_6-2_374">
+          <app from="#Bae_TB_8_1284" type="notEqual" xml:id="Bae_MF_6-2_374">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_375">es vollkommen</rdg>
           </app>
           <anchor/>und verleitete die Deutschen auf jede <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">und verleitete die Deutschen auf jede</rdg>
           </app><anchor xml:id="Bae_MF_6-2_376"/>selbstständige <app from="#Bae_TB_8_1287"
-            xml:id="Bae_MF_6-2_377">
+            type="notEqual" xml:id="Bae_MF_6-2_377">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_378">politische</rdg>
           </app><anchor/> Regung<app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8"/>
           </app>
           <anchor xml:id="Bae_MF_6-2_379"/>, auf ein praktisches parlamentarisches Ziel <app
-            from="#Bae_TB_8_1290" xml:id="Bae_MF_6-2_380">
+            from="#Bae_TB_8_1290" type="notEqual" xml:id="Bae_MF_6-2_380">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_381">in vernünftiger, praktischer, auf ein
               korrektes parlamentarisches Ziel gerichtete Weise</rdg>
           </app><anchor/> zu verzichten, hinter dem § 14 zu sitzen, nichts zu tun und den Dingen
@@ -797,15 +821,17 @@
           bürgerlichen Kreise. Die ersteren traten immer entschiedener für das allgemeine, gleiche,
           direkte und geheime Wahlrecht ein und machten dafür eine sehr wirksame <index
             xml:id="Bae_MF_6-2_396">
-            <term key="Wahlrechtsreform/Wahlrechtsagitation" xml:id="Bae_MF_6-2_397"
-              >Propaganda</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_397"
+              >Propaganda</term><index><term>Wahlrechtsagitation</term></index>
           </index>, der die <index xml:id="Bae_MF_6-2_398">
-            <term key="Paragraph 14/Kaiserliches Notverordnungsrecht" xml:id="Bae_MF_6-2_399"
-              >Paragraph 14-Wirtschaft</term>
+            <term key="Notverordnungsrecht" xml:id="Bae_MF_6-2_399">Paragraph 14-Wirtschaft</term>
+            <index>
+              <term>Paragraph 14</term>
+            </index>
           </index>
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
             xml:id="Bae_MF_6-2_400">Körbers</persName> und die Schwäche es Kurienparlaments Vorschub
-          leistete. <app from="#Bae_TB_8_1298" xml:id="Bae_MF_6-2_392">
+          leistete. <app from="#Bae_TB_8_1298" type="notEqual" xml:id="Bae_MF_6-2_392">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_393">denken, dass sich im Geiste des Kaisers
               eine Wandlung vollzog, die ihn schließlich zum allgemeinen Stimmrecht führte. Zwei
               Dinge scheinen es gewesen zu sein, die den Anstoß gaben. Aus den Zeiten Taaffes
@@ -825,8 +851,10 @@
             xml:id="Bae_MF_6-2_408">Fejérváry</persName> in <placeName key="Ungarn"
             ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_409"
             >Ungarn</placeName> mit der Frage der <index xml:id="Bae_MF_6-2_410">
-            <term key="Ungarischer Reichstag/Wahlrechtsreform" xml:id="Bae_MF_6-2_411"
-              >Wahlreform</term>
+            <term key="UngarischerReichstag" xml:id="Bae_MF_6-2_411">Wahlreform</term>
+            <index>
+              <term>Wahlrechtsreform</term>
+            </index>
           </index> beschäftigte. Ich sagte zu <persName key="GautschPaul"
             ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_412">Gautsch</persName>, daß
           ich das allgemeine gleiche Wahlrecht ohne jede Hemmung ins Werk gesetzt, als
@@ -854,7 +882,10 @@
             key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-2_424"
             >Fejérváry</persName> hatte demissioniert und es schien, daß eine Wendung zu Gunsten der
           Koalition sich vollziehen werde. Die <index xml:id="Bae_MF_6-2_425">
-            <term key="Kaiser Franz Joseph/Audienzen" xml:id="Bae_MF_6-2_426">Audienz</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_MF_6-2_426">Audienz</term>
+            <index>
+              <term>Audienzen</term>
+            </index>
           </index> der Koalitionsführer ( <persName xml:id="Bae_MF_6-2_427">Apponyi</persName>,
             <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
             xml:id="Bae_MF_6-2_428">Andrássy</persName>, <persName key="BanffyDeszo"
@@ -878,8 +909,8 @@
           den die <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
             xml:id="Bae_MF_6-2_439">Sozialisten</orgName> mit allen Mitteln des <index
             xml:id="Bae_MF_6-2_440">
-            <term key="Wahlrechtsreform/Wahlrechtsagitation" xml:id="Bae_MF_6-2_441"
-              >Terrorismus</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_441"
+              >Terrorismus</term><index><term>Wahlrechtsagitation</term></index>
           </index> in Szene setzten. Die Wogen der Wahlrechtsbewegung gingen immer höher. Am <date
             when="1905-10-06" xml:id="Bae_MF_6-2_442">6. Oktober</date> wurden im <orgName
             key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_443"
@@ -940,16 +971,20 @@
           <note type="editorial" xml:id="Bae_MF_6-2_469">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_013" n="12r" xml:id="Bae_MF_6-2_470"/>noch nicht beendet
           seien. Die Deutschen müssen sich darauf gefasst machen, <index xml:id="Bae_MF_6-2_471">
-            <term key="Wahlrechtsreform/nationale Mandatszahlen" xml:id="Bae_MF_6-2_472"
-              >Mandate</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_472">Mandate</term>
+            <index>
+              <term>Nationale Mandatszahl</term>
+            </index>
           </index> zu verlieren. Offenbar rechnet er auf den <index xml:id="Bae_MF_6-2_473">
-            <term key="Wahlrechtsreform/Wahlrechtsagitation" xml:id="Bae_MF_6-2_474">Druck der
-              Straße</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_474">Druck der Straße</term>
+            <index>
+              <term>Wahlrechtsagitation</term>
+            </index>
           </index>, unter dem er selbst steht, denn er sagte mir zuletzt hochmütig: an dem Tage, an
           dem die Wahlordnung vorgelegt wird, ist sie auch angenommen. Das war ungefähr die Summe
           staatsmännischer Weisheit, über die der österreichische <persName key="GautschPaul"
             ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_475"
-            >Ministerpräsident</persName> verfügt. <app from="xxxx">
+            >Ministerpräsident</persName> verfügt. <app from="xxxx" type="notEqual">
             <rdg wit="#Bae_TB_7">Ueber die notwendigen Einschränkungen des allgem. gleichen
               Wahlrechtes äusserte er sich noch unbestimmter als Bylandt. Besonderes Gewicht legte
               er auf die Abstimmung im Abgeordnetenhaus, die Anfang Oct[o]b[e]r in betreff des
@@ -977,8 +1012,8 @@
             <term key="Arbeiter" xml:id="Bae_MF_6-2_481">Volksklassen</term>
           </index>. Höchst wahrscheinlich sei ein direkter Zusammenhang mit der <index
             xml:id="Bae_MF_6-2_482">
-            <term key="Wahlrechtsreform/Wahlrechtsagitation" xml:id="Bae_MF_6-2_483"
-              >Agitation</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_483"
+              >Agitation</term><index><term>Wahlrechtsagitation</term></index>
           </index> in <placeName key="Russland" xml:id="Bae_MF_6-2_484">Russland</placeName>. Der
             <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920"
             xml:id="Bae_MF_6-2_485">Statthalter</persName> habe alle nötigen Vollmachten, um die
@@ -996,7 +1031,10 @@
           mehr aufzuhalten sei. Das Programm <persName key="FejervaryGeza"
             ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-2_491">Fejérváry</persName> und
           die <index xml:id="Bae_MF_6-2_492">
-            <term key="Russland/Revolution 1905" xml:id="Bae_MF_6-2_493">russischen Zustände</term>
+            <term key="Russland" xml:id="Bae_MF_6-2_493">russischen Zustände</term>
+            <index>
+              <term>Russische Revolution 1905</term>
+            </index>
           </index> drängen die Regierung zu einer Reform. Uebrigens habe das <orgName
             key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-2_494"
             >Parlament</orgName> mit einer Majorität von 40 Stimmen sich ebenfalls für eine
@@ -1007,23 +1045,29 @@
           unverläßlich sind. Bei der Wahlreform handle es sich um die notwendigen Einschränkungen.
           Ueber diese sowie alle Details ist die Regierung noch nicht schlüßig. Er ist gegen das
             <index xml:id="Bae_MF_6-2_498">
-            <term key="Wahlrechtsreform/Pluralwahlrecht" xml:id="Bae_MF_6-2_499"
-              >Pluralitätssystem</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_499">Pluralitätssystem</term>
+            <index>
+              <term>Pluralwahlrecht</term>
+            </index>
           </index> und hält auch die <index xml:id="Bae_MF_6-2_500">
-            <term key="Wahlrechtsreform/Proportionalwahlrecht" xml:id="Bae_MF_6-2_501"
-              >Proportionalwahlen</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_501">Proportionalwahlen</term>
+            <index>
+              <term>Proportionalwahlrecht</term>
+            </index>
           </index> für undurchführbar. Ein Mittel die höhere Steuerleistung und Intelligenz zum
           Ausdruck zu bringen, wäre die verschiedene Größe der <index xml:id="Bae_MF_6-2_502">
-            <term key="Wahlrechtsreform/Wahlkreiseinteilung" xml:id="Bae_MF_6-2_503"
-              >Wahlbezirke</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_503">Wahlbezirke</term>
+            <index>
+              <term>Wahlkreiseinteilung</term>
+            </index>
           </index>. Da könnte auch ein Vorteil für die Deutschen herausschauen. Beide Staatsmänner
           wußten auf meine Einwendung, daß das allgemeine Stimmrecht ohne weitere Voraussetzungen
           angewendet, den <index xml:id="Bae_MF_6-2_504">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_MF_6-2_505">Nationalitätenkampf</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_MF_6-2_505">Nationalitätenkampf</term>
           </index> nicht abschwächen, sondern steigern werde, keine Antwort, doch gab mir <persName
             key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_MF_6-2_506"
             >Bylandt</persName> zu, daß Schlagworte eine noch größere Rolle spielen werden als
-            heute.<app from="xxxx">
+            heute.<app from="xxxx" type="notEqual">
             <rdg wit="#Bae_TB_7"> Über meine Gespräche mit Paul Gautsch u. Bylandt Anfang
               Nov[em]b[e]r 05 gibt der inliegende Brief an Erwein Nostitz u. der an ihn für unsere
               Landtagsmitglieder gesandte Bericht Nachricht. Wien am 8. Nov[em]b[e]r 05 Mit Graf
@@ -1101,7 +1145,10 @@
             <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_528">Wahlreform</term>
           </index>, wie sie durch die Zeitverhältnisse notwendig geworden war, nur Hand in Hand mit
           einer Reform unserer Verfassung und <index xml:id="Bae_MF_6-2_529">
-            <term key="Verwaltung/Verwaltungsreform" xml:id="Bae_MF_6-2_530">Verwaltung</term>
+            <term key="Verwaltung" xml:id="Bae_MF_6-2_530">Verwaltung</term>
+            <index>
+              <term>Verwaltungsreform</term>
+            </index>
           </index> hätte gehen müssen, wenn sie nicht bloß auflösen, sondern einem neuen Aufbau des
           Staates als Grundlage dienen sollte. </p>
         <p xml:id="Bae_MF_6-2_531">Ich habe bei verschiedenen Gelegenheiten vertreten, daß man das
@@ -1162,7 +1209,7 @@
           </app>
           <anchor xml:id="Bae_MF_6-2_559"/> im <orgName key="Abgeordnetenhaus"
             ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_560">Abgeordnetenhaus</orgName>
-          ein <app from="#Bae_TB_8_62" xml:id="Bae_MF_6-2_561">
+          ein <app from="#Bae_TB_8_62" type="notEqual" xml:id="Bae_MF_6-2_561">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_562">politisch ein geradezu</rdg>
           </app><anchor/> widerliches Bild. Eine Regierung, <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">widerliches Bild. Eine Regierung, </rdg>
@@ -1179,14 +1226,14 @@
           </app><anchor/> politische Parteien, die zerfahren und unaufrichtig diesem <app
             from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">politische Parteien, die zerfahren und unaufrichtig diesem</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_569"/>Plane <app from="#Bae_TB_8_71"
+          </app><anchor xml:id="Bae_MF_6-2_569"/>Plane <app from="#Bae_TB_8_71" type="notEqual"
             xml:id="Bae_MF_6-2_570">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_571">Plan</rdg>
           </app><anchor/> der Regierung ohne Halt, ohne Ideen, ohne Willen <app from="xxxx"
             type="equal">
             <rdg wit="#Bae_TB_8">der Regierung ohne Halt, ohne Ideen, ohne Willen</rdg>
           </app><anchor xml:id="Bae_MF_6-2_572"/>gegenüber stehen <app from="#Bae_TB_8_74"
-            xml:id="Bae_MF_6-2_573">
+            type="notEqual" xml:id="Bae_MF_6-2_573">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_574">entgegenstehen</rdg>
           </app><anchor/>, die <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
             xml:id="Bae_MF_6-2_575">Sozialdemokraten</orgName>, die alles an Terrorismus und
@@ -1194,7 +1241,7 @@
             <rdg wit="#Bae_TB_8">– die Socialdemokraten, die alles an Terrorismus und
               Einschüchterung leisten, um</rdg>
           </app><anchor xml:id="Bae_MF_6-2_576"/>einen Preis <app from="#Bae_TB_8_80"
-            xml:id="Bae_MF_6-2_577">
+            type="notEqual" xml:id="Bae_MF_6-2_577">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_578">eine Beute</rdg>
           </app><anchor/>, der ihnen unerwartet winkt, in Sicherheit zu bringen, eine <index
             xml:id="Bae_MF_6-2_579">
@@ -1202,8 +1249,10 @@
           </index>, die ebenso feig wie falsch gegen ihre Ueberzeugung zu gleicher Zeit für und
           gegen die Wahlreform schreibt – endlich die Abgeordneten jeder nur an seinen zukünftigen
           Wahlbezirk denkend, käuflich durch die <index xml:id="Bae_MF_6-2_581">
-            <term key="Wahlrechtsreform/Wahlkreiseinteilung" xml:id="Bae_MF_6-2_582"
-              >Wahlkreiseinteilung</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_582">Wahlkreiseinteilung</term>
+            <index>
+              <term>Wahlkreiseinteilung</term>
+            </index>
           </index><app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8"> der ihnen unerwartet winkt, in Sicherheit zu bringen, eine Presse,
               die ebenso feig wie falsch gegen ihre Ueberzeugung zu gleicher Zeit für und gegen die
@@ -1211,31 +1260,32 @@
               Wahlbezirk denkend, käuflich durch die Wahlkreiseinteilung</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_583"/>, das ist die politische Atmosphäre, in der wir uns seit
-          Beginn des Jahres 1906 bewegen. <app from="#Bae_TB_8_88" xml:id="Bae_MF_6-2_584">
+          Beginn des Jahres 1906 bewegen. <app from="#Bae_TB_8_88" type="notEqual"
+            xml:id="Bae_MF_6-2_584">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_585"> – das ist der Sumpf, in dem wir seit
               Beginn dieses Jahres stecken.</rdg>
           </app><anchor/> Es ist <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Es ist</rdg>
           </app><anchor xml:id="Bae_MF_6-2_586"/>
-          <app from="#Bae_TB_8_91" xml:id="Bae_MF_6-2_587">
+          <app from="#Bae_TB_8_91" type="missing" xml:id="Bae_MF_6-2_587">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_588">nicht nur</rdg>
           </app><anchor/> ein Niedergang jeder politischen Führung <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">ein Niedergang jeder politischen Führung</rdg>
           </app><anchor xml:id="Bae_MF_6-2_589"/>
-          <app from="#Bae_TB_8_94" xml:id="Bae_MF_6-2_590">
+          <app from="#Bae_TB_8_94" type="missing" xml:id="Bae_MF_6-2_590">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_591">eines Staates</rdg>
           </app><anchor/>, ein Niedergang <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">, ein Niedergang</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_592"/>der <app from="#Bae_TB_8_97"
+          </app><anchor xml:id="Bae_MF_6-2_592"/>der <app from="#Bae_TB_8_97" type="notEqual"
             xml:id="Bae_MF_6-2_593">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_594">jeder</rdg>
           </app><anchor/> politischen Moral <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">politischen Moral</rdg>
           </app><anchor xml:id="Bae_MF_6-2_595"/>
-          <app from="#Bae_TB_8_100" xml:id="Bae_MF_6-2_596">
+          <app from="#Bae_TB_8_100" type="missing" xml:id="Bae_MF_6-2_596">
             <rdg wit="#Bae_TB_8" type="missing" xml:id="Bae_MF_6-2_597"> im Abg.Hause</rdg>
           </app>, <anchor xml:id="Bae_MF_6-2_598"/>
-          <app from="#Bae_TB_8_104" xml:id="Bae_MF_6-2_599">
+          <app from="#Bae_TB_8_104" type="notEqual" xml:id="Bae_MF_6-2_599">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_600">sondern</rdg>
           </app><anchor/> eine Verwirrung und Verknotung unserer Verhältnisse, die jeden halbwegs
           vernünftigen Ausweg zu versperren droht. <app from="xxxx" type="equal">
@@ -1255,13 +1305,14 @@
             <rdg wit="#Bae_TB_8">Ich will hier nicht</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_607"/>verschiedenen Peripetien dieser Wahlrechtsbewegung im
-          Hause <app from="#Bae_TB_8_111" xml:id="Bae_MF_6-2_608">
+          Hause <app from="#Bae_TB_8_111" type="notEqual" xml:id="Bae_MF_6-2_608">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_609">schmutzige Perspektive dieses
               Prozesses</rdg>
-          </app><anchor/> schildern, sondern nur Streiflichter <app from="xxxx" type="ident">
+          </app><anchor/> schildern, sondern nur Streiflichter <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">schildern, sondern nur Streiflichter</rdg>
           </app><anchor xml:id="Bae_MF_6-2_610"/>auf die Ereignisse werfen, bei denen ich
-          unmittelbar beteiligt war. <app from="#Bae_TB_8_114" xml:id="Bae_MF_6-2_611">
+          unmittelbar beteiligt war. <app from="#Bae_TB_8_114" type="notEqual"
+            xml:id="Bae_MF_6-2_611">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_612"> fixieren, von denen ein falsches in die
               Öffentlichkeit gedrungen ist.</rdg>
           </app>
@@ -1297,7 +1348,7 @@
             xml:id="Bae_MF_6-2_625">Pacák</persName> zu Landsmannministern zu machen und <persName
             key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-2_626"
             >Derschatta</persName> zum Eisenbahnminister. Sie sollte ihm <app from="#Bae_TB_8_118"
-            xml:id="Bae_MF_6-2_627">
+            type="notEqual" xml:id="Bae_MF_6-2_627">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_628">Zuerst die Pacák-Derschatta-Frage. Der
               Eintritt dieser beiden Herren in das M[inisterium] von der Regierung – wenn man den
               kleinlich beschränkten Kreis ihrer Mittel überhaupt ernst nimmt – ein begreiflicher
@@ -1311,7 +1362,8 @@
           </app><anchor/>. Aber ja keine Fühlung<app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">. Aber ja keine Fühlung</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_629"/>oder <app from="#Bae_TB_8_127" xml:id="Bae_MF_6-2_630">
+          <anchor xml:id="Bae_MF_6-2_629"/>oder <app from="#Bae_TB_8_127" type="notEqual"
+            xml:id="Bae_MF_6-2_630">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_631">, </rdg>
           </app><app/> Verständigung mit den Parteien <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Verständigung mit den Parteien</rdg>
@@ -1326,7 +1378,7 @@
               clandestine Benützung des persönlichen Ehrgeizes und persönlicher Verhältnisse. Hat
               man die beiden Obmänner der grossen tschechischen und deutschen Parteien </rdg>
           </app><anchor xml:id="Bae_MF_6-2_635"/>eingefangen, <app from="#Bae_TB_8_133"
-            xml:id="Bae_MF_6-2_636">
+            type="notEqual" xml:id="Bae_MF_6-2_636">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_637">gefangen, </rdg>
           </app><anchor/>dann kann man mittelst ihrer Beziehungen und Ambitionen diese Parteien
           beeinflußen, bereden, die Widerstrebenden an die Wand drücken. Beileibe also nicht Ideen,
@@ -1347,7 +1399,7 @@
           </index> ergattert hie und da eine Nachricht und beginnt sofort ihr doppeltes Spiel, lobt
           und tadelt, berichtet Wahres und Falsches, alarmiert ohne wirklich zu informieren und es
           verbreitet sich bald eine Atmosphäre des allgemeinen Mißtrauens, in der der ganze Plan
-          scheitern muss. <app from="#Bae_TB_8_138" xml:id="Bae_MF_6-2_644">
+          scheitern muss. <app from="#Bae_TB_8_138" type="notEqual" xml:id="Bae_MF_6-2_644">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_645">Es misslingt. Es wird von dem Plan zuviel
               den Zeitungen mitgeteilt, die sofort ihr doppeltes Spiel spielen, loben u. tadeln
               zugleich, die ganze Aufmerksamkeit auf die Vorgänge, welche zur „Parlamentarisierung“
@@ -1361,20 +1413,22 @@
             <rdg wit="#Bae_TB_8">Derschatte benimmt sich</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_647"/>hinterhältig, er <app from="#Bae_TB_8_146"
-            xml:id="Bae_MF_6-2_648">
+            type="notEqual" xml:id="Bae_MF_6-2_648">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_649">ebenso hinterhältig als dumm. Er </rdg>
           </app><anchor/> will die Sache <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">will die Sache</rdg>
           </app><anchor xml:id="Bae_MF_6-2_650"/>
-          <app from="#Bae_TB_8_149" xml:id="Bae_MF_6-2_651">
+          <app from="#Bae_TB_8_149" type="notEqual" xml:id="Bae_MF_6-2_651">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_652">um jeden Preis, aber</rdg>
           </app><anchor/>, er weicht uns aus, lässt sich vom <index xml:id="Bae_MF_6-2_653">
-            <term key="Parteien/Viererausschuss der deutschen Parteien" xml:id="Bae_MF_6-2_654"
-              >Viererausschuss</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_654">Viererausschuss</term>
+            <index>
+              <term>Viererausschuss der deutschen Parteien</term>
+            </index>
           </index> nicht<app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">, er weicht uns aus, lässt sich vom Viererausschuss nicht</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_655"/>finden. Eine <app from="#Bae_TB_8_158"
+          <anchor xml:id="Bae_MF_6-2_655"/>finden. Eine <app from="#Bae_TB_8_158" type="notEqual"
             xml:id="Bae_MF_6-2_656">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_657">finden, eine</rdg>
           </app><anchor/> lächerliche Suche nach ihm wird veranstaltet, <app from="xxxx"
@@ -1395,8 +1449,11 @@
         <p xml:id="Bae_MF_6-2_663">
           <anchor xml:id="Bae_MF_6-2_664"/>Ich habe von diesen Dingen Tag für Tag genaue
           Aufzeichnungen gemacht, denn der <index xml:id="Bae_MF_6-2_665">
-            <term key="Parteien/Viererausschuss" xml:id="Bae_MF_6-2_666">Viererausschuß der
-              deutschen Parteien</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_666">Viererausschuß der deutschen
+              Parteien</term>
+            <index>
+              <term>Viererausschuss</term>
+            </index>
           </index> (<persName key="GroßGustav" ref="https://d-nb.info/gnd/134055136"
             xml:id="Bae_MF_6-2_667">Gross</persName>, <persName key="DerschattaJulius"
             ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-2_668">Derschatta</persName>,
@@ -1416,7 +1473,10 @@
             xml:id="Bae_MF_6-2_673">12.</date> bis <date when="1906-01-25" xml:id="Bae_MF_6-2_674"
             >25. Jänner 1906</date> dauerten, drehten sich keineswegs um einen großen politischen
           Plan, sondern um die alten <index xml:id="Bae_MF_6-2_675">
-            <term key="Nationalitätenkonflikt/Sprachenfrage" xml:id="Bae_MF_6-2_676">Querelen</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_MF_6-2_676">Querelen</term>
+            <index>
+              <term>Sprachenfrage</term>
+            </index>
           </index>: Das Kreisgericht <placeName key="Trautenau"
             ref="https://www.geonames.org/3063907/trutnov.html" xml:id="Bae_MF_6-2_677"
             >Trautenau</placeName> mit oder ohne den tschechischen Bezirk <placeName key="Eipel"
@@ -1437,7 +1497,7 @@
           <note type="editorial" xml:id="Bae_MF_6-2_685">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_020" n="19r" xml:id="Bae_MF_6-2_686"/>nicht die ganze
           Wahlreform einverständlich doch noch verhindern könnte.<app from="#Bae_TB_8_165"
-            xml:id="Bae_MF_6-2_687">
+            type="notEqual" xml:id="Bae_MF_6-2_687">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_688"><!-- CA: hier zeigt es für die Validierung einen FEhler an: in der folgenden rdg langer Text, der hier mit p gegliedert wurde, das offenbar nicht erlaubt im Element rdg, daher keine Gliederung oder lb oder was, wobei es an anderern Stelle erlaubt ist im rdg <p> zu verwenden.. siehe xml:id 753 -->
               <p xml:id="Bae_MF_6-2_689">Ein Kartenbrief der ihn am 22.1. rechtzeitig zu einer
                 Besprechung einladet trifft ihn „unmittelbar“ vor Abgang des letzten Zuges nach
@@ -1557,24 +1617,24 @@
               Grossgrundbesitzer – daher entlud sich</rdg>
           </app><anchor/>der ganze Zorn der <orgName key="Sozialdemokraten"
             ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_MF_6-2_716"
-            >Sozialdemokraten</orgName><app from="xxxx">
+            >Sozialdemokraten</orgName><app from="xxxx" type="notEqual">
             <rdg wit="#Bae_TB_8">die ganze Wut der Socialdemokraten</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_717"/>
-          <app from="#Bae_TB_8_355" xml:id="Bae_MF_6-2_718">
+          <app from="#Bae_TB_8_355" type="missing" xml:id="Bae_MF_6-2_718">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_MF_6-2_719">u. der Regierung</rdg>
           </app><anchor/>auf uns. Wir wurden in den Blättern der <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">auf uns. Wir wurden in den Blättern der</rdg>
           </app><anchor xml:id="Bae_MF_6-2_720"/>
           <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
             xml:id="Bae_MF_6-2_721">Sozialdemokraten</orgName>
-          <app from="#Bae_TB_8_358" xml:id="Bae_MF_6-2_722">
+          <app from="#Bae_TB_8_358" type="notEqual" xml:id="Bae_MF_6-2_722">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_723">Socialdemokratie</rdg>
           </app><anchor/> auf das unflätigste angegriffen und beschimpft. <app from="xxxx"
             type="equal">
             <rdg wit="#Bae_TB_8">auf das Unflätigste angegriffen u. beschimpft.</rdg>
           </app><anchor xml:id="Bae_MF_6-2_724"/>
-          <app from="#Bae_TB_8_362" xml:id="Bae_MF_6-2_725">
+          <app from="#Bae_TB_8_362" type="missing" xml:id="Bae_MF_6-2_725">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_726">Die Regierung anschwärzte uns „oben“ u. das
               Pressbureau arbeitete mit derselben Perfidie und Verdrehung wie in den Tagen Körbers.
               Es sassen auch dieselben Subjekte dort, bereit auch auf andere zu schimpfen als auf
@@ -1596,7 +1656,7 @@
           </note> Er erhielt durch unsere Unterstützung die einfache Majorität. Unsere Herren waren
           nicht abzuhalten, diese Demonstration mitzumachen, um dadurch <persName key="GautschPaul"
             ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_734">Gautsch</persName> eine
-          Verlegenheit zu bereiten. Unmittelbar darauf, am <app from="#Bae_TB_8_370"
+          Verlegenheit zu bereiten. Unmittelbar darauf, am <app from="#Bae_TB_8_370" type="notEqual"
             xml:id="Bae_MF_6-2_735">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_736">Nach der Zuweisung der Vorlage an den
               Wahlreformausschuss kam die Abstimmung über den Antrag Franco Stein wegen der
@@ -1604,27 +1664,31 @@
               Dringlichkeitsantrag, wenn auch nicht die 2/3 Majorität, so doch die einfache Mehrheit
               erhielt.</rdg>
           </app><anchor/>
-          <date when="1906-04-02" xml:id="Bae_MF_6-2_737">2. April</date><app from="xxxx">
+          <date when="1906-04-02" xml:id="Bae_MF_6-2_737">2. April</date><app from="xxxx"
+            type="notEqual">
             <rdg wit="#Bae_TB_8">Am 2. April</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_738"/>
-          <app from="#Bae_TB_8_381" xml:id="Bae_MF_6-2_739">
+          <app from="#Bae_TB_8_381" type="missing" xml:id="Bae_MF_6-2_739">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_740">1906</rdg>
           </app><anchor/>, hatte ich <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">, hatte ich</rdg>
           </app><anchor xml:id="Bae_MF_6-2_741"/>eine <index xml:id="Bae_MF_6-2_742">
-            <term key="Kaiser Franz Joseph/Audienzen" xml:id="Bae_MF_6-2_743">Audienz</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_MF_6-2_743">Audienz</term>
+            <index>
+              <term>Audienzen</term>
+            </index>
           </index> beim <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
-            xml:id="Bae_MF_6-2_744">Kaiser</persName>. <app from="#Bae_TB_8_384"
+            xml:id="Bae_MF_6-2_744">Kaiser</persName>. <app from="#Bae_TB_8_384" type="notEqual"
             xml:id="Bae_MF_6-2_745">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_746">meine gewöhnliche Jahresaudienz.</rdg>
           </app><anchor xml:id="Bae_MF_6-2_747"/>Er war sehr <app from="#Bae_TB_8_389"
-            xml:id="Bae_MF_6-2_748">
+            type="notEqual" xml:id="Bae_MF_6-2_748">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_749">Der Kaiser war</rdg>
           </app><anchor/>ungnädig. <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">ungnädig.</rdg>
           </app><anchor xml:id="Bae_MF_6-2_750"/>Er fieng gleich damit an: <app from="#Bae_TB_8_396"
-            xml:id="Bae_MF_6-2_751">
+            type="notEqual" xml:id="Bae_MF_6-2_751">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_752">
               <p xml:id="Bae_MF_6-2_753">Wie geht es Ihnen?</p>
               <p xml:id="Bae_MF_6-2_754">Danke Euer Majestät, gut.</p>
@@ -1634,7 +1698,7 @@
             key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_756"
             >Abgeordnetenhaus</orgName> gehabt hat, die Abstimmung wegen der Sonderstellung
             <placeName key="Galizien" ref="https://www.geonames.org/562153/galicia.html"
-            xml:id="Bae_MF_6-2_757">Galiziens</placeName>.“ <app from="xxxx" type="indentical">
+            xml:id="Bae_MF_6-2_757">Galiziens</placeName>.“ <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">„Es war neulich die häßlichste Sitzung, die das Abgeordnetenhaus
               gehabt hat, die Abstimmung wegen der Sonderstellung Galiziens.“</rdg>
           </app><anchor xml:id="Bae_MF_6-2_758"/>Als ich einwendete, daß diese Abstimmung keine
@@ -1661,7 +1725,7 @@
             <placeName key="Oesterreich" xml:id="Bae_MF_6-2_768">Oesterreich</placeName> nach meiner
           Ueberzeugung auseinandersetzte, unterbrach mich der <persName key="KaiserFranzJosef"
             ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_769">Kaiser</persName>
-          abermals: <app from="#Bae_TB_8_415" xml:id="Bae_MF_6-2_770">
+          abermals: <app from="#Bae_TB_8_415" type="notEqual" xml:id="Bae_MF_6-2_770">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_771">Wir sind in diese Situation durch die
               Regierung gedrängt worden u. stehen in einem unbedingten Gegensatz zur Regierung. Wir
               sind der festen Ueberzeugung, dass die Politik der Regierung zum Unglück Österreichs
@@ -1680,8 +1744,10 @@
           aber andere Mittel, um seine Opposition zum Ausdruck zu bringen. Es ist nicht notwendig,
           mit Leuten zu stimmen, die solche Reden halten, denn das waren hochverräterische Reden. Es
           ist tief bedauerlich, daß der <index xml:id="Bae_MF_6-2_775">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_776"
-              >Großgrundbesitz</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_776">Großgrundbesitz</term>
+            <index>
+              <term>Großgrundbesitz (beide Parteien)</term>
+            </index>
           </index> das getan hat.“ <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Das sind alles Ansichten, die man begründen kann, es gibt aber
               andere Mittel, um seine Opposition zum Ausdruck zu bringen. Es ist nicht notwendig,
@@ -1693,17 +1759,25 @@
             ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_778"
             >Ministerpräsidenten</persName> durch Monate geholfen alles durchzubringen, was der
           Staat gebraucht hat: die <index xml:id="Bae_MF_6-2_779">
-            <term key="Reichsrat/Rekrutenkontingent" xml:id="Bae_MF_6-2_780">Rekruten</term>
+            <term key="Reichsrat" xml:id="Bae_MF_6-2_780">Rekruten</term>
+            <index>
+              <term>Rekrutenkontingent</term>
+            </index>
           </index>, den <index xml:id="Bae_MF_6-2_781">
-            <term key="Österreich-Ungarn/Zolltarif" xml:id="Bae_MF_6-2_782">Zolltarif</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_782">Zolltarif</term>
+            <index>
+              <term>Zolltarif</term>
+            </index>
           </index>, den deutschen <index xml:id="Bae_MF_6-2_783">
-            <term key="Österreich-Ungarn/Handelsvertrag mit Deutschland" xml:id="Bae_MF_6-2_784"
-              >Handelsvertrag</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_784">Handelsvertrag</term>
+            <index>
+              <term>Handelsvertrag mit Deutschland</term>
+            </index>
           </index> – alles das haben wir im <orgName key="Abgeordnetenhaus"
             ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_785">Abgeordnetenhaus</orgName>
           ermöglicht und man wirft uns weg wie eine ausgepresste Zitrone, worauf der <persName
             key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_786"
-            >Kaiser</persName>: <app from="#Bae_TB_8_427" xml:id="Bae_MF_6-2_787">
+            >Kaiser</persName>: <app from="#Bae_TB_8_427" type="notEqual" xml:id="Bae_MF_6-2_787">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_788">Euer Majestät wollen aber auch in Erwägung
               ziehen, dass die Stimmung im Grossgrundbesitz eine grosse Rolle spielt. Der
               Grossgrundbesitz hat der Regierung des M[inister]Präsidenten durch Monate geholfen
@@ -1711,12 +1785,14 @@
               deutsche Handelsvertrag – alles das haben wir im Abgeordnetenhaus ermöglicht u. man
               wirft uns weg wie eine ausgepresste Citrone.</rdg>
           </app><anchor/> „Man kann dem <index xml:id="Bae_MF_6-2_789">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_790"
-              >Großgrundbesitz</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_790">Großgrundbesitz</term>
+            <index>
+              <term>Großgrundbesitz (beide Parteien)</term>
+            </index>
           </index> nicht übel nehmen, daß er <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Man kann dem Grossgrundbesitz nicht übel nehmen, dass er</rdg>
           </app><anchor xml:id="Bae_MF_6-2_791"/>gegen die Wahlreform ist <app from="#Bae_TB_8_444"
-            xml:id="Bae_MF_6-2_792">
+            type="notEqual" xml:id="Bae_MF_6-2_792">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_793">dagegen ist (scil. Wahlreform)</rdg>
           </app><anchor/>, das ist natürlich, aber er kann andere Mittel anwenden, um Opposition zu
           machen, es bleibt sehr bedauerlich.“ <app from="xxxx" type="equal">
@@ -1737,8 +1813,8 @@
         <p xml:id="Bae_MF_6-2_798">
           <anchor xml:id="Bae_MF_6-2_799"/>Leider war es unmöglich, den <index
             xml:id="Bae_MF_6-2_800">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_801"
-              >Großgrundbesitz</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_801"
+              >Großgrundbesitz</term><index><term>Großgrundbesitz (beide Parteien)</term></index>
           </index> und die konservativ gesinnten Parteien des Hauses auf irgend ein annehmbares
           Gegenprojekt zu einigen. Einer der vielen vergeblichen Versuche spielte sich am <date
             when="1906-04-11" xml:id="Bae_MF_6-2_802">11. April</date> in <placeName key="Prag"
@@ -1748,8 +1824,8 @@
           gab uns in einem seiner reizenden bildergeschmückten Salons seines Hauses am Malteserplatz
           ein Diner. Es waren die führenden Herren der beiden Gruppen des böhmischen <index
             xml:id="Bae_MF_6-2_805">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_806"
-              >Großgrundbesitzes</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_806"
+              >Großgrundbesitzes</term><index><term>Großgrundbesitz (beide Parteien)</term></index>
           </index> versammelt. Der Oberstlandmarschall <persName key="LobkowitzFerdinand"
             ref="https://d-nb.info/gnd/117143952" xml:id="Bae_MF_6-2_807">Lobkowitz</persName>,
             <persName key="FuerstenbergMax Egon" ref="https://d-nb.info/gnd/116847034"
@@ -1765,7 +1841,7 @@
             ref="https://d-nb.info/gnd/127064842" xml:id="Bae_MF_6-2_814">Silva Tarouca</persName>,
           der <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X"
             xml:id="Bae_MF_6-2_815">Hausherr</persName> und ich. <app from="#Bae_TB_8_460"
-            xml:id="Bae_MF_6-2_816">
+            type="notEqual" xml:id="Bae_MF_6-2_816">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_817">In der Osterpause haben in Prag mehrfache
               Besprechungen zwischen Grossgrundbesitzern beider Parteien stattgefunden. Die
               interessanteste fand am 11. März April 1906 statt, aus Anlass eines Diners, welches
@@ -1775,7 +1851,7 @@
             <rdg wit="#Bae_TB_8">Das Menu war reich u. gut, die Weine ebenso, die Stimmung bei
               Tisch</rdg>
           </app><anchor xml:id="Bae_MF_6-2_818"/>
-          <app from="#Bae_TB_8_470" xml:id="Bae_MF_6-2_819">
+          <app from="#Bae_TB_8_470" type="missing" xml:id="Bae_MF_6-2_819">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_820">sehr gemütlich u.</rdg>
           </app><anchor/> lebhaft und die Konversation nachher <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">lebhaft und die Conversation nachher</rdg>
@@ -1788,7 +1864,7 @@
             <rdg wit="#Bae_TB_8">ernst u. ausführlich. Sie dauerte bis nach Mitternacht. Fürstenberg
               war aufgeknüpft</rdg>
           </app><anchor xml:id="Bae_MF_6-2_825"/>
-          <app from="#Bae_TB_8_477" xml:id="Bae_MF_6-2_826">
+          <app from="#Bae_TB_8_477" type="missing" xml:id="Bae_MF_6-2_826">
             <rdg wit="#Bae_MF_8" xml:id="Bae_MF_6-2_827">, lustig, gescheit</rdg>
           </app><anchor/> wie immer und es war gar nicht notwendig, das Eis zu brechen, denn er ließ
           es <pb facs="#F_K-11_Bae_MF_6-2_022" n="20v" xml:id="Bae_MF_6-2_828"/>
@@ -1797,7 +1873,7 @@
           daß sich <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">wie immer u. es war gar nicht notwendig das Eis zu brechen, denn er
               lies es gar nicht dazu kommen, dass sich</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_831"/>eines <app from="#Bae_TB_8_480"
+          </app><anchor xml:id="Bae_MF_6-2_831"/>eines <app from="#Bae_TB_8_480" type="notEqual"
             xml:id="Bae_MF_6-2_832">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_833">eins</rdg>
           </app><anchor/> bildete. Der <persName key="NostitzErwein"
@@ -1820,7 +1896,7 @@
             <rdg wit="#Bae_TB_8">Carl Schwarzenberg war bei Tisch auffallend ruhig, brütend, nachher
               nahm er aber sehr regen Anteil an der</rdg>
           </app><anchor xml:id="Bae_MF_6-2_841"/>politischen Konversation <app from="#Bae_TB_8_493"
-            xml:id="Bae_MF_6-2_842">
+            type="notEqual" xml:id="Bae_MF_6-2_842">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_843">pol. Conversation</rdg>
           </app><anchor/>, bei der allerdings seine Erbitterung über <persName key="GautschPaul"
             ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_844">Gautsch</persName> und die
@@ -1834,14 +1910,14 @@
               Wahlreform besonders zutage trat. Ernst Tarouca war eher nervös, da er mit seinen
               Parteigenossen nicht in allen Punkten</rdg>
           </app><anchor xml:id="Bae_MF_6-2_848"/>übereinstimmte <app from="#Bae_TB_8_503"
-            xml:id="Bae_MF_6-2_849">
+            type="notEqual" xml:id="Bae_MF_6-2_849">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_850">übereinstimmt</rdg>
           </app><anchor/>. <persName key="Clam-MartinicHeinrich"
             ref="https://d-nb.info/gnd/118676245" xml:id="Bae_MF_6-2_851">Heinrich Clam</persName>
           war <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">. Heinrich Clam war</rdg>
           </app><anchor xml:id="Bae_MF_6-2_852"/>ruhig, aber unzugänglich, <app from="#Bae_TB_8_507"
-            xml:id="Bae_MF_6-2_853">
+            type="notEqual" xml:id="Bae_MF_6-2_853">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_854">klar, logisch, ruhig.</rdg>
           </app><anchor/>
           <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659"
@@ -1849,7 +1925,7 @@
             type="equal">
             <rdg wit="#Bae_TB_8">Ottokar Czernin, als jüngster</rdg>
           </app><anchor xml:id="Bae_MF_6-2_856"/>
-          <app from="#Bae_TB_8_511" xml:id="Bae_MF_6-2_857">
+          <app from="#Bae_TB_8_511" type="missing" xml:id="Bae_MF_6-2_857">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_858">Politiker</rdg>
           </app><anchor/>in diesem Kreise, hielt sich zurück, aber man sah ihm an, wie ihn alles
           interessierte. <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651"
@@ -1862,7 +1938,7 @@
               Gewässern schwebend. Ueber die einzuschlagende Taktik der Regierung und Wahlreform
               gegenüber waren die Ansichten geteilt</rdg>
           </app><anchor xml:id="Bae_MF_6-2_861"/>, fast alle Herren waren <app from="#Bae_TB_8_516"
-            xml:id="Bae_MF_6-2_862">
+            type="notEqual" xml:id="Bae_MF_6-2_862">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_863">. Ein Teil war ganz</rdg>
           </app><anchor/> intransigent. Alles verhindern, den <persName key="GautschPaul"
             ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_864">Gautsch</persName>
@@ -1874,7 +1950,7 @@
           </app><anchor xml:id="Bae_MF_6-2_866"/>die Sache nicht auf die Spitze zu treiben, nicht
           auf den Sturz von <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
             xml:id="Bae_MF_6-2_867">Gautsch</persName> ausgehend, sondern zu trachten, mit ihm zu
-          verbessern, was zu verbessern noch möglich sei. <app from="#Bae_TB_8_521"
+          verbessern, was zu verbessern noch möglich sei. <app from="#Bae_TB_8_521" type="notEqual"
             xml:id="Bae_MF_6-2_868">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_869">eventuell mitzuarbeiten u. zu verbessern,
               was zu verbessern sei.</rdg>
@@ -1903,12 +1979,13 @@
             xml:id="Bae_MF_6-2_879">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_880"/>
           </app>
-          <anchor xml:id="Bae_MF_6-2_881"/>Unserer <app from="#Bae_TB_8_528" xml:id="Bae_MF_6-2_882">
+          <anchor xml:id="Bae_MF_6-2_881"/>Unserer <app from="#Bae_TB_8_528" type="notEqual"
+            xml:id="Bae_MF_6-2_882">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_883">Dieser</rdg>
           </app><anchor/> Ansicht neigte <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Ansicht neigte</rdg>
           </app><anchor xml:id="Bae_MF_6-2_884"/>
-          <app from="#Bae_TB_8_531" xml:id="Bae_MF_6-2_885">
+          <app from="#Bae_TB_8_531" type="notEqual" xml:id="Bae_MF_6-2_885">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_886">auch</rdg>
           </app><anchor/>
           <persName key="FuerstenbergMax Egon" ref="https://d-nb.info/gnd/116847034"
@@ -1923,7 +2000,7 @@
           äußerte sich ähnlich. <app from="xxxx" type="missing">
             <rdg wit="#Bae_TB_8"/>
           </app><anchor xml:id="Bae_MF_6-2_890"/>Aber leider ergab sich keine Aussicht, die Herren
-          auf ein bestimmtes Gegenprojekt zu einigen.<app from="#Bae_TB_8_536"
+          auf ein bestimmtes Gegenprojekt zu einigen.<app from="#Bae_TB_8_536" type="notEqual"
             xml:id="Bae_MF_6-2_891">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_892">Leider ergab sich, dass keine Aussicht
               vorhanden ist, die Herren auf ein bestimmtes Gegenprojekt einigen zu können.</rdg>
@@ -1937,32 +2014,38 @@
               Hohenwart’sche Projekt, den Schäffle’schen Gedanken, den</rdg>
           </app><anchor xml:id="Bae_MF_6-2_895"/>Plan <persName key="GrabmayrKarl"
             ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_MF_6-2_896">Grabmayrs</persName>
-          <app from="#Bae_TB_8_545" xml:id="Bae_MF_6-2_897">
+          <app from="#Bae_TB_8_545" type="notEqual" xml:id="Bae_MF_6-2_897">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_898">Grabmayr-Plan</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_899"/>
-          <app from="#Bae_TB_8_549" xml:id="Bae_MF_6-2_900">
+          <app from="#Bae_TB_8_549" type="notEqual" xml:id="Bae_MF_6-2_900">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_901">(mit der von Gołuchowski vorgeschlagenen
               Modifikation)</rdg>
           </app><anchor/>, endlich das <index xml:id="Bae_MF_6-2_902">
-            <term key="Wahlrechtsreform/Pluralwahlrecht" xml:id="Bae_MF_6-2_903">Pluralsystem</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_903">Pluralsystem</term>
+            <index>
+              <term>Pluralwahlrecht</term>
+            </index>
           </index><app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">, endlich das Pluralsystem</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_904"/>und den <index xml:id="Bae_MF_6-2_905">
-            <term key="Wahlrechtsreform/Proportionalwahlrecht" xml:id="Bae_MF_6-2_906">Proporz <app
-                from="#Bae_TB_8_555" type="missing" xml:id="Bae_MF_6-2_907">
-                <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_908"/>
-              </app>
-            </term>
-          </index><anchor/> – man konnte sich aber auf <app from="xxxx" type="equal">
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_906">Proporz</term>
+            <index>
+              <term>Proportionalwahlrecht</term>
+            </index>
+          </index>
+          <app from="#Bae_TB_8_555" type="missing" xml:id="Bae_MF_6-2_907">
+            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_908"/>
+          </app>
+          <anchor/> – man konnte sich aber auf <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">– man konnte sich aber auf</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_909"/>nichts <app from="#Bae_TB_8_560"
+          </app><anchor xml:id="Bae_MF_6-2_909"/>nichts <app from="#Bae_TB_8_560" type="notEqual"
             xml:id="Bae_MF_6-2_910">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_911">keinen</rdg>
           </app><anchor/> einigen. <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">einigen.</rdg>
-          </app><anchor/><app from="xxxx">
+          </app><anchor/><app from="xxxx" type="missing">
             <rdg wit="#Bae_TB_8">Grabmayr: 3 Wahlkörper, aber getrennt wählend. Golu wollte den 2.
               nach Berufständen construiren.</rdg>
           </app><anchor/><persName key="SchwarzenbergKarl" ref="https://d-nb.info/gnd/1021821535"
@@ -1980,7 +2063,7 @@
               Schäffle’schen Gedanken (ein Drittel reformierte Interessenvertretung und zwei Drittel
               allgemeines Stimmrecht) wollte niemand. Das Pluralwahlrecht</rdg>
           </app><anchor xml:id="Bae_MF_6-2_916"/>mit dem Proporz <app from="#Bae_TB_8_572"
-            xml:id="Bae_MF_6-2_917">
+            type="notEqual" xml:id="Bae_MF_6-2_917">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_918"/>
           </app><anchor xml:id="Bae_MF_6-2_919"/>, welches <app from="#Bae_TB_8_575"
             xml:id="Bae_MF_6-2_920">
@@ -1991,7 +2074,7 @@
             <rdg wit="#Bae_TB_8">von Tarouca und mir als mögliche Plattform für</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_923"/>eine modifizierte Wahlreform <app from="#Bae_TB_8_579"
-            xml:id="Bae_MF_6-2_924">
+            type="notEqual" xml:id="Bae_MF_6-2_924">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_925">die Opposition</rdg>
           </app><anchor/> bezeichnet <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">bezeichnet</rdg>
@@ -2007,7 +2090,8 @@
           <add place="across" xml:id="Bae_MF_6-2_934">es</add> möge <del rendition="#s"
             xml:id="Bae_MF_6-2_935">ihm</del> die statistische Wirkung <del rendition="#s"
             xml:id="Bae_MF_6-2_936">beweisen</del>
-          <add place="across" xml:id="Bae_MF_6-2_937">bewiesen werden</add>, was wir<app from="xxxx">
+          <add place="across" xml:id="Bae_MF_6-2_937">bewiesen werden</add>, was wir<app from="xxxx"
+            type="notEqual">
             <rdg wit="#Bae_TB_8">wurde, wurde lebhaft bestritten von Clam, der verlangte, man möge
               ihm die statist. Wirkung desselben beweisen, was wir</rdg>
           </app>
@@ -2024,7 +2108,7 @@
             <rdg wit="#Bae_TB_8">alle diese Projekte zu unterstützen, </rdg>
           </app><anchor xml:id="Bae_MF_6-2_944"/>wenn sie vorgebracht werden, aber es den andern
           Parteien zu überlassen, solche Anträge zu stellen. <app from="#Bae_TB_8_592"
-            xml:id="Bae_MF_6-2_945">
+            type="notEqual" xml:id="Bae_MF_6-2_945">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_946">aber womöglich dahin zu wirken, dass nicht
               Grossgrundbesitzer, sondern Mitglieder anderer Parteien die betreffenden Anträge
               stellen sollen.</rdg>
@@ -2066,8 +2150,10 @@
           Militärkredite im <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
             xml:id="Bae_MF_6-2_962">Abgeordnetenhaus</orgName> zur Abstimmung kommen werde und daß
           es wahrscheinlich von der Haltung der Polen und des <index xml:id="Bae_MF_6-2_963">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_964"
-              >Großgrundbesitzes</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_964">Großgrundbesitzes</term>
+            <index>
+              <term>Großgrundbesitz (beide Parteien)</term>
+            </index>
           </index> abhängen werde, ob <persName key="GautschPaul"
             ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_965">Gautsch</persName>
           dieselben werde bewilligt erhalten. Ich frug die Herren, ob sie der Meinung <app
@@ -2078,7 +2164,7 @@
               und daß es wahrscheinlich von der Haltung der Polen u. des Großgrundbesitzes abhängen
               werde, ob Gautsch dieselben werde bewilligt erhalten. Ich frug die Herren, ob sie der
               Meinung</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_966"/>seien <app from="#Bae_TB_8_615"
+          </app><anchor xml:id="Bae_MF_6-2_966"/>seien <app from="#Bae_TB_8_615" type="notEqual"
             xml:id="Bae_MF_6-2_967">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_968">sind</rdg>
           </app><anchor/>, daß der Großgrundbesitz dagegen stimmen solle? <persName
@@ -2094,7 +2180,8 @@
             <rdg wit="#Bae_TB_8">, dass der Großgrundbesitz dagegen stimmen solle? Tarouca meinte
               sofort, daß er dazu nicht zu haben sei u. Franz Thun sagte: das ist nicht möglich.
               Alain Rohan, Lobkowitz und Czernin schwiegen</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_974"/>, <app from="#Bae_TB_8_623" xml:id="Bae_MF_6-2_975">
+          </app><anchor xml:id="Bae_MF_6-2_974"/>, <app from="#Bae_TB_8_623" type="notEqual"
+            xml:id="Bae_MF_6-2_975">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_976"> – </rdg>
           </app><anchor/>aber <persName key="FuerstenbergMax Egon"
             ref="https://d-nb.info/gnd/116847034" xml:id="Bae_MF_6-2_977">Fürstenberg</persName>,
@@ -2161,12 +2248,17 @@
           Mitgliedern der Koalitionsparteien eine grosse Rede. Er verkündete, daß die Militärfrage
           ausgeschaltet sei, da die Regierung während der Uebergangszeit die Frage der Dienst- und
             <index xml:id="Bae_MF_6-2_1007">
-            <term key="Österreich-Ungarn/Kommandosprache" xml:id="Bae_MF_6-2_1008"
-              >Kommandosprache</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_1008">Kommandosprache</term>
+            <index>
+              <term>Kommandosprache</term>
+            </index>
           </index> der gemeinsamen Armee nicht aufrollen und zur Aufrollung nicht mithelfen werde.
           Dagegen erklärte er, daß an die Stelle des <index xml:id="Bae_MF_6-2_1009">
-            <term key="Österreich-Ungarn/Zoll- und Handelsbündnisse" xml:id="Bae_MF_6-2_1010">Zoll-
-              und Handelsbündnisses</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_1010">Zoll- und
+              Handelsbündnisses</term>
+            <index>
+              <term>Zoll- und Handelsbündnisse</term>
+            </index>
           </index> mit <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_1011"
             >Oesterreich</placeName> ein Zollvertrag treten werde, um „die eines unabhängigen
@@ -2196,7 +2288,7 @@
               sagen, weil sie glauben dass es patriotisch ist dem Kaiser einen Sieg zuzuschreiben,
               einige lassen sich durch die offiziösen Zeitungen beeinflussen u.</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1024"/>die meisten <app from="#Bae_TB_8_655"
-            xml:id="Bae_MF_6-2_1025">
+            type="notEqual" xml:id="Bae_MF_6-2_1025">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1026">einige</rdg>
           </app><anchor/> haben die Peripetie der ganzen Sache viel zu wenig verfolgt, um richtig
           abschätzen zu können, was der <persName key="KaiserFranzJosef"
@@ -2204,22 +2296,22 @@
           eigentlich <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">haben die Peripetie der ganzen Sache viel zu wenig verfolgt, um
               richtig abschätzen zu könne, was der Kaiser eigentlich</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_1028"/>konzediert <app from="xxxx"
+          </app><anchor xml:id="Bae_MF_6-2_1028"/>konzediert <app from="xxxx" type="notEqual"
             xml:id="Bae_MF_6-2_1029">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1030">concedirt</rdg>
           </app><anchor/> hat. Und doch ist die Sache sehr einfach <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">hat. Und doch ist die Sache sehr einfach</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1031"/>
-          <app from="#Bae_TB_8_664" xml:id="Bae_MF_6-2_1032">
+          <app from="#Bae_TB_8_664" type="missing" xml:id="Bae_MF_6-2_1032">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1033">u. klar</rdg>
           </app><anchor/>. Zu vergleichen, was mir <persName key="WekerleSandor"
             ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_1034">Wekerle</persName> und
             <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
-            xml:id="Bae_MF_6-2_1035">Andrássy</persName> im <app from="xxxxx" type="equal">
+            xml:id="Bae_MF_6-2_1035">Andrássy</persName> im <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">. Zu vergleichen, was mir Wekerle und Andrássy im</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1036"/>
           <date when="1905-09" xml:id="Bae_MF_6-2_1037">September 1905</date>
-          <app from="#Bae_TB_8_669" xml:id="Bae_MF_6-2_1038">
+          <app from="#Bae_TB_8_669" type="notEqual" xml:id="Bae_MF_6-2_1038">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1039">Septbr v[origen] J[ahres]</rdg>
           </app><anchor/> gesagt haben. Der <persName key="KaiserFranzJosef"
             ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1040">Kaiser</persName> hatte,
@@ -2245,7 +2337,7 @@
               heisst auf die Gemeinsamkeit</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1050"/>
           <add place="across" xml:id="Bae_MF_6-2_1051">mit gewissen Modifikationen</add>
-          <app from="#Bae_TB_8_676" xml:id="Bae_MF_6-2_1052">
+          <app from="#Bae_TB_8_676" type="missing" xml:id="Bae_MF_6-2_1052">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1053"/>
           </app><anchor/>. <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
             xml:id="Bae_MF_6-2_1054">Andrássy</persName> war gegen jeden faulen Frieden für ein<app
@@ -2253,14 +2345,16 @@
             <rdg wit="#Bae_MF_6-2_1">. Andrássy war gegen jeden faulen Frieden für ein</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_1055"/>
-          <app from="#Bae_TB_8_680" xml:id="Bae_MF_6-2_1056">
+          <app from="#Bae_TB_8_680" type="missing" xml:id="Bae_MF_6-2_1056">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1057">sofortiges</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1058"/>klares Kompromiss <app from="#Bae_TB_8_683"
-            xml:id="Bae_MF_6-2_1059">
+            type="equal" xml:id="Bae_MF_6-2_1059">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1060">klares Compromiss</rdg>
           </app><anchor/> in der <index xml:id="Bae_MF_6-2_1061">
-            <term key="Östereich-Ungarn/Kommandosprache" xml:id="Bae_MF_6-2_1062"
-              >Militärfrage</term>
+            <term key="Oestereich-Ungarn" xml:id="Bae_MF_6-2_1062">Militärfrage</term>
+            <index>
+              <term>Kommandosprache</term>
+            </index>
           </index>, das <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">in der Militärfrage, das</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1063"/>diese <app from="#Bae_TB_8_688"
@@ -2270,8 +2364,8 @@
           wirtschaftlichen Gemeinsamkeit. Er war der Meinung, daß Unnachgiebigkeit in militärischen
           Dingen unbedingt Nachgiebigkeit gegenüber dem Verlangen nach wirtschaftlicher <index
             xml:id="Bae_MF_6-2_1066">
-            <term key="Österreich-Ungarn/wirtschaftliche Trennung" xml:id="Bae_MF_6-2_1067"
-              >Selbständigkeit</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_1067"
+              >Selbständigkeit</term><index><term>Wirtschaftliche Trennung</term></index>
           </index> zur Folge haben müsse. Das letzte wollte er um jeden Preis vermeiden, weil er
           sagte, daß die wirtschaftliche Trennung die Gemeinsamkeit auf allen andern Gebieten in
           Frage stellt.</p>
@@ -2288,7 +2382,7 @@
               auf allen andern Gebieten in Frage stellt. Der Kaiser widerstrebte bisher beiden
               Anträgen, dem Antrag Wekerle, weil er sagte, dass eine</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1071"/>Ausschaltung <app from="#Bae_TB_8_696"
-            xml:id="Bae_MF_6-2_1072">
+            type="notEqual" xml:id="Bae_MF_6-2_1072">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1073">"Aussschaltung"</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_1074"/>ein Inderschwebelassen, ein Verschieben u.s.w. <app
@@ -2297,7 +2391,7 @@
               „Verschieben“ u.s.w.</rdg>
           </app><anchor/> der militärischen Frage die Deutung <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">der militärischen Frage die Deutung</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_1077"/>zulasse <app from="#Bae_TB_8_705"
+          </app><anchor xml:id="Bae_MF_6-2_1077"/>zulasse <app from="#Bae_TB_8_705" type="notEqual"
             xml:id="Bae_MF_6-2_1078">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1079">zulässt</rdg>
           </app><anchor/>, daß er überhaupt nachgeben werde. Das sei eine Zweideutigkeit, der er
@@ -2306,7 +2400,7 @@
               der er sich nicht schuldig machen wolle. Nun hat er</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1080"/>sich aber doch für <persName key="WekerleSandor"
             ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_1081">Wekerle</persName>
-          entschieden. <app from="#Bae_TB_8_708" xml:id="Bae_MF_6-2_1082">
+          entschieden. <app from="#Bae_TB_8_708" type="notEqual" xml:id="Bae_MF_6-2_1082">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1083">es doch getan u. meiner Ansicht nach
               zwischen den 2 Möglichkeiten falsch gewählt.</rdg>
           </app>
@@ -2316,7 +2410,7 @@
             ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_1085"
             >Wien</placeName>, gerade als die Sache gekocht wurde, <persName key="AndrassyGyula"
             ref="https://d-nb.info/gnd/118502875" xml:id="Bae_MF_6-2_1086">Andrássy</persName> und
-          frug ihn, warum er nicht die Kabinettsbildung <app from="#Bae_TB_8_714"
+          frug ihn, warum er nicht die Kabinettsbildung <app from="#Bae_TB_8_714" type="notEqual"
             xml:id="Bae_MF_6-2_1088">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1089">Ottokar Czernin traf neulich in Wien
               gerade als die Sache gekocht wurde Andrássy und frug ihn, warum er nicht die
@@ -2336,12 +2430,12 @@
             xml:id="Bae_MF_6-2_1095">Andrássy</persName> aber doch im <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB">Dazu sei Wekerle gut genug. Tags darauf war Andrássy aber doch
               im</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_1096"/>Kabinett <app from="#Bae_TB_8_723"
+          </app><anchor xml:id="Bae_MF_6-2_1096"/>Kabinett <app from="#Bae_TB_8_723" type="notEqual"
             xml:id="Bae_MF_6-2_1097">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1098">Cabinet</rdg>
           </app><anchor/> und erwiderte auf die erstaunte abermalige Frage <persName
             key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1099"
-            >Czernins</persName>, die ganze Kombination <app from="xxxx" xml:id="identical">
+            >Czernins</persName>, die ganze Kombination <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">u. erwiderte auf die erstaunte abermalige Frage Czernins, die ganze
               Combination</rdg>
           </app><anchor/>, auf deren Zustandekommen der <persName key="KaiserFranzJosef"
@@ -2351,7 +2445,7 @@
             <rdg wit="#Bae_TB_8">, auf deren Zustandekommen der Kaiser den größten Wert lege, wäre
               gescheitert, wenn er sich länger geweigert hätte. So ist es</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1102"/>
-          <app from="#Bae_TB_8_732" xml:id="Bae_MF_6-2_1103">
+          <app from="#Bae_TB_8_732" type="missing" xml:id="Bae_MF_6-2_1103">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1104">nun</rdg>
           </app><anchor/> ein fauler Friede, der geschlossen worden ist, der aber den <persName
             key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1105"
@@ -2360,11 +2454,14 @@
               Kaiser</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_1106"/>präjudiziert und <app from="#Bae_TB_8_736"
-            xml:id="Bae_MF_6-2_1107">
+            type="notEqual" xml:id="Bae_MF_6-2_1107">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1108">praejudiciert u.</rdg>
           </app><anchor/> den <index xml:id="Bae_MF_6-2_1109">
-            <term key="Österreich-Ungarn/wirtschaftliche Trennung" xml:id="Bae_MF_6-2_1110"
-              >separatistischen Bestrebungen</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_1110">separatistischen
+              Bestrebungen</term>
+            <index>
+              <term>wirtschaftliche Trennung</term>
+            </index>
           </index>
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
             xml:id="Bae_MF_6-2_1111">Ungarns</placeName> auf <app from="xxxx" type="equal">
@@ -2380,8 +2477,11 @@
           <note type="editorial" xml:id="Bae_MF_6-2_1117">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_027" n="26r" xml:id="Bae_MF_6-2_1118"/>an Stelle des Zoll-
           und <index xml:id="Bae_MF_6-2_1119">
-            <term key="Österreich-Ungarn/Zoll- und Handelsbündnisse" xml:id="Bae_MF_6-2_1120"
-              >Handelsbündnisses den Zollvertrag</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_1120">Handelsbündnisses den
+              Zollvertrag</term>
+            <index>
+              <term>Zoll- und Handelsbündnisse</term>
+            </index>
           </index> setzt, <add place="across" xml:id="Bae_MF_6-2_1121">den Ungarn einen autonomen
             Zolltarif einräumt</add> und die Wahlreform auf unbestimmte Zeit vertagt. <app
             from="#Bae_TB_8_745" xml:id="Bae_MF_6-2_1122">
@@ -2409,7 +2509,8 @@
             key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_1134"
             >Gautsch</persName> die Ueberzeugung beibringen, daß er die Sache nicht weiter machen
           könne. Ich glaube, daß er in dem Bewußtsein gegangen ist und zwar leicht wie immer, weil
-          er immer hofft, wiederzukommen. <app from="#Bae_TB_8_748" xml:id="Bae_MF_6-2_1135">
+          er immer hofft, wiederzukommen. <app from="#Bae_TB_8_748" type="notEqual"
+            xml:id="Bae_MF_6-2_1135">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1136">Hätte der Kaiser das Programm Andrássy
               angenommen, den Husarenregimentern die ungar. Commandosprache gegeben u. die
               Feststellungen des 9er Comite’s sofort ins Werk gesetzt dagegen in der
@@ -2430,16 +2531,16 @@
             ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1140">Hohenlohe</persName>
         </head>
         <p xml:id="Bae_MF_6-2_1141"> Es war eine kurze, ehrliche, aber wenig glückliche Episode.
-            <app from="#Bae_TB_8_822" xml:id="Bae_MF_6-2_1143">
+            <app from="#Bae_TB_8_822" type="notEqual" xml:id="Bae_MF_6-2_1143">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1144">Hohenlohe eine Enttäuschung. Ich will
               nicht hart sein, aber "Idealist" ist zu viel gesagt.</rdg>
           </app><anchor/> Sein Arcanum <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Sein Arcanum</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_1145"/>war <app from="#Bae_TB_8_826"
+          </app><anchor xml:id="Bae_MF_6-2_1145"/>war <app from="#Bae_TB_8_826" type="notEqual"
             xml:id="Bae_MF_6-2_1146">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1147">ist</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1148"/>das allgemeine, gleiche, direkte und geheime
-          Wahlrecht <app from="#Bae_TB_8_829" xml:id="Bae_MF_6-2_1149">
+          Wahlrecht <app from="#Bae_TB_8_829" type="notEqual" xml:id="Bae_MF_6-2_1149">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1150">das "allgemeine, gleiche, direkte, geheime
               Wahlrechht"</rdg>
           </app><anchor/> und er verteidigte es nicht mit Gründen, sondern quasi per inspirationem.
@@ -2479,11 +2580,15 @@
           Dienste leistete, wo <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816"
             xml:id="Bae_MF_6-2_1166">Hohenlohes</persName> den Deutschen günstiger
           Kompromißvorschlag in Sachen der deutschen <index xml:id="Bae_MF_6-2_1167">
-            <term key="Wahlrechtsreform/nationale Mandatszahl" xml:id="Bae_MF_6-2_1168"
-              >Mandatszahl</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1168">Mandatszahl</term>
+            <index>
+              <term>nationale Mandatszahl</term>
+            </index>
           </index> und der <index xml:id="Bae_MF_6-2_1169">
-            <term key="Wahlrechtsreform/Wahlkreiseinteilung" xml:id="Bae_MF_6-2_1170"
-              >Wahlkreiseinteilung</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1170">Wahlkreiseinteilung</term>
+            <index>
+              <term>Wahlkreiseinteilung</term>
+            </index>
           </index> die Grundlage aller folgenden Verhandlungen und schließlich des Zustandekommens
           der Wahlreform geworden ist. <app from="#Bae_TB_8_842" xml:id="Bae_MF_6-2_1171">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1172">Er ist also zwar kein Idealist aber ein
@@ -2500,7 +2605,10 @@
           sich – wie bereits erwähnt – darum, ob, wie <persName key="HohenloheKonrad"
             ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1177">Hohenlohe</persName> mit
           vollem Recht verlangte, der neue <index xml:id="Bae_MF_6-2_1178">
-            <term key="Österreich-Ungarn/Zolltarif" xml:id="Bae_MF_6-2_1179">Zolltarif</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_1179">Zolltarif</term>
+            <index>
+              <term>Zolltarif</term>
+            </index>
           </index> als österreichisch-ungarischer in <orgName key="Reichsrat"
             ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_1180">beiden
             Parlamenten</orgName> einzubringen sei, oder, wie <persName key="WekerleSandor"
@@ -2561,12 +2669,15 @@
             ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1209">Czernin</persName>
           schrieb mir am <date when="1906-06-05" xml:id="Bae_MF_6-2_1210">5. Juni 1906</date> von
           einer <index xml:id="Bae_MF_6-2_1211">
-            <term key="Kaiser Franz Joseph/Audienzen" xml:id="Bae_MF_6-2_1212">Audienz</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_MF_6-2_1212">Audienz</term>
+            <index>
+              <term>Audienzen</term>
+            </index>
           </index>, die der Statthalter <persName key="CoudenhoveKarl"
             ref="https://d-nb.info/gnd/143806920" xml:id="Bae_MF_6-2_1213">Coudenhove</persName>
           beim <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
             xml:id="Bae_MF_6-2_1214">Kaiser</persName> gehabt hatte, <add place="across"
-            xml:id="Bae_MF_6-2_1215">folgendermaßen</add>: <app from="#Bae_TB_8_864"
+            xml:id="Bae_MF_6-2_1215">folgendermaßen</add>: <app from="#Bae_TB_8_864" type="notEqual"
             xml:id="Bae_MF_6-2_1216">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1217">
               <p xml:id="Bae_MF_6-2_1218">Und nun Beck. Hier liegen 2 Briefe inne. Der eine eine
@@ -2588,7 +2699,7 @@
             </rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_1221"/>
-          <app from="#Bae_TB_8_884" xml:id="Bae_MF_6-2_1222">
+          <app from="#Bae_TB_8_884" type="missing" xml:id="Bae_MF_6-2_1222">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1223">
               <p xml:id="Bae_MF_6-2_1224">Winař, 5. Juni 1906. Vertraulich.</p>
               <p xml:id="Bae_MF_6-2_1225">Lieber Freund.</p>
@@ -2622,7 +2733,7 @@
             ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1239">Kaiser</persName> aus dem
           Engpass, in den er sich verrannt hat, herausgeholfen werden und ihm der peinliche Moment
           eines eingestandenen Meinungswechsels erspart bleiben.“ <app from="#Bae_TB_8_899"
-            xml:id="Bae_MF_6-2_1240">
+            type="notEqual" xml:id="Bae_MF_6-2_1240">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1241">Coudenh. hat dem Kaiser gesagt: Es dürfe
               unter keiner Bedingung so aussehen, als ob er (der Kaiser) von der Wahlreform
               abgekommen sei – es müsse daher im Parlamente stecken bleiben und erst bis es dort
@@ -2636,39 +2747,44 @@
           </app>
         </p>
         <p><anchor xml:id="Bae_MF_6-2_1242"/>Der Schluss, den <persName key="CzerninOttokar"
-          ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1243">Czernin</persName> in
-        diesem Briefe aus der <index xml:id="Bae_MF_6-2_1244">
-          <term key="Kaiser Franz Joseph/Audienzen" xml:id="Bae_MF_6-2_1245">Audienz</term>
-        </index>
-        <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920"
-          xml:id="Bae_MF_6-2_1246">Coudenhoves</persName> zieht, ist, wie es sich bald
-        herausstellte, voreilig gewesen. Der <persName key="KaiserFranzJosef"
-          ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1247">Kaiser</persName> hatte zu
-        den Ausführungen <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920"
-          xml:id="Bae_MF_6-2_1248">Coudenhoves</persName> geschwiegen, mehr nicht. <persName
-          key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_MF_6-2_1249"
-          >Beck</persName> leugnet, von so einem Schwanken des <persName key="KaiserFranzJosef"
-          ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1250">Kaiser</persName>
-        irgendetwas gewußt zu haben und sein Auftreten war nicht danach angetan, eine solche Wendung
-        vorzubereiten. Er ging im Gegenteil gerade und mit allen Mitteln auf das allgemeine
-        Stimmrecht los. <app from="#Bae_TB_8_917" xml:id="Bae_MF_6-2_1251">
-          <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1252">
-            <p xml:id="Bae_MF_6-2_1253">Das Ganze ist wieder einmal ein typisches manöver
-              österreichischer Politik – voll Lüge und Falschheit – ich glaube aber, dass die
-              Feiglinge aller Fractionen des Parlamentes mehr Courage bekommen werden, wenn man
-              ihnen steckt, dass man wisse, dass oben der Wind bereits umgeschlagen hat und meiner
-              unmaßgeblichen Ansicht wäre dieses Material in diesem Sinne discret zu verwerten!</p>
-            <p xml:id="Bae_MF_6-2_1254">Ist der Blödsinn des gleichen W.Rechtes einmal abgethan,
-              dann wird – glaube ich – der Moment für jene vernünftigen Menschen kommen, die andere
-              Propositionen machen können – wozu ich Dich in erster Linie zähle.</p>
-            <p xml:id="Bae_MF_6-2_1255">Man scheint momentan die löblichsten Absichten zu haben,
-              gegen die Gasse energisch vorzugehen – nachdem man die armen Teufeln erst aufgehetzt
-              hat, wird man jetzt auf sie schießen – ebenso logisch wie hübsch! –</p>
-            <p xml:id="Bae_MF_6-2_1256">Hast du meinen Brief wegen Daszyński bekommen?</p>
-            <p xml:id="Bae_MF_6-2_1257">Alles Schöne, aufrichtig ergeben,</p>
-            <p xml:id="Bae_MF_6-2_1258">O. Czernin</p>
-          </rdg>
-        </app>
+            ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1243">Czernin</persName> in
+          diesem Briefe aus der <index xml:id="Bae_MF_6-2_1244">
+            <term key="KaiserFranzJoseph" xml:id="Bae_MF_6-2_1245">Audienz</term>
+            <index>
+              <term>Audienzen</term>
+            </index>
+          </index>
+          <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920"
+            xml:id="Bae_MF_6-2_1246">Coudenhoves</persName> zieht, ist, wie es sich bald
+          herausstellte, voreilig gewesen. Der <persName key="KaiserFranzJosef"
+            ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1247">Kaiser</persName> hatte
+          zu den Ausführungen <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920"
+            xml:id="Bae_MF_6-2_1248">Coudenhoves</persName> geschwiegen, mehr nicht. <persName
+            key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_MF_6-2_1249"
+            >Beck</persName> leugnet, von so einem Schwanken des <persName key="KaiserFranzJosef"
+            ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1250">Kaiser</persName>
+          irgendetwas gewußt zu haben und sein Auftreten war nicht danach angetan, eine solche
+          Wendung vorzubereiten. Er ging im Gegenteil gerade und mit allen Mitteln auf das
+          allgemeine Stimmrecht los. <app from="#Bae_TB_8_917" type="notEqual"
+            xml:id="Bae_MF_6-2_1251">
+            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1252">
+              <p xml:id="Bae_MF_6-2_1253">Das Ganze ist wieder einmal ein typisches manöver
+                österreichischer Politik – voll Lüge und Falschheit – ich glaube aber, dass die
+                Feiglinge aller Fractionen des Parlamentes mehr Courage bekommen werden, wenn man
+                ihnen steckt, dass man wisse, dass oben der Wind bereits umgeschlagen hat und meiner
+                unmaßgeblichen Ansicht wäre dieses Material in diesem Sinne discret zu
+                verwerten!</p>
+              <p xml:id="Bae_MF_6-2_1254">Ist der Blödsinn des gleichen W.Rechtes einmal abgethan,
+                dann wird – glaube ich – der Moment für jene vernünftigen Menschen kommen, die
+                andere Propositionen machen können – wozu ich Dich in erster Linie zähle.</p>
+              <p xml:id="Bae_MF_6-2_1255">Man scheint momentan die löblichsten Absichten zu haben,
+                gegen die Gasse energisch vorzugehen – nachdem man die armen Teufeln erst aufgehetzt
+                hat, wird man jetzt auf sie schießen – ebenso logisch wie hübsch! –</p>
+              <p xml:id="Bae_MF_6-2_1256">Hast du meinen Brief wegen Daszyński bekommen?</p>
+              <p xml:id="Bae_MF_6-2_1257">Alles Schöne, aufrichtig ergeben,</p>
+              <p xml:id="Bae_MF_6-2_1258">O. Czernin</p>
+            </rdg>
+          </app>
         </p>
         <p xml:id="Bae_MF_6-2_1259">
           <anchor xml:id="Bae_MF_6-2_1260"/>Gleich in den ersten Tagen seines Ministeriums <pb
@@ -2708,7 +2824,7 @@
               der § 14 angewendet werden müssen. Erst nach und nach werden sich die Dinge, das Haus
               wird einsehen, dass es sich eine Geschäftsordnung geben muss u. es wird sich bessern.
               Alles das ipsissima verba.</rdg>
-          </app><anchor/>klären<app from="xxxx">
+          </app><anchor/>klären<app from="xxxx" type="notEqual">
             <rdg wit="#Bae_TB_8">bessern</rdg>
           </app>
           <anchor/>das Haus wird einsehen, daß es sich eine Geschäftsordnung geben muß und es wird
@@ -2726,8 +2842,10 @@
           als sie dennoch zu verhindern und das jetzige Kabinett in die Luft zu sprengen, aber was
           wäre damit gewonnen? – man sei nicht sicher, daß nicht noch etwas ärgeres nachkommt. Im
           Ministerium werden Studien über das <index xml:id="Bae_MF_6-2_1281">
-            <term key="Wahlrechtsreform/Pluralwahlrecht" xml:id="Bae_MF_6-2_1282"
-              >Pluralwahlrecht</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1282">Pluralwahlrecht</term>
+            <index>
+              <term>Pluralwahlrecht</term>
+            </index>
           </index> gemacht und er hält es nicht für ausgeschlossen, daß noch eine <app from="xxxx"
             type="equal">
             <rdg wit="#Bae_TB_8">Dzieduszycki sagte, das neulich gesprochene Wort des Kaisers: nach
@@ -2738,14 +2856,14 @@
               über das Pluralwahlrecht gemacht u. er hält es nicht für ausgeschlossen, dass noch
               eine</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1283"/>Modifikation in dieser Richtung durchzusetzen wäre
-            <app from="#Bae_TB_8_959" xml:id="Bae_MF_6-2_1284">
+            <app from="#Bae_TB_8_959" type="notEqual" xml:id="Bae_MF_6-2_1284">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1285">Modification in dieser Richtung
               eintritt</rdg>
           </app><anchor/>. Soziale Gährungen werden kommen, auch wenn die Wahlordnung Gesetz wird.
           Er bestätigt, daß die Regierung sich geeinigt <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">. Soziale Gährungen werden kommen, auch wenn die Wahlordnung Gesetz
               wird. Er bestätigt, daß die Regierung sich geeinigt</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_1286"/>habe, das<app from="#Bae_TB_8_962"
+          </app><anchor xml:id="Bae_MF_6-2_1286"/>habe, das<app from="#Bae_TB_8_962" type="notEqual"
             xml:id="Bae_MF_6-2_1287">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1288">hat, das</rdg>
           </app>
@@ -2768,8 +2886,10 @@
           <note type="editorial" xml:id="Bae_MF_6-2_1299">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_031" n="30r" xml:id="Bae_MF_6-2_1300"/>folgenden
           Parlamentsverhandlungen bildete der <index xml:id="Bae_MF_6-2_1301">
-            <term key="Wahlrechtsreform/Wahlrechtsagitation" xml:id="Bae_MF_6-2_1302"
-              >Terrorismus</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1302">Terrorismus</term>
+            <index>
+              <term>Wahlrechtsagitation</term>
+            </index>
           </index>, den die <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
             xml:id="Bae_MF_6-2_1303">Sozialisten</orgName> im <orgName key="Reichsrat"
             ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_1304">Parlament</orgName>, in
@@ -2787,11 +2907,11 @@
             <ref
               target="ttps://anno.onb.ac.at/cgi-content/anno?aid=aze&amp;datum=19060601&amp;seite=3&amp;zoom=33"
               xml:id="Bae_MF_6-2_1312">Arbeiter-Zeitung, 1. Juni 1906, S. 3.</ref>
-          </note> In dieser Rede hieß es: <app from="xxxx" xml:id="Bae_MF_6-2_1313">
+          </note> In dieser Rede hieß es: <app from="xxxx" type="notEqual" xml:id="Bae_MF_6-2_1313">
             <!-- CA: hier noch die noch fehlende ID nachtragen. -->
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1314">Diesen Zeitungsausschnitt Ausschnitt aus
               der Arbeiter-Zeitung, 1. Juni 1906, S. 3. hat mir Czernin heute geschickt.</rdg>
-          </app><anchor/>„Ich muß<app from="xxxx">
+          </app><anchor/>„Ich muß<app from="xxxx" type="notEqual">
             <!-- CA: hier noch die noch fehlende ID nachtragen. -->
             <rdg wit="#Bae_TB_8">Und an dieser Stelle muß ich</rdg>
           </app>
@@ -2825,7 +2945,7 @@
               den Abgrund der Revolution. Mit Bajonetten, Paragraphen, Untersuchungshaft wird so
               eine Bewegung nicht totgeschlagen werden. (Beifall.) Wir gehen vorwärts zu
               unserem</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_1319"/>Ziele, wir <app from="xxxx"
+          </app><anchor xml:id="Bae_MF_6-2_1319"/>Ziele, wir <app from="xxxx" type="notEqual"
             xml:id="Bae_MF_6-2_1320">
             <!-- CA: hier noch die noch fehlende ID nachtragen. -->
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1321">Ziele! Wir</rdg>
@@ -2842,7 +2962,7 @@
         </p>
         <p xml:id="Bae_MF_6-2_1322">
           <anchor xml:id="Bae_MF_6-2_1323"/>
-          <app from="#Bae_TB_8_1002" xml:id="Bae_MF_6-2_1324">
+          <app from="#Bae_TB_8_1002" type="missing" xml:id="Bae_MF_6-2_1324">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1325">Die Regierung will die „Hohenlohe’schen
               Vorschläge“ unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als
               Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und
@@ -2852,8 +2972,10 @@
             xml:id="Bae_MF_6-2_1327">Wahlreformausschuss</orgName> entstand nun ein bis in den <date
             when="1906-10" xml:id="Bae_MF_6-2_1328">Oktober</date> dauernder Kampf um die Details
           der Wahlreform, insbesondere der <index xml:id="Bae_MF_6-2_1329">
-            <term key="Wahlreform/Wahlkreiseinteilung" xml:id="Bae_MF_6-2_1330"
-              >Wahlkreiseinteilung</term>
+            <term key="Wahlreform" xml:id="Bae_MF_6-2_1330">Wahlkreiseinteilung</term>
+            <index>
+              <term>Wahlkreiseinteilung</term>
+            </index>
           </index>. <note type="editorial" xml:id="Bae_MF_6-2_1331">Zu den 62 Sitzungen des
             Wahlreformausschusses siehe: Zu 2727 der Beilagen zu den stenographischen Protokollen
             des Abgeordnetenhauses – XVIII. Session 1906: Verhandlungen des Wahlreformausschusses,
@@ -2870,8 +2992,8 @@
           <pb facs="#F_K-11_Bae_MF_6-2_032" n="31r" xml:id="Bae_MF_6-2_1336"/>Wahlkreise streng
           national abgegrenzt sind. Die Deutschen haben allerdings um einige <index
             xml:id="Bae_MF_6-2_1337">
-            <term key="Wahlrechtsreform/nationale Mandatszahlen" xml:id="Bae_MF_6-2_1338"
-              >Mandate</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1338"
+              >Mandate</term><index><term>Nationale Mandatszahlen</term></index>
           </index> mehr, als nach der Bevölkerungsziffer auf sie entfallen würde, aber ihre
           Steuerleistung, ihre alte kulturelle Bedeutung und ihre historischen Minoritäten bleiben
           unberücksichtigt. Letzteres gilt insbesondere von <placeName key="Prag"
@@ -2933,8 +3055,8 @@
             xml:id="Bae_MF_6-2_1361">Gessmann</persName>. Seine Methode bestand darin, die ganze
           Wahlreformaktion in Einzelgefechte für jedes Kronland und in diesen wieder von <index
             xml:id="Bae_MF_6-2_1362">
-            <term key="Wahlrechtsreform/nationale Mandatszahl" xml:id="Bae_MF_6-2_1363"
-              >Mandat</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1363"
+              >Mandat</term><index><term>Nationale Mandatszahl</term></index>
           </index> zu Mandat aufzulösen, die sich kreuzenden Interessen klug zu benützen, einen
           gegen den anderen auszuspielen, die Abgeordneten durch die Konstruktion ihrer <del
             rendition="#s" xml:id="Bae_MF_6-2_1364">Mandate</del>
@@ -2951,7 +3073,7 @@
             <rdg wit="#Bae_TB_8">Die Feinde der Wahlreform unterstützten jeden Abänderungsantrag,
               weil er die SacheF</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1370"/>komplizierte <app from="#Bae_TB_8_1012"
-            xml:id="Bae_MF_6-2_1371">
+            type="notEqual" xml:id="Bae_MF_6-2_1371">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1372">complicirt</rdg>
           </app><anchor/>, die Anhänger lehnen jeden, auch den vernünftigsten ab, weil sie jede
           Abänderung als ein Hindernis ansehen. Im ganzen Saal sieht man Abgeordnete zu zweien,
@@ -2965,12 +3087,12 @@
               zweien, dreien beisammen, die miteinander verhandeln. Beck u. Prade laufen von einem
               zum andern</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1375"/>, agitieren und bereden <app from="#Bae_TB_8_1017"
-            xml:id="Bae_MF_6-2_1376">
+            type="notEqual" xml:id="Bae_MF_6-2_1376">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1377"> und agitiren, bereden, belügen</rdg>
           </app><anchor/> die Leute so gut es <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">die Leute so gut es</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1378"/>geht, alles <app from="#Bae_TB_8_1020"
-            xml:id="Bae_MF_6-2_1379">
+            type="notEqual" xml:id="Bae_MF_6-2_1379">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1380">geht. Alles</rdg>
           </app><anchor/> wird von der einen wie von der andern Seite aufgeboten, um abzuwehren oder
           die Zustimmung zu Sonderanträgen zu erlangen. Heute handelt es sich um ein deutsches
@@ -2999,7 +3121,7 @@
             <rdg wit="#Bae_TB_8">Beck droht den Italienern, die mit den Deutschen stimmen wollen
               damit, dass sie in</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1389"/>diesem Falle <app from="#Bae_TB_8_1033"
-            xml:id="Bae_MF_6-2_1390">
+            type="notEqual" xml:id="Bae_MF_6-2_1390">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1391">dem Fall (Biala)</rdg>
           </app><anchor/> kein neues Mandat in <placeName key="Istrien"
             ref="https://www.geonames.org/3337514/istria.html" xml:id="Bae_MF_6-2_1392"
@@ -3011,18 +3133,21 @@
           </app><anchor/>. <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
             xml:id="Bae_MF_6-2_1396">Prade</persName> erklärt den <orgName
             key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1"
-            xml:id="Bae_MF_6-2_1397">Christlich-Sozialen</orgName>, <app from="xxxx" type="equal"><rdg>.
-            Prade erklärt den Christlich Socialen</rdg></app><anchor xml:id="Bae_MF_6-2_1398"/>die sich
-          auch dem deutschen Mandat von <placeName key="Biala"
-            ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1399"
-            >Biala</placeName> geneigt zeigen <app from="#Bae_TB_8_1043" xml:id="Bae_MF_6-2_1400">
+            xml:id="Bae_MF_6-2_1397">Christlich-Sozialen</orgName>, <app from="xxxx" type="equal">
+            <rdg>. Prade erklärt den Christlich Socialen</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1398"/>die sich auch dem deutschen Mandat von <placeName
+            key="Biala" ref="https://www.geonames.org/3103402/bielsko-biala.html"
+            xml:id="Bae_MF_6-2_1399">Biala</placeName> geneigt zeigen <app from="#Bae_TB_8_1043"
+            type="notEqual" xml:id="Bae_MF_6-2_1400">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1401">die per la vita für die Wahlreform
               sind</rdg>
           </app><anchor/>, daß ein deutsches Mandat in <placeName key="Biala"
             ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1402"
             >Biala</placeName> die ganze Wahlreform vereiteln würde, worauf <app from="xxxx"
-            type="equal"><rdg>dass ein deutsches Mandat in Biala die ganze Wahlreform vereiteln würde,
-            worauf</rdg></app><anchor xml:id="Bae_MF_6-2_1403"/>sie <app from="#Bae_TB_8_1047"
+            type="equal">
+            <rdg>dass ein deutsches Mandat in Biala die ganze Wahlreform vereiteln würde,
+              worauf</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1403"/>sie <app from="#Bae_TB_8_1047" type="notEqual"
             xml:id="Bae_MF_6-2_1404">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1405">diese wieder</rdg>
           </app>
@@ -3041,7 +3166,7 @@
           </app><anchor/> die Charakterlosesten bei diesem <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">die charakterlosesten bei diesem</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1413"/>Geschäfte <app from="#Bae_TB_8_1055"
-            xml:id="Bae_MF_6-2_1414">
+            type="notEqual" xml:id="Bae_MF_6-2_1414">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1415">Geschäft</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1416"/>. Ihre Furcht vor den <orgName
             key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_MF_6-2_1417"
@@ -3057,7 +3182,7 @@
           besorgen <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">ist geradezu lächerlich. Lecher, Kienmann, Löcker besorgen</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1423"/>
-          <app from="#Bae_TB_8_1065" xml:id="Bae_MF_6-2_1424">
+          <app from="#Bae_TB_8_1065" type="missing" xml:id="Bae_MF_6-2_1424">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1425">geradezu</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1426"/>
           <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"
@@ -3072,13 +3197,13 @@
             ref="https://d-nb.info/gnd/129095648" xml:id="Bae_MF_6-2_1431">Marchet</persName> und
             <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
             xml:id="Bae_MF_6-2_1432">Derschatta</persName> kommen <app from="#Bae_TB_8_1071"
-            xml:id="Bae_MF_6-2_1433">
+            type="notEqual" xml:id="Bae_MF_6-2_1433">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1434">Heute kommen auch Marchet u.
               Derschatta</rdg>
           </app><anchor/> in den Ausschuß, alles arbeitet gegen die <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">in den Ausschuß, alles arbeitet gegen die</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1435"/>
-          <app from="#Bae_TB_8_1076" xml:id="Bae_MF_6-2_1436">
+          <app from="#Bae_TB_8_1076" type="missing" xml:id="Bae_MF_6-2_1436">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1437">armen</rdg>
           </app><anchor/>Deutschen in <placeName key="Biala"
             ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1438"
@@ -3130,7 +3255,7 @@
         <head xml:id="Bae_MF_6-2_1455">8. Meine Denkschrift vom <date when="1906-08-13"
             xml:id="Bae_MF_6-2_1456">13. August 1906</date>
         </head>
-        <app from="#Bae_TB_8_1116" xml:id="Bae_MF_6-2_1457">
+        <app from="#Bae_TB_8_1116" type="notEqual" xml:id="Bae_MF_6-2_1457">
           <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1458">Denkschrift verfasst für Nostitz –
             Fürstenberg, München 13.8.06</rdg>
         </app>
@@ -3141,13 +3266,15 @@
           drei <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Die polit[ischen] Berechnungen, dass die Wahlr[eform] schliesslich
               doch nicht zu Stande kommen werde, stützten sich im Wesentlichen auf drei</rdg>
-          </app><anchor xml:id="Bae_MF_6-2_1462"/>Annahmen<app from="#Bae_TB_8_1128"
+          </app><anchor xml:id="Bae_MF_6-2_1462"/>Annahmen<app from="#Bae_TB_8_1128" type="notEqual"
             xml:id="Bae_MF_6-2_1463">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1464">Suppositionen</rdg>
           </app><anchor/>: die Krone wird anderer Meinung werden – die nationalen Parteien werden
           sich bezüglich der Verteilung der <index xml:id="Bae_MF_6-2_1465">
-            <term key="Wahlrechtsreform/nationale Mandatszahlen" xml:id="Bae_MF_6-2_1466"
-              >Mandate</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1466">Mandate</term>
+            <index>
+              <term>Nationale Mandatszahlen</term>
+            </index>
           </index> nicht einigen – die Zeit wird zu kurz werden bis Ende <date when="1907-01"
             xml:id="Bae_MF_6-2_1467">Jänner 1907</date>. Dem entgegen steht heute fest: Die
             Krone<app from="xxxx" type="equal">
@@ -3155,7 +3282,7 @@
               werden sich bezüglich der Verteilung der Mandate nicht einigen – die Zeit wird zu kurz
               werden bis Ende Jänner 1907. Dem entgegen steht heute fest: Die Krone</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1468"/>bleibt <app from="#Bae_TB_8_1134"
+          <anchor xml:id="Bae_MF_6-2_1468"/>bleibt <app from="#Bae_TB_8_1134" type="notEqual"
             xml:id="Bae_MF_6-2_1469">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1470">blieb</rdg>
           </app><anchor/> bei <pb facs="#F_K-11_Bae_MF_6-2_035" n="33v" xml:id="Bae_MF_6-2_1471"/>
@@ -3189,7 +3316,7 @@
               Verhältnissen gegenüber einnehmen? Ich gehe bei der Beantwortung dieser Frage davon
               aus, dass der weitere Widerstand fruchtlos</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1481"/>ist, daher modifiziert <app from="#Bae_TB_8_1143"
-            xml:id="Bae_MF_6-2_1482">
+            type="notEqual" xml:id="Bae_MF_6-2_1482">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1483">ist. Daher modificiert</rdg>
           </app><anchor/> sich die gestellte Frage dahin: sollen wir den bisherigen Kampf, Arm in
           Arm mit den <orgName key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0"
@@ -3229,7 +3356,7 @@
               müssen daher national und wirtschaftlich werden, das heißt: uns als deutscher
               Großgrundbesitz erklären und auf Seite der Agrarier</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1492"/>treten, der <app from="#Bae_TB_8_1158"
+          <anchor xml:id="Bae_MF_6-2_1492"/>treten, der <app from="#Bae_TB_8_1158" type="notEqual"
             xml:id="Bae_MF_6-2_1493">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1494">treten, als der</rdg>
           </app><anchor/> wirtschaftlichen Gruppe, die uns am nächsten steht. Damit tun wir gar
@@ -3239,13 +3366,13 @@
               gar nichts anderes, als die Konsequenzen ziehen, die in der Wahlreform selbst
               liegen.</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1495"/>Wir müssen uns <app from="#Bae_TB_8_1165"
-            xml:id="Bae_MF_6-2_1496">
+            type="notEqual" xml:id="Bae_MF_6-2_1496">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1497">Man muss sich</rdg>
           </app>
           <anchor/>vollkommen klar sein, daß wir, wenn in der <date when="1906-09"
             xml:id="Bae_MF_6-2_1498">zweiten Hälfte September</date> eine allgemeine <index
             xml:id="Bae_MF_6-2_1499">
-            <term key="Wahlrechtsreform/Wahlkampf" xml:id="Bae_MF_6-2_1500">Wählerversammlung</term>
+              <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1500">Wählerversammlung</term><index><term>Wahlkampf</term></index>
           </index> abgehalten werden soll, in dieser Frage Farbe bekennen müssen. Das Leitmotiv für
           diese Versammlung kann nur sein entweder: wir setzen unsern Widerstand gegen die
           Wahlreform fort oder: wir fügen uns den Tatsachen und bereiten eine Politik der Zukunft
@@ -3273,7 +3400,7 @@
               aber nicht um schön zu sterben, sondern um weiter zu leben. Es handelt sich darum,
               eine Form zu finden, die unsere Frontveränderung</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1502"/>rechtfertigt <app from="#Bae_TB_8_1176"
-            xml:id="Bae_MF_6-2_1503">
+            type="notEqual" xml:id="Bae_MF_6-2_1503">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1504">manifestiert</rdg>
           </app><anchor/>, die angedeuteten Folgen eines solchen Schrittes abschwächt, unsere
           Stellung für die Zukunft aber vorbereitet. Die Handhabe dazu bietet <app from="xxxx"
@@ -3284,13 +3411,15 @@
             type="missing" xml:id="Bae_MF_6-2_1506">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1507"/>
           </app><anchor/> die Frage des <index xml:id="Bae_MF_6-2_1508">
-            <term key="Wahlrechtsreform/Pluralwahlrecht" xml:id="Bae_MF_6-2_1509"
-              >Pluralwahlrechts</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1509">Pluralwahlrechts</term>
+            <index>
+              <term>Pluralwahlrecht</term>
+            </index>
           </index>, die im September gleich zu Beginn der Verhandlungen im Ausschusse auftauchen
           wird. Ich bin<app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">die Frage des Pluralwahlrechts, die im September gleich zu Beginn
               der Verhandlungen im Ausschuss auftauchen wird. Ich bin</rdg>
-          </app><anchor/><app from="xxxx">
+          </app><anchor/><app from="xxxx" type="missing">
             <rdg wit="#Bae_TB_8">unbedingt</rdg>
           </app><anchor/> dagegen, das Pluralwahlrecht bloß dazu zu benützen, um der Regierung ein
           Bein zu stellen und den letzten Versuch zu machen, die Wahlordnung zu Fall zu bringen. Das
@@ -3305,19 +3434,19 @@
               würde aber gewiss wieder nur zu einer Niederlage führen. Das Pluralwahlrecht
               muss</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1513"/>
-          <app from="#Bae_TB_8_1186" xml:id="Bae_MF_6-2_1514">
+          <app from="#Bae_TB_8_1186" type="missing" xml:id="Bae_MF_6-2_1514">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1515">1)</rdg>
           </app><anchor/> Das Pluralwahlrecht muß an sich ein mäßiges sein, denn zu grundstürzenden
           Aenderungen der Wahlreform ist es jetzt zu spät und es muß <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">Das Pluralwahlrecht muß an sich ein mäßiges sein, denn zu
               grundstürzenden Aenderungen der Wahlreform ist es jetzt zu spät und es muß</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1516"/>
-          <app from="#Bae_TB_8_1189" xml:id="Bae_MF_6-2_1517">
+          <app from="#Bae_TB_8_1189" type="missing" xml:id="Bae_MF_6-2_1517">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1518">2)</rdg>
           </app><anchor/> als ein loyal <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">als ein loyal</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1519"/>angebotenes <app from="#Bae_TB_8_1192"
-            xml:id="Bae_MF_6-2_1520">
+            type="notEqual" xml:id="Bae_MF_6-2_1520">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1521">angebotener</rdg>
           </app>
           <anchor/>Kompromiß beantragt werden. Unter diesen zwei Voraussetzungen ist die Aktion
@@ -3335,7 +3464,7 @@
               Geneigtheit entgegenbringen würden. Es würden sich demnach folgende Eventualitäten
               ergeben: Kommt das Pluralwahlrecht auf diese Weise</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1524"/>zustande, machen wir <app from="#Bae_TB_8_1200"
-            xml:id="Bae_MF_6-2_1525">
+            type="notEqual" xml:id="Bae_MF_6-2_1525">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1526">zu Stande, so verwandeln wir uns dadurch
               noch nicht aus Gegnern in Freunde und Verteidiger des Wahlrechts, aber wir
               machen</rdg>
@@ -3396,7 +3525,8 @@
             ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_1544"
             >Abgeordnetenhauses</orgName> und mit dem <orgName key="Herrenhaus"
             ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1545">Herrenhaus</orgName> zu
-          vereinbaren, hätten wir das <app from="#Bae_TB_8_1217" xml:id="Bae_MF_6-2_1546">
+          vereinbaren, hätten wir das <app from="#Bae_TB_8_1217" type="notEqual"
+            xml:id="Bae_MF_6-2_1546">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1547">Dieser Plan bedarf allerdings eine gewisse
               Vorbereitung. Wir sind es den Vertretern der andern verfassungstreuen Grundbesitzer
               schuldig, dass wir zunächst in einer Obmännerkonferenz des ganzen verfassungstreuen
@@ -3405,7 +3535,7 @@
               denen wir bisher gegangen sind. Gelingt der Plan, haben wir den</rdg>
           </app> Verdienst sie alle aus einer Sackgasse herausgeführt zu haben. <anchor
             xml:id="Bae_MF_6-2_1548"/>
-          <app from="#Bae_TB_8_1226" xml:id="Bae_MF_6-2_1549">
+          <app from="#Bae_TB_8_1226" type="missing" xml:id="Bae_MF_6-2_1549">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1550">München 13.8.06</rdg>
           </app>
         </p>
@@ -3442,13 +3572,13 @@
             </rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_1565"/>Die Opposition gegen die Wahlreform wurde ganz kopflos
-          geführt <app from="#Bae_TB_8_1255" xml:id="Bae_MF_6-2_1566">
+          geführt <app from="#Bae_TB_8_1255" type="notEqual" xml:id="Bae_MF_6-2_1566">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1567">Dort wurde die Opposition gegen die
               Wahlreform ganz kopflos geführt</rdg>
           </app><anchor/>, wenn man von <app from="xxxx" type="equal">
             <rdg wit="#Bae_TB_8">, wenn man von</rdg>
           </app><anchor xml:id="Bae_MF_6-2_1568"/>
-          <app from="#Bae_TB_8_1258" xml:id="Bae_MF_6-2_1569">
+          <app from="#Bae_TB_8_1258" type="missing" xml:id="Bae_MF_6-2_1569">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1570">einer</rdg>
           </app><anchor/> Führung überhaupt reden kann. Auch in der Verfassungspartei des <orgName
             key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1571"
@@ -3465,7 +3595,7 @@
             ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_1574"
             >Wien</placeName> mit seinem treuen Kutscher <persName key="Georg"
             xml:id="Bae_MF_6-2_1575">Georg</persName> und fuhr <app from="#Bae_TB_8_1264"
-            xml:id="Bae_MF_6-2_1576">
+            type="notEqual" xml:id="Bae_MF_6-2_1576">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1577">, und sein treuer Kutscher Georg (der sich
               um die Wahlreform die größten Verdienste erwarb, ohne einen Orden zu bekommen!) fuhr
               ihn</rdg>
@@ -3476,7 +3606,7 @@
               der Umfall der Majorität der Verfassungspartei und das Großkreuz des Stephansordens.
             </rdg>
           </app><anchor xml:id="Bae_MF_6-2_1578"/>
-          <app from="#Bae_TB_8_1269" xml:id="Bae_MF_6-2_1579">
+          <app from="#Bae_TB_8_1269" type="missing" xml:id="Bae_MF_6-2_1579">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1580">Das nennt man im Herrenhaus Politik.</rdg>
           </app>
         </p>
@@ -3514,8 +3644,10 @@
         <p xml:id="Bae_MF_6-2_1601">Von allen Seiten – den <persName key="KaiserFranzJosef"
             ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1602">Kaiser</persName> nicht
           ausgenommen – wurden wir <index xml:id="Bae_MF_6-2_1603">
-            <term key="Parteien/Großgrundbesitzer (beide Parteien)" xml:id="Bae_MF_6-2_1604"
-              >Großgrundbesitzer</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_1604">Großgrundbesitzer</term>
+            <index>
+              <term>Großgrundbesitzer (beide Parteien)</term>
+            </index>
           </index> aufgefordert zu kandidieren und uns dem allgemeinen <index
             xml:id="Bae_MF_6-2_1605">
             <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1606">Wahlrecht</term>
@@ -3546,8 +3678,10 @@
             key="DeutscheAgrarier" ref="https://d-nb.info/gnd/1041439059" xml:id="Bae_MF_6-2_1622"
             >Agrarier</orgName> gewählt, ich kam in die Stichwahl, die anderen unterlagen glatt. Bei
           allen diesen Wahlbewegungen kam heraus, daß der <index xml:id="Bae_MF_6-2_1623">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_1624"
-              >Großgrundbesitz</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_1624">Großgrundbesitz</term>
+            <index>
+              <term>Großgrundbesitzer (beide Parteien)</term>
+            </index>
           </index> in der ganzen Zeit keine lebendige, im Volke wurzelnde Richtung vertreten hatte.
           Wir waren immer gut deutsch, zentralistisch, im großen Ganzen konservativ, trieben [aber]
           nie eine egoistische Standes- oder Berufspolitik. Wir hatten unsere Augen immer auf das
@@ -3556,7 +3690,7 @@
           entschiedenen Freunde. Jeder Einzelne von uns wurde als das geschätzt, was er war und
           vorstellte, also sehr verschieden, und selbst in unseren mißlungenen <index
             xml:id="Bae_MF_6-2_1625">
-            <term key="Wahlrechtsreform/Wahlkampf" xml:id="Bae_MF_6-2_1626">Wahlkämpfen</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1626">Wahlkämpfen</term><index><term>Wahlkampf</term></index>
           </index> wurde uns die Anerkennung der Person nicht versagt. Aber wir hatten keine für das
           Volk in die Augen fallenden politischen Merkmale, unsere Parteikundgebungen, wie die
           meisten unserer Redner, waren stets durch eine höhere Auffassung beherrscht und abgetönt,
@@ -3577,8 +3711,10 @@
             <persName key="PeschkaFranz" ref="https://d-nb.info/gnd/127901221"
             xml:id="Bae_MF_6-2_1633">Peschkas</persName> konnten das altbäuerliche Mißtrauen gegen
           die großen Herren und den <index xml:id="Bae_MF_6-2_1634">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_1635"
-              >Großgrundbesitz</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_1635">Großgrundbesitz</term>
+            <index>
+              <term>Großgrundbesitz (beide Parteien)</term>
+            </index>
           </index> im allgemeinen nicht überwinden, auch merkten sie, daß unserer Agrarismus nicht
           waschecht war. Er ging nämlich nicht bis zur Unvernunft. Ein Versuch in einer andern
           Richtung mißlang auch: einzelne Herren als Kompromisskandidaten aufzustellen. Für die
@@ -3604,8 +3740,8 @@
           von meiner Absicht, die nicht ungünstig aufgenommen wurde, aber ich konnte darüber nicht
           im Zweifel sein, daß die Majorität der Wählerschaft deutsch-radikal sei und einen <index
             xml:id="Bae_MF_6-2_1642">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_1643"
-              >Großgrundbesitzer</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_1643"
+              >Großgrundbesitzer</term><index><term>Großgrundbesitz (beide Parteien)</term></index>
           </index> aus der Gegend nicht akzeptieren würde. Ich ließ mich aber nicht verdrießen, mit
           den <orgName key="DeutschradikalePartei" ref="https://d-nb.info/gnd/104140834X"
             xml:id="Bae_MF_6-2_1644">Deutschradikalen</orgName> Fühlung zu su <pb
@@ -3650,8 +3786,10 @@
           den Ausschlag gegen mich gaben und meinen Gegenkandidaten, einen agrarischen Schönerianer,
           wählen würden, also einen Mann, der alles in sich vereinigte, was sie am schärfsten
           bekämpften, erklärt sich wieder nur daraus, daß ich ein <index xml:id="Bae_MF_6-2_1660">
-            <term key="Parteien/Großgrundbesitz (beide Parteien)" xml:id="Bae_MF_6-2_1661"
-              >Großgrundbesitzer</term>
+            <term key="Parteien" xml:id="Bae_MF_6-2_1661">Großgrundbesitzer</term>
+            <index>
+              <term>Großgrundbesitz (beide Parteien)</term>
+            </index>
           </index>, ein Privilegierter, gegen das allgemeine Stimmrecht votiert hatte, den zu
           wählen, trotz der Verbindungen, die ich seit Jahren mit den <pb
             facs="#F_K-11_Bae_MF_6-2_043" n="41v" xml:id="Bae_MF_6-2_1662"/>
@@ -3682,7 +3820,10 @@
             ref="https://d-nb.info/gnd/127901221" xml:id="Bae_MF_6-2_1673">Peschka</persName>, daß,
           wenn ich in den Versammlungen mich nicht unbedingt gegen den österreichisch-ungarischen
             <index xml:id="Bae_MF_6-2_1674">
-            <term key="Österreich-Ungarn/Ausgleich" xml:id="Bae_MF_6-2_1675">Ausgleich</term>
+            <term key="Oesterreich-Ungarn" xml:id="Bae_MF_6-2_1675">Ausgleich</term>
+            <index>
+              <term>Ausgleich</term>
+            </index>
           </index> erkläre, er mich nicht unterstützen könne – derselbe Ehrenmann, der sich sein und
           seiner Partei Votum für den Ausgleich von <persName key="BeckMaxWladimir"
             ref="https://d-nb.info/gnd/118654373" xml:id="Bae_MF_6-2_1676">Beck</persName> mit einem
@@ -3716,7 +3857,10 @@
             >Marienbad</placeName> einquartiert, mietete mir einen Schlitten mit ein Paar
           ausgezeichneten Schimmeln und fuhr durch Schnee und Eis in dem Wahlbezirk herum,
           Besprechungen und <index xml:id="Bae_MF_6-2_1689">
-            <term key="Wahlrechtsreform/Wahlkampf" xml:id="Bae_MF_6-2_1690">Versammlungen</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1690">Versammlungen</term>
+            <index>
+              <term>Wahlkampf</term>
+            </index>
           </index> abhaltend. Ich gewann die Majorität in den beiden kleinen Städten <placeName
             key="Einsiedl" ref="https://www.geonames.org/11921999/mnichov.html"
             xml:id="Bae_MF_6-2_1691">Einsiedl</placeName> und <placeName key="Sangerberg"
@@ -3734,7 +3878,10 @@
           bereit erklärte, sofort zu beantworten. Das war mein Fall. Ich ging auf alle Fragen
           ausführlich ein, sei es, daß sie meine bisherige politische Tätigkeit, sei es, daß sie
           Zukunftssachen betrafen. Ueber den <index xml:id="Bae_MF_6-2_1695">
-            <term key="Östereich-Ungarn/Ausgleich" xml:id="Bae_MF_6-2_1696">Ausgleich</term>
+            <term key="Oestereich-Ungarn" xml:id="Bae_MF_6-2_1696">Ausgleich</term>
+            <index>
+              <term>Ausgleich</term>
+            </index>
           </index> sprach ich frei und offen. Bewies, daß es töricht sei, von vornherein jeden
           Ausgleich abzulehnen, erklärte aber ausführlich, was ich unter einem guten Ausgleich
           verstehe. Behielt mir also die Prüfung vor. Mit der Beantwortung der gestellten Fragen
@@ -3756,7 +3903,7 @@
           wäre. Aber auch während dieser Zeit ging meine ausgebreitete Korrespondenz weiter. Ich
           habe hunderte von Briefen diktiert und an jeden Wähler ein kurz gefasstes <index
             xml:id="Bae_MF_6-2_1701">
-            <term key="Wahlrechtsreform/Wahlkampf" xml:id="Bae_MF_6-2_1702">Programm</term>
+            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1702">Programm</term><index><term>Wahlkampf</term></index>
           </index> versendet. Wo und wie ich konnte, erwies ich Gefälligkeiten. In einem großen Dorf
           in der unmittelbaren Nachbarschaft von <placeName key="Marienbad"
             ref="https://www.geonames.org/3071024/marianske-lazne.html" xml:id="Bae_MF_6-2_1703"
@@ -3799,8 +3946,10 @@
           ausgegeben und gegen das Verlangen der <index xml:id="Bae_MF_6-2_1715">
             <term key="Arbeiter" xml:id="Bae_MF_6-2_1716">Arbeiter</term>
           </index> nach der <index xml:id="Bae_MF_6-2_1717">
-            <term key="Arbeiter/Versicherung" xml:id="Bae_MF_6-2_1718">Alters- und
-              Invalidenversicherung</term>
+            <term key="Arbeiter" xml:id="Bae_MF_6-2_1718">Alters- und Invalidenversicherung</term>
+            <index>
+              <term>Versicherung</term>
+            </index>
           </index> ausgespielt. Statt mich zu dem frommen Betrug dieses Schlagwortes zu bekennen und
           in irgend einer Weise zuzustimmen und zu versprechen, beging ich die Torheit, das Thema
           der Sozialversicherung, wenn auch in sehr populären Ausdrücken, so doch vom Standpunkt
@@ -3808,7 +3957,10 @@
           selbständiger Besitzer oder Gewerbemann ein gleiches Anrecht wie der Lohnarbeiter habe,
           für sein Alter gesichert zu sein, versuchte aber, natürlich vergebens, zu erklären, wie
           das unter anderer Form, als die der <index xml:id="Bae_MF_6-2_1719">
-            <term key="Arbeiter/Versicherung" xml:id="Bae_MF_6-2_1720">Arbeiterversicherung</term>
+            <term key="Arbeiter" xml:id="Bae_MF_6-2_1720">Arbeiterversicherung</term>
+            <index>
+              <term>Versicherung</term>
+            </index>
           </index> erzielt werden müsse. In diesem Dorf stimmte niemand für mich. </p>
         <p xml:id="Bae_MF_6-2_1721">Auf meinen langen Fahrten hatte ich Muße, darüber nachzudenken,
           worin die richtige Vertretung eines solchen Bezirkes bestehen müsse. Ich nahm mir vor,
@@ -3818,7 +3970,7 @@
           wirtschaftlichen Verhältnisse des Bezirkes zu untersuchen und aus dem Ergebnis dieser
           Untersuchungen heraus mich für Maßregeln und Einrichtungen einzusetzen, die dem Bezirk
           nützen, die Erziehungs- und <index xml:id="Bae_MF_6-2_1723">
-            <term key="Soziale Fürsorge" xml:id="Bae_MF_6-2_1724">Fürsorgeverhältnisse</term>
+            <term key="SozialeFuersorge" xml:id="Bae_MF_6-2_1724">Fürsorgeverhältnisse</term>
           </index> bessern und die Bevölkerung auch auf ein höheres Niveau politischen
           Verständnisses heben würden. Ich malte mir diesen Plan in allen Einzelheiten aus, dachte,
             <pb facs="#F_K-11_Bae_MF_6-2_047" n="45v" xml:id="Bae_MF_6-2_1725"/>
@@ -3859,7 +4011,10 @@
           Mandat in der Stichwahl. Aber er wurde rückhaltlos von den <orgName key="DeutscheAgrarier"
             ref="https://d-nb.info/gnd/1041439059" xml:id="Bae_MF_6-2_1735">Agrariern</orgName>
           unterstützt, betrieb eine wohlorganisierte <index xml:id="Bae_MF_6-2_1736">
-            <term key="Wahlrechtsreform/Wahlkampf" xml:id="Bae_MF_6-2_1737">Agitation</term>
+            <term key="Wahlrechtsreform/" xml:id="Bae_MF_6-2_1737">Agitation</term>
+            <index>
+              <term>Wahlkampf</term>
+            </index>
           </index> mit klingenden Argumenten, die ihm Unsummen kostetet, besaß die Kunst, sich mit
           den Leuten sehr gemütlich zu machen, und log ihnen das Blaue vom Himmel herunter. Lachend
           rühmte er sich dessen mir gegenüber.</p>
