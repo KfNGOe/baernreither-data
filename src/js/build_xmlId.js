@@ -23,6 +23,7 @@ var i_elements = 0 ; //number of all tei elements
 var arr_xmlId = [] ; //array of all xml:id's
 var arr_xmlId_unique = [] ; //array of unique xml:id's
 
+var replaceFlag = false ;
 
 function escapeChars(obj) {
    Object.keys(obj).forEach((key) => {      
@@ -43,7 +44,7 @@ function escapeChars(obj) {
                   if (typeof objAttr[keyAttr] === 'string' && !objAttr[keyAttr].match(/(&amp;)/)) {
                      if (objAttr[keyAttr].includes('&')) {
                         objAttr[keyAttr] = objAttr[keyAttr].replace(/&/g, "&amp;") ;
-                        console.log('replace & in attribute') ;   
+                        replaceFlag = true ;
                      }                     
                   }
                }) ;
@@ -53,7 +54,7 @@ function escapeChars(obj) {
             if (typeof obj['text'] === 'string' && !obj['text'].match(/(&amp;)/)) {
                if (obj['text'].includes('&')) {                  
                   obj['text'] = obj['text'].replace(/&/g, "&amp;") ;
-                  console.log('replace & in text') ;
+                  replaceFlag = true ;
                }               
             }
             break ;                              
@@ -228,6 +229,10 @@ var xmlJs = convert.xml2js(xml, {compact: false, spaces: 2}) ;
 
 //replace special characters
 escapeChars(xmlJs) ;
+if (replaceFlag) {
+   console.log('replace & in attribute') ;
+   replaceFlag = false ;
+} ;
 console.log('xml data escaped') ;
 
 //check elements
@@ -276,12 +281,3 @@ console.log(filepath);
 xml = convert.js2xml(xmlJs, {compact: false, spaces: 2}) ;
 fs.writeFileSync(filepath, xml ) ;
 console.log('xml data written: ', xml.length, ' bytes')
-
-//write json file
-/*
-filepath = path_out_json + filename + ext_json ;
-console.log(filepath);
-var xmlJsString = JSON.stringify(xmlJs);
-fs.writeFileSync(filepath, xmlJsString ) ;
-console.log('json data written: ', xmlJsString.length, ' bytes') ;
-*/
