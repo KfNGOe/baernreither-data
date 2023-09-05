@@ -37,4 +37,15 @@ jobs:
           git config --global user.name "rh1967"
           git add data          
           git commit -m "Update TEI files"
-          git push      
+          git push
+      - name: Pushes to dev-baernreither-app
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
+        with:
+          source-directory: "data/tei_xmlId"
+          target-directory: "data/tei_xmlId"
+          destination-github-username: "rh1967"
+          destination-repository-name: "dev-baernreither-app"
+          user-email: dev-baernreither-app@github.io
+          target-branch: main
