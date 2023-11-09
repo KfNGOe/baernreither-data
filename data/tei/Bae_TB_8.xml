@@ -87,7 +87,8 @@
           <hi rend="#ul" xml:id="Bae_TB_8_55">Die Wahlreform</hi>
         </head>
       </div>
-      <div n="1906-04-13" type="diary-entry" xml:id="Bae_TB_8_56">
+      <div type="diaryEntry" xml:id="Bae_TB_8_56">
+        <head><date when="1906-04-13"/></head>
         <anchor xml:id="Bae_TB_8_1462"/>
         <p xml:id="Bae_TB_8_57">
           <anchor xml:id="Bae_TB_8_1463"/>Die <date from="1906-01" to="1906-03" xml:id="Bae_TB_8_58"
@@ -668,48 +669,46 @@
         <p xml:id="Bae_TB_8_315">Von einer in den Gang der Verhandlungen eingeweihten Seite erhalten
           wir folgende Darstellung:</p>
         <p xml:id="Bae_TB_8_316">"In den letzten Tagen des Dezember und zu Beginn dieses Monats
-          haben <ref type="editorialNote" corresp="#Bae_TB_8_319" xml:id="Bae_TB_8_317">
-            <hi rend="#ul" xml:id="Bae_TB_8_318">zwischen deutschen und czechischen Abgeordneten
-              Besprechungen in der Wahlreformfrage stattgefunden</hi>
-          </ref>
-          <note type="editorial" corresp="#Bae_TB_8_317" xml:id="Bae_TB_8_319">Randbemerkung
-            Baernreithers: Glatt gelogen!</note>, wobei hauptsächlich die Mandatsverteilung in den
-          Sudentenländern ziffermäßig erörtert wurde. Zu einer vollen Verständigung haben diese
-          Besprechungen zwar ncht gefährt, aber es hatte doch den Anschein, daß die Parteien geneigt
-          sind, diese Angelegenheiten untereinander zu schlichten und zu einem Ergebnis zu gelangen,
-          welches sie sowohl der Regierung als den Parteien gegenüber vertreten können. Durch den
-          konzilianten Ton, der bei diesen Besprechungen von beiden Seiten festgehalten wurde,
-          entstand bei der Regierung der Eindruck, daß die Verständigung in der Wahlreformfrage
-          Fortschritte machen könnte, wenn je ein deutscher und ein czechischer Parlamentarier ins
-          Kabinett berufen werden. Dabei wurde aber nicht eigentlich an Landsmannminister gedacht,
-          und insbesondere sollten die deutschen Parteien keineswegs aufgefordert werden, der
-          Regierung einen Vertrauensmann für den Posen eines deutschen Landsmannministers zu
-          präsentieren. Ohnehin hätte die im deutschen Vollzugsausschusse vertretenen Parteien sich
-          nicht leicht auf einen Kandidaten einigen können. Der deutsche Minister sollte nicht ein
-          Abgesandter der ihm nahestehenden Parteien sein, sondern ein Mitglied des Kabinetts
-          werden, mit der Aufgabe, von Fall zu Fall seinen Einfluß bei den deutschen Parteien zu
-          markieren, sollte weder der eine noch der andere um die förmliche Zustimmung der Parteien
-          für seinen Eintritt ins Kabinett werben. Es war also von Anfang an nicht in Aussicht
-          genommen, daß Abgeordneter <persName key="DerschattaJulius"
-            ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_320">Dr. v. Derschatta</persName>
-          einen förmlichen Beschluß der deutschen Parteien über die so geplante Ergänzung des
-          Kabinetts provoziere und als Mandatar dieser Parteien ins Kabinett eintrete. In den beiden
-          Konferenzen, welche in den letzten Tagen beim Ministerpräsidenten Freiherrn von Gautsch in
-          dieser Angelegenheit stattfanden, wurde dieser Standpunkt festgehalten. Es wurde dem
-          Abgeordneten <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
-            xml:id="Bae_TB_8_321">Dr. v. Derschatta</persName> nicht zugemutet, irgend eine
-          Verantwortlichkeit namens der deutschen Parteien einzugehen oder irgend eine Verantwortung
-          gegenüber seinen czechischen Zukunftskollegen zu übernehmen. Obwohl in diesen Konferenzen
-          nationale Streitfragen, die im Vordergrund der Diskussion stehen, erörtert wurden, hat
-          Abgeordneter <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
-            xml:id="Bae_TB_8_322">Dr. v. Derschatta</persName> dennoch in keinem Punkte irgend eine
-          Zusage abgegeben, auf welche man sich von anderer See in der Zukunft berufen könnte. In
-          der mährischen Universitätsfrage, in der Sprachenfrage und in anderen zur Besprechung
-          gekommenen nationalen Angelegenheiten hat sich Abgeordneter <persName
-            key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_323">Dr.
-            v. Derschatta</persName> genau auf jener Linie gehalten, auf welcher sich die deutschen
-          Parteien bisher bewegt haben. Er übernimmt bei seinem eventuellen Eintritt ins Kabinett
-          kein ihn irgendwie belastendes <pb facs="#F_K-5_Bae_TB_8-012" n="13v" xml:id="Bae_TB_8_324"/>
+          haben <hi rend="#ul" xml:id="Bae_TB_8_318">zwischen deutschen und czechischen Abgeordneten
+            Besprechungen in der Wahlreformfrage stattgefunden</hi>
+          <note place="left" xml:id="Bae_TB_8_319">Randbemerkung Baernreithers: Glatt
+            gelogen!</note>, wobei hauptsächlich die Mandatsverteilung in den Sudentenländern
+          ziffermäßig erörtert wurde. Zu einer vollen Verständigung haben diese Besprechungen zwar
+          ncht gefährt, aber es hatte doch den Anschein, daß die Parteien geneigt sind, diese
+          Angelegenheiten untereinander zu schlichten und zu einem Ergebnis zu gelangen, welches sie
+          sowohl der Regierung als den Parteien gegenüber vertreten können. Durch den konzilianten
+          Ton, der bei diesen Besprechungen von beiden Seiten festgehalten wurde, entstand bei der
+          Regierung der Eindruck, daß die Verständigung in der Wahlreformfrage Fortschritte machen
+          könnte, wenn je ein deutscher und ein czechischer Parlamentarier ins Kabinett berufen
+          werden. Dabei wurde aber nicht eigentlich an Landsmannminister gedacht, und insbesondere
+          sollten die deutschen Parteien keineswegs aufgefordert werden, der Regierung einen
+          Vertrauensmann für den Posen eines deutschen Landsmannministers zu präsentieren. Ohnehin
+          hätte die im deutschen Vollzugsausschusse vertretenen Parteien sich nicht leicht auf einen
+          Kandidaten einigen können. Der deutsche Minister sollte nicht ein Abgesandter der ihm
+          nahestehenden Parteien sein, sondern ein Mitglied des Kabinetts werden, mit der Aufgabe,
+          von Fall zu Fall seinen Einfluß bei den deutschen Parteien zu markieren, sollte weder der
+          eine noch der andere um die förmliche Zustimmung der Parteien für seinen Eintritt ins
+          Kabinett werben. Es war also von Anfang an nicht in Aussicht genommen, daß Abgeordneter
+            <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
+            xml:id="Bae_TB_8_320">Dr. v. Derschatta</persName> einen förmlichen Beschluß der
+          deutschen Parteien über die so geplante Ergänzung des Kabinetts provoziere und als
+          Mandatar dieser Parteien ins Kabinett eintrete. In den beiden Konferenzen, welche in den
+          letzten Tagen beim Ministerpräsidenten Freiherrn von Gautsch in dieser Angelegenheit
+          stattfanden, wurde dieser Standpunkt festgehalten. Es wurde dem Abgeordneten <persName
+            key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_321">Dr.
+            v. Derschatta</persName> nicht zugemutet, irgend eine Verantwortlichkeit namens der
+          deutschen Parteien einzugehen oder irgend eine Verantwortung gegenüber seinen czechischen
+          Zukunftskollegen zu übernehmen. Obwohl in diesen Konferenzen nationale Streitfragen, die
+          im Vordergrund der Diskussion stehen, erörtert wurden, hat Abgeordneter <persName
+            key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_322">Dr.
+            v. Derschatta</persName> dennoch in keinem Punkte irgend eine Zusage abgegeben, auf
+          welche man sich von anderer See in der Zukunft berufen könnte. In der mährischen
+          Universitätsfrage, in der Sprachenfrage und in anderen zur Besprechung gekommenen
+          nationalen Angelegenheiten hat sich Abgeordneter <persName key="DerschattaJulius"
+            ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_323">Dr. v. Derschatta</persName>
+          genau auf jener Linie gehalten, auf welcher sich die deutschen Parteien bisher bewegt
+          haben. Er übernimmt bei seinem eventuellen Eintritt ins Kabinett kein ihn irgendwie
+          belastendes <pb facs="#F_K-5_Bae_TB_8-012" n="13v" xml:id="Bae_TB_8_324"/>
           <note type="editorial" xml:id="Bae_TB_8_325">Hier finden sich Ergänzungen, Korrekturen
             oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im
             Tagebuch oder im Manuskript Fragmente.</note>
@@ -1531,7 +1530,8 @@
               Baernreither irrigerweise an dieser Stelle vermerkt.</note>
           </p>
         </div>
-        <div n="1906-04-21" type="diary-entry" xml:id="Bae_TB_8_640">
+        <div type="diaryEntry" xml:id="Bae_TB_8_640">
+          <head><date when="1906-04-21"/></head>
           <head xml:id="Bae_TB_8_641">
             <anchor xml:id="Bae_TB_8_1717"/>
             <hi rend="#ul" xml:id="Bae_TB_8_642">Sancta Simplicitas!</hi>
@@ -1862,7 +1862,8 @@
             </app>
           </p>
         </div>
-        <div n="1906-05-04" type="diary-entry" xml:id="Bae_TB_8_761">
+        <div type="diaryEntry" xml:id="Bae_TB_8_761">
+          <head><date when="1906-05-04"/></head>
           <p xml:id="Bae_TB_8_762">
             <anchor xml:id="Bae_TB_8_1779"/>Positivismus in der Politik! Das fehlt uns seit <app
               from="#Bae_MF_6-2_1826" type="equal" xml:id="Bae_TB_8_1780">
@@ -1930,7 +1931,8 @@
             </app>
           </p>
         </div>
-        <div n="1906-05-06" type="diary-entry" xml:id="Bae_TB_8_788">
+        <div type="diaryEntry" xml:id="Bae_TB_8_788">
+          <head><date when="1906-05-06"/></head>
           <p xml:id="Bae_TB_8_789">
             <pb facs="#F_K-5_Bae_TB_8-022" n="23v" xml:id="Bae_TB_8_790"/>
             <note type="editorial" xml:id="Bae_TB_8_791">Diese Seite ist leer.</note>
@@ -2055,7 +2057,8 @@
           Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder
           im Manuskript Fragmente.</note>
         <pb facs="#F_K-5_Bae_TB_8-023" n="25v" xml:id="Bae_TB_8_815"/>
-        <div n="1906–06-06" type="diary-entry" xml:id="Bae_TB_8_816">
+        <div type="diaryEntry" xml:id="Bae_TB_8_816">
+          <head><date when="1906–06-06"/></head>
           <head xml:id="Bae_TB_8_817">
             <hi rend="#ul" xml:id="Bae_TB_8_818">Von <persName key="HohenloheKonrad"
                 ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_819">Hohenlohe</persName> bis
@@ -2302,8 +2305,11 @@
               ref="https://d-nb.info/gnd/118934481" xml:id="Bae_TB_8_925">Daszyński</persName>
             bekommen? </p>
           <p xml:id="Bae_TB_8_926">Alles Schöne, aufrichtig ergeben,</p>
-          <p xml:id="Bae_TB_8_927">O. <persName key="CzerninOttokar"
-              ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_8_928">Czernin</persName>
+          <p xml:id="Bae_TB_8_927"><persName key="CzerninOttokar"
+              ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_8_928"><choice>
+                <abbr>O.</abbr>
+                <expan>Ottokar</expan>
+              </choice> Czernin</persName>
             <app from="#Bae_MF_6-2_1242" type="notEqual" xml:id="Bae_TB_8_929">
               <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_930">Der Schluss, den Czernin in diesem Briefe
                 aus der Audienz Coudenhoves zieht, ist, wie es sich bald herausstellte, voreilig
@@ -2315,7 +2321,8 @@
           </p>
           <anchor xml:id="Bae_TB_8_931"/>
         </div>
-        <div n="1906-06-17" type="diary-entry" xml:id="Bae_TB_8_932">
+        <div type="diaryEntry" xml:id="Bae_TB_8_932">
+          <head><date when="1906-06-17"/></head>
           <p xml:id="Bae_TB_8_933">
             <pb facs="#F_K-5_Bae_TB_8-025" n="26v" xml:id="Bae_TB_8_934"/>
             <note type="editorial" xml:id="Bae_TB_8_935">Diese Seite ist leer.</note>
@@ -2440,7 +2447,8 @@
             </app>
           </p>
         </div>
-        <div n="1906-06-19" type="diary-entry" xml:id="Bae_TB_8_975">
+        <div type="diaryEntry" xml:id="Bae_TB_8_975">
+          <head><date when="1906-06-19"/></head>
           <anchor xml:id="Bae_TB_8_976"/>
           <p xml:id="Bae_TB_8_977">Will nicht jeden Tratsch registrieren. <persName key="UrbanKarl"
               ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_8_978">Urban</persName> aber
@@ -2479,7 +2487,8 @@
           Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder
           im Manuskript Fragmente.</note>
         <pb facs="#F_K-5_Bae_TB_8-027" n="29v" xml:id="Bae_TB_8_996"/>
-        <div n="1906-06-27" type="diary-entry" xml:id="Bae_TB_8_997">
+        <div type="diaryEntry" xml:id="Bae_TB_8_997">
+          <head><date when="1906-06-27"/></head>
           <anchor xml:id="Bae_TB_8_998"/>
           <head xml:id="Bae_TB_8_999">
             <hi rend="#ul" xml:id="Bae_TB_8_1000">Aus dem <orgName key="Wahlreformausschuss"
@@ -2758,7 +2767,8 @@
             </app>
           </p>
         </div>
-        <div n="1906-06-29" type="diary-entry" xml:id="Bae_TB_8_1096">
+        <div type="diaryEntry" xml:id="Bae_TB_8_1096">
+          <head><date when="1906-06-29"/></head>
           <anchor xml:id="Bae_TB_8_1097"/>
           <p xml:id="Bae_TB_8_1098">Gestern hat <persName key="SteinFranko"
               ref="https://d-nb.info/gnd/129277169" xml:id="Bae_TB_8_1099">Franko Stein</persName>
@@ -3177,7 +3187,8 @@
           <pb facs="#F_K-5_Bae_TB_8-036" n="37v" xml:id="Bae_TB_8_1231"/>
           <note type="editorial" xml:id="Bae_TB_8_1232">Diese Seite ist leer.</note>
         </div>
-        <div n="1906-07-30" type="diary-entry" xml:id="Bae_TB_8_1233">
+        <div type="diaryEntry" xml:id="Bae_TB_8_1233">
+          <head><date when="1906-07-30"/></head>
           <p xml:id="Bae_TB_8_1234">
             <pb facs="#F_K-5_Bae_TB_8-036" n="38r" xml:id="Bae_TB_8_1235"/>
             <anchor xml:id="Bae_TB_8_1236"/>

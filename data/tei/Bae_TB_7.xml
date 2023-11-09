@@ -83,7 +83,8 @@
   <text xml:id="Bae_TB_7_50">
     <body xml:id="Bae_TB_7_51">
       <pb facs="#F_K-4_Bae_TB_7-099" n="1r" xml:id="Bae_TB_7_52"/>
-      <div n="1904-12-07" type="diary-entry" xml:id="Bae_TB_7_53">
+      <div type="diaryEntry" xml:id="Bae_TB_7_53">
+        <head><date when="1904-12-07"/></head>
         <p xml:id="Bae_TB_7_54">
           <anchor xml:id="Bae_TB_7_2060"/>Meine Rede im <orgName key="Budgetausschuss"
             ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_TB_7_55">Budgetausschuss</orgName> am
@@ -690,7 +691,8 @@
       <note type="editorial" xml:id="Bae_TB_7_2074">Diese Seite ist leer.</note>
       <pb facs="#F_K-4_Bae_TB_7-103" n="5r" xml:id="Bae_TB_7_342"/>
       <addSpan spanTo="#Bae_TB_7_2076" type="insertion" xml:id="Bae_TB_7_2075"/>
-      <div n="1904-11-19" type="diary-entry" xml:id="Bae_TB_7_343">
+      <div type="diaryEntry" xml:id="Bae_TB_7_343">
+        <head><date when="1904-11-19"/></head>
         <p xml:id="Bae_TB_7_344">Resumé der am <date when="1904-11-19" xml:id="Bae_TB_7_345">19.
             November 1904</date> abgehaltenen Besprechung. <add place="across" xml:id="Bae_TB_7_346"
             >Die vorletzte Besprechung des <index xml:id="Bae_TB_7_347">
@@ -1640,7 +1642,8 @@
       <!-- Korrektur mit Bleistift siehe MF -->
       <pb facs="#F_K-4_Bae_TB_7-125" n="26r" xml:id="Bae_TB_7_767"/>
       <!-- Korrektur mit Bleistift siehe MF -->
-      <div n="1904-12-31" type="diary-entry" xml:id="Bae_TB_7_768">
+      <div type="diaryEntry" xml:id="Bae_TB_7_768">
+        <head><date when="1904-12-31"/></head>
         <head xml:id="Bae_TB_7_769">Finis</head>
         <p xml:id="Bae_TB_7_770">Die sofortige Vertagung des <orgName
             key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus" xml:id="Bae_TB_7_771"
@@ -2009,7 +2012,8 @@
           großen Beifall. Doch habe ich ja davon schon in diesen Büchern am <date when="1904-12-31"
             xml:id="Bae_TB_7_925">Silvesterabend 1904</date> geschrieben. </p>
       </div>
-      <div n="1905-07" type="diary-entry" xml:id="Bae_TB_7_926">
+      <div type="diaryEntry" xml:id="Bae_TB_7_926">
+        <head><date when="1905-07"/></head>
         <head xml:id="Bae_TB_7_927">Die Flitterwochen <persName key="GautschPaul"
             ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_7_928">Gautsch</persName>
         </head>
@@ -2639,7 +2643,8 @@
         </p>
         <anchor xml:id="Bae_TB_7_2128"/>
       </div>
-      <div n="1905-09-05" type="diary-entry" xml:id="Bae_TB_7_1193">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1193">
+        <head><date when="1905-09-05"/></head>
         <addSpan spanTo="Bae_TB_7_2206" type="insertion" xml:id="Bae_TB_7_2129"/>
         <p xml:id="Bae_TB_7_1194">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
@@ -3007,7 +3012,8 @@
             ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_TB_7_1365">Goluchowski</persName>
           auseinandergesetzt würden. </p>
       </div>
-      <div n="1905-09-06" type="diary-entry" xml:id="Bae_TB_7_1366">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1366">
+        <head><date when="1905-09-06"/></head>
         <p xml:id="Bae_TB_7_1367">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
             xml:id="Bae_TB_7_1368">Budapest</placeName>
@@ -3142,7 +3148,8 @@
             ref="https://d-nb.info/gnd/124554865" xml:id="Bae_TB_7_1426">Kristoffy</persName>'s die
           Frage zu lancieren glaubt er nicht. </p>
       </div>
-      <div n="1905-09-07" type="diary-entry" xml:id="Bae_TB_7_1427">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1427">
+        <head><date when="1905-09-07"/></head>
         <p xml:id="Bae_TB_7_1428">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
             xml:id="Bae_TB_7_1429">Budapest</placeName>
@@ -3428,7 +3435,8 @@
           Einige <pb facs="#F_K-4_Bae_TB_7-172" n="71r" xml:id="Bae_TB_7_1542"/>Abgeordnete
           erschienen als Zuseher für kurze Zeit auf der Gallerie. </p>
       </div>
-      <div n="1905-09-08" type="diary-entry" xml:id="Bae_TB_7_1543">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1543">
+        <head><date when="1905-09-08"/></head>
         <p xml:id="Bae_TB_7_1544">
           <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html"
             xml:id="Bae_TB_7_1545">Agram</placeName>
@@ -3546,7 +3554,8 @@
         <pb facs="#F_K-4_Bae_TB_7-" n="73v" xml:id="Bae_TB_7_2176"/>
         <note type="editorial" xml:id="Bae_TB_7_2177">Diese Seite ist leer.</note>
       </div>
-      <div n="1905-09-09" type="diary-entry" xml:id="Bae_TB_7_1589">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1589">
+        <head><date when="1905-09-09"/></head>
         <pb facs="#F_K-4_Bae_TB_7-174" n="74r" xml:id="Bae_TB_7_1590"/>
         <p xml:id="Bae_TB_7_1591">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
@@ -3703,7 +3712,8 @@
         <note type="editorial" xml:id="Bae_TB_7_2187">Diese Seite ist leer.</note>
       </div>
       <pb facs="#F_K-4_Bae_TB_7-179" n="79r" xml:id="Bae_TB_7_1655"/>
-      <div n="1905-09-10" type="diary-entry" xml:id="Bae_TB_7_1656">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1656">
+        <head><date when="1905-09-10"/></head>
         <p xml:id="Bae_TB_7_1657">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
             xml:id="Bae_TB_7_1658">Wien</placeName> am <date when="1905-09-10"
@@ -3900,7 +3910,8 @@
         <p xml:id="Bae_TB_7_1743">An eine Zolltrennung vor 1917 (dem Ablauftermin des Vertrages mit
           Deutschland) ist nicht zu denken. Die Verträge halten uns notwendigerweise zusammen.</p>
       </div>
-      <div n="1905-10-10" type="diary-entry" xml:id="Bae_TB_7_1744">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1744">
+        <head><date when="1905-10-10"/></head>
         <p xml:id="Bae_TB_7_1745">
           <placeName key="Bozen" ref="https://www.geonames.org/6535953/bolzano-bozen.html"
             xml:id="Bae_TB_7_1746">Bozen</placeName>
@@ -3995,7 +4006,8 @@
             ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_7_1779">Krone</persName> beurteilt
           werden. </p>
       </div>
-      <div n="1905-12-02" type="diary-entry" xml:id="Bae_TB_7_1780">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1780">
+        <head><date when="1905-12-02"/></head>
         <p xml:id="Bae_TB_7_1781">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
             xml:id="Bae_TB_7_1782">Wien</placeName> am <date when="1905-12-02"
@@ -4105,7 +4117,8 @@
           Landtagsmitglieder gesandte Bericht Nachricht. </p>
         <note type="editorial" xml:id="Bae_TB_7_1829">Der Brief liegt nicht bei</note>
       </div>
-      <div n="1905-11-08" type="diary-entry" xml:id="Bae_TB_7_1830">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1830">
+        <head><date when="1905-11-08"/></head>
         <addSpan spanTo="#Bae_TB_7_2227" type="insertion" xml:id="Bae_TB_7_2207"/>
         <p xml:id="Bae_TB_7_1831">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
@@ -4688,7 +4701,8 @@
         <anchor xml:id="Bae_TB_7_2236"/>
         <!-- Ende des eingeklebten Arikels -->
       </div>
-      <div n="1906-01-01" type="diary-entry" xml:id="Bae_TB_7_2047">
+      <div type="diaryEntry" xml:id="Bae_TB_7_2047">
+        <head><date when="1906-01-01"/></head>
         <pb facs="#F_K-4_Bae_TB_7-202" n="101r" xml:id="Bae_TB_7_2048"/>
         <p xml:id="Bae_TB_7_2049">
           <hi rend="ul" xml:id="Bae_TB_7_2050">Bonmots</hi>
