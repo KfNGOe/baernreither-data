@@ -566,7 +566,7 @@
           die Aktivirung ohne <placeName key="Eipel"
             ref="https://www.geonames.org/11926030/mnichov.html" xml:id="Bae_TB_8_256"
             >Eipel</placeName> , <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318"
-            xml:id="Bae_TB_8_257">Pacák</persName> wollte sie nur mit <placeName key="eipel"
+            xml:id="Bae_TB_8_257">Pacák</persName> wollte sie nur mit <placeName key="Eipel"
             ref="https://www.geonames.org/11926030/mnichov.html" xml:id="Bae_TB_8_258"
             >Eipel</placeName> zugestehen. Keine Einigung, wurde von der Tagesordnung abgesetzt. 2)
           Verordnung, welche bestimmen soll dass in <placeName key="Boehmen"
@@ -589,7 +589,7 @@
           sofort, dass er es ohne dieselbe nicht machen könne. 5) Verstaatlichungen der Eisenbahnen.
             <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672"
             xml:id="Bae_TB_8_269">Prade</persName> verlangt zwei Direktionen in <placeName
-            key="Deutschboehmen" xml:id="Bae_TB_8_270">Deutschböhmen</placeName>, was <persName
+              key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_8_270">Deutschböhmen</placeName>, was <persName
             key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_8_271"
             >Pacák</persName> zusagt. </p>
         <p xml:id="Bae_TB_8_272">
@@ -1521,7 +1521,7 @@
           </p>
           <p xml:id="Bae_TB_8_635">
             <ref type="editorialNote" corresp="#Bae_TB_8_639" xml:id="Bae_TB_8_636">
-              <placeName key="Lünz" ref="https://www.geonames.org/3070490/mlynce.html"
+              <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
                 xml:id="Bae_TB_8_637">Lünz</placeName> am <date when="1906-05-04"
                 xml:id="Bae_TB_8_638">4.5.1906</date>
             </ref>
