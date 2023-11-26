@@ -1043,9 +1043,10 @@
           die größ <pb facs="#F_K-4_Bae_TB_7-111" n="12r" xml:id="Bae_TB_7_508"/>ten Anstrengungen,
           um Beamte für <placeName key="Dalmatien"
             ref="https://www.geonames.org/3202210/dalmatia.html" xml:id="Bae_TB_7_509"
-            >Dalmatien</placeName> und die <placeName key="Kuestenlaender" xml:id="Bae_TB_7_510"
-            >Küstenländer</placeName> zu gewinnen. Es sei diesbezüglich an sämtliche Statthaltereien
-          und an das Oberlandesgerichts-Präsidium in <placeName key="Zara"
+            >Dalmatien</placeName> und die <placeName key="Kuestenland"
+            ref="https://d-nb.info/gnd/4398117-3" xml:id="Bae_TB_7_510">Küstenländer</placeName> zu
+          gewinnen. Es sei diesbezüglich an sämtliche Statthaltereien und an das
+          Oberlandesgerichts-Präsidium in <placeName key="Zara"
             ref="https://www.geonames.org/11055010/zadar.html" xml:id="Bae_TB_7_511"
             >Zara</placeName> ein Erlaß gerichtet worden und es wurden den Beamten gewisse
           Benefizien zugewendet; man habe sich auch an die Rektorate gewendet, um junge Leute zu
@@ -1059,9 +1060,10 @@
             >Agram</placeName> ausgebildeten Juristen eingeführt. Es bestehe die Absicht, diesen
           Erlaß nur auf <placeName key="Dalmatien"
             ref="https://www.geonames.org/3202210/dalmatia.html" xml:id="Bae_TB_7_514"
-            >Dalmatien</placeName> und die <placeName key="Kuestenlaender" xml:id="Bae_TB_7_515"
-            >Küstenländer</placeName> auszudehnen, wo eben die Kenntnis des Kroatischen notwendig
-          ist; Besorgnisse für andere Verwaltungsbezirke seien nicht begründet. </p>
+            >Dalmatien</placeName> und die <placeName key="Kuestenland"
+            ref="https://d-nb.info/gnd/4398117-3" xml:id="Bae_TB_7_515">Küstenländer</placeName>
+          auszudehnen, wo eben die Kenntnis des Kroatischen notwendig ist; Besorgnisse für andere
+          Verwaltungsbezirke seien nicht begründet. </p>
         <pb facs="#F_K-4_Bae_TB_7-112" n="12v" xml:id="Bae_TB_7_516"/>
         <p xml:id="Bae_TB_7_517">
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
@@ -1082,9 +1084,9 @@
           >Ministerpräsident</persName>: Dieser Erlaß ist nur bestimmt für Kroaten und die
           kroatische Sprache und soll nur den Ausfall an Beamten in <placeName key="Dalmatien"
             ref="https://www.geonames.org/3202210/dalmatia.html" xml:id="Bae_TB_7_526"
-            >Dalmatien</placeName> und in den <placeName key="Kuestenlaender" xml:id="Bae_TB_7_527"
-            >Küstenländern</placeName> decken; die Betreffenden werden eben wo anders nicht genommen
-          werden. </p>
+            >Dalmatien</placeName> und in den <placeName key="Kuestenland"
+            ref="https://d-nb.info/gnd/4398117-3" xml:id="Bae_TB_7_527">Küstenländern</placeName>
+          decken; die Betreffenden werden eben wo anders nicht genommen werden. </p>
         <p xml:id="Bae_TB_7_528">
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
             xml:id="Bae_TB_7_529">Dr. von Derschatta</persName> macht geltend, daß die Frage so zu
@@ -1097,8 +1099,9 @@
             ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_7_533">Ministerpräsident</persName>
           beharrt darauf, daß das Anwendungsgebiet des Erlasses nur <placeName key="Dalmatien"
             ref="https://www.geonames.org/3202210/dalmatia.html" xml:id="Bae_TB_7_534"
-            >Dalmatien</placeName> und die <placeName key="Kuestenlaender" xml:id="Bae_TB_7_535"
-            >Küstenländer</placeName> seien. </p>
+            >Dalmatien</placeName> und die <placeName key="Kuestenland"
+            ref="https://d-nb.info/gnd/4398117-3" xml:id="Bae_TB_7_535">Küstenländer</placeName>
+          seien. </p>
         <p xml:id="Bae_TB_7_536">
           <persName key="GroßGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_7_537">Dr.
             Groß</persName>: die erwähnte Ergänzungsprüfung vor einer Staatsprüfungskommission ist
@@ -1415,7 +1418,7 @@
             <term key="Foederalismus" xml:id="Bae_TB_7_666">Föderalismus</term>
           </index> ein. Wenn die Deutschen in der Majorität sind, stellen sie andere Prinzipien auf
           als dort, wo sie in der Minorität sind. Als die Regierung vor zwei Jahren bemüht war, in
-            <placeName key="Tirol" ref="https://www.geonames.org/2763586/tirol.html"
+          <placeName key="Tirol" ref="https://www.geonames.org/2763587/tyrol.html"
             xml:id="Bae_TB_7_667">Tirol</placeName> das <index xml:id="Bae_TB_7_668">
             <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_7_669">Autonomieprojekt</term>
           </index> durchzubringen, sei man von deutscher Seite heftig dagegen aufgetreten und habe
@@ -3524,13 +3527,14 @@
             n="73r" xml:id="Bae_TB_7_1580"/>trägt wird nicht aufgelassen. Von Industrie allerdings
           erst Anfänge. Aber am heutigen Feiertag sah man in den Strassen u. in den wunderschönen
           Anlagen in der Umgebung der Stadt, insbes. in <placeName key="Maximir"
-            xml:id="Bae_TB_7_1581">Maximir</placeName> eine wohlgebildete bürgerlich sehr gut
-          aussehende Bevölkerung. Die Landbevölkerung allerdings noch voll äusserlicher Frömmigkeit.
-          Landleute, blossfüssig mit Bündeln u. Körben deponiren diese am Eingang des Domes u. knien
-          sich betend nach einander vor alle Altäre. Küssen den Altar, bekreuzigen zuerst das
-          Altartuch, dann sich selbst. Boden u. Klima würden die Ausdehnung der Obst u. Seidenzucht
-          erlauben. Die letztere ist aber ganz unpopulär geworden, weil sie von <placeName
-            key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1582"
+            ref="https://www.geonames.org/3195878/maksimir.html" xml:id="Bae_TB_7_1581"
+            >Maximir</placeName> eine wohlgebildete bürgerlich sehr gut aussehende Bevölkerung. Die
+          Landbevölkerung allerdings noch voll äusserlicher Frömmigkeit. Landleute, blossfüssig mit
+          Bündeln u. Körben deponiren diese am Eingang des Domes u. knien sich betend nach einander
+          vor alle Altäre. Küssen den Altar, bekreuzigen zuerst das Altartuch, dann sich selbst.
+          Boden u. Klima würden die Ausdehnung der Obst u. Seidenzucht erlauben. Die letztere ist
+          aber ganz unpopulär geworden, weil sie von <placeName key="Ungarn"
+            ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1582"
             >Ungarn</placeName> aus durch die Bemühungen des bekannten <persName key="Bezeredy"
             xml:id="Bae_TB_7_1583">Bezeredy</persName> gefördert wurde u. weil man zwar den Ankauf
           der Cocons in <placeName key="Kroatien"
@@ -4284,15 +4288,16 @@
             xml:id="Bae_TB_7_2221"/>
           <note type="editorial" xml:id="Bae_TB_7_2222">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_7-197" n="96r" xml:id="Bae_TB_7_1906"/>einen grossen Teil ihrer
-          Mandate; <placeName key="Ostschlesien" xml:id="Bae_TB_7_1907">Ostschlesien</placeName>
-          geht ganz verloren; 1/3 der Kärnthner Abgeordneten werden Slovenen. Die Deutschen werden –
-          wenn nicht wesentliche Einschränkungen am allgem. Stimmrecht gemacht werden – nicht einmal
-          so viele Abgeordnete behalten als ihnen im Verhältniss ihrer Gesamtzahl zukommen würden,
-          weil ihre Minoritäten in <placeName key="Krain"
-            ref="https://www.geonames.org/3197905/kokra.html" xml:id="Bae_TB_7_1908"
-            >Krain</placeName>, <placeName key="Kuestenlaender" xml:id="Bae_TB_7_1909"
-            >Küstenland</placeName>, <placeName key="Ostschlesien" xml:id="Bae_TB_7_1910"
-            >Ostschlesien</placeName> ganz – in <placeName key="Maehren"
+          Mandate; <placeName key="Ostschlesien" ref="https://d-nb.info/gnd/4280197-7"
+            xml:id="Bae_TB_7_1907">Ostschlesien</placeName> geht ganz verloren; 1/3 der Kärnthner
+          Abgeordneten werden Slovenen. Die Deutschen werden – wenn nicht wesentliche
+          Einschränkungen am allgem. Stimmrecht gemacht werden – nicht einmal so viele Abgeordnete
+          behalten als ihnen im Verhältniss ihrer Gesamtzahl zukommen würden, weil ihre Minoritäten
+          in <placeName key="Krain" ref="https://www.geonames.org/3197905/kokra.html"
+            xml:id="Bae_TB_7_1908">Krain</placeName>, <placeName key="Kuestenland"
+            ref="https://d-nb.info/gnd/4398117-3" xml:id="Bae_TB_7_1909">Küstenland</placeName>,
+            <placeName key="Ostschlesien" ref="https://d-nb.info/gnd/4280197-7"
+            xml:id="Bae_TB_7_1910">Ostschlesien</placeName> ganz – in <placeName key="Maehren"
             ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_7_1911"
             >Mähren</placeName>, <placeName key="Steiermark"
             ref="https://www.geonames.org/2764581/steiermark.html" xml:id="Bae_TB_7_1912"
