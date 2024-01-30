@@ -3453,11 +3453,11 @@
               unüberwindlicher Widerstand, so wurde nicht abgestimmt, sondern die Post für die
               zweite Lesung des Tarifes zurückgestellt.</rdg>
           </app>
-          <!-- CA: bis hier Textvergleich -->Der <orgName key="Zollausschuss" xml:id="Bae_TB_7_1060"
-            >Ausschuss</orgName> war willig, ich bereitete jede Sitzung durch unermüdliche
-          Conferenzen mit den einzelnen maasgebenden Persönlichkeiten, insbes. den deutschen und
-          czechischen Agrariern vor, ich instruierte die Regierungsvertreter, ausgezeichnete Beamte,
-          wenn sie reden o. schweigen sollten <choice xml:id="Bae_TB_7_2495">
+          <anchor/>Der <orgName key="Zollausschuss" xml:id="Bae_TB_7_1060">Ausschuss</orgName> war
+          willig, ich bereitete jede Sitzung durch unermüdliche Conferenzen mit den einzelnen
+          maasgebenden Persönlichkeiten, insbes. den deutschen und czechischen Agrariern vor, ich
+          instruierte die Regierungsvertreter, ausgezeichnete Beamte, wenn sie reden o. schweigen
+          sollten <choice xml:id="Bae_TB_7_2495">
             <abbr xml:id="Bae_TB_7_2496">u.</abbr>
             <expan xml:id="Bae_TB_7_2497">und</expan>
           </choice> auch die Minister fügten sich völlig in meine Anordnungen <choice
@@ -3488,19 +3488,50 @@
             <abbr xml:id="Bae_TB_7_2514">u.</abbr>
             <expan xml:id="Bae_TB_7_2515">und</expan>
           </choice> das letztere eigentlich niemand will – belebte ich selbst die Debatte wieder,
-          nur damit der Ausschuss nicht das Gefül bekomme, er werde vom Vorsitzenden unwiderstehlich
-          mitgerissen. Gerade deswegen war auch mein Einfluss im Ausschusse ein unbedingter <choice
-            xml:id="Bae_TB_7_2516">
+            <app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Der Ausschuß war willig, ich bereitete jede Sitzung unermüdlich
+              durch Konferenzen mit den einzelnen maßgebenden Persönlichkeiten vor, insbesondere mit
+              den deutschen und tschechischen Agrariern; ich instruierte die Regierungsvertreter,
+              ausgezeichnete Beamte, wann sie reden oder schweigen sollten, und auch die Minister
+              fügten sich meiner Taktik im Ausschusse. In Sachen des Zolltarifs und der
+              Handelsverträge war ich in der Tat Regierung, Ausschussobmann und Referent in einer
+              Person. Trotzdem trat ich so wenig als möglich hervor, sondern brachte Anträge und
+              Anregungen immer durch andere. Das eine oder andere Mal, wenn die Debatte im
+              Ausschusse zusammenzubrechen drohte, wie das manchmal geschieht, wenn etwas
+              unabänderlich ist und nur zum Annehmen oder Ablehnen und das Letztere eigentlich
+              niemand will – belebte ich selbst die Debatte wieder</rdg>
+          </app><anchor/><app from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1">und erhob Bedenken,</rdg>
+          </app>
+          <anchor/>nur damit der Ausschuss nicht das Gefül bekomme, er werde vom Vorsitzenden
+          unwiderstehlich mitgerissen. Gerade deswegen war auch mein Einfluss im Ausschusse ein
+          unbedingter <choice xml:id="Bae_TB_7_2516">
             <abbr xml:id="Bae_TB_7_2517">u.</abbr>
             <expan xml:id="Bae_TB_7_2518">und</expan>
-          </choice> da doch immer geschah, was ich wollte, so war ich bezüglich der Redefreiheit
-            <choice xml:id="Bae_TB_7_2519">
+          </choice> da doch<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">nur damit der Ausschuß nicht das Gefühl bekomme, er werde vom
+              Vorsitzenden unwiderstehlich mitgerissen. Gerade deswegen war auch mein Einfluss im
+              Ausschusse ein unbedingter, und da doch</rdg>
+          </app>
+          <anchor/><app from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1">zuletzt</rdg>
+          </app>
+          <anchor/>immer geschah, was ich wollte, so war ich bezüglich der Redefreiheit <choice
+            xml:id="Bae_TB_7_2519">
             <abbr xml:id="Bae_TB_7_2520">u.</abbr>
             <expan xml:id="Bae_TB_7_2521">und</expan>
           </choice> aller geäusserten Wünsche der Mitglieder so freigebig als möglich. Niemand
-          fühlte sich bedrückt o. eingeengt. Wenn jemand etwas vorbrachte was eigentlich ein Unsinn
-          war, worauf der Betreffende aber stolz war machte ich wohl ex praesidio die Bemerkung, die
-          Anregung sei sehr wichtig <choice xml:id="Bae_TB_7_2522">
+          fühlte sich bedrückt o. eingeengt. Wenn jemand<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">zuletzt immer geschah, was ich wollte, so war ich bezüglich der
+              Redefreiheit und aller geäußerten Wünsche der Mitglieder so freigebig als möglich.
+              Niemand fühlte sich bedrückt oder eingeengt. Wenn jemand</rdg>
+          </app>
+          <anchor/>etwas vorbrachte was eigentlich ein Unsinn war, worauf der Betreffende<app
+            from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">einen Unsinn vorbrachte, auf den er aber</rdg>
+          </app>
+          <anchor/>aber stolz war machte ich wohl ex praesidio die Bemerkung, die Anregung sei sehr
+          wichtig <choice xml:id="Bae_TB_7_2522">
             <abbr xml:id="Bae_TB_7_2523">u.</abbr>
             <expan xml:id="Bae_TB_7_2524">und</expan>
           </choice> sprach die Hoffnung aus, dass man sich darüber aussprechen werde. Aber gerade
@@ -3523,12 +3554,36 @@
           doch so gründlich <choice xml:id="Bae_TB_7_2528">
             <abbr xml:id="Bae_TB_7_2529">u.</abbr>
             <expan xml:id="Bae_TB_7_2530">und</expan>
-          </choice> unwiderleglich <add place="across" xml:id="Bae_TB_7_1065">als möglich</add>
-          Vortrag den ich den Herrn "zur Erwägung" gab. Damit waren gewönlich die Schwierigkeiten
-          aus dem Wege geräumt. <!-- Ergänzung bzw Korrektur siehe MF --> So wie ich es seinerzeit
-          bei der <index xml:id="Bae_TB_7_1066">
+          </choice> unwiderleglich <app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">aber stolz war, machte ich wohl ex praesidio die Bemerkung, die
+              Anregung sei sehr wichtig, und sprach die Hoffnung aus, daß man sich darüber
+              aussprechen werde. Aber gerade weil die Schleuse aufgezogen war, verlief das Wasser
+              sehr rasch, das sich sonst gestaut hätte. Freilich, unbedingte Voraussetzung dieser
+              Methode ist die materielle Beherrschung des ganzen Beratungsstoffes durch den
+              Vorsitzenden. Ich habe immer damit begonnen, dem Ausschuß Vorschläge über die
+              Behandlung des Stoffes zu machen, und habe von vornherein den Mitgliedern beigebracht,
+              daß ich diesen Stoff vollkommen beherrsche. Wenn irgend jemand sich irrte oder
+              böswillig irgendeine Bestimmung der Vorlage benützen wollte, um Schwierigkeiten zu
+              machen, ließ ich mir nie etwas merken, sondern hielt über den betreffenden Gegenstand,
+              so wenig aufdringlich als möglich, aber doch so gründlich und unwiderleglich</rdg>
+          </app>
+          <anchor/><add place="across" xml:id="Bae_TB_7_1065">als möglich</add><app
+            from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">als ich es imstande war einen</rdg>
+          </app>
+          <anchor/>Vortrag den ich den Herrn "zur Erwägung" gab. Damit waren gewönlich die
+          Schwierigkeiten aus dem Wege geräumt.<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Vortrag, den ich den Herren "zur Erwägung" gab. Damit waren
+              gewöhnlich die Schwierigkeiten aus dem Wege geräumt.</rdg>
+          </app>
+          <anchor/>So wie ich es seinerzeit bei der <index xml:id="Bae_TB_7_1066">
             <term key="Zivilprozessordnung" xml:id="Bae_TB_7_1067">Civilprozessordnung</term>
-          </index> gemacht hatte, entwarf ich vor wichtigen <choice xml:id="Bae_TB_7_2531">
+          </index> gemacht hatte, entwarf ich <app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Mit einem Wort, ich wendete meine alte bewährte Methode an, die
+              sich seinerzeit bei der Beratung der Zivilprozessordnung so gut bewährt hatte. Ich
+              entwarf</rdg>
+          </app>
+          <anchor/>vor wichtigen <choice xml:id="Bae_TB_7_2531">
             <abbr xml:id="Bae_TB_7_2532">u.</abbr>
             <expan xml:id="Bae_TB_7_2533">und</expan>
           </choice> schwierigen Partien "ein Bild" des Gegenstandes, d. h. ich erzählte zunächst das
@@ -3544,30 +3599,66 @@
             xml:id="Bae_TB_7_2540">
             <abbr xml:id="Bae_TB_7_2541">u.</abbr>
             <expan xml:id="Bae_TB_7_2542">und</expan>
-          </choice> alle vorgängigen Besprechungen leiten, ich arbeitete o. amendierte auch
-          gestellte Anträge <choice xml:id="Bae_TB_7_2543">
+          </choice> alle vorgängigen Besprechungen leiten, ich arbeitete <choice>
+            <abbr>o.</abbr>
+            <expan>oder</expan>
+          </choice> amendierte auch gestellte Anträge <choice xml:id="Bae_TB_7_2543">
             <abbr xml:id="Bae_TB_7_2544">u.</abbr>
             <expan xml:id="Bae_TB_7_2545">und</expan>
-          </choice> wurde schließlich für die Vorlagen zum Berichterstatter gewählt und hatte den
-          Bericht zu arbeiten. <addSpan spanTo="#Bae_TB_7_2114" type="insert" xml:id="Bae_TB_7_2108"
-          /> und im <orgName key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus"
-            xml:id="Bae_TB_7_2110">Hause</orgName> zu vertreten. Ich muss gestehen, dass ich dabei
-          aus politischen Gründen eine große Selbstverleugnung dadurch geübt habe, dass ich
-          Zolltarif und Handelsvertrag im <orgName key="https://d-nb.info/gnd/41998-9"
-            ref="Abgeordnetenhaus" xml:id="Bae_TB_7_2111">Hause</orgName> durchgebracht habe. Gegen
-          die Eisenzölle ist vieles einzuwenden und ihre Ablehnung konnte ich nur mit Mühe
-          verhindern. Aber unser wirtschaftlicher Ausgleich mit Ungarn ist so gefärdet, dass es
-          darauf ankommt durch den gemeinsamen Tarif <choice xml:id="Bae_TB_7_2546">
+          </choice> wurde schließlich für die Vorlagen<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">wichtigen und schwierigen Partien "ein Bild" des Gegenstandes, d.
+              h. ich erzählte zunächst das Tatsächliche – war das schon vielen etwas Neues! – dann
+              kamen die Gründe pro und contra und schließlich das Conclusum, das mir in der
+              Abstimmung in der Regel sicher war. Aber es war sehr viel Arbeit dabei, denn ich
+              musste nicht nur den Ausschuss und alle vorgängigen Besprechungen leiten, ich
+              arbeitete oder amendierte auch gestellte Anträge und wurde schließlich für die
+              Vorlagen</rdg>
+          </app>
+          <anchor/><app from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1">(Zolltarif, Handelsvertrag mit Deutschland)</rdg>
+          </app>
+          <anchor/>zum Berichterstatter gewählt<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">zum Berichterstatter gewählt.</rdg>
+          </app>
+          <anchor/>und hatte den Bericht zu arbeiten <addSpan spanTo="#Bae_TB_7_2114" type="insert"
+            xml:id="Bae_TB_7_2108"/> und im <orgName key="https://d-nb.info/gnd/41998-9"
+            ref="Abgeordnetenhaus" xml:id="Bae_TB_7_2110">Hause</orgName> zu vertreten. Ich muss
+          gestehen, dass ich dabei aus politischen Gründen eine große Selbstverleugnung dadurch
+          geübt habe, dass ich Zolltarif und Handelsvertrag im <orgName
+            key="https://d-nb.info/gnd/41998-9" ref="Abgeordnetenhaus" xml:id="Bae_TB_7_2111"
+            >Hause</orgName> durchgebracht habe. Gegen die Eisenzölle ist vieles einzuwenden und
+          ihre Ablehnung konnte ich nur mit Mühe verhindern. Aber unser wirtschaftlicher Ausgleich
+          mit Ungarn ist so gefärdet, dass es darauf ankommt durch den gemeinsamen Tarif <choice
+            xml:id="Bae_TB_7_2546">
             <abbr xml:id="Bae_TB_7_2547">u.</abbr>
             <expan xml:id="Bae_TB_7_2548">und</expan>
           </choice> Vertrag Klammern zwischen den beiden Reichshälften herzustellen, die verhindern,
           dass sie auseinanderfallen können. Diese Klammern sind teuer erkauft. Unser <index
             xml:id="Bae_TB_7_2112">
             <term key="Oesterreich-Ungarn/Verhaeltnis" xml:id="Bae_TB_7_2113">Verhältnis zu
-              Ungarn&gt;</term>
+              Ungarn</term>
           </index> muss von Grund aus saniert werden, wenn Österreich nicht immer die Zeche der
-          politischen Konstellationen zahlen soll. <anchor xml:id="Bae_TB_7_2114"/>
-          <!-- CA: anchor für das insert -->
+          politischen Konstellationen zahlen soll.<anchor xml:id="Bae_TB_7_2114"/>
+          <app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Im Plenum des Abgeordnetenhauses wurde der Tarif von
+              verschiedenen Seiten heftig angegriffen und insbesondere verlangt, die Regierung solle
+              ihn zu einem spezifisch österreichischen zurechtstutzen. Auch schien die Abstimmung
+              über einzelne besonders gefährdete Posten zweifelhaft. Bylandt stand diesen Gefahren
+              gegenüber ratlos da. Call erkundigte sich bei mir immer, wie die Sache stehe. Ich
+              musste alle Anstrengungen machen, den Tarif durchzubringen, aber schließlich wurde er
+              in zweiter und dritter Lesung genehmigt. Der Handelsvertrag mit Deutschland bot
+              weniger Schwierigkeiten, besonders da gewisse Abnormitäten des Tarifes (Schwefelkies
+              und Bücherzoll) durch ihn aus der Welt geschaffen wurden. Im Plenum des Hauses
+              versuchten aber Tschechen und Alldeutsche, aus sehr verschiedenen Gründen, durch einen
+              großen Spektakel die Verhandlungen zu stören und mich am Sprechen zu verhindern. Ich
+              ließ mich aber nicht irre machen, und der Handelsvertrag wurde genehmigt. Ich erzähle
+              hier die Sache ungeschminkt in den Hauptzügen und Hauptmotiven. Wir Oesterreicher
+              standen wieder vor dem Dilemma: unsere Interessen rücksichtslos zu vertreten und
+              dadurch ganz unabsehbare Verwicklungen herbeizuführen oder für die Sicherheit und
+              Verhandlungsfähigkeit der Monarchie Opfer zu bringen. Der Dualismus ist eben brüchig
+              geworden. Unser Verhältnis zu Ungarn muss von Grund auf saniert werden. Lünz, im Juli
+              1905.</rdg>
+          </app>
           <note type="editorial" xml:id="Bae_TB_7_1068">Baernreither erstattete schriftlichen
             Bericht über den allgemeinen Zolltarif für das österreichisch-ungarische Zollgebiet <ref
               target="https://alex.onb.ac.at/cgi-content/alex?aid=spa&amp;datum=0017&amp;page=64908&amp;size=45"
@@ -3594,19 +3685,24 @@
             behandelt. Vgl. Sten. Prot. AH XVII. Session <ref
               target="https://alex.onb.ac.at/cgi-content/alex?aid=spa&amp;datum=0017&amp;page=31188&amp;size=45"
               xml:id="Bae_TB_7_1077">S. 31036ff.</ref>
-          </note>
-        </p>
+          </note><anchor/><app from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1">Hieronymi, der Handelsminister Tiszas, erzählte mir später einmal
+              in Karlsbad, wo er in der Kur war und ich ihn besuchte, er sei mit den Eisenzöllen
+              nicht einverstanden gewesen und hätte ihrer Herabsetzung nicht widerstrebt, aber sie
+              seien das eigenste Werk Tiszas gewesen, der unbedingt für sie eintrat.</rdg>
+          </app></p>
         <p xml:id="Bae_TB_7_1078">
-          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_7_1079"
-            >Gautsch</persName> hatte aber in dieser Zeit seiner Krankheit keine Fühlung mit den
-          ungar. Verhältnissen, wenigstens schien es so <choice xml:id="Bae_TB_7_2549">
+          <anchor/><persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
+            xml:id="Bae_TB_7_1079">Gautsch</persName> hatte aber in dieser Zeit seiner Krankheit
+          keine Fühlung mit den ungar. Verhältnissen, wenigstens schien es so <choice
+            xml:id="Bae_TB_7_2549">
             <abbr xml:id="Bae_TB_7_2550">u.</abbr>
             <expan xml:id="Bae_TB_7_2551">und</expan>
           </choice> es war natürlich, dass je weiter die ungar. Krise fortschritt die Frage
           aufgeworfen wurde ob nicht von <orgName key="Reichsrat"
             ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_7_1080">Parlament</orgName> zu
             <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1081"
-            >Parlament</orgName> eine Fühlungnahme versucht werden sollte! </p>
+            >Parlament</orgName> eine Fühlungnahme versucht werden sollte!</p>
         <p xml:id="Bae_TB_7_1082">
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_7_1083"
             >Urban</persName> war mit dem bekannten Finanzier <choice xml:id="Bae_TB_7_2552">
@@ -3664,8 +3760,34 @@
           die <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
             xml:id="Bae_TB_7_1097">Ungarn</placeName> allerdings wünschen würden, dass durch diese
           Besprechungen die militärischen Kreise etwas gefügiger gemacht würden. Ich bezeichnete
-          dies aber gerade als den Punkt, bezüglich dessen wir ganz anderer Meinung sind. </p>
-        <p xml:id="Bae_TB_7_1098">Sehr interessant waren <persName key="KornfeldSigmund"
+          dies aber gerade als den Punkt, bezüglich dessen wir ganz anderer Meinung<app
+            from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Gautsch hatte in dieser Zeit seiner Krankheit keine Fühlung mit
+              den ungarischen Verhältnissen, wenigstens schien es so, und es war natürlich, daß, je
+              weiter die ungarische Krise fortschritt, die Frage aufgeworfen wurde, ob nicht von
+              Parlament zu Parlament eine Fühlungnahme versucht werden sollte! Urban war mit dem
+              bekannten Finanzier und Mitglied des Magnatenhauses Sigmund Kornfeld in Karlsbad
+              zusammen gekommen, es fand eine Besprechung zwischen Kornfeld , Urban und mir am 3.
+              Juli 1905 in dem Zimmer Urban's im Grand Hotel in Wien statt, die zwei Stunden dauerte
+              und sehr interessant war. Kornfeld bekannte sich offen und dezidiert als Anhänger
+              Andrassy's, aber als "Dissident", und steuerte in dem Gespräch gleich auf die
+              militärische Frage los. Ich sagte ihm sofort aufrichtig, daß wir so nützlich uns eine
+              eingehende Besprechung zwischen österreichischen und ungarischen Politikern auch
+              schien, im dermaligen Stadium die militärischen Fragen ausgeschaltet bleiben müßten,
+              da wir die Stellung der Krone in ihren von uns gebilligten Streben die Einheit der
+              Armee aufrechtzuerhalten, nicht schwächen wollen. Ich betonte insbesondere meinen
+              persönlichen Standpunkt von den militärischen Herrscherrechten der Krone, die auf
+              deutsch-rechtlichen Anschauungen fuße und Kornfeld nahm meine Anregung, Besprechungen
+              zwar in Aussicht zu nehmen, aber die Sache vorläufig dilatorisch zu behandeln, sehr
+              loyal hin, konnte aber die Bemerkung nicht unterdrücken, daß die Ungarn allerdings
+              wünschen würden, daß durch diese Besprechungen die militärischen Kreise etwas
+              gefügiger gemacht würden. Ich bezeichnete dies aber gerade als den Punkt, bezüglich
+              dessen wir ganz anderer Meinung</rdg>
+          </app>
+          <anchor/>sind.<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">seien.</rdg>
+          </app></p>
+        <p xml:id="Bae_TB_7_1098"><anchor/>Sehr interessant waren <persName key="KornfeldSigmund"
             ref="https://d-nb.info/gnd/136423078" xml:id="Bae_TB_7_1099">Kornfeld</persName>'s
           Ausfürungen bezüglich der wirtschaftlichen <index xml:id="Bae_TB_7_1100">
             <term key="Österreich-Ungarn/Verhaeltnis" xml:id="Bae_TB_7_1101">Verhältnisse</term>
@@ -3681,14 +3803,34 @@
             xml:id="Bae_TB_7_1104">
             <term key="Österreich-Ungarn/Zwischenzoll" xml:id="Bae_TB_7_1105"
               >Zwischenzolllinie</term>
-          </index> hinaus. Er begründete die Notwendigkeit derselben mit den wachsenden Interessen
-          der ungar. Industrie, war aber so billig zuzugestehen, dass dieser <index
-            xml:id="Bae_TB_7_1106">
+          </index> hinaus. Er begründete<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Sehr interessant waren Kornfeld's Äußerungen bezüglich der
+              wirtschaftlichen Verhältnisse zwischen Oesterreich und Ungarn. Sie laufen auf die Idee
+              einer Zwischenzolllinie hinaus. Er begründete</rdg>
+          </app>
+          <anchor/>die Notwendigkeit derselben<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">ihre Notwendigkeit</rdg>
+          </app>
+          <anchor/>mit den wachsenden Interessen der <choice>
+            <abbr>ungar.</abbr>
+            <expan>ungarischen</expan>
+          </choice> Industrie, <app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">mit den wachsenden Interessen der ungarischen Industrie,</rdg>
+          </app>
+          <anchor/>war aber so billig zuzugestehen,<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">gab aber zu,</rdg>
+          </app>
+          <anchor/>dass dieser <index xml:id="Bae_TB_7_1106">
             <term key="Österreich-Ungarn/Zwischenzoll" xml:id="Bae_TB_7_1107">Zwischenzoll</term>
           </index> nicht einseitig, sondern zweiseitig also auch bezüglich gewisser ungar. Producte,
           die bisher zollfrei nach <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_7_1108"
-            >Österreich</placeName> gehen, construirt werden müsste. </p>
+            >Österreich</placeName> gehen, construirt werden müsste.<app from="#Bae_MF_6-1_"
+            type="equal">
+            <rdg wit="#Bae_MF_6-1">daß dieser Zwischenzoll nicht einseitig, sondern zweiseitig, also
+              auch bezüglich gewisser ungarischer Produkte, die bisher zollfrei nach Österreich
+              gehen, konstruiert werden müßte.</rdg>
+          </app></p>
         <pb facs="#F_K-4_Bae_TB_7-" n="42v" xml:id="Bae_TB_7_2117"/>
         <addSpan spanTo="#Bae_TB_7_2122" type="insertion" xml:id="Bae_TB_7_2118"/>
         <p xml:id="Bae_TB_7_2119">
@@ -3716,10 +3858,10 @@
             <abbr xml:id="Bae_TB_7_2577">D</abbr>
             <expan xml:id="Bae_TB_7_2578">Derschatta</expan>
           </choice> gegenüber ähnliche Gedanken entwickelt zu haben wie (N. f. Presse vom 1.9.09)
-          der Budapesti Hirlap. </note>
+          der Budapesti Hirlap.</note>
         <pb facs="#F_K-4_Bae_TB_7-144" n="43r" xml:id="Bae_TB_7_1109"/>
-        <p xml:id="Bae_TB_7_1110">Wir schieden voneinander uns spätere Anknüpfungen vorbehaltend.
-          Kurze Zeit darauf machte <persName key="DerschattaJulius"
+        <p xml:id="Bae_TB_7_1110"><anchor/>Wir schieden voneinander uns spätere Anknüpfungen
+          vorbehaltend. Kurze Zeit darauf machte <persName key="DerschattaJulius"
             ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_7_1111">Derschatta</persName> mir
             <choice xml:id="Bae_TB_7_2579">
             <abbr xml:id="Bae_TB_7_2580">u.</abbr>
@@ -3763,9 +3905,26 @@
           Staaten könnte dann auch eine längere Dauer haben als der bisherige 10jährige <index
             xml:id="Bae_TB_7_1122">
             <term key="Oesterreich-Ungarn/Ausgleich" xml:id="Bae_TB_7_1123">Ausgleich</term>
-          </index>. (Diesen Gedanken ventilierte auch <persName key="KornfeldSigmund"
-            ref="https://d-nb.info/gnd/136423078" xml:id="Bae_TB_7_1124">Kornfeld</persName> indem
-          er meinte, dass eine längere Dauer des <index xml:id="Bae_TB_7_1125">
+          </index>. <app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Wir schieden voneinander uns spätere Anknüpfungen vorbehaltend.
+              Kurze Zeit darauf machte Derschatta mir und Groß die Mitteilung, daß Albert Apponyi
+              eine persönliche Zusammenkunft mit ihm gesucht und gehabt habe. Nach dem mündlichen
+              Bericht Derschatta's verlief die Unterredung derart, daß Apponyi eigentlich immer
+              sprach, so daß Derschatta in der guten Position war, ihn nur anhören zu können.
+              Apponyi erklärte persönlich auf dem Standpunkt der reinen Personalunion zu stehen, die
+              durch kein Mäntelchen verbrämt ist. Heute wäre aber noch ein Zweites möglich, nämlich
+              die Aufrechterhaltung des 67er-Ausgleiches, jedoch nur in der Form eines zwischen den
+              beiden voneinander ganz unabhängigen starken geschlossenen Staatsvertrages, bei dem
+              aber jede gesamtstaatliche Idee ausgeschlossen bleiben müßte. Ein Staatsvertrag
+              zwischen den beiden gleichberechtigten Staaten könnte dann auch eine längere Dauer
+              haben als der bisherige 10jährige Ausgleich</rdg>
+          </app>
+          <anchor/>(Diesen Gedanken ventilierte auch <persName key="KornfeldSigmund"
+            ref="https://d-nb.info/gnd/136423078" xml:id="Bae_TB_7_1124">Kornfeld</persName><app
+            from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Ein Gedanke, den auch Kornfeld ventilierte,</rdg>
+          </app>
+          <anchor/>indem er meinte, dass eine längere Dauer des <index xml:id="Bae_TB_7_1125">
             <term key="Oesterreich-Ungarn/Ausgleich" xml:id="Bae_TB_7_1126">Ausgleichs</term>
           </index> eine Compensation bilden würde für vieles andere.) <persName key="ApponyiAlbert"
             ref="https://d-nb.info/gnd/118645501" xml:id="Bae_TB_7_1127">
@@ -3779,11 +3938,18 @@
             >Ungarn</placeName> werde loyal die Interessen <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_7_1129"
             >Österreichs</placeName> berücksichtigen. Beide Staaten könnten dann immer dem Ausland
-          gegenüber eine Einheit bilden. </p>
+          gegenüber eine Einheit bilden.<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">indem er meinte, daß eine längere Dauer des Ausgleichs eine
+              Kompensation bilden würde für vieles Andere. Apponyi kann sich nicht denken, daß von
+              einer Seite ein Zollkrieg gewünscht wird. Eine Vereinbarung in wirtschaftlicher
+              Hinsicht stellt er sich nicht schwer vor. Ungarn werde loyal die Interessen
+              Oesterreichs berücksichtigen. Beide Staaten könnten dann immer dem Ausland gegenüber
+              eine Einheit bilden.</rdg>
+          </app></p>
         <pb facs="#F_K-4_Bae_TB_7-145" n="43v" xml:id="Bae_TB_7_2124"/>
         <note type="editorial" xml:id="Bae_TB_7_2125">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_7-145" n="44r" xml:id="Bae_TB_7_1141"/>
-        <p xml:id="Bae_TB_7_1142">
+        <p xml:id="Bae_TB_7_1142"><anchor/>
           <index xml:id="Bae_TB_7_1143">
             <term key="Österreich-Ungarn/Zwischenzoll" xml:id="Bae_TB_7_1144"
               >Zwischenzolllinie</term>
@@ -3902,9 +4068,28 @@
               <abbr xml:id="Bae_TB_7_2643">D</abbr>
               <expan xml:id="Bae_TB_7_2644">Derschatta</expan>
             </choice>
-          </persName> zugleich in der Cur war, sprechen könnte. Über diese Unterredung schrieb
-            <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
-            xml:id="Bae_TB_7_1174">
+          </persName> zugleich in der Cur war, sprechen könnte.<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Zwischenzolllinie. Die Unterredung hatte den Zweck, eine
+              Besprechung zwischen dem Ausschuß der ungarischen Koalition (21 Mitglieder) und eine
+              entsprechenden Zahl österreichischer Parlamentarier anzubahnen. Apponyi verlangte
+              aber, daß diese dann auch die Sache im österreichischen Parlamente vertreten. Die
+              Armeefrage sei nur eine Frage zwischen Ungarn und der Krone. Eine Einmischung des
+              andern Staates müsse er ablehnen. Unter diesem Vorbehalt nichts gegen eine Diskussion
+              derselben. Nachdem Derschatta uns dies vorgetragen, erzählte ich den Herren auch von
+              meiner Unterredung mit Kornfeld, und wir beschlossen, Kathrein, Abrahamowicz und
+              Tarouca von der Sache zu verständigen. Die beiden ersten waren noch in Wien und
+              stimmten einer solchen Besprechung zu. Ganz meiner Meinung, daß die Armeefragen als
+              dem Kaiser zugehörig außer Spiel bleiben müssen. Derschatta schrieb nun an Apponyi,
+              daß wir bereit wären und zwar unter den von mir formulierten Vorbehalt. Erhielt
+              Antwort, daß auch die Tschechen mit von der Partie sein müßten. Hierauf sprach ich in
+              Prag mit Tarouca und wir einigten uns, die Rückkehr Pacak aus Misdroy abzuwarten.
+              Inzwischen nochmaliger Schriftenwechsel zwischen Derschatta und Apponyi, aus dem
+              einerseits hervorging, daß die Ungarn auf die Beschleunigung der Sache keinen Wert
+              legen, andererseits den Wunsch hatten, daß Derschatta mit Kossuth der in Karlsbad mit
+              Derschatta zugleich in der Kur war, sprechen sollte.</rdg>
+          </app>
+          <anchor/>Über diese Unterredung schrieb <persName key="DerschattaJulius"
+            ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_7_1174">
             <choice xml:id="Bae_TB_7_2645">
               <abbr xml:id="Bae_TB_7_2646">Abrah</abbr>
               <expan xml:id="Bae_TB_7_2647">Abrahamowicz</expan>
@@ -3914,32 +4099,51 @@
             <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html"
             xml:id="Bae_TB_7_1176">Carlsbad</placeName>, den mir <persName key="GrossGustav"
             ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_7_1177">Dr. Gross</persName>
-          einschickte. <note type="editorial" xml:id="Bae_TB_7_1178">Der Brief liegt nicht
-            bei.</note>
+            einschickte.<note type="editorial" xml:id="Bae_TB_7_1178">Der Brief liegt nicht
+            bei.</note><app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Diese Unterredung fand zwar statt, aber zu der geplanten
+              Konferenz kam es nicht.</rdg>
+          </app>
         </p>
       </div>
-      <!-- diese Einklebung ja eigentlich im MF, daher aus meiner Sicht hier nicht notwendig, dass man diese hier drinnen lässt, sondern nur als reading, oder nicht? -->
       <div xml:id="Bae_TB_7_1179">
         <addSpan spanTo="#Bae_TB_7_2128" type="insertion" xml:id="Bae_TB_7_2126"/>
-        <p xml:id="Bae_TB_7_1180">
+        <p xml:id="Bae_TB_7_1180"><anchor/>
           <pb facs="#F_K-4_Bae_TB_7-146" n="44v" xml:id="Bae_TB_7_1181"/>Während meiner <index
             xml:id="Bae_TB_7_1182">
             <term key="Baernreither/Studien England 1883/84" xml:id="Bae_TB_7_1183">Studien</term>
           </index> in <placeName key="England"
             ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
-            xml:id="Bae_TB_7_1184">England</placeName> war es eine Hauptaufgabe von mir, mit den
-          verschiedensten Persönlichkeiten über politische, wirtschaftliche und sociale Verhältnisse
-          zu sprechen. Ich bereitete mich jedes Mal sorgfältig vor, was schon wegen der Sprache und
-          der Beherrschung aller technischen Ausdrücke notwendig war. Ganz besonders für <placeName
-            key="England"
+            xml:id="Bae_TB_7_1184">England</placeName><app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Während meiner Studien in England</rdg>
+          </app>
+          <anchor/>
+          <app from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1">in den Jahren 1883 und 1884</rdg>
+          </app>
+          <anchor/>war es eine Hauptaufgabe von mir, mit den verschiedensten Persönlichkeiten über
+          politische, wirtschaftliche und sociale Verhältnisse zu sprechen. Ich bereitete mich jedes
+          Mal sorgfältig vor, was schon wegen der Sprache und der Beherrschung aller technischen
+          Ausdrücke notwendig war. Ganz besonders für <placeName key="England"
             ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
             xml:id="Bae_TB_7_1185">England</placeName> gilt, dass man präzise Antworten nur bekommt,
           wenn man präzise fragt. Da das Ergebniss dieser Besprechungen in <placeName key="England"
             ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
             xml:id="Bae_TB_7_1186">England</placeName> ein wichtiges Material für meine damalige
-          Arbeit war, schärfte ich dabei meine Aufmerksamkeit und mein Gedächtniss, im Bestreben das
-          Gehörte so genau als möglich fixiren zu können. Wo immer es angängig war, machte ich mir
-          während der Besprechung <index xml:id="Bae_TB_7_1187">
+            Arbeit<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">war es eine Hauptaufgabe von mir, mit den verschiedensten
+              Persönlichkeiten über politische, wirtschaftliche und soziale Verhältnisse zu
+              sprechen. Ich bereitete mich jedes Mal sorgfältig vor, was schon wegen der Sprache und
+              der Beherrschung aller technischen Ausdrücke notwendig war. Ganz besonders für England
+              gilt, daß man präzise Antworten nur bekommt, wenn man präzise frägt. Da das Ergebnis
+              dieser Besprechungen in England ein wichtiges Material für meine damalige Arbeit</rdg>
+          </app>
+          <anchor/><app from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1">die Vorbereitung des Buches über die Arbeiterverbände</rdg>
+          </app>
+          <anchor/>war, schärfte ich dabei meine Aufmerksamkeit und mein Gedächtniss, im Bestreben
+          das Gehörte so genau als möglich fixiren zu können. Wo immer es angängig war, machte ich
+          mir während der Besprechung <index xml:id="Bae_TB_7_1187">
             <term key="Baernreither/Arbeitstechniken" xml:id="Bae_TB_7_1188">stenografisch
               Notizen</term>
           </index>. Auf diese Weise erwarb ich mir eine Fertigkeit, <del xml:id="Bae_TB_7_1189">in
@@ -3950,27 +4154,60 @@
             facs="#F_K-4_Bae_TB_7-147" n="45v" xml:id="Bae_TB_7_1191"/>über keine Besprechung von
           der ich berichte, habe ich unterlassen, gleich darauf, unter dem unmittelbaren und
           frischen Eindruck des Gehörten, wenn möglich auf Grund meiner stenografischen Notizen die
-          Niederschrift zu machen. Es liegt in dieser Methode eine Disziplinierung des Denkens, aber
-          auch der Conversation und man ist seinem Mitsprecher überlegen und beherrscht bis zu einem
-          gewissen Grade die Conversation wenn man mit einem Plane im Kopfe kommt, dem der andere
-          folgt. Deswegen kann ich meinen Lesern verbürgen, dass ich über die verschiedenen
-          Gespräche, die ich im Laufe der Jahre gehabt habe, getreu berichte. In Fällen in denen ich
-          meiner Sache nicht ganz sicher war, habe ich geschwiegen. </p>
-        <p xml:id="Bae_TB_7_1192">Die folgenden Tagebuchblätter, an Ort und Stelle geschrieben,
-          enthalten Gespräche mit ungarischen Politikern. <note type="editorial"
-            xml:id="Bae_TB_7_2127">Diese Einklebung auf den jeweiligen Verso-Seiten ersetzt Teile
-            der Eintragung vom 5.9.1905.</note>
+          Niederschrift zu machen. Es liegt in dieser Methode eine Disziplinierung des Denkens,<app
+            from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">war, schärfte ich dabei meine Aufmerksamkeit und mein Gedächtnis,
+              im Bestreben, das Gehörte so genau als möglich fixieren zu können. Wo immer es
+              angängig war, machte ich mir während der Besprechung stenographische Notizen. Auf
+              diese Weise erwarb ich mir eine Fertigkeit, die ich damals und später immer mehr
+              ausbildete. Zu keiner der Besprechungen, über die ich in diesen Blättern berichte, bin
+              ich gegangen, ohne mir einen genauen Plan für die Konversation zu machen und über
+              keine Besprechung, von der ich berichte, habe ich unterlassen gleich darauf, unter dem
+              unmittelbaren frischen Eindruck des Gehörten, wenn möglich auf Grund meiner
+              stenographischen Notizen, die Niederschrift zu machen. Es liegt in dieser Methode eine
+              Disziplinierung des Denkens,</rdg>
+          </app>
+          <anchor/>aber auch der Conversation und man ist seinem Mitsprecher überlegen und
+          beherrscht bis zu einem gewissen Grade die Conversation wenn man mit einem Plane im Kopfe
+          kommt, dem der andere folgt.<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">der Aufmerksamkeit und des Gedächtnisses.</rdg>
+          </app>
+          <anchor/>Deswegen kann ich meinen Lesern verbürgen, dass ich über die verschiedenen
+          Gespräche, die ich im Laufe der Jahre gehabt habe, getreu berichte.<app
+            from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Deswegen kann ich meinen Lesern verbürgen, daß ich über die
+              verschiedenen Gespräche, die ich im Laufe der Jahre gehabt habe, getreu
+              berichte.</rdg>
+          </app>
+          <anchor/>In Fällen in denen ich meiner Sache nicht ganz sicher war, habe ich
+            geschwiegen.<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Bloß aus dem Gedächtnis reproduziere ich nichts.</rdg>
+          </app></p>
+        <p xml:id="Bae_TB_7_1192"><anchor/>Die folgenden Tagebuchblätter, an Ort und Stelle
+          geschrieben, enthalten Gespräche mit ungarischen Politikern.<app from="#Bae_MF_6-1_"
+            type="equal">
+            <rdg wit="#Bae_MF_6-1">Die folgenden Tagebuchblätter, an Ort und Stelle geschrieben,
+              enthalten Gespräche mit ungarischen Politikern.</rdg>
+          </app><note type="editorial" xml:id="Bae_TB_7_2127">Diese Einklebung auf den jeweiligen
+            Verso-Seiten ersetzt Teile der Eintragung vom 5.9.1905.</note><anchor/><app
+            from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1">Es war die Zeit, in der Fejervary mit der Koalition in heftiger
+              Fehde lag.</rdg>
+          </app>
         </p>
         <anchor xml:id="Bae_TB_7_2128"/>
       </div>
       <div n="1905-09-05" type="diaryEntry" xml:id="Bae_TB_7_1193">
         <addSpan spanTo="Bae_TB_7_2206" type="insertion" xml:id="Bae_TB_7_2129"/>
-        <p xml:id="Bae_TB_7_1194">
+        <p xml:id="Bae_TB_7_1194"><anchor/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
             xml:id="Bae_TB_7_1195">Budapest</placeName>
-          <date when="1905-09-05" xml:id="Bae_TB_7_1196">5.9.05</date>
+          <date when="1905-09-05" xml:id="Bae_TB_7_1196">5.9.05</date><app from="#Bae_MF_6-1_"
+            type="equal">
+            <rdg wit="#Bae_MF_6-1">Budapest, den 5. September 1905</rdg>
+          </app>
         </p>
-        <p xml:id="Bae_TB_7_1197">Als ich in <placeName key="Wien"
+        <p xml:id="Bae_TB_7_1197"><anchor/>Als ich in <placeName key="Wien"
             ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_1198"
             >Wien</placeName> am <date when="1905-07-03" xml:id="Bae_TB_7_1199">3. Juli <choice
               xml:id="Bae_TB_7_2648">
@@ -4017,22 +4254,40 @@
             ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_7_1210"
             >Carlsbad</placeName> mit <persName key="DerschattaJulius"
             ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_7_1211">Dr. Derschatta</persName>
-          Unterredungen suchten und hatten. </p>
-        <p xml:id="Bae_TB_7_1212">Ich hielt es daher für angemessen während meiner Anwesenheit in
-            <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html"
-            xml:id="Bae_TB_7_1213">Budapest</placeName> aus Anlass des <index xml:id="Bae_TB_7_1214">
+          Unterredungen suchten und hatten.<app from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1"/>
+          </app></p>
+        <p xml:id="Bae_TB_7_1212"><anchor/>Ich hielt es daher<app from="#Bae_MF_6-1_"
+            type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Nach den bisherigen Anknüpfungen mit den Ungarn hielt ich
+              es</rdg>
+          </app>
+          <anchor/>für angemessen während meiner Anwesenheit in <placeName key="Budapest"
+            ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1213"
+            >Budapest</placeName> aus Anlass des <index xml:id="Bae_TB_7_1214">
             <term key="Kongresse/Enqueten" xml:id="Bae_TB_7_1215">Gefängnisscongresses</term>
-          </index> nun auch meinerseits Fühlung mit <persName key="AndrassyGyula"
-            ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1216">Andrassy</persName> zu
-          suchen, als dessen Anhänger sich <pb facs="#F_K-4_Bae_TB_7-" n="45v"
-            xml:id="Bae_TB_7_2130"/>
+          </index>
+          <app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">für angemessen während meiner Anwesenheit in Budapest aus Anlaß
+              des Gefängniskongreßes</rdg>
+          </app>
+          <anchor/>nun auch meinerseits<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">vor allem</rdg>
+          </app>
+          <anchor/>Fühlung mit <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
+            xml:id="Bae_TB_7_1216">Andrassy</persName> zu suchen, als dessen Anhänger sich <pb
+            facs="#F_K-4_Bae_TB_7-" n="45v" xml:id="Bae_TB_7_2130"/>
           <note type="editorial" xml:id="Bae_TB_7_2131">Hier finden sich Ergänzungen, Korrekturen
             oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im
             Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-4_Bae_TB_7-147" n="46r" xml:id="Bae_TB_7_1217"/>
           <persName key="KornfeldSigmund" ref="https://d-nb.info/gnd/136423078"
-            xml:id="Bae_TB_7_1218">Kornfeld</persName> ausdrücklich bekannt hatte. Ich nahm daher
-          dessen Intervention in Anspruch <choice xml:id="Bae_TB_7_2666">
+            xml:id="Bae_TB_7_1218">Kornfeld</persName> ausdrücklich bekannt hatte.<app
+            from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Fühlung mit Andrassy zu suchen, als dessen Anhänger sich Kornfeld
+              ausdrücklich bekannt hatte.</rdg>
+          </app>
+          <anchor/>Ich nahm daher dessen Intervention in Anspruch <choice xml:id="Bae_TB_7_2666">
             <abbr xml:id="Bae_TB_7_2667">u.</abbr>
             <expan xml:id="Bae_TB_7_2668">und</expan>
           </choice> das folgende Telegramm von ihm, das ich bei meiner Ankunft in <placeName
@@ -4043,7 +4298,7 @@
             <expan xml:id="Bae_TB_7_2671">und</expan>
           </choice>
           <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1220"
-            >Andrassy</persName> auf meine Anregung eingingen. </p>
+            >Andrassy</persName> auf meine Anregung eingingen.</p>
         <p xml:id="Bae_TB_7_1221">" <persName key="AndrassyGyula"
             ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1222">
             <choice xml:id="Bae_TB_7_2672">
@@ -4067,9 +4322,13 @@
           </placeName> bin Dienstag Mittwoch <placeName key="Wien"
             ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_1225"
             >Wien</placeName> Grand Hotel Exzellenz ganz ergebenster <persName key="KornfeldSigmund"
-            ref="https://d-nb.info/gnd/136423078" xml:id="Bae_TB_7_1226">Kornfeld</persName>." </p>
-        <p xml:id="Bae_TB_7_1227">Am heutigen Morgen noch bevor ich im Stande war mich mit <persName
-            key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1228">
+            ref="https://d-nb.info/gnd/136423078" xml:id="Bae_TB_7_1226">Kornfeld</persName>."<app
+            from="#Bae_MF_6-1_" type="missing">
+            <rdg wit="#Bae_MF_6-1"/>
+          </app></p>
+        <p xml:id="Bae_TB_7_1227"><anchor/>Am heutigen Morgen noch bevor ich im Stande war mich mit
+            <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
+            xml:id="Bae_TB_7_1228">
             <choice xml:id="Bae_TB_7_2681">
               <abbr xml:id="Bae_TB_7_2682">A</abbr>
               <expan xml:id="Bae_TB_7_2683">Andrássy</expan>
@@ -4078,12 +4337,18 @@
             <abbr xml:id="Bae_TB_7_2685">u.</abbr>
             <expan xml:id="Bae_TB_7_2686">und</expan>
           </choice> beantwortete meine Absicht ihn <date when="1905-09-05" xml:id="Bae_TB_7_1229"
-            >heute</date> zu besuchen damit dass er den Wunsch aussprach mich um 3 Uhr Nachmittag
-          aufzusuchen. </p>
+            >heute</date><app from="#Bae_MF_6-1_" type="equal">Am heutigen Morgen, noch bevor ich
+            imstande war, mich mit ihm in Verbindung zu setzen, telephonierte er mir und
+            beantwortete meine Absicht ihn heute</app>
+          <anchor/>zu besuchen damit dass er den Wunsch aussprach mich um 3 Uhr Nachmittag
+            aufzusuchen.<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">noch zu besuchen damit, daß er sich für heute 3 Uhr Nachmittag
+              bei mir ansagte.</rdg>
+          </app></p>
         <pb facs="#F_K-4_Bae_TB_7-" n="46v" xml:id="Bae_TB_7_2132"/>
         <note type="editorial" xml:id="Bae_TB_7_2133">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_7-148" n="47r" xml:id="Bae_TB_7_1230"/>
-        <p xml:id="Bae_TB_7_1231">
+        <p xml:id="Bae_TB_7_1231"><anchor/>
           <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1232">
             <choice xml:id="Bae_TB_7_2687">
               <abbr xml:id="Bae_TB_7_2688">A</abbr>
@@ -4098,24 +4363,47 @@
           </choice> die Parteien haben sich verrannt <choice xml:id="Bae_TB_7_2693">
             <abbr xml:id="Bae_TB_7_2694">u.</abbr>
             <expan xml:id="Bae_TB_7_2695">und</expan>
-          </choice> es sei nicht abzusehen, wie man da herauskommen könnte. Wenn nicht in der <index
-            xml:id="Bae_TB_7_1234">
+          </choice> es sei nicht abzusehen, wie man da herauskommen könnte. Wenn nicht in der<app
+            from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Andrássy begann damit, die Lage als äußerst schwierig zu
+              bezeichnen, die Krone und die Parteien haben sich verrannt und es sei nicht abzusehen,
+              wie man da herauskommen könnte. Wenn nicht in der</rdg>
+          </app>
+          <anchor/><index xml:id="Bae_TB_7_1234">
             <term key="Oesterreich-Ungarn/Kommandosprache" xml:id="Bae_TB_7_1235"
               >Commandofrage</term>
-          </index> wenigstens teilweise nachgegeben wird, so gäbe es keinen Ausweg. Auf meine
+          </index><app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Kommandosprache</rdg>
+          </app>
+          <anchor/>wenigstens teilweise nachgegeben wird, so gäbe es keinen Ausweg. Auf meine
           Zwischenfrage ob nicht Conzessionen auf dem Gebiete der Dienstsprache <choice
             xml:id="Bae_TB_7_2696">
             <abbr xml:id="Bae_TB_7_2697">u.</abbr>
             <expan xml:id="Bae_TB_7_2698">und</expan>
-          </choice> Regimentssprache möglich seien als Compensation für die Commandosprache, meinte
-          er, das sei nicht möglich. Ohne Conzession auf dem Gebiete der <index
+          </choice> Regimentssprache<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">wenigstens teilweise nachgegeben werde, so gebe es keinen Ausweg.
+              Auf meine Zwischenfrage, ob nicht Konzessionen auf dem Gebiete der Dienstsprache und
+              Regimentssprache</rdg>
+          </app>
+          <anchor/>möglich seien als Compensation für die Commandosprache,<app from="#Bae_MF_6-1_"
+            type="notEqual">
+            <rdg wit="#Bae_MF_6-1">statt in der Kommandosprache ausreichend wären,</rdg>
+          </app>
+          <anchor/>meinte er, das sei nicht möglich. Ohne Conzession auf dem Gebiete der <index
             xml:id="Bae_TB_7_1236">
             <term key="Oesterreich-Ungarn/Kommandosprache" xml:id="Bae_TB_7_1237"
               >Commandosprache</term>
-          </index> sei eine Lösung nicht möglich. Es ist heute unmöglich gegen die Strömung in der
-          Nation aufzukommen. Würde der <persName key="KaiserFranzJosef"
-            ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_7_1238">Kaiser</persName> sagen, er
-          werde der Einfürung der ung. <index xml:id="Bae_TB_7_1239">
+          </index> sei eine Lösung<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">meinte er, das sei nicht möglich. Ohne Konzession auf dem Gebiet
+              der Kommandosprache sei eine Lösung</rdg>
+          </app>
+          <anchor/>nicht möglich.<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">unmöglich.</rdg>
+          </app>
+          <anchor/>Es ist heute unmöglich gegen die Strömung in der Nation aufzukommen. Würde der
+            <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
+            xml:id="Bae_TB_7_1238">Kaiser</persName> sagen, er werde der Einfürung der ung. <index
+            xml:id="Bae_TB_7_1239">
             <term key="Oesterreich-Ungarn/Kommandosprache" xml:id="Bae_TB_7_1240"
               >Commandosprache</term>
           </index> in einiger Zeit nicht widerstreben, zb. bis die nötige Zahl von ungar. Offizieren
@@ -4152,22 +4440,45 @@
           </choice> polnischen Commandosprache aufrollen würden <choice xml:id="Bae_TB_7_2711">
             <abbr xml:id="Bae_TB_7_2712">u.</abbr>
             <expan xml:id="Bae_TB_7_2713">und</expan>
-          </choice> dass wenn die Einheit der Armee schon durch das ungar. <index
+          </choice><app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">Es ist heute unmöglich, gegen die Strömung in der Nation
+              aufzukommen. Würde der Kaiser sagen, er werde der Einführung der ungarischen
+              Kommandosprache in einiger Zeit nicht widerstreben, z. B. bis die nötige Zahl von
+              ungarischen Offizieren vorhanden ist, könnte eine Regierung es versuchen. Aber der
+              Kaiser wird das nicht zusagen und kann es heute schwer. Dagegen wäre ein Ausweg, wenn
+              die ungarische Kommandosprache z. B. nur bei den Husarenregimentern eingeführt würde
+              und nur in der Eskadron. Aber es kommt darauf an, wie in Oesterreich ein solcher
+              Schritt aufgefaßt würde, denn man sagt uns immer, so etwas sei unmöglich, weil dann in
+              Oesterreich alles in die Luft gehe. Ich erwiderte darauf, daß wir bei Einfüh rung der
+              ungarischen Kommandosprache fürchten, daß Tschechen und Polen dann sofort die Frage
+              der tschechischen und polnischen Kommandosprache aufrollen würden</rdg>
+          </app>
+          <anchor/>dass wenn die Einheit der Armee schon durch das ungar. <index
             xml:id="Bae_TB_7_1249">
             <term key="Oesterreich-Ungarn/Kommandosprache" xml:id="Bae_TB_7_1250">Commando</term>
           </index> geschwächt werde, <choice xml:id="Bae_TB_7_2714">
             <abbr xml:id="Bae_TB_7_2715">dh</abbr>
             <expan xml:id="Bae_TB_7_2716">durch</expan>
-          </choice> die Einführung noch anderer nationaler Sprachen der babylonische Thurm fertig
-          wäre. <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
-            xml:id="Bae_TB_7_1251">
+          </choice> die Einführung noch anderer nationaler Sprachen<app from="#Bae_MF_6-1_"
+            type="missing">
+            <rdg wit="#Bae_MF_6-1"/>
+          </app>
+          <anchor/>der babylonische Thurm fertig wäre. <persName key="AndrassyGyula"
+            ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1251">
             <choice xml:id="Bae_TB_7_2717">
               <abbr xml:id="Bae_TB_7_2718">A</abbr>
               <expan xml:id="Bae_TB_7_2719">Andrássy</expan>
             </choice>
           </persName> gab das zu, meinte aber dass eine teilweise Concession diese Consequenzen
-          nicht zu haben brauche. Als ich dann weiter besonders betonte, dass jede Concession
-          bezüglich der ungar. <index xml:id="Bae_TB_7_1252">
+          nicht zu haben brauche. Als ich dann weiter<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">der babylonische Turm in der Armee fertig wäre. Andrassy gab dies
+              zu, meinte aber, daß eine teilweise Konzession diese Konsequenzen nicht zu haben
+              brauche. Als ich dann weiter</rdg>
+          </app>
+          <anchor/>besonders<app from="#Bae_MF_6-1_" type="missing">
+            <rdg/>
+          </app>
+          <anchor/>betonte, dass jede Concession bezüglich der ungar. <index xml:id="Bae_TB_7_1252">
             <term key="Oesterreich-Ungarn/Kommandosprache" xml:id="Bae_TB_7_1253"
               >Commandosprache</term>
           </index> bei uns die Frage der <index xml:id="Bae_TB_7_1254">
@@ -4183,16 +4494,33 @@
           den beiden Staaten. </p>
         <p xml:id="Bae_TB_7_1260">Wiederholt kam <persName key="AndrassyGyula"
             ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1261">Andrássy</persName> auf
-          folgenden Gedankengang zurück. </p>
+          folgenden Gedankengang zurück.</p>
         <p xml:id="Bae_TB_7_1262">Wenn eine Regierung in <placeName key="Ungarn"
             ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1263"
             >Ungarn</placeName> – welche immer es sei – keine Concessionen in militärischer Hinsicht
-          bringt, wird sie Opfer in wirtschaftlicher Hinsicht bringen müssen. Kein ungar. <index
-            xml:id="Bae_TB_7_1264">
+          bringt, wird sie<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">betonte, daß jede Konzession bezüglich der ungarischen
+              Kommandosprache bei uns die Frage der Quote aufs Tapet bringen müsse, antwortete er,
+              in dieser Hinsicht ließe sich reden. Wir würden, sagte er, eine Aenderung in der Quote
+              schließlich schlucken, wir würden schimpfen, aber es schließlich annehmen. Das wäre
+              Sache der Verhandlungen zwischen den beiden Staaten. Wiederholt kam Andrássy auf
+              folgenden Gedankengang zurück. Wenn eine Regierung in Ungarn, welche immer es sei,
+              keine Konzessionen in militärischer Hinsicht bringt, wird sie</rdg>
+          </app>
+          <anchor/>Opfer<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Zugeständnisse</rdg>
+          </app>
+          <anchor/>in wirtschaftlicher Hinsicht<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">in wirtschaftlicher Hinsicht</rdg>
+          </app>
+          <anchor/>bringen<app from="#Bae_MF_6-1_" type="notequal">
+            <rdg wit="#Bae_MF_6-1">erreichen</rdg>
+          </app>
+          <anchor/>müssen. Kein ungar. <index xml:id="Bae_TB_7_1264">
             <term key="Oesterreich-Ungarn/Kommandosprache" xml:id="Bae_TB_7_1265">Commando</term>
           </index> – wirtschaftliche Trennung, Concessionen auf wirtschaftlichem Gebiete. Wenn aber
           Concessionen auf militär. Gebiet, dann ist die 67er Basis mit gewissen Modificationen zu
-          erhalten. </p>
+          erhalten.</p>
         <p xml:id="Bae_TB_7_1266">In dieser Hinsicht erbat ich mir zwei Aufklärungen. Die
           wirtschaftliche <index xml:id="Bae_TB_7_1267">
             <term key="Österreich-Ungarn/wirtschaftliche Trennung" xml:id="Bae_TB_7_1268"
@@ -4227,8 +4555,30 @@
             xml:id="Bae_TB_7_1277">
             <term key="Österreich-Ungarn/Zwischenzoll" xml:id="Bae_TB_7_1278"
               >Zwischenzolllinie</term>
-          </index> propagirt. Man hofft in diesen Kreisen auf eine Migration der <choice
-            xml:id="Bae_TB_7_2723">
+          </index> propagirt. Man hofft in diesen Kreisen auf eine<app from="#Bae_MF_6-1_"
+            type="equal">
+            <rdg wit="#Bae_MF_6-1">müssen. Kein ungarisches Kommando, dann wirtschaftliche Trennung,
+              Konzessionen auf wirtschaftlichem Gebiete. Wenn aber Konzessionen auf militärischem
+              Gebiete, dann ist die 67er Basis mit gewissen Modifikationen zu erhalten. In dieser
+              Hinsicht erbat ich mir zwei Aufklärungen. Die wirtschaftliche Trennung ist ja auch ein
+              Nachteil für Ungarn. Was hat es für einen Sinn, eine Kompensation für nicht erlangte
+              militärische Konzessionen darin zu finden, daß man sich einen wirtschaftlichen
+              Nachteil zufügt? Darauf antwortete Andrassy: Man müsse vor allem den psychologischen
+              Zustand der heutigen Majoritätsparteien nicht vergessen. Dieselben Leute, die Tisza,
+              wenn er bei den Wahlen gesiegt hätte, mittelst seines Geschäftsordnungsgesetzes hätte
+              hinauswerfen lassen, haben heute die Majorität. Etwas müssen sie dem Volke bringen,
+              wenn nichts auf militärischem Gebiet, so doch etwas auf wirtschaftlichem Gebiet.
+              Bezüglich der Nachteile der wirtschaftlichen Trennung seien die Meinungen sehr
+              geteilt. Andrássy ist überzeugt, daß beide Staaten großen Nachteil haben werden, aber
+              die Majorität des heutigen Hauses sei anderer Ansicht. Das Verständnis der
+              wirtschaftlichen Fragen sei ein geringes, aber selbst sehr ernste Männer sind nicht
+              mehr unbedingt für die Zolleinheit, so z. B. Kornfeld, der den Gedanken der
+              Zwischenzollinie propagiere. Man hofft in diesen Kreisen auf eine</rdg>
+          </app>
+          <anchor/>Migration<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Einwanderung</rdg>
+          </app>
+          <anchor/>der <choice xml:id="Bae_TB_7_2723">
             <abbr xml:id="Bae_TB_7_2724">öster.</abbr>
             <expan xml:id="Bae_TB_7_2725">österreichischen</expan>
           </choice>
@@ -4259,9 +4609,20 @@
           das kleinere Uebel gegenüber der vollständigen <index xml:id="Bae_TB_7_1290">
             <term key="Österreich-Ungarn/wirtschaftliche Trennung" xml:id="Bae_TB_7_1291"
               >Trennung</term>
-          </index>. </p>
-        <p xml:id="Bae_TB_7_1292">Ferner fragte ich was für Modificationen der 67er Basis man in
-            <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
+          </index>.</p>
+        <p xml:id="Bae_TB_7_1292">Ferner fragte ich was für Modificationen der<app
+            from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">der österreichischen Industrie in größerem Umfange nach Ungarn
+              und erblickt in dem Zwischenzoll einen Uebergang, den Industrie und Landwirtschaft
+              Ungarns notwendig haben, bevor die vollständige Trennung eintritt. Andrassy ist nicht
+              für den Zwischenzoll, der nur der Anfang der Trennung ist, würde ihn aber im Notfall
+              akzeptieren als das kleinere Uebel gegenüber der vollständigen Trennung. Ferner fragte
+              ich, was für Modifikationen der</rdg>
+          </app>
+          <anchor/>67er Basis<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">der Basis von 1867</rdg>
+          </app>
+          <anchor/>man in <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
             xml:id="Bae_TB_7_1293">Ungarn</placeName> im Auge habe? </p>
         <p xml:id="Bae_TB_7_1294">Hierauf erörterte <persName key="AndrassyGyula"
             ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1295">
@@ -4277,28 +4638,56 @@
           <index xml:id="Bae_TB_7_1296">
             <term key="Oesterreich-Ungarn/Ausgleich" xml:id="Bae_TB_7_1297"
               >Ausgleichsgesetzes</term>
-          </index>. Er gab meiner Behauptung recht, dass diese Verschiedenheiten in Geist <choice
-            xml:id="Bae_TB_7_2738">
+          </index>. Er gab<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">man in Ungarn im Auge habe? Hierauf erörterte Andrássy in
+              beständiger Wechselrede mit mir die Verschiedenheit des österreichischen und
+              ungarischen Ausgleichsgesetzes. Er gab</rdg>
+          </app>
+          <anchor/>meiner Behauptung<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">mir</rdg>
+          </app>
+          <anchor/>recht, dass diese Verschiedenheiten in Geist <choice xml:id="Bae_TB_7_2738">
             <abbr xml:id="Bae_TB_7_2739">u.</abbr>
             <expan xml:id="Bae_TB_7_2740">und</expan>
-          </choice> Text des Gesetzes viel grösser seien als man gewönlich annimmt. Eine neue
-          Redaction sei wünschenswert könnte aber nur in einer Anpassung des <choice
+          </choice> Text des Gesetzes viel grösser seien als man gewönlich annimmt.<app
+            from="#Bae_MF_6-1_" type="equal">Recht, daß diese Verschiedenheiten in Geist und Text
+            des Gesetzes viel größer seien als man gewöhnlich annimmt.<rdg wit="#Bae_MF_6-1"/></app>
+          <anchor/>Eine<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Er meinte, eine</rdg>
+          </app>
+          <anchor/>neue Redaction sei wünschenswert könnte aber nur in einer Anpassung des <choice
             xml:id="Bae_TB_7_2741">
             <abbr xml:id="Bae_TB_7_2742">öster.</abbr>
             <expan xml:id="Bae_TB_7_2743">österreichischen</expan>
           </choice> Gesetzes an das ungarische bestehen. Schliesslich meinte er, dass die
-          Modification der 67-Basis darin bestehen könnte, dass statt eines <index
-            xml:id="Bae_TB_7_1298">
+          Modification der<app from="#Bae_MF_6-1_" type="equal">
+            <rdg wit="#Bae_MF_6-1">neue Redaktion sei wünschenswert, könnte aber nur in einer
+              Anpassung des österreichischen Gesetzes an das ungarische bestehen. Schließlich meinte
+              er, daß die Modifikation der</rdg>
+          </app>
+          <anchor/>67-Basis<app from="#Bae_MF_6-1_" type="notEqual">
+            <rdg wit="#Bae_MF_6-1">Basis von 1867</rdg>
+          </app>
+          <anchor/>darin bestehen könnte, dass statt eines <index xml:id="Bae_TB_7_1298">
             <term key="Österreich-Ungarn/Zoll- und Handelsbündnis" xml:id="Bae_TB_7_1299">Zoll- und
               Handelsbündnisses</term>
           </index> ein Handelsvertrag treten würde. Die Neuredaction des <index
             xml:id="Bae_TB_7_1300">
             <term key="Oesterreich-Ungarn/Ausgleich" xml:id="Bae_TB_7_1301"
               >Ausgleichsgesetzes</term>
-          </index> hätte grosse Schwierigkeiten, mit denen man sich am Anfang <pb
-            facs="#F_K-4_Bae_TB_7-" n="51v" xml:id="Bae_TB_7_2142"/>
+          </index> hätte grosse Schwierigkeiten, mit denen man sich<app from="#Bae_MF_6-1_"
+            type="equal">
+            <rdg wit="#Bae_MF_6-1">darin bestehen könnte, daß statt eines Zoll- und
+              Handelsbündnisses ein Handelsvertrag treten würde. Die Neuredaktion des
+              Ausgleichsgesetzes hätte große Schwierigkeiten, mit denen man sich</rdg>
+          </app>
+          <anchor/>am Anfang<app from="#Bae_MF_6-1_" type="">
+            <rdg wit="#Bae_MF_6-1">jetzt</rdg>
+          </app>
+          <pb facs="#F_K-4_Bae_TB_7-" n="51v" xml:id="Bae_TB_7_2142"/>
           <note type="editorial" xml:id="Bae_TB_7_2143">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_7-153" n="52r" xml:id="Bae_TB_7_1302"/>nicht belasten sollte. </p>
+          <pb facs="#F_K-4_Bae_TB_7-153" n="52r" xml:id="Bae_TB_7_1302"/><anchor/>nicht belasten
+          sollte.</p>
         <p xml:id="Bae_TB_7_1303">Immer wieder kam er auf die Idee zurück, dass die Compensation für
           die teilweise Einfürung der ungar. <index xml:id="Bae_TB_7_1304">
             <term key="Oesterreich-Ungarn/Kommandosprache" xml:id="Bae_TB_7_1305"
@@ -4342,8 +4731,26 @@
             xml:id="Bae_TB_7_2144"/>
           <note type="editorial" xml:id="Bae_TB_7_2145">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_7-154" n="53r" xml:id="Bae_TB_7_1315"/>stattfinden, aber es wäre
-          eine Illusion zu glauben dass aus solchen Besprechungen ohne Basis irgend etwas
-          herauskommen könne. </p>
+          eine Illusion zu glauben dass aus solchen Besprechungen ohne Basis<app from=""
+            type="equal">
+            <rdg wit="">nicht belasten sollte Immer wieder kam er auf die Idee zurück, daß die
+              Kompensation für die teilweise Einführung der ungarischen Kommandosprache die
+              Rektifizierung der Quote sei und daß man in dieser Hinsicht in Oesterreich wirken
+              sollte, um eine Lösung der Krise zu ermöglichen. Ganz entschieden ist er der Ansicht,
+              daß diese Verständigung zwischen Oesterreich und Ungarn nicht durch Besprechungen
+              zwischen österreichischen und ungarischen Parlamentariern zu erzielen sei. Bei solchen
+              Besprechungen würden beide Teile, um keine Verantwortung auf sich zu laden, das Meiste
+              fordern und man würde bei der Personalunion enden. Nur starke Regierungen hüben und
+              drüben, denen die Krone eine ganz bestimmte Richtung gibt, könnten diese Aufgabe
+              lösen. Beide Parlamente bedürfen in dieser Hinsicht einer ganz klaren und
+              entschiedenen Führung. Im Rahmen eines Regierungsprogrammes könnten dann allenfalls
+              Besprechungen von Parlamentariern stattfinden, aber es wäre eine Illusion zu glauben,
+              daß aus solchen Besprechungen ohne Basis</rdg>
+          </app>
+          <anchor/><app from="" type="missing">
+            <rdg wit="">und Führung</rdg>
+          </app>
+          <anchor/>irgend etwas herauskommen könne.</p>
         <p xml:id="Bae_TB_7_1316">Je eher so <del xml:id="Bae_TB_7_1317">etwas</del>
           <add place="across" xml:id="Bae_TB_7_1318">eine richtunggebende Thätigkeit der <persName
               key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_7_1319"
@@ -4351,9 +4758,22 @@
             <choice xml:id="Bae_TB_7_2759">
               <abbr xml:id="Bae_TB_7_2760">u.</abbr>
               <expan xml:id="Bae_TB_7_2761">und</expan>
-            </choice> Regierungen </add> in Angriff genommen wird, desto besser. Wird die ganze
-          Sache noch weiter hinausgeschoben, dann wird die Lösung immer schwieriger. <persName
-            key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_TB_7_1320"
+            </choice> Regierungen</add><app from="" type="equal">
+            <rdg wit="">irgend etwas herauskommen könne. Je eher so eine richtungsgebende Thätigkeit
+              der Krone und Regierungen</rdg>
+          </app>
+          <anchor/>in Angriff genommen wird,<app from="" type="">
+            <rdg wit="">einsetzt,</rdg>
+          </app>
+          <anchor/>desto besser.<app from="" type="equal">
+            <rdg wit="">desto besser.</rdg>
+          </app>
+          <anchor/>Wird die ganze Sache noch weiter hinausgeschoben, dann wird die Lösung immer
+            schwieriger.<app from="" type="notEqual">
+            <rdg wit="">Je länger hinausgeschoben, desto schwerer für jeden.</rdg>
+          </app>
+          <anchor/>
+          <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_TB_7_1320"
             >Fejervary</persName> sei ein leichtblütiger alter Soldat, der die politische Tragweite
           der Dinge nicht zu beurteilen im Stande sei, <persName key="KristoffyJozsef"
             ref="https://d-nb.info/gnd/124554865" xml:id="Bae_TB_7_1321">Kristoffy</persName> sei
@@ -4361,13 +4781,21 @@
             <abbr xml:id="Bae_TB_7_2763">u.</abbr>
             <expan xml:id="Bae_TB_7_2764">und</expan>
           </choice> habe die von ihm gefasste Idee des allgem. Wahlrechtes aufgeworfen um sich
-          momentan zu helfen. </p>
-        <p xml:id="Bae_TB_7_1322">Auf meine sehr dringende Frage, ob <persName key="KristoffyJozsef"
-            ref="https://d-nb.info/gnd/124554865" xml:id="Bae_TB_7_1323">Kristoffi</persName> die
-          Ermächtigung der <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
-            xml:id="Bae_TB_7_1324">Krone</persName> habe das allgemeine Stimmrecht zu lancieren,
-          konnte er mir keine Auskunft geben. In der Sache selbst sprach er sich in den schärfsten
-          Ausdrücken aus. Jetzt habe <placeName key="Ungarn"
+          momentan zu helfen.<app from="" type="equal">
+            <rdg wit="">Fejervary sei ein leichtblütiger alter Soldat, der die politische Tragweite
+              der Dinge nicht zu beurteilen im Stande sei, Kristoffy sei Minister geworden, was er
+              nie geträumt hatte und habe die von ihm gefaßte Idee des allgemeinen Stimmrechtes
+              aufgeworfen, um sich momentan zu helfen.</rdg>
+          </app></p>
+        <p xml:id="Bae_TB_7_1322"><anchor/>Auf meine sehr dringende Frage, ob <persName
+            key="KristoffyJozsef" ref="https://d-nb.info/gnd/124554865" xml:id="Bae_TB_7_1323"
+            >Kristoffi</persName> die Ermächtigung der <persName key="KaiserFranzJosef"
+            ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_7_1324">Krone</persName> habe das
+          allgemeine Stimmrecht zu lancieren, konnte er mir keine Auskunft geben. In der Sache
+          selbst sprach er sich in den schärfsten Ausdrücken aus.<app from="" type="">
+            <rdg wit="">Gegen dieses sprach er sich in den schärfsten Ausdrücken aus.</rdg>
+          </app>
+          <anchor/>Jetzt habe <placeName key="Ungarn"
             ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1325"
             >Ungarn</placeName> 1 Million Wähler, dann soll es 4 Millionen haben; dieser Schritt sei
           ein zu grosser; <placeName key="England"
@@ -4390,12 +4818,26 @@
             <expan xml:id="Bae_TB_7_2773">und</expan>
           </choice> eine sehr starke Dynastie ein Gegengewicht. In <placeName key="Ungarn"
             ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1329"
-            >Ungarn</placeName> kommen aber unvermittelt Schichten zur Wahlurne <choice
-            xml:id="Bae_TB_7_2774">
+            >Ungarn</placeName> kommen aber unvermittelt Schichten zur Wahlurne<app from=""
+            type="equal">
+            <rdg wit="">Jetzt habe Ungarn eine Million Wähler, dann soll es vier Millionen haben;
+              dieser Schritt sei ein zu großer; England habe seit der Reformbill 3 oder 4
+              Wahlerweiterungen beschlossen und sei heute noch nicht bei dem allgemeinen gleichen
+              Stimmrecht angelangt; in Deutschland liegen die Verhältnisse ganz anders, da sei Heer
+              und Bürokratie und eine sehr starke Dynastie ein Gegengewicht. In Ungarn kommen aber
+              unvermittelt Schichten zur Wahlurne,</rdg>
+          </app>
+          <anchor/><choice xml:id="Bae_TB_7_2774">
             <abbr xml:id="Bae_TB_7_2775">u.</abbr>
             <expan xml:id="Bae_TB_7_2776">und</expan>
-          </choice> dadurch zur Herrschaft, auf welche eine staatliche Politik überhaupt nicht zu
-          gründen ist. Er fasst sein Urteil über die Folgen der Einfürung des <index
+          </choice> dadurch zur Herrschaft,<app from="" type="missing">
+            <rdg wit=""/>
+          </app>
+          <anchor/>auf welche eine staatliche Politik überhaupt nicht zu gründen ist.<app from=""
+            type="">
+            <rdg wit="">auf welche eine staatliche Politik überhaupt nicht zu gründen ist.</rdg>
+          </app>
+          <anchor/>Er fasst sein Urteil über die Folgen der Einfürung des <index
             xml:id="Bae_TB_7_1330">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_7_1331">allgem. Stimmrechtes</term>
           </index> unter nachstehenden Gesichtspunkten zusammen. </p>
@@ -4444,7 +4886,7 @@
             >Österreich</placeName>. Die <index xml:id="Bae_TB_7_1345">
             <term key="Oesterreich-Ungarn/Personalunion" xml:id="Bae_TB_7_1346">Personalunion</term>
           </index> ist aber nicht nur die wirtschaftliche, sondern erst recht die ganze militärische
-          Trennung. </p>
+          Trennung.</p>
         <p xml:id="Bae_TB_7_1347">4) Dem Regierungsprogramm des <index xml:id="Bae_TB_7_1348">
             <term key="Wahlrechtsreform/AllgemeinesWahlrecht" xml:id="Bae_TB_7_1349">allgemeinen
               Stimmrechts</term>
@@ -4459,12 +4901,23 @@
           es wird dann eine so radicale Strömung in das ganze Volk getragen werden dass die 48er
           oder vielmehr die 49er ganz die Oberherrschaft bekommen werden. Schon jetzt fallen alle
           Nachwahlen zu Gunsten der 48er aus. Allgemeine Wahlen würden den Sieg der
-          Unabhängigkeitsparteien bringen, welche die Majorität erlangen werden. </p>
-        <p xml:id="Bae_TB_7_1352">Das XX. Jahrh. nötige zu Reformen, selbst solchen, die man für
-          überstürzt ansehe, aber dass man von Regierungswegen die radicalen Instincte derartig
-          anfache, wie es jetzt in <placeName key="Ungarn"
+          Unabhängigkeitsparteien bringen, welche die Majorität erlangen werden.<app from=""
+            type="missing">
+            <rdg wit=""/>
+          </app></p>
+        <p xml:id="Bae_TB_7_1352"><anchor/>Das XX. Jahrh. nötige zu Reformen, selbst solchen, die
+          man für überstürzt ansehe, aber dass man von Regierungswegen die radicalen Instincte
+          derartig anfache, wie es jetzt in <placeName key="Ungarn"
             ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1353"
-            >Ungarn</placeName> geschiet, das sei unerhört <choice xml:id="Bae_TB_7_2789">
+            >Ungarn</placeName> geschiet, das sei<app from="" type="equal">
+            <rdg wit="">Das zwanzigste Jahrhundert nötige zu Reformen, selbst solchen, die man für
+              überstürzt ansehe, aber daß man von Regierungs wegen die radikalen Instinkte derartig
+              anfache, wie es jetzt in Ungarn geschieht, das sei</rdg>
+          </app>
+          <anchor/>unerhört<app from="" type="notEqual">
+            <rdg wit="">unverantwortlich</rdg>
+          </app>
+          <anchor/><choice xml:id="Bae_TB_7_2789">
             <abbr xml:id="Bae_TB_7_2790">u.</abbr>
             <expan xml:id="Bae_TB_7_2791">und</expan>
           </choice> wiewol <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875"
@@ -4476,10 +4929,17 @@
           </persName> in der Form und in den Worten immer glatt <choice xml:id="Bae_TB_7_2795">
             <abbr xml:id="Bae_TB_7_2796">u.</abbr>
             <expan xml:id="Bae_TB_7_2797">und</expan>
-          </choice> gentil ist, brauchte er bei dieser Gelegenheit, insbesondere gg. <persName
-            key="KristoffyJozsef" ref="https://d-nb.info/gnd/124554865" xml:id="Bae_TB_7_1355"
-            >Kristoffy</persName>, die heftigsten Worte. </p>
-        <p xml:id="Bae_TB_7_1356">
+          </choice> gentil ist, brauchte er bei dieser Gelegenheit, insbesondere <choice>
+            <abbr>gg.</abbr>
+            <expan>gegen</expan>
+          </choice>
+          <persName key="KristoffyJozsef" ref="https://d-nb.info/gnd/124554865"
+            xml:id="Bae_TB_7_1355">Kristoffy</persName>, die heftigsten Worte.<app from="" type="">
+            <rdg wit=""> und wiewohl Andrassy in der Form und in den Worten immer glatt und gentil
+              ist, brauchte er bei dieser Gelegenheit, insbesondere gegen Kristoffy, die heftigsten
+              Worte.</rdg>
+          </app></p>
+        <p xml:id="Bae_TB_7_1356"><!-- CA: bis hier Textvergleich -->
           <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1357"
             >Andrassy</persName> erzälte <choice xml:id="Bae_TB_7_2798">
             <abbr xml:id="Bae_TB_7_2799">u.A.</abbr>
@@ -4515,7 +4975,7 @@
         <p xml:id="Bae_TB_7_1364">Wir schieden von einander indem er die Bemerkung machte, es wäre
           gut wenn diese Gesichtspunkte doch noch einmal <persName key="GoluchowskiAgenor"
             ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_TB_7_1365">Goluchowski</persName>
-          auseinandergesetzt würden. </p>
+          auseinandergesetzt würden.</p>
       </div>
       <div n="1905-09-06" type="diaryEntry" xml:id="Bae_TB_7_1366">
         <p xml:id="Bae_TB_7_1367">
