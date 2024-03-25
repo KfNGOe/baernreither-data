@@ -53,11 +53,11 @@ else
                         ./build_tei2tei_id.sh
                     fi
 
-                    if test -f "$inputDir$name.xml"
-                    then
-                        echo "removing tei file in input dir"
-                        rm "$inputDir$name.xml"
-                    fi
+                    #if test -f "$inputDir$name.xml"
+                    #then
+                    #    echo "removing tei file in input dir"
+                    #    rm "$inputDir$name.xml"
+                    #fi
                 fi                
             fi
         done          
