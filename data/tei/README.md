@@ -1,2 +1,2 @@
 # baernreither-data
-dir for TEI files with missing xml-Id's
+dir for TEI files with xml-Id's
