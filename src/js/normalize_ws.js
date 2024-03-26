@@ -11,7 +11,6 @@ var xml = fs.readFileSync(filepath , 'utf8');
 console.log('tei data read: ', xml.length, ' bytes') ;
 
 var xml_ws = normalize(xml) ;
-//console.log('xml normalized: ', xml_ws) ;
 
 fs.writeFileSync(filepath, xml_ws ) ;
 console.log('tei data written: ', xml_ws.length, ' bytes') ;

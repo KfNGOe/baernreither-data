@@ -281,3 +281,10 @@ console.log(filepath);
 xml = convert.js2xml(xmlJs, {compact: false, spaces: 2}) ;
 fs.writeFileSync(filepath, xml ) ;
 console.log('xml data written: ', xml.length, ' bytes')
+
+//write json file
+filepath = path_out_json + filename + ext_json ;
+console.log(filepath);
+var xmlJsString = JSON.stringify(xmlJs);
+fs.writeFileSync(filepath, xmlJsString ) ;
+console.log('json data written: ', xmlJsString.length, ' bytes') ;

@@ -49,8 +49,8 @@ else
                     then
                         echo "tei was changed/added. Starting transform"
                         echo "Starting tei to tei with xmlid transformation"
-                        export name
-                        ./build_tei2tei_id.sh
+                        export name                        
+                        ./build_tei2ttl.sh
                     fi
 
                     if test -f "$inputDir$name.xml"
