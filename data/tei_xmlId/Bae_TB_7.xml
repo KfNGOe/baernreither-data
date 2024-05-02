@@ -5,6 +5,7 @@
       <titleStmt xml:id="Bae_TB_7_4">
         <title xml:id="Bae_TB_7_5">Die Tagebücher von Joseph Maria Baernreither</title>
         <title type="volume" xml:id="Bae_TB_7_6">Tagebuch 7 (1905)</title>
+        <title type="display">Tagebuch 7</title>
         <title type="short" xml:id="Bae_TB_7_7">Bae_TB_7</title>
         <author xml:id="Bae_TB_7_8">
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858"
@@ -31,7 +32,7 @@
           Lebenserinnerungen</edition>
       </editionStmt>
       <extent xml:id="Bae_TB_7_21">
-        <measure xml:id="Bae_TB_7_22">[Seitenzahl]</measure>
+        <measure type="images" xml:id="Bae_TB_7_22">101</measure>
       </extent>
       <publicationStmt xml:id="Bae_TB_7_23">
         <publisher xml:id="Bae_TB_7_24">
@@ -1713,9 +1714,9 @@
               <term key="Rekrutenkontingent" xml:id="Bae_TB_7_4622"/>
             </index>
           </index> wolle er nicht sprechen. Das <orgName key="Abgeordnetenhaus"
-            ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_727">Abgeordnetenhaus</orgName> müsse sich erst
-          gewöhnen, wieder zu arbeiten, das könne aber nur durch eine leichte Kost herbeigeführt
-          werden, wie es bei Schwerkranken notwendig ist. </p>
+            ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_727">Abgeordnetenhaus</orgName>
+          müsse sich erst gewöhnen, wieder zu arbeiten, das könne aber nur durch eine leichte Kost
+          herbeigeführt werden, wie es bei Schwerkranken notwendig ist. </p>
         <p xml:id="Bae_TB_7_728">
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165"
             xml:id="Bae_TB_7_729">Dr. von Derschatta</persName> erhebt die Einwendung, daß auf
@@ -2568,7 +2569,7 @@
           angefragt, die Antwort sei aber gewesen: "gewähren lassen". Desswegen waren die <orgName
             key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_7_882"
             >Socialdemokraten</orgName> im <orgName key="Abgeordnetenhaus"
-              ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_883">
+            ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_883">
             <choice xml:id="Bae_TB_7_2357">
               <abbr xml:id="Bae_TB_7_2358">Abghaus</abbr>
               <expan xml:id="Bae_TB_7_2359">Abgeordnetenhaus</expan>
@@ -2583,8 +2584,8 @@
             >Alldeutschen</orgName> ganz ungehindert ihre Propaganda treiben lies, so war diese
           sonst so unbequeme Gesellschaft im Stillen auch für ihn. So erzielte er, dass diese beiden
           lärmenden Fraktionen sich im <orgName key="Abgeordnetenhaus"
-            ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_886">Hause</orgName> zwar gegenseitig
-          beschimpften <choice xml:id="Bae_TB_7_2360">
+            ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_886">Hause</orgName> zwar
+          gegenseitig beschimpften <choice xml:id="Bae_TB_7_2360">
             <abbr xml:id="Bae_TB_7_2361">u.</abbr>
             <expan xml:id="Bae_TB_7_2362">und</expan>
           </choice> über die anderen Parteien herfielen, ihn aber ziemlich unbehelligt liessen, <app
@@ -2729,8 +2730,8 @@
             <abbr xml:id="Bae_TB_7_2388">u.</abbr>
             <expan xml:id="Bae_TB_7_2389">und</expan>
           </choice> allen meinen Einfluss im <orgName key="Abgeordnetenhaus"
-            ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_903">Hause</orgName> aufzubieten um ihn
-          unmöglich zu machen. Als ich im <date when="1904-08" xml:id="Bae_TB_7_904">August
+            ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_903">Hause</orgName> aufzubieten um
+          ihn unmöglich zu machen. Als ich im <date when="1904-08" xml:id="Bae_TB_7_904">August
             1904</date> von <placeName key="Amerika"
             ref="https://www.geonames.org/6252001/united-states.html" xml:id="Bae_TB_7_905"
             >Amerika</placeName> zurückkam, fand ich den <index xml:id="Bae_TB_7_906">
@@ -6975,7 +6976,8 @@
           <note type="editorial" xml:id="Bae_TB_7_2179">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_7_176" n="75r" xml:id="Bae_TB_7_1610"/>Er ist der Berater der
             <persName key="ApponyiAlbert" ref="https://d-nb.info/gnd/118645501"
-            xml:id="Bae_TB_7_1611">Apponyi's</persName> <choice xml:id="Bae_TB_7_3071">
+            xml:id="Bae_TB_7_1611">Apponyi's</persName>
+          <choice xml:id="Bae_TB_7_3071">
             <abbr xml:id="Bae_TB_7_3072">u.</abbr>
             <expan xml:id="Bae_TB_7_3073">und</expan>
           </choice>
@@ -7954,7 +7956,7 @@
             für großjährige Männer. </note> erzählte er, dass der eigentliche Verfasser <persName
             key="VesziJozsef" ref="https://d-nb.info/gnd/1172479844" xml:id="Bae_TB_7_1803"
             >Vészi</persName> sei, ein früherer Leibjournalist <persName key="SzellKalman"
-              ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_TB_7_1804">Szell's</persName>, auch
+            ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_TB_7_1804">Szell's</persName>, auch
           Abgeordneter, der seinerzeit <persName key="SzellKalman"
             ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_TB_7_1805">Szell</persName>
           ausdrücklich um die Erlaubnis gebeten hatte eine fulminante Rede gegen das <index

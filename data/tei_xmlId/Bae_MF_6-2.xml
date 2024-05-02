@@ -5,7 +5,8 @@
       <titleStmt xml:id="Bae_MF_6-2_4">
         <title xml:id="Bae_MF_6-2_5">Die Tagebücher von Joseph Maria Baernreither</title>
         <title type="volume" xml:id="Bae_MF_6-2_6">Fragmente eines politischen Tagebuches, Band 6,
-          Teil 2</title>
+        Teil 2</title>
+        <title type="display">Manuskript Fragmente 6/1</title>
         <title type="short" xml:id="Bae_MF_6-2_7">Bae_MF_6-2</title>
         <author xml:id="Bae_MF_6-2_8">
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858"
@@ -32,7 +33,7 @@
           Lebenserinnerungen</edition>
       </editionStmt>
       <extent xml:id="Bae_MF_6-2_21">
-        <measure xml:id="Bae_MF_6-2_22">[Seitenzahl]</measure>
+        <measure type="images" xml:id="Bae_MF_6-2_22">49</measure>
       </extent>
       <publicationStmt xml:id="Bae_MF_6-2_23">
         <publisher xml:id="Bae_MF_6-2_24">
