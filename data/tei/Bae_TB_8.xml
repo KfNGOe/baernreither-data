@@ -359,7 +359,7 @@
           <app from="#Bae_MF_6-2_1971" type="missing" xml:id="Bae_TB_8_1516">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1517">als</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_1518"/>Vorspann für die Wahlreform <app from="#Bae_MF_6-2_2419"
+          <anchor xml:id="Bae_TB_8_1518"/>Vorspann für die Wahlreform<app from="#Bae_MF_6-2_2419"
             type="equal" xml:id="Bae_TB_8_1519">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1520">Vorspann für die Wahlreform</rdg>
           </app>
@@ -367,7 +367,7 @@
           <app from="#Bae_MF_6-2_1976" type="missing" xml:id="Bae_TB_8_1522">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1523">dienen</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_1524"/>. Aber ja keine Fühlung <app from="#Bae_MF_6-2_1979"
+          <anchor xml:id="Bae_TB_8_1524"/>. Aber ja keine Fühlung<app from="#Bae_MF_6-2_1979"
             type="equal" xml:id="Bae_TB_8_1525">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1526">. Aber ja keine Fühlung</rdg>
           </app>
@@ -375,8 +375,8 @@
             xml:id="Bae_TB_8_128">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_129">oder</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_1527"/>Verständigung mit den Parteien <app
-            from="#Bae_MF_6-2_2420" type="equal" xml:id="Bae_TB_8_1528">
+          <anchor xml:id="Bae_TB_8_1527"/>Verständigung mit den Parteien<app from="#Bae_MF_6-2_2420"
+            type="equal" xml:id="Bae_TB_8_1528">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1529">Verständigung mit den Parteien</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_130"/>
@@ -554,12 +554,12 @@
               <index xml:id="Bae_TB_8_1552">
                 <term key="Viererausschuss der deutschen Parteien" xml:id="Bae_TB_8_1553"/>
               </index>
-            </index> vom <date when="1906-01-25" xml:id="Bae_TB_8_183">25.1.1906</date>. </add>
+            </index> vom <date when="1906-01-25" xml:id="Bae_TB_8_183">25.1.1906</date>.</add>
         </p>
         <p xml:id="Bae_TB_8_184">
           <date when="1906-01-12" xml:id="Bae_TB_8_185">Freitag den 12.1.1906</date> Telegrafische
           Einladung von <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080"
-            xml:id="Bae_TB_8_186">Gautsch</persName> zu einer Besprechung. </p>
+            xml:id="Bae_TB_8_186">Gautsch</persName> zu einer Besprechung.</p>
         <p xml:id="Bae_TB_8_187">
           <date when="1906-01-13" xml:id="Bae_TB_8_188">Samstag den 13. Vormittag</date> bei
             <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_189"
@@ -1468,7 +1468,7 @@
             <persName key="HohenwartKarl" ref="https://d-nb.info/gnd/11855283X"
             xml:id="Bae_TB_8_543">Hohenwart'sche</persName> Projekt, den <persName
             key="SchaeffleAlbert" ref="https://d-nb.info/gnd/11860628X" xml:id="Bae_TB_8_544"
-              >Schäffle'schen</persName> Gedanken, den <app from="#Bae_MF_6-2_2012" type="equal"
+            >Schäffle'schen</persName> Gedanken, den <app from="#Bae_MF_6-2_2012" type="equal"
             xml:id="Bae_TB_8_1660">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1661">Ich setzte alle denkbaren Modifikationen
               ausseinander: das Hohenwart'sche Projekt, den Schäffle'schen Gedanken, den</rdg>
@@ -1527,7 +1527,7 @@
           <persName key="SchwarzenbergKarl" ref="https://d-nb.info/gnd/1021821535"
             xml:id="Bae_TB_8_566">Schwarzenberg</persName> sagte, ihm gefalle das <persName
             key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_8_567">
-              Grabmayr'sche</persName> Projekt am besten, worauf <persName key="Silva-TaroucaErnst"
+            Grabmayr'sche</persName> Projekt am besten, worauf <persName key="Silva-TaroucaErnst"
             ref="https://d-nb.info/gnd/127064842" xml:id="Bae_TB_8_568">Taroucca</persName>
           erwiderte, dass es gar keine Aussicht habe durchzudringen. Den <persName
             key="SchaeffleAlbert" ref="https://d-nb.info/gnd/11860628X" xml:id="Bae_TB_8_569">
@@ -1641,8 +1641,10 @@
           </app>
         </p>
         <p xml:id="Bae_TB_8_605">
-          <anchor xml:id="Bae_TB_8_1703"/>Interessant war es als die Frage der Rückwirkung der
-          ungar. Ereignisse auf <placeName key="Oesterreich"
+          <anchor xml:id="Bae_TB_8_1703"/>Interessant war es als die Frage der Rückwirkung der <choice>
+            <abbr>ungar.</abbr>
+            <expan>ungarischen</expan>
+          </choice> Ereignisse auf <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_606">
             Österreich</placeName> zur Sprache kam. Ich stellte fest, dass nunmehr in nächster Zeit,
           etwa im <date when="1906-06" xml:id="Bae_TB_8_607">Juni</date>
@@ -1689,8 +1691,7 @@
             <choice xml:id="Bae_TB_8_2265">
             <abbr xml:id="Bae_TB_8_2266">u.</abbr>
             <expan xml:id="Bae_TB_8_2267">und</expan>
-          </choice>
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_8_619"
+            </choice> <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_8_619"
             >Franz Thun</persName> sagte: das ist nicht möglich. <persName key="RohanAlain"
             ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_8_620">Alain Rohan</persName>,
             <persName key="LobkowitzFerdinand" ref="https://d-nb.info/gnd/117143952"
@@ -1929,7 +1930,7 @@
           <anchor xml:id="Bae_TB_8_696"/>"Ausschaltung", <app from="#Bae_MF_6-2_1071"
             type="notEqual" xml:id="Bae_TB_8_697">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_698">Ausschaltung</rdg>
-          </app>, <pb facs="#F_K-5_Bae_TB_8-020" n="21v" xml:id="Bae_TB_8_699"/>
+          </app><pb facs="#F_K-5_Bae_TB_8-020" n="21v" xml:id="Bae_TB_8_699"/>
           <note type="editorial" xml:id="Bae_TB_8_700">Hier finden sich Ergänzungen, Korrekturen
             oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im
             Tagebuch oder im Manuskript Fragmente.</note>
@@ -2474,7 +2475,7 @@
           Uriasbrief in die Wiege gelegt wurde. </p>
         <p xml:id="Bae_TB_8_873">Die Krone hat durch ihre einseitige Entscheidung zu Gunsten
             <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691"
-              xml:id="Bae_TB_8_874">Wekerle's</persName> die Österreicher bitter gemacht, sehr bitter
+            xml:id="Bae_TB_8_874">Wekerle's</persName> die Österreicher bitter gemacht, sehr bitter
           und was schlimmer ist, es ist keine Aussicht dass die Ungarn nachgeben, der <persName
             key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_875"
             >Kaiser</persName> hat ihre Stärke gefühlt <choice xml:id="Bae_TB_8_2340">
@@ -2814,7 +2815,7 @@
           </hi>
         </head>
         <p xml:id="Bae_TB_8_1002">Die Regierung will die " <persName key="HohenloheKonrad"
-          ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_1003">Hohenlohe'schen</persName>
+            ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_1003">Hohenlohe'schen</persName>
           Vorschläge" unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als
           Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und intrigiert
           wird. <app from="#Bae_MF_6-2_1323" type="missing" xml:id="Bae_TB_8_1004">
@@ -3896,7 +3897,7 @@
           <anchor xml:id="Bae_TB_8_1989"/> zu verzichten, hinter dem § 14 zu sitzen, nichts zu tun
           und den Dingen ihren Lauf zu lassen. Diese Haltung empfahl <persName key="StuergkhKarl"
             ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_8_1293">Stürgkh</persName> in der
-            <ref type="editorialNote" corresp="#Bae_TB_8_1296" xml:id="Bae_TB_8_1294"> " <orgName
+            <ref type="editorialNote" corresp="#Bae_TB_8_1296" xml:id="Bae_TB_8_1294"> "<orgName
               key="Montagspresse" xml:id="Bae_TB_8_1295">Montagspresse</orgName>" </ref>
           <note type="editorial" corresp="#Bae_TB_8_1294" xml:id="Bae_TB_8_1296">Die "Montagspresse"
             erschien von 1898 bis 1905 und diente dem Klub des Verfassungstreuen Großgrundbesitzes
