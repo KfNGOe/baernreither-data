@@ -884,7 +884,7 @@
             >Derschatta's</persName> abfielen, in der Minorität, worauf <persName
             key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_61"
             >Koerber</persName> das <orgName key="Abgeordnetenhaus"
-              ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-1_62">Haus</orgName> sofort
+            ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-1_62">Haus</orgName> sofort
           vertagte. <note type="editorial" xml:id="Bae_MF_6-1_63">Der Reichsrat war vom 9. Dezember
             1904 bis zur Wiedereinberufung am 24. Jänner 1905 vertagt.</note>
           <app from="#Bae_TB_7_3335" type="notEqual" xml:id="Bae_MF_6-1_952">
@@ -1053,10 +1053,10 @@
             type="notEqual" xml:id="Bae_MF_6-1_1018">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1019">zu schaffen,</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-1_1020"/>wollte aber trotzdem den <orgName
-            key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_MF_6-1_87"
-            >Landtag</orgName> einberufen. Ich hatte eine lange Unterredung mit ihm und <app
-            from="#Bae_TB_7_3408" type="equal" xml:id="Bae_MF_6-1_1021">
+          <anchor xml:id="Bae_MF_6-1_1020"/>wollte aber trotzdem den <orgName key="LandtagBoehmen"
+            ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_MF_6-1_87">Landtag</orgName>
+          einberufen. Ich hatte eine lange Unterredung mit ihm und <app from="#Bae_TB_7_3408"
+            type="equal" xml:id="Bae_MF_6-1_1021">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1022">wollte aber trotzdem den Landtag
               einberufen. Ich hatte eine lange Unterredung mit ihm und</rdg>
           </app>
@@ -1413,7 +1413,7 @@
             n="5" xml:id="Bae_MF_6-1_125"/> ob das wohl angängig sei, zuckte die Achseln und
           erzählte mir, er habe in <placeName key="Prag"
             ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_6-1_126">
-            Prag</placeName> bei der <orgName key="boehmStatthalterei"
+            Prag</placeName> bei der <orgName key="StatthaltereiBoehmen"
             ref="https://d-nb.info/gnd/5057353-6" xml:id="Bae_MF_6-1_127">Statthalterei</orgName>
           angefragt, die Antwort sei aber gewesen: Gewähren lassen. Deswegen waren die
           Sozialdemokraten im <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9"
@@ -1788,7 +1788,7 @@
               und befolgte sie.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1254"/>Sogar jener Erklärung, welche sie am Schlusse des
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2"
+            <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2"
             xml:id="Bae_MF_6-1_197">Landtages</orgName> abgab, lag <app from="#Bae_TB_7_3651"
             type="equal" xml:id="Bae_MF_6-1_1255">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1256">Sogar jener Erklärung, welche sie am
@@ -2139,7 +2139,7 @@
           </note> Ich war damals, auf einer Reise nach <placeName key="England"
             ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
             xml:id="Bae_MF_6-1_248">England</placeName> begriffen, einige Zeit in <placeName
-            key="Noderney" ref="https://www.geonames.org/6557460/norderney.html"
+            key="Norderney" ref="https://www.geonames.org/6557460/norderney.html"
             xml:id="Bae_MF_6-1_249">Norderney</placeName>. Dort traf ich <persName
             key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_MF_6-1_250"
             >Bülow</persName>. Er war so artig, mich zu einer Fahrt nach <placeName key="Helgoland"
@@ -2671,14 +2671,13 @@
           ungarischen Verhältnissen, wenigstens schien es so, und es war natürlich, daß, je weiter
           die ungarische Krise fortschritt, die Frage aufgeworfen wurde, ob nicht von <orgName
             key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-1_404"
-            >Parlament</orgName> zu <orgName key="ungarReichstag"
-            ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_405">Parlament</orgName> eine
-          Fühlungnahme versucht werden sollte! </p>
+            >Parlament</orgName> zu <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1"
+            xml:id="Bae_MF_6-1_405">Parlament</orgName> eine Fühlungnahme versucht werden sollte! </p>
         <p xml:id="Bae_MF_6-1_406">
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_MF_6-1_407"
             >Urban</persName> war mit dem bekannten Finanzier und Mitglied des <orgName
-            key="MagnatenhausReichstag" ref="https://d-nb.info/gnd/5270827-5" xml:id="Bae_MF_6-1_408"
-            >Magnatenhauses</orgName>
+            key="MagnatenhausReichstag" ref="https://d-nb.info/gnd/5270827-5"
+            xml:id="Bae_MF_6-1_408">Magnatenhauses</orgName>
           <persName key="KornfeldSigmund" ref="https://d-nb.info/gnd/136423078"
             xml:id="Bae_MF_6-1_409">Sigmund Kornfeld</persName> in <placeName key="Karlsbad"
             ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_MF_6-1_410"
@@ -2923,8 +2922,9 @@
             ref="https://d-nb.info/gnd/127064842" xml:id="Bae_MF_6-1_469">Tarouca</persName> und wir
           einigten uns, die Rückkehr <persName key="PacakBedrich"
             ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_MF_6-1_470">Pacak</persName> aus
-            <placeName key="Misdroy" xml:id="Bae_MF_6-1_471">Misdroy</placeName> abzuwarten.
-          Inzwischen nochmaliger Schriftenwechsel zwischen <persName key="DerschattaJulius"
+            <placeName key="Misdroy" ref="https://www.geonames.org/3091961/miedzyzdroje.html"
+            xml:id="Bae_MF_6-1_471">Misdroy</placeName> abzuwarten. Inzwischen nochmaliger
+          Schriftenwechsel zwischen <persName key="DerschattaJulius"
             ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-1_472">Derschatta</persName> und
             <persName key="ApponyiAlbert" ref="https://d-nb.info/gnd/118645501"
             xml:id="Bae_MF_6-1_473">Apponyi</persName>, aus dem einerseits hervorging, daß die
@@ -4111,9 +4111,9 @@
           </app>
           <anchor xml:id="Bae_MF_6-1_1712"/>außer Frage und er könne sich nur die Motive nicht
           erklären. Er fügte bei, das könne aber den Geistlichen teuer zu stehen kommen, denn ein
-            <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1"
-            xml:id="Bae_MF_6-1_662">Reichstag</orgName> auf Grund des allgemeinen Stimmrechtes könne
-          auch die Säkularisierung der geistlichen Güter aussprechen. </p>
+            <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_662"
+            >Reichstag</orgName> auf Grund des allgemeinen Stimmrechtes könne auch die
+          Säkularisierung der geistlichen Güter aussprechen. </p>
         <p xml:id="Bae_MF_6-1_663">Weiter kamen wir auf die Rückwirkung <app from="#Bae_TB_7_4103"
             type="equal" xml:id="Bae_MF_6-1_1713">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1714">ausser Frage und er könne sich nur die
@@ -4318,22 +4318,24 @@
           </app>
           <anchor xml:id="Bae_MF_6-1_1766"/>Wenn ich sonst Eindrücke fixieren soll, die ich hier
           gewonnen habe, so ist es zunächst von einer Fahrt die ich im Wagen nach <placeName
-            key="RakosPalota" xml:id="Bae_MF_6-1_685">Rakos-Palota</placeName> machte, wo ich eine
+            key="RakosPalota" ref="https://www.geonames.org/3054638/budapest.html"
+            xml:id="Bae_MF_6-1_685">Rakos-Palota</placeName> machte, wo ich eine
           Mädchenbesserungsanstalt besuchte. <note type="editorial" xml:id="Bae_MF_6-1_686"
             >Baernreither beschäftige sich seit den 1880er Jahren mit Fürsorgeeinrichtungen und
             Strafanstalten für Jugendliche im internationalen Vergleich</note> Man kommt auf dem
-          Wege durch <placeName key="Neupest" xml:id="Bae_MF_6-1_687">Neupest</placeName>, wo ich
-          seit 8 Jahren nicht gewesen war. Auffallend ist die große Vermehrung der industriellen
-          Etablissements in diesem Stadtteil. Sie scheinen alle im lebhaften Betriebe und da es
-          gerade 6 Uhr Abend war als ich durchfuhr, so sah ich viele Arbeiter, die gesund und
-          intelligent aussahen. Von hier werden also jedenfalls einige Arbeiterbataillone am <date
-            when="1905-09-15" xml:id="Bae_MF_6-1_688">15. September</date> vor das Parlamentsgebäude
-          marschieren. <note type="editorial" xml:id="Bae_MF_6-1_689">Am Tag der Wiederöffnung des
-            ungarischen Reichstags am 15. September 1905 veranstaltete die ungarische
-            sozialdemokratische Partei eine Massenkundgebung für das allgemeine Wahlrecht, die ohne
-            Zwischenfälle verlief.</note> Hie und da hörte ich in Verkaufsläden, daß die Geschäfte
-          schlecht gehen, weniger gekauft wird als früher und daß sich alles <app
-            from="#Bae_TB_7_4154" type="equal" xml:id="Bae_MF_6-1_1767">
+          Wege durch <placeName key="Neupest" ref="https://www.geonames.org/3054638/budapest.html"
+            xml:id="Bae_MF_6-1_687">Neupest</placeName>, wo ich seit 8 Jahren nicht gewesen war.
+          Auffallend ist die große Vermehrung der industriellen Etablissements in diesem Stadtteil.
+          Sie scheinen alle im lebhaften Betriebe und da es gerade 6 Uhr Abend war als ich
+          durchfuhr, so sah ich viele Arbeiter, die gesund und intelligent aussahen. Von hier werden
+          also jedenfalls einige Arbeiterbataillone am <date when="1905-09-15"
+            xml:id="Bae_MF_6-1_688">15. September</date> vor das Parlamentsgebäude marschieren.
+            <note type="editorial" xml:id="Bae_MF_6-1_689">Am Tag der Wiederöffnung des ungarischen
+            Reichstags am 15. September 1905 veranstaltete die ungarische sozialdemokratische Partei
+            eine Massenkundgebung für das allgemeine Wahlrecht, die ohne Zwischenfälle
+            verlief.</note> Hie und da hörte ich in Verkaufsläden, daß die Geschäfte schlecht gehen,
+          weniger gekauft wird als früher und daß sich alles <app from="#Bae_TB_7_4154" type="equal"
+            xml:id="Bae_MF_6-1_1767">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1768">Wenn ich sonst Eindrücke fixiren soll, die
               ich hier gewonnen habe, so ist es zunächst von einer Fahrt die ich im Wagen nach
               Rakos-Palota machte, wo ich eine Mädchenbesserungsanstalt besuchte. Man kommt auf dem
@@ -4508,8 +4510,9 @@
           immer wieder kommt er darauf, wie hart es in <placeName key="Kroatien"
             ref="https://www.geonames.org/3202326/republic-of-croatia.html" xml:id="Bae_MF_6-1_720">
             Kroatien</placeName> empfunden werde, daß die Ungarn seit Jahrzehnten die Bahn
-            <placeName key="NoviGrad" xml:id="Bae_MF_6-1_721">Novi</placeName> – <placeName
-            key="Knin" ref="https://www.geonames.org/3197986/knin.html" xml:id="Bae_MF_6-1_722"
+            <placeName key="NoviGrad" ref="https://www.geonames.org/8988622/novi-grad.html"
+            xml:id="Bae_MF_6-1_721">Novi</placeName> – <placeName key="Knin"
+            ref="https://www.geonames.org/3197986/knin.html" xml:id="Bae_MF_6-1_722"
             >Knin</placeName> hintertreiben. So regierungsfreundlich er ist, schimmert bei ihm doch
           das Ideal der Kroaten durch. Auf Schritt und Tritt wird man hier an dasselbe gemahnt. Es
           ist die Vereinigung aller kroatischen Länder <placeName key="Oesterreich"
@@ -5083,16 +5086,16 @@
             <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"
             xml:id="Bae_MF_6-1_832">Ungarn</placeName> hat von jeher Ansprüche erhoben auf einen
           besonderen Offiziersstatus <pb facs="#F_K-11_Bae_MF_6-1_0036" n="36"
-            xml:id="Bae_MF_6-1_833"/>und dies insbesondere auf einem <orgName key="ungarReichstag"
+            xml:id="Bae_MF_6-1_833"/>und dies insbesondere auf einem <orgName key="Reichstag"
             ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_834">Reichstage</orgName> in
           den 30er Jahren verlangt. Damals antwortete <persName key="KaiserFranz"
             ref="https://d-nb.info/gnd/118534955" xml:id="Bae_MF_6-1_835">Kaiser Franz</persName>
-          keineswegs ablehnend, sondern dilatorisch. Und als derselbe <orgName key="ungarReichstag"
+          keineswegs ablehnend, sondern dilatorisch. Und als derselbe <orgName key="Reichstag"
             ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_836">Reichstag</orgName>
           verlangte, daß alle Erzherzoge und Erzherzoginnen, da sie auch Prinzen der ungarischen
           Krone seien, ungarisch lernen sollen, war <persName key="KaiserFranz"
             ref="https://d-nb.info/gnd/118534955" xml:id="Bae_MF_6-1_837">Kaiser Franz</persName> so
-          klug zu antworten: Damit komme der ungarische <orgName key="ungarReichstag"
+          klug zu antworten: Damit komme der ungarische <orgName key="Reichstag"
             ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_838">Reichstag</orgName> zu
           spät, das habe er Kraft seines Rechtes als Haupt der Familie längst angeordnet. </p>
         <p xml:id="Bae_MF_6-1_839">So sei es auch jetzt. Die schroffe Ablehnung schaffte einen
@@ -5225,7 +5228,8 @@
           Aufstellung von Wählerlisten des allgemeinen Stimmrechtes, eine Unmöglichkeit. Bei den
           letzten <pb facs="#F_K-11_Bae_MF_6-1_0038" n="38" xml:id="Bae_MF_6-1_868"/>Wahlen hat
           ohnedies die ganze Bevölkerung mitgewählt. Die <placeName key="Theresienstadt"
-            xml:id="Bae_MF_6-1_869">Theresienstadt</placeName> in <placeName key="Budapest"
+            ref="https://www.geonames.org/12059772/budapest-vi.html" xml:id="Bae_MF_6-1_869"
+            >Theresienstadt</placeName> in <placeName key="Budapest"
             ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_6-1_870">
             Budapest</placeName> hat 6000 Wähler und vielleicht 60.000 haben mitgewählt, nämlich
           durch die Pression, die sie auf die Wähler ausgeübt haben. Das <index
