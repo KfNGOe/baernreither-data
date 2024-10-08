@@ -260,21 +260,24 @@
           <app from="#Bae_MF_6-2_1971" type="missing" xml:id="Bae_TB_8_1516">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1517">als</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_1518"/>Vorspann für die Wahlreform<app from="#Bae_MF_6-2_2419" type="equal" xml:id="Bae_TB_8_1519">
+          <anchor xml:id="Bae_TB_8_1518"/>Vorspann für die Wahlreform
+          <app from="#Bae_MF_6-2_2419" type="equal" xml:id="Bae_TB_8_1519">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1520">Vorspann für die Wahlreform</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1521"/>
           <app from="#Bae_MF_6-2_1976" type="missing" xml:id="Bae_TB_8_1522">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1523">dienen</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_1524"/>. Aber ja keine Fühlung<app from="#Bae_MF_6-2_1979" type="equal" xml:id="Bae_TB_8_1525">
+          <anchor xml:id="Bae_TB_8_1524"/>. Aber ja keine Fühlung
+          <app from="#Bae_MF_6-2_1979" type="equal" xml:id="Bae_TB_8_1525">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1526">. Aber ja keine Fühlung</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_127"/>, 
           <app from="#Bae_MF_6-2_629" type="notEqual" xml:id="Bae_TB_8_128">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_129">oder</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_1527"/>Verständigung mit den Parteien<app from="#Bae_MF_6-2_2420" type="equal" xml:id="Bae_TB_8_1528">
+          <anchor xml:id="Bae_TB_8_1527"/>Verständigung mit den Parteien
+          <app from="#Bae_MF_6-2_2420" type="equal" xml:id="Bae_TB_8_1528">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1529">Verständigung mit den Parteien</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_130"/>
@@ -291,7 +294,16 @@
             <expan xml:id="Bae_TB_8_2131">und</expan>
           </choice> deutschen Parteien 
           <app from="#Bae_MF_6-2_1985" type="equal" xml:id="Bae_TB_8_1531">
-            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1532">. Nicht der leiseste Versuch einer wirklichen Raillirung, sondern clandestine Benützung des persönlichen Ergeizes u. persönlicher Verhältnisse. Hat man die beiden Obmänner der grossen <choice><abbr>čech.</abbr><expan>čechischen</expan></choice> <choice><abbr>u.</abbr><expan>und</expan></choice> deutschen Parteien </rdg>
+            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1532">. Nicht der leiseste Versuch einer wirklichen Raillirung, sondern clandestine Benützung des persönlichen Ergeizes u. persönlicher Verhältnisse. Hat man die beiden Obmänner der grossen 
+              <choice xml:id="Bae_TB_8_2460">
+                <abbr xml:id="Bae_TB_8_2461">čech.</abbr>
+                <expan xml:id="Bae_TB_8_2462">čechischen</expan>
+              </choice>
+              <choice xml:id="Bae_TB_8_2463">
+                <abbr xml:id="Bae_TB_8_2464">u.</abbr>
+                <expan xml:id="Bae_TB_8_2465">und</expan>
+              </choice> deutschen Parteien 
+            </rdg>
           </app>
           <anchor xml:id="Bae_TB_8_133"/>gefangen, 
           <app from="#Bae_MF_6-2_635" type="notEqual" xml:id="Bae_TB_8_134">
@@ -302,7 +314,11 @@
             <abbr xml:id="Bae_TB_8_2133">u.</abbr>
             <expan xml:id="Bae_TB_8_2134">und</expan>
           </choice> Ambitionen diese Parteien beeinflussen, 
-          <del rendition="#s" xml:id="Bae_TB_8_136">eventuell sprengen</del> bereden, die Widerstrebenden an die Wand drücken. Beileibe also nicht Ideen, <choice><abbr>polit.</abbr><expan>politisch</expan></choice> klare Ziele, sondern einfach das Einfangen der wilden Elefanten 
+          <del rendition="#s" xml:id="Bae_TB_8_136">eventuell sprengen</del> bereden, die Widerstrebenden an die Wand drücken. Beileibe also nicht Ideen, 
+          <choice xml:id="Bae_TB_8_2466">
+            <abbr xml:id="Bae_TB_8_2467">polit.</abbr>
+            <expan xml:id="Bae_TB_8_2468">politisch</expan>
+          </choice> klare Ziele, sondern einfach das Einfangen der wilden Elefanten 
           <choice xml:id="Bae_TB_8_2416">
             <abbr xml:id="Bae_TB_8_2417">dh</abbr>
             <expan xml:id="Bae_TB_8_2418">durch</expan>
@@ -428,7 +444,7 @@
                 <term key="Viererausschuss der deutschen Parteien" xml:id="Bae_TB_8_1553"/>
               </index>
             </index> vom 
-            <date when="1906-01-25" xml:id="Bae_TB_8_183">25.1.1906</date>.
+            <date when="1906-01-25" xml:id="Bae_TB_8_183">25.1.1906</date>. 
           </add>
         </p>
         <p xml:id="Bae_TB_8_184">
@@ -450,7 +466,12 @@
           </index> die er machen will, Schwierigkeiten und Erörterungen über die Parteien, die geneigt sind. 
         </p>
         <p xml:id="Bae_TB_8_195">
-          <date when="1906-01-14" xml:id="Bae_TB_8_196">Sonntag den 14., 11 Uhr <choice><abbr>Vorm.</abbr><expan>Vormittag</expan></choice></date> abermalige Conferenz bei 
+          <date when="1906-01-14" xml:id="Bae_TB_8_196">Sonntag den 14., 11 Uhr 
+            <choice xml:id="Bae_TB_8_2469">
+              <abbr xml:id="Bae_TB_8_2470">Vorm.</abbr>
+              <expan xml:id="Bae_TB_8_2471">Vormittag</expan>
+            </choice>
+          </date> abermalige Conferenz bei 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_197">Gautsch</persName> mit 
           <persName key="ChiariKarl" ref="/d-nb.info/gnd/116504765" xml:id="Bae_TB_8_198">Chiari</persName>. Dieselben Erörterungen. 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_199">Gautsch</persName> spricht den Gedanken aus: ob es nicht möglich wäre dass von Seite der Czechen und Deutschen je eine Persönlichkeit ins Ministerium treten könnte. Er stelle sich vor, dass es auf diese Weise leichter sein werde bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und 
@@ -478,7 +499,7 @@
         <p xml:id="Bae_TB_8_213">
           <date when="1906-01-15" xml:id="Bae_TB_8_214">Montag den 15.1.</date> Erste Notiz im 
           <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=ptb&amp;datum=19060116&amp;seite=25&amp;zoom=33" xml:id="Bae_TB_8_215">
-            <orgName key="PragerTagblatt" ref="https://d-nb.info/010573135" xml:id="Bae_TB_8_216">Prager Tagblatt</orgName> (Abendblatt)!
+            <orgName key="PragerTagblatt" ref="https://d-nb.info/010573135" xml:id="Bae_TB_8_216">Prager Tagblatt</orgName> (Abendblatt)! 
           </ref> Conferenz 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_217">Derschatta's</persName> mit einer andern 
           <add xml:id="Bae_TB_8_218">nicht genannten</add> Persönlichkeit über die 
@@ -526,9 +547,22 @@
             <abbr xml:id="Bae_TB_8_2163">u.</abbr>
             <expan xml:id="Bae_TB_8_2164">und</expan>
           </choice> es haben sich Hindernisse nicht ergeben. Von Seite der Regierung wurde nun der Wunsch geäussert, dass der 
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_251"><choice><abbr>böhm.</abbr><expan>böhmische</expan></choice> Landtag</orgName> die <choice><abbr>böhm.</abbr><expan>böhmische</expan></choice> Wahlreform und das Curiengesetz erledigen solle, wogegen weder 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_251">
+            <choice xml:id="Bae_TB_8_2472">
+              <abbr xml:id="Bae_TB_8_2473">böhm.</abbr>
+              <expan xml:id="Bae_TB_8_2474">böhmische</expan>
+            </choice> Landtag
+          </orgName> die 
+          <choice xml:id="Bae_TB_8_2475">
+            <abbr xml:id="Bae_TB_8_2476">böhm.</abbr>
+            <expan xml:id="Bae_TB_8_2477">böhmische</expan>
+          </choice> Wahlreform und das Curiengesetz erledigen solle, wogegen weder 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_8_252">Pacák</persName> noch 
-          <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_8_253">Prade</persName> eine Einwendung erhoben. Nun kamen die <choice><abbr>böhm.</abbr><expan>böhmischen</expan></choice> "Querelen" dran. 1) Kreisgericht 
+          <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_8_253">Prade</persName> eine Einwendung erhoben. Nun kamen die 
+          <choice xml:id="Bae_TB_8_2478">
+            <abbr xml:id="Bae_TB_8_2479">böhm.</abbr>
+            <expan xml:id="Bae_TB_8_2480">böhmischen</expan>
+          </choice> "Querelen" dran. 1) Kreisgericht 
           <placeName key="Trautenau" ref="https://www.geonames.org/3063907/trutnov.html" xml:id="Bae_TB_8_254">Trauttenau</placeName>. 
           <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_8_255">Prade</persName> verlangte die Aktivirung ohne 
           <placeName key="Eipel" ref="https://www.geonames.org/11926030/mnichov.html" xml:id="Bae_TB_8_256">Eipel</placeName>, 
@@ -554,25 +588,34 @@
         </p>
         <p xml:id="Bae_TB_8_272">
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_273">Gautsch</persName> erklärt, dass er sich die Durchfürung derartig denke, dass 2 Deutsche 
-          <add xml:id="Bae_TB_8_274">(<persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_275">Derschatta</persName> und 
-            <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_8_276">Prade</persName>)
+          <add xml:id="Bae_TB_8_274">(
+            <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_275">Derschatta</persName> und 
+            <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_8_276">Prade</persName>) 
           </add> ins Ministerium treten, einer als Ressortminister, der andere als Landsmannminister, dagegen ein Czeche 
-          <add xml:id="Bae_TB_8_277">(
-            <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_8_278">Pacák</persName>)
+          <add xml:id="Bae_TB_8_277">( 
+            <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_8_278">Pacák</persName>) 
           </add> als Landsman Minister. 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_8_279">Pacák</persName> widerspricht 
           <choice xml:id="Bae_TB_8_2168">
             <abbr xml:id="Bae_TB_8_2169">u.</abbr>
             <expan xml:id="Bae_TB_8_2170">und</expan>
-          </choice> verlangt für diese Combination auch einen Ressortminister für die Czechen, was die Deutschen als indiscutabel erklären.
+          </choice> verlangt für diese Combination auch einen Ressortminister für die Czechen, was die Deutschen als indiscutabel erklären. 
         </p>
         <p xml:id="Bae_TB_8_280">
           <date when="1906-01-21" xml:id="Bae_TB_8_281">Sonntag 21.1.</date> Neuerliche Conferenz zwischen denselben Herren, zu denen 
           <persName key="ZacekJan" ref="https://d-nb.info/gnd/1267714182" xml:id="Bae_TB_8_282">Zaczek</persName> noch dazukommt. Es wurde Alles noch einmal durchgesprochen mit demselben Resultat, wobei 
-          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_283">Derschatta</persName> den Standpunkt vertrat, dass aus diesem Anlass die <choice><abbr>böhm.</abbr><expan>böhmische</expan></choice> Frage ja nicht 
+          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_283">Derschatta</persName> den Standpunkt vertrat, dass aus diesem Anlass die 
+          <choice xml:id="Bae_TB_8_2481">
+            <abbr xml:id="Bae_TB_8_2482">böhm.</abbr>
+            <expan xml:id="Bae_TB_8_2483">böhmische</expan>
+          </choice> Frage ja nicht 
           <pb facs="#F_K-5_Bae_TB_8-010" n="11v" xml:id="Bae_TB_8_284"/>
           <note type="editorial" xml:id="Bae_TB_8_285">Diese Seite ist leer.</note>
-          <pb facs="#F_K-5_Bae_TB_8-010" n="12r" xml:id="Bae_TB_8_286"/>gelöst werden könne. In der Frage der <choice><abbr>mähr.</abbr><expan>mährischen</expan></choice> Universität offener Dissens. 
+          <pb facs="#F_K-5_Bae_TB_8-010" n="12r" xml:id="Bae_TB_8_286"/>gelöst werden könne. In der Frage der 
+          <choice xml:id="Bae_TB_8_2484">
+            <abbr xml:id="Bae_TB_8_2485">mähr.</abbr>
+            <expan xml:id="Bae_TB_8_2486">mährischen</expan>
+          </choice> Universität offener Dissens. 
           <persName key="ZacekJan" ref="https://d-nb.info/gnd/1267714182" xml:id="Bae_TB_8_287">Zaczek</persName> verlangt wenn nicht 
           <placeName key="Bruenn" ref="https://www.geonames.org/3078609/mesto-brno.html" xml:id="Bae_TB_8_288">Brünn</placeName>, so doch 
           <placeName key="Olmuetz" ref="https://www.geonames.org/3069011/olomouc.html" xml:id="Bae_TB_8_289">Olmütz</placeName>. Lange Discussion ohne Erfolg. Die Deutschen resumieren, dass von der Combination nur die Rede sein könne wenn innere Amtssprache 
@@ -590,7 +633,7 @@
         <p xml:id="Bae_TB_8_295">
           <date when="1906-01-25" xml:id="Bae_TB_8_296">Donnerstag den 25.</date> Dr. v. 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_297">Derschatta</persName> um ½ 11 Uhr bei 
-          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_298">Gautsch</persName>, der die Combination als aufgegeben erklärt.
+          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_298">Gautsch</persName>, der die Combination als aufgegeben erklärt. 
         </p>
         <anchor xml:id="Bae_TB_8_299"/>
       </div>
@@ -608,7 +651,11 @@
             <index xml:id="Bae_TB_8_1556">
               <term key="Pressebüro des Ministerratspräsidiums" xml:id="Bae_TB_8_1557"/>
             </index>
-          </index> <choice><abbr>insbes.</abbr><expan>insbesondere</expan></choice> in der 
+          </index>
+          <choice xml:id="Bae_TB_8_2487">
+            <abbr xml:id="Bae_TB_8_2488">insbes.</abbr>
+            <expan xml:id="Bae_TB_8_2489">insbesondere</expan>
+          </choice> in der 
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_8_306">N. fr. Presse</orgName> "Stimmung" machen wollte. 
         </p>
         <p xml:id="Bae_TB_8_307">Am 
@@ -616,7 +663,7 @@
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_8_309">Presse</orgName> ein Entrefilet 
           <pb facs="#F_K-5_Bae_TB_8-011" n="12v" xml:id="Bae_TB_8_310"/>
           <note type="editorial" xml:id="Bae_TB_8_2177">Diese Seite ist leer.</note>
-          <pb facs="#F_K-5_Bae_TB_8-011" n="13r" xml:id="Bae_TB_8_311"/>offenbar von regierungswegen das die Absichten der Regierung plump enthüllte, aber auf gelogene Voraussetzungen baute.
+          <pb facs="#F_K-5_Bae_TB_8-011" n="13r" xml:id="Bae_TB_8_311"/>offenbar von regierungswegen das die Absichten der Regierung plump enthüllte, aber auf gelogene Voraussetzungen baute. 
         </p>
         <addSpan spanTo="#Bae_TB_8_330" type="insertion" xml:id="Bae_TB_8_312"/>
         <p xml:id="Bae_TB_8_313">
@@ -651,11 +698,13 @@
           <choice xml:id="Bae_TB_8_2178">
             <abbr xml:id="Bae_TB_8_2179">u.</abbr>
             <expan xml:id="Bae_TB_8_2180">und</expan>
-          </choice> <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_8_340">Gross</persName> zwang 
+          </choice>
+          <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_8_340">Gross</persName> zwang 
           <persName key="ChiariKarl" ref="/d-nb.info/gnd/116504765" xml:id="Bae_TB_8_341">Chiari</persName> mit ihm das Gleiche bezüglich Mährens zu tun. Diese kategorischen Dementis trugen offenbar dazu bei dass Pacák am 
           <date when="1906-01-24" xml:id="Bae_TB_8_342">24.</date> glatt ablehnte, was zur Folge hatte dass 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_343">Gautsch</persName> am 
-          <date when="1906-01-25" xml:id="Bae_TB_8_344">25.</date> <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_345">Derschatta</persName> ebenfalls abwinkte. 
+          <date when="1906-01-25" xml:id="Bae_TB_8_344">25.</date>
+          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_345">Derschatta</persName> ebenfalls abwinkte. 
           <app from="#Bae_MF_6-2_664" type="notEqual" xml:id="Bae_TB_8_346">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_347">Ich habe von diesen Dingen Tag für Tag genaue Aufzeichnungen gemacht, denn der Viererausschuß der deutschen Parteien (Gross, Derschatta, Lueger und ich) bestand und funktionierte noch. Aber nicht einmal in diesem Kreis hatte Derschatta Farbe bekannt. Diese ganzen Winkelzüge sind aber viel zu kleinlich, als daß ich sie wieder erzählen will. Die ganzen Verhandlungen der genannten Herren mit Gautsch, die vom 12. bis 25. Jänner 1906 dauerten, drehten sich keineswegs um einen großen politischen Plan, sondern um die alten Querelen: Das Kreisgericht Trautenau mit oder ohne den tschechischen Bezirk Eipel, die verhältnismäßige Anstellung deutscher und tschechischer Beamten beim Landesausschuß in Prag, die innere Amtssprache, die tschechische Universität in Mähren, die deutschen Eisenbahndirektionen in Böhmen sind angesichts einer Staatsfrage ersten Ranges Gegenstand des Schachers, der sich zerschlägt. Nebenbei aber doch auch geheime Besprechungen desselben Kreises von Abgeordneten, ob man nicht die ganze Wahlreform einverständlich doch noch verhindern könnte.</rdg>
           </app>
@@ -679,7 +728,8 @@
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1563">die Wahlreform vorgelegt und die grosse Generaldebatte spielte sich ab. Die einzigen, die eigentlich ins Feuer gingen, waren wir und die konservativen Großgrundbesitzer, daher entlud sich</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1564"/>die ganze Wut der 
-          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_8_354">Socialdemokraten</orgName> <app from="#Bae_MF_6-2_2021" type="notEqual" xml:id="Bae_TB_8_1565">
+          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_8_354">Socialdemokraten</orgName>
+          <app from="#Bae_MF_6-2_2021" type="notEqual" xml:id="Bae_TB_8_1565">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1566">der ganze Zorn der Sozialdemokraten</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_355"/>
@@ -895,7 +945,8 @@
           <app from="#Bae_MF_6-2_2058" type="equal" xml:id="Bae_TB_8_1609">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1610">Man kann dem Grossgrundbesitz nicht übel nehmen, daß er</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_444"/>dagegen ist (scil. Wahlreform)<app from="#Bae_MF_6-2_791" type="notEqual" xml:id="Bae_TB_8_445">
+          <anchor xml:id="Bae_TB_8_444"/>dagegen ist (scil. Wahlreform)
+          <app from="#Bae_MF_6-2_791" type="notEqual" xml:id="Bae_TB_8_445">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_446">gegen die Wahlreform ist</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1611"/>, das ist natürlich, aber er kann andere Mittel anwenden, um Opposition zu machen. Es bleibt sehr bedauerlich. 
@@ -918,7 +969,8 @@
             <expan xml:id="Bae_TB_8_2216">und</expan>
           </choice> werde daran nicht zu Grunde gehen. Auch hier kommt nach Regen wieder Sonnenschein. 
           <add xml:id="Bae_TB_8_453">
-            <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_454">Er</persName> gab mir bei der Verabschiedung nicht die Hand</add>. 
+            <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_454">Er</persName> gab mir bei der Verabschiedung nicht die Hand
+          </add>. 
           <app from="#Bae_MF_6-2_795" type="notEqual" xml:id="Bae_TB_8_455">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_456">Es war wohl die Absicht, daß ich diesen unterstrichenen, wiederholten Tadel weiter erzählen sollte. Ich schwieg aber über die ganze Audienz.</rdg>
           </app>
@@ -976,7 +1028,8 @@
             <abbr xml:id="Bae_TB_8_2227">u.</abbr>
             <expan xml:id="Bae_TB_8_2228">und</expan>
           </choice> ausfürlich. Sie dauerte bis nach Mitternacht. 
-          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_476">Fürstenberg</persName> war aufgeknüpft<app from="#Bae_MF_6-2_2076" type="equal" xml:id="Bae_TB_8_1625">
+          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_476">Fürstenberg</persName> war aufgeknüpft
+          <app from="#Bae_MF_6-2_2076" type="equal" xml:id="Bae_TB_8_1625">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1626">ernst und ausführlich. Sie dauerte bis nach Mitternacht. Fürstenberg war aufgeknüpft. Fürstenberg war aufgeknüpft</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_477"/>, lustig, gescheit 
@@ -1014,7 +1067,11 @@
           <app from="#Bae_MF_6-2_838" type="equal" xml:id="Bae_TB_8_1633">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1634">Karl Schwarzenberg war bei Tisch auffallend ruhig, brütend, nachher nahm er aber sehr regen Anteil an der</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_493"/><choice><abbr>pol.</abbr><expan>politischen</expan></choice> Conversation 
+          <anchor xml:id="Bae_TB_8_493"/>
+          <choice xml:id="Bae_TB_8_2490">
+            <abbr xml:id="Bae_TB_8_2491">pol.</abbr>
+            <expan xml:id="Bae_TB_8_2492">politischen</expan>
+          </choice> Conversation 
           <app from="#Bae_MF_6-2_841" type="notEqual" xml:id="Bae_TB_8_494">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_495">politischen Konversation</rdg>
           </app>
@@ -1031,7 +1088,7 @@
           <app from="#Bae_MF_6-2_2088" type="equal" xml:id="Bae_TB_8_1636">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1637">, bei der allerdings seine Erbitterung über Gautsch und die Wahlreform besonders zutage trat. Ernst Silva Tarouca war eher nervös, da er mit seinen Parteigenossen nicht in allen Punkten</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_503"/> übereinstimmt
+          <anchor xml:id="Bae_TB_8_503"/> übereinstimmt 
           <app from="#Bae_MF_6-2_848" type="notEqual" xml:id="Bae_TB_8_504">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_505">übereinstimmte</rdg>
           </app>
@@ -1135,7 +1192,8 @@
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_548">Plan Grabmayrs</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_549"/>(mit der von 
-          <persName key="GoluchowskiAgenor" ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_TB_8_550">Gołuchowski</persName> vorgeschlagenen Modifikation)<app from="#Bae_MF_6-2_899" type="missing" xml:id="Bae_TB_8_551">
+          <persName key="GoluchowskiAgenor" ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_TB_8_550">Gołuchowski</persName> vorgeschlagenen Modifikation)
+          <app from="#Bae_MF_6-2_899" type="missing" xml:id="Bae_TB_8_551">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_552"/>
           </app>
           <anchor xml:id="Bae_TB_8_1662"/>, endlich das 
@@ -1306,7 +1364,8 @@
           <app from="#Bae_MF_6-2_2152" type="equal" xml:id="Bae_TB_8_1706">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1707">Interessant war es, als die Frage der Rückwirkung der ungarischen Ereignisse auf Oesterreich zur Sprache kam. Ich stellte fest, daß nunmehr in nächster Zeit, etwa im Juni, es über die Militärkredite im Abgeordnetenhaus zur Abstimmung kommen werde und daß es wahrscheinlich von der Haltung der Polen und des Großgrundbesitzes abhängen werde, ob Gautsch dieselben werde bewilligt erhalten. Ich frug die Herren, ob sie der Meinung</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_615"/>sind<app from="#Bae_MF_6-2_966" type="notEqual" xml:id="Bae_TB_8_616">
+          <anchor xml:id="Bae_TB_8_615"/>sind
+          <app from="#Bae_MF_6-2_966" type="notEqual" xml:id="Bae_TB_8_616">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_617">seien</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1708"/>, dass der Grossgrundbesitz dagegen stimmen solle? 
@@ -1314,13 +1373,15 @@
           <choice xml:id="Bae_TB_8_2265">
             <abbr xml:id="Bae_TB_8_2266">u.</abbr>
             <expan xml:id="Bae_TB_8_2267">und</expan>
-          </choice> <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_8_619">Franz Thun</persName> sagte: das ist nicht möglich. 
+          </choice>
+          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_8_619">Franz Thun</persName> sagte: das ist nicht möglich. 
           <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_8_620">Alain Rohan</persName>, 
           <persName key="LobkowitzFerdinand" ref="https://d-nb.info/gnd/117143952" xml:id="Bae_TB_8_621">Lobkowitz</persName>
           <choice xml:id="Bae_TB_8_2268">
             <abbr xml:id="Bae_TB_8_2269">u.</abbr>
             <expan xml:id="Bae_TB_8_2270">und</expan>
-          </choice> <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_8_622">Czernin</persName> schwiegen 
+          </choice>
+          <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_8_622">Czernin</persName> schwiegen 
           <app from="#Bae_MF_6-2_2157" type="equal" xml:id="Bae_TB_8_1709">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1710">, daß der Großgrundbesitz dagegen stimmen solle? Tarouca meinte sofort, daß er dazu nicht zu haben sei und Franz Thun sagte: das ist nicht möglich. Alain Rohan, Lobkowitz und Czernin schwiegen</rdg>
           </app>
@@ -1329,11 +1390,18 @@
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_625">, </rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1711"/> aber 
-          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_626"><choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice></persName>, 
-          <persName key="SchwarzenbergKarl" ref="https://d-nb.info/gnd/1021821535" xml:id="Bae_TB_8_627">Schwarzenberg</persName> <choice xml:id="Bae_TB_8_2271">
+          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_626">
+            <choice xml:id="Bae_TB_8_2493">
+              <abbr xml:id="Bae_TB_8_2494">Fberg</abbr>
+              <expan xml:id="Bae_TB_8_2495">Fürstenberg</expan>
+            </choice>
+          </persName>, 
+          <persName key="SchwarzenbergKarl" ref="https://d-nb.info/gnd/1021821535" xml:id="Bae_TB_8_627">Schwarzenberg</persName>
+          <choice xml:id="Bae_TB_8_2271">
             <abbr xml:id="Bae_TB_8_2272">u.</abbr>
             <expan xml:id="Bae_TB_8_2273">und</expan>
-          </choice> <persName key="Clam-MartinicHeinrich" ref="https://d-nb.info/gnd/118676245" xml:id="Bae_TB_8_628">Clam</persName> schreckten keineswegs davor zurück, im Gegenteil! 
+          </choice>
+          <persName key="Clam-MartinicHeinrich" ref="https://d-nb.info/gnd/118676245" xml:id="Bae_TB_8_628">Clam</persName> schreckten keineswegs davor zurück, im Gegenteil! 
           <app from="#Bae_MF_6-2_2160" type="equal" xml:id="Bae_TB_8_1712">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1713">aber Fürstenberg, Schwarzenberg und Clam schreckten keineswegs davor zurück, im Gegenteil!</rdg>
           </app>
@@ -1409,7 +1477,7 @@
           <choice xml:id="Bae_TB_8_2277">
             <abbr xml:id="Bae_TB_8_2278">u.</abbr>
             <expan xml:id="Bae_TB_8_2279">und</expan>
-          </choice> klar
+          </choice> klar 
           <app from="#Bae_MF_6-2_1031" type="missing" xml:id="Bae_TB_8_665">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_666"/>
           </app>
@@ -1660,7 +1728,7 @@
           <app from="#Bae_MF_6-2_1826" type="equal" xml:id="Bae_TB_8_1780">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1781">Positivismus in der Politik! Das fehlt uns seit</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_763"/>Decennien
+          <anchor xml:id="Bae_TB_8_763"/>Decennien 
           <app from="#Bae_MF_6-2_237" type="notEqual" xml:id="Bae_TB_8_764">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_765">Jahrzehnten</rdg>
           </app>
@@ -1983,7 +2051,7 @@
             <choice xml:id="Bae_TB_8_2111">
               <abbr xml:id="Bae_TB_8_2112">O.</abbr>
               <expan xml:id="Bae_TB_8_2113">Ottokar</expan>
-            </choice> Czernin
+            </choice> Czernin 
           </persName>
           <app from="#Bae_MF_6-2_1242" type="notEqual" xml:id="Bae_TB_8_929">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_930">Der Schluss, den Czernin in diesem Briefe aus der Audienz Coudenhoves zieht, ist, wie es sich bald herausstellte, voreilig gewesen. Der Kaiser hatte zu den Ausführungen Coudenhoves geschwiegen, mehr nicht. Beck leugnet, von so einem Schwanken des Kaisers irgendetwas gewußt zu haben und sein Auftreten war nicht danach angetan, eine solche Wendung vorzubereiten. Er ging im Gegenteil gerade und mit allen Mitteln auf das allgemeine Stimmrecht los.</rdg>
