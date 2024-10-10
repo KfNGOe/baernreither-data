@@ -254,7 +254,7 @@
           <note type="editorial" xml:id="Bae_TB_8_123">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-5_Bae_TB_8-004" n="6r" xml:id="Bae_TB_8_124"/>
           <app from="#Bae_MF_6-2_614" type="notEqual" xml:id="Bae_TB_8_125">
-            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_126">Zunächst hatte in unserem Klub die engherzige Auffassung der Lage Oberwasser. Stürgkh vollkommen intransigent und borniert, jene Herren bei uns, die am wenigsten parlamentarisch gearbeitet hatten, am meisten schreiend, unmöglich einen Gegenplan zur Verhandlung, geschweige zur Annahme zu bringen. Persönlich behielt ich enge Fühlung mit jenem Teil der deutschen Abgeordneten, die nicht ganz den Kopf verloren hatten, besonders mit dem allezeit grundehrlichen Pergelt, mit dem ich die Chancen der Deutschböhmen bei der zu erwartenden Wahlreform durcharbeitete. Er versammelte bei sich eine Anzahl von deutsch-böhmischen Abgeordneten, meines Wissens die einzigen, welche wenigsten von dem allgemeinen Standpunkt Deutschböhmens aus, und nicht bloß von einzelnen Wahlbezirken ausgehend, den Stoff zum Gegenstand eines eingehenden Studiums machten. Meine Bemühungen und Anregungen, um ein deutsches Gesamtelaborat für alle Kronländer zustande zu bringen, scheiterten an der Zersplitterung der einzelnen Interessen, an der Eifersucht der Parteien, die die Regierung klug zu benützen verstand. Charakteristisch war der Versuch Gautschs, eine teilweise Parlamentarisierung der Regierung zustande zu bringen. Dies spielte im Jänner 1906. Er wollte damit die Wahlreform sichern, hatte die Absicht Prade und Pacák zu Landsmannministern zu machen und Derschatta zum Eisenbahnminister. Sie sollte ihm</rdg>
+            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_126">Zunächst hatte in unserem Klub die engherzige Auffassung der Lage Oberwasser. Stürgkh vollkommen intransingent und borniert, jene Herren bei uns, die am wenigsten parlamentarisch gearbeitet hatten, am meisten schreiend, unmöglich einen Gegenplan zur Verhandlung, geschweige zur Annahme zu bringen. Persönlich behielt ich enge Fühlung mit jenem Teil der deutschen Abgeordneten, die nicht ganz den Kopf verloren hatten, besonders mit dem allezeit grundehrlichen Pergelt, mit dem ich die Chancen der Deutschböhmen bei der zu erwartenden Wahlreform durcharbeitete. Er versammelte bei sich eine Anzahl von deutsch-böhmischen Abgeordneten, meines Wissens die einzigen, welche wenigsten von dem allgemeinen Standpunkt Deutschböhmens aus, und nicht bloß von einzelnen Wahlbezirken ausgehend, den Stoff zum Gegenstand eines eingehenden Studiums machten. Meine Bemühungen und Anregungen, um ein deutsches Gesamtelaborat für alle Kronländer zustande zu bringen, scheiterten an der Zersplitterung der einzelnen Interessen, an der Eifersucht der Parteien, die die Regierung klug zu benützen verstand. Charakteristisch war der Versuch Gautschs, eine teilweise Parlamentarisierung der Regierung zustande zu bringen. Dies spielte im Jänner 1906. Er wollte damit die Wahlreform sichern, hatte die Absicht Prade und Pacák zu Landsmannministern zu machen und Derschatta zum Eisenbahnminister. Sie sollte ihm</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1515"/>
           <app from="#Bae_MF_6-2_1971" type="missing" xml:id="Bae_TB_8_1516">
@@ -435,7 +435,7 @@
         <addSpan spanTo="#Bae_TB_8_299" type="insertion" xml:id="Bae_TB_8_175"/>
         <p xml:id="Bae_TB_8_176">
           <pb facs="#F_K-5_Bae_TB_8-006" n="8r" xml:id="Bae_TB_8_178"/>
-          <add xml:id="Bae_TB_8_177">Diarium der Verhandlungen des Herrn von 
+          <add place="across" xml:id="Bae_TB_8_177">Diarium der Verhandlungen des Herrn von 
             <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_179">Derschatta</persName> mit 
             <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_180">Gautsch</persName>, aufgenommen in der Sitzung des 
             <index xml:id="Bae_TB_8_181">
@@ -502,7 +502,7 @@
             <orgName key="PragerTagblatt" ref="https://d-nb.info/010573135" xml:id="Bae_TB_8_216">Prager Tagblatt</orgName> (Abendblatt)! 
           </ref> Conferenz 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_217">Derschatta's</persName> mit einer andern 
-          <add xml:id="Bae_TB_8_218">nicht genannten</add> Persönlichkeit über die 
+          <add place="across" xml:id="Bae_TB_8_218">nicht genannten</add> Persönlichkeit über die 
           <del rendition="#s" xml:id="Bae_TB_8_219">Anregungen</del>
           <add place="across" xml:id="Bae_TB_8_220">Fragen</add> ob man nicht die 
           <index xml:id="Bae_TB_8_221">
@@ -577,7 +577,7 @@
           <pb facs="#F_K-5_Bae_TB_8-009" n="10v" xml:id="Bae_TB_8_261"/>
           <note type="editorial" xml:id="Bae_TB_8_262">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8-009" n="11r" xml:id="Bae_TB_8_263"/>stellt fest dass dies eine neue Norm sei, 
-          <add xml:id="Bae_TB_8_264">stimmt aber zu</add> dass sie, wenn die Combination gelingt, hinausgegeben werde. 3) Amtssprache via facti wurde lange discutirt. Frage wurde vertagt, da 
+          <add place="across" xml:id="Bae_TB_8_264">stimmt aber zu</add> dass sie, wenn die Combination gelingt, hinausgegeben werde. 3) Amtssprache via facti wurde lange discutirt. Frage wurde vertagt, da 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_8_265">Pacák</persName> sich ohne 
           <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_8_266">Kramář</persName> nicht entscheiden wollte. 4) Universität in 
           <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_8_267">Mähren</placeName>. 
@@ -588,11 +588,11 @@
         </p>
         <p xml:id="Bae_TB_8_272">
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_273">Gautsch</persName> erklärt, dass er sich die Durchfürung derartig denke, dass 2 Deutsche 
-          <add xml:id="Bae_TB_8_274">( 
+          <add place="across" xml:id="Bae_TB_8_274">( 
             <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_275">Derschatta</persName> und 
             <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_8_276">Prade</persName>) 
           </add> ins Ministerium treten, einer als Ressortminister, der andere als Landsmannminister, dagegen ein Czeche 
-          <add xml:id="Bae_TB_8_277">( 
+          <add place="across" xml:id="Bae_TB_8_277">( 
             <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_8_278">Pacák</persName>) 
           </add> als Landsman Minister. 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_8_279">Pacák</persName> widerspricht 
@@ -956,7 +956,7 @@
         </p>
         <p xml:id="Bae_TB_8_447">
           <anchor xml:id="Bae_TB_8_448"/>Es war eben nur der eine Gedanke, der ihn beherrschte. Ich begieng aber nicht den so oft begangenen Fehler 
-          <add xml:id="Bae_TB_8_449">zu erzählen sondern</add>
+          <add place="across" xml:id="Bae_TB_8_449">zu erzählen sondern</add>
           <del rendition="#s" xml:id="Bae_TB_8_450">und</del> schwieg über die 
           <index xml:id="Bae_TB_8_451">
             <term key="Kaiser Franz Joseph" xml:id="Bae_TB_8_452">Audienz</term>
@@ -968,7 +968,7 @@
             <abbr xml:id="Bae_TB_8_2215">u.</abbr>
             <expan xml:id="Bae_TB_8_2216">und</expan>
           </choice> werde daran nicht zu Grunde gehen. Auch hier kommt nach Regen wieder Sonnenschein. 
-          <add xml:id="Bae_TB_8_453">
+          <add place="across" xml:id="Bae_TB_8_453">
             <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_454">Er</persName> gab mir bei der Verabschiedung nicht die Hand 
           </add>. 
           <app from="#Bae_MF_6-2_795" type="notEqual" xml:id="Bae_TB_8_455">
@@ -989,7 +989,7 @@
           </index> beider Parteien stattgefunden. Die interessanteste fand am 
           <date when="1906-04-11" xml:id="Bae_TB_8_464">11. 
             <del rendition="#s" xml:id="Bae_TB_8_465">März</del>
-            <add xml:id="Bae_TB_8_466">April 1906</add>
+            <add place="across" xml:id="Bae_TB_8_466">April 1906</add>
           </date> statt, aus Anlass eines Diners, welches Erwein 
           <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X" xml:id="Bae_TB_8_467">Nostitz</persName> uns in seinem prachtvollen Palais gab. 
           <app from="#Bae_MF_6-2_799" type="notEqual" xml:id="Bae_TB_8_468">
@@ -1125,7 +1125,7 @@
           <app from="#Bae_MF_6-2_861" type="notEqual" xml:id="Bae_TB_8_517">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_518">, fast alle Herren waren</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_1647"/> intransigent: alles verhindern, den 
+          <anchor xml:id="Bae_TB_8_1647"/> intransingent: alles verhindern, den 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_519">Gautsch</persName> stürzen, alles andere der Zukunft überlassen. 
           <persName key="Silva-TaroucaErnst" ref="https://d-nb.info/gnd/127064842" xml:id="Bae_TB_8_520">Tarouca</persName>
           <choice xml:id="Bae_TB_8_2241">
@@ -1223,7 +1223,7 @@
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1674">einigen.</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1675"/>
-          <add xml:id="Bae_TB_8_563">
+          <add place="across" xml:id="Bae_TB_8_563">
             <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_8_564">Grabmayr</persName>: 3 Wahlkörper, aber getrennt wählend. 
             <persName key="GoluchowskiAgenor" ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_TB_8_565">
               <choice xml:id="Bae_TB_8_2247">
@@ -2583,17 +2583,16 @@
           </app>
           <anchor xml:id="Bae_TB_8_1911"/>sich die gestellte Frage dahin: Sollen wir den 
           <del rendition="#s" xml:id="Bae_TB_8_2513">traurigen</del>
-          <add xml:id="Bae_TB_8_2514">bisherigen</add> Kampf, Arm in Arm mit den 
+          <add place="across" xml:id="Bae_TB_8_2514">bisherigen</add> Kampf, Arm in Arm mit den 
           <orgName key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0" xml:id="Bae_TB_8_1146">Alldeutschen</orgName>
-          <del rendition="#s" xml:id="Bae_TB_8_2515">und alten Radicalen</del>, die Politik der Fallstricke usf. fortsetzen oder nicht? Ich bin 
+          <del rendition="#s" xml:id="Bae_TB_8_2515">und allen radicalen Deutschen</del>, die Politik der <add place="across">kleinen</add> Fallstricke usf. fortsetzen oder nicht? Ich bin 
           <hi rendition="#ul" xml:id="Bae_TB_8_2516">dagegen</hi>, denn es ist töricht von einer politischen Partei
           <del rendition="ul" xml:id="Bae_TB_8_2517">, die sich in Zukunft</del> sich in einem nutzlosen 
           <pb facs="#F_K-5_Bae_TB_8-031" n="32v" xml:id="Bae_TB_8_1147"/>
           <note type="editorial" xml:id="Bae_TB_8_1148">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-5_Bae_TB_8-031" n="33r" xml:id="Bae_TB_8_1149"/>Kampf und durch sehr bedenkliche Allianzen zu verbrauchen. 
-          <del rendition="#s" xml:id="Bae_TB_8_2518">Andererseits kann ich nicht befürworten, dass wir in der Lage den ...</del>
-          <del rendition="#s" xml:id="Bae_TB_8_2519">Andererseits sind wir Gegner der Wahlen und wir werden... Das neue war aber in der</del>
-          <!-- CA: hier die dels mit unsicherer bzw. jetzt noch unvollständiger LEsung. -->
+          <del rendition="#s" xml:id="Bae_TB_8_2518">Andererseits kann ich nicht befürworten, dass wir in das Lager der Wahreformfreunde übergehen.</del>
+          <del rendition="#s" xml:id="Bae_TB_8_2519">Andererseits sind wir Gegner der Wahlreform und wir werden nicht den [...] Staatsnatur. Das muss man aber in der Politik.</del>
         </p>
         <p xml:id="Bae_TB_8_1150">Lassen wir also geschehen, was wir nicht hindern können, und blicken wir in die Zukunft.</p>
         <p xml:id="Bae_TB_8_1151">Haben wir noch eine Zukunft?</p>
@@ -2638,18 +2637,18 @@
           <hi rendition="#ul" xml:id="Bae_TB_8_2524">"wir setzen unseren Widerstand gegen die Wahlreform fort"</hi> oder 
           <hi rendition="#ul" xml:id="Bae_TB_8_2525">"wir fügen uns den Tatsachen und bereiten eine Politik der Zukunft vor"</hi>. Will man sich weder zu dem einen noch zu dem andern bekennen, dann muss die Versammlung unterbleiben, da sie mit 
           <del rendition="#s" xml:id="Bae_TB_8_2526">dem</del>
-          <add xml:id="Bae_TB_8_2527">bloßem</add> Wischiwaschi nicht ausgefüllt werden kann. Das erste Leitmotiv halte ich für unglücklich, weil es gegen Tatsachen strebt, die wir nicht mehr abwenden können. Das Intonieren des zweiten Leitmotivs hätte die Folgen: dass wir dadurch der Finalisierung der Wahlreform Vorschub leisten – die Haltung unserer 
+          <add place="across" xml:id="Bae_TB_8_2527">bloßem</add> Wischiwaschi nicht ausgefüllt werden kann. Das erste Leitmotiv halte ich für unglücklich, weil es gegen Tatsachen strebt, die wir nicht mehr abwenden können. Das Intonieren des zweiten Leitmotivs hätte die Folgen: dass wir dadurch der Finalisierung der Wahlreform Vorschub leisten – die Haltung unserer 
           <index xml:id="Bae_TB_8_1171">
             <term key="Reichsrat" xml:id="Bae_TB_8_1172">Herrenhausmitglieder</term>
             <index xml:id="Bae_TB_8_1922">
               <term key="Herrenhaus" xml:id="Bae_TB_8_1923"/>
             </index>
-          </index> präjudizieren – Missbilligung der Intransigenten auf uns laden. Trotzdem bin ich dafür, aber nicht um schön zu sterben, sondern um weiterleben zu können. Es handelt sich darum, eine Form zu finden, die unsere 
+          </index> präjudizieren – Missbilligung der Intransingenten auf uns laden. Trotzdem bin ich dafür, aber nicht um schön zu sterben, sondern um weiterleben zu können. Es handelt sich darum, eine Form zu finden, die unsere 
           <pb facs="#F_K-5_Bae_TB_8-033" n="34v" xml:id="Bae_TB_8_1173"/>
           <note type="editorial" xml:id="Bae_TB_8_1174">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8-033" n="35r" xml:id="Bae_TB_8_1175"/>Frontveränderung 
           <app from="#Bae_MF_6-2_2347" type="equal" xml:id="Bae_TB_8_1924">
-            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1925">vollkommen klar sein, daß wir, wenn in der zweiten Hälfte September eine allgemeine Wählerversammlung abgehalten werden soll, in dieser Frage Farbe bekennen müssen. Das Leitmotiv für diese Versammlung kann nur sein entweder: wir setzen unsern Widerstand gegen die Wahlreform fort oder: wir fügen uns den Tatsachen und bereiten eine Politik der Zukunft vor. Will man sich weder zu dem einen noch zu dem andern bekennen, dann muß die Versammlung unterbleiben, da sie mit bloßem Wischiwaschi nicht ausgefüllt werden kann. Das erste Leitmotiv halte ich für unglücklich, weil es gegen Tatsachen streitet, die wir nicht mehr abwenden können. Das Intonieren des zweiten Leitmotivs hätte die Folgen: daß wir dadurch der Finalisierung der Wahlreform Vorschub leisten, die Haltung unserer Herrenhausmitglieder präjudizieren, Mißbilligung der Intransigenten auf uns laden. Trotzdem bin ich dafür, aber nicht um schön zu sterben, sondern um weiter zu leben. Es handelt sich darum, eine Form zu finden, die unsere Frontveränderung</rdg>
+            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1925">vollkommen klar sein, daß wir, wenn in der zweiten Hälfte September eine allgemeine Wählerversammlung abgehalten werden soll, in dieser Frage Farbe bekennen müssen. Das Leitmotiv für diese Versammlung kann nur sein entweder: wir setzen unsern Widerstand gegen die Wahlreform fort oder: wir fügen uns den Tatsachen und bereiten eine Politik der Zukunft vor. Will man sich weder zu dem einen noch zu dem andern bekennen, dann muß die Versammlung unterbleiben, da sie mit bloßem Wischiwaschi nicht ausgefüllt werden kann. Das erste Leitmotiv halte ich für unglücklich, weil es gegen Tatsachen streitet, die wir nicht mehr abwenden können. Das Intonieren des zweiten Leitmotivs hätte die Folgen: daß wir dadurch der Finalisierung der Wahlreform Vorschub leisten, die Haltung unserer Herrenhausmitglieder präjudizieren, Mißbilligung der Intransingenten auf uns laden. Trotzdem bin ich dafür, aber nicht um schön zu sterben, sondern um weiter zu leben. Es handelt sich darum, eine Form zu finden, die unsere Frontveränderung</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1176"/>manifestiert 
           <app from="#Bae_MF_6-2_1502" type="notEqual" xml:id="Bae_TB_8_1177">
@@ -2661,7 +2660,7 @@
           <app from="#Bae_MF_6-2_2352" type="equal" xml:id="Bae_TB_8_1927">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1928">und die angedeuteten Folgen eines solchen Schrittes abschwächt, unsere Stellung für die Zukunft aber 
               <del xml:id="Bae_TB_8_2528">begründet</del>
-              <add xml:id="Bae_TB_8_2529">vorbereitet</add>. Die Handhabe dazu bietet
+              <add place="across" xml:id="Bae_TB_8_2529">vorbereitet</add>. Die Handhabe dazu bietet
             </rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1180"/>
@@ -2684,9 +2683,9 @@
           <app from="#Bae_MF_6-2_2360" type="missing" xml:id="Bae_TB_8_1935">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1936"/>
           </app>
-          <anchor xml:id="Bae_TB_8_1937"/> dagegen, das Pluralwahlrecht bloß dazu zu benutzen, um der Regierung ein Bein zu stellen und den letzten Versuch zu machen, die Wahlordnung zu Fall zu bringen. Das ist allerdings die ausgesprochene Absicht unserer Intransigenten, würde aber gewiss wieder nur zu einer Niederlage führen. Das Pluralwahlrecht muss 
+          <anchor xml:id="Bae_TB_8_1937"/> dagegen, das Pluralwahlrecht bloß dazu zu benutzen, um der Regierung ein Bein zu stellen und den letzten Versuch zu machen, die Wahlordnung zu Fall zu bringen. Das ist allerdings die ausgesprochene Absicht unserer Intransingenten, würde aber gewiss wieder nur zu einer Niederlage führen. Das Pluralwahlrecht muss 
           <app from="#Bae_MF_6-2_2363" type="equal" xml:id="Bae_TB_8_1938">
-            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1939">dagegen, das Pluralwahlrecht bloß dazu zu benutzen, um der Regierung ein Bein zu stellen und den letzten Versuch zu machen, die Wahlordnung zu Fall zu bringen. Das ist allerdings die ausgesprochene Absicht unserer Intransigenten, würde aber gewiss wieder nur zu einer Niederlage führen. Das Pluralwahlrecht muß</rdg>
+            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1939">dagegen, das Pluralwahlrecht bloß dazu zu benutzen, um der Regierung ein Bein zu stellen und den letzten Versuch zu machen, die Wahlordnung zu Fall zu bringen. Das ist allerdings die ausgesprochene Absicht unserer Intransingenten, würde aber gewiss wieder nur zu einer Niederlage führen. Das Pluralwahlrecht muß</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1186"/>1.) 
           <app from="#Bae_MF_6-2_1513" type="missing" xml:id="Bae_TB_8_1187">
@@ -2715,11 +2714,10 @@
           <pb facs="#F_K-5_Bae_TB_8-034" n="35v" xml:id="Bae_TB_8_1195"/>
           <note type="editorial" xml:id="Bae_TB_8_1196">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-5_Bae_TB_8-034" n="36r" xml:id="Bae_TB_8_1197"/>natürlich auch das 
-          <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_1198">Herrenhaus</orgName>
-          <del rendition="#s" xml:id="Bae_TB_8_2533">ob es will oder nicht</del>eistimmen und an dem es unbedingt festzuhalten erklären müsste – eine gewisse Geneigtheit entgegenbringen würden. 
+          <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_1198">Herrenhaus</orgName> <del rendition="#s" xml:id="Bae_TB_8_2533">ob es will oder nicht</del> beistimmen und an dem es unbedingt festzuhalten erklären müsste – eine gewisse Geneigtheit entgegenbringen würden. 
         </p>
-        <p xml:id="Bae_TB_8_1199">Es würden sich demnach folgende Eventualitäten ergeben: Kommt das Pluralwahlrecht auf 
-          <del rendition="#s" xml:id="Bae_TB_8_2534">die</del>diese Weise 
+        <p xml:id="Bae_TB_8_1199">Es würden sich demnach folgende Eventualitäten ergeben: <hi rendition="#ul">Kommt das Pluralwahlrecht auf 
+          <del rendition="#s" xml:id="Bae_TB_8_2534">die</del>diese Weise</hi> 
           <app from="#Bae_MF_6-2_2372" type="equal" xml:id="Bae_TB_8_1947">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1948">Kompromiss beantragt werden. Unter diesen zwei Voraussetzungen ist die Aktion nicht aussichtslos, denn so siegesgewiss sind Regierung und Parteien nicht, als dass sie nicht einem solchen Convenio, dem natürlich auch das Herrenhaus beistimmen und an dem es unbedingt festzuhalten erklären müsste – eine gewisse Geneigtheit entgegenbringen würden. Es würden sich demnach folgende Eventualitäten ergeben: Kommt das Pluralwahlrecht auf diese Weise</rdg>
           </app>
@@ -2727,14 +2725,11 @@
           <app from="#Bae_MF_6-2_1524" type="notEqual" xml:id="Bae_TB_8_1201">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1202">zustande, machen wir</rdg>
           </app>
-          <anchor xml:id="Bae_TB_8_1949"/> keine Schwierigkeiten mehr und stehen bei den voraussichtlichen wilden Kämpfen der 
+          <anchor xml:id="Bae_TB_8_1949"/> keine <del rendition="#s">Schwierigk</del>Schwierigkeiten mehr und stehen bei den voraussichtlichen wilden Kämpfen der 
           <orgName key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0" xml:id="Bae_TB_8_1203">Alldeutschen</orgName> Radikalen im Plenum des 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_1204"> Abgeordnetenhauses</orgName> Gewehr bei Fuß. Kommt das Pluralwahlrecht trotz unserer loyalen Erklärungen im Abgeordnetenhaus nicht zu Stande, dann 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_1204"> Abgeordnetenhauses</orgName> Gewehr bei Fuß. Kommt das Pluralwahlrecht <hi rendition="#ul">trotz unserer</hi> loyalen Erklärungen im Abgeordnetenhaus nicht zu Stande, dann 
           <app from="#Bae_MF_6-2_2375" type="equal" xml:id="Bae_TB_8_1950">
-            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1951">keine Schwierigkeiten mehr und stehen bei den voraussichtlichen wilden Kämpfen der Alldeutschen Radikalen im Plenum des Abgeordnetenhauses Gewehr bei Fuß. Kommt das Pluralwahlrecht 
-              <hi rendition="#ul" xml:id="Bae_TB_8_2535">trotz unserer loyalen Erklärungen</hi> im Abgeordnetenhaus 
-              <hi rendition="#ul" xml:id="Bae_TB_8_2536">nicht</hi> zustande, dann
-            </rdg>
+            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1951">keine Schwierigkeiten mehr und stehen bei den voraussichtlichen wilden Kämpfen der Alldeutschen Radikalen im Plenum des Abgeordnetenhauses Gewehr bei Fuß. Kommt das Pluralwahlrecht trotz unserer loyalen Erklärungen im Abgeordnetenhaus nicht zustande, dann</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1205"/>hat das 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_1206">Herrenhaus</orgName> eine wirksame Handhabe und kann, wenn auch dort die beiden von mir oben bezeichneten Voraussetzungen Richtschnur bleiben, eine Abänderung der Vorlage beschließen. Auf diese Weise könnte der von mir befürwortete Convenio bei der zweiten Beratung im 
@@ -2745,9 +2740,9 @@
           <anchor xml:id="Bae_TB_8_1952"/>Dieser Plan setzt allerdings eine sehr ruhige politische Beurteilung der Situation und viel Selbstbeherrschung 
           <pb facs="#F_K-5_Bae_TB_8-035" n="36v" xml:id="Bae_TB_8_1210"/>
           <note type="editorial" xml:id="Bae_TB_8_2412">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
-          <pb facs="#F_K-5_Bae_TB_8-035" n="37r" xml:id="Bae_TB_8_1211"/>voraus. Die Intransigenten in beiden Häusern werden das Schwäche nennen. Der bisherige wilde, verbissene Widerstand, 
+          <pb facs="#F_K-5_Bae_TB_8-035" n="37r" xml:id="Bae_TB_8_1211"/>voraus. Die Intransingenten in beiden Häusern werden das Schwäche nennen. Der bisherige wilde, verbissene Widerstand, 
           <app from="#Bae_MF_6-2_2378" type="equal" xml:id="Bae_TB_8_1953">
-            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1954">Dieser Plan setzt allerdings eine sehr ruhige politische Beurteilung der Situation und viel Selbstbeherrschung voraus. Die Intransigenten in beiden Häusern werden das Schwäche nennen. Der bisherige wilde, verbissene Widerstand,</rdg>
+            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1954">Dieser Plan setzt allerdings eine sehr ruhige politische Beurteilung der Situation und viel Selbstbeherrschung voraus. Die Intransingenten in beiden Häusern werden das Schwäche nennen. Der bisherige wilde, verbissene Widerstand,</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1212"/>
           <app from="#Bae_MF_6-2_1535" type="missing" xml:id="Bae_TB_8_1213">
@@ -2798,7 +2793,7 @@
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_8_1237">Lünz</placeName>, 
           <date when="1909-07-30" xml:id="Bae_TB_8_1238">30.7.
             <del rendition="#s" xml:id="Bae_TB_8_1239">1909</del>
-            <add xml:id="Bae_TB_8_1240">1906</add>
+            <add place="across" xml:id="Bae_TB_8_1240">1906</add>
           </date>
         </p>
         <p xml:id="Bae_TB_8_1241">Das vorstehende Memorandum blieb natürlich wirkungslos. Die Herren waren in die Opposition gegen die 
@@ -2824,7 +2819,7 @@
           </note> Dann auch das 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_1252">Herrenhaus</orgName>, das ihn aufnehmen sollte, versagte natürlich. 
           <app from="#Bae_MF_6-2_1552" type="notEqual" xml:id="Bae_TB_8_1253">
-            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1254">9. Das Herrenhaus. Wir haben uns in der letzten Zeit mit dem Exekutivkomitee der verfassungstreuen Gruppe des Herrenhauses in Verbindung gesetzt. Die Herren wissen aber noch viel weniger als wir was sie wollen. Wir konnten ihnen auch keinen bestimmten Antrag unterbreiten, weil bei uns die Intransigenten, vor allem Stürgkh, der bornierteste der Bornierten, dies immer wieder verhinderten; Wiewohl die überwiegende Majorität des Herrenhauses Gegner des allgemeinen Stimmrechts war, hat diese konservative Körperschaft in dieser Frage völlig versagt, und eine klägliche Rolle gespielt. Die Beeinflußungen durch die Regierung bewegten sich in andern Formen als im Abgeordnetenhause, wurden aber mit demselben Erfolg geübt.</rdg>
+            <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1254">9. Das Herrenhaus. Wir haben uns in der letzten Zeit mit dem Exekutivkomitee der verfassungstreuen Gruppe des Herrenhauses in Verbindung gesetzt. Die Herren wissen aber noch viel weniger als wir was sie wollen. Wir konnten ihnen auch keinen bestimmten Antrag unterbreiten, weil bei uns die Intransingenten, vor allem Stürgkh, der bornierteste der Bornierten, dies immer wieder verhinderten; Wiewohl die überwiegende Majorität des Herrenhauses Gegner des allgemeinen Stimmrechts war, hat diese konservative Körperschaft in dieser Frage völlig versagt, und eine klägliche Rolle gespielt. Die Beeinflußungen durch die Regierung bewegten sich in andern Formen als im Abgeordnetenhause, wurden aber mit demselben Erfolg geübt.</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1255"/>Dort wurde die Opposition gegen die Wahlreform ganz kopflos geführt 
           <app from="#Bae_MF_6-2_1565" type="notEqual" xml:id="Bae_TB_8_1256">
@@ -3119,7 +3114,7 @@
           <anchor xml:id="Bae_TB_8_2057"/>Jetzt 
           <date xml:id="Bae_TB_8_1383">
             <del rendition="#s" xml:id="Bae_TB_8_1384">1906</del>
-            <add xml:id="Bae_TB_8_1385">1905</add>
+            <add place="across" xml:id="Bae_TB_8_1385">1905</add>
           </date> tauchten 
           <app from="#Bae_MF_6-2_1778" type="equal" xml:id="Bae_TB_8_2058">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_2059">Jetzt 1905 tauchten</rdg>

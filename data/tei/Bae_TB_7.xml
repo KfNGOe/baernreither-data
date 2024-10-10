@@ -5610,7 +5610,7 @@
             <placeName key="Bozen" ref="https://www.geonames.org/6535953/bolzano-bozen.html" xml:id="Bae_TB_7_1746">Bozen</placeName>
             <date when="1905-10-10" xml:id="Bae_TB_7_1747">10.10.05</date>
           </del>
-          <add xml:id="Bae_TB_7_4335">
+          <add place="across" xml:id="Bae_TB_7_4335">
             <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_4336">Wien</placeName> im 
             <date when="1905-10" xml:id="Bae_TB_7_4337">Oktober 1905</date>
           </add>
