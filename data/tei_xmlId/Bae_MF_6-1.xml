@@ -76,7 +76,6 @@
       </creation>
       <langUsage xml:id="Bae_MF_6-1_46">
         <language ident="deu" xml:id="Bae_MF_6-1_47">Deutsch</language>
-        <!-- andere Sprachen? -->
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -4120,10 +4119,10 @@
             <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-1_666"
             >Oesterreich</placeName> hat auch die fünfte Kurie und das allgemeine Stimmrecht ohne
-          Rücksicht auf Ungarn eingeführt. <note type="editorial" xml:id="Bae_MF_6-1_667">1896 wurde
+          Rücksicht auf Ungarn eingeführt.<note type="editorial" xml:id="Bae_MF_6-1_667">Im Jahr 1896 wurde
             durch die Badenische Wahlrechtsreform eine fünfte Kurie geschaffen, die 72 Mandate
             umfasste und in der Männer über 25 Jahren mit einer jährlichen Steuerleistung von 5
-            Gulden resp. 4 Gulden wahlberechtigt waren geschaffen.</note> Die Ideen wirken herüber
+            Gulden resp. 4 Gulden wahlberechtigt waren.</note> Die Ideen wirken herüber
           und hinüber, dem sei nicht auszuweichen. Nun setzte ich ihm ausführlich auseinander, wenn
           die <orgName key="Delegationen" ref="https://d-nb.info/gnd/35883-6"
             xml:id="Bae_MF_6-1_668">Delegationen</orgName> nicht zusammentreten, das gemeinsame
@@ -4213,7 +4212,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1741">, fand er das ganz natürlich. Um ganz
               sicher zu gehen</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-1_1742"/>und da ich meinen Ohren nicht traute <app
+          <anchor xml:id="Bae_MF_6-1_1742"/>und da ich meinen Ohren nicht traute<app
             from="#Bae_TB_7_4136" type="notEqual" xml:id="Bae_MF_6-1_1743">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1744">und jedes Missverständnis zu
               vermeiden</rdg>
@@ -4306,7 +4305,7 @@
             xml:id="Bae_MF_6-1_685">Rakos-Palota</placeName> machte, wo ich eine
           Mädchenbesserungsanstalt besuchte. <note type="editorial" xml:id="Bae_MF_6-1_686"
             >Baernreither beschäftige sich seit den 1880er Jahren mit Fürsorgeeinrichtungen und
-            Strafanstalten für Jugendliche im internationalen Vergleich</note> Man kommt auf dem
+            Strafanstalten für Jugendliche im internationalen Vergleich.</note> Man kommt auf dem
           Wege durch <placeName key="Neupest" ref="https://www.geonames.org/3054638/budapest.html"
             xml:id="Bae_MF_6-1_687">Neupest</placeName>, wo ich seit 8 Jahren nicht gewesen war.
           Auffallend ist die große Vermehrung der industriellen Etablissements in diesem Stadtteil.
@@ -4341,8 +4340,7 @@
               auf und als ich</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1775"/>heute zum Redakteur des <orgName key="PesterLloyd"
-            ref="https://d-nb.info/gnd/5092487-4" xml:id="Bae_MF_6-1_690">Pester Lloyd</orgName>
-          <persName key="VeigelsbergLeo" ref="https://d-nb.info/gnd/117360430"
+            ref="https://d-nb.info/gnd/5092487-4" xml:id="Bae_MF_6-1_690">Pester Lloyd</orgName> <persName key="VeigelsbergLeo" ref="https://d-nb.info/gnd/117360430"
             xml:id="Bae_MF_6-1_691">Veigelsberg</persName>
           <app from="#Bae_TB_7_4163" type="notEqual" xml:id="Bae_MF_6-1_1776">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1777">Veigelsberg heute</rdg>
@@ -4416,7 +4414,7 @@
         </p>
         <p xml:id="Bae_MF_6-1_706">
           <anchor xml:id="Bae_MF_6-1_1790"/>Ich war <add xml:id="Bae_MF_6-1_707">diesmal</add> zwar
-          nur kurz hier <app from="#Bae_TB_7_4178" type="notEqual" xml:id="Bae_MF_6-1_1791">
+          nur kurz hier<app from="#Bae_TB_7_4178" type="notEqual" xml:id="Bae_MF_6-1_1791">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1792">Ich war nur einen Tag hier</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1793"/>, hatte aber den Vorteil, vom hiesigen Bürgermeister
@@ -4424,15 +4422,13 @@
             >Dr. Amruš</persName> geführt <app from="#Bae_TB_7_4181" type="equal"
             xml:id="Bae_MF_6-1_1794">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1795">, hatte aber den Vorteil vom hiesigen
-              Bürgermeister <persName key="AmrusMilan" ref="https://d-nb.info/gnd/143840010"
-                xml:id="Bae_MF_6-1_1796">Dr. Amruš</persName> geführt </rdg>
+              Bürgermeister Dr. Amruš geführt</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-1_1797"/>
-          <add xml:id="Bae_MF_6-1_709">und mit verschiedenen Politikern bekannt gemacht</add>
+          <anchor xml:id="Bae_MF_6-1_1797"/> <add xml:id="Bae_MF_6-1_709">und mit verschiedenen Politikern bekannt gemacht</add>
           <app from="#Bae_TB_7_4184" type="missing" xml:id="Bae_MF_6-1_1798">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1799"/>
           </app>
-          <anchor xml:id="Bae_MF_6-1_1800"/>zu werden, und es ergab sich die Gelegenheit im Laufe
+          <anchor xml:id="Bae_MF_6-1_1800"/> zu werden, und es ergab sich die Gelegenheit im Laufe
             <app from="#Bae_TB_7_4188" type="equal" xml:id="Bae_MF_6-1_1801">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1802">zu werden und es ergab sich die
               Gelegenheit im Laufe</rdg>
@@ -4446,16 +4442,15 @@
             >Amrusch</persName> war früher radikal und ist jetzt regierungsfreundlich, gehört also
           der <orgName key="Nationalpartei" xml:id="Bae_MF_6-1_711">Nationalpartei</orgName> an,
           steht mit dem <persName key="PejacevicTivadar" ref="https://d-nb.info/gnd/1025703324"
-            xml:id="Bae_MF_6-1_712">Banus</persName> gut und ist sehr gemässigt und - wenigstens
-          äußerlich - fromm. "Ein Zoll Macht ist mehr wert als eine Elle Rechte" – "ein kleines Land
+            xml:id="Bae_MF_6-1_712">Banus</persName> gut und ist sehr gemässigt und – wenigstens
+          äußerlich – fromm. "Ein Zoll Macht ist mehr wert als eine Elle Rechte" – "ein kleines Land
           soll sich nur bescheidene Ziele setzen" – "ein Volk hat ein größeres Interesse an einer
           guten Verwaltung als an staatsrechtlichen Theorien" – mit solchen und ähnlichen Sätzen
           würzte er seine Konversation. Heute ist in <placeName key="Laibach"
             ref="https://www.geonames.org/3239318/mestna-obcina-ljubljana.html"
             xml:id="Bae_MF_6-1_713">Laibach</placeName> eine große Festlichkeit zu Ehren eines
           slowenischen Dichters. <persName key="AmrusMilan" ref="https://d-nb.info/gnd/143840010"
-            xml:id="Bae_MF_6-1_714">Amrusch</persName>
-          <app from="#Bae_TB_7_4193" type="equal" xml:id="Bae_MF_6-1_1807">
+            xml:id="Bae_MF_6-1_714">Amrusch</persName> <app from="#Bae_TB_7_4193" type="equal" xml:id="Bae_MF_6-1_1807">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1808">über alles und jedes zu sprechen. Amruš
               war früher radical und ist jetzt regierungsfreundlich, gehört also der Nationalpartei
               an, steht mit dem Banus gut und ist sehr gemässigt und – wenigstens äusserlich –
@@ -4485,9 +4480,7 @@
               eine schwärmerische Verehrung für Strossmayr, den er einen der grössten Menschen
               nennt</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-1_1815"/>
-          <add xml:id="Bae_MF_6-1_719">Damit ist alles gesagt.</add>
-          <app from="#Bae_TB_7_4202" type="missing" xml:id="Bae_MF_6-1_1816">
+          <anchor xml:id="Bae_MF_6-1_1815"/> <add xml:id="Bae_MF_6-1_719">Damit ist alles gesagt.</add> <app from="#Bae_TB_7_4202" type="missing" xml:id="Bae_MF_6-1_1816">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1817"/>
           </app>
           <anchor xml:id="Bae_MF_6-1_1818"/>Er hat Vieles den Ungarn gegenüber auf dem Herzen, und
@@ -4495,7 +4488,7 @@
             ref="https://www.geonames.org/3202326/republic-of-croatia.html" xml:id="Bae_MF_6-1_720">
             Kroatien</placeName> empfunden werde, daß die Ungarn seit Jahrzehnten die Bahn
             <placeName key="NoviGrad" ref="https://www.geonames.org/8988622/novi-grad.html"
-            xml:id="Bae_MF_6-1_721">Novi</placeName> – <placeName key="Knin"
+            xml:id="Bae_MF_6-1_721">Novi</placeName>–<placeName key="Knin"
             ref="https://www.geonames.org/3197986/knin.html" xml:id="Bae_MF_6-1_722"
             >Knin</placeName> hintertreiben. So regierungsfreundlich er ist, schimmert bei ihm doch
           das Ideal der Kroaten durch. Auf Schritt und Tritt wird man hier an dasselbe gemahnt. Es
@@ -4544,8 +4537,7 @@
               spricht sie offen aus, sowol</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1836"/>das gemäßigte <orgName key="Obzor"
-            xml:id="Bae_MF_6-1_726">"Obzor"</orgName>
-          <app from="#Bae_TB_7_4223" type="notEqual" xml:id="Bae_MF_6-1_1837">
+            xml:id="Bae_MF_6-1_726">"Obzor"</orgName> <app from="#Bae_TB_7_4223" type="notEqual" xml:id="Bae_MF_6-1_1837">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1838">die gemässigte Obzorpartei</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1839"/>als die radikale <persName key="StarcevicAnte"
@@ -4587,10 +4579,8 @@
           <anchor xml:id="Bae_MF_6-1_1857"/>aber das setzt eine so <app from="#Bae_TB_7_4244"
             type="equal" xml:id="Bae_MF_6-1_1858">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1859">aber das setzt eine so</rdg>
-          </app>
-          <del xml:id="Bae_MF_6-1_731">rücksichtslose</del>
-          <anchor xml:id="Bae_MF_6-1_1860"/>
-          <add xml:id="Bae_MF_6-1_732">energische</add>
+          </app> <del xml:id="Bae_MF_6-1_731">rücksichtslose</del>
+          <anchor xml:id="Bae_MF_6-1_1860"/> <add xml:id="Bae_MF_6-1_732">energische</add>
           <app from="#Bae_TB_7_4247" type="notEqual" xml:id="Bae_MF_6-1_1861">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1862">rücksichtslose</rdg>
           </app>
@@ -4643,8 +4633,7 @@
           – aber es ist doch von allem etwas und rein manuell geschickt gemacht. Die Neubauten in
             <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html"
             xml:id="Bae_MF_6-1_739">Agram</placeName> sind geschmackvoll, sehr reinlich und das
-          Aussehen der <del xml:id="Bae_MF_6-1_740">nicht unbedeutenden</del>
-          <add xml:id="Bae_MF_6-1_741">neueren</add> Stadtteile geradezu überraschend nett und gut
+          Aussehen der <del xml:id="Bae_MF_6-1_740">nicht unbedeutenden</del> <add xml:id="Bae_MF_6-1_741">neueren</add> Stadtteile geradezu überraschend nett und gut
           gehalten. Ausgezeichnete Wasserleitung. Elektrische Anlage wird geplant, aber
           Gasbeleuchtung, die dieser Stadt 250.000 K jährlich trägt, wird nicht aufgelassen. Von
           Industrie allerdings erst Anfänge. Aber am gestrigen Feiertag sah man in den Straßen und
@@ -4721,7 +4710,7 @@
               <term key="Zwischenzoll" xml:id="Bae_MF_6-1_2147"/>
             </index>
           </index> ist unmöglich. Jeder Ansatz wäre willkürlich. Man käme mit der
-          Meistbegünstigungsklausel in unlösbaren Wi <pb facs="#F_K-11_Bae_MF_6-1_0033" n="33"
+          Meistbegünstigungsklausel in unlösbaren Wi-<pb facs="#F_K-11_Bae_MF_6-1_0033" n="33"
             xml:id="Bae_MF_6-1_754"/>derspruch. Er befürchtet vom <index xml:id="Bae_MF_6-1_755">
             <term key="Österreich-Ungarn" xml:id="Bae_MF_6-1_756">Zwischenzoll</term>
             <index xml:id="Bae_MF_6-1_2148">
@@ -4815,8 +4804,7 @@
             >Ungarn</placeName> schließen miteinander einen Handelsvertrag, indem sie sich vollen
           Freihandel gewähren. In beiden Staaten wird der autonome Zolltarif als selbständiger Tarif
           aber als identisches Gesetz proklamiert. Die wirtschaftlich-politischen <del
-            xml:id="Bae_MF_6-1_778">Staaten</del>
-          <add xml:id="Bae_MF_6-1_779">Abmachungen</add> werden vom <orgName
+            xml:id="Bae_MF_6-1_778">Staaten</del> <add xml:id="Bae_MF_6-1_779">Abmachungen</add> werden vom <orgName
             key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2"
             xml:id="Bae_MF_6-1_780">Ministerium des Äußern</orgName> im Namen von <placeName
             key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"
@@ -4838,7 +4826,7 @@
             xml:id="Bae_MF_6-1_786">Ungarn</placeName> könne nämlich nicht darauf verzichten, seine
           Industrie auszugestalten. <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-1_787"
-            >Oester <pb facs="#F_K-11_Bae_MF_6-1_0034" n="34" xml:id="Bae_MF_6-1_788"/>reich
+            >Oester- <pb facs="#F_K-11_Bae_MF_6-1_0034" n="34" xml:id="Bae_MF_6-1_788"/>reich
           </placeName> müßte daher darauf eingehen, daß zur Befriedigung des ungarischen
           Industriebedürfnisses die österreichische Industrie Zweigniederlassungen in <placeName
             key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_789"
@@ -5050,8 +5038,7 @@
           </app>
           <anchor xml:id="Bae_MF_6-1_1935"/>die ausgleichsfreundliche Stimmung in <placeName
             key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_826"
-            >Ungarn</placeName>
-          <app from="#Bae_TB_7_4493" type="notEqual" xml:id="Bae_MF_6-1_1936">
+            >Ungarn</placeName> <app from="#Bae_TB_7_4493" type="notEqual" xml:id="Bae_MF_6-1_1936">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1937">sie</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1938"/>immer mehr in den Hintergrund gedrängt werden. </p>
@@ -5294,7 +5281,7 @@
               zusammengesetzt ist, werde zerfallen, es werde sich eine Parteiorganisation bilden
               "auf der</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-1_1965"/>Basis von 1867 <app from="#Bae_TB_7_4349"
+          <anchor xml:id="Bae_MF_6-1_1965"/>Basis von 1867<app from="#Bae_TB_7_4349"
             type="notEqual" xml:id="Bae_MF_6-1_1966">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1967">67er Basis"</rdg>
           </app>
@@ -5366,7 +5353,7 @@
             Nichtungarn verhandeln möchten. Die Besprechungen mit dem von Franz Joseph daraufhin
             ernannten Vermittler <persName key="CzirakyBela" xml:id="Bae_MF_6-1_895">Graf Béla
               Cziráky</persName> endeten ergebnislos. </note>
-          <anchor xml:id="Bae_MF_6-1_1980"/>Statt eines versöhnlichen Schritts, die schroffe
+          <anchor xml:id="Bae_MF_6-1_1980"/> Statt eines versöhnlichen Schritts, die schroffe
           Anweisung, wobei die <persName key="KaiserFranzJoseph"
             ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-1_896">Krone</persName> und ihre
           Ratgeber wissen mußten, daß dieser Vorgang das Einlenken der Koalition geradezu unmöglich
@@ -5435,7 +5422,7 @@
             ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_MF_6-1_909">Szell</persName>
           getroffen und mit ihm bei Sacher gefrühstückt. Er sieht sehr trübe, fast hoffnungslos. Daß
           er über <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729"
-            xml:id="Bae_MF_6-1_910">Fejervary</persName> hart ur <pb facs="#F_K-11_Bae_MF_6-1_0040"
+            xml:id="Bae_MF_6-1_910">Fejervary</persName> hart ur-<pb facs="#F_K-11_Bae_MF_6-1_0040"
             n="40" xml:id="Bae_MF_6-1_911"/>teilt, ist politisch und menschlich begreiflich.
             <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729"
             xml:id="Bae_MF_6-1_912">Fejervary</persName> hat <persName key="SzellKalman"
