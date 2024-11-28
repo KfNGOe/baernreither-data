@@ -4,9 +4,7 @@ name: Tei To Turtle
 on:
   push:
     paths:
-      - "data/tei/**"
-    paths-ignore:
-      - "data/tei/README.md"
+      - "data/tei/**"    
       
 jobs:
   build:
