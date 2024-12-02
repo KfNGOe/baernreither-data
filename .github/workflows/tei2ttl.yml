@@ -28,7 +28,7 @@ jobs:
       - name: Install
         run: sudo bash install.sh
       - name: running tei transform
-        run: . ghactions-tei2ttl.sh
+        run: . gh_tei2ttl.sh
         env:
           changes: ${{ steps.files.outputs.all }}
       - name: Commit files
