@@ -1,0 +1,26 @@
+name: Deploy .xlsx files
+
+on:
+    push:
+      paths:
+        - "data/xlsx/**"    
+      
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      
+    steps:
+      - name: Perform Checkout
+        uses: actions/checkout@v3      
+      - name: Pushes xlsx data to baernreither-app
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
+        with:
+          source-directory: "data/xlsx"
+          target-directory: "data/xlsx"
+          destination-github-username: "KfNGOe"
+          destination-repository-name: "baernreither-app"
+          user-email: baernreither-app@github.io
+          target-branch: main
