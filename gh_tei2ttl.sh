@@ -5,8 +5,8 @@
 
 echo starting tei to ttl transformation
  
-inputDir="data/tei/"
-outputDir="data/tei_xmlId/"
+inputDir="data/tei/tei_toBuild/"
+outputDir="data/tei/tei_built/"
 
 filesChanged=false;
 

@@ -1,10 +1,10 @@
 echo "build tei to ttl"
 
-PATH_TEI='./data/tei/'
-PATH_TEI_XMLID='./data/tei_xmlId/'
-PATH_JSON_XMLID='./data/json_xmlId/'
-PATH_JSON_XMLJS='./data/json_xmlJs/'
-PATH_JSON_RDF='./data/json_rdf/'
+PATH_TEI='./data/tei/tei_toBuild/'
+PATH_TEI_XMLID='./data/tei/tei_built/'
+PATH_JSON_XMLID='./data/tei/json_xmlId/'
+PATH_JSON_XMLJS='./data/tei/json_xmlJs/'
+PATH_JSON_RDF='./data/tei/json_rdf/'
 PATH_TTL='./data/ttl/text/'
 
 FILENAME=$name

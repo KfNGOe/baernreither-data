@@ -4,7 +4,9 @@ name: Tei To Turtle
 on:
   push:
     paths:
-      - "data/tei/**"    
+      - "data/tei/tei_toBuild/**"
+    paths-ignore:
+      - "data/tei/tei_toBuild/README.md"
       
 jobs:
   build:
@@ -33,7 +35,7 @@ jobs:
       - name: running tei transform
         run: |
           set -e
-          ./gh_tei2ttl.sh
+          .gh_tei2ttl.sh
         env:
           changes: ${{ steps.files.outputs.all }}
       - name: Commit files
@@ -41,7 +43,7 @@ jobs:
           git config --global user.email "richard.hoermann@inode.at"
           git config --global user.name "rh1967"
           git add data          
-          git commit -m "Update TEI files"
+          git commit -m "Update data files"
           git push
   deploy:
     name: Deploy .ttl files
@@ -50,6 +52,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Perform Checkout
+        uses: actions/checkout@v3
       - name: Pushes ttl data to baernreither-app
         uses: cpina/github-action-push-to-another-repository@main
         env:
