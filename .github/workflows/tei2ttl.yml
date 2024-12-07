@@ -5,8 +5,7 @@ on:
   push:
     paths:
       - "data/tei/tei_toBuild/**"
-    paths-ignore:
-      - "data/tei/tei_toBuild/README.md"
+      - "!data/tei/tei_toBuild/README.md"
       
 jobs:
   build:
