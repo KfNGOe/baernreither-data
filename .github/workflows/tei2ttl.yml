@@ -34,7 +34,7 @@ jobs:
       - name: running tei transform
         run: |
           set -e
-          sudo bash gh_tei2ttl.sh
+          . gh_tei2ttl.sh
         env:
           changes: ${{ steps.files.outputs.all }}
       - name: Commit files
