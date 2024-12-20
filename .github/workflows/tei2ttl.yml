@@ -28,12 +28,10 @@ jobs:
       - id: files
         uses: jitterbit/get-changed-files@v1
       - name: Install          
-        run: |
-          set -e
+        run: |          
           sudo bash install.sh
       - name: running tei transform
-        run: |
-          set -e
+        run: |          
           . gh_tei2ttl.sh
         env:
           changes: ${{ steps.files.outputs.all }}
