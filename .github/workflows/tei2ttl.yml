@@ -32,16 +32,9 @@ jobs:
           sudo bash install.sh
       - name: running tei transform
         run: |          
-          . gh_tei2ttl.sh
-        env:
-          changes: ${{ steps.files.outputs.all }}
+          . gh_tei2ttl.sh        
       - name: Commit files
-        run: |
-          git config --global user.email "richard.hoermann@inode.at"
-          git config --global user.name "rh1967"
-          git add data          
-          git commit -m "Update data files"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
   deploy:
     name: Deploy .ttl files
     runs-on: ubuntu-latest
