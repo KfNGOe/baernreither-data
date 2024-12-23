@@ -36,7 +36,7 @@ jobs:
           changes: ${{ steps.files.outputs.all }}        
       - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v5      
-      - name: Pushes ttl data to baernreither-app
+      - name: Deploy ttl data to baernreither-app
         uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
@@ -47,7 +47,7 @@ jobs:
           destination-repository-name: "baernreither-app"
           user-email: baernreither-app@github.io
           target-branch: main
-      - name: Pushes xlsx data to baernreither-app
+      - name: Deploy xlsx data to baernreither-app
         uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
