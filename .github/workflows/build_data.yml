@@ -20,13 +20,7 @@ jobs:
         uses: actions/setup-java@v4
         with:
           java-version: "11"
-          distribution: "adopt"
-      #- name: Set up Node.js
-      #  uses: actions/setup-node@v2
-      #  with:
-      #    node-version: "16.x"      
-      #- name: Commit files
-      #  uses: stefanzweifel/git-auto-commit-action@v5      
+          distribution: "adopt"       
       - name: Deploy tei data to baernreither-app
         uses: cpina/github-action-push-to-another-repository@target-branch
         env:
