@@ -21,46 +21,25 @@ jobs:
         with:
           java-version: "11"
           distribution: "adopt"
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: "16.x"
-      - id: files
-        uses: jitterbit/get-changed-files@v1
-      - name: Install          
-        run: |          
-          sudo bash install.sh
-      - name: running tei transform
-        run: |          
-          . gh_tei2ttl.sh
-        env:
-          changes: ${{ steps.files.outputs.all }}        
-      - name: Commit files
-        uses: stefanzweifel/git-auto-commit-action@v5      
+      #- name: Set up Node.js
+      #  uses: actions/setup-node@v2
+      #  with:
+      #    node-version: "16.x"      
+      #- name: Commit files
+      #  uses: stefanzweifel/git-auto-commit-action@v5      
       - name: Deploy tei data to baernreither-app
-        uses: cpina/github-action-push-to-another-repository@main
+        uses: cpina/github-action-push-to-another-repository@target-branch
         env:
           API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
         with:
-          source-directory: "data/tei/tei_built"
-          target-directory: "data/tei/text"
+          source-directory: "data/tei/tei_toBuild"
+          target-directory: "data/tei/tei_toBuild"
           destination-github-username: "KfNGOe"
           destination-repository-name: "baernreither-app"
           user-email: baernreither-app@github.io
-          target-branch: main  
-      - name: Deploy ttl data to baernreither-app
-        uses: cpina/github-action-push-to-another-repository@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
-        with:
-          source-directory: "data/ttl/text"
-          target-directory: "data/ttl/text"
-          destination-github-username: "KfNGOe"
-          destination-repository-name: "baernreither-app"
-          user-email: baernreither-app@github.io
-          target-branch: main
+          target-branch: main      
       - name: Deploy xlsx data to baernreither-app
-        uses: cpina/github-action-push-to-another-repository@main
+        uses: cpina/github-action-push-to-another-repository@target-branch
         env:
           API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
         with:
@@ -71,7 +50,7 @@ jobs:
           user-email: baernreither-app@github.io
           target-branch: main
       - name: Deploy img data to baernreither-app
-        uses: cpina/github-action-push-to-another-repository@main
+        uses: cpina/github-action-push-to-another-repository@target-branch
         env:
           API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
         with:
