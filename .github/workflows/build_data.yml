@@ -26,8 +26,8 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
         with:
-          source-directory: "data/tei/tei_toBuild"
-          target-directory: "data/tei/tei_toBuild"
+          source-directory: "data/tei"
+          target-directory: "data/tei"
           destination-github-username: "KfNGOe"
           destination-repository-name: "baernreither-app"
           user-email: baernreither-app@github.io
