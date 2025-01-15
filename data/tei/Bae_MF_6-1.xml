@@ -91,119 +91,34 @@
           </app>
         </p>
       </div>
-      <div n="1905-01" type="diaryEntry" xml:id="Bae_MF_6-1_52">
-        <pb facs="#F_K-11_Bae_MF_6-1_0001" n="1" xml:id="Bae_MF_6-1_53"/>
-        <anchor xml:id="Bae_MF_6-1_948"/>
-        <head xml:id="Bae_MF_6-1_54">Die Erbschaft, die 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_55">Koerber</persName> hinterließ 
-          <app from="#Bae_TB_7_3332" type="notEqual" xml:id="Bae_MF_6-1_949">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_950">Finis</rdg>
+      <div n="1905-01" type="diaryEntry" xml:id="Bae_MF_6-1_52"><pb facs="#F_K-11_Bae_MF_6-1_0001" n="1" xml:id="Bae_MF_6-1_53"/><anchor xml:id="Bae_MF_6-1_948"/><head xml:id="Bae_MF_6-1_54">Die Erbschaft, die <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_55">Koerber</persName> hinterließ <app from="#Bae_TB_7_3332" type="notEqual" xml:id="Bae_MF_6-1_949"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_950">Finis</rdg>
           </app>
         </head>
-        <p xml:id="Bae_MF_6-1_56">
-          <anchor xml:id="Bae_MF_6-1_951"/>In der 
-          <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_MF_6-1_57"> Budgetausschußsitzung</orgName> vom 
-          <date when="1904-12-07" xml:id="Bae_MF_6-1_58">7. Dezember 1904</date> kam es über die Notstandskredite zur Abstimmung. 
-          <note type="editorial" xml:id="Bae_MF_6-1_59">Im Herbst 1904 kam es wegen eines regenarmen Sommers in Teilen der Monarchie, vor allem in Böhmen, zu Missernten und in Folge zu einem Notstand, der in dem vom Reichsrat zu bewilligenden Budget mit finanziellen Maßnahmen in Höhe von 15,5 Millionen Kronen niederschlug.</note> Wir Großgrundbesitzer stimmten für die Regierung, diese blieb aber, da die Deutschen unter der Führung 
-          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-1_60">Derschatta's</persName> abfielen, in der Minorität, worauf 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_61">Koerber</persName> das 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-1_62">Haus</orgName> sofort vertagte. 
-          <note type="editorial" xml:id="Bae_MF_6-1_63">Der Reichsrat war vom 9. Dezember 1904 bis zur Wiedereinberufung am 24. Jänner 1905 vertagt.</note>
-          <app from="#Bae_TB_7_3335" type="notEqual" xml:id="Bae_MF_6-1_952">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_953">Die sofortige Vertagung des Hauses nach der Budgetausschusssitzung, in welcher die Regierung in so starker Minorität geblieben war, war der letzte theatralische Coup der Regierung Körber.</rdg>
+        <p xml:id="Bae_MF_6-1_56"><anchor xml:id="Bae_MF_6-1_951"/>In der <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_MF_6-1_57">Budgetausschußsitzung</orgName> vom <date when="1904-12-07" xml:id="Bae_MF_6-1_58">7. Dezember 1904</date> kam es über die Notstandskredite zur Abstimmung. <note type="editorial" xml:id="Bae_MF_6-1_59">Im Herbst 1904 kam es wegen eines regenarmen Sommers in Teilen der Monarchie, vor allem in Böhmen, zu Missernten und in Folge zu einem Notstand, der in dem vom Reichsrat zu bewilligenden Budget mit finanziellen Maßnahmen in Höhe von 15,5 Millionen Kronen niederschlug.</note> Wir Großgrundbesitzer stimmten für die Regierung, diese blieb aber, da die Deutschen unter der Führung <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-1_60">Derschatta's</persName> abfielen, in der Minorität, worauf <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_61">Koerber</persName> das <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-1_62">Haus</orgName> sofort vertagte. <note type="editorial" xml:id="Bae_MF_6-1_63">Der Reichsrat war vom 9. Dezember 1904 bis zur Wiedereinberufung am 24. Jänner 1905 vertagt.</note><app from="#Bae_TB_7_3335" type="notEqual" xml:id="Bae_MF_6-1_952"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_953">Die sofortige Vertagung des Hauses nach der Budgetausschusssitzung, in welcher die Regierung in so starker Minorität geblieben war, war der letzte theatralische Coup der Regierung Körber.</rdg>
           </app>
         </p>
-        <p xml:id="Bae_MF_6-1_64">
-          <anchor xml:id="Bae_MF_6-1_954"/>Es folgten noch einige wenig erbauliche Szenen 
-          <app from="#Bae_TB_7_3338" type="notEqual" xml:id="Bae_MF_6-1_955">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_956">Dann folgten noch einige recht hässliche Scenen</rdg>
+        <p xml:id="Bae_MF_6-1_64"><anchor xml:id="Bae_MF_6-1_954"/>Es folgten noch einige wenig erbauliche Szenen <app from="#Bae_TB_7_3338" type="notEqual" xml:id="Bae_MF_6-1_955"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_956">Dann folgten noch einige recht hässliche Scenen</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-1_957"/>in unserem durch die 
-          <app from="#Bae_TB_7_3341" type="equal" xml:id="Bae_MF_6-1_958">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_959">in unserem durch die</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_960"/>schwache Leitung und die Meinungsverschiedenheiten zerfahrenen 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_6-1_65">Klub</orgName>. 
-          <app from="#Bae_TB_7_3344" type="notEqual" xml:id="Bae_MF_6-1_961">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_962">schlechte Leitung Schwegels ganz zerfarenen Club.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_963"/>
-          <app from="#Bae_TB_7_3347" type="missing" xml:id="Bae_MF_6-1_964">
-            <rdg xml:id="Bae_MF_6-1_965">Ludwigstorf wollte durchaus eine Clubsitzung haben, Schwegel berief sie sofort ein. Es gab ein Gezänke zwischen Stürgkh und mir.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_966"/>Die Anhänger 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_66">Koerber's</persName> waren 
-          <app from="#Bae_TB_7_3350" type="equal" xml:id="Bae_MF_6-1_967">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_968">Die Anhänger Körbers waren</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_969"/>sehr aufgeregt 
-          <app from="#Bae_TB_7_3353" type="notEqual" xml:id="Bae_MF_6-1_970">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_971">wütend</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_972"/>, wiewohl sie 
-          <app from="#Bae_TB_7_3355" type="equal" xml:id="Bae_MF_6-1_973">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_974">wiewol sie</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_975"/>laut 
-          <app from="#Bae_TB_7_3358" type="notEqual" xml:id="Bae_MF_6-1_976">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_977">höhnisch</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_978"/>proklamierten, daß die Abstimmung im Ausschusse auf die Stellung 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_67">Koerber's</persName> keinen Einfluss haben werde. Von den Differenzen im 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_6-1_68">Klub</orgName>
-          <app from="#Bae_TB_7_3361" xml:id="Bae_MF_6-1_979">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_980">proklamierten, dass die Abstimmung im Ausschuss auf die Stellung Körbers keinen Einfluss haben werde. Von den Differenzen im Club</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_981"/>drang Einiges in die Oeffentlichkeit, 
-          <app from="#Bae_TB_7_3364" type="notEqual" xml:id="Bae_MF_6-1_982">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_983">transpirierte einiges, d.h. meine guten Freunde im Club liessen es transpiriren</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_984"/>und die 
-          <orgName key="Bohemia" ref="https://d-nb.info/014500817" xml:id="Bae_MF_6-1_69">Bohemia</orgName> in 
-          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_6-1_70"> Prag</placeName> machte einen perfiden Ausfall auf mich. 
-          <note type="editorial" xml:id="Bae_MF_6-1_71">Die liberale Prager Zeitung "Bohemia" berichtete Mitte Dezember 1904 über die Differenzen in den Klubsitzungen des Verfassungstreuen Großgrundbesitzes. Sie bezeichnete Graf Stürgkh als Wortführer der Kritiker an Baernreither, die ihm vorwarfen, daß er für ein deutschliberal-jungtschechisches Koalitionsministerium Stimmung machte, für welches man ihn und Kramař als Ministerkandidaten bezeichnete. Vgl. 
-            <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19041217&amp;seite=5&amp;zoom=33" xml:id="Bae_MF_6-1_72">Reichspost v. 17.12. 1904, S. 5</ref>. 
-          </note> Als ich in diesen Tagen in 
-          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_6-1_73">Prag</placeName>
-          <app from="#Bae_TB_7_3367" type="equal" xml:id="Bae_MF_6-1_985">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_986">und die Bohemia in Prag machte einen perfiden Ausfall auf micht. Als ich in diesen Tagen in Prag</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_987"/> den 
-          <persName key="MladotaNepomuk" xml:id="Bae_MF_6-1_74">Baron Mladota</persName>
-          <app from="#Bae_TB_7_3370" type="notEqual" xml:id="Bae_MF_6-1_988">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_989">Mladota</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_990"/> begegnete, sagte er 
-          <app from="#Bae_TB_7_3373" type="equal" xml:id="Bae_MF_6-1_991">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_992">begegnete sagte er</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_993"/>zu mir: Das hat Dir wohl 
-          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_MF_6-1_75">Stürgkh</persName> eingebrockt. 
-          <app from="#Bae_TB_7_3376" type="notEqual" xml:id="Bae_MF_6-1_994">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_995">mir: nicht wahr, das verdankst du Stürgkh.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_996"/>Die Anhänger 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_76">Koerber's</persName> ahnten aber wohl doch was kommen werde. 
-          <app from="#Bae_TB_7_3379" type="notEqual" xml:id="Bae_MF_6-1_997">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_998">Die Wut der Körber Knechte war aber erklärlich, denn sie ahnten doch wohl was kommen musste.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_999"/>Wie der Sturz 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_77">Koerber's</persName> sich eigentlich vollzog, weiß ich nicht. 
-          <app from="#Bae_TB_7_3382" type="equal" xml:id="Bae_MF_6-1_1000">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1001">Wie der Sturz Körber's sich eigentlich vollzog weis ich nicht.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_1002"/>Tatsache ist, daß er in der letzten Zeit immer reizbarer geworden war, überarbeitet, keinen Rat, noch weniger Widerspruch ertragend. 
-          <app from="#Bae_TB_7_3385" type="notEqual" xml:id="Bae_MF_6-1_1003">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1004">Offenbar hatte ihn der Kaiser schon aufgegeben und die Abstimmung im Budgetausschuss gab ihm den Rest.</rdg>
+          <anchor xml:id="Bae_MF_6-1_957"/>in unserem durch die <app from="#Bae_TB_7_3341" type="equal" xml:id="Bae_MF_6-1_958"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_959">in unserem durch die</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_960"/>schwache Leitung und die Meinungsverschiedenheiten zerfahrenen <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_6-1_65">Klub</orgName>. <app from="#Bae_TB_7_3344" type="notEqual" xml:id="Bae_MF_6-1_961"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_962">schlechte Leitung Schwegels ganz zerfarenen Club.</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_963"/><app from="#Bae_TB_7_3347" type="missing" xml:id="Bae_MF_6-1_964"><rdg xml:id="Bae_MF_6-1_965">Ludwigstorf wollte durchaus eine Clubsitzung haben, Schwegel berief sie sofort ein. Es gab ein Gezänke zwischen Stürgkh und mir.</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_966"/>Die Anhänger <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_66">Koerber's</persName> waren <app from="#Bae_TB_7_3350" type="equal" xml:id="Bae_MF_6-1_967"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_968">Die Anhänger Körbers waren</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_969"/>sehr aufgeregt <app from="#Bae_TB_7_3353" type="notEqual" xml:id="Bae_MF_6-1_970"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_971">wütend</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_972"/>, wiewohl sie <app from="#Bae_TB_7_3355" type="equal" xml:id="Bae_MF_6-1_973"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_974">wiewol sie</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_975"/>laut <app from="#Bae_TB_7_3358" type="notEqual" xml:id="Bae_MF_6-1_976"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_977">höhnisch</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_978"/>proklamierten, daß die Abstimmung im Ausschusse auf die Stellung <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_67">Koerber's</persName> keinen Einfluss haben werde. Von den Differenzen im <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_6-1_68">Klub</orgName> <app from="#Bae_TB_7_3361" xml:id="Bae_MF_6-1_979"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_980">proklamierten, dass die Abstimmung im Ausschuss auf die Stellung Körbers keinen Einfluss haben werde. Von den Differenzen im Club</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_981"/>drang Einiges in die Oeffentlichkeit, <app from="#Bae_TB_7_3364" type="notEqual" xml:id="Bae_MF_6-1_982"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_983">transpirierte einiges, d.h. meine guten Freunde im Club liessen es transpiriren</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_984"/>und die <orgName key="Bohemia" ref="https://d-nb.info/014500817" xml:id="Bae_MF_6-1_69">Bohemia</orgName> in <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_6-1_70"> Prag</placeName> machte einen perfiden Ausfall auf mich. <note type="editorial" xml:id="Bae_MF_6-1_71">Die liberale Prager Zeitung "Bohemia" berichtete Mitte Dezember 1904 über die Differenzen in den Klubsitzungen des Verfassungstreuen Großgrundbesitzes. Sie bezeichnete Graf Stürgkh als Wortführer der Kritiker an Baernreither, die ihm vorwarfen, daß er für ein deutschliberal-jungtschechisches Koalitionsministerium Stimmung machte, für welches man ihn und Kramař als Ministerkandidaten bezeichnete. Vgl. <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=rpt&amp;datum=19041217&amp;seite=5&amp;zoom=33" xml:id="Bae_MF_6-1_72">Reichspost v. 17.12. 1904, S. 5</ref>.</note> Als ich in diesen Tagen in <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_6-1_73">Prag</placeName> <app from="#Bae_TB_7_3367" type="equal" xml:id="Bae_MF_6-1_985"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_986">und die Bohemia in Prag machte einen perfiden Ausfall auf micht. Als ich in diesen Tagen in Prag</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_987"/>den <persName key="MladotaNepomuk" xml:id="Bae_MF_6-1_74">Baron Mladota</persName> <app from="#Bae_TB_7_3370" type="notEqual" xml:id="Bae_MF_6-1_988"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_989">Mladota</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_990"/>begegnete, sagte er <app from="#Bae_TB_7_3373" type="equal" xml:id="Bae_MF_6-1_991"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_992">begegnete sagte er</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_993"/>zu mir: Das hat Dir wohl <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_MF_6-1_75">Stürgkh</persName> eingebrockt. <app from="#Bae_TB_7_3376" type="notEqual" xml:id="Bae_MF_6-1_994"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_995">mir: nicht wahr, das verdankst du Stürgkh.</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_996"/>Die Anhänger <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_76">Koerber's</persName> ahnten aber wohl doch was kommen werde. <app from="#Bae_TB_7_3379" type="notEqual" xml:id="Bae_MF_6-1_997"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_998">Die Wut der Körber Knechte war aber erklärlich, denn sie ahnten doch wohl was kommen musste.</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_999"/>Wie der Sturz <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_77">Koerber's</persName> sich eigentlich vollzog, weiß ich nicht. <app from="#Bae_TB_7_3382" type="equal" xml:id="Bae_MF_6-1_1000"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1001">Wie der Sturz Körber's sich eigentlich vollzog weis ich nicht.</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_1002"/>Tatsache ist, daß er in der letzten Zeit immer reizbarer geworden war, überarbeitet, keinen Rat, noch weniger Widerspruch ertragend. <app from="#Bae_TB_7_3385" type="notEqual" xml:id="Bae_MF_6-1_1003"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1004">Offenbar hatte ihn der Kaiser schon aufgegeben und die Abstimmung im Budgetausschuss gab ihm den Rest.</rdg>
           </app>
         </p>
-        <p xml:id="Bae_MF_6-1_78">
-          <anchor xml:id="Bae_MF_6-1_1005"/>
-          <app from="#Bae_TB_7_3390" type="missing" xml:id="Bae_MF_6-1_1006">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1007">Ich habe dann gehört dass die Czechen Mittel und Wege gefunden haben (Palmer?) den Kaiser wissen zu lassen, dass sie jedem Nachfolger gegenüber die Obstructionswaffe niederlegen würden. Aber auch ohne diese Thatsache würde sich der Fall Körbers leicht erklären lassen. Der Kaiser musste sich sagen dass er nicht weiter könne; von den Czechen offen bekämpft, von den Deutschen im Stich gelassen, hatte er gar keinen Einfluss mehr im Parlament und auch nicht einmal so viel Autorität um den § 14 anwenden zu können.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-1_1008"/>
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_79">Koerber</persName> hat, wie mir in den letzten Jahren seiner Regierung immer klarer wurde, viel Unheil angerichtet. Anfangs hat er die Idee gehabt, das 
+        <p xml:id="Bae_MF_6-1_78"><anchor xml:id="Bae_MF_6-1_1005"/><app from="#Bae_TB_7_3390" type="missing" xml:id="Bae_MF_6-1_1006"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1007">Ich habe dann gehört dass die Czechen Mittel und Wege gefunden haben (Palmer?) den Kaiser wissen zu lassen, dass sie jedem Nachfolger gegenüber die Obstructionswaffe niederlegen würden. Aber auch ohne diese Thatsache würde sich der Fall Körbers leicht erklären lassen. Der Kaiser musste sich sagen dass er nicht weiter könne; von den Czechen offen bekämpft, von den Deutschen im Stich gelassen, hatte er gar keinen Einfluss mehr im Parlament und auch nicht einmal so viel Autorität um den § 14 anwenden zu können.</rdg>
+          </app><anchor xml:id="Bae_MF_6-1_1008"/><persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_79">Koerber</persName> hat, wie mir in den letzten Jahren seiner Regierung immer klarer wurde, viel Unheil angerichtet. Anfangs hat er die Idee gehabt, das 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-1_80">Parlament</orgName> zu sanieren 
           <app from="#Bae_TB_7_3393" type="equal" xml:id="Bae_MF_6-1_1009">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1010">Körber hat, wie mir in den letzten Jahren seiner Regierung immer klarer wurde, sehr viel Unheil angerichtet. Anfangs hat er die Idee gehabt das Parlament zu saniren,</rdg>
@@ -245,8 +160,7 @@
           <app from="#Bae_TB_7_3417" type="equal" xml:id="Bae_MF_6-1_1030">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1031">Auch Oswald Thun, den er doch als einen seiner treuesten Anhänger ansehen musste riet dringend ab – es blieb bei der Einberufung und der Obstruction. Ganz demoralisirend war seine Presswirtschaft. Die ganze Presse hatte er</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-1_1032"/>nach und nach 
-          <app from="#Bae_TB_7_3423" type="missing" xml:id="Bae_MF_6-1_1033">
+          <anchor xml:id="Bae_MF_6-1_1032"/>nach und nach <app from="#Bae_TB_7_3423" type="missing" xml:id="Bae_MF_6-1_1033">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1034"/>
           </app>
           <anchor xml:id="Bae_MF_6-1_1035"/>gewonnen. Die Journalisten aller Parteien bekannten es offen ein, daß sie ihn stützen, weil er die spezifischen journalistischen Interessen pflegte. 
