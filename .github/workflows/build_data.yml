@@ -49,7 +49,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
         with:
           source-directory: "data/img"
-          target-directory: "data/img"
+          target-directory: "html/data/img"
           destination-github-username: "KfNGOe"
           destination-repository-name: "baernreither-app"
           user-email: baernreither-app@github.io
