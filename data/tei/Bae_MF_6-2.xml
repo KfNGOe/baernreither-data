@@ -396,7 +396,7 @@
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_211"/>
           </app>
           <anchor xml:id="Bae_MF_6-2_212"/>
-          <app from="#Bae_TB_8_1455" type="missing" xml:id="Bae_MF_6-2_213">
+          <app from="#Bae_TB_8_1456" type="missing" xml:id="Bae_MF_6-2_213">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_214">Das ist, glaub ich, eine ziemlich richtige Darstellung der Geschichte der Wahlreform.</rdg>
           </app>
         </p>
@@ -420,7 +420,7 @@
           <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_231">Kaisers</persName> Mißgeschick bestand aber darin, daß er zur Durchführung dieses Gedankens keinen wirklichen Staatsmann fand, der die Idee des allgemeinen Stimmrechts für die Entwicklung 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_232">Österreichs</placeName> fruchtbar gemacht hätte. Der alte 
           <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_233">Kaiser</persName> hat oft, viel öfter als man weiß, den richtigen Gedanken gehabt, aber die Kunst dafür den richtigen Mann herauszufinden war ihm versagt. 
-          <app from="#Bae_TB_8-1459" type="missing" xml:id="Bae_MF_6-2_234">
+          <app from="#Bae_TB_8_1459" type="missing" xml:id="Bae_MF_6-2_234">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_235"/>
           </app>
         </p>
@@ -441,15 +441,9 @@
           <app from="#Bae_TB_8_766" type="notEqual" xml:id="Bae_MF_6-2_241">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_242">"Fortwursteln".</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1832"/>Wenigen Herrschern und Staatsmännern ist es gegönnt gewesen, positiv im großen Stil zu sein. 
-          <add place="across" xml:id="Bae_MF_6-2_243">
-            <persName key="BismarckOtto" ref="https://d-nb.info/gnd/11851136X" xml:id="Bae_MF_6-2_244">Bismarck</persName> war es und 
-            <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_MF_6-2_245">Wilhelm II.</persName> suchte es zu sein. 
-          </add>
-          <app from="#Bae_TB_8_1785" type="equal" xml:id="Bae_MF_6-2_1833">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1834">Wenigen Herrschern und Staatsmännern ist es gegönnt gewesen, positiv im großen Stil zu sein. Bismarck war es und Kaiser Wilhelm II. sucht es zu sein.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1835"/> Bei uns ist die positive Politik seit 
+          <anchor xml:id="Bae_MF_6-2_1832"/>Wenigen Herrschern und Staatsmännern ist es gegönnt gewesen, positiv im großen Stil zu sein. <add place="across" xml:id="Bae_MF_6-2_243"><persName key="BismarckOtto" ref="https://d-nb.info/gnd/11851136X" xml:id="Bae_MF_6-2_244">Bismarck</persName> war es und <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_MF_6-2_245">Wilhelm II.</persName> <app from="#Bae_TB_8_1785" type="equal" xml:id="Bae_MF_6-2_1833"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1834">Wenigen Herrschern und Staatsmännern ist es gegönnt gewesen, positiv im großen Stil zu sein. Bismarck war es und Kaiser Wilhelm II.</rdg>
+            </app><anchor/>suchte <app from="#Bae_TB_8_771" type="notEqual"><rdg wit="#Bae_TB_8">sucht</rdg>
+              </app><anchor xml:id="Bae_MF_6-2_1835"/>es zu sein.</add> Bei uns ist die positive Politik seit 
           <app from="#Bae_TB_8_1788" type="equal" xml:id="Bae_MF_6-2_1836">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1837">Bei uns ist die positive Politik seit</rdg>
           </app>
@@ -546,95 +540,13 @@
           <app from="#Bae_TB_8_1376" type="notEqual" xml:id="Bae_MF_6-2_1861">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1862">Klasse und ihre Organe nicht auch Gegner der damaligen Wahlreform gewesen wären, und zwar wegen Belassung des Großgrundbesitzes.</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1863"/> Der 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_297">Kaiser</persName> fügte sich in die Situation, wiewohl er mit dem 
-          <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_MF_6-2_298">Taaffe</persName>- 
-          <persName key="SteinbachEmil" ref="https://d-nb.info/gnd/129263958" xml:id="Bae_MF_6-2_299">Steinbach</persName>’schen Wahlreformvorschlag sehr einverstanden war und daraus kein Hehl gemacht hatte. 
+          <anchor xml:id="Bae_MF_6-2_1863"/>Der <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_297">Kaiser</persName> fügte sich in die Situation, wiewohl er mit dem <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_MF_6-2_298">Taaffe</persName>-<persName key="SteinbachEmil" ref="https://d-nb.info/gnd/129263958" xml:id="Bae_MF_6-2_299">Steinbach</persName>’schen Wahlreformvorschlag sehr einverstanden war und daraus kein Hehl gemacht hatte. 
         </p>
-        <p xml:id="Bae_MF_6-2_302">
-          <anchor xml:id="Bae_MF_6-2_303"/>Die Koalitionsregierung 
-          <persName key="WindischgraetzAlfred" ref="https://d-nb.info/gnd/1019805544" xml:id="Bae_MF_6-2_304">Windischgrätz</persName> mußte sich selbstverständlich mit der Wahlreform beschäftigen, aber sie entschloß sich in dieser Frage zu nichts. Es zeigte sich gleich bei diesem Problem, daß die Herren, die 
-          <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_MF_6-2_305">Taaffe</persName> gestürzt hatten, sich zwar dazu rasch vereinigt hatten, zu einem positiven Zusammenarbeiten jedoch die politische Einsicht und Kraft nicht besassen. 
-          <persName key="WindischgraetzAlfred" ref="https://d-nb.info/gnd/1019805544" xml:id="Bae_MF_6-2_306">Windischgrätz</persName> erblickte im Abwägen 
-          <pb facs="#F_K-11_Bae_MF_6-2_008" n="6v" xml:id="Bae_MF_6-2_307"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_308">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_008" n="7r" xml:id="Bae_MF_6-2_309"/>aller Umstände, Forderungen und Schwierigkeiten eine Hauptaufgabe seines Amtes und kam aus 
-          <del rendition="#s" xml:id="Bae_MF_6-2_310">lauter</del>
-          <add place="across" xml:id="Bae_MF_6-2_311">dem edlen Streben nach</add> Unparteilichkeit zu keinem Entschluß. Im Kabinett war niemand, der zu einer durchgreifenden Geltung gelangt wäre. Die Zusammensetzung des Kabinetts war ganz verfehlt. Das Mitschleppen der alten 
-          <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_MF_6-2_312">Taaffe’schen</persName> Minister ( 
-          <persName key="BacquehemOlivier" ref="https://d-nb.info/gnd/143865420" xml:id="Bae_MF_6-2_313">Bacquehem</persName>, 
-          <persName key="SchoenbornFriedrich" ref="https://d-nb.info/gnd/116863854" xml:id="Bae_MF_6-2_314">Schönborn</persName>, 
-          <persName key="FalkenhaynJulius" ref="https://d-nb.info/gnd/135963850" xml:id="Bae_MF_6-2_315">Falkenhayn</persName>) die von Haus aus ganz anders orientiert waren, verhinderte von vornherein ein homogenes Zusammenwirken. Man vertrug sich zwar leidlich, brachte aber nichts Positives zustande. Der 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_316">Kaiser</persName> selbst glaubte nicht an einen längeren Bestand des Ministeriums. 
-          <persName key="BacquehemOlivier" ref="https://d-nb.info/gnd/143865420" xml:id="Bae_MF_6-2_317">Bacquehem</persName> erzählte mir später, daß er als mehrjähriger Handelsminister unter 
-          <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_MF_6-2_318">Taaffe</persName> nicht geneigt gewesen war, in dem Koalitionskabinett das 
-          <orgName key="MinisteriumdesInnern" ref="https://d-nb.info/gnd/260143-6" xml:id="Bae_MF_6-2_319">Ministerium des Innern</orgName> zu übernehmen, der 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_320">Kaiser</persName> ihn aber dazu bewog mit der Begründung: es wird ohnehin nicht lang dauern. So ist es erklärlich, daß der 
-          <orgName key="Wahlreformausschuss" xml:id="Bae_MF_6-2_321">Wahlreformausschuss</orgName> zwar unzählige Sitzungen abhielt, Subkomitees einsetzte und die verschiedensten Anträge beriet, aber zu keinem Ergebnis kam. In einer eingehenden Besprechung mit 
-          <persName key="WindischgraetzAlfred" ref="https://d-nb.info/gnd/1019805544" xml:id="Bae_MF_6-2_322">Windischgrätz</persName>, der den besten Willen hatte, bat ich ihn wenigstens meinen Antrag vom 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_323">Parlament</orgName> annehmen und die 
-          <index xml:id="Bae_MF_6-2_324">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_325">Arbeitervertreter</term>
-            <index xml:id="Bae_MF_6-2_1864">
-              <term key="Arbeiterkurie" xml:id="Bae_MF_6-2_1865"/>
-            </index>
-          </index> sobald als möglich zu dem bestehenden 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_326">Haus</orgName> hinzu wählen zu lassen. Damit wäre die Frage wenigstens vorläufig zur Ruhe gekommen, aber niemand unterstützte diese meine Ansicht. 
-          <persName key="BacquehemOlivier" ref="https://d-nb.info/gnd/143865420" xml:id="Bae_MF_6-2_327">Bacquehem</persName> als Minister des Innern betrieb die Reform des Wahlrechtes sehr 
-          <del rendition="#s" xml:id="Bae_MF_6-2_328">lahm</del>
-          <add place="across" xml:id="Bae_MF_6-2_329">lau</add> und 
-          <persName key="KuenburgGandolph" ref="https://d-nb.info/gnd/1017823952" xml:id="Bae_MF_6-2_330">Kuenburg</persName> als Obmann des 
-          <orgName key="Wahlreformausschuss" xml:id="Bae_MF_6-2_331">Wahlrechtsausschusses</orgName> stand den divergierenden, sich bekämpfenden Ansichten machtlos gegenüber. Eine Initiative der Regierung fehlte und es schleppten sich die Verhandlungen im Ausschuss durch die ganze Lebensdauer der Koalitionsregierung ohne Entscheidung. 
+        <p xml:id="Bae_MF_6-2_302"><anchor xml:id="Bae_MF_6-2_303"/>Die Koalitionsregierung <persName key="WindischgraetzAlfred" ref="https://d-nb.info/gnd/1019805544" xml:id="Bae_MF_6-2_304">Windischgrätz</persName> mußte sich selbstverständlich mit der Wahlreform beschäftigen, aber sie entschloß sich in dieser Frage zu nichts. Es zeigte sich gleich bei diesem Problem, daß die Herren, die <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_MF_6-2_305">Taaffe</persName> gestürzt hatten, sich zwar dazu rasch vereinigt hatten, zu einem positiven Zusammenarbeiten jedoch die politische Einsicht und Kraft nicht besassen. <persName key="WindischgraetzAlfred" ref="https://d-nb.info/gnd/1019805544" xml:id="Bae_MF_6-2_306">Windischgrätz</persName> erblickte im Abwägen <pb facs="#F_K-11_Bae_MF_6-2_008" n="6v" xml:id="Bae_MF_6-2_307"/><note type="editorial" xml:id="Bae_MF_6-2_308">Diese Seite ist leer.</note><pb facs="#F_K-11_Bae_MF_6-2_008" n="7r" xml:id="Bae_MF_6-2_309"/>aller Umstände, Forderungen und Schwierigkeiten eine Hauptaufgabe seines Amtes und kam aus <del rendition="#s" xml:id="Bae_MF_6-2_310">lauter</del><add place="across" xml:id="Bae_MF_6-2_311">dem edlen Streben nach</add> Unparteilichkeit zu keinem Entschluß. Im Kabinett war niemand, der zu einer durchgreifenden Geltung gelangt wäre. Die Zusammensetzung des Kabinetts war ganz verfehlt. Das Mitschleppen der alten <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_MF_6-2_312">Taaffe’schen</persName> Minister (<persName key="BacquehemOlivier" ref="https://d-nb.info/gnd/143865420" xml:id="Bae_MF_6-2_313">Bacquehem</persName>, <persName key="SchoenbornFriedrich" ref="https://d-nb.info/gnd/116863854" xml:id="Bae_MF_6-2_314">Schönborn</persName>, <persName key="FalkenhaynJulius" ref="https://d-nb.info/gnd/135963850" xml:id="Bae_MF_6-2_315">Falkenhayn</persName>) die von Haus aus ganz anders orientiert waren, verhinderte von vornherein ein homogenes Zusammenwirken. Man vertrug sich zwar leidlich, brachte aber nichts Positives zustande. Der <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_316">Kaiser</persName> selbst glaubte nicht an einen längeren Bestand des Ministeriums. <persName key="BacquehemOlivier" ref="https://d-nb.info/gnd/143865420" xml:id="Bae_MF_6-2_317">Bacquehem</persName> erzählte mir später, daß er als mehrjähriger Handelsminister unter <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_MF_6-2_318">Taaffe</persName> nicht geneigt gewesen war, in dem Koalitionskabinett das <orgName key="MinisteriumdesInnern" ref="https://d-nb.info/gnd/260143-6" xml:id="Bae_MF_6-2_319">Ministerium des Innern</orgName> zu übernehmen, der <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_320">Kaiser</persName> ihn aber dazu bewog mit der Begründung: es wird ohnehin nicht lang dauern. So ist es erklärlich, daß der <orgName key="Wahlreformausschuss" xml:id="Bae_MF_6-2_321">Wahlreformausschuss</orgName> zwar unzählige Sitzungen abhielt, Subkomitees einsetzte und die verschiedensten Anträge beriet, aber zu keinem Ergebnis kam. In einer eingehenden Besprechung mit <persName key="WindischgraetzAlfred" ref="https://d-nb.info/gnd/1019805544" xml:id="Bae_MF_6-2_322">Windischgrätz</persName>, der den besten Willen hatte, bat ich ihn wenigstens meinen Antrag vom <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_323">Parlament</orgName> annehmen und die <index xml:id="Bae_MF_6-2_324"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_325">Arbeitervertreter</term><index xml:id="Bae_MF_6-2_1864"><term key="Arbeiterkurie" xml:id="Bae_MF_6-2_1865"/></index></index> sobald als möglich zu dem bestehenden <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_326">Haus</orgName> hinzu wählen zu lassen. Damit wäre die Frage wenigstens vorläufig zur Ruhe gekommen, aber niemand unterstützte diese meine Ansicht. <persName key="BacquehemOlivier" ref="https://d-nb.info/gnd/143865420" xml:id="Bae_MF_6-2_327">Bacquehem</persName> als Minister des Innern betrieb die Reform des Wahlrechtes sehr <del rendition="#s" xml:id="Bae_MF_6-2_328">lahm</del><add place="across" xml:id="Bae_MF_6-2_329">lau</add> und <persName key="KuenburgGandolph" ref="https://d-nb.info/gnd/1017823952" xml:id="Bae_MF_6-2_330">Kuenburg</persName> als Obmann des <orgName key="Wahlreformausschuss" xml:id="Bae_MF_6-2_331">Wahlrechtsausschusses</orgName> stand den divergierenden, sich bekämpfenden Ansichten machtlos gegenüber. Eine Initiative der Regierung fehlte und es schleppten sich die Verhandlungen im Ausschuss durch die ganze Lebensdauer der Koalitionsregierung ohne Entscheidung. 
         </p>
-        <p xml:id="Bae_MF_6-2_332">Dann kam 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_6-2_333">Badeni</persName> mit seiner Wahlreform, an der ich mich nicht beteiligte, weil ich die 
-          <index xml:id="Bae_MF_6-2_334">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_335">Kurie</term>
-            <index xml:id="Bae_MF_6-2_1866">
-              <term key="Kurie Allgemeine Wählerklasse" xml:id="Bae_MF_6-2_1867"/>
-            </index>
-          </index> des allgemeinen 
-          <pb facs="#F_K-11_Bae_MF_6-2_009" n="7v" xml:id="Bae_MF_6-2_336"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_337">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_009" n="8r" xml:id="Bae_MF_6-2_338"/>Wahlrechtes an das alte Kurienparlament angeflickt, als ein auf die Dauer unhaltbares Auskunftsmittel ansah und überdies mit vielen anderen Arbeiten sehr beschäftigt war. 
+        <p xml:id="Bae_MF_6-2_332">Dann kam <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_6-2_333">Badeni</persName> mit seiner Wahlreform, an der ich mich nicht beteiligte, weil ich die <index xml:id="Bae_MF_6-2_334"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_335">Kurie</term><index xml:id="Bae_MF_6-2_1866"><term key="Kurie Allgemeine Wählerklasse" xml:id="Bae_MF_6-2_1867"/></index></index> des allgemeinen <pb facs="#F_K-11_Bae_MF_6-2_009" n="7v" xml:id="Bae_MF_6-2_336"/><note type="editorial" xml:id="Bae_MF_6-2_337">Diese Seite ist leer.</note><pb facs="#F_K-11_Bae_MF_6-2_009" n="8r" xml:id="Bae_MF_6-2_338"/>Wahlrechtes an das alte Kurienparlament angeflickt, als ein auf die Dauer unhaltbares Auskunftsmittel ansah und überdies mit vielen anderen Arbeiten sehr beschäftigt war. 
         </p>
-        <p xml:id="Bae_MF_6-2_339">Vor der Erlassung der darauf bald erfolgenden unglückseligen 
-          <index xml:id="Bae_MF_6-2_340">
-            <term key="Reichsrat" xml:id="Bae_MF_6-2_341">Sprachenverordnung</term>
-            <index xml:id="Bae_MF_6-2_1868">
-              <term key="Sprachverordnungen Badeni" xml:id="Bae_MF_6-2_1869"/>
-            </index>
-          </index> hatte das Kurienparlament noch gute Stunden. Große Gesetzeswerke, unter der Koalitionsregierung begonnen und unter dem Zwischensystem 
-          <persName key="KielmanseggErich" ref="https://d-nb.info/gnd/107511584" xml:id="Bae_MF_6-2_342">Kielmansegg</persName> und unter 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_6-2_343">Badeni</persName> fortgeführt, erhielten nach reiflicher rein sachlicher Beratung in beiden 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_344">Häusern</orgName> Gesetzeskraft. So wurde die Steuerreform unter Dach und Fach gebracht, die neue 
-          <index xml:id="Bae_MF_6-2_345">
-            <term key="Reichsrat" xml:id="Bae_MF_6-2_346">Zivilprozeßordnung</term>
-            <index xml:id="Bae_MF_6-2_1870">
-              <term key="Zivilprozessreform" xml:id="Bae_MF_6-2_1871"/>
-            </index>
-          </index> mit allen damit im Zusammenhang stehenden Gesetzen (ein Werk von 1400 Paragraphen ) war in verhältnismäßig kurzer Zeit erledigt worden. Für die 
-          <index xml:id="Bae_MF_6-2_347">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_348">Wahlreform</term>
-            <index xml:id="Bae_MF_6-2_1872">
-              <term key="Badenische Wahlreform" xml:id="Bae_MF_6-2_1873"/>
-            </index>
-          </index> war doch auch wenigstens momentan ein Ausweg gefunden – neben vielen kleinern Dingen. Als ich in dieser Zeit während einer 
-          <index xml:id="Bae_MF_6-2_349">
-            <term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_350">Delegationstagung</term>
-            <index xml:id="Bae_MF_6-2_1874">
-              <term key="Delegationen" xml:id="Bae_MF_6-2_1875"/>
-            </index>
-          </index> mit dem 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_351">Kaiser</persName> über das Beratungsgesetz zur Zivilprozessordnung sprach, hatte ich den Eindruck, daß er – der das 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_352">Abgeordnetenhaus</orgName> vor allem vom Standpunkt der Geschäftserledigung betrachtete – seiner Tätigkeit mit Zuversicht entgegensah. Nach dem Umsturz der parlamentarischen Ordnung durch die Sprachenverhältnisse, dann unter 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_6-2_353">Thun</persName>, war er wieder sehr skeptisch geworden, was man ersehen konnte, wenn er sehr kategorisch den 
-          <index xml:id="Bae_MF_6-2_354">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_MF_6-2_355">§ 14</term>
-            <index xml:id="Bae_MF_6-2_1876">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_MF_6-2_1877"/>
-            </index>
-          </index> als eine unbedingte Notwendigkeit bezeichnete und jedes Rütteln an dieser Bestimmung mit einer gewissen Heftigkeit zurückwies. 
+        <p xml:id="Bae_MF_6-2_339">Vor der Erlassung der darauf bald erfolgenden unglückseligen <index xml:id="Bae_MF_6-2_340"><term key="Reichsrat" xml:id="Bae_MF_6-2_341">Sprachenverordnung</term><index xml:id="Bae_MF_6-2_1868"><term key="Sprachverordnungen Badeni" xml:id="Bae_MF_6-2_1869"/></index></index> hatte das Kurienparlament noch gute Stunden. Große Gesetzeswerke, unter der Koalitionsregierung begonnen und unter dem Zwischensystem <persName key="KielmanseggErich" ref="https://d-nb.info/gnd/107511584" xml:id="Bae_MF_6-2_342">Kielmansegg</persName> und unter <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_6-2_343">Badeni</persName> fortgeführt, erhielten nach reiflicher rein sachlicher Beratung in beiden <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_344">Häusern</orgName> Gesetzeskraft. So wurde die Steuerreform unter Dach und Fach gebracht, die neue <index xml:id="Bae_MF_6-2_345"><term key="Reichsrat" xml:id="Bae_MF_6-2_346">Zivilprozeßordnung</term><index xml:id="Bae_MF_6-2_1870"><term key="Zivilprozessreform" xml:id="Bae_MF_6-2_1871"/></index></index> mit allen damit im Zusammenhang stehenden Gesetzen (ein Werk von 1400 Paragraphen ) war in verhältnismäßig kurzer Zeit erledigt worden. Für die <index xml:id="Bae_MF_6-2_347"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_348">Wahlreform</term><index xml:id="Bae_MF_6-2_1872"><term key="Badenische Wahlreform" xml:id="Bae_MF_6-2_1873"/></index></index> war doch auch wenigstens momentan ein Ausweg gefunden – neben vielen kleinern Dingen. Als ich in dieser Zeit während einer <index xml:id="Bae_MF_6-2_349"><term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_350">Delegationstagung</term><index xml:id="Bae_MF_6-2_1874"><term key="Delegationen" xml:id="Bae_MF_6-2_1875"/></index></index> mit dem <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_351">Kaiser</persName> über das Beratungsgesetz zur Zivilprozessordnung sprach, hatte ich den Eindruck, daß er – der das <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_352">Abgeordnetenhaus</orgName> vor allem vom Standpunkt der Geschäftserledigung betrachtete – seiner Tätigkeit mit Zuversicht entgegensah. Nach dem Umsturz der parlamentarischen Ordnung durch die Sprachenverhältnisse, dann unter  <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_6-2_353">Thun</persName>, war er wieder sehr skeptisch geworden, was man ersehen konnte, wenn er sehr kategorisch den <index xml:id="Bae_MF_6-2_354"><term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_MF_6-2_355">§ 14</term><index xml:id="Bae_MF_6-2_1876"><term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_MF_6-2_1877"/></index></index> als eine unbedingte Notwendigkeit bezeichnete und jedes Rütteln an dieser Bestimmung mit einer gewissen Heftigkeit zurückwies. 
           <app from="#Bae_TB_8_2054" type="missing" xml:id="Bae_MF_6-2_356">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_357"/>
           </app>
@@ -831,62 +743,9 @@
         </p>
         <p xml:id="Bae_MF_6-2_476">
           <!-- CA: ab hier gibt es eine entsprechende Textstelle in Bae_TB_7 -->
-          <anchor xml:id="Bae_MF_6-2_1911"/>Am selben Tage hatte ich eine lange Unterredung mit 
-          <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_MF_6-2_477">Bylandt</persName>, dem Minister des Innern. Ich sprach zuerst von der bedenklich erschütterten öffentlichen Ordnung und Sicherheit in 
-          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_6-2_478">Prag</placeName> und Umgebung. 
-          <note type="editorial" xml:id="Bae_MF_6-2_479">Am Sonntag, den 5. November 1905, wurden in Prag Demonstrationen für das allgemeine Wahlrecht veranstaltet, dabei kam es zu nationalistischen Ausschreitungen gegen deutsche Einrichtungen, die durch das Eingreifen des Militärs aufgelöst wurden.</note> Er gab mir eine für unsere Regierungsweise sehr bezeichnende Antwort: alle Berichte konstatieren eine große Aufregung der untern 
-          <index xml:id="Bae_MF_6-2_480">
-            <term key="Arbeiter" xml:id="Bae_MF_6-2_481">Volksklassen</term>
-          </index>. Höchst wahrscheinlich sei ein direkter Zusammenhang mit der 
-          <index xml:id="Bae_MF_6-2_482">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_483">Agitation</term>
-            <index xml:id="Bae_MF_6-2_1912">
-              <term key="Wahlrechtsagitation" xml:id="Bae_MF_6-2_1913"/>
-            </index>
-          </index> in 
-          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_MF_6-2_484">Russland</placeName>. Der 
-          <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_MF_6-2_485">Statthalter</persName> habe alle nötigen Vollmachten, um die notwendigen Maßregeln zu ergreifen. Sie seien in seiner Hand. Was er beantragen wird, dem wird in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_486">Wien</placeName> zugestimmt. Die Verhängung des Ausnahmezustandes muß vor dem 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_487">Reichsrat</orgName> begründet werde und würde eine grosse Debatte entfesseln. Trotzdem werde die Regierung nicht zögern, wenn die Notwendigkeit vom 
-          <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_MF_6-2_488">Statthalter</persName> konstatiert wird. Immer die Berufung auf den 
-          <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_MF_6-2_489">Statthalter</persName>. Nur keine eigene Verantwortung. 
+          <anchor xml:id="Bae_MF_6-2_1911"/>Am selben Tage hatte ich eine lange Unterredung mit <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_MF_6-2_477">Bylandt</persName>, dem Minister des Innern. Ich sprach zuerst von der bedenklich erschütterten öffentlichen Ordnung und Sicherheit in <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_6-2_478">Prag</placeName> und Umgebung. <note type="editorial" xml:id="Bae_MF_6-2_479">Am Sonntag, den 5. November 1905, wurden in Prag Demonstrationen für das allgemeine Wahlrecht veranstaltet, dabei kam es zu nationalistischen Ausschreitungen gegen deutsche Einrichtungen, die durch das Eingreifen des Militärs aufgelöst wurden.</note> Er gab mir eine für unsere Regierungsweise sehr bezeichnende Antwort: alle Berichte konstatieren eine große Aufregung der untern <index xml:id="Bae_MF_6-2_480"><term key="Arbeiter" xml:id="Bae_MF_6-2_481">Volksklassen</term></index>. Höchst wahrscheinlich sei ein direkter Zusammenhang mit der <index xml:id="Bae_MF_6-2_482"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_483">Agitation</term><index xml:id="Bae_MF_6-2_1912"><term key="Wahlrechtsagitation" xml:id="Bae_MF_6-2_1913"/></index></index> in <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_MF_6-2_484">Russland</placeName>. Der <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_MF_6-2_485">Statthalter</persName> habe alle nötigen Vollmachten, um die notwendigen Maßregeln zu ergreifen. Sie seien in seiner Hand. Was er beantragen wird, dem wird in <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_486">Wien</placeName> zugestimmt. Die Verhängung des Ausnahmezustandes muß vor dem <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_487">Reichsrat</orgName> begründet werde und würde eine grosse Debatte entfesseln. Trotzdem werde die Regierung nicht zögern, wenn die Notwendigkeit vom <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_MF_6-2_488">Statthalter</persName> konstatiert wird. Immer die Berufung auf den <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_MF_6-2_489">Statthalter</persName>. Nur keine eigene Verantwortung. 
         </p>
-        <p xml:id="Bae_MF_6-2_490">Bezüglich des allgemeinen Stimmrechtes äusserte er, daß es nicht mehr aufzuhalten sei. Das Programm 
-          <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-2_491">Fejérváry</persName> und die 
-          <index xml:id="Bae_MF_6-2_492">
-            <term key="Russland" xml:id="Bae_MF_6-2_493">russischen Zustände</term>
-            <index xml:id="Bae_MF_6-2_1914">
-              <term key="Russische Revolution 1905" xml:id="Bae_MF_6-2_1915"/>
-            </index>
-          </index> drängen die Regierung zu einer Reform. Uebrigens habe das 
-          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-2_494">Parlament</orgName> mit einer Majorität von 40 Stimmen sich ebenfalls für eine Wahlreform erklärt. Würde die Regierung zögern und sich sträuben, hätte sie keinen Halt an den Parteien des Hau- 
-          <pb facs="#F_K-11_Bae_MF_6-2_014" n="12v" xml:id="Bae_MF_6-2_495"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_496">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_014" n="13r" xml:id="Bae_MF_6-2_497"/>ses, die ganz unverläßlich sind. Bei der Wahlreform handle es sich um die notwendigen Einschränkungen. Ueber diese sowie alle Details ist die Regierung noch nicht schlüßig. Er ist gegen das 
-          <index xml:id="Bae_MF_6-2_498">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_499">Pluralitätssystem</term>
-            <index xml:id="Bae_MF_6-2_1916">
-              <term key="Pluralwahlrecht" xml:id="Bae_MF_6-2_1917"/>
-            </index>
-          </index> und hält auch die 
-          <index xml:id="Bae_MF_6-2_500">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_501">Proportionalwahlen</term>
-            <index xml:id="Bae_MF_6-2_1918">
-              <term key="Proportionalwahlrecht" xml:id="Bae_MF_6-2_1919"/>
-            </index>
-          </index> für undurchführbar. Ein Mittel die höhere Steuerleistung und Intelligenz zum Ausdruck zu bringen, wäre die verschiedene Größe der 
-          <index xml:id="Bae_MF_6-2_502">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_503">Wahlbezirke</term>
-            <index xml:id="Bae_MF_6-2_1920">
-              <term key="Wahlkreiseinteilung" xml:id="Bae_MF_6-2_1921"/>
-            </index>
-          </index>. Da könnte auch ein Vorteil für die Deutschen herausschauen. Beide Staatsmänner wußten auf meine Einwendung, daß das allgemeine Stimmrecht ohne weitere Voraussetzungen angewendet, den 
-          <index xml:id="Bae_MF_6-2_504">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_MF_6-2_505">Nationalitätenkampf</term>
-          </index> nicht abschwächen, sondern steigern werde, keine Antwort, doch gab mir 
-          <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_MF_6-2_506">Bylandt</persName> zu, daß Schlagworte eine noch größere Rolle spielen werden als heute. 
-          <app from="#Bae_TB_7_1825" type="notEqual" xml:id="Bae_MF_6-2_1922">
-            <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-2_1923">Über meine Gespräche mit Paul Gautsch u. Bylandt Anfang Nov[em]b[e]r 05 gibt der inliegende Brief an Erwein Nostitz u. der an ihn für unsere Landtagsmitglieder gesandte Bericht Nachricht. Wien am 8. Nov[em]b[e]r 05 Mit Graf Bylandt Ich brachte zur Sprache: 1) die öffentliche Ordnung u. Sicherheit in Prag u. Umgebung – 2) die Wahlreform. Graf B[ylandt] fürte aus: ad 1) Alle Berichte constatiren eine grosse Aufregung der untern Volksklassen. Höchst warscheinlich ist ein direkter Zusammenhang mit der Agitation in Russland. Der Statthalter hat alle nötigen Vollmachten um die notwendigen Maasregeln zu ergreifen. Sie sind in seiner Hand. Was er beantragt dem wird in Wien zugestimmt. Die Verhängung des Ausnamszustand muss vor dem R[eichs]Rat begründet werden u. würde eine grosse Debatte entfesseln. Trotzdem wird die Regierung nicht zögern, wenn die Notwendigkeit vom Statthalter constatirt wird. ad 2) Das allgemeine Stimmrecht ist nicht mehr aufzuhalten, die Curien sind nicht mehr haltbar. Das Programm Fejervary u. die russischen Zustände drängen die Regierung zu einer Reform. Uebrigens hat das Parlament mit einer Majorität von 40 Stimmen sich ebenfalls für eine Wahlreform erklärt. Würde die Regierung zögern u. sich sträuben, hätte sie keinen Halt an den Parteien des Hauses, die ganz unverlässlich sind. Bei der Wahlreform handelt es sich um die notwendigen Einschränkungen. Ueber diese sowie alle Details ist die Regierung noch nicht schlüssig. Bylandt ist gegen das Pluralitätssystem u. hält auch die Proportionalwahlen für undurchfürbar. Ein Mittel die höhere Steuerleistung u. Intelligenz zum Ausdruck zu bringen wäre die verschiedene Grösse der Wahlbezirke. Da könnte auch ein Vorteil für die Deutschen herausschauen. Ich wendete ein: 1) die Abgeordneten des allgemeinen Wahlrechtes werden einen noch wilderen Nationalitätenkampf untereinander füren – 2) sie werden für die Staatsnotwendigkeiten nicht zu haben sein, am wenigsten für die Gemeinsamkeit mit Ungarn. Darauf erwiderte er nichts und meinte nur, dass Schlagworte eine noch grössere Rolle spielen werden als heute.</rdg>
+        <p xml:id="Bae_MF_6-2_490">Bezüglich des allgemeinen Stimmrechtes äusserte er, daß es nicht mehr aufzuhalten sei. Das Programm <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-2_491">Fejérváry</persName> und die <index xml:id="Bae_MF_6-2_492"><term key="Russland" xml:id="Bae_MF_6-2_493">russischen Zustände</term><index xml:id="Bae_MF_6-2_1914"><term key="Russische Revolution 1905" xml:id="Bae_MF_6-2_1915"/></index></index> drängen die Regierung zu einer Reform. Uebrigens habe das <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-2_494">Parlament</orgName> mit einer Majorität von 40 Stimmen sich ebenfalls für eine Wahlreform erklärt. Würde die Regierung zögern und sich sträuben, hätte sie keinen Halt an den Parteien des Hau-<pb facs="#F_K-11_Bae_MF_6-2_014" n="12v" xml:id="Bae_MF_6-2_495"/><note type="editorial" xml:id="Bae_MF_6-2_496">Diese Seite ist leer.</note><pb facs="#F_K-11_Bae_MF_6-2_014" n="13r" xml:id="Bae_MF_6-2_497"/>ses, die ganz unverläßlich sind. Bei der Wahlreform handle es sich um die notwendigen Einschränkungen. Ueber diese sowie alle Details ist die Regierung noch nicht schlüßig. Er ist gegen das <index xml:id="Bae_MF_6-2_498"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_499">Pluralitätssystem</term><index xml:id="Bae_MF_6-2_1916"><term key="Pluralwahlrecht" xml:id="Bae_MF_6-2_1917"/></index></index> und hält auch die <index xml:id="Bae_MF_6-2_500"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_501">Proportionalwahlen</term><index xml:id="Bae_MF_6-2_1918"><term key="Proportionalwahlrecht" xml:id="Bae_MF_6-2_1919"/></index></index> für undurchführbar. Ein Mittel die höhere Steuerleistung und Intelligenz zum Ausdruck zu bringen, wäre die verschiedene Größe der <index xml:id="Bae_MF_6-2_502"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_503">Wahlbezirke</term><index xml:id="Bae_MF_6-2_1920"><term key="Wahlkreiseinteilung" xml:id="Bae_MF_6-2_1921"/></index></index>. Da könnte auch ein Vorteil für die Deutschen herausschauen. Beide Staatsmänner wußten auf meine Einwendung, daß das allgemeine Stimmrecht ohne weitere Voraussetzungen angewendet, den <index xml:id="Bae_MF_6-2_504"><term key="Nationalitätenkonflikt" xml:id="Bae_MF_6-2_505">Nationalitätenkampf</term></index> nicht abschwächen, sondern steigern werde, keine Antwort, doch gab mir <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_MF_6-2_506">Bylandt</persName> zu, daß Schlagworte eine noch größere Rolle spielen werden als heute. <app from="#Bae_TB_7_1825" type="notEqual" xml:id="Bae_MF_6-2_1922"><rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-2_1923">Über meine Gespräche mit Paul Gautsch u. Bylandt Anfang Nov[em]b[e]r 05 gibt der inliegende Brief an Erwein Nostitz u. der an ihn für unsere Landtagsmitglieder gesandte Bericht Nachricht. Wien am 8. Nov[em]b[e]r 05 Mit Graf Bylandt Ich brachte zur Sprache: 1) die öffentliche Ordnung u. Sicherheit in Prag u. Umgebung – 2) die Wahlreform. Graf B[ylandt] fürte aus: ad 1) Alle Berichte constatiren eine grosse Aufregung der untern Volksklassen. Höchst warscheinlich ist ein direkter Zusammenhang mit der Agitation in Russland. Der Statthalter hat alle nötigen Vollmachten um die notwendigen Maasregeln zu ergreifen. Sie sind in seiner Hand. Was er beantragt dem wird in Wien zugestimmt. Die Verhängung des Ausnamszustand muss vor dem R[eichs]Rat begründet werden u. würde eine grosse Debatte entfesseln. Trotzdem wird die Regierung nicht zögern, wenn die Notwendigkeit vom Statthalter constatirt wird. ad 2) Das allgemeine Stimmrecht ist nicht mehr aufzuhalten, die Curien sind nicht mehr haltbar. Das Programm Fejervary u. die russischen Zustände drängen die Regierung zu einer Reform. Uebrigens hat das Parlament mit einer Majorität von 40 Stimmen sich ebenfalls für eine Wahlreform erklärt. Würde die Regierung zögern u. sich sträuben, hätte sie keinen Halt an den Parteien des Hauses, die ganz unverlässlich sind. Bei der Wahlreform handelt es sich um die notwendigen Einschränkungen. Ueber diese sowie alle Details ist die Regierung noch nicht schlüssig. Bylandt ist gegen das Pluralitätssystem u. hält auch die Proportionalwahlen für undurchfürbar. Ein Mittel die höhere Steuerleistung u. Intelligenz zum Ausdruck zu bringen wäre die verschiedene Grösse der Wahlbezirke. Da könnte auch ein Vorteil für die Deutschen herausschauen. Ich wendete ein: 1) die Abgeordneten des allgemeinen Wahlrechtes werden einen noch wilderen Nationalitätenkampf untereinander füren – 2) sie werden für die Staatsnotwendigkeiten nicht zu haben sein, am wenigsten für die Gemeinsamkeit mit Ungarn. Darauf erwiderte er nichts und meinte nur, dass Schlagworte eine noch grössere Rolle spielen werden als heute.</rdg>
           </app>
         </p>
         <p xml:id="Bae_MF_6-2_507">
@@ -971,14 +830,8 @@
           <app from="#Bae_TB_8_1469" type="equal" xml:id="Bae_MF_6-2_1934">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1935">widerliches Bild. Eine Regierung,</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_563"/>die sich über die grossen 
-          <pb facs="#F_K-11_Bae_MF_6-2_017" n="15v" xml:id="Bae_MF_6-2_564"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_565">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_017" n="16r" xml:id="Bae_MF_6-2_566"/>Zusammenhänge staatlicher Wirkungen und Gegenwirkungen nicht Rechenschaft geben will, 
-          <app from="#Bae_TB_8_65" xml:id="Bae_MF_6-2_567">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_568">die aus Gründen, die nicht zu ergründen sind, einem Schlagworte politische Geltung verschaffen will, ohne sich über die großen Zusammenhänge staatlicher Wirkungen und Gegenwirkungen Rechenschaft geben zu wollen – </rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1936"/> politische Parteien, die zerfahren und unaufrichtig diesem 
+          <anchor xml:id="Bae_MF_6-2_563"/>die sich über die grossen <pb facs="#F_K-11_Bae_MF_6-2_017" n="15v" xml:id="Bae_MF_6-2_564"/><note type="editorial" xml:id="Bae_MF_6-2_565">Diese Seite ist leer.</note><pb facs="#F_K-11_Bae_MF_6-2_017" n="16r" xml:id="Bae_MF_6-2_566"/>Zusammenhänge staatlicher Wirkungen und Gegenwirkungen nicht Rechenschaft geben will, <app from="#Bae_TB_8_65" type="notEqual" xml:id="Bae_MF_6-2_567"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_568">die aus Gründen, die nicht zu ergründen sind, einem Schlagworte politische Geltung verschaffen will, ohne sich über die großen Zusammenhänge staatlicher Wirkungen und Gegenwirkungen Rechenschaft geben zu wollen – </rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1936"/> politische Parteien, die zerfahren und unaufrichtig diesem 
           <app from="#Bae_TB_8_1472" type="equal" xml:id="Bae_MF_6-2_1937">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1938">politische Parteien, die zerfaren u. unaufrichtig diesem</rdg>
           </app>
@@ -1201,18 +1054,7 @@
           </app>
         </p>
         <p xml:id="Bae_MF_6-2_663">
-          <anchor xml:id="Bae_MF_6-2_664"/>Ich habe von diesen Dingen Tag für Tag genaue Aufzeichnungen gemacht, denn der 
-          <index xml:id="Bae_MF_6-2_665">
-            <term key="Parteien" xml:id="Bae_MF_6-2_666">Viererausschuß der deutschen Parteien</term>
-            <index xml:id="Bae_MF_6-2_2008">
-              <term key="Viererausschuss der deutschen Parteien" xml:id="Bae_MF_6-2_2009"/>
-            </index>
-          </index> ( 
-          <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_MF_6-2_667">Gross</persName>, 
-          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-2_668">Derschatta</persName>, 
-          <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_MF_6-2_669">Lueger</persName> und ich) bestand und funktionierte noch. 
-          <note type="editorial" xml:id="Bae_MF_6-2_670">Im Viererausschuss der deutschen Parteien verbanden sich seit Juni 1903 mit Julius von Derschatta, Gustav Groß, Joseph M. Baernreither und Karl Lueger die führenden Abgeordneten der Deutschen Fortschrittspartei, der Deutschen Volkspartei, des Verfassungstreuen Großgrundbesitzes und der Christlichsoziale Partei zu einem Ausschuss, mit dem Ziel, die deutschen nationalen Interessen gemeinsam zu vertreten.</note>Aber nicht einmal in diesem Kreis hatte 
-          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-2_671">Derschatta</persName> Farbe bekannt. Diese ganzen Winkelzüge sind aber viel zu kleinlich, als daß ich sie wieder erzählen will. Die ganzen Verhandlungen der genannten Herren mit 
+          <anchor xml:id="Bae_MF_6-2_664"/>Ich habe von diesen Dingen Tag für Tag genaue Aufzeichnungen gemacht, denn der <index xml:id="Bae_MF_6-2_665"><term key="Parteien" xml:id="Bae_MF_6-2_666">Viererausschuß der deutschen Parteien</term><index xml:id="Bae_MF_6-2_2008"><term key="Viererausschuss der deutschen Parteien" xml:id="Bae_MF_6-2_2009"/></index></index> (<persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_MF_6-2_667">Gross</persName>, <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-2_668">Derschatta</persName>, <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_MF_6-2_669">Lueger</persName> und ich) bestand und funktionierte noch.<note type="editorial" xml:id="Bae_MF_6-2_670">Im Viererausschuss der deutschen Parteien verbanden sich seit Juni 1903 mit Julius von Derschatta, Gustav Groß, Joseph M. Baernreither und Karl Lueger die führenden Abgeordneten der Deutschen Fortschrittspartei, der Deutschen Volkspartei, des Verfassungstreuen Großgrundbesitzes und der Christlichsoziale Partei zu einem Ausschuss, mit dem Ziel, die deutschen nationalen Interessen gemeinsam zu vertreten.</note>Aber nicht einmal in diesem Kreis hatte <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-2_671">Derschatta</persName> Farbe bekannt. Diese ganzen Winkelzüge sind aber viel zu kleinlich, als daß ich sie wieder erzählen will. Die ganzen Verhandlungen der genannten Herren mit 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_672">Gautsch</persName>, die vom 
           <date when="1906-01-12" xml:id="Bae_MF_6-2_673">12.</date> bis 
           <date when="1906-01-25" xml:id="Bae_MF_6-2_674">25. Jänner 1906</date> dauerten, drehten sich keineswegs um einen großen politischen Plan, sondern um die alten 
@@ -1231,9 +1073,7 @@
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_MF_6-2_683"> Böhmen</placeName> sind angesichts einer Staatsfrage ersten Ranges Gegenstand des Schachers, der sich zerschlägt. Nebenbei aber doch auch geheime Besprechungen desselben Kreises von Abgeordneten, ob man 
           <pb facs="#F_K-11_Bae_MF_6-2_020" n="18v" xml:id="Bae_MF_6-2_684"/>
           <note type="editorial" xml:id="Bae_MF_6-2_685">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_020" n="19r" xml:id="Bae_MF_6-2_686"/>nicht die ganze Wahlreform einverständlich doch noch verhindern könnte. 
-          <app from="#Bae_TB_8_165" type="notEqual" xml:id="Bae_MF_6-2_687">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_688"> Ein Kartenbrief der ihn am 22.1. rechtzeitig zu einer Besprechung einladet trifft ihn „unmittelbar“ vor Abgang des letzten Zuges nach Graz: Telegramm N. 1. Durch wichtige Kanzleigeschäfte ist er bis Freitag „festgenagelt“: Telegramm N. 2. Einer abermaligen dringenden Aufforderung setzt er eine Conferenz mit den Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu Chiari u. expectorire mich; er telegrafirt, dass es unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4. Endlich kommt die Stunde der Beichte. Sie wird von Derschatta im Stande des unterdrückten u. schlecht verhehlten Zornes abgelegt. Sie folgt hier nach den unmittelbar während der Erzählung Derschatta‘s gemachten Aufzeichnungen. Nicht ein politischer Gedanke in den ganzen Verhandlungen, nicht ein Plan, sondern der alte Schacher um die alten Postulate, der Versuch eine „Situation“ zu schaffen ohne politischen Boden. Das Ganze ein jämmerliches Beispiel für das Niveau unserer Politik u. unserer Politiker. Diarium der Verhandlungen des Herrn von Derschatta mit Gautsch, aufgenommen in der Sitzung des 4 Ausschusses vom 25.1.1906. Freitag den 12.1.1906 Telegrafische Einladung von Gautsch zu einer Besprechung. Samstag den 13. Vormittag bei Gautsch. Mitteilung der Wahlordnung unter Ehrenwort. 205 deutsche Mandate bei einer Vermehrung der Gesamtzahl. Auf die Ziffern für Galizien wurde nicht eingegangen. Allgemeine politische Erörterungen über die Wahlreform die er machen will, Schwierigkeiten und Erörterungen über die Parteien, die geneigt sind. Sonntag den 14., 11 Uhr Vorm. abermalige Conferenz bei Gautsch mit Chiari. Dieselben Erörterungen. Gautsch spricht den Gedanken aus: ob es nicht möglich wäre dass von Seite der Czechen und Deutschen je eine Persönlichkeit ins Ministerium treten könnte. Er stelle sich vor, dass es auf diese Weise leichter sein werde bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und dass dann auch größere Aussicht vorhanden wäre die Verhandlungen über die Wahlreform vor den grössten Gefaren zu schützen. Derschatta u. Prade Chiari erwidern: 1) es ist ausgeschlossen, dass durch so einen Eintritt die deutsche Volkspartei gebunden werden kann 2) Derschatta tut allein nicht mit, es muss ein Deutschböhme dabei sein: Prade. Gautsch erwidert, er denke nicht daran die Partei dadurch zu binden, bittet aber die Sache geheim zu halten. Montag den 15.1.Erste Notiz im Prager Tagblatt (Abendblatt)! Conferenz Derschatta’s mit einer andern nicht genannten Persönlichkeit über die Anregungen Fragen ob man nicht die Wahlreform einverständlich verhindern könne. Dienstag 16.1.Telegramm Prade’s läuft ein, dass er von Meran kommt. Mittwoch 17.1.nichts Donnerstag 18.1. Ankunft Prade’s von Meran. Er ist der Meinung die Sache weiter zu verfolgen. Prade spricht am Abend allein mit Gautsch. Freitag den 19.1.nichts. Samstag den 20.1. Nachmittag 3 Uhr Besprechung bei Gautsch: Derschatta, Chiari, Prade, Pacák. Es wird mit der Wahlreform angefangen. Gautsch verlangt nicht die Bindung irgend einer Partei, er setzt nur voraus, dass jene Personen, welche eintreten die Pflicht übernehmen die Wahlordnung durchzusetzen. Grundzüge der Wahlreform wurden mitgeteilt u. es haben sich Hindernisse nicht ergeben. Von Seite der Regierung wurde nun der Wunsch geäussert, dass der böhm. Landtag die böhm. Wahlreform und das Curiengesetz erledigen solle, wogegen weder Pacák noch Prade eine Einwendung erhoben. Nun kamen die böhm. „Querelen“ dran. 1) Kreisgericht Trauttenau. Prade verlangte die Aktivirung ohne Eipel, Pacák wollte sie nur mit Eipel zugestehen. Keine Einigung, wurde von der Tagesordnung abgesetzt. 2) Verordnung, welche bestimmen soll dass in Böhmen bei den Staats- u. Landesanstellungen die Nationalitäten wie 2:3 berücksichtigt werden sollen. Pacák stellt fest dass dies eine neue Norm sei, stimmt aber zu dass sie, wenn die Combination gelingt, hinausgegeben werde. 3) Amtssprache via facti wurde lange discutirt. Frage wurde vertagt, da Pacák sich ohne Kramář nicht entscheiden wollte. 4) Universität in Mähren. Pacák erklärte sofort, dass er es ohne dieselbe nicht machen könne. 5) Verstaatlichungen der Eisenbahnen. Prade verlangt zwei Direktionen in Deutschböhmen, was Pacák zusagt. Gautsch erklärt, dass er sich die Durchfürung derartig denke, dass 2 Deutsche (Derschatta und Prade) ins Ministerium treten, einer als Ressortminister, der andere als Landsmannminister, dagegen ein Czeche (Pacák) als Landsman Minister. Pacák widerspricht u. verlangt für diese Combination auch einen Ressortminister für die Czechen, was die Deutschen als indiscutabel erklären. Sonntag 21.1. Neuerliche Conferenz zwischen denselben Herren, zu denen Zaczek noch dazukommt. Es wurde Alles noch einmal durchgesprochen mit demselben Resultat, wobei Derschatta den Standpunkt vertrat, dass aus diesem Anlass die böhm. Frage ja nicht gelöst werden könne. In der Frage der mähr. Universität offener Dissens. Zaczek verlangt wenn nicht Brünn, so doch Olmütz. Lange Discussion ohne Erfolg. Die Deutschen resumieren, dass von der Combination nur die Rede sein könne wenn innere Amtssprache u. Universität vollständig ausgeschaltet werden, indem sie das eine wie das andere ablehnen müssen. Damit waren die gemeinsamen Conferenzen beendet. Dr. v. Derschatta reiste noch Sonntag Abend nach Graz. Prade am Montag nach Reichenberg. Donnerstag den 25. Dr. v. Derschatta um ½ 11 Uhr bei Gautsch, der die Combination als aufgegeben erklärt. Das Ganze war kein offen eingestandener Plan, sondern sollte hinter den Coulissen fertiggemacht werden – unbegreiflich daher warum die offiziöse Presse Details der Sache in die Öffentlichkeit brachte u. das Pressbureau insbes. in der N. fr. Presse „Stimmung“ machen wollte. Am 23.1. erschien in der Presse ein Entrefilet offenbar von regierungswegen das die Absichten der Regierung plump enthüllte, aber auf gelogene Voraussetzungen baute. Darauf hin zwang Pergelt sowol Gross als Chiari dementierte Pergelt ganz entschieden in der N. fr. Presse (vom 24.) die „Verhandlungen“ u. Gross zwang Chiari mit ihm das Gleiche bezüglich Mährens zu tun. Diese kategorischen Dementis trugen offenbar dazu bei dass Pacák am 24. glatt ablehnte, was zur Folge hatte dass Gautsch am 25. Derschatta ebenfalls abwinkte. </rdg>
+          <pb facs="#F_K-11_Bae_MF_6-2_020" n="19r" xml:id="Bae_MF_6-2_686"/>nicht die ganze Wahlreform einverständlich doch noch verhindern könnte. <app from="#Bae_TB_8_165" type="notEqual" xml:id="Bae_MF_6-2_687"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_688">Ein Kartenbrief der ihn am 22.1. rechtzeitig zu einer Besprechung einladet trifft ihn „unmittelbar“ vor Abgang des letzten Zuges nach Graz: Telegramm N. 1. Durch wichtige Kanzleigeschäfte ist er bis Freitag „festgenagelt“: Telegramm N. 2. Einer abermaligen dringenden Aufforderung setzt er eine Conferenz mit den Steirern entgegen: Telegramm N. 3. Endlich gehe ich zu Chiari u. expectorire mich; er telegrafirt, dass es unmöglich sei sich länger zu entziehen – er kommt: Telegramm N. 4. Endlich kommt die Stunde der Beichte. Sie wird von Derschatta im Stande des unterdrückten u. schlecht verhehlten Zornes abgelegt. Sie folgt hier nach den unmittelbar während der Erzählung Derschatta‘s gemachten Aufzeichnungen. Nicht ein politischer Gedanke in den ganzen Verhandlungen, nicht ein Plan, sondern der alte Schacher um die alten Postulate, der Versuch eine „Situation“ zu schaffen ohne politischen Boden. Das Ganze ein jämmerliches Beispiel für das Niveau unserer Politik u. unserer Politiker. Diarium der Verhandlungen des Herrn von Derschatta mit Gautsch, aufgenommen in der Sitzung des 4 Ausschusses vom 25.1.1906. Freitag den 12.1.1906 Telegrafische Einladung von Gautsch zu einer Besprechung. Samstag den 13. Vormittag bei Gautsch. Mitteilung der Wahlordnung unter Ehrenwort. 205 deutsche Mandate bei einer Vermehrung der Gesamtzahl. Auf die Ziffern für Galizien wurde nicht eingegangen. Allgemeine politische Erörterungen über die Wahlreform die er machen will, Schwierigkeiten und Erörterungen über die Parteien, die geneigt sind. Sonntag den 14., 11 Uhr Vorm. abermalige Conferenz bei Gautsch mit Chiari. Dieselben Erörterungen. Gautsch spricht den Gedanken aus: ob es nicht möglich wäre dass von Seite der Czechen und Deutschen je eine Persönlichkeit ins Ministerium treten könnte. Er stelle sich vor, dass es auf diese Weise leichter sein werde bezüglich der Wahlreform die Schlusszusammenstellungen zu machen und dass dann auch größere Aussicht vorhanden wäre die Verhandlungen über die Wahlreform vor den grössten Gefaren zu schützen. Derschatta u. Prade Chiari erwidern: 1) es ist ausgeschlossen, dass durch so einen Eintritt die deutsche Volkspartei gebunden werden kann 2) Derschatta tut allein nicht mit, es muss ein Deutschböhme dabei sein: Prade. Gautsch erwidert, er denke nicht daran die Partei dadurch zu binden, bittet aber die Sache geheim zu halten. Montag den 15.1.Erste Notiz im Prager Tagblatt (Abendblatt)! Conferenz Derschatta’s mit einer andern nicht genannten Persönlichkeit über die Anregungen Fragen ob man nicht die Wahlreform einverständlich verhindern könne. Dienstag 16.1.Telegramm Prade’s läuft ein, dass er von Meran kommt. Mittwoch 17.1.nichts Donnerstag 18.1. Ankunft Prade’s von Meran. Er ist der Meinung die Sache weiter zu verfolgen. Prade spricht am Abend allein mit Gautsch. Freitag den 19.1.nichts. Samstag den 20.1. Nachmittag 3 Uhr Besprechung bei Gautsch: Derschatta, Chiari, Prade, Pacák. Es wird mit der Wahlreform angefangen. Gautsch verlangt nicht die Bindung irgend einer Partei, er setzt nur voraus, dass jene Personen, welche eintreten die Pflicht übernehmen die Wahlordnung durchzusetzen. Grundzüge der Wahlreform wurden mitgeteilt u. es haben sich Hindernisse nicht ergeben. Von Seite der Regierung wurde nun der Wunsch geäussert, dass der böhm. Landtag die böhm. Wahlreform und das Curiengesetz erledigen solle, wogegen weder Pacák noch Prade eine Einwendung erhoben. Nun kamen die böhm. „Querelen“ dran. 1) Kreisgericht Trauttenau. Prade verlangte die Aktivirung ohne Eipel, Pacák wollte sie nur mit Eipel zugestehen. Keine Einigung, wurde von der Tagesordnung abgesetzt. 2) Verordnung, welche bestimmen soll dass in Böhmen bei den Staats- u. Landesanstellungen die Nationalitäten wie 2:3 berücksichtigt werden sollen. Pacák stellt fest dass dies eine neue Norm sei, stimmt aber zu dass sie, wenn die Combination gelingt, hinausgegeben werde. 3) Amtssprache via facti wurde lange discutirt. Frage wurde vertagt, da Pacák sich ohne Kramář nicht entscheiden wollte. 4) Universität in Mähren. Pacák erklärte sofort, dass er es ohne dieselbe nicht machen könne. 5) Verstaatlichungen der Eisenbahnen. Prade verlangt zwei Direktionen in Deutschböhmen, was Pacák zusagt. Gautsch erklärt, dass er sich die Durchfürung derartig denke, dass 2 Deutsche (Derschatta und Prade) ins Ministerium treten, einer als Ressortminister, der andere als Landsmannminister, dagegen ein Czeche (Pacák) als Landsman Minister. Pacák widerspricht u. verlangt für diese Combination auch einen Ressortminister für die Czechen, was die Deutschen als indiscutabel erklären. Sonntag 21.1. Neuerliche Conferenz zwischen denselben Herren, zu denen Zaczek noch dazukommt. Es wurde Alles noch einmal durchgesprochen mit demselben Resultat, wobei Derschatta den Standpunkt vertrat, dass aus diesem Anlass die böhm. Frage ja nicht gelöst werden könne. In der Frage der mähr. Universität offener Dissens. Zaczek verlangt wenn nicht Brünn, so doch Olmütz. Lange Discussion ohne Erfolg. Die Deutschen resumieren, dass von der Combination nur die Rede sein könne wenn innere Amtssprache u. Universität vollständig ausgeschaltet werden, indem sie das eine wie das andere ablehnen müssen. Damit waren die gemeinsamen Conferenzen beendet. Dr. v. Derschatta reiste noch Sonntag Abend nach Graz. Prade am Montag nach Reichenberg. Donnerstag den 25. Dr. v. Derschatta um ½ 11 Uhr bei Gautsch, der die Combination als aufgegeben erklärt. Das Ganze war kein offen eingestandener Plan, sondern sollte hinter den Coulissen fertiggemacht werden – unbegreiflich daher warum die offiziöse Presse Details der Sache in die Öffentlichkeit brachte u. das Pressbureau insbes. in der N. fr. Presse „Stimmung“ machen wollte. Am 23.1. erschien in der Presse ein Entrefilet offenbar von regierungswegen das die Absichten der Regierung plump enthüllte, aber auf gelogene Voraussetzungen baute. Darauf hin zwang Pergelt sowol Gross als Chiari dementierte Pergelt ganz entschieden in der N. fr. Presse (vom 24.) die „Verhandlungen“ u. Gross zwang Chiari mit ihm das Gleiche bezüglich Mährens zu tun. Diese kategorischen Dementis trugen offenbar dazu bei dass Pacák am 24. glatt ablehnte, was zur Folge hatte dass Gautsch am 25. Derschatta ebenfalls abwinkte.</rdg>
           </app>
         </p>
         <p xml:id="Bae_MF_6-2_2012">
@@ -1241,11 +1081,8 @@
           <app from="#Bae_TB_8_1558" type="equal" xml:id="Bae_MF_6-2_2014">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2015">Schließlich wurde</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_711"/>der Gesetzentwurf betreffend 
-          <app from="#Bae_TB_8_50" type="missing" xml:id="Bae_MF_6-2_712">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_713"/>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2016"/> die Wahlreform vorgelegt und die grosse Generaldebatte spielte sich ab. Die einzigen, die eigentlich ins Feuer gingen, waren wir und die konservativen 
+          <anchor xml:id="Bae_MF_6-2_711"/>der Gesetzentwurf betreffend <app from="#Bae_TB_8_350" type="missing" xml:id="Bae_MF_6-2_712"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_713"/>
+          </app><anchor xml:id="Bae_MF_6-2_2016"/> die Wahlreform vorgelegt und die grosse Generaldebatte spielte sich ab. Die einzigen, die eigentlich ins Feuer gingen, waren wir und die konservativen 
           <index xml:id="Bae_MF_6-2_714">
             <term key="Parteien" xml:id="Bae_MF_6-2_715">Großgrundbesitzer</term>
             <index xml:id="Bae_MF_6-2_2017">
@@ -1336,14 +1173,10 @@
           <app from="#Bae_TB_8_1589" type="equal" xml:id="Bae_MF_6-2_2042">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2043">„Es war neulich die häßlichste Sitzung, die das Abgeordnetenhaus gehabt hat, die Abstimmung wegen der Sonderstellung Galiziens.“</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_758"/>Als ich einwendete, daß diese Abstimmung keine Gemeinschaft mit den 
-          <orgName key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0" xml:id="Bae_MF_6-2_759">Alldeutschen</orgName> bedeute und daß wir mit ihren Zielen und Wünschen nichts gemein haben 
-          <app from="#Bae_TB_8_405" xml:id="Bae_MF_6-2_760">
+          <anchor xml:id="Bae_MF_6-2_758"/>Als ich einwendete, daß diese Abstimmung keine Gemeinschaft mit den <orgName key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0" xml:id="Bae_MF_6-2_759">Alldeutschen</orgName> bedeute und daß wir mit ihren Zielen und Wünschen nichts gemein haben <app from="#Bae_TB_8_406" type="notEqual" xml:id="Bae_MF_6-2_760">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_761">Die Abstimmung bedeutet keine Gemeinschaft mit den Alldeutschen, wir haben mit ihren Zielen u. Wünschen nichts gemein –</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_762"/> – unterbrach mich der 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_763">Kaiser</persName>: 
-          <app from="#Bae_TB_8_410" xml:id="Bae_MF_6-2_764">
+          <anchor xml:id="Bae_MF_6-2_762"/> – unterbrach mich der <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_763">Kaiser</persName>: <app from="#Bae_TB_8_411" type="notEqual" xml:id="Bae_MF_6-2_764">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_765">(unterbrechend)</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_2044"/> „Ja, das weiß ich, aber gerade nach diesen Reden, die gehalten wurden, das waren ja geradezu hochverräterische Reden, nach solchen Reden stimmt man doch nicht mit den 
@@ -1351,13 +1184,8 @@
           <app from="#Bae_TB_8_1592" type="equal" xml:id="Bae_MF_6-2_2045">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2046">„Ja, das weiß ich, aber gerade nach diesen Reden, die gehalten wurden, das waren ja geradezu hochverräterische Reden, nach solchen Reden stimmt man doch nicht mit den Alldeutschen.“</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_767"/>Als ich dann ausführlicher die Folgen des allgemeinen Stimmrechts auf den Parlamentarismus und die Führung der Staatsgeschäfte in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_768">Oesterreich</placeName> nach meiner Ueberzeugung auseinandersetzte, unterbrach mich der 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_769">Kaiser</persName> abermals: 
-          <app from="#Bae_TB_8_415" type="notEqual" xml:id="Bae_MF_6-2_770">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_771">Wir sind in diese Situation durch die Regierung gedrängt worden u. stehen in einem unbedingten Gegensatz zur Regierung. Wir sind der festen Ueberzeugung, dass die Politik der Regierung zum Unglück Österreichs ausschlagen muss. Wir sind nicht gegen eine Wahlreform, aber die Regierung ist viel zu weit gegangen u. arbeitet im Haus Hand in Hand mit den Socialdemokraten. Die socialdemokratische Agitation breitet sich besonders auch am flachen Lande immer weiter aus; heute sind schon in entlegenen Dörfern socialdemokratische Agitatoren tätig u. es wird in dem neuen Haus, wenn nach der neuen Wahlordnung gewählt wird der Parlamentarismus einfach ad absurdum gefürt werden.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2047"/> „Das sind alles Ansichten, die man be- 
+          <anchor xml:id="Bae_MF_6-2_767"/>Als ich dann ausführlicher die Folgen des allgemeinen Stimmrechts auf den Parlamentarismus und die Führung der Staatsgeschäfte in <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_768">Oesterreich</placeName> nach meiner Ueberzeugung auseinandersetzte, unterbrach mich der <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_769">Kaiser</persName> abermals: <app from="#Bae_TB_8_416" type="notEqual" xml:id="Bae_MF_6-2_770"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_771">Wir sind in diese Situation durch die Regierung gedrängt worden u. stehen in einem unbedingten Gegensatz zur Regierung. Wir sind der festen Ueberzeugung, dass die Politik der Regierung zum Unglück Österreichs ausschlagen muss. Wir sind nicht gegen eine Wahlreform, aber die Regierung ist viel zu weit gegangen u. arbeitet im Haus Hand in Hand mit den Socialdemokraten. Die socialdemokratische Agitation breitet sich besonders auch am flachen Lande immer weiter aus; heute sind schon in entlegenen Dörfern socialdemokratische Agitatoren tätig u. es wird in dem neuen Haus, wenn nach der neuen Wahlordnung gewählt wird der Parlamentarismus einfach ad absurdum gefürt werden.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2047"/> „Das sind alles Ansichten, die man be- 
           <pb facs="#F_K-11_Bae_MF_6-2_021" n="19v" xml:id="Bae_MF_6-2_772"/>
           <note type="editorial" xml:id="Bae_MF_6-2_773">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Manuskript Fragmente.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_021" n="20r" xml:id="Bae_MF_6-2_774"/>gründen kann, es gibt aber andere Mittel, um seine Opposition zum Ausdruck zu bringen. Es ist nicht notwendig, mit Leuten zu stimmen, die solche Reden halten, denn das waren hochverräterische Reden. Es ist tief bedauerlich, daß der 
@@ -1370,30 +1198,7 @@
           <app from="#Bae_TB_8_1595" type="equal" xml:id="Bae_MF_6-2_2050">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2051">Das sind alles Ansichten, die man begründen kann, es gibt aber andere Mittel, um seine Opposition zum Ausdruck zu bringen. Es ist nicht notwendig, mit Leuten zu stimmen, die solche Reden halten, denn das waren hochverräterische Reden. Es ist tief bedauerlich, daß der Großgrundbesitz das getan hat.</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_777"/>Als ich nun abermals mir zu antworten erlaubte, daß auch bei unsern Herren wie in jeder politischen Partei die Stimmung eine grosse Rolle spiele, der Großgrundbesitz hat der Regierung des 
-          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_778">Ministerpräsidenten</persName> durch Monate geholfen alles durchzubringen, was der Staat gebraucht hat: die 
-          <index xml:id="Bae_MF_6-2_779">
-            <term key="Reichsrat" xml:id="Bae_MF_6-2_780">Rekruten</term>
-            <index xml:id="Bae_MF_6-2_2052">
-              <term key="Rekrutenkontingent" xml:id="Bae_MF_6-2_2053"/>
-            </index>
-          </index>, den 
-          <index xml:id="Bae_MF_6-2_781">
-            <term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_782">Zolltarif</term>
-            <index xml:id="Bae_MF_6-2_2054">
-              <term key="Zolltarif" xml:id="Bae_MF_6-2_2055"/>
-            </index>
-          </index>, den deutschen 
-          <index xml:id="Bae_MF_6-2_783">
-            <term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_784">Handelsvertrag</term>
-            <index xml:id="Bae_MF_6-2_2056">
-              <term key="Handelsvertrag mit Deutschland" xml:id="Bae_MF_6-2_2057"/>
-            </index>
-          </index> – alles das haben wir im 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_785">Abgeordnetenhaus</orgName> ermöglicht und man wirft uns weg wie eine ausgepresste Zitrone, worauf der 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_786">Kaiser</persName>: 
-          <app from="#Bae_TB_8_427" type="notEqual" xml:id="Bae_MF_6-2_787">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_788">Euer Majestät wollen aber auch in Erwägung ziehen, dass die Stimmung im Grossgrundbesitz eine grosse Rolle spielt. Der Grossgrundbesitz hat der Regierung des M[inister]Präsidenten durch Monate geholfen Alles durchzubringen, was der Staat gebraucht hat: die Recruten, der Zolltarif, der deutsche Handelsvertrag – alles das haben wir im Abgeordnetenhaus ermöglicht u. man wirft uns weg wie eine ausgepresste Citrone.</rdg>
+          <anchor xml:id="Bae_MF_6-2_777"/>Als ich nun abermals mir zu antworten erlaubte, daß auch bei unsern Herren wie in jeder politischen Partei die Stimmung eine grosse Rolle spiele, der Großgrundbesitz hat der Regierung des <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_778">Ministerpräsidenten</persName> durch Monate geholfen alles durchzubringen, was der Staat gebraucht hat: die <index xml:id="Bae_MF_6-2_779"><term key="Reichsrat" xml:id="Bae_MF_6-2_780">Rekruten</term><index xml:id="Bae_MF_6-2_2052"><term key="Rekrutenkontingent" xml:id="Bae_MF_6-2_2053"/></index></index>, den <index xml:id="Bae_MF_6-2_781"><term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_782">Zolltarif</term><index xml:id="Bae_MF_6-2_2054"><term key="Zolltarif" xml:id="Bae_MF_6-2_2055"/></index></index>, den deutschen <index xml:id="Bae_MF_6-2_783"><term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_784">Handelsvertrag</term><index xml:id="Bae_MF_6-2_2056"><term key="Handelsvertrag mit Deutschland" xml:id="Bae_MF_6-2_2057"/></index></index> – alles das haben wir im <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_785">Abgeordnetenhaus</orgName> ermöglicht und man wirft uns weg wie eine ausgepresste Zitrone, worauf der <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_786">Kaiser</persName>: <app from="#Bae_TB_8_428" type="notEqual" xml:id="Bae_MF_6-2_787"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_788">Euer Majestät wollen aber auch in Erwägung ziehen, dass die Stimmung im Grossgrundbesitz eine grosse Rolle spielt. Der Grossgrundbesitz hat der Regierung des M[inister]Präsidenten durch Monate geholfen Alles durchzubringen, was der Staat gebraucht hat: die Recruten, der Zolltarif, der deutsche Handelsvertrag – alles das haben wir im Abgeordnetenhaus ermöglicht u. man wirft uns weg wie eine ausgepresste Citrone.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_2058"/> „Man kann dem 
           <index xml:id="Bae_MF_6-2_789">
@@ -1589,9 +1394,7 @@
           <app from="#Bae_TB_8_1656" type="missing" xml:id="Bae_MF_6-2_2110">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2111"/>
           </app>
-          <anchor xml:id="Bae_MF_6-2_890"/>Aber leider ergab sich keine Aussicht, die Herren auf ein bestimmtes Gegenprojekt zu einigen. 
-          <app from="#Bae_TB_8_536" type="notEqual" xml:id="Bae_MF_6-2_891">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_892">Leider ergab sich, dass keine Aussicht vorhanden ist, die Herren auf ein bestimmtes Gegenprojekt einigen zu können.</rdg>
+          <anchor xml:id="Bae_MF_6-2_890"/>Aber leider ergab sich keine Aussicht, die Herren auf ein bestimmtes Gegenprojekt zu einigen. <app from="#Bae_TB_8_536" type="notEqual" xml:id="Bae_MF_6-2_891"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_892">Leider ergab sich, dass keine Aussicht vorhanden ist, die Herren auf ein bestimmtes Gegenprojekt einigen zu können.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_2112"/>Ich setzte alle denkbaren Modifikationen auseinander: das 
           <persName key="HohenwartKarl" ref="https://d-nb.info/gnd/11855283X" xml:id="Bae_MF_6-2_893">Hohenwart’sche</persName> Projekt, den 
@@ -1699,31 +1502,12 @@
           <app from="#Bae_TB_8_1692" type="equal" xml:id="Bae_MF_6-2_2144">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2145">nicht imstande waren. Schließlich kamen</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_941"/>die Herren zu dem nichtssagenden Ausweg, 
-          <app from="#Bae_TB_8_589" xml:id="Bae_MF_6-2_942">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_943">wir aber doch überein,</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2146"/> alle diese Projekte zu unterstützen, 
-          <app from="#Bae_TB_8_1695" type="equal" xml:id="Bae_MF_6-2_2147">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2148">alle diese Projekte zu unterstützen, </rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_944"/>wenn sie vorgebracht werden, aber es den andern Parteien zu überlassen, solche Anträge zu stellen. 
-          <app from="#Bae_TB_8_592" type="notEqual" xml:id="Bae_MF_6-2_945">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_946">aber womöglich dahin zu wirken, dass nicht Grossgrundbesitzer, sondern Mitglieder anderer Parteien die betreffenden Anträge stellen sollen.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2149"/>Es war mir klar, daß diese Herren zu einer positiven Aktion im Sinne eines modernen und möglichen 
-          <app from="#Bae_TB_8_1700" type="equal" xml:id="Bae_MF_6-2_2150">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2151">Es war mir klar, dass diese Herren zu einer positiven Aktion im Sinne eines modernen und möglichen</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_947"/>Vermittlungsantrages nicht zu bringen seien. 
-          <app from="#Bae_TB_8_597" xml:id="Bae_MF_6-2_948">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_949">Vermittlungsvorschlages nicht zu railliren seien.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_950"/>Ihr Hass gegen 
-          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_951">Gautsch</persName> und die Wahlreform war zu groß, ihre Kenntnisse und Einsichten über die Entwicklung, die das 
-          <pb facs="#F_K-11_Bae_MF_6-2_024" n="22v" xml:id="Bae_MF_6-2_952"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_953">Hier finden sich Korrekturen Baernreithers. Diese finden sich an der entsprechenden Stelle im Manuskript Fragmente.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_024" n="23r" xml:id="Bae_MF_6-2_954"/>Wahlrecht in ganz Europa nimmt, zu klein, die Beurteilung der politischen Gesamtlage zu kurzsichtig. 
+          <anchor xml:id="Bae_MF_6-2_941"/>die Herren zu dem nichtssagenden Ausweg, <app from="#Bae_TB_8_589" type="notEqual" xml:id="Bae_MF_6-2_942"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_943">wir aber doch überein,</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2146"/> alle diese Projekte zu unterstützen, <app from="#Bae_TB_8_1695" type="equal" xml:id="Bae_MF_6-2_2147"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2148">alle diese Projekte zu unterstützen, </rdg>
+          </app><anchor xml:id="Bae_MF_6-2_944"/>wenn sie vorgebracht werden, aber es den andern Parteien zu überlassen, solche Anträge zu stellen. <app from="#Bae_TB_8_592" type="notEqual" xml:id="Bae_MF_6-2_945"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_946">aber womöglich dahin zu wirken, dass nicht Grossgrundbesitzer, sondern Mitglieder anderer Parteien die betreffenden Anträge stellen sollen.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2149"/>Es war mir klar, daß diese Herren zu einer positiven Aktion im Sinne eines modernen und möglichen <app from="#Bae_TB_8_1700" type="equal" xml:id="Bae_MF_6-2_2150"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2151">Es war mir klar, dass diese Herren zu einer positiven Aktion im Sinne eines modernen und möglichen</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_947"/>Vermittlungsantrages nicht zu bringen seien. <app from="#Bae_TB_8_597" type="notEqual" xml:id="Bae_MF_6-2_948"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_949">Vermittlungsvorschlages nicht zu railliren seien.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_950"/>Ihr Hass gegen <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_951">Gautsch</persName> und die Wahlreform war zu groß, ihre Kenntnisse und Einsichten über die Entwicklung, die das <pb facs="#F_K-11_Bae_MF_6-2_024" n="22v" xml:id="Bae_MF_6-2_952"/><note type="editorial" xml:id="Bae_MF_6-2_953">Hier finden sich Korrekturen Baernreithers. Diese finden sich an der entsprechenden Stelle im Manuskript Fragmente.</note><pb facs="#F_K-11_Bae_MF_6-2_024" n="23r" xml:id="Bae_MF_6-2_954"/>Wahlrecht in ganz Europa nimmt, zu klein, die Beurteilung der politischen Gesamtlage zu kurzsichtig. 
         </p>
         <p xml:id="Bae_MF_6-2_955">
           <add place="overleaf" xml:id="Bae_MF_6-2_956">Sie waren im Grunde alle überzeugt, daß das Curienwahlrecht nicht zu halten sei, aber sie brachten den Willen nicht auf, grosszügig sich zu einem Opfer zu bekennen, das damals noch gewisse conservative Interessen gerettet hätte. Sie blieben trotz unserer Vorstellungen intransingent aus Misstrauen 
@@ -1790,46 +1574,15 @@
       </div>
       <div n="5" type="chapter" xml:id="Bae_MF_6-2_986">
         <head xml:id="Bae_MF_6-2_987">
-          <anchor xml:id="Bae_MF_6-2_2442"/>5. Die Wendung in 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_988">Ungarn</placeName> und die letzten Wochen 
-          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_989">Gautsch'</persName>
-          <app from="#Bae_TB_8_1717" type="notEqual" xml:id="Bae_MF_6-2_2425">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2426">Sancta Simplicitas!</rdg>
+          <anchor xml:id="Bae_MF_6-2_2442"/>5. Die Wendung in <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_988">Ungarn</placeName> und die letzten Wochen <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_989">Gautsch'</persName> <app from="#Bae_TB_8_1717" type="notEqual" xml:id="Bae_MF_6-2_2425"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2426">Sancta Simplicitas!</rdg>
           </app>
         </head>
         <p xml:id="Bae_MF_6-2_990">
-          <anchor xml:id="Bae_MF_6-2_991"/>Die Wiederbetrauung 
-          <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-2_992">Fejérvárys</persName> mit der Führung der Geschäfte, die Auflösung des 
-          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-2_993">ungarischen Abgeordnetenhauses</orgName>, endlich der bekannte 
-          <date when="1906-02-19" xml:id="Bae_MF_6-2_994">19. Februar 1906</date>, als Oberst 
-          <persName key="FabriciusViktor" xml:id="Bae_MF_6-2_995">Fabricius</persName> den Befehl bekam, 
-          <persName key="BonaparteLouiseNapoleon" ref="https://d-nb.info/gnd/118586416" xml:id="Bae_MF_6-2_996">Bonaparte</persName> zu spielen, deutete darauf, daß die Politik des allgemeinen Stimmrechts in 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_997">Ungarn</placeName> weiter verfolgt werden würde. Sie war die Folie für das Auftreten 
-          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_998">Gautsch</persName>. Aber die Verhandlungen mit der Koalition wurden nicht definitiv abgebrochen und führten endlich zum Ministerium 
-          <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_999">Wekerle</persName>, das am 8. April 1906 beeidigt wurde. 
-          <note type="editorial" xml:id="Bae_MF_6-2_1000">Nach der militärischen und polizeilichen Besetzung des ungarischen Abgeordnetenhauses verlas der Oberst des ersten Honved-Infanterie-Regiments Fabricius am 19.2.1906 das königliche Auflösungsdekret des ungarischen Abgeordnetenhauses. Die Auflösung wurde damit begründet, dass „die zur Mehrheit gehörigen koalierenden Parteien die Übernahme der Regierung ohne Beeinträchtigung der im Gesetz gewährleisteten königlichen Rechte auf annehmbarer Grundlage hartnäckig verweigerten und demnach eine nützliche Tätigkeit im Interesse des Landes vom Reichstag nicht zu erwarten“ wäre.</note>
+          <anchor xml:id="Bae_MF_6-2_991"/>Die Wiederbetrauung <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-2_992">Fejérvárys</persName> mit der Führung der Geschäfte, die Auflösung des <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-2_993">ungarischen Abgeordnetenhauses</orgName>, endlich der bekannte <date when="1906-02-19" xml:id="Bae_MF_6-2_994">19. Februar 1906</date>, als Oberst <persName key="FabriciusViktor" xml:id="Bae_MF_6-2_995">Fabricius</persName> den Befehl bekam, <persName key="BonaparteLouiseNapoleon" ref="https://d-nb.info/gnd/118586416" xml:id="Bae_MF_6-2_996">Bonaparte</persName> zu spielen, deutete darauf, daß die Politik des allgemeinen Stimmrechts in <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_997">Ungarn</placeName> weiter verfolgt werden würde. Sie war die Folie für das Auftreten <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_998">Gautsch</persName>. Aber die Verhandlungen mit der Koalition wurden nicht definitiv abgebrochen und führten endlich zum Ministerium <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_999">Wekerle</persName>, das am 8. April 1906 beeidigt wurde. <note type="editorial" xml:id="Bae_MF_6-2_1000">Nach der militärischen und polizeilichen Besetzung des ungarischen Abgeordnetenhauses verlas der Oberst des ersten Honved-Infanterie-Regiments Fabricius am 19.2.1906 das königliche Auflösungsdekret des ungarischen Abgeordnetenhauses. Die Auflösung wurde damit begründet, dass „die zur Mehrheit gehörigen koalierenden Parteien die Übernahme der Regierung ohne Beeinträchtigung der im Gesetz gewährleisteten königlichen Rechte auf annehmbarer Grundlage hartnäckig verweigerten und demnach eine nützliche Tätigkeit im Interesse des Landes vom Reichstag nicht zu erwarten“ wäre.</note>
         </p>
-        <p xml:id="Bae_MF_6-2_1001">
-          <pb facs="#F_K-11_Bae_MF_6-2_025" n="23v" xml:id="Bae_MF_6-2_1002"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_1003">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_025" n="24r" xml:id="Bae_MF_6-2_1004"/>Damals hielt 
-          <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_1005">Wekerle</persName> im großen Saal des Hotel Royal in 
-          <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_6-2_1006">Budapest</placeName> unmittelbar nach seinem Amtsantritt vor den versammelten Mitgliedern der Koalitionsparteien eine grosse Rede. Er verkündete, daß die Militärfrage ausgeschaltet sei, da die Regierung während der Uebergangszeit die Frage der Dienst- und 
-          <index xml:id="Bae_MF_6-2_1007">
-            <term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_1008">Kommandosprache</term>
-            <index xml:id="Bae_MF_6-2_2163">
-              <term key="Kommandosprache" xml:id="Bae_MF_6-2_2164"/>
-            </index>
-          </index> der gemeinsamen Armee nicht aufrollen und zur Aufrollung nicht mithelfen werde. Dagegen erklärte er, daß an die Stelle des 
-          <index xml:id="Bae_MF_6-2_1009">
-            <term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_1010">Zoll- und Handelsbündnisses</term>
-            <index xml:id="Bae_MF_6-2_2165">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_MF_6-2_2166"/>
-            </index>
-          </index> mit 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_1011">Oesterreich</placeName> ein Zollvertrag treten werde, um „die eines unabhängigen Staates würdige Vertragsform durchzuführen“. 
-          <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_MF_6-2_1012">Andrássy</persName> hatte also im September Recht gehabt zu sagen, daß wenn keine militärischen Konzessionen gemacht werden, wirtschaftliche im Sinne der Selbständigkeit notwendig sein werden. 
-          <app from="#Bae_TB_8_643" type="missing" xml:id="Bae_MF_6-2_1013">
+        <p xml:id="Bae_MF_6-2_1001"><pb facs="#F_K-11_Bae_MF_6-2_025" n="23v" xml:id="Bae_MF_6-2_1002"/><note type="editorial" xml:id="Bae_MF_6-2_1003">Diese Seite ist leer.</note><pb facs="#F_K-11_Bae_MF_6-2_025" n="24r" xml:id="Bae_MF_6-2_1004"/>Damals hielt <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_1005">Wekerle</persName> im großen Saal des Hotel Royal in <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_6-2_1006">Budapest</placeName> unmittelbar nach seinem Amtsantritt vor den versammelten Mitgliedern der Koalitionsparteien eine grosse Rede. Er verkündete, daß die Militärfrage ausgeschaltet sei, da die Regierung während der Uebergangszeit die Frage der Dienst- und <index xml:id="Bae_MF_6-2_1007"><term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_1008">Kommandosprache</term><index xml:id="Bae_MF_6-2_2163"><term key="Kommandosprache" xml:id="Bae_MF_6-2_2164"/></index></index> der gemeinsamen Armee nicht aufrollen und zur Aufrollung nicht mithelfen werde. Dagegen erklärte er, daß an die Stelle des <index xml:id="Bae_MF_6-2_1009"><term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_1010">Zoll- und Handelsbündnisses</term><index xml:id="Bae_MF_6-2_2165"><term key="Zoll- und Handelsbündnis" xml:id="Bae_MF_6-2_2166"/></index></index> mit <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_1011">Oesterreich</placeName> ein Zollvertrag treten werde, um „die eines unabhängigen Staates würdige Vertragsform durchzuführen“. 
+<persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_MF_6-2_1012">Andrássy</persName> hatte also im September Recht gehabt zu sagen, daß wenn keine militärischen Konzessionen gemacht werden, wirtschaftliche im Sinne der Selbständigkeit notwendig sein werden. 
+          <app from="#Bae_TB_8_644" type="missing" xml:id="Bae_MF_6-2_1013">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1014"/>
           </app>
         </p>
@@ -1918,11 +1671,8 @@
           <app from="#Bae_TB_8_1738" type="equal" xml:id="Bae_MF_6-2_2187">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2188">in der Militärfrage, das</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1063"/>diese 
-          <app from="#Bae_TB_8_688" xml:id="Bae_MF_6-2_1064">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1065">die</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2189"/> Frage definitiv aus der Welt schafft und für die Erhaltung der bisherigen wirtschaftlichen Gemeinsamkeit. Er war der Meinung, daß Unnachgiebigkeit in militärischen Dingen unbedingt Nachgiebigkeit gegenüber dem Verlangen nach wirtschaftlicher 
+          <anchor xml:id="Bae_MF_6-2_1063"/>diese <app from="#Bae_TB_8_688" type="notEqual" xml:id="Bae_MF_6-2_1064"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1065">die</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2189"/> Frage definitiv aus der Welt schafft und für die Erhaltung der bisherigen wirtschaftlichen Gemeinsamkeit. Er war der Meinung, daß Unnachgiebigkeit in militärischen Dingen unbedingt Nachgiebigkeit gegenüber dem Verlangen nach wirtschaftlicher 
           <index xml:id="Bae_MF_6-2_1066">
             <term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_1067">Selbständigkeit</term>
             <index xml:id="Bae_MF_6-2_2190">
@@ -1940,76 +1690,22 @@
           <app from="#Bae_TB_8_696" type="notEqual" xml:id="Bae_MF_6-2_1072">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1073">"Aussschaltung"</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1074"/>ein Inderschwebelassen, ein Verschieben u.s.w. 
-          <app from="#Bae_TB_8_702" xml:id="Bae_MF_6-2_1075">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1076">„ein in der Schwebe Lassen“, ein „Verschieben“ u.s.w.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2194"/> der Entscheidung bezüglich der militärischen Frage die Deutung 
-          <app from="#Bae_TB_8_1748" type="equal" xml:id="Bae_MF_6-2_2195">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2196">der Entscheidung bezüglich der militärischen Frage die Deutung</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1077"/>zulasse 
-          <app from="#Bae_TB_8_705" type="notEqual" xml:id="Bae_MF_6-2_1078">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1079">zulässt</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2197"/>, daß er überhaupt nachgeben werde. Das sei eine Zweideutigkeit, der er sich nicht schuldig machen wolle. Nun hat er 
-          <app from="#Bae_TB_8_1748" type="equal" xml:id="Bae_MF_6-2_2198">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2199">, dass er überhaupt nachgeben werde. Das sei eine Zweideutigkeit, der er sich nicht schuldig machen wolle. Nun hat er</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1080"/>sich aber doch für 
-          <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_1081">Wekerle</persName> entschieden. 
-          <app from="#Bae_TB_8_708" type="notEqual" xml:id="Bae_MF_6-2_1082">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1083">es doch getan u. meiner Ansicht nach zwischen den 2 Möglichkeiten falsch gewählt.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1087"/>
-          <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1084">Ottokar Czernin</persName> traf neulich in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_1085">Wien</placeName>, gerade als die Sache gekocht wurde, 
-          <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_MF_6-2_1086">Andrássy</persName> und frug ihn, warum er nicht die Kabinettsbildung 
-          <app from="#Bae_TB_8_714" type="notEqual" xml:id="Bae_MF_6-2_1088">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1089">Ottokar Czernin traf neulich in Wien gerade als die Sache gekocht wurde Andrássy und frug ihn, warum er nicht die Cabinetsbildung</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2200"/> übernommen habe, worauf dieser antwortete, er könne, da der 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1090">Kaiser</persName> seine Vorschläge abgelehnt habe, in das Kabinett nicht 
-          <app from="#Bae_TB_8_1754" type="equal" xml:id="Bae_MF_6-2_2201">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2202">übernommen habe, worauf dieser antwortete, er könne, da der Kaiser seine Vorschläge abgelehnt habe, in das Kabinett nicht</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1091"/> mit einer Lüge eintreten 
-          <app from="#Bae_TB_8_718" xml:id="Bae_MF_6-2_1092">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1093">eintreten mit einer Lüge</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2203"/>. Dazu sei 
-          <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_1094">Wekerle</persName> gut genug. Tags darauf war 
-          <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_MF_6-2_1095">Andrássy</persName> aber doch im 
-          <app from="#Bae_TB_8_1757" type="equal" xml:id="Bae_MF_6-2_2204">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2205">Dazu sei Wekerle gut genug. Tags darauf war Andrássy aber doch im</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1096"/>Kabinett 
-          <app from="#Bae_TB_8_723" type="notEqual" xml:id="Bae_MF_6-2_1097">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1098">Cabinet</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2206"/> und erwiderte auf die erstaunte abermalige Frage 
-          <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1099">Czernins</persName>, die ganze Kombination 
-          <app from="#Bae_TB_8_1760" type="equal" xml:id="Bae_MF_6-2_2207">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2208">u. erwiderte auf die erstaunte abermalige Frage Czernins, die ganze Combination</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2209"/>, auf deren Zustandekommen der 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1100"> Kaiser</persName> jetzt den größten Wert lege, wäre gescheitert, wenn er sich länger geweigert hätte. 
+          <anchor xml:id="Bae_MF_6-2_1074"/>ein Inderschwebelassen, ein Verschieben u.s.w. <app from="#Bae_TB_8_702" type="notEqual" xml:id="Bae_MF_6-2_1075"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1076">„ein in der Schwebe Lassen“, ein „Verschieben“ u.s.w.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2194"/> der Entscheidung bezüglich der militärischen Frage die Deutung <app from="#Bae_TB_8_1748" type="equal" xml:id="Bae_MF_6-2_2195"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2196">der Entscheidung bezüglich der militärischen Frage die Deutung</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1077"/>zulasse <app from="#Bae_TB_8_705" type="notEqual" xml:id="Bae_MF_6-2_1078"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1079">zulässt</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2197"/>, daß er überhaupt nachgeben werde. Das sei eine Zweideutigkeit, der er sich nicht schuldig machen wolle. Nun hat er <app from="#Bae_TB_8_1748" type="equal" xml:id="Bae_MF_6-2_2198"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2199">, dass er überhaupt nachgeben werde. Das sei eine Zweideutigkeit, der er sich nicht schuldig machen wolle. Nun hat er</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1080"/>sich aber doch für <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_1081">Wekerle</persName> entschieden. <app from="#Bae_TB_8_708" type="notEqual" xml:id="Bae_MF_6-2_1082"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1083">es doch getan u. meiner Ansicht nach zwischen den 2 Möglichkeiten falsch gewählt.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1087"/><persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1084">Ottokar Czernin</persName> traf neulich in <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_1085">Wien</placeName>, gerade als die Sache gekocht wurde, <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_MF_6-2_1086">Andrássy</persName> und frug ihn, warum er nicht die Kabinettsbildung <app from="#Bae_TB_8_714" type="notEqual" xml:id="Bae_MF_6-2_1088"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1089">Ottokar Czernin traf neulich in Wien gerade als die Sache gekocht wurde Andrássy und frug ihn, warum er nicht die Cabinetsbildung</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2200"/> übernommen habe, worauf dieser antwortete, er könne, da der <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1090">Kaiser</persName> seine Vorschläge abgelehnt habe, in das Kabinett nicht <app from="#Bae_TB_8_1754" type="equal" xml:id="Bae_MF_6-2_2201"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2202">übernommen habe, worauf dieser antwortete, er könne, da der Kaiser seine Vorschläge abgelehnt habe, in das Kabinett nicht</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1091"/> mit einer Lüge eintreten <app from="#Bae_TB_8_718" type="notEqual" xml:id="Bae_MF_6-2_1092"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1093">eintreten mit einer Lüge</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2203"/>. Dazu sei <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-2_1094">Wekerle</persName> gut genug. Tags darauf war <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_MF_6-2_1095">Andrássy</persName> aber doch im Kabinett <app from="#Bae_TB_8_1757" type="equal" xml:id="Bae_MF_6-2_2204"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2205">Dazu sei Wekerle gut genug. Tags darauf war Andrássy aber doch im Cabinet</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2206"/>und erwiderte auf die erstaunte abermalige Frage <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_MF_6-2_1099">Czernins</persName>, die ganze Kombination <app from="#Bae_TB_8_1760" type="equal" xml:id="Bae_MF_6-2_2207"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2208">u. erwiderte auf die erstaunte abermalige Frage Czernins, die ganze Combination</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2209"/>, auf deren Zustandekommen der <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1100"> Kaiser</persName> jetzt den größten Wert lege, wäre gescheitert, wenn er sich länger geweigert hätte. 
         </p>
-        <p xml:id="Bae_MF_6-2_1101">So ist es 
-          <app from="#Bae_TB_8_1763" type="equal" xml:id="Bae_MF_6-2_2210">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2211">, auf deren Zustandekommen der Kaiser den größten Wert lege, wäre gescheitert, wenn er sich länger geweigert hätte. So ist es</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1102"/>
-          <app from="#Bae_TB_8_732" type="missing" xml:id="Bae_MF_6-2_1103">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1104">nun</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2212"/> ein fauler Friede, der geschlossen worden ist, der aber den 
-          <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1105">Kaiser</persName>
-          <app from="#Bae_TB_8_1766" type="equal" xml:id="Bae_MF_6-2_2213">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2214">ein fauler Friede, der geschlossen worden ist, der aber den Kaiser</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1106"/>präjudiziert und 
-          <app from="#Bae_TB_8_736" type="notEqual" xml:id="Bae_MF_6-2_1107">
+        <p xml:id="Bae_MF_6-2_1101">So ist es <app from="#Bae_TB_8_1763" type="equal" xml:id="Bae_MF_6-2_2210"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2211">, auf deren Zustandekommen der Kaiser den größten Wert lege, wäre gescheitert, wenn er sich länger geweigert hätte. So ist es</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1102"/><app from="#Bae_TB_8_732" type="missing" xml:id="Bae_MF_6-2_1103"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1104">nun</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2212"/> ein fauler Friede, der geschlossen worden ist, der aber den <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1105">Kaiser</persName> <app from="#Bae_TB_8_1766" type="equal" xml:id="Bae_MF_6-2_2213"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2214">ein fauler Friede, der geschlossen worden ist, der aber den Kaiser</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1106"/>präjudiziert und <app from="#Bae_TB_8_736" type="notEqual" xml:id="Bae_MF_6-2_1107">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1108">praejudiciert u.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_2215"/> den 
@@ -2031,18 +1727,7 @@
           <app from="#Bae_TB_8_1774" type="equal" xml:id="Bae_MF_6-2_2221">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2222">wirtschaftlichem Gebiete</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1115"/>Vorschub leistet, die militärische Frage offen lässt, in der wirtschaftlichen 
-          <pb facs="#F_K-11_Bae_MF_6-2_027" n="25v" xml:id="Bae_MF_6-2_1116"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_1117">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_027" n="26r" xml:id="Bae_MF_6-2_1118"/>an Stelle des Zoll- und 
-          <index xml:id="Bae_MF_6-2_1119">
-            <term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_1120">Handelsbündnisses den Zollvertrag</term>
-            <index xml:id="Bae_MF_6-2_2223">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_MF_6-2_2224"/>
-            </index>
-          </index> setzt, 
-          <add place="across" xml:id="Bae_MF_6-2_1121">den Ungarn einen autonomen Zolltarif einräumt</add> und die Wahlreform auf unbestimmte Zeit vertagt. 
-          <app from="#Bae_TB_8_745" xml:id="Bae_MF_6-2_1122">
+          <anchor xml:id="Bae_MF_6-2_1115"/>Vorschub leistet, die militärische Frage offen lässt, in der wirtschaftlichen <pb facs="#F_K-11_Bae_MF_6-2_027" n="25v" xml:id="Bae_MF_6-2_1116"/><note type="editorial" xml:id="Bae_MF_6-2_1117">Diese Seite ist leer.</note><pb facs="#F_K-11_Bae_MF_6-2_027" n="26r" xml:id="Bae_MF_6-2_1118"/>an Stelle des Zoll- und <index xml:id="Bae_MF_6-2_1119"><term key="Österreich-Ungarn" xml:id="Bae_MF_6-2_1120">Handelsbündnisses den Zollvertrag</term><index xml:id="Bae_MF_6-2_2223"><term key="Zoll- und Handelsbündnis" xml:id="Bae_MF_6-2_2224"/></index></index> setzt, <add place="across" xml:id="Bae_MF_6-2_1121">den Ungarn einen autonomen Zolltarif einräumt</add> und die Wahlreform auf unbestimmte Zeit vertagt. <app from="#Bae_TB_8_745" type="notEqual" xml:id="Bae_MF_6-2_1122">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1123">einen ungeheuren Vorschub leistet.</rdg>
           </app>
         </p>
@@ -2087,45 +1772,14 @@
           <anchor xml:id="Bae_MF_6-2_2228"/> und er verteidigte es nicht mit Gründen, sondern quasi per inspirationem. Er war gegen uns Großgrundbesitzer höflich und erklärte uns in der liebenswürdigsten Weise, daß er uns nicht umbringen wolle, indem er uns den Rat gab zu kandidieren 
           <app from="#Bae_TB_8_1821" type="equal" xml:id="Bae_MF_6-2_2229">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2230">u. er verteidigte es nicht mit Gründen, sondern quasi per inspirationem. Er war gegen uns Großgrundbesitzer höflich u. erklärte uns in der liebenswürdigsten Weise, daß er uns nicht umbringen wolle, indem er uns den Rat gab zu candidieren</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1151"/>und unsere Grundsätze im Volke zu vertreten. 
-          <app from="#Bae_TB_8_836" type="equal" xml:id="Bae_MF_6-2_1152">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1153">u. unsere Grundsätze im Volke zu vertreten.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1154"/>Das wurde als Hohn aufgefasst, während es doch nur eine allerdings grundfalsche Vorstellung von der politischen Situation gewesen ist. 
-          <app from="#Bae_TB_8_839" xml:id="Bae_MF_6-2_1155">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1156">Das dürfte allerdings einigen von uns schwer werden u. deshalb wurde es vielfach als Hohn aufgefasst, was es nicht war.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1151"/>und unsere Grundsätze im Volke zu vertreten. <app from="#Bae_TB_8_836" type="equal" xml:id="Bae_MF_6-2_1152"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1153">u. unsere Grundsätze im Volke zu vertreten.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1154"/>Das wurde als Hohn aufgefasst, während es doch nur eine allerdings grundfalsche Vorstellung von der politischen Situation gewesen ist. <app from="#Bae_TB_8_839" type="notEqual" xml:id="Bae_MF_6-2_1155"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1156">Das dürfte allerdings einigen von uns schwer werden u. deshalb wurde es vielfach als Hohn aufgefasst, was es nicht war.</rdg>
           </app>
         </p>
-        <p xml:id="Bae_MF_6-2_1157">
-          <pb facs="#F_K-11_Bae_MF_6-2_028" n="26v" xml:id="Bae_MF_6-2_1158"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_1159">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_028" n="27r" xml:id="Bae_MF_6-2_1160"/>
-          <anchor xml:id="Bae_MF_6-2_1161"/>Seine Politik war durchaus reinlich und wenn er sich hätte halten können, wäre es zur Herrschaft des 
-          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_MF_6-2_1162">Sieghartismus</persName>, wie er es nannte, in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_1163">Österreich</placeName> nicht gekommen. Praktische Arbeit leistete er insbesondere mit Hilfe 
-          <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_MF_6-2_1164">Marchets</persName>, der ihm im 
-          <orgName key="Wahlreformausschuss" xml:id="Bae_MF_6-2_1165">Wahlreformausschuss</orgName> treue Dienste leistete, wo 
-          <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1166">Hohenlohes</persName> den Deutschen günstiger Kompromißvorschlag in Sachen der deutschen 
-          <index xml:id="Bae_MF_6-2_1167">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1168">Mandatszahl</term>
-            <index xml:id="Bae_MF_6-2_2231">
-              <term key="Nationale Mandatszahlen" xml:id="Bae_MF_6-2_2232"/>
-            </index>
-          </index> und der 
-          <index xml:id="Bae_MF_6-2_1169">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1170">Wahlkreiseinteilung</term>
-            <index xml:id="Bae_MF_6-2_2233">
-              <term key="Wahlkreiseinteilung" xml:id="Bae_MF_6-2_2234"/>
-            </index>
-          </index> die Grundlage aller folgenden Verhandlungen und schließlich des Zustandekommens der Wahlreform geworden ist. 
-          <app from="#Bae_TB_8_842" xml:id="Bae_MF_6-2_1171">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1172">Er ist also zwar kein Idealist aber ein Utopist. Die Grenzlinie ist manchmal nicht so ohne weiteres festzustellen.</rdg>
+        <p xml:id="Bae_MF_6-2_1157"><pb facs="#F_K-11_Bae_MF_6-2_028" n="26v" xml:id="Bae_MF_6-2_1158"/><note type="editorial" xml:id="Bae_MF_6-2_1159">Diese Seite ist leer.</note><pb facs="#F_K-11_Bae_MF_6-2_028" n="27r" xml:id="Bae_MF_6-2_1160"/><anchor xml:id="Bae_MF_6-2_1161"/>Seine Politik war durchaus reinlich und wenn er sich hätte halten können, wäre es zur Herrschaft des <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_MF_6-2_1162">Sieghartismus</persName>, wie er es nannte, in <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_1163">Österreich</placeName> nicht gekommen. Praktische Arbeit leistete er insbesondere mit Hilfe <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_MF_6-2_1164">Marchets</persName>, der ihm im <orgName key="Wahlreformausschuss" xml:id="Bae_MF_6-2_1165">Wahlreformausschuss</orgName> treue Dienste leistete, wo <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1166">Hohenlohes</persName> den Deutschen günstiger Kompromißvorschlag in Sachen der deutschen <index xml:id="Bae_MF_6-2_1167"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1168">Mandatszahl</term><index xml:id="Bae_MF_6-2_2231"><term key="Nationale Mandatszahlen" xml:id="Bae_MF_6-2_2232"/></index></index> und der <index xml:id="Bae_MF_6-2_1169"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1170">Wahlkreiseinteilung</term><index xml:id="Bae_MF_6-2_2233"><term key="Wahlkreiseinteilung" xml:id="Bae_MF_6-2_2234"/></index></index> die Grundlage aller folgenden Verhandlungen und schließlich des Zustandekommens der Wahlreform geworden ist. <app from="#Bae_TB_8_845" type="notEqual" xml:id="Bae_MF_6-2_1171"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1172">Er ist also zwar kein Idealist aber ein Utopist. Die Grenzlinie ist manchmal nicht so ohne weiteres festzustellen.</rdg>
           </app>
         </p>
-        <p xml:id="Bae_MF_6-2_1173">
-          <anchor xml:id="Bae_MF_6-2_1174"/>In dem Kampf mit den 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_1175">Ungarn</placeName> hat er sich charaktervoll benommen. Er war allerdings von vornherein in der Lage eines Kämpfers mit einem überlegenen Gegner, dem zu widerstehen selbst der 
+        <p xml:id="Bae_MF_6-2_1173"><anchor xml:id="Bae_MF_6-2_1174"/>In dem Kampf mit den <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_1175">Ungarn</placeName> hat er sich charaktervoll benommen. Er war allerdings von vornherein in der Lage eines Kämpfers mit einem überlegenen Gegner, dem zu widerstehen selbst der 
           <persName key="KaiserFranzJoseph" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1176">Kaiser</persName> nicht die Macht besessen hatte. Es handelte sich – wie bereits erwähnt – darum, ob, wie 
           <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1177">Hohenlohe</persName> mit vollem Recht verlangte, der neue 
           <index xml:id="Bae_MF_6-2_1178">
@@ -2221,21 +1875,8 @@
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1252">Das Ganze ist wieder einmal ein typisches manöver österreichischer Politik – voll Lüge und Falschheit – ich glaube aber, dass die Feiglinge aller Fractionen des Parlamentes mehr Courage bekommen werden, wenn man ihnen steckt, dass man wisse, dass oben der Wind bereits umgeschlagen hat und meiner unmaßgeblichen Ansicht wäre dieses Material in diesem Sinne discret zu verwerten! Ist der Blödsinn des gleichen W.Rechtes einmal abgethan, dann wird – glaube ich – der Moment für jene vernünftigen Menschen kommen, die andere Propositionen machen können – wozu ich Dich in erster Linie zähle. Man scheint momentan die löblichsten Absichten zu haben, gegen die Gasse energisch vorzugehen – nachdem man die armen Teufeln erst aufgehetzt hat, wird man jetzt auf sie schießen – ebenso logisch wie hübsch! – Hast du meinen Brief wegen Daszyński bekommen? Alles Schöne, aufrichtig ergeben, O. Czernin </rdg>
           </app>
         </p>
-        <p xml:id="Bae_MF_6-2_1259">
-          <anchor xml:id="Bae_MF_6-2_1260"/>Gleich in den ersten Tagen seines Ministeriums 
-          <pb facs="#F_K-11_Bae_MF_6-2_030" n="28v" xml:id="Bae_MF_6-2_1261"/>
-          <note type="editorial" xml:id="Bae_MF_6-2_1262">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_6-2_030" n="29r" xml:id="Bae_MF_6-2_1263"/>hatte ich mit den beiden neuen Landsmannministern 
-          <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_MF_6-2_1264">Prade</persName> und 
-          <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_MF_6-2_1265">Dzieduszycki</persName> eine Besprechung. 
-          <app from="#Bae_TB_8_937" xml:id="Bae_MF_6-2_1266">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1267">Ich habe heute mit den neuen Ministern Prade u. Dzieduszycki Besprechungen gehabt.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1268"/>
-          <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_MF_6-2_1269">Prade</persName> war klar und zynisch wie immer. Die 
-          <index xml:id="Bae_MF_6-2_1270">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1271">Wahlreform</term>
-          </index> muss gemacht werden auf Grund des 
+        <p xml:id="Bae_MF_6-2_1259"><anchor xml:id="Bae_MF_6-2_1260"/>Gleich in den ersten Tagen seines Ministeriums <pb facs="#F_K-11_Bae_MF_6-2_030" n="28v" xml:id="Bae_MF_6-2_1261"/><note type="editorial" xml:id="Bae_MF_6-2_1262">Diese Seite ist leer.</note><pb facs="#F_K-11_Bae_MF_6-2_030" n="29r" xml:id="Bae_MF_6-2_1263"/>hatte ich mit den beiden neuen Landsmannministern <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_MF_6-2_1264">Prade</persName> und <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_MF_6-2_1265">Dzieduszycki</persName> eine Besprechung. <app from="#Bae_TB_8_937" type="notEqual" xml:id="Bae_MF_6-2_1266"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1267">Ich habe heute mit den neuen Ministern Prade u. Dzieduszycki Besprechungen gehabt.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1268"/><persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_MF_6-2_1269">Prade</persName> war klar und zynisch wie immer. Die <index xml:id="Bae_MF_6-2_1270"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1271">Wahlreform</term></index> muss gemacht werden auf Grund des 
           <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1272">Hohenlohe’schen</persName> Kompromissvorschlages. Die Regierung kann bezüglich der Zweidrittelmajorität keine Stellung nehmen, aber die Tschechen werden sich überstimmen lassen. Der Ausschuß muß 
           <date when="1906-07" xml:id="Bae_MF_6-2_1273">Mitte Juli</date> fertig sein und die Sache kommt dann gleich ins 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_1274">Haus</orgName>, welches eventuell bis in den 
@@ -2277,26 +1918,11 @@
           <app from="#Bae_TB_8_962" type="notEqual" xml:id="Bae_MF_6-2_1287">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1288">hat, das</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1289"/>
-          <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1290">Hohenlohische</persName> Kompromiß vorläufig 
-          <app from="#Bae_TB_8_965" xml:id="Bae_MF_6-2_1291">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1292">Hohelohe Projekt vorläufig</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2256"/> anzustreben. Die ganze Konversation hatte offenbar den Zweck seinen Eintritt in das Ministerium zu rechtfertigen 
-          <app from="#Bae_TB_8_1845" type="equal" xml:id="Bae_MF_6-2_2257">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2258">anzustreben. Die ganze Conversation hatte offenbar den Zweck seinen Eintritt in das Ministerium zu rechtfertigen.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1293"/>, da er doch bisher der größte Gegner der Wahlreform gewesen ist. 
-          <app from="#Bae_TB_8_969" type="missing" xml:id="Bae_MF_6-2_1294">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1295"/>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2430"/>
-          <app from="#Bae_TB_8_1476" type="missing" xml:id="Bae_MF_6-2_2431">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2432">Wien 17.6.06</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2433"/>
-          <app from="#Bae_TB_8_976" type="missing" xml:id="Bae_MF_6-2_2434">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2435">Will nicht jeden Tratsch registrieren. Urban aber erzälte doch etwas sehr Interessantes. Aus Statthalterkreisen in Prag: die Arbeiter in R[eichen]berg u. Umgebung planten wärend der Kaiserreise Demonstrationen durch Abstinenz beim Empfang u. den Fahrten des Kaisers. Wollten große Meetings außerhalb Reichenberg veranstalten. Das wurde nach Wien gemeldet und daher das Wort des Kaisers wegen der Wahlreform, dass nach der alten Wahlordnung nicht mehr gewählt werden kann. Wien 19.6.06</rdg>
+          <anchor xml:id="Bae_MF_6-2_1289"/><persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1290">Hohenlohische</persName> Kompromiß vorläufig <app from="#Bae_TB_8_965" type="notEqual" xml:id="Bae_MF_6-2_1291"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1292">Hohelohe Projekt vorläufig</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2256"/> anzustreben. Die ganze Konversation hatte offenbar den Zweck seinen Eintritt in das Ministerium zu rechtfertigen <app from="#Bae_TB_8_1845" type="equal" xml:id="Bae_MF_6-2_2257"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2258">anzustreben. Die ganze Conversation hatte offenbar den Zweck seinen Eintritt in das Ministerium zu rechtfertigen.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1293"/>, da er doch bisher der größte Gegner der Wahlreform gewesen ist. <app from="#Bae_TB_8_969" type="missing" xml:id="Bae_MF_6-2_1294"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1295"/>
+          </app><anchor xml:id="Bae_MF_6-2_2430"/><app from="#Bae_TB_8_1476" type="missing" xml:id="Bae_MF_6-2_2431"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2432">Wien 17.6.06</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2433"/><app from="#Bae_TB_8_976" type="missing" xml:id="Bae_MF_6-2_2434"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2435">Will nicht jeden Tratsch registrieren. Urban aber erzälte doch etwas sehr Interessantes. Aus Statthalterkreisen in Prag: die Arbeiter in R[eichen]berg u. Umgebung planten wärend der Kaiserreise Demonstrationen durch Abstinenz beim Empfang u. den Fahrten des Kaisers. Wollten große Meetings außerhalb Reichenberg veranstalten. Das wurde nach Wien gemeldet und daher das Wort des Kaisers wegen der Wahlreform, dass nach der alten Wahlordnung nicht mehr gewählt werden kann. Wien 19.6.06</rdg>
           </app>
         </p>
         <p xml:id="Bae_MF_6-2_1296">
@@ -2358,11 +1984,8 @@
           </app>
         </p>
         <p xml:id="Bae_MF_6-2_1322">
-          <anchor xml:id="Bae_MF_6-2_1323"/>
-          <app from="#Bae_TB_8_1002" type="missing" xml:id="Bae_MF_6-2_1324">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1325">Die Regierung will die „Hohenlohe’schen Vorschläge“ unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und intrigiert wird.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1326"/>Im 
+          <anchor xml:id="Bae_MF_6-2_1323"/><app from="#Bae_TB_8_998" type="missing" xml:id="Bae_MF_6-2_1324"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1325">Die Regierung will die „Hohenlohe’schen Vorschläge“ unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und intrigiert wird.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1326"/>Im 
           <orgName key="Wahlreformausschuss" xml:id="Bae_MF_6-2_1327">Wahlreformausschuss</orgName> entstand nun ein bis in den 
           <date when="1906-10" xml:id="Bae_MF_6-2_1328">Oktober</date> dauernder Kampf um die Details der Wahlreform, insbesondere der 
           <index xml:id="Bae_MF_6-2_1329">
@@ -2561,13 +2184,8 @@
           <anchor xml:id="Bae_MF_6-2_2321"/>Deutschen in 
           <placeName key="Biala" ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1438">Biala</placeName>. 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_MF_6-2_1439">Beck</persName> sagte zu mir: Sie werden doch nicht für die Juden in 
-          <placeName key="Biala" ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1440">Biala</placeName> stimmen, worauf ich ihm antwortete, 
-          <app from="#Bae_TB_8_1889" type="equal" xml:id="Bae_MF_6-2_2322">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2323">Deutschen in Biala. Beck sagte zu mir: Sie werden doch nicht für die Juden in Biala stimmen, worauf ich ihm antwortete,</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1441"/> daß 
-          <placeName key="Biala" ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1442">Biala</placeName> eine alte schwäbische Kolonie sei, der dortige Stock deutscher Bevölkerung sei gar nicht jüdisch, sondern bestes deutsches Blut. 
-          <app from="#Bae_TB_8_1082" xml:id="Bae_MF_6-2_1443">
+          <placeName key="Biala" ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1440">Biala</placeName> stimmen, worauf ich ihm antwortete, <app from="#Bae_TB_8_1889" type="equal" xml:id="Bae_MF_6-2_2322"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2323">Deutschen in Biala. Beck sagte zu mir: Sie werden doch nicht für die Juden in Biala stimmen, worauf ich ihm antwortete,</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1441"/>daß <placeName key="Biala" ref="https://www.geonames.org/3103402/bielsko-biala.html" xml:id="Bae_MF_6-2_1442">Biala</placeName> eine alte schwäbische Kolonie sei, der dortige Stock deutscher Bevölkerung sei gar nicht jüdisch, sondern bestes deutsches Blut. <app from="#Bae_TB_8_1082" type="notEqual" xml:id="Bae_MF_6-2_1443">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1444">dass er Biala ja nicht kenne, ich es aber wohl kenne. Es ist eine alte schwäbische Colonie, der allerdings kleine Stock deutscher Bevölkerung bestes Blut.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-2_2324"/>Darauf ließ er mich sofort und eilte zu einem anderen, um ihn zu bearbeiten. 
@@ -2639,14 +2257,11 @@
           </app>
         </p>
         <p xml:id="Bae_MF_6-2_1478">
-          <anchor xml:id="Bae_MF_6-2_2338"/>Was für eine Stellung soll unsere 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_6-2_1479">Partei</orgName> diesen veränderten Verhältnissen gegenüber einnehmen? 
+          <anchor xml:id="Bae_MF_6-2_2338"/>Was für eine Stellung soll unsere <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_6-2_1479">Partei</orgName> diesen veränderten Verhältnissen gegenüber einnehmen? 
         </p>
-        <p xml:id="Bae_MF_6-2_1480">Ich gehe bei der Beantwortung dieser Frage davon aus, daß der weitere Widerstand fruchtlos 
-          <app from="#Bae_TB_8_1140" type="equal" xml:id="Bae_MF_6-2_2339">
+        <p xml:id="Bae_MF_6-2_1480">Ich gehe bei der Beantwortung dieser Frage davon aus, daß der weitere Widerstand fruchtlos <app from="#Bae_TB_8_1908" type="equal" xml:id="Bae_MF_6-2_2339">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2340">Was für eine Stellung soll unsere Partei diesen veränderten Verhältnissen gegenüber einnehmen? Ich gehe bei der Beantwortung dieser Frage davon aus, dass der weitere Widerstand fruchtlos</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1481"/>ist, daher modifiziert 
+          </app><anchor xml:id="Bae_MF_6-2_1481"/>ist, daher modifiziert 
           <app from="#Bae_TB_8_1143" type="notEqual" xml:id="Bae_MF_6-2_1482">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1483">ist. Daher modificiert</rdg>
           </app>
@@ -2663,15 +2278,9 @@
           <app from="#Bae_TB_8_1911" type="equal" xml:id="Bae_MF_6-2_2342">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2343">sich die gestellte Frage dahin: sollen wir den bisherigen Kampf, Arm in Arm mit den Alldeutschen, die Politik der Fallstricke und kleinen Mittel fortsetzen oder nicht? Ich bin dagegen, denn es ist töricht von einer politischen Partei sich in einem nutzlosen Kampf und durch sehr bedenkliche Allianzen zu verbrauchen. Lassen wir also geschehen, was wir nicht hindern können und blicken wir in die Zukunft. Haben wir noch eine Zukunft? Es ist die letzte Stunde um uns eine zu sichern. Das Ernennungsrecht von so und so viel Abgeordneten wird uns genommen, keineswegs die Möglichkeit, unseren Einfluß, unsere wirtschaftliche Position, unsere Verbindungen politisch auszunützen. Die Zeit der geborenen Staatsparteien ist vorbei. Damit räumt das allgemeine Wahlrecht vollkommen auf. Es wird in der Zukunft nur national wirtschaftliche Parteien geben, die parlamentarisch auf ein Ziel zu vereinigen die schwere vielleicht unlösbare Aufgabe der Regierung sein wird. Wir müssen daher national und wirtschaftlich werden, das heißt: uns als deutscher Großgrundbesitz erklären und auf Seite der Agrarier</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-2_1492"/>treten, der 
-          <app from="#Bae_TB_8_1158" type="notEqual" xml:id="Bae_MF_6-2_1493">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1494">treten, als der</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2344"/> wirtschaftlichen Gruppe, die uns am nächsten steht. Damit tun wir gar nichts anderes, als die Konsequenzen ziehen, die in der Wahlreform selbst liegen. 
-          <app from="#Bae_TB_8_1916" type="equal" xml:id="Bae_MF_6-2_2345">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2346">wirtschaftlichen Gruppe, die uns am nächsten steht. Damit tun wir gar nichts anderes, als die Konsequenzen ziehen, die in der Wahlreform selbst liegen.</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1495"/>Wir müssen uns 
+          <anchor xml:id="Bae_MF_6-2_1492"/>treten, der <app from="#Bae_TB_8_1158" type="notEqual" xml:id="Bae_MF_6-2_1493"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1494">treten, als der</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2344"/>wirtschaftlichen Gruppe, die uns am nächsten steht. Damit tun wir gar nichts anderes, als die Konsequenzen ziehen, die in der Wahlreform selbst liegen. <app from="#Bae_TB_8_1916" type="equal" xml:id="Bae_MF_6-2_2345"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2346">wirtschaftlichen Gruppe, die uns am nächsten steht. Damit tun wir gar nichts anderes, als die Konsequenzen ziehen, die in der Wahlreform selbst liegen.</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1495"/>Wir müssen uns 
           <app from="#Bae_TB_8_1165" type="notEqual" xml:id="Bae_MF_6-2_1496">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1497">Man muss sich</rdg>
           </app>
@@ -2800,45 +2409,14 @@
         </p>
       </div>
       <div n="9" type="chapter" xml:id="Bae_MF_6-2_1551">
-        <anchor xml:id="Bae_MF_6-2_1552"/>
-        <head xml:id="Bae_MF_6-2_1553">9. Das 
-          <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1554">Herrenhaus</orgName>
-        </head>
-        <p xml:id="Bae_MF_6-2_1555">Wir haben uns in der letzten Zeit mit dem Exekutivkomitee der verfassungstreuen Gruppe des 
-          <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1556">Herrenhauses</orgName> in Verbindung gesetzt. Die Herren wissen aber noch viel weniger als wir was sie wollen. Wir konnten ihnen auch keinen bestimmten Antrag unterbreiten, weil bei uns die Intransingenten, vor allem 
-          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_MF_6-2_1557">Stürgkh</persName>, der bornierteste der Bornierten, dies immer wieder verhinderten; Wiewohl die überwiegende Majorität des 
-          <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1558">Herrenhauses</orgName> Gegner des allgemeinen 
-          <index xml:id="Bae_MF_6-2_1559">
-            <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1560">Stimmrechts</term>
-          </index> war, hat diese konservative Körperschaft in dieser Frage völlig versagt, und eine klägliche Rolle gespielt. Die Beeinflußungen durch die Regierung bewegten sich in andern Formen als im Abgeordnetenhause, wurden aber mit demselben Erfolg geübt. 
-          <app from="#Bae_TB_8_1236" xml:id="Bae_MF_6-2_1561">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1562">Lünz, 30.7.1906 Das vorstehende Memorandum blieb natürlich wirkungslos. Die Herren waren in die Opposition gegen die Wahlreform blind verrannt. Beschränkte Menschen wie Stürgkh, Terlago u.s.f. fürten immer noch das grosse Wort u. schmiedeten Pläne. Meine Aktion zu Gunsten eines Pluralrechtes scheiterte. Erzielte im Abgeordnetenhause durch den Antrag Tollinger nur die Bedeutung einer Demonstration. Dann auch das Herrenhaus, das ihn aufnehmen sollte, versagte natürlich. </rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1565"/>Die Opposition gegen die Wahlreform wurde ganz kopflos geführt 
-          <app from="#Bae_TB_8_1255" type="notEqual" xml:id="Bae_MF_6-2_1566">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1567">Dort wurde die Opposition gegen die Wahlreform ganz kopflos geführt</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2384"/>, wenn man von 
-          <app from="#Bae_TB_8_1965" type="equal" xml:id="Bae_MF_6-2_2385">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2386">, wenn man von</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1568"/>
-          <app from="#Bae_TB_8_1258" type="missing" xml:id="Bae_MF_6-2_1569">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1570">einer</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2387"/> Führung überhaupt reden kann. Auch in der Verfassungspartei des 
-          <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1571">Herrenhauses</orgName> war die Majorität anfangs gegen die Wahlreform, die Wahlen in die betreffende Kommission fielen in diesem Sinne aus. Die Herren triumphierten und – fuhren auf die Jagd. Aber doch nicht alle. 
-          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_MF_6-2_1572">Chlumecký</persName> blieb 
-          <app from="#Bae_TB_8_1968" type="equal" xml:id="Bae_MF_6-2_2388">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2389">Führung überhaupt reden kann. Auch in der Verfassungspartei des Herrenhauses war die Majorität anfangs gegen die Wahlreform. Die Wahlen in die betreffende Kommission fielen in diesem Sinne aus. Die Herren triumphierten und – fuhren auf die Jagd. Aber doch nicht alle. Chlumecký blieb</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_1573"/>in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_1574">Wien</placeName> mit seinem treuen Kutscher 
-          <persName key="Georg" xml:id="Bae_MF_6-2_1575">Georg</persName> und fuhr 
-          <app from="#Bae_TB_8_1264" type="notEqual" xml:id="Bae_MF_6-2_1576">
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1577">, und sein treuer Kutscher Georg (der sich um die Wahlreform die größten Verdienste erwarb, ohne einen Orden zu bekommen!) fuhr ihn</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_6-2_2390"/> von Haus zu Haus zur Bekehrung der Widerspenstigen. Die Folge war der Umfall der Majorität der Verfassungspartei und das Großkreuz des Stephansordens. 
+        <anchor xml:id="Bae_MF_6-2_1552"/><head xml:id="Bae_MF_6-2_1553">9. Das <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1554">Herrenhaus</orgName></head>
+        <p xml:id="Bae_MF_6-2_1555">Wir haben uns in der letzten Zeit mit dem Exekutivkomitee der verfassungstreuen Gruppe des <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1556">Herrenhauses</orgName> in Verbindung gesetzt. Die Herren wissen aber noch viel weniger als wir was sie wollen. Wir konnten ihnen auch keinen bestimmten Antrag unterbreiten, weil bei uns die Intransingenten, vor allem <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_MF_6-2_1557">Stürgkh</persName>, der bornierteste der Bornierten, dies immer wieder verhinderten; Wiewohl die überwiegende Majorität des <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1558">Herrenhauses</orgName> Gegner des allgemeinen <index xml:id="Bae_MF_6-2_1559"><term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_1560">Stimmrechts</term></index> war, hat diese konservative Körperschaft in dieser Frage völlig versagt, und eine klägliche Rolle gespielt. Die Beeinflußungen durch die Regierung bewegten sich in andern Formen als im Abgeordnetenhause, wurden aber mit demselben Erfolg geübt. <app from="#Bae_TB_8_1236" type="notEqual" xml:id="Bae_MF_6-2_1561"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1562">Lünz, 30.7.1906 Das vorstehende Memorandum blieb natürlich wirkungslos. Die Herren waren in die Opposition gegen die Wahlreform blind verrannt. Beschränkte Menschen wie Stürgkh, Terlago u.s.f. fürten immer noch das grosse Wort u. schmiedeten Pläne. Meine Aktion zu Gunsten eines Pluralrechtes scheiterte. Erzielte im Abgeordnetenhause durch den Antrag Tollinger nur die Bedeutung einer Demonstration. Dann auch das Herrenhaus, das ihn aufnehmen sollte, versagte natürlich. </rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1565"/>Die Opposition gegen die Wahlreform wurde ganz kopflos geführt <app from="#Bae_TB_8_1255" type="notEqual" xml:id="Bae_MF_6-2_1566"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1567">Dort wurde die Opposition gegen die Wahlreform ganz kopflos geführt</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2384"/>, wenn man von <app from="#Bae_TB_8_1965" type="equal" xml:id="Bae_MF_6-2_2385"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2386">, wenn man von</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1568"/><app from="#Bae_TB_8_1258" type="missing" xml:id="Bae_MF_6-2_1569"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1570">einer</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2387"/> Führung überhaupt reden kann. Auch in der Verfassungspartei des <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1571">Herrenhauses</orgName> war die Majorität anfangs gegen die Wahlreform, die Wahlen in die betreffende Kommission fielen in diesem Sinne aus. Die Herren triumphierten und – fuhren auf die Jagd. Aber doch nicht alle. <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_MF_6-2_1572">Chlumecký</persName> blieb <app from="#Bae_TB_8_1968" type="equal" xml:id="Bae_MF_6-2_2388"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2389">Führung überhaupt reden kann. Auch in der Verfassungspartei des Herrenhauses war die Majorität anfangs gegen die Wahlreform. Die Wahlen in die betreffende Kommission fielen in diesem Sinne aus. Die Herren triumphierten und – fuhren auf die Jagd. Aber doch nicht alle. Chlumecký blieb</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_1573"/>in <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_1574">Wien</placeName> mit seinem treuen Kutscher <persName key="Georg" xml:id="Bae_MF_6-2_1575">Georg</persName> und fuhr <app from="#Bae_TB_8_1264" type="notEqual" xml:id="Bae_MF_6-2_1576"><rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1577">, und sein treuer Kutscher Georg (der sich um die Wahlreform die größten Verdienste erwarb, ohne einen Orden zu bekommen!) fuhr ihn</rdg>
+          </app><anchor xml:id="Bae_MF_6-2_2390"/> von Haus zu Haus zur Bekehrung der Widerspenstigen. Die Folge war der Umfall der Majorität der Verfassungspartei und das Großkreuz des Stephansordens. 
           <app from="#Bae_TB_8_1971" type="equal" xml:id="Bae_MF_6-2_2391">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2392">von Haus zu Haus zur Bekehrung der Widerspenstigen. Die Folge war der Umfall der Majorität der Verfassungspartei und das Großkreuz des Stephansordens.</rdg>
           </app>
