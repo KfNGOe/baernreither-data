@@ -3,7 +3,7 @@ name: Build and Deploy .ttl and .xlsx files
 on:
   push:
     paths:
-      - "data/tei/tei_toBuild/**"
+      - "data/tei/**"
       - "data/xlsx/**"
       - "data/img/**"
         
