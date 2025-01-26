@@ -21,38 +21,18 @@ jobs:
         with:
           java-version: "11"
           distribution: "adopt"       
-      - name: Deploy tei data to baernreither-app
-        uses: cpina/github-action-push-to-another-repository@target-branch
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
-        with:
-          source-directory: "data/tei"
-          target-directory: "data/tei/text"
-          destination-github-username: "KfNGOe"
-          destination-repository-name: "baernreither-app"
-          user-email: baernreither-app@github.io
-          target-branch: main      
-      - name: Deploy xlsx data to baernreither-app
-        uses: cpina/github-action-push-to-another-repository@target-branch
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
-        with:
-          source-directory: "data/xlsx"
-          target-directory: "data/xlsx"
-          destination-github-username: "KfNGOe"
-          destination-repository-name: "baernreither-app"
-          user-email: baernreither-app@github.io
-          target-branch: main
-      - name: Deploy img data to baernreither-app
-        uses: cpina/github-action-push-to-another-repository@target-branch
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.ACCESS_TOKEN }}
-        with:
-          source-directory: "data/img"
-          target-directory: "html/data/img"
-          destination-github-username: "KfNGOe"
-          destination-repository-name: "baernreither-app"
-          user-email: baernreither-app@github.io
-          target-branch: main
-  
-      
+      - name: Deploy data to baernreither-app
+        run: |
+          git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git          
+          mkdir -p baernreither-app/data/img
+          mkdir -p baernreither-app/data/tei/text
+          mkdir -p baernreither-app/data/xlsx          
+          cp -r data/tei/** baernreither-app/data/tei/text/
+          cp -r data/xlsx/** baernreither-app/data/xlsx/
+          cp -r data/img/** baernreither-app/data/img/
+          cd baernreither-app
+          git config --global user.email "baernreither-app@github.io"
+          git config --global user.name "KfNGOe"
+          git add .
+          git commit -am "Deploy data"
+          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main      
