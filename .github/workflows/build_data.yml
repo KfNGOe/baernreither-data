@@ -20,7 +20,11 @@ jobs:
         uses: actions/setup-java@v4
         with:
           java-version: "11"
-          distribution: "adopt"       
+          distribution: "adopt"
+      - name: remove dir for deployment
+        run: |
+          rm -r data/tei/text/tei_pending
+          dir data/tei/text/
       - name: Deploy data to baernreither-app
         run: |
           git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git          
