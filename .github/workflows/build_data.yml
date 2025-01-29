@@ -23,8 +23,8 @@ jobs:
           distribution: "adopt"
       - name: remove dir for deployment
         run: |
-          rm -r data/tei/text/tei_pending
-          dir data/tei/text/
+          rm -r data/tei/tei_pending
+          dir data/tei/
       - name: Deploy data to baernreither-app
         run: |
           git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git          
