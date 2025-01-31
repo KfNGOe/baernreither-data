@@ -1,4 +1,4 @@
-name: Build and Deploy .ttl and .xlsx files
+name: Deploy data
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
         
 jobs:
   build:
-    name: Build .ttl files
+    name: Deploy data to baernreither-app
     runs-on: ubuntu-latest
     permissions:
       contents: write      
@@ -38,5 +38,5 @@ jobs:
           git config --global user.email "baernreither-app@github.io"
           git config --global user.name "KfNGOe"
           git add .
-          git commit -am "Deploy data"
+          git commit -am "Deploy data" || echo "No changes to commit"
           git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main      
