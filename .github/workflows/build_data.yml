@@ -37,6 +37,6 @@ jobs:
           cd baernreither-app
           git config --global user.email "baernreither-app@github.io"
           git config --global user.name "KfNGOe"
-          git add .
+          git add ./data
           git commit -am "Deploy data" || echo "No changes to commit"
           git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main      
