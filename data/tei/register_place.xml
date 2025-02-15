@@ -24,7 +24,1281 @@
   <text xml:id="Bae_REG_Place_16">
     <body xml:id="Bae_REG_Place_17">
       <div type="place_keywords" xml:id="Bae_REG_Place_18">
-        <list xml:id="Bae_REG_Place_19"/>
+        <list xml:id="Bae_REG_Place_19">
+          <item xml:id="Bae_REG_Place_20">
+            <term type="key" xml:id="Bae_REG_Place_21">Agram</term>
+            <term type="name" xml:id="Bae_REG_Place_22">Zagreb</term>
+            <term type="name_today" xml:id="Bae_REG_Place_23">https://www.geonames.org/3186886/zagreb.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_24">Agram</term>
+            <term type="long" xml:id="Bae_REG_Place_25">45.81444</term>
+            <term type="pid" xml:id="Bae_REG_Place_26">15.97798</term>
+            <term type="pos" xml:id="Bae_REG_Place_27">Bae_MF_6-1_4411</term>
+            <term type="pos" xml:id="Bae_REG_Place_28">Bae_MF_6-1_4740</term>
+            <term type="pos" xml:id="Bae_REG_Place_29">Bae_MF_6-1_4744</term>
+            <term type="pos" xml:id="Bae_REG_Place_30">Bae_TB_7_10435</term>
+            <term type="pos" xml:id="Bae_REG_Place_31">Bae_TB_7_10477</term>
+            <term type="pos" xml:id="Bae_REG_Place_32">Bae_TB_7_10490</term>
+            <term type="pos" xml:id="Bae_REG_Place_33">Bae_TB_7_1846</term>
+            <term type="pos" xml:id="Bae_REG_Place_34">Bae_TB_7_1850</term>
+            <term type="pos" xml:id="Bae_REG_Place_35">Bae_TB_7_1895</term>
+            <term type="pos" xml:id="Bae_REG_Place_36">Bae_TB_7_1922</term>
+            <term type="pos" xml:id="Bae_REG_Place_37">Bae_TB_7_2007</term>
+            <term type="pos" xml:id="Bae_REG_Place_38">Bae_TB_7_2017</term>
+            <term type="pos" xml:id="Bae_REG_Place_39">Bae_TB_7_2028</term>
+            <term type="pos" xml:id="Bae_REG_Place_40">Bae_TB_7_2039</term>
+            <term type="pos" xml:id="Bae_REG_Place_41">Bae_TB_7_2043</term>
+            <term type="pos" xml:id="Bae_REG_Place_42">Bae_TB_7_9976</term>
+          </item>
+          <item xml:id="Bae_REG_Place_43">
+            <term type="key" xml:id="Bae_REG_Place_44">Amerika</term>
+            <term type="name" xml:id="Bae_REG_Place_45">United States of America</term>
+            <term type="name_today" xml:id="Bae_REG_Place_46">https://www.geonames.org/6252001/united-states.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_47">Amerika</term>
+            <term type="long" xml:id="Bae_REG_Place_48">39.76</term>
+            <term type="pid" xml:id="Bae_REG_Place_49">-98.5</term>
+            <term type="pos" xml:id="Bae_REG_Place_50">Bae_TB_7_397</term>
+            <term type="pos" xml:id="Bae_REG_Place_51">Bae_TB_7_4260</term>
+          </item>
+          <item xml:id="Bae_REG_Place_52">
+            <term type="key" xml:id="Bae_REG_Place_53">BadIschl</term>
+            <term type="name" xml:id="Bae_REG_Place_54"/>
+            <term type="name_today" xml:id="Bae_REG_Place_55">https://www.geonames.org/2782052/bad-ischl.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_56">BadIschl</term>
+            <term type="long" xml:id="Bae_REG_Place_57">47.71109</term>
+            <term type="pid" xml:id="Bae_REG_Place_58">13.61893</term>
+            <term type="pos" xml:id="Bae_REG_Place_59">Bae_TB_7_12444</term>
+          </item>
+          <item xml:id="Bae_REG_Place_60">
+            <term type="key" xml:id="Bae_REG_Place_61">Belgien</term>
+            <term type="name" xml:id="Bae_REG_Place_62"/>
+            <term type="name_today" xml:id="Bae_REG_Place_63">https://www.geonames.org/2802361/kingdom-of-belgium.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_64">Belgien</term>
+            <term type="long" xml:id="Bae_REG_Place_65">50.75</term>
+            <term type="pid" xml:id="Bae_REG_Place_66">4.5</term>
+            <term type="pos" xml:id="Bae_REG_Place_67">Bae_MF_6-2_941</term>
+          </item>
+          <item xml:id="Bae_REG_Place_68">
+            <term type="key" xml:id="Bae_REG_Place_69">Berlin</term>
+            <term type="name" xml:id="Bae_REG_Place_70"/>
+            <term type="name_today" xml:id="Bae_REG_Place_71">https://www.geonames.org/6547383/berlin-stadt.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_72">Berlin</term>
+            <term type="long" xml:id="Bae_REG_Place_73">52.5233</term>
+            <term type="pid" xml:id="Bae_REG_Place_74">13.41377</term>
+            <term type="pos" xml:id="Bae_REG_Place_75">Bae_MF_6-1_616</term>
+            <term type="pos" xml:id="Bae_REG_Place_76">Bae_MF_6-1_1893</term>
+            <term type="pos" xml:id="Bae_REG_Place_77">Bae_MF_6-1_1921</term>
+          </item>
+          <item xml:id="Bae_REG_Place_78">
+            <term type="key" xml:id="Bae_REG_Place_79">Biala</term>
+            <term type="name" xml:id="Bae_REG_Place_80">Bielsko-Biała</term>
+            <term type="name_today" xml:id="Bae_REG_Place_81">https://www.geonames.org/3103402/bielsko-biala.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_82">Biala</term>
+            <term type="long" xml:id="Bae_REG_Place_83">49.82245</term>
+            <term type="pid" xml:id="Bae_REG_Place_84">19.04686</term>
+            <term type="pos" xml:id="Bae_REG_Place_85">Bae_MF_6-2_5058</term>
+            <term type="pos" xml:id="Bae_REG_Place_86">Bae_MF_6-2_5077</term>
+            <term type="pos" xml:id="Bae_REG_Place_87">Bae_MF_6-2_5134</term>
+            <term type="pos" xml:id="Bae_REG_Place_88">Bae_MF_6-2_5145</term>
+            <term type="pos" xml:id="Bae_REG_Place_89">Bae_MF_6-2_5168</term>
+            <term type="pos" xml:id="Bae_REG_Place_90">Bae_MF_6-2_5278</term>
+            <term type="pos" xml:id="Bae_REG_Place_91">Bae_MF_6-2_5286</term>
+            <term type="pos" xml:id="Bae_REG_Place_92">Bae_MF_6-2_5297</term>
+            <term type="pos" xml:id="Bae_REG_Place_93">Bae_TB_8_4535</term>
+            <term type="pos" xml:id="Bae_REG_Place_94">Bae_TB_8_4576</term>
+            <term type="pos" xml:id="Bae_REG_Place_95">Bae_TB_8_4626</term>
+            <term type="pos" xml:id="Bae_REG_Place_96">Bae_TB_8_4657</term>
+            <term type="pos" xml:id="Bae_REG_Place_97">Bae_TB_8_4769</term>
+            <term type="pos" xml:id="Bae_REG_Place_98">Bae_TB_8_4777</term>
+            <term type="pos" xml:id="Bae_REG_Place_99">Bae_TB_8_4788</term>
+          </item>
+          <item xml:id="Bae_REG_Place_100">
+            <term type="key" xml:id="Bae_REG_Place_101">Boehmen</term>
+            <term type="name" xml:id="Bae_REG_Place_102">Čechy</term>
+            <term type="name_today" xml:id="Bae_REG_Place_103">https://www.geonames.org/3078198/cechy.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_104">Boehmen</term>
+            <term type="long" xml:id="Bae_REG_Place_105">50</term>
+            <term type="pid" xml:id="Bae_REG_Place_106">14.5</term>
+            <term type="pos" xml:id="Bae_REG_Place_107">Bae_MF_6-2_769</term>
+            <term type="pos" xml:id="Bae_REG_Place_108">Bae_MF_6-2_1956</term>
+            <term type="pos" xml:id="Bae_REG_Place_109">Bae_MF_6-2_2277</term>
+            <term type="pos" xml:id="Bae_REG_Place_110">Bae_MF_6-2_2551</term>
+            <term type="pos" xml:id="Bae_REG_Place_111">Bae_MF_6-2_4880</term>
+            <term type="pos" xml:id="Bae_REG_Place_112">Bae_MF_6-2_4930</term>
+            <term type="pos" xml:id="Bae_REG_Place_113">Bae_MF_6-2_4934</term>
+            <term type="pos" xml:id="Bae_REG_Place_114">Bae_MF_6-2_4942</term>
+            <term type="pos" xml:id="Bae_REG_Place_115">Bae_MF_6-2_5944</term>
+            <term type="pos" xml:id="Bae_REG_Place_116">Bae_MF_6-2_5988</term>
+            <term type="pos" xml:id="Bae_REG_Place_117">Bae_TB_7_442</term>
+            <term type="pos" xml:id="Bae_REG_Place_118">Bae_TB_7_3612</term>
+            <term type="pos" xml:id="Bae_REG_Place_119">Bae_TB_7_4934</term>
+            <term type="pos" xml:id="Bae_REG_Place_120">Bae_TB_7_5029</term>
+            <term type="pos" xml:id="Bae_REG_Place_121">Bae_TB_7_5056</term>
+            <term type="pos" xml:id="Bae_REG_Place_122">Bae_TB_7_13019</term>
+            <term type="pos" xml:id="Bae_REG_Place_123">Bae_TB_8_1084</term>
+            <term type="pos" xml:id="Bae_REG_Place_124">Bae_TB_8_1130</term>
+          </item>
+          <item xml:id="Bae_REG_Place_125">
+            <term type="key" xml:id="Bae_REG_Place_126">Bosnien</term>
+            <term type="name" xml:id="Bae_REG_Place_127"/>
+            <term type="name_today" xml:id="Bae_REG_Place_128">https://www.geonames.org/3277605/bosnia-and-herzegovina.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_129">Bosnien</term>
+            <term type="long" xml:id="Bae_REG_Place_130">44.25</term>
+            <term type="pid" xml:id="Bae_REG_Place_131">17.83333</term>
+            <term type="pos" xml:id="Bae_REG_Place_132">Bae_MF_6-1_4615</term>
+            <term type="pos" xml:id="Bae_REG_Place_133">Bae_MF_6-1_5128</term>
+            <term type="pos" xml:id="Bae_REG_Place_134">Bae_TB_7_10299</term>
+            <term type="pos" xml:id="Bae_REG_Place_135">Bae_TB_7_11367</term>
+          </item>
+          <item xml:id="Bae_REG_Place_136">
+            <term type="key" xml:id="Bae_REG_Place_137">Bozen</term>
+            <term type="name" xml:id="Bae_REG_Place_138">Bolzano</term>
+            <term type="name_today" xml:id="Bae_REG_Place_139">https://www.geonames.org/6535953/bolzano-bozen.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_140">Bozen</term>
+            <term type="long" xml:id="Bae_REG_Place_141">46.49272</term>
+            <term type="pid" xml:id="Bae_REG_Place_142">11.33358</term>
+            <term type="pos" xml:id="Bae_REG_Place_143">Bae_TB_7_11831</term>
+          </item>
+          <item xml:id="Bae_REG_Place_144">
+            <term type="key" xml:id="Bae_REG_Place_145">Bruenn</term>
+            <term type="name" xml:id="Bae_REG_Place_146">Město Brno</term>
+            <term type="name_today" xml:id="Bae_REG_Place_147">https://www.geonames.org/3078609/mesto-brno.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_148">Bruenn</term>
+            <term type="long" xml:id="Bae_REG_Place_149">49.19954</term>
+            <term type="pid" xml:id="Bae_REG_Place_150">16.60755</term>
+            <term type="pos" xml:id="Bae_REG_Place_151">Bae_TB_8_1219</term>
+          </item>
+          <item xml:id="Bae_REG_Place_152">
+            <term type="key" xml:id="Bae_REG_Place_153">Bruex</term>
+            <term type="name" xml:id="Bae_REG_Place_154">Bruex</term>
+            <term type="name_today" xml:id="Bae_REG_Place_155">https://www.geonames.org/11922564/most.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_156">Bruex</term>
+            <term type="long" xml:id="Bae_REG_Place_157">50.5151</term>
+            <term type="pid" xml:id="Bae_REG_Place_158">13.61584</term>
+            <term type="pos" xml:id="Bae_REG_Place_159">Bae_TB_7_2517</term>
+          </item>
+          <item xml:id="Bae_REG_Place_160">
+            <term type="key" xml:id="Bae_REG_Place_161">Budapest</term>
+            <term type="name" xml:id="Bae_REG_Place_162"/>
+            <term type="name_today" xml:id="Bae_REG_Place_163">https://www.geonames.org/3054638/budapest.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_164">Budapest</term>
+            <term type="long" xml:id="Bae_REG_Place_165">47.5</term>
+            <term type="pid" xml:id="Bae_REG_Place_166">19.08333</term>
+            <term type="pos" xml:id="Bae_REG_Place_167">Bae_MF_6-1_2888</term>
+            <term type="pos" xml:id="Bae_REG_Place_168">Bae_MF_6-1_2917</term>
+            <term type="pos" xml:id="Bae_REG_Place_169">Bae_MF_6-1_3603</term>
+            <term type="pos" xml:id="Bae_REG_Place_170">Bae_MF_6-1_3889</term>
+            <term type="pos" xml:id="Bae_REG_Place_171">Bae_MF_6-1_4774</term>
+            <term type="pos" xml:id="Bae_REG_Place_172">Bae_MF_6-1_5103</term>
+            <term type="pos" xml:id="Bae_REG_Place_173">Bae_MF_6-1_5369</term>
+            <term type="pos" xml:id="Bae_REG_Place_174">Bae_MF_6-2_3718</term>
+            <term type="pos" xml:id="Bae_REG_Place_175">Bae_TB_7_10622</term>
+            <term type="pos" xml:id="Bae_REG_Place_176">Bae_TB_7_11308</term>
+            <term type="pos" xml:id="Bae_REG_Place_177">Bae_TB_7_11785</term>
+            <term type="pos" xml:id="Bae_REG_Place_178">Bae_TB_7_13442</term>
+            <term type="pos" xml:id="Bae_REG_Place_179">Bae_TB_7_1457</term>
+            <term type="pos" xml:id="Bae_REG_Place_180">Bae_TB_7_1592</term>
+            <term type="pos" xml:id="Bae_REG_Place_181">Bae_TB_7_6786</term>
+            <term type="pos" xml:id="Bae_REG_Place_182">Bae_TB_7_6921</term>
+            <term type="pos" xml:id="Bae_REG_Place_183">Bae_TB_7_6976</term>
+            <term type="pos" xml:id="Bae_REG_Place_184">Bae_TB_7_7006</term>
+            <term type="pos" xml:id="Bae_REG_Place_185">Bae_TB_7_7017</term>
+            <term type="pos" xml:id="Bae_REG_Place_186">Bae_TB_7_8391</term>
+            <term type="pos" xml:id="Bae_REG_Place_187">Bae_TB_7_8848</term>
+            <term type="pos" xml:id="Bae_REG_Place_188">Bae_TB_8_3807</term>
+          </item>
+          <item xml:id="Bae_REG_Place_189">
+            <term type="key" xml:id="Bae_REG_Place_190">Budweis</term>
+            <term type="name" xml:id="Bae_REG_Place_191">České Budějovice</term>
+            <term type="name_today" xml:id="Bae_REG_Place_192">https://www.geonames.org/11920790/ceske-budejovice.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_193">Budweis</term>
+            <term type="long" xml:id="Bae_REG_Place_194">48.98111</term>
+            <term type="pid" xml:id="Bae_REG_Place_195">14.48113</term>
+            <term type="pos" xml:id="Bae_REG_Place_196">Bae_MF_6-2_4903</term>
+            <term type="pos" xml:id="Bae_REG_Place_197">Bae_MF_6-2_4915</term>
+          </item>
+          <item xml:id="Bae_REG_Place_198">
+            <term type="key" xml:id="Bae_REG_Place_199">Dalmatien</term>
+            <term type="name" xml:id="Bae_REG_Place_200">Dalmacija</term>
+            <term type="name_today" xml:id="Bae_REG_Place_201">https://www.geonames.org/3202210/dalmatia.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_202">Dalmatien</term>
+            <term type="long" xml:id="Bae_REG_Place_203">43</term>
+            <term type="pid" xml:id="Bae_REG_Place_204">17</term>
+            <term type="pos" xml:id="Bae_REG_Place_205">Bae_MF_6-1_4619</term>
+            <term type="pos" xml:id="Bae_REG_Place_206">Bae_MF_6-1_5136</term>
+            <term type="pos" xml:id="Bae_REG_Place_207">Bae_TB_7_10310</term>
+            <term type="pos" xml:id="Bae_REG_Place_208">Bae_TB_7_11388</term>
+            <term type="pos" xml:id="Bae_REG_Place_209">Bae_TB_7_1879</term>
+            <term type="pos" xml:id="Bae_REG_Place_210">Bae_TB_7_1899</term>
+            <term type="pos" xml:id="Bae_REG_Place_211">Bae_TB_7_1938</term>
+            <term type="pos" xml:id="Bae_REG_Place_212">Bae_TB_7_1967</term>
+            <term type="pos" xml:id="Bae_REG_Place_213">Bae_TB_7_2003</term>
+          </item>
+          <item xml:id="Bae_REG_Place_214">
+            <term type="key" xml:id="Bae_REG_Place_215">Deutschland</term>
+            <term type="name" xml:id="Bae_REG_Place_216">Deutschland</term>
+            <term type="name_today" xml:id="Bae_REG_Place_217">https://d-nb.info/gnd/7509421-6</term>
+            <term type="lat" xml:id="Bae_REG_Place_218">Deutschland</term>
+            <term type="long" xml:id="Bae_REG_Place_219">51.5</term>
+            <term type="pid" xml:id="Bae_REG_Place_220">10.5</term>
+            <term type="pos" xml:id="Bae_REG_Place_221">Bae_MF_6-1_624</term>
+            <term type="pos" xml:id="Bae_REG_Place_222">Bae_MF_6-1_1329</term>
+            <term type="pos" xml:id="Bae_REG_Place_223">Bae_MF_6-1_1642</term>
+            <term type="pos" xml:id="Bae_REG_Place_224">Bae_MF_6-1_1682</term>
+            <term type="pos" xml:id="Bae_REG_Place_225">Bae_MF_6-1_1727</term>
+            <term type="pos" xml:id="Bae_REG_Place_226">Bae_MF_6-1_1799</term>
+            <term type="pos" xml:id="Bae_REG_Place_227">Bae_MF_6-1_1880</term>
+            <term type="pos" xml:id="Bae_REG_Place_228">Bae_MF_6-1_1901</term>
+            <term type="pos" xml:id="Bae_REG_Place_229">Bae_MF_6-1_1941</term>
+            <term type="pos" xml:id="Bae_REG_Place_230">Bae_MF_6-1_1960</term>
+            <term type="pos" xml:id="Bae_REG_Place_231">Bae_MF_6-1_1991</term>
+            <term type="pos" xml:id="Bae_REG_Place_232">Bae_MF_6-1_1995</term>
+            <term type="pos" xml:id="Bae_REG_Place_233">Bae_MF_6-1_2100</term>
+            <term type="pos" xml:id="Bae_REG_Place_234">Bae_MF_6-1_2302</term>
+            <term type="pos" xml:id="Bae_REG_Place_235">Bae_MF_6-1_3494</term>
+            <term type="pos" xml:id="Bae_REG_Place_236">Bae_MF_6-1_4993</term>
+            <term type="pos" xml:id="Bae_REG_Place_237">Bae_MF_6-1_5383</term>
+            <term type="pos" xml:id="Bae_REG_Place_238">Bae_MF_6-2_1964</term>
+            <term type="pos" xml:id="Bae_REG_Place_239">Bae_TB_7_381</term>
+            <term type="pos" xml:id="Bae_REG_Place_240">Bae_TB_7_389</term>
+            <term type="pos" xml:id="Bae_REG_Place_241">Bae_TB_7_556</term>
+            <term type="pos" xml:id="Bae_REG_Place_242">Bae_TB_7_4810</term>
+            <term type="pos" xml:id="Bae_REG_Place_243">Bae_TB_7_8011</term>
+            <term type="pos" xml:id="Bae_REG_Place_244">Bae_TB_7_11058</term>
+          </item>
+          <item xml:id="Bae_REG_Place_245">
+            <term type="key" xml:id="Bae_REG_Place_246">Eger</term>
+            <term type="name" xml:id="Bae_REG_Place_247">Cheb</term>
+            <term type="name_today" xml:id="Bae_REG_Place_248">https://www.geonames.org/3077835/cheb.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_249">Eger</term>
+            <term type="long" xml:id="Bae_REG_Place_250">50.07122</term>
+            <term type="pid" xml:id="Bae_REG_Place_251">12.37963</term>
+            <term type="pos" xml:id="Bae_REG_Place_252">Bae_MF_6-2_6271</term>
+            <term type="pos" xml:id="Bae_REG_Place_253">Bae_MF_6-2_6281</term>
+          </item>
+          <item xml:id="Bae_REG_Place_254">
+            <term type="key" xml:id="Bae_REG_Place_255">Einsiedl</term>
+            <term type="name" xml:id="Bae_REG_Place_256">Mnichov</term>
+            <term type="name_today" xml:id="Bae_REG_Place_257">https://www.geonames.org/11921999/mnichov.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_258">Einsiedl</term>
+            <term type="long" xml:id="Bae_REG_Place_259">50.02222</term>
+            <term type="pid" xml:id="Bae_REG_Place_260">12.76266</term>
+            <term type="pos" xml:id="Bae_REG_Place_261">Bae_MF_6-2_6211</term>
+          </item>
+          <item xml:id="Bae_REG_Place_262">
+            <term type="key" xml:id="Bae_REG_Place_263">Eipel</term>
+            <term type="name" xml:id="Bae_REG_Place_264">Úpice</term>
+            <term type="name_today" xml:id="Bae_REG_Place_265">https://www.geonames.org/11926030/mnichov.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_266">Eipel</term>
+            <term type="long" xml:id="Bae_REG_Place_267">49.30709</term>
+            <term type="pid" xml:id="Bae_REG_Place_268">13.82406</term>
+            <term type="pos" xml:id="Bae_REG_Place_269">Bae_MF_6-2_2531</term>
+            <term type="pos" xml:id="Bae_REG_Place_270">Bae_TB_8_1072</term>
+            <term type="pos" xml:id="Bae_REG_Place_271">Bae_TB_8_1080</term>
+          </item>
+          <item xml:id="Bae_REG_Place_272">
+            <term type="key" xml:id="Bae_REG_Place_273">England</term>
+            <term type="name" xml:id="Bae_REG_Place_274"/>
+            <term type="name_today" xml:id="Bae_REG_Place_275">https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_276">England</term>
+            <term type="long" xml:id="Bae_REG_Place_277">54.75844</term>
+            <term type="pid" xml:id="Bae_REG_Place_278">-2.69531</term>
+            <term type="pos" xml:id="Bae_REG_Place_279">Bae_MF_6-1_1693</term>
+            <term type="pos" xml:id="Bae_REG_Place_280">Bae_MF_6-1_2777</term>
+            <term type="pos" xml:id="Bae_REG_Place_281">Bae_MF_6-1_2801</term>
+            <term type="pos" xml:id="Bae_REG_Place_282">Bae_MF_6-1_2805</term>
+            <term type="pos" xml:id="Bae_REG_Place_283">Bae_MF_6-1_3490</term>
+            <term type="pos" xml:id="Bae_REG_Place_284">Bae_MF_6-2_246</term>
+            <term type="pos" xml:id="Bae_REG_Place_285">Bae_TB_7_6680</term>
+            <term type="pos" xml:id="Bae_REG_Place_286">Bae_TB_7_6696</term>
+            <term type="pos" xml:id="Bae_REG_Place_287">Bae_TB_7_6700</term>
+            <term type="pos" xml:id="Bae_REG_Place_288">Bae_TB_7_7992</term>
+            <term type="pos" xml:id="Bae_REG_Place_289">Bae_TB_8_5867</term>
+          </item>
+          <item xml:id="Bae_REG_Place_290">
+            <term type="key" xml:id="Bae_REG_Place_291">Fiume</term>
+            <term type="name" xml:id="Bae_REG_Place_292">Rijeka</term>
+            <term type="name_today" xml:id="Bae_REG_Place_293">https://www.geonames.org/3191647/grad-rijeka.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_294">Fiume</term>
+            <term type="long" xml:id="Bae_REG_Place_295">45.32693</term>
+            <term type="pid" xml:id="Bae_REG_Place_296">14.43758</term>
+            <term type="pos" xml:id="Bae_REG_Place_297">Bae_MF_6-1_5107</term>
+            <term type="pos" xml:id="Bae_REG_Place_298">Bae_TB_7_11312</term>
+          </item>
+          <item xml:id="Bae_REG_Place_299">
+            <term type="key" xml:id="Bae_REG_Place_300">Floridsdorf</term>
+            <term type="name" xml:id="Bae_REG_Place_301">Wien Floridsdorf</term>
+            <term type="name_today" xml:id="Bae_REG_Place_302">https://www.geonames.org/2779467/gemeindebezirk-floridsdorf.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_303">Floridsdorf</term>
+            <term type="long" xml:id="Bae_REG_Place_304">48.25</term>
+            <term type="pid" xml:id="Bae_REG_Place_305">16.39972</term>
+            <term type="pos" xml:id="Bae_REG_Place_306">Bae_TB_7_2504</term>
+          </item>
+          <item xml:id="Bae_REG_Place_307">
+            <term type="key" xml:id="Bae_REG_Place_308">Galizien</term>
+            <term type="name" xml:id="Bae_REG_Place_309"/>
+            <term type="name_today" xml:id="Bae_REG_Place_310">https://www.geonames.org/562153/galicia.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_311">Galizien</term>
+            <term type="long" xml:id="Bae_REG_Place_312">49.5</term>
+            <term type="pid" xml:id="Bae_REG_Place_313">23</term>
+            <term type="pos" xml:id="Bae_REG_Place_314">Bae_MF_6-2_2652</term>
+            <term type="pos" xml:id="Bae_REG_Place_315">Bae_MF_6-2_2741</term>
+            <term type="pos" xml:id="Bae_REG_Place_316">Bae_TB_8_810</term>
+            <term type="pos" xml:id="Bae_REG_Place_317">Bae_TB_8_1573</term>
+            <term type="pos" xml:id="Bae_REG_Place_318">Bae_TB_8_1690</term>
+          </item>
+          <item xml:id="Bae_REG_Place_319">
+            <term type="key" xml:id="Bae_REG_Place_320">Goerz</term>
+            <term type="name" xml:id="Bae_REG_Place_321">Gorizia/Gorica</term>
+            <term type="name_today" xml:id="Bae_REG_Place_322">https://www.geonames.org/3175986/gorizia.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_323">Goerz</term>
+            <term type="long" xml:id="Bae_REG_Place_324">45.94088</term>
+            <term type="pid" xml:id="Bae_REG_Place_325">13.62167</term>
+            <term type="pos" xml:id="Bae_REG_Place_326">Bae_TB_7_2245</term>
+          </item>
+          <item xml:id="Bae_REG_Place_327">
+            <term type="key" xml:id="Bae_REG_Place_328">Graz</term>
+            <term type="name" xml:id="Bae_REG_Place_329"/>
+            <term type="name_today" xml:id="Bae_REG_Place_330">https://www.geonames.org/2778058/graz-stadt.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_331">Graz</term>
+            <term type="long" xml:id="Bae_REG_Place_332">47.06667</term>
+            <term type="pid" xml:id="Bae_REG_Place_333">15.43333</term>
+            <term type="pos" xml:id="Bae_REG_Place_334">Bae_MF_6-2_2455</term>
+            <term type="pos" xml:id="Bae_REG_Place_335">Bae_TB_7_1862</term>
+            <term type="pos" xml:id="Bae_REG_Place_336">Bae_TB_8_702</term>
+            <term type="pos" xml:id="Bae_REG_Place_337">Bae_TB_8_1240</term>
+          </item>
+          <item xml:id="Bae_REG_Place_338">
+            <term type="key" xml:id="Bae_REG_Place_339">Helgoland</term>
+            <term type="name" xml:id="Bae_REG_Place_340"/>
+            <term type="name_today" xml:id="Bae_REG_Place_341">https://www.geonames.org/2906947/helgoland.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_342">Helgoland</term>
+            <term type="long" xml:id="Bae_REG_Place_343">54.18213</term>
+            <term type="pid" xml:id="Bae_REG_Place_344">7.88458</term>
+            <term type="pos" xml:id="Bae_REG_Place_345">Bae_MF_6-1_1705</term>
+          </item>
+          <item xml:id="Bae_REG_Place_346">
+            <term type="key" xml:id="Bae_REG_Place_347">Herzegowina</term>
+            <term type="name" xml:id="Bae_REG_Place_348"/>
+            <term type="name_today" xml:id="Bae_REG_Place_349">https://www.geonames.org/3277605/bosnia-and-herzegovina.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_350">Herzegowina</term>
+            <term type="long" xml:id="Bae_REG_Place_351">44.25</term>
+            <term type="pid" xml:id="Bae_REG_Place_352">17.83333</term>
+            <term type="pos" xml:id="Bae_REG_Place_353">Bae_MF_6-1_5132</term>
+          </item>
+          <item xml:id="Bae_REG_Place_354">
+            <term type="key" xml:id="Bae_REG_Place_355">Innsbruck</term>
+            <term type="name" xml:id="Bae_REG_Place_356"/>
+            <term type="name_today" xml:id="Bae_REG_Place_357">https://www.geonames.org/2775220/innsbruck.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_358">Innsbruck</term>
+            <term type="long" xml:id="Bae_REG_Place_359">47.26266</term>
+            <term type="pid" xml:id="Bae_REG_Place_360">11.39454</term>
+            <term type="pos" xml:id="Bae_REG_Place_361">Bae_TB_7_2116</term>
+            <term type="pos" xml:id="Bae_REG_Place_362">Bae_TB_7_2137</term>
+            <term type="pos" xml:id="Bae_REG_Place_363">Bae_TB_7_2141</term>
+            <term type="pos" xml:id="Bae_REG_Place_364">Bae_TB_7_2162</term>
+            <term type="pos" xml:id="Bae_REG_Place_365">Bae_TB_7_2202</term>
+            <term type="pos" xml:id="Bae_REG_Place_366">Bae_TB_7_2268</term>
+            <term type="pos" xml:id="Bae_REG_Place_367">Bae_TB_7_2288</term>
+            <term type="pos" xml:id="Bae_REG_Place_368">Bae_TB_7_2451</term>
+            <term type="pos" xml:id="Bae_REG_Place_369">Bae_TB_7_2650</term>
+            <term type="pos" xml:id="Bae_REG_Place_370">Bae_TB_7_4291</term>
+          </item>
+          <item xml:id="Bae_REG_Place_371">
+            <term type="key" xml:id="Bae_REG_Place_372">Istrien</term>
+            <term type="name" xml:id="Bae_REG_Place_373"/>
+            <term type="name_today" xml:id="Bae_REG_Place_374">https://www.geonames.org/3337514/istria.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_375">Istrien</term>
+            <term type="long" xml:id="Bae_REG_Place_376">45.25</term>
+            <term type="pid" xml:id="Bae_REG_Place_377">13.91667</term>
+            <term type="pos" xml:id="Bae_REG_Place_378">Bae_MF_6-2_5103</term>
+            <term type="pos" xml:id="Bae_REG_Place_379">Bae_TB_8_4587</term>
+          </item>
+          <item xml:id="Bae_REG_Place_380">
+            <term type="key" xml:id="Bae_REG_Place_381">Italien</term>
+            <term type="name" xml:id="Bae_REG_Place_382"/>
+            <term type="name_today" xml:id="Bae_REG_Place_383">https://www.geonames.org/3175395/italian-republic.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_384">Italien</term>
+            <term type="long" xml:id="Bae_REG_Place_385">42.83333</term>
+            <term type="pid" xml:id="Bae_REG_Place_386">12.83333</term>
+            <term type="pos" xml:id="Bae_REG_Place_387">Bae_TB_7_9944</term>
+          </item>
+          <item xml:id="Bae_REG_Place_388">
+            <term type="key" xml:id="Bae_REG_Place_389">Kaernten</term>
+            <term type="name" xml:id="Bae_REG_Place_390"/>
+            <term type="name_today" xml:id="Bae_REG_Place_391">https://www.geonames.org/2774686/kaernten.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_392">Kaernten</term>
+            <term type="long" xml:id="Bae_REG_Place_393">46.75</term>
+            <term type="pid" xml:id="Bae_REG_Place_394">13.83333</term>
+            <term type="pos" xml:id="Bae_REG_Place_395">Bae_MF_6-2_5924</term>
+            <term type="pos" xml:id="Bae_REG_Place_396">Bae_TB_7_1858</term>
+            <term type="pos" xml:id="Bae_REG_Place_397">Bae_TB_7_1918</term>
+            <term type="pos" xml:id="Bae_REG_Place_398">Bae_TB_7_1956</term>
+          </item>
+          <item xml:id="Bae_REG_Place_399">
+            <term type="key" xml:id="Bae_REG_Place_400">Karlsbad</term>
+            <term type="name" xml:id="Bae_REG_Place_401">Karlovy Vary</term>
+            <term type="name_today" xml:id="Bae_REG_Place_402">https://www.geonames.org/3073803/karlovy-vary.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_403">Karlsbad</term>
+            <term type="long" xml:id="Bae_REG_Place_404">50.23271</term>
+            <term type="pid" xml:id="Bae_REG_Place_405">12.87117</term>
+            <term type="pos" xml:id="Bae_REG_Place_406">Bae_MF_6-1_1598</term>
+            <term type="pos" xml:id="Bae_REG_Place_407">Bae_MF_6-1_2351</term>
+            <term type="pos" xml:id="Bae_REG_Place_408">Bae_MF_6-1_2403</term>
+            <term type="pos" xml:id="Bae_REG_Place_409">Bae_MF_6-1_2740</term>
+            <term type="pos" xml:id="Bae_REG_Place_410">Bae_MF_6-2_6029</term>
+            <term type="pos" xml:id="Bae_REG_Place_411">Bae_TB_7_5349</term>
+            <term type="pos" xml:id="Bae_REG_Place_412">Bae_TB_7_5941</term>
+            <term type="pos" xml:id="Bae_REG_Place_413">Bae_TB_7_6604</term>
+            <term type="pos" xml:id="Bae_REG_Place_414">Bae_TB_7_6641</term>
+            <term type="pos" xml:id="Bae_REG_Place_415">Bae_TB_7_6899</term>
+          </item>
+          <item xml:id="Bae_REG_Place_416">
+            <term type="key" xml:id="Bae_REG_Place_417">Knin</term>
+            <term type="name" xml:id="Bae_REG_Place_418"/>
+            <term type="name_today" xml:id="Bae_REG_Place_419">https://www.geonames.org/3197986/knin.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_420">Knin</term>
+            <term type="long" xml:id="Bae_REG_Place_421">44.04063</term>
+            <term type="pid" xml:id="Bae_REG_Place_422">16.19662</term>
+            <term type="pos" xml:id="Bae_REG_Place_423">Bae_MF_6-1_4539</term>
+            <term type="pos" xml:id="Bae_REG_Place_424">Bae_TB_7_10177</term>
+          </item>
+          <item xml:id="Bae_REG_Place_425">
+            <term type="key" xml:id="Bae_REG_Place_426">Koenigsberg</term>
+            <term type="name" xml:id="Bae_REG_Place_427">Kynšperk nad Ohří</term>
+            <term type="name_today" xml:id="Bae_REG_Place_428">https://www.geonames.org/11921844/kynsperk-nad-ohri.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_429">Koenigsberg</term>
+            <term type="long" xml:id="Bae_REG_Place_430">50.11601</term>
+            <term type="pid" xml:id="Bae_REG_Place_431">12.53794</term>
+            <term type="pos" xml:id="Bae_REG_Place_432">Bae_TB_7_1762</term>
+          </item>
+          <item xml:id="Bae_REG_Place_433">
+            <term type="key" xml:id="Bae_REG_Place_434">Koenigswart</term>
+            <term type="name" xml:id="Bae_REG_Place_435">Lázně Kynžvart</term>
+            <term type="name_today" xml:id="Bae_REG_Place_436">https://www.geonames.org/3072265/lazne-kynzvart.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_437">Koenigswart</term>
+            <term type="long" xml:id="Bae_REG_Place_438">50.01058</term>
+            <term type="pid" xml:id="Bae_REG_Place_439">12.62474</term>
+            <term type="pos" xml:id="Bae_REG_Place_440">Bae_MF_6-2_6219</term>
+          </item>
+          <item xml:id="Bae_REG_Place_441">
+            <term type="key" xml:id="Bae_REG_Place_442">Krain</term>
+            <term type="name" xml:id="Bae_REG_Place_443">Kranjska</term>
+            <term type="name_today" xml:id="Bae_REG_Place_444">https://www.geonames.org/3197905/kokra.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_445">Krain</term>
+            <term type="long" xml:id="Bae_REG_Place_446">46.23792</term>
+            <term type="pid" xml:id="Bae_REG_Place_447">14.35707</term>
+            <term type="pos" xml:id="Bae_REG_Place_448">Bae_MF_6-2_5062</term>
+            <term type="pos" xml:id="Bae_REG_Place_449">Bae_TB_7_12999</term>
+            <term type="pos" xml:id="Bae_REG_Place_450">Bae_TB_7_1854</term>
+            <term type="pos" xml:id="Bae_REG_Place_451">Bae_TB_7_1914</term>
+            <term type="pos" xml:id="Bae_REG_Place_452">Bae_TB_7_1952</term>
+            <term type="pos" xml:id="Bae_REG_Place_453">Bae_TB_8_4539</term>
+          </item>
+          <item xml:id="Bae_REG_Place_454">
+            <term type="key" xml:id="Bae_REG_Place_455">Kroatien</term>
+            <term type="name" xml:id="Bae_REG_Place_456">Hrvatska</term>
+            <term type="name_today" xml:id="Bae_REG_Place_457">https://www.geonames.org/3202326/republic-of-croatia.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_458">Kroatien</term>
+            <term type="long" xml:id="Bae_REG_Place_459">45.16667</term>
+            <term type="pid" xml:id="Bae_REG_Place_460">15.5</term>
+            <term type="pos" xml:id="Bae_REG_Place_461">Bae_MF_6-1_4531</term>
+            <term type="pos" xml:id="Bae_REG_Place_462">Bae_MF_6-1_4611</term>
+            <term type="pos" xml:id="Bae_REG_Place_463">Bae_TB_7_10160</term>
+            <term type="pos" xml:id="Bae_REG_Place_464">Bae_TB_7_10295</term>
+            <term type="pos" xml:id="Bae_REG_Place_465">Bae_TB_7_10589</term>
+            <term type="pos" xml:id="Bae_REG_Place_466">Bae_TB_7_10593</term>
+          </item>
+          <item xml:id="Bae_REG_Place_467">
+            <term type="key" xml:id="Bae_REG_Place_468">Kuestenland</term>
+            <term type="name" xml:id="Bae_REG_Place_469"/>
+            <term type="name_today" xml:id="Bae_REG_Place_470">https://www.geonames.org/12022679/goriska.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_471">Kuestenland</term>
+            <term type="long" xml:id="Bae_REG_Place_472">46.0896</term>
+            <term type="pid" xml:id="Bae_REG_Place_473">13.77736</term>
+            <term type="pos" xml:id="Bae_REG_Place_474">Bae_TB_7_1883</term>
+            <term type="pos" xml:id="Bae_REG_Place_475">Bae_TB_7_1903</term>
+            <term type="pos" xml:id="Bae_REG_Place_476">Bae_TB_7_1942</term>
+            <term type="pos" xml:id="Bae_REG_Place_477">Bae_TB_7_1971</term>
+            <term type="pos" xml:id="Bae_REG_Place_478">Bae_TB_7_13003</term>
+          </item>
+          <item xml:id="Bae_REG_Place_479">
+            <term type="key" xml:id="Bae_REG_Place_480">Laibach</term>
+            <term type="name" xml:id="Bae_REG_Place_481">Ljublijana</term>
+            <term type="name_today" xml:id="Bae_REG_Place_482">https://www.geonames.org/3239318/mestna-obcina-ljubljana.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_483">Laibach</term>
+            <term type="long" xml:id="Bae_REG_Place_484">46.05918</term>
+            <term type="pid" xml:id="Bae_REG_Place_485">14.50916</term>
+            <term type="pos" xml:id="Bae_REG_Place_486">Bae_MF_6-1_4482</term>
+            <term type="pos" xml:id="Bae_REG_Place_487">Bae_TB_7_10085</term>
+          </item>
+          <item xml:id="Bae_REG_Place_488">
+            <term type="key" xml:id="Bae_REG_Place_489">Lemberg</term>
+            <term type="name" xml:id="Bae_REG_Place_490">Lwiw, Lwów</term>
+            <term type="name_today" xml:id="Bae_REG_Place_491">https://www.geonames.org/702550/lviv.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_492">Lemberg</term>
+            <term type="long" xml:id="Bae_REG_Place_493">49.83826</term>
+            <term type="pid" xml:id="Bae_REG_Place_494">24.02324</term>
+            <term type="pos" xml:id="Bae_REG_Place_495">Bae_MF_6-2_4761</term>
+            <term type="pos" xml:id="Bae_REG_Place_496">Bae_MF_6-2_4799</term>
+          </item>
+          <item xml:id="Bae_REG_Place_497">
+            <term type="key" xml:id="Bae_REG_Place_498">Liverpool</term>
+            <term type="name" xml:id="Bae_REG_Place_499"/>
+            <term type="name_today" xml:id="Bae_REG_Place_500">https://www.geonames.org/3333167/liverpool.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_501">Liverpool</term>
+            <term type="long" xml:id="Bae_REG_Place_502">53.41667</term>
+            <term type="pid" xml:id="Bae_REG_Place_503">-2.91667</term>
+            <term type="pos" xml:id="Bae_REG_Place_504">Bae_MF_6-1_4859</term>
+            <term type="pos" xml:id="Bae_REG_Place_505">Bae_TB_7_10739</term>
+          </item>
+          <item xml:id="Bae_REG_Place_506">
+            <term type="key" xml:id="Bae_REG_Place_507">Luenz</term>
+            <term type="name" xml:id="Bae_REG_Place_508">Mlynce</term>
+            <term type="name_today" xml:id="Bae_REG_Place_509">https://www.geonames.org/3070490/mlynce.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_510">Luenz</term>
+            <term type="long" xml:id="Bae_REG_Place_511">50.1604</term>
+            <term type="pid" xml:id="Bae_REG_Place_512">13.31646</term>
+            <term type="pos" xml:id="Bae_REG_Place_513">Bae_MF_6-1_1623</term>
+            <term type="pos" xml:id="Bae_REG_Place_514">Bae_MF_6-1_2325</term>
+            <term type="pos" xml:id="Bae_REG_Place_515">Bae_MF_6-2_5848</term>
+            <term type="pos" xml:id="Bae_REG_Place_516">Bae_TB_7_5386</term>
+            <term type="pos" xml:id="Bae_REG_Place_517">Bae_TB_8_2780</term>
+            <term type="pos" xml:id="Bae_REG_Place_518">Bae_TB_8_2793</term>
+            <term type="pos" xml:id="Bae_REG_Place_519">Bae_TB_8_3373</term>
+            <term type="pos" xml:id="Bae_REG_Place_520">Bae_TB_8_3497</term>
+            <term type="pos" xml:id="Bae_REG_Place_521">Bae_TB_8_3630</term>
+            <term type="pos" xml:id="Bae_REG_Place_522">Bae_TB_8_3924</term>
+            <term type="pos" xml:id="Bae_REG_Place_523">Bae_TB_8_5505</term>
+          </item>
+          <item xml:id="Bae_REG_Place_524">
+            <term type="key" xml:id="Bae_REG_Place_525">Maehren</term>
+            <term type="name" xml:id="Bae_REG_Place_526">Morava</term>
+            <term type="name_today" xml:id="Bae_REG_Place_527">https://www.geonames.org/3070359/moravia.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_528">Maehren</term>
+            <term type="long" xml:id="Bae_REG_Place_529">49.5</term>
+            <term type="pid" xml:id="Bae_REG_Place_530">17</term>
+            <term type="pos" xml:id="Bae_REG_Place_531">Bae_MF_6-2_2547</term>
+            <term type="pos" xml:id="Bae_REG_Place_532">Bae_MF_6-2_6167</term>
+            <term type="pos" xml:id="Bae_REG_Place_533">Bae_TB_7_12985</term>
+            <term type="pos" xml:id="Bae_REG_Place_534">Bae_TB_7_3616</term>
+            <term type="pos" xml:id="Bae_REG_Place_535">Bae_TB_7_13011</term>
+            <term type="pos" xml:id="Bae_REG_Place_536">Bae_TB_8_1118</term>
+          </item>
+          <item xml:id="Bae_REG_Place_537">
+            <term type="key" xml:id="Bae_REG_Place_538">Marienbad</term>
+            <term type="name" xml:id="Bae_REG_Place_539">Mariánské Lázně</term>
+            <term type="name_today" xml:id="Bae_REG_Place_540">https://www.geonames.org/3071024/marianske-lazne.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_541">Marienbad</term>
+            <term type="long" xml:id="Bae_REG_Place_542">49.96459</term>
+            <term type="pid" xml:id="Bae_REG_Place_543">12.70118</term>
+            <term type="pos" xml:id="Bae_REG_Place_544">Bae_MF_6-2_5870</term>
+            <term type="pos" xml:id="Bae_REG_Place_545">Bae_MF_6-2_6052</term>
+            <term type="pos" xml:id="Bae_REG_Place_546">Bae_MF_6-2_6084</term>
+            <term type="pos" xml:id="Bae_REG_Place_547">Bae_MF_6-2_6198</term>
+            <term type="pos" xml:id="Bae_REG_Place_548">Bae_MF_6-2_6223</term>
+            <term type="pos" xml:id="Bae_REG_Place_549">Bae_MF_6-2_6255</term>
+            <term type="pos" xml:id="Bae_REG_Place_550">Bae_MF_6-2_6267</term>
+            <term type="pos" xml:id="Bae_REG_Place_551">Bae_MF_6-2_6324</term>
+          </item>
+          <item xml:id="Bae_REG_Place_552">
+            <term type="key" xml:id="Bae_REG_Place_553">Maximir</term>
+            <term type="name" xml:id="Bae_REG_Place_554">Maksimir</term>
+            <term type="name_today" xml:id="Bae_REG_Place_555">https://www.geonames.org/3195878/maksimir.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_556">Maximir</term>
+            <term type="long" xml:id="Bae_REG_Place_557">45.81414</term>
+            <term type="pid" xml:id="Bae_REG_Place_558">16.02431</term>
+            <term type="pos" xml:id="Bae_REG_Place_559">Bae_TB_7_10532</term>
+          </item>
+          <item xml:id="Bae_REG_Place_560">
+            <term type="key" xml:id="Bae_REG_Place_561">Meran</term>
+            <term type="name" xml:id="Bae_REG_Place_562">Merano</term>
+            <term type="name_today" xml:id="Bae_REG_Place_563">https://www.geonames.org/3173577/merano.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_564">Meran</term>
+            <term type="long" xml:id="Bae_REG_Place_565">46.66817</term>
+            <term type="pid" xml:id="Bae_REG_Place_566">11.15953</term>
+            <term type="pos" xml:id="Bae_REG_Place_567">Bae_TB_8_935</term>
+            <term type="pos" xml:id="Bae_REG_Place_568">Bae_TB_8_955</term>
+          </item>
+          <item xml:id="Bae_REG_Place_569">
+            <term type="key" xml:id="Bae_REG_Place_570">Misdroy</term>
+            <term type="name" xml:id="Bae_REG_Place_571">Międzyzdroje</term>
+            <term type="name_today" xml:id="Bae_REG_Place_572">https://www.geonames.org/3091961/miedzyzdroje.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_573">Misdroy</term>
+            <term type="long" xml:id="Bae_REG_Place_574">53.92921</term>
+            <term type="pid" xml:id="Bae_REG_Place_575">14.45097</term>
+            <term type="pos" xml:id="Bae_REG_Place_576">Bae_MF_6-1_2720</term>
+            <term type="pos" xml:id="Bae_REG_Place_577">Bae_TB_7_6550</term>
+          </item>
+          <item xml:id="Bae_REG_Place_578">
+            <term type="key" xml:id="Bae_REG_Place_579">Muenchen</term>
+            <term type="name" xml:id="Bae_REG_Place_580"/>
+            <term type="name_today" xml:id="Bae_REG_Place_581">https://www.geonames.org/6559171/muenchen-landeshauptstadt.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_582">Muenchen</term>
+            <term type="long" xml:id="Bae_REG_Place_583"/>
+            <term type="pid" xml:id="Bae_REG_Place_584"/>
+            <term type="pos" xml:id="Bae_REG_Place_585">Bae_MF_6-1_1750</term>
+            <term type="pos" xml:id="Bae_REG_Place_586">Bae_MF_6-1_1767</term>
+            <term type="pos" xml:id="Bae_REG_Place_587">Bae_MF_6-1_1771</term>
+            <term type="pos" xml:id="Bae_REG_Place_588">Bae_MF_6-1_1791</term>
+            <term type="pos" xml:id="Bae_REG_Place_589">Bae_MF_6-1_1795</term>
+            <term type="pos" xml:id="Bae_REG_Place_590">Bae_MF_6-1_1817</term>
+            <term type="pos" xml:id="Bae_REG_Place_591">Bae_MF_6-2_963</term>
+            <term type="pos" xml:id="Bae_REG_Place_592">Bae_MF_6-2_5321</term>
+            <term type="pos" xml:id="Bae_REG_Place_593">Bae_MF_6-2_5325</term>
+            <term type="pos" xml:id="Bae_REG_Place_594">Bae_TB_8_4940</term>
+            <term type="pos" xml:id="Bae_REG_Place_595">Bae_TB_8_5486</term>
+          </item>
+          <item xml:id="Bae_REG_Place_596">
+            <term type="key" xml:id="Bae_REG_Place_597">Neupest</term>
+            <term type="name" xml:id="Bae_REG_Place_598">Újpest</term>
+            <term type="name_today" xml:id="Bae_REG_Place_599">https://www.geonames.org/3054638/budapest.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_600">Neupest</term>
+            <term type="long" xml:id="Bae_REG_Place_601">47.5</term>
+            <term type="pid" xml:id="Bae_REG_Place_602">19.08333</term>
+            <term type="pos" xml:id="Bae_REG_Place_603">Bae_MF_6-1_4309</term>
+            <term type="pos" xml:id="Bae_REG_Place_604">Bae_TB_7_9802</term>
+          </item>
+          <item xml:id="Bae_REG_Place_605">
+            <term type="key" xml:id="Bae_REG_Place_606">NewYork</term>
+            <term type="name" xml:id="Bae_REG_Place_607"/>
+            <term type="name_today" xml:id="Bae_REG_Place_608">https://www.geonames.org/5128638/new-york.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_609">NewYork</term>
+            <term type="long" xml:id="Bae_REG_Place_610">40.71427</term>
+            <term type="pid" xml:id="Bae_REG_Place_611">-74.00597</term>
+            <term type="pos" xml:id="Bae_REG_Place_612">Bae_MF_6-1_4855</term>
+            <term type="pos" xml:id="Bae_REG_Place_613">Bae_TB_7_10735</term>
+          </item>
+          <item xml:id="Bae_REG_Place_614">
+            <term type="key" xml:id="Bae_REG_Place_615">Norderney</term>
+            <term type="name" xml:id="Bae_REG_Place_616"/>
+            <term type="name_today" xml:id="Bae_REG_Place_617">https://www.geonames.org/6557460/norderney.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_618">Norderney</term>
+            <term type="long" xml:id="Bae_REG_Place_619">53.7072</term>
+            <term type="pid" xml:id="Bae_REG_Place_620">7.14695</term>
+            <term type="pos" xml:id="Bae_REG_Place_621">Bae_MF_6-1_1697</term>
+          </item>
+          <item xml:id="Bae_REG_Place_622">
+            <term type="key" xml:id="Bae_REG_Place_623">NoviGrad</term>
+            <term type="name" xml:id="Bae_REG_Place_624"/>
+            <term type="name_today" xml:id="Bae_REG_Place_625">https://www.geonames.org/8988622/novi-grad.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_626">NoviGrad</term>
+            <term type="long" xml:id="Bae_REG_Place_627">46.02516</term>
+            <term type="pid" xml:id="Bae_REG_Place_628">15.22167</term>
+            <term type="pos" xml:id="Bae_REG_Place_629">Bae_MF_6-1_4535</term>
+            <term type="pos" xml:id="Bae_REG_Place_630">Bae_TB_7_10173</term>
+          </item>
+          <item xml:id="Bae_REG_Place_631">
+            <term type="key" xml:id="Bae_REG_Place_632">Nymphenburg</term>
+            <term type="name" xml:id="Bae_REG_Place_633"/>
+            <term type="name_today" xml:id="Bae_REG_Place_634">https://www.geonames.org/2861525/nymphenburg.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_635">Nymphenburg</term>
+            <term type="long" xml:id="Bae_REG_Place_636">48.15853</term>
+            <term type="pid" xml:id="Bae_REG_Place_637">11.49857</term>
+            <term type="pos" xml:id="Bae_REG_Place_638">Bae_MF_6-1_1775</term>
+            <term type="pos" xml:id="Bae_REG_Place_639">Bae_MF_6-1_1825</term>
+          </item>
+          <item xml:id="Bae_REG_Place_640">
+            <term type="key" xml:id="Bae_REG_Place_641">Oesterreich</term>
+            <term type="name" xml:id="Bae_REG_Place_642"/>
+            <term type="name_today" xml:id="Bae_REG_Place_643">https://www.geonames.org/2782113/republic-of-austria.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_644">Oesterreich</term>
+            <term type="long" xml:id="Bae_REG_Place_645">47.33333</term>
+            <term type="pid" xml:id="Bae_REG_Place_646">13.33333</term>
+            <term type="pos" xml:id="Bae_REG_Place_647">Bae_MF_6-1_565</term>
+            <term type="pos" xml:id="Bae_REG_Place_648">Bae_MF_6-1_706</term>
+            <term type="pos" xml:id="Bae_REG_Place_649">Bae_MF_6-1_757</term>
+            <term type="pos" xml:id="Bae_REG_Place_650">Bae_MF_6-1_1018</term>
+            <term type="pos" xml:id="Bae_REG_Place_651">Bae_MF_6-1_1040</term>
+            <term type="pos" xml:id="Bae_REG_Place_652">Bae_MF_6-1_1857</term>
+            <term type="pos" xml:id="Bae_REG_Place_653">Bae_MF_6-1_1905</term>
+            <term type="pos" xml:id="Bae_REG_Place_654">Bae_MF_6-1_2016</term>
+            <term type="pos" xml:id="Bae_REG_Place_655">Bae_MF_6-1_2024</term>
+            <term type="pos" xml:id="Bae_REG_Place_656">Bae_MF_6-1_2117</term>
+            <term type="pos" xml:id="Bae_REG_Place_657">Bae_MF_6-1_2125</term>
+            <term type="pos" xml:id="Bae_REG_Place_658">Bae_MF_6-1_2142</term>
+            <term type="pos" xml:id="Bae_REG_Place_659">Bae_MF_6-1_2469</term>
+            <term type="pos" xml:id="Bae_REG_Place_660">Bae_MF_6-1_2634</term>
+            <term type="pos" xml:id="Bae_REG_Place_661">Bae_MF_6-1_3078</term>
+            <term type="pos" xml:id="Bae_REG_Place_662">Bae_MF_6-1_3082</term>
+            <term type="pos" xml:id="Bae_REG_Place_663">Bae_MF_6-1_3394</term>
+            <term type="pos" xml:id="Bae_REG_Place_664">Bae_MF_6-1_3400</term>
+            <term type="pos" xml:id="Bae_REG_Place_665">Bae_MF_6-1_3654</term>
+            <term type="pos" xml:id="Bae_REG_Place_666">Bae_MF_6-1_3770</term>
+            <term type="pos" xml:id="Bae_REG_Place_667">Bae_MF_6-1_3863</term>
+            <term type="pos" xml:id="Bae_REG_Place_668">Bae_MF_6-1_3924</term>
+            <term type="pos" xml:id="Bae_REG_Place_669">Bae_MF_6-1_4115</term>
+            <term type="pos" xml:id="Bae_REG_Place_670">Bae_MF_6-1_4121</term>
+            <term type="pos" xml:id="Bae_REG_Place_671">Bae_MF_6-1_4189</term>
+            <term type="pos" xml:id="Bae_REG_Place_672">Bae_MF_6-1_4200</term>
+            <term type="pos" xml:id="Bae_REG_Place_673">Bae_MF_6-1_4543</term>
+            <term type="pos" xml:id="Bae_REG_Place_674">Bae_MF_6-1_4851</term>
+            <term type="pos" xml:id="Bae_REG_Place_675">Bae_MF_6-1_4901</term>
+            <term type="pos" xml:id="Bae_REG_Place_676">Bae_MF_6-1_4936</term>
+            <term type="pos" xml:id="Bae_REG_Place_677">Bae_MF_6-1_4955</term>
+            <term type="pos" xml:id="Bae_REG_Place_678">Bae_MF_6-1_4963</term>
+            <term type="pos" xml:id="Bae_REG_Place_679">Bae_MF_6-1_4979</term>
+            <term type="pos" xml:id="Bae_REG_Place_680">Bae_MF_6-1_4997</term>
+            <term type="pos" xml:id="Bae_REG_Place_681">Bae_MF_6-1_5008</term>
+            <term type="pos" xml:id="Bae_REG_Place_682">Bae_MF_6-1_5111</term>
+            <term type="pos" xml:id="Bae_REG_Place_683">Bae_MF_6-2_298</term>
+            <term type="pos" xml:id="Bae_REG_Place_684">Bae_MF_6-2_326</term>
+            <term type="pos" xml:id="Bae_REG_Place_685">Bae_MF_6-2_609</term>
+            <term type="pos" xml:id="Bae_REG_Place_686">Bae_MF_6-2_712</term>
+            <term type="pos" xml:id="Bae_REG_Place_687">Bae_MF_6-2_808</term>
+            <term type="pos" xml:id="Bae_REG_Place_688">Bae_MF_6-2_902</term>
+            <term type="pos" xml:id="Bae_REG_Place_689">Bae_MF_6-2_1594</term>
+            <term type="pos" xml:id="Bae_REG_Place_690">Bae_MF_6-2_1647</term>
+            <term type="pos" xml:id="Bae_REG_Place_691">Bae_MF_6-2_1878</term>
+            <term type="pos" xml:id="Bae_REG_Place_692">Bae_MF_6-2_1882</term>
+            <term type="pos" xml:id="Bae_REG_Place_693">Bae_MF_6-2_1906</term>
+            <term type="pos" xml:id="Bae_REG_Place_694">Bae_MF_6-2_1910</term>
+            <term type="pos" xml:id="Bae_REG_Place_695">Bae_MF_6-2_1920</term>
+            <term type="pos" xml:id="Bae_REG_Place_696">Bae_MF_6-2_1924</term>
+            <term type="pos" xml:id="Bae_REG_Place_697">Bae_MF_6-2_1952</term>
+            <term type="pos" xml:id="Bae_REG_Place_698">Bae_MF_6-2_1991</term>
+            <term type="pos" xml:id="Bae_REG_Place_699">Bae_MF_6-2_1999</term>
+            <term type="pos" xml:id="Bae_REG_Place_700">Bae_MF_6-2_2222</term>
+            <term type="pos" xml:id="Bae_REG_Place_701">Bae_MF_6-2_2785</term>
+            <term type="pos" xml:id="Bae_REG_Place_702">Bae_MF_6-2_3197</term>
+            <term type="pos" xml:id="Bae_REG_Place_703">Bae_MF_6-2_3536</term>
+            <term type="pos" xml:id="Bae_REG_Place_704">Bae_MF_6-2_3740</term>
+            <term type="pos" xml:id="Bae_REG_Place_705">Bae_MF_6-2_4277</term>
+            <term type="pos" xml:id="Bae_REG_Place_706">Bae_MF_6-2_4435</term>
+            <term type="pos" xml:id="Bae_REG_Place_707">Bae_TB_7_10190</term>
+            <term type="pos" xml:id="Bae_REG_Place_708">Bae_TB_7_10731</term>
+            <term type="pos" xml:id="Bae_REG_Place_709">Bae_TB_7_10794</term>
+            <term type="pos" xml:id="Bae_REG_Place_710">Bae_TB_7_10873</term>
+            <term type="pos" xml:id="Bae_REG_Place_711">Bae_TB_7_10897</term>
+            <term type="pos" xml:id="Bae_REG_Place_712">Bae_TB_7_10922</term>
+            <term type="pos" xml:id="Bae_REG_Place_713">Bae_TB_7_10950</term>
+            <term type="pos" xml:id="Bae_REG_Place_714">Bae_TB_7_11165</term>
+            <term type="pos" xml:id="Bae_REG_Place_715">Bae_TB_7_11325</term>
+            <term type="pos" xml:id="Bae_REG_Place_716">Bae_TB_7_13241</term>
+            <term type="pos" xml:id="Bae_REG_Place_717">Bae_TB_7_13311</term>
+            <term type="pos" xml:id="Bae_REG_Place_718">Bae_TB_7_3489</term>
+            <term type="pos" xml:id="Bae_REG_Place_719">Bae_TB_7_3724</term>
+            <term type="pos" xml:id="Bae_REG_Place_720">Bae_TB_7_6085</term>
+            <term type="pos" xml:id="Bae_REG_Place_721">Bae_TB_7_6155</term>
+            <term type="pos" xml:id="Bae_REG_Place_722">Bae_TB_7_6334</term>
+            <term type="pos" xml:id="Bae_REG_Place_723">Bae_TB_7_6834</term>
+            <term type="pos" xml:id="Bae_REG_Place_724">Bae_TB_7_7243</term>
+            <term type="pos" xml:id="Bae_REG_Place_725">Bae_TB_7_7247</term>
+            <term type="pos" xml:id="Bae_REG_Place_726">Bae_TB_7_7801</term>
+            <term type="pos" xml:id="Bae_REG_Place_727">Bae_TB_7_7813</term>
+            <term type="pos" xml:id="Bae_REG_Place_728">Bae_TB_7_8171</term>
+            <term type="pos" xml:id="Bae_REG_Place_729">Bae_TB_7_8467</term>
+            <term type="pos" xml:id="Bae_REG_Place_730">Bae_TB_7_8638</term>
+            <term type="pos" xml:id="Bae_REG_Place_731">Bae_TB_7_8807</term>
+            <term type="pos" xml:id="Bae_REG_Place_732">Bae_TB_7_8921</term>
+            <term type="pos" xml:id="Bae_REG_Place_733">Bae_TB_7_9343</term>
+            <term type="pos" xml:id="Bae_REG_Place_734">Bae_TB_7_9381</term>
+            <term type="pos" xml:id="Bae_REG_Place_735">Bae_TB_7_9558</term>
+            <term type="pos" xml:id="Bae_REG_Place_736">Bae_TB_7_9609</term>
+            <term type="pos" xml:id="Bae_REG_Place_737">Bae_TB_7_11062</term>
+            <term type="pos" xml:id="Bae_REG_Place_738">Bae_TB_7_11116</term>
+            <term type="pos" xml:id="Bae_REG_Place_739">Bae_TB_7_13096</term>
+            <term type="pos" xml:id="Bae_REG_Place_740">Bae_TB_8_1760</term>
+            <term type="pos" xml:id="Bae_REG_Place_741">Bae_TB_8_2626</term>
+            <term type="pos" xml:id="Bae_REG_Place_742">Bae_TB_8_5914</term>
+            <term type="pos" xml:id="Bae_REG_Place_743">Bae_TB_8_5936</term>
+            <term type="pos" xml:id="Bae_REG_Place_744">Bae_TB_8_6310</term>
+          </item>
+          <item xml:id="Bae_REG_Place_745">
+            <term type="key" xml:id="Bae_REG_Place_746">Ofen</term>
+            <term type="name" xml:id="Bae_REG_Place_747">Buda</term>
+            <term type="name_today" xml:id="Bae_REG_Place_748">https://www.geonames.org/3054667/buda.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_749">Ofen</term>
+            <term type="long" xml:id="Bae_REG_Place_750">47.5</term>
+            <term type="pid" xml:id="Bae_REG_Place_751">19.03333</term>
+            <term type="pos" xml:id="Bae_REG_Place_752">Bae_MF_6-2_516</term>
+            <term type="pos" xml:id="Bae_REG_Place_753">Bae_TB_8_6233</term>
+          </item>
+          <item xml:id="Bae_REG_Place_754">
+            <term type="key" xml:id="Bae_REG_Place_755">Olmuetz</term>
+            <term type="name" xml:id="Bae_REG_Place_756">Olomouc</term>
+            <term type="name_today" xml:id="Bae_REG_Place_757">https://www.geonames.org/3069011/olomouc.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_758">Olmuetz</term>
+            <term type="long" xml:id="Bae_REG_Place_759"/>
+            <term type="pid" xml:id="Bae_REG_Place_760"/>
+            <term type="pos" xml:id="Bae_REG_Place_761">Bae_TB_8_1223</term>
+          </item>
+          <item xml:id="Bae_REG_Place_762">
+            <term type="key" xml:id="Bae_REG_Place_763">Ostrava</term>
+            <term type="name" xml:id="Bae_REG_Place_764">Ostrava</term>
+            <term type="name_today" xml:id="Bae_REG_Place_765">https://www.geonames.org/11921098/ostrava.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_766">Ostrava</term>
+            <term type="long" xml:id="Bae_REG_Place_767">49.8147</term>
+            <term type="pid" xml:id="Bae_REG_Place_768">18.24781</term>
+            <term type="pos" xml:id="Bae_REG_Place_769">Bae_TB_7_1770</term>
+          </item>
+          <item xml:id="Bae_REG_Place_770">
+            <term type="key" xml:id="Bae_REG_Place_771">Ostschlesien</term>
+            <term type="name" xml:id="Bae_REG_Place_772"/>
+            <term type="name_today" xml:id="Bae_REG_Place_773">https://d-nb.info/gnd/4280197-7</term>
+            <term type="lat" xml:id="Bae_REG_Place_774">Ostschlesien</term>
+            <term type="long" xml:id="Bae_REG_Place_775">49.72628</term>
+            <term type="pid" xml:id="Bae_REG_Place_776">18.79147</term>
+            <term type="pos" xml:id="Bae_REG_Place_777">Bae_TB_7_12995</term>
+            <term type="pos" xml:id="Bae_REG_Place_778">Bae_TB_7_13007</term>
+          </item>
+          <item xml:id="Bae_REG_Place_779">
+            <term type="key" xml:id="Bae_REG_Place_780">Paris</term>
+            <term type="name" xml:id="Bae_REG_Place_781"/>
+            <term type="name_today" xml:id="Bae_REG_Place_782">https://www.geonames.org/2988507/paris.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_783">Paris</term>
+            <term type="long" xml:id="Bae_REG_Place_784">48.85341</term>
+            <term type="pid" xml:id="Bae_REG_Place_785">2.3488</term>
+            <term type="pos" xml:id="Bae_REG_Place_786">Bae_MF_6-2_6187</term>
+          </item>
+          <item xml:id="Bae_REG_Place_787">
+            <term type="key" xml:id="Bae_REG_Place_788">Petschau</term>
+            <term type="name" xml:id="Bae_REG_Place_789">Bečov nad Teplou</term>
+            <term type="name_today" xml:id="Bae_REG_Place_790">https://www.geonames.org/3079609/becov-nad-teplou.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_791">Petschau</term>
+            <term type="long" xml:id="Bae_REG_Place_792">50.08345</term>
+            <term type="pid" xml:id="Bae_REG_Place_793">12.83831</term>
+            <term type="pos" xml:id="Bae_REG_Place_794">Bae_MF_6-1_922</term>
+            <term type="pos" xml:id="Bae_REG_Place_795">Bae_TB_7_4083</term>
+          </item>
+          <item xml:id="Bae_REG_Place_796">
+            <term type="key" xml:id="Bae_REG_Place_797">Pilsen</term>
+            <term type="name" xml:id="Bae_REG_Place_798">Plzeň</term>
+            <term type="name_today" xml:id="Bae_REG_Place_799">https://www.geonames.org/3068160/pilsen.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_800">Pilsen</term>
+            <term type="long" xml:id="Bae_REG_Place_801">49.74098</term>
+            <term type="pid" xml:id="Bae_REG_Place_802">13.37377</term>
+            <term type="pos" xml:id="Bae_REG_Place_803">Bae_MF_6-2_4907</term>
+            <term type="pos" xml:id="Bae_REG_Place_804">Bae_MF_6-2_4919</term>
+          </item>
+          <item xml:id="Bae_REG_Place_805">
+            <term type="key" xml:id="Bae_REG_Place_806">Podersam</term>
+            <term type="name" xml:id="Bae_REG_Place_807">Podbořany</term>
+            <term type="name_today" xml:id="Bae_REG_Place_808">https://www.geonames.org/3068119/podborany.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_809">Podersam</term>
+            <term type="long" xml:id="Bae_REG_Place_810">50.22937</term>
+            <term type="pid" xml:id="Bae_REG_Place_811">13.41192</term>
+            <term type="pos" xml:id="Bae_REG_Place_812">Bae_MF_6-1_851</term>
+            <term type="pos" xml:id="Bae_REG_Place_813">Bae_MF_6-2_6088</term>
+            <term type="pos" xml:id="Bae_REG_Place_814">Bae_TB_7_3955</term>
+          </item>
+          <item xml:id="Bae_REG_Place_815">
+            <term type="key" xml:id="Bae_REG_Place_816">Prag</term>
+            <term type="name" xml:id="Bae_REG_Place_817">Praha</term>
+            <term type="name_today" xml:id="Bae_REG_Place_818">https://www.geonames.org/3067696/prague.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_819">Prag</term>
+            <term type="long" xml:id="Bae_REG_Place_820">50.08804</term>
+            <term type="pid" xml:id="Bae_REG_Place_821">14.42076</term>
+            <term type="pos" xml:id="Bae_REG_Place_822">Bae_MF_6-1_283</term>
+            <term type="pos" xml:id="Bae_REG_Place_823">Bae_MF_6-1_295</term>
+            <term type="pos" xml:id="Bae_REG_Place_824">Bae_MF_6-1_857</term>
+            <term type="pos" xml:id="Bae_REG_Place_825">Bae_MF_6-1_1251</term>
+            <term type="pos" xml:id="Bae_REG_Place_826">Bae_MF_6-1_1304</term>
+            <term type="pos" xml:id="Bae_REG_Place_827">Bae_MF_6-1_2708</term>
+            <term type="pos" xml:id="Bae_REG_Place_828">Bae_MF_6-2_967</term>
+            <term type="pos" xml:id="Bae_REG_Place_829">Bae_MF_6-2_1745</term>
+            <term type="pos" xml:id="Bae_REG_Place_830">Bae_MF_6-2_2539</term>
+            <term type="pos" xml:id="Bae_REG_Place_831">Bae_MF_6-2_2922</term>
+            <term type="pos" xml:id="Bae_REG_Place_832">Bae_MF_6-2_3193</term>
+            <term type="pos" xml:id="Bae_REG_Place_833">Bae_MF_6-2_3632</term>
+            <term type="pos" xml:id="Bae_REG_Place_834">Bae_MF_6-2_4899</term>
+            <term type="pos" xml:id="Bae_REG_Place_835">Bae_MF_6-2_4911</term>
+            <term type="pos" xml:id="Bae_REG_Place_836">Bae_MF_6-2_6242</term>
+            <term type="pos" xml:id="Bae_REG_Place_837">Bae_TB_7_12603</term>
+            <term type="pos" xml:id="Bae_REG_Place_838">Bae_TB_7_12811</term>
+            <term type="pos" xml:id="Bae_REG_Place_839">Bae_TB_7_12829</term>
+            <term type="pos" xml:id="Bae_REG_Place_840">Bae_TB_7_632</term>
+            <term type="pos" xml:id="Bae_REG_Place_841">Bae_TB_7_2934</term>
+            <term type="pos" xml:id="Bae_REG_Place_842">Bae_TB_7_3985</term>
+            <term type="pos" xml:id="Bae_REG_Place_843">Bae_TB_7_4706</term>
+            <term type="pos" xml:id="Bae_REG_Place_844">Bae_TB_7_4770</term>
+            <term type="pos" xml:id="Bae_REG_Place_845">Bae_TB_7_4896</term>
+            <term type="pos" xml:id="Bae_REG_Place_846">Bae_TB_7_6526</term>
+            <term type="pos" xml:id="Bae_REG_Place_847">Bae_TB_8_1955</term>
+            <term type="pos" xml:id="Bae_REG_Place_848">Bae_TB_8_4352</term>
+          </item>
+          <item xml:id="Bae_REG_Place_849">
+            <term type="key" xml:id="Bae_REG_Place_850">RakosPalota</term>
+            <term type="name" xml:id="Bae_REG_Place_851">Rákospalota</term>
+            <term type="name_today" xml:id="Bae_REG_Place_852">https://www.geonames.org/3054638/budapest.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_853">RakosPalota</term>
+            <term type="long" xml:id="Bae_REG_Place_854">47.5</term>
+            <term type="pid" xml:id="Bae_REG_Place_855">19.08333</term>
+            <term type="pos" xml:id="Bae_REG_Place_856">Bae_MF_6-1_4301</term>
+            <term type="pos" xml:id="Bae_REG_Place_857">Bae_TB_7_9794</term>
+          </item>
+          <item xml:id="Bae_REG_Place_858">
+            <term type="key" xml:id="Bae_REG_Place_859">Reichenberg</term>
+            <term type="name" xml:id="Bae_REG_Place_860">Liberec</term>
+            <term type="name_today" xml:id="Bae_REG_Place_861">https://www.geonames.org/11924204/liberec.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_862">Reichenberg</term>
+            <term type="long" xml:id="Bae_REG_Place_863">50.76552</term>
+            <term type="pid" xml:id="Bae_REG_Place_864">15.05351</term>
+            <term type="pos" xml:id="Bae_REG_Place_865">Bae_TB_8_1248</term>
+            <term type="pos" xml:id="Bae_REG_Place_866">Bae_TB_8_4362</term>
+            <term type="pos" xml:id="Bae_REG_Place_867">Bae_TB_8_4403</term>
+          </item>
+          <item xml:id="Bae_REG_Place_868">
+            <term type="key" xml:id="Bae_REG_Place_869">Rovereto</term>
+            <term type="name" xml:id="Bae_REG_Place_870"/>
+            <term type="name_today" xml:id="Bae_REG_Place_871">https://www.geonames.org/6539916/rovereto.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_872">Rovereto</term>
+            <term type="long" xml:id="Bae_REG_Place_873">45.8896</term>
+            <term type="pid" xml:id="Bae_REG_Place_874">11.03868</term>
+            <term type="pos" xml:id="Bae_REG_Place_875">Bae_TB_7_2172</term>
+            <term type="pos" xml:id="Bae_REG_Place_876">Bae_TB_7_2298</term>
+          </item>
+          <item xml:id="Bae_REG_Place_877">
+            <term type="key" xml:id="Bae_REG_Place_878">Russland</term>
+            <term type="name" xml:id="Bae_REG_Place_879"/>
+            <term type="name_today" xml:id="Bae_REG_Place_880">https://www.geonames.org/2017370/russian-federation.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_881">Russland</term>
+            <term type="long" xml:id="Bae_REG_Place_882">60</term>
+            <term type="pid" xml:id="Bae_REG_Place_883">100</term>
+            <term type="pos" xml:id="Bae_REG_Place_884">Bae_MF_6-2_1679</term>
+            <term type="pos" xml:id="Bae_REG_Place_885">Bae_MF_6-2_1768</term>
+            <term type="pos" xml:id="Bae_REG_Place_886">Bae_TB_7_12641</term>
+          </item>
+          <item xml:id="Bae_REG_Place_887">
+            <term type="key" xml:id="Bae_REG_Place_888">Saaz</term>
+            <term type="name" xml:id="Bae_REG_Place_889">Žatec</term>
+            <term type="name_today" xml:id="Bae_REG_Place_890">https://www.geonames.org/3061822/zatec.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_891">Saaz</term>
+            <term type="long" xml:id="Bae_REG_Place_892">50.32717</term>
+            <term type="pid" xml:id="Bae_REG_Place_893">13.54577</term>
+            <term type="pos" xml:id="Bae_REG_Place_894">Bae_MF_6-2_5952</term>
+          </item>
+          <item xml:id="Bae_REG_Place_895">
+            <term type="key" xml:id="Bae_REG_Place_896">Sangerberg</term>
+            <term type="name" xml:id="Bae_REG_Place_897">Prameny</term>
+            <term type="name_today" xml:id="Bae_REG_Place_898">https://www.geonames.org/3067688/prameny.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_899">Sangerberg</term>
+            <term type="long" xml:id="Bae_REG_Place_900">50.05007</term>
+            <term type="pid" xml:id="Bae_REG_Place_901">12.73279</term>
+            <term type="pos" xml:id="Bae_REG_Place_902">Bae_MF_6-2_6215</term>
+          </item>
+          <item xml:id="Bae_REG_Place_903">
+            <term type="key" xml:id="Bae_REG_Place_904">Schlesien</term>
+            <term type="name" xml:id="Bae_REG_Place_905">Slezsko</term>
+            <term type="name_today" xml:id="Bae_REG_Place_906">https://www.geonames.org/11748058/silesian-metropolis.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_907">Schlesien</term>
+            <term type="long" xml:id="Bae_REG_Place_908">50.25423</term>
+            <term type="pid" xml:id="Bae_REG_Place_909">19.13818</term>
+            <term type="pos" xml:id="Bae_REG_Place_910">Bae_MF_6-2_5916</term>
+          </item>
+          <item xml:id="Bae_REG_Place_911">
+            <term type="key" xml:id="Bae_REG_Place_912">StarnbergerSee</term>
+            <term type="name" xml:id="Bae_REG_Place_913"/>
+            <term type="name_today" xml:id="Bae_REG_Place_914">https://www.geonames.org/2829454/starnberger-see.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_915">StarnbergerSee</term>
+            <term type="long" xml:id="Bae_REG_Place_916">47.90348</term>
+            <term type="pid" xml:id="Bae_REG_Place_917">11.31187</term>
+            <term type="pos" xml:id="Bae_REG_Place_918">Bae_MF_6-1_1807</term>
+          </item>
+          <item xml:id="Bae_REG_Place_919">
+            <term type="key" xml:id="Bae_REG_Place_920">Steiermark</term>
+            <term type="name" xml:id="Bae_REG_Place_921"/>
+            <term type="name_today" xml:id="Bae_REG_Place_922">https://www.geonames.org/2764581/steiermark.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_923">Steiermark</term>
+            <term type="long" xml:id="Bae_REG_Place_924">47.25</term>
+            <term type="pid" xml:id="Bae_REG_Place_925">15.16667</term>
+            <term type="pos" xml:id="Bae_REG_Place_926">Bae_MF_6-2_5066</term>
+            <term type="pos" xml:id="Bae_REG_Place_927">Bae_MF_6-2_5908</term>
+            <term type="pos" xml:id="Bae_REG_Place_928">Bae_TB_7_1926</term>
+            <term type="pos" xml:id="Bae_REG_Place_929">Bae_TB_7_3620</term>
+            <term type="pos" xml:id="Bae_REG_Place_930">Bae_TB_7_13015</term>
+            <term type="pos" xml:id="Bae_REG_Place_931">Bae_TB_8_4543</term>
+          </item>
+          <item xml:id="Bae_REG_Place_932">
+            <term type="key" xml:id="Bae_REG_Place_933">Temesvar</term>
+            <term type="name" xml:id="Bae_REG_Place_934">Timișoara</term>
+            <term type="name_today" xml:id="Bae_REG_Place_935">https://www.geonames.org/665087/timisoara.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_936">Temesvar</term>
+            <term type="long" xml:id="Bae_REG_Place_937">45.75372</term>
+            <term type="pid" xml:id="Bae_REG_Place_938">21.22571</term>
+            <term type="pos" xml:id="Bae_REG_Place_939">Bae_TB_8_3782</term>
+          </item>
+          <item xml:id="Bae_REG_Place_940">
+            <term type="key" xml:id="Bae_REG_Place_941">Teschen</term>
+            <term type="name" xml:id="Bae_REG_Place_942">Cieszyn</term>
+            <term type="name_today" xml:id="Bae_REG_Place_943">https://www.geonames.org/7532301/cieszyn.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_944">Teschen</term>
+            <term type="long" xml:id="Bae_REG_Place_945">49.74922</term>
+            <term type="pid" xml:id="Bae_REG_Place_946">18.63178</term>
+            <term type="pos" xml:id="Bae_REG_Place_947">Bae_TB_7_1628</term>
+            <term type="pos" xml:id="Bae_REG_Place_948">Bae_TB_7_1654</term>
+            <term type="pos" xml:id="Bae_REG_Place_949">Bae_TB_7_1766</term>
+            <term type="pos" xml:id="Bae_REG_Place_950">Bae_TB_7_1776</term>
+            <term type="pos" xml:id="Bae_REG_Place_951">Bae_TB_7_4283</term>
+          </item>
+          <item xml:id="Bae_REG_Place_952">
+            <term type="key" xml:id="Bae_REG_Place_953">Theresienstadt</term>
+            <term type="name" xml:id="Bae_REG_Place_954">Terézváros</term>
+            <term type="name_today" xml:id="Bae_REG_Place_955">https://www.geonames.org/12059772/budapest-vi.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_956">Theresienstadt</term>
+            <term type="long" xml:id="Bae_REG_Place_957">47.50972</term>
+            <term type="pid" xml:id="Bae_REG_Place_958">19.06583</term>
+            <term type="pos" xml:id="Bae_REG_Place_959">Bae_MF_6-1_5365</term>
+            <term type="pos" xml:id="Bae_REG_Place_960">Bae_TB_7_11781</term>
+          </item>
+          <item xml:id="Bae_REG_Place_961">
+            <term type="key" xml:id="Bae_REG_Place_962">Tirol</term>
+            <term type="name" xml:id="Bae_REG_Place_963"/>
+            <term type="name_today" xml:id="Bae_REG_Place_964">https://www.geonames.org/2763587/tyrol.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_965">Tirol</term>
+            <term type="long" xml:id="Bae_REG_Place_966">47</term>
+            <term type="pid" xml:id="Bae_REG_Place_967">11.5</term>
+            <term type="pos" xml:id="Bae_REG_Place_968">Bae_MF_6-2_5900</term>
+            <term type="pos" xml:id="Bae_REG_Place_969">Bae_TB_7_2411</term>
+          </item>
+          <item xml:id="Bae_REG_Place_970">
+            <term type="key" xml:id="Bae_REG_Place_971">Trautenau</term>
+            <term type="name" xml:id="Bae_REG_Place_972">Trutnov</term>
+            <term type="name_today" xml:id="Bae_REG_Place_973">https://www.geonames.org/3063907/trutnov.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_974">Trautenau</term>
+            <term type="long" xml:id="Bae_REG_Place_975">50.56101</term>
+            <term type="pid" xml:id="Bae_REG_Place_976">15.9127</term>
+            <term type="pos" xml:id="Bae_REG_Place_977">Bae_MF_6-2_2527</term>
+            <term type="pos" xml:id="Bae_REG_Place_978">Bae_TB_8_1064</term>
+          </item>
+          <item xml:id="Bae_REG_Place_979">
+            <term type="key" xml:id="Bae_REG_Place_980">Trentino</term>
+            <term type="name" xml:id="Bae_REG_Place_981">Trentino</term>
+            <term type="name_today" xml:id="Bae_REG_Place_982">https://www.geonames.org/3165241/provincia-autonoma-di-trento.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_983">Trentino</term>
+            <term type="long" xml:id="Bae_REG_Place_984">46.06966</term>
+            <term type="pid" xml:id="Bae_REG_Place_985">11.12177</term>
+            <term type="pos" xml:id="Bae_REG_Place_986">Bae_TB_7_2100</term>
+          </item>
+          <item xml:id="Bae_REG_Place_987">
+            <term type="key" xml:id="Bae_REG_Place_988">Triest</term>
+            <term type="name" xml:id="Bae_REG_Place_989">Trieste</term>
+            <term type="name_today" xml:id="Bae_REG_Place_990">https://www.geonames.org/3165185/trieste.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_991">Triest</term>
+            <term type="long" xml:id="Bae_REG_Place_992">45.64953</term>
+            <term type="pid" xml:id="Bae_REG_Place_993">13.77678</term>
+            <term type="pos" xml:id="Bae_REG_Place_994">Bae_TB_7_613</term>
+            <term type="pos" xml:id="Bae_REG_Place_995">Bae_TB_7_2194</term>
+            <term type="pos" xml:id="Bae_REG_Place_996">Bae_TB_7_2218</term>
+            <term type="pos" xml:id="Bae_REG_Place_997">Bae_TB_7_2241</term>
+          </item>
+          <item xml:id="Bae_REG_Place_998">
+            <term type="key" xml:id="Bae_REG_Place_999">Troppau</term>
+            <term type="name" xml:id="Bae_REG_Place_1000">Opava</term>
+            <term type="name_today" xml:id="Bae_REG_Place_1001">https://www.geonames.org/11920184/opava.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_1002">Troppau</term>
+            <term type="long" xml:id="Bae_REG_Place_1003">49.93612</term>
+            <term type="pid" xml:id="Bae_REG_Place_1004">17.90441</term>
+            <term type="pos" xml:id="Bae_REG_Place_1005">Bae_TB_7_1632</term>
+            <term type="pos" xml:id="Bae_REG_Place_1006">Bae_TB_7_1658</term>
+            <term type="pos" xml:id="Bae_REG_Place_1007">Bae_TB_7_1698</term>
+            <term type="pos" xml:id="Bae_REG_Place_1008">Bae_TB_7_1780</term>
+            <term type="pos" xml:id="Bae_REG_Place_1009">Bae_TB_7_4272</term>
+            <term type="pos" xml:id="Bae_REG_Place_1010">Bae_TB_7_4287</term>
+          </item>
+          <item xml:id="Bae_REG_Place_1011">
+            <term type="key" xml:id="Bae_REG_Place_1012">Ungarn</term>
+            <term type="name" xml:id="Bae_REG_Place_1013">Magyarország</term>
+            <term type="name_today" xml:id="Bae_REG_Place_1014">https://www.geonames.org/719819/hungary.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_1015">Ungarn</term>
+            <term type="long" xml:id="Bae_REG_Place_1016">47</term>
+            <term type="pid" xml:id="Bae_REG_Place_1017">20</term>
+            <term type="pos" xml:id="Bae_REG_Place_1018">Bae_MF_6-1_761</term>
+            <term type="pos" xml:id="Bae_REG_Place_1019">Bae_MF_6-1_1909</term>
+            <term type="pos" xml:id="Bae_REG_Place_1020">Bae_MF_6-1_1973</term>
+            <term type="pos" xml:id="Bae_REG_Place_1021">Bae_MF_6-1_2020</term>
+            <term type="pos" xml:id="Bae_REG_Place_1022">Bae_MF_6-1_2037</term>
+            <term type="pos" xml:id="Bae_REG_Place_1023">Bae_MF_6-1_2052</term>
+            <term type="pos" xml:id="Bae_REG_Place_1024">Bae_MF_6-1_2060</term>
+            <term type="pos" xml:id="Bae_REG_Place_1025">Bae_MF_6-1_2076</term>
+            <term type="pos" xml:id="Bae_REG_Place_1026">Bae_MF_6-1_2104</term>
+            <term type="pos" xml:id="Bae_REG_Place_1027">Bae_MF_6-1_2121</term>
+            <term type="pos" xml:id="Bae_REG_Place_1028">Bae_MF_6-1_2129</term>
+            <term type="pos" xml:id="Bae_REG_Place_1029">Bae_MF_6-1_2319</term>
+            <term type="pos" xml:id="Bae_REG_Place_1030">Bae_MF_6-1_2473</term>
+            <term type="pos" xml:id="Bae_REG_Place_1031">Bae_MF_6-1_2629</term>
+            <term type="pos" xml:id="Bae_REG_Place_1032">Bae_MF_6-1_2661</term>
+            <term type="pos" xml:id="Bae_REG_Place_1033">Bae_MF_6-1_3173</term>
+            <term type="pos" xml:id="Bae_REG_Place_1034">Bae_MF_6-1_3255</term>
+            <term type="pos" xml:id="Bae_REG_Place_1035">Bae_MF_6-1_3291</term>
+            <term type="pos" xml:id="Bae_REG_Place_1036">Bae_MF_6-1_3404</term>
+            <term type="pos" xml:id="Bae_REG_Place_1037">Bae_MF_6-1_3486</term>
+            <term type="pos" xml:id="Bae_REG_Place_1038">Bae_MF_6-1_3498</term>
+            <term type="pos" xml:id="Bae_REG_Place_1039">Bae_MF_6-1_3530</term>
+            <term type="pos" xml:id="Bae_REG_Place_1040">Bae_MF_6-1_3753</term>
+            <term type="pos" xml:id="Bae_REG_Place_1041">Bae_MF_6-1_3766</term>
+            <term type="pos" xml:id="Bae_REG_Place_1042">Bae_MF_6-1_4185</term>
+            <term type="pos" xml:id="Bae_REG_Place_1043">Bae_MF_6-1_4270</term>
+            <term type="pos" xml:id="Bae_REG_Place_1044">Bae_MF_6-1_4840</term>
+            <term type="pos" xml:id="Bae_REG_Place_1045">Bae_MF_6-1_4897</term>
+            <term type="pos" xml:id="Bae_REG_Place_1046">Bae_MF_6-1_4940</term>
+            <term type="pos" xml:id="Bae_REG_Place_1047">Bae_MF_6-1_4959</term>
+            <term type="pos" xml:id="Bae_REG_Place_1048">Bae_MF_6-1_4967</term>
+            <term type="pos" xml:id="Bae_REG_Place_1049">Bae_MF_6-1_4971</term>
+            <term type="pos" xml:id="Bae_REG_Place_1050">Bae_MF_6-1_4975</term>
+            <term type="pos" xml:id="Bae_REG_Place_1051">Bae_MF_6-1_4985</term>
+            <term type="pos" xml:id="Bae_REG_Place_1052">Bae_MF_6-1_4989</term>
+            <term type="pos" xml:id="Bae_REG_Place_1053">Bae_MF_6-1_5049</term>
+            <term type="pos" xml:id="Bae_REG_Place_1054">Bae_MF_6-1_5086</term>
+            <term type="pos" xml:id="Bae_REG_Place_1055">Bae_MF_6-1_5099</term>
+            <term type="pos" xml:id="Bae_REG_Place_1056">Bae_MF_6-1_5115</term>
+            <term type="pos" xml:id="Bae_REG_Place_1057">Bae_MF_6-1_5140</term>
+            <term type="pos" xml:id="Bae_REG_Place_1058">Bae_MF_6-1_5166</term>
+            <term type="pos" xml:id="Bae_REG_Place_1059">Bae_MF_6-1_5184</term>
+            <term type="pos" xml:id="Bae_REG_Place_1060">Bae_MF_6-1_5214</term>
+            <term type="pos" xml:id="Bae_REG_Place_1061">Bae_MF_6-1_5334</term>
+            <term type="pos" xml:id="Bae_REG_Place_1062">Bae_MF_6-1_5359</term>
+            <term type="pos" xml:id="Bae_REG_Place_1063">Bae_MF_6-1_5558</term>
+            <term type="pos" xml:id="Bae_REG_Place_1064">Bae_MF_6-2_474</term>
+            <term type="pos" xml:id="Bae_REG_Place_1065">Bae_MF_6-2_572</term>
+            <term type="pos" xml:id="Bae_REG_Place_1066">Bae_MF_6-2_716</term>
+            <term type="pos" xml:id="Bae_REG_Place_1067">Bae_MF_6-2_1484</term>
+            <term type="pos" xml:id="Bae_REG_Place_1068">Bae_MF_6-2_1530</term>
+            <term type="pos" xml:id="Bae_REG_Place_1069">Bae_MF_6-2_1627</term>
+            <term type="pos" xml:id="Bae_REG_Place_1070">Bae_MF_6-2_3655</term>
+            <term type="pos" xml:id="Bae_REG_Place_1071">Bae_MF_6-2_3691</term>
+            <term type="pos" xml:id="Bae_REG_Place_1072">Bae_MF_6-2_4115</term>
+            <term type="pos" xml:id="Bae_REG_Place_1073">Bae_MF_6-2_4320</term>
+            <term type="pos" xml:id="Bae_REG_Place_1074">Bae_MF_6-2_4349</term>
+            <term type="pos" xml:id="Bae_REG_Place_1075">Bae_MF_6-2_4431</term>
+            <term type="pos" xml:id="Bae_REG_Place_1076">Bae_MF_6-2_5842</term>
+            <term type="pos" xml:id="Bae_REG_Place_1077">Bae_TB_7_10147</term>
+            <term type="pos" xml:id="Bae_REG_Place_1078">Bae_TB_7_10348</term>
+            <term type="pos" xml:id="Bae_REG_Place_1079">Bae_TB_7_10572</term>
+            <term type="pos" xml:id="Bae_REG_Place_1080">Bae_TB_7_10597</term>
+            <term type="pos" xml:id="Bae_REG_Place_1081">Bae_TB_7_10711</term>
+            <term type="pos" xml:id="Bae_REG_Place_1082">Bae_TB_7_10790</term>
+            <term type="pos" xml:id="Bae_REG_Place_1083">Bae_TB_7_10884</term>
+            <term type="pos" xml:id="Bae_REG_Place_1084">Bae_TB_7_10903</term>
+            <term type="pos" xml:id="Bae_REG_Place_1085">Bae_TB_7_10926</term>
+            <term type="pos" xml:id="Bae_REG_Place_1086">Bae_TB_7_10930</term>
+            <term type="pos" xml:id="Bae_REG_Place_1087">Bae_TB_7_10946</term>
+            <term type="pos" xml:id="Bae_REG_Place_1088">Bae_TB_7_10972</term>
+            <term type="pos" xml:id="Bae_REG_Place_1089">Bae_TB_7_11127</term>
+            <term type="pos" xml:id="Bae_REG_Place_1090">Bae_TB_7_11169</term>
+            <term type="pos" xml:id="Bae_REG_Place_1091">Bae_TB_7_11228</term>
+            <term type="pos" xml:id="Bae_REG_Place_1092">Bae_TB_7_11232</term>
+            <term type="pos" xml:id="Bae_REG_Place_1093">Bae_TB_7_11291</term>
+            <term type="pos" xml:id="Bae_REG_Place_1094">Bae_TB_7_11304</term>
+            <term type="pos" xml:id="Bae_REG_Place_1095">Bae_TB_7_11336</term>
+            <term type="pos" xml:id="Bae_REG_Place_1096">Bae_TB_7_11401</term>
+            <term type="pos" xml:id="Bae_REG_Place_1097">Bae_TB_7_11511</term>
+            <term type="pos" xml:id="Bae_REG_Place_1098">Bae_TB_7_11752</term>
+            <term type="pos" xml:id="Bae_REG_Place_1099">Bae_TB_7_11777</term>
+            <term type="pos" xml:id="Bae_REG_Place_1100">Bae_TB_7_12789</term>
+            <term type="pos" xml:id="Bae_REG_Place_1101">Bae_TB_7_13383</term>
+            <term type="pos" xml:id="Bae_REG_Place_1102">Bae_TB_7_13477</term>
+            <term type="pos" xml:id="Bae_REG_Place_1103">Bae_TB_7_13520</term>
+            <term type="pos" xml:id="Bae_REG_Place_1104">Bae_TB_7_385</term>
+            <term type="pos" xml:id="Bae_REG_Place_1105">Bae_TB_7_393</term>
+            <term type="pos" xml:id="Bae_REG_Place_1106">Bae_TB_7_6052</term>
+            <term type="pos" xml:id="Bae_REG_Place_1107">Bae_TB_7_6096</term>
+            <term type="pos" xml:id="Bae_REG_Place_1108">Bae_TB_7_6330</term>
+            <term type="pos" xml:id="Bae_REG_Place_1109">Bae_TB_7_6410</term>
+            <term type="pos" xml:id="Bae_REG_Place_1110">Bae_TB_7_6585</term>
+            <term type="pos" xml:id="Bae_REG_Place_1111">Bae_TB_7_6838</term>
+            <term type="pos" xml:id="Bae_REG_Place_1112">Bae_TB_7_6876</term>
+            <term type="pos" xml:id="Bae_REG_Place_1113">Bae_TB_7_7423</term>
+            <term type="pos" xml:id="Bae_REG_Place_1114">Bae_TB_7_7485</term>
+            <term type="pos" xml:id="Bae_REG_Place_1115">Bae_TB_7_7565</term>
+            <term type="pos" xml:id="Bae_REG_Place_1116">Bae_TB_7_7595</term>
+            <term type="pos" xml:id="Bae_REG_Place_1117">Bae_TB_7_7640</term>
+            <term type="pos" xml:id="Bae_REG_Place_1118">Bae_TB_7_7824</term>
+            <term type="pos" xml:id="Bae_REG_Place_1119">Bae_TB_7_7988</term>
+            <term type="pos" xml:id="Bae_REG_Place_1120">Bae_TB_7_8033</term>
+            <term type="pos" xml:id="Bae_REG_Place_1121">Bae_TB_7_8167</term>
+            <term type="pos" xml:id="Bae_REG_Place_1122">Bae_TB_7_8222</term>
+            <term type="pos" xml:id="Bae_REG_Place_1123">Bae_TB_7_8612</term>
+            <term type="pos" xml:id="Bae_REG_Place_1124">Bae_TB_7_8625</term>
+            <term type="pos" xml:id="Bae_REG_Place_1125">Bae_TB_7_9402</term>
+            <term type="pos" xml:id="Bae_REG_Place_1126">Bae_TB_7_9642</term>
+            <term type="pos" xml:id="Bae_REG_Place_1127">Bae_TB_7_9948</term>
+            <term type="pos" xml:id="Bae_REG_Place_1128">Bae_TB_7_11003</term>
+            <term type="pos" xml:id="Bae_REG_Place_1129">Bae_TB_7_12099</term>
+            <term type="pos" xml:id="Bae_REG_Place_1130">Bae_TB_8_3273</term>
+            <term type="pos" xml:id="Bae_REG_Place_1131">Bae_TB_8_3803</term>
+            <term type="pos" xml:id="Bae_REG_Place_1132">Bae_TB_8_6195</term>
+            <term type="pos" xml:id="Bae_REG_Place_1133">Bae_TB_8_6281</term>
+          </item>
+          <item xml:id="Bae_REG_Place_1134">
+            <term type="key" xml:id="Bae_REG_Place_1135">Wien</term>
+            <term type="name" xml:id="Bae_REG_Place_1136"/>
+            <term type="name_today" xml:id="Bae_REG_Place_1137">https://www.geonames.org/2761367/wien.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_1138">Wien</term>
+            <term type="long" xml:id="Bae_REG_Place_1139">48.20849</term>
+            <term type="pid" xml:id="Bae_REG_Place_1140">16.37208</term>
+            <term type="pos" xml:id="Bae_REG_Place_1141">Bae_MF_6-1_1072</term>
+            <term type="pos" xml:id="Bae_REG_Place_1142">Bae_MF_6-1_2423</term>
+            <term type="pos" xml:id="Bae_REG_Place_1143">Bae_MF_6-1_2692</term>
+            <term type="pos" xml:id="Bae_REG_Place_1144">Bae_MF_6-1_3719</term>
+            <term type="pos" xml:id="Bae_REG_Place_1145">Bae_MF_6-1_4063</term>
+            <term type="pos" xml:id="Bae_REG_Place_1146">Bae_MF_6-1_4565</term>
+            <term type="pos" xml:id="Bae_REG_Place_1147">Bae_MF_6-1_5022</term>
+            <term type="pos" xml:id="Bae_REG_Place_1148">Bae_MF_6-1_5308</term>
+            <term type="pos" xml:id="Bae_REG_Place_1149">Bae_MF_6-1_5409</term>
+            <term type="pos" xml:id="Bae_REG_Place_1150">Bae_MF_6-1_5600</term>
+            <term type="pos" xml:id="Bae_REG_Place_1151">Bae_MF_6-2_1776</term>
+            <term type="pos" xml:id="Bae_REG_Place_1152">Bae_MF_6-2_2459</term>
+            <term type="pos" xml:id="Bae_REG_Place_1153">Bae_MF_6-2_4011</term>
+            <term type="pos" xml:id="Bae_REG_Place_1154">Bae_MF_6-2_5798</term>
+            <term type="pos" xml:id="Bae_REG_Place_1155">Bae_MF_6-2_6021</term>
+            <term type="pos" xml:id="Bae_REG_Place_1156">Bae_MF_6-2_6118</term>
+            <term type="pos" xml:id="Bae_REG_Place_1157">Bae_MF_6-2_6126</term>
+            <term type="pos" xml:id="Bae_REG_Place_1158">Bae_MF_6-2_6289</term>
+            <term type="pos" xml:id="Bae_REG_Place_1159">Bae_TB_7_10236</term>
+            <term type="pos" xml:id="Bae_REG_Place_1160">Bae_TB_7_11188</term>
+            <term type="pos" xml:id="Bae_REG_Place_1161">Bae_TB_7_11713</term>
+            <term type="pos" xml:id="Bae_REG_Place_1162">Bae_TB_7_11839</term>
+            <term type="pos" xml:id="Bae_REG_Place_1163">Bae_TB_7_12144</term>
+            <term type="pos" xml:id="Bae_REG_Place_1164">Bae_TB_7_12566</term>
+            <term type="pos" xml:id="Bae_REG_Place_1165">Bae_TB_7_12655</term>
+            <term type="pos" xml:id="Bae_REG_Place_1166">Bae_TB_7_13618</term>
+            <term type="pos" xml:id="Bae_REG_Place_1167">Bae_TB_7_1811</term>
+            <term type="pos" xml:id="Bae_REG_Place_1168">Bae_TB_7_2677</term>
+            <term type="pos" xml:id="Bae_REG_Place_1169">Bae_TB_7_5969</term>
+            <term type="pos" xml:id="Bae_REG_Place_1170">Bae_TB_7_6468</term>
+            <term type="pos" xml:id="Bae_REG_Place_1171">Bae_TB_7_6801</term>
+            <term type="pos" xml:id="Bae_REG_Place_1172">Bae_TB_7_6884</term>
+            <term type="pos" xml:id="Bae_REG_Place_1173">Bae_TB_7_7028</term>
+            <term type="pos" xml:id="Bae_REG_Place_1174">Bae_TB_7_8557</term>
+            <term type="pos" xml:id="Bae_REG_Place_1175">Bae_TB_7_9242</term>
+            <term type="pos" xml:id="Bae_REG_Place_1176">Bae_TB_7_9746</term>
+            <term type="pos" xml:id="Bae_REG_Place_1177">Bae_TB_8_3146</term>
+            <term type="pos" xml:id="Bae_REG_Place_1178">Bae_TB_8_3970</term>
+            <term type="pos" xml:id="Bae_REG_Place_1179">Bae_TB_8_4332</term>
+            <term type="pos" xml:id="Bae_REG_Place_1180">Bae_TB_8_4407</term>
+            <term type="pos" xml:id="Bae_REG_Place_1181">Bae_TB_8_4417</term>
+            <term type="pos" xml:id="Bae_REG_Place_1182">Bae_TB_8_4833</term>
+            <term type="pos" xml:id="Bae_REG_Place_1183">Bae_TB_8_4903</term>
+          </item>
+          <item xml:id="Bae_REG_Place_1184">
+            <term type="key" xml:id="Bae_REG_Place_1185">Winar</term>
+            <term type="name" xml:id="Bae_REG_Place_1186">Vinaře</term>
+            <term type="name_today" xml:id="Bae_REG_Place_1187">https://www.geonames.org/11924319/vinare.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_1188">Winar</term>
+            <term type="long" xml:id="Bae_REG_Place_1189">49.9091</term>
+            <term type="pid" xml:id="Bae_REG_Place_1190">15.50129</term>
+            <term type="pos" xml:id="Bae_REG_Place_1191">Bae_TB_8_3943</term>
+          </item>
+          <item xml:id="Bae_REG_Place_1192">
+            <term type="key" xml:id="Bae_REG_Place_1193">Woerth</term>
+            <term type="name" xml:id="Bae_REG_Place_1194"/>
+            <term type="name_today" xml:id="Bae_REG_Place_1195">https://www.geonames.org/2967305/woerth.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_1196">Woerth</term>
+            <term type="long" xml:id="Bae_REG_Place_1197">48.3892</term>
+            <term type="pid" xml:id="Bae_REG_Place_1198">7.63498</term>
+            <term type="pos" xml:id="Bae_REG_Place_1199">Bae_MF_6-1_1783</term>
+          </item>
+          <item xml:id="Bae_REG_Place_1200">
+            <term type="key" xml:id="Bae_REG_Place_1201">Zara</term>
+            <term type="name" xml:id="Bae_REG_Place_1202">Zadar</term>
+            <term type="name_today" xml:id="Bae_REG_Place_1203">https://www.geonames.org/11055010/zadar.html</term>
+            <term type="lat" xml:id="Bae_REG_Place_1204">Zara</term>
+            <term type="long" xml:id="Bae_REG_Place_1205">44.12172</term>
+            <term type="pid" xml:id="Bae_REG_Place_1206">15.23018</term>
+            <term type="pos" xml:id="Bae_REG_Place_1207">Bae_TB_7_1887</term>
+            <term type="pos" xml:id="Bae_REG_Place_1208">Bae_TB_7_1891</term>
+          </item>
+        </list>
       </div>
     </body>
   </text>
