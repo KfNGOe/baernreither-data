@@ -1,9 +1,9 @@
-name: Deploy data
+name: Deploy data to app repo
 
 on:
   push:
     paths:
-      - "data/tei/**"
+      - "data/tei/tei_toBuild/**"
       - "data/xlsx/**"
       - "data/img/**"
         
@@ -31,7 +31,7 @@ jobs:
           mkdir -p baernreither-app/data/img
           mkdir -p baernreither-app/data/tei/text
           mkdir -p baernreither-app/data/xlsx          
-          cp -r data/tei/** baernreither-app/data/tei/text/
+          cp -r data/tei/tei_toBuild/** baernreither-app/data/tei/text/
           cp -r data/xlsx/** baernreither-app/data/xlsx/
           cp -r data/img/** baernreither-app/data/img/
           cd baernreither-app
