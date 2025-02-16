@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_REG_Place_1">
+  <teiHeader xml:id="Bae_REG_Place_2">
+    <fileDesc xml:id="Bae_REG_Place_3">
+      <titleStmt xml:id="Bae_REG_Place_4">
+        <title type="label" xml:id="Bae_REG_Place_5">Ortsregister</title>
+        <title type="short" xml:id="Bae_REG_Place_6">Bae_REG_Place</title>
+        <respStmt xml:id="Bae_REG_Place_7">
+          <resp xml:id="Bae_REG_Place_8">providing the content</resp>
+          <name xml:id="Bae_REG_Place_9">Christof Aichner</name>
+          <name xml:id="Bae_REG_Place_10">Doris Corradini</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt xml:id="Bae_REG_Place_11">
+        <p xml:id="Bae_REG_Place_12">
+          <idno type="handle" xml:id="Bae_REG_Place_13"/>
+        </p>
+      </publicationStmt>
+      <sourceDesc xml:id="Bae_REG_Place_14">
+        <p xml:id="Bae_REG_Place_15">Ortsregister der Baernreither Werke</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="Bae_REG_Place_16">
+    <body xml:id="Bae_REG_Place_17">
+      <div type="place_keywords" xml:id="Bae_REG_Place_18">
+        <list xml:id="Bae_REG_Place_19"/>
+      </div>
+    </body>
+  </text>
+</TEI>

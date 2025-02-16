@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_REG_Person_1">
+  <teiHeader xml:id="Bae_REG_Person_2">
+    <fileDesc xml:id="Bae_REG_Person_3">
+      <titleStmt xml:id="Bae_REG_Person_4">
+        <title type="label" xml:id="Bae_REG_Person_5">Personenregister</title>
+        <title type="short" xml:id="Bae_REG_Person_6">Bae_REG_Person</title>
+        <respStmt xml:id="Bae_REG_Person_7">
+          <resp xml:id="Bae_REG_Person_8">providing the content</resp>
+          <name xml:id="Bae_REG_Person_9">Christof Aichner</name>
+          <name xml:id="Bae_REG_Person_10">Doris Corradini</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt xml:id="Bae_REG_Person_11">
+        <p xml:id="Bae_REG_Person_12">
+          <idno type="handle" xml:id="Bae_REG_Person_13"/>
+        </p>
+      </publicationStmt>
+      <sourceDesc xml:id="Bae_REG_Person_14">
+        <p xml:id="Bae_REG_Person_15">Personenregister der Baernreither Werke</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="Bae_REG_Person_16">
+    <body xml:id="Bae_REG_Person_17">
+      <div type="person_keywords" xml:id="Bae_REG_Person_18">
+        <list xml:id="Bae_REG_Person_19"/>
+      </div>
+    </body>
+  </text>
+</TEI>
