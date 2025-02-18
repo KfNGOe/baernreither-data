@@ -2685,16 +2685,16 @@
             <app from="#" type="missing" xml:id="Bae_MF_2_2113">
               <rdg wit="Bae_TB_3" xml:id="Bae_MF_2_2114"/>
             </app>
-            <anchor xml:id="Bae_MF_2_2115"/>das parlamentarische Regime nicht 
-            <del rendition="#s" xml:id="Bae_MF_2_2116">nicht</del> stillschweigend 
-            <app from="#" type="equal" xml:id="Bae_MF_2_2117">
-              <rdg wit="Bae_TB_3" xml:id="Bae_MF_2_2118">das parlamentarische Regime nicht nicht stillschweigend</rdg>
+            <anchor xml:id="Bae_MF_2_2115"/>das parlamentarische Regime 
+            <app from="#" type="equal" xml:id="Bae_MF_2_2116">
+              <rdg wit="" xml:id="Bae_MF_2_2117">das parlamentarische Regime</rdg>
             </app>
-            <anchor xml:id="Bae_MF_2_2119"/>
+            <anchor xml:id="Bae_MF_2_2118"/>
+            <del rendition="#s" xml:id="Bae_MF_2_2119">nicht</del> stillschweigend 
             <del rendition="#s" xml:id="Bae_MF_2_2120">aufgehoben hatte.</del>
             <add place="across" xml:id="Bae_MF_2_2121">auzuheben.</add>
             <app from="#" type="notEqual" xml:id="Bae_MF_2_2122">
-              <rdg wit="Bae_TB_3" xml:id="Bae_MF_2_2123">aufgegeben hatte.</rdg>
+              <rdg wit="Bae_TB_3" xml:id="Bae_MF_2_2123">nicht stillschweigend aufgegeben hatte.</rdg>
             </app>
             <anchor xml:id="Bae_MF_2_2124"/>Und das war, 
             <hi rendition="#ul" xml:id="Bae_MF_2_2125">wenigstens vorläufig</hi> gewiß beim 
