@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_REG_Org_1">
+  <teiHeader xml:id="Bae_REG_Org_2">
+    <fileDesc xml:id="Bae_REG_Org_3">
+      <titleStmt xml:id="Bae_REG_Org_4">
+        <title type="label" xml:id="Bae_REG_Org_5">Organisationenregister</title>
+        <title type="short" xml:id="Bae_REG_Org_6">Bae_REG_Org</title>
+        <respStmt xml:id="Bae_REG_Org_7">
+          <resp xml:id="Bae_REG_Org_8">providing the content</resp>
+          <name xml:id="Bae_REG_Org_9">Christof Aichner</name>
+          <name xml:id="Bae_REG_Org_10">Doris Corradini</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt xml:id="Bae_REG_Org_11">
+        <p xml:id="Bae_REG_Org_12">
+          <idno type="handle" xml:id="Bae_REG_Org_13"/>
+        </p>
+      </publicationStmt>
+      <sourceDesc xml:id="Bae_REG_Org_14">
+        <p xml:id="Bae_REG_Org_15">Organisationenregister der Baernreither Werke</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="Bae_REG_Org_16">
+    <body xml:id="Bae_REG_Org_17">
+      <div type="org_keywords" xml:id="Bae_REG_Org_18">
+        <list xml:id="Bae_REG_Org_19">
+          <item xml:id="Bae_REG_Org_20">
+            <term type="key" xml:id="Bae_REG_Org_21">Abgeordnetenhaus</term>
+            <term type="name" xml:id="Bae_REG_Org_22">https://d-nb.info/gnd/41998-9</term>
+            <term type="pid" xml:id="Bae_REG_Org_23">Abgeordnetenhaus</term>
+            <term type="pos" xml:id="Bae_REG_Org_24">Bae_MF_1_1221</term>
+            <term type="pos" xml:id="Bae_REG_Org_25">Bae_MF_1_3040</term>
+            <term type="pos" xml:id="Bae_REG_Org_26">Bae_MF_1_3066</term>
+            <term type="pos" xml:id="Bae_REG_Org_27">Bae_MF_1_3356</term>
+            <term type="pos" xml:id="Bae_REG_Org_28">Bae_MF_1_3544</term>
+            <term type="pos" xml:id="Bae_REG_Org_29">Bae_MF_1_5072</term>
+            <term type="pos" xml:id="Bae_REG_Org_30">Bae_MF_1_5112</term>
+            <term type="pos" xml:id="Bae_REG_Org_31">Bae_MF_1_5141</term>
+            <term type="pos" xml:id="Bae_REG_Org_32">Bae_MF_1_5158</term>
+            <term type="pos" xml:id="Bae_REG_Org_33">Bae_MF_1_5285</term>
+            <term type="pos" xml:id="Bae_REG_Org_34">Bae_MF_1_5308</term>
+            <term type="pos" xml:id="Bae_REG_Org_35">Bae_MF_1_5347</term>
+            <term type="pos" xml:id="Bae_REG_Org_36">Bae_MF_1_5649</term>
+            <term type="pos" xml:id="Bae_REG_Org_37">Bae_MF_1_7165</term>
+            <term type="pos" xml:id="Bae_REG_Org_38">Bae_MF_1_7375</term>
+            <term type="pos" xml:id="Bae_REG_Org_39">Bae_MF_1_7428</term>
+            <term type="pos" xml:id="Bae_REG_Org_40">Bae_MF_1_7458</term>
+            <term type="pos" xml:id="Bae_REG_Org_41">Bae_MF_1_7504</term>
+            <term type="pos" xml:id="Bae_REG_Org_42">Bae_MF_1_7543</term>
+            <term type="pos" xml:id="Bae_REG_Org_43">Bae_MF_1_7648</term>
+            <term type="pos" xml:id="Bae_REG_Org_44">Bae_MF_1_8045</term>
+            <term type="pos" xml:id="Bae_REG_Org_45">Bae_MF_1_8220</term>
+            <term type="pos" xml:id="Bae_REG_Org_46">Bae_MF_1_8294</term>
+            <term type="pos" xml:id="Bae_REG_Org_47">Bae_MF_1_8701</term>
+            <term type="pos" xml:id="Bae_REG_Org_48">Bae_MF_1_8842</term>
+            <term type="pos" xml:id="Bae_REG_Org_49">Bae_MF_1_8968</term>
+            <term type="pos" xml:id="Bae_REG_Org_50">Bae_MF_1_9117</term>
+            <term type="pos" xml:id="Bae_REG_Org_51">Bae_MF_1_9162</term>
+            <term type="pos" xml:id="Bae_REG_Org_52">Bae_MF_1_9310</term>
+            <term type="pos" xml:id="Bae_REG_Org_53">Bae_MF_1_9565</term>
+            <term type="pos" xml:id="Bae_REG_Org_54">Bae_MF_1_9569</term>
+            <term type="pos" xml:id="Bae_REG_Org_55">Bae_MF_1_10016</term>
+            <term type="pos" xml:id="Bae_REG_Org_56">Bae_MF_1_10037</term>
+            <term type="pos" xml:id="Bae_REG_Org_57">Bae_MF_1_10049</term>
+            <term type="pos" xml:id="Bae_REG_Org_58">Bae_MF_1_10101</term>
+            <term type="pos" xml:id="Bae_REG_Org_59">Bae_MF_1_10443</term>
+            <term type="pos" xml:id="Bae_REG_Org_60">Bae_MF_1_10634</term>
+            <term type="pos" xml:id="Bae_REG_Org_61">Bae_MF_2_718</term>
+            <term type="pos" xml:id="Bae_REG_Org_62">Bae_MF_2_759</term>
+            <term type="pos" xml:id="Bae_REG_Org_63">Bae_MF_2_2015</term>
+            <term type="pos" xml:id="Bae_REG_Org_64">Bae_MF_2_2252</term>
+            <term type="pos" xml:id="Bae_REG_Org_65">Bae_MF_2_4876</term>
+            <term type="pos" xml:id="Bae_REG_Org_66">Bae_MF_2_4914</term>
+            <term type="pos" xml:id="Bae_REG_Org_67">Bae_MF_2_4984</term>
+            <term type="pos" xml:id="Bae_REG_Org_68">Bae_MF_2_5119</term>
+            <term type="pos" xml:id="Bae_REG_Org_69">Bae_MF_2_5149</term>
+            <term type="pos" xml:id="Bae_REG_Org_70">Bae_MF_2_5174</term>
+            <term type="pos" xml:id="Bae_REG_Org_71">Bae_MF_2_5210</term>
+            <term type="pos" xml:id="Bae_REG_Org_72">Bae_MF_2_5218</term>
+            <term type="pos" xml:id="Bae_REG_Org_73">Bae_MF_2_5502</term>
+            <term type="pos" xml:id="Bae_REG_Org_74">Bae_MF_2_5606</term>
+            <term type="pos" xml:id="Bae_REG_Org_75">Bae_MF_2_5647</term>
+            <term type="pos" xml:id="Bae_REG_Org_76">Bae_MF_2_5655</term>
+            <term type="pos" xml:id="Bae_REG_Org_77">Bae_MF_2_5667</term>
+            <term type="pos" xml:id="Bae_REG_Org_78">Bae_MF_2_5682</term>
+            <term type="pos" xml:id="Bae_REG_Org_79">Bae_MF_2_6173</term>
+            <term type="pos" xml:id="Bae_REG_Org_80">Bae_MF_2_6177</term>
+            <term type="pos" xml:id="Bae_REG_Org_81">Bae_MF_2_6409</term>
+            <term type="pos" xml:id="Bae_REG_Org_82">Bae_MF_2_6419</term>
+            <term type="pos" xml:id="Bae_REG_Org_83">Bae_MF_2_6423</term>
+            <term type="pos" xml:id="Bae_REG_Org_84">Bae_MF_2_6433</term>
+            <term type="pos" xml:id="Bae_REG_Org_85">Bae_MF_2_6441</term>
+            <term type="pos" xml:id="Bae_REG_Org_86">Bae_MF_2_6587</term>
+            <term type="pos" xml:id="Bae_REG_Org_87">Bae_MF_2_7032</term>
+            <term type="pos" xml:id="Bae_REG_Org_88">Bae_MF_2_7417</term>
+            <term type="pos" xml:id="Bae_REG_Org_89">Bae_MF_2_7490</term>
+            <term type="pos" xml:id="Bae_REG_Org_90">Bae_MF_2_8911</term>
+            <term type="pos" xml:id="Bae_REG_Org_91">Bae_MF_2_10934</term>
+            <term type="pos" xml:id="Bae_REG_Org_92">Bae_TB_7_1228</term>
+            <term type="pos" xml:id="Bae_REG_Org_93">Bae_TB_7_1255</term>
+            <term type="pos" xml:id="Bae_REG_Org_94">Bae_TB_7_2198</term>
+            <term type="pos" xml:id="Bae_REG_Org_95">Bae_TB_7_2208</term>
+            <term type="pos" xml:id="Bae_REG_Org_96">Bae_TB_7_2601</term>
+            <term type="pos" xml:id="Bae_REG_Org_97">Bae_TB_7_2783</term>
+            <term type="pos" xml:id="Bae_REG_Org_98">Bae_TB_7_3124</term>
+            <term type="pos" xml:id="Bae_REG_Org_99">Bae_TB_7_3997</term>
+            <term type="pos" xml:id="Bae_REG_Org_100">Bae_TB_7_4018</term>
+            <term type="pos" xml:id="Bae_REG_Org_101">Bae_TB_7_4118</term>
+            <term type="pos" xml:id="Bae_REG_Org_102">Bae_TB_7_4146</term>
+            <term type="pos" xml:id="Bae_REG_Org_103">Bae_TB_7_4222</term>
+            <term type="pos" xml:id="Bae_REG_Org_104">Bae_TB_7_4252</term>
+            <term type="pos" xml:id="Bae_REG_Org_105">Bae_TB_7_5185</term>
+            <term type="pos" xml:id="Bae_REG_Org_106">Bae_TB_7_5450</term>
+            <term type="pos" xml:id="Bae_REG_Org_107">Bae_TB_7_5814</term>
+            <term type="pos" xml:id="Bae_REG_Org_108">Bae_TB_7_5818</term>
+            <term type="pos" xml:id="Bae_REG_Org_109">Bae_TB_7_12888</term>
+            <term type="pos" xml:id="Bae_REG_Org_110">Bae_TB_7_12913</term>
+            <term type="pos" xml:id="Bae_REG_Org_111">Bae_TB_8_347</term>
+            <term type="pos" xml:id="Bae_REG_Org_112">Bae_TB_8_1686</term>
+            <term type="pos" xml:id="Bae_REG_Org_113">Bae_TB_8_1849</term>
+            <term type="pos" xml:id="Bae_REG_Org_114">Bae_TB_8_2639</term>
+            <term type="pos" xml:id="Bae_REG_Org_115">Bae_TB_8_4171</term>
+            <term type="pos" xml:id="Bae_REG_Org_116">Bae_TB_8_4175</term>
+            <term type="pos" xml:id="Bae_REG_Org_117">Bae_TB_8_5385</term>
+            <term type="pos" xml:id="Bae_REG_Org_118">Bae_TB_8_5404</term>
+            <term type="pos" xml:id="Bae_REG_Org_119">Bae_TB_8_5561</term>
+            <term type="pos" xml:id="Bae_REG_Org_120">Bae_TB_8_6089</term>
+            <term type="pos" xml:id="Bae_REG_Org_121">Bae_TB_8_6400</term>
+            <term type="pos" xml:id="Bae_REG_Org_122">Bae_MF_6-1_179</term>
+            <term type="pos" xml:id="Bae_REG_Org_123">Bae_MF_6-1_395</term>
+            <term type="pos" xml:id="Bae_REG_Org_124">Bae_MF_6-1_865</term>
+            <term type="pos" xml:id="Bae_REG_Org_125">Bae_MF_6-1_869</term>
+            <term type="pos" xml:id="Bae_REG_Org_126">Bae_MF_6-1_952</term>
+            <term type="pos" xml:id="Bae_REG_Org_127">Bae_MF_6-1_964</term>
+            <term type="pos" xml:id="Bae_REG_Org_128">Bae_MF_6-1_1513</term>
+            <term type="pos" xml:id="Bae_REG_Org_129">Bae_MF_6-1_1658</term>
+            <term type="pos" xml:id="Bae_REG_Org_130">Bae_MF_6-1_1956</term>
+            <term type="pos" xml:id="Bae_REG_Org_131">Bae_MF_6-1_2260</term>
+            <term type="pos" xml:id="Bae_REG_Org_132">Bae_MF_6-1_2306</term>
+            <term type="pos" xml:id="Bae_REG_Org_133">Bae_MF_6-2_682</term>
+            <term type="pos" xml:id="Bae_REG_Org_134">Bae_MF_6-2_984</term>
+            <term type="pos" xml:id="Bae_REG_Org_135">Bae_MF_6-2_992</term>
+            <term type="pos" xml:id="Bae_REG_Org_136">Bae_MF_6-2_1049</term>
+            <term type="pos" xml:id="Bae_REG_Org_137">Bae_MF_6-2_1174</term>
+            <term type="pos" xml:id="Bae_REG_Org_138">Bae_MF_6-2_1274</term>
+            <term type="pos" xml:id="Bae_REG_Org_139">Bae_MF_6-2_1590</term>
+            <term type="pos" xml:id="Bae_REG_Org_140">Bae_MF_6-2_1615</term>
+            <term type="pos" xml:id="Bae_REG_Org_141">Bae_MF_6-2_1687</term>
+            <term type="pos" xml:id="Bae_REG_Org_142">Bae_MF_6-2_1695</term>
+            <term type="pos" xml:id="Bae_REG_Org_143">Bae_MF_6-2_2048</term>
+            <term type="pos" xml:id="Bae_REG_Org_144">Bae_MF_6-2_2737</term>
+            <term type="pos" xml:id="Bae_REG_Org_145">Bae_MF_6-2_2853</term>
+            <term type="pos" xml:id="Bae_REG_Org_146">Bae_MF_6-2_3544</term>
+            <term type="pos" xml:id="Bae_REG_Org_147">Bae_MF_6-2_4180</term>
+            <term type="pos" xml:id="Bae_REG_Org_148">Bae_MF_6-2_5645</term>
+            <term type="pos" xml:id="Bae_REG_Org_149">Bae_MF_6-2_5649</term>
+            <term type="pos" xml:id="Bae_REG_Org_150">Bae_MF_6-2_5700</term>
+            <term type="pos" xml:id="Bae_REG_Org_151">Bae_MF_6-2_5828</term>
+          </item>
+          <item xml:id="Bae_REG_Org_152">
+            <term type="key" xml:id="Bae_REG_Org_153">Ackerbauministerium</term>
+            <term type="name" xml:id="Bae_REG_Org_154">https://d-nb.info/gnd/1095871-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_155">Ackerbauministerium</term>
+            <term type="pos" xml:id="Bae_REG_Org_156">Bae_MF_2_405</term>
+            <term type="pos" xml:id="Bae_REG_Org_157">Bae_MF_2_1568</term>
+          </item>
+          <item xml:id="Bae_REG_Org_158">
+            <term type="key" xml:id="Bae_REG_Org_159">AltoAdige</term>
+            <term type="name" xml:id="Bae_REG_Org_160"/>
+            <term type="pid" xml:id="Bae_REG_Org_161">AltoAdige</term>
+            <term type="pos" xml:id="Bae_REG_Org_162">Bae_TB_7_2086</term>
+          </item>
+          <item xml:id="Bae_REG_Org_163">
+            <term type="key" xml:id="Bae_REG_Org_164">Arbeiterzeitung</term>
+            <term type="name" xml:id="Bae_REG_Org_165">https://d-nb.info/gnd/1086227697</term>
+            <term type="pid" xml:id="Bae_REG_Org_166">Arbeiterzeitung</term>
+            <term type="pos" xml:id="Bae_REG_Org_167">Bae_TB_8_1517</term>
+            <term type="pos" xml:id="Bae_REG_Org_168">Bae_MF_6-2_4749</term>
+            <term type="pos" xml:id="Bae_REG_Org_169">Bae_MF_6-2_4765</term>
+          </item>
+          <item xml:id="Bae_REG_Org_170">
+            <term type="key" xml:id="Bae_REG_Org_171">Arbeitsbeirat</term>
+            <term type="name" xml:id="Bae_REG_Org_172">https://d-nb.info/gnd/254195-6</term>
+            <term type="pid" xml:id="Bae_REG_Org_173">Arbeitsbeirat</term>
+            <term type="pos" xml:id="Bae_REG_Org_174">Bae_MF_2_1786</term>
+            <term type="pos" xml:id="Bae_REG_Org_175">Bae_MF_2_1834</term>
+            <term type="pos" xml:id="Bae_REG_Org_176">Bae_MF_2_1879</term>
+            <term type="pos" xml:id="Bae_REG_Org_177">Bae_MF_2_1908</term>
+          </item>
+          <item xml:id="Bae_REG_Org_178">
+            <term type="key" xml:id="Bae_REG_Org_179">ArbeitsstatistischesAmt</term>
+            <term type="name" xml:id="Bae_REG_Org_180">https://d-nb.info/gnd/121891-8</term>
+            <term type="pid" xml:id="Bae_REG_Org_181">ArbeitsstatistischesAmt</term>
+            <term type="pos" xml:id="Bae_REG_Org_182">Bae_MF_2_1800</term>
+            <term type="pos" xml:id="Bae_REG_Org_183">Bae_MF_2_1808</term>
+            <term type="pos" xml:id="Bae_REG_Org_184">Bae_MF_2_1824</term>
+            <term type="pos" xml:id="Bae_REG_Org_185">Bae_MF_2_7244</term>
+          </item>
+          <item xml:id="Bae_REG_Org_186">
+            <term type="key" xml:id="Bae_REG_Org_187">Arsenal</term>
+            <term type="name" xml:id="Bae_REG_Org_188">https://d-nb.info/gnd/4808611-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_189">Arsenal</term>
+            <term type="pos" xml:id="Bae_REG_Org_190">Bae_TB_7_11717</term>
+            <term type="pos" xml:id="Bae_REG_Org_191">Bae_MF_6-1_5312</term>
+          </item>
+          <item xml:id="Bae_REG_Org_192">
+            <term type="key" xml:id="Bae_REG_Org_193">Bohemia</term>
+            <term type="name" xml:id="Bae_REG_Org_194">https://d-nb.info/014500817</term>
+            <term type="pid" xml:id="Bae_REG_Org_195">Bohemia</term>
+            <term type="pos" xml:id="Bae_REG_Org_196">Bae_MF_1_1862</term>
+            <term type="pos" xml:id="Bae_REG_Org_197">Bae_MF_1_1929</term>
+            <term type="pos" xml:id="Bae_REG_Org_198">Bae_MF_1_1959</term>
+            <term type="pos" xml:id="Bae_REG_Org_199">Bae_MF_1_2615</term>
+            <term type="pos" xml:id="Bae_REG_Org_200">Bae_MF_1_5946</term>
+            <term type="pos" xml:id="Bae_REG_Org_201">Bae_TB_7_2926</term>
+            <term type="pos" xml:id="Bae_REG_Org_202">Bae_MF_6-1_279</term>
+            <term type="pos" xml:id="Bae_REG_Org_203">Bae_MF_6-2_970</term>
+          </item>
+          <item xml:id="Bae_REG_Org_204">
+            <term type="key" xml:id="Bae_REG_Org_205">BudapestiHirlap</term>
+            <term type="name" xml:id="Bae_REG_Org_206"/>
+            <term type="pid" xml:id="Bae_REG_Org_207">BudapestiHirlap</term>
+            <term type="pos" xml:id="Bae_REG_Org_208">Bae_TB_7_6174</term>
+          </item>
+          <item xml:id="Bae_REG_Org_209">
+            <term type="key" xml:id="Bae_REG_Org_210">Budgetausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_211">https://d-nb.info/gnd/1701874-2</term>
+            <term type="pid" xml:id="Bae_REG_Org_212">Budgetausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_213">Bae_MF_1_7474</term>
+            <term type="pos" xml:id="Bae_REG_Org_214">Bae_MF_1_8820</term>
+            <term type="pos" xml:id="Bae_REG_Org_215">Bae_MF_1_10352</term>
+            <term type="pos" xml:id="Bae_REG_Org_216">Bae_MF_2_5923</term>
+            <term type="pos" xml:id="Bae_REG_Org_217">Bae_MF_2_12106</term>
+            <term type="pos" xml:id="Bae_REG_Org_218">Bae_TB_7_127</term>
+            <term type="pos" xml:id="Bae_REG_Org_219">Bae_TB_7_160</term>
+            <term type="pos" xml:id="Bae_REG_Org_220">Bae_TB_7_2787</term>
+            <term type="pos" xml:id="Bae_REG_Org_221">Bae_TB_7_2892</term>
+            <term type="pos" xml:id="Bae_REG_Org_222">Bae_TB_7_3003</term>
+            <term type="pos" xml:id="Bae_REG_Org_223">Bae_TB_7_4398</term>
+            <term type="pos" xml:id="Bae_REG_Org_224">Bae_MF_6-1_159</term>
+          </item>
+          <item xml:id="Bae_REG_Org_225">
+            <term type="key" xml:id="Bae_REG_Org_226">Böhmischer Landtag</term>
+            <term type="name" xml:id="Bae_REG_Org_227">https://d-nb.info/gnd/5005623-2</term>
+            <term type="pid" xml:id="Bae_REG_Org_228">Böhmischer Landtag</term>
+            <term type="pos" xml:id="Bae_REG_Org_229">Bae_TB_7_3145</term>
+          </item>
+          <item xml:id="Bae_REG_Org_230">
+            <term type="key" xml:id="Bae_REG_Org_231">ChristlichsozialePartei</term>
+            <term type="name" xml:id="Bae_REG_Org_232">https://d-nb.info/gnd/5199156-1</term>
+            <term type="pid" xml:id="Bae_REG_Org_233">ChristlichsozialePartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_234">Bae_MF_1_974</term>
+            <term type="pos" xml:id="Bae_REG_Org_235">Bae_MF_1_1472</term>
+            <term type="pos" xml:id="Bae_REG_Org_236">Bae_MF_1_2482</term>
+            <term type="pos" xml:id="Bae_REG_Org_237">Bae_MF_1_3548</term>
+            <term type="pos" xml:id="Bae_REG_Org_238">Bae_MF_1_3595</term>
+            <term type="pos" xml:id="Bae_REG_Org_239">Bae_MF_1_4926</term>
+            <term type="pos" xml:id="Bae_REG_Org_240">Bae_MF_1_5145</term>
+            <term type="pos" xml:id="Bae_REG_Org_241">Bae_TB_7_2369</term>
+            <term type="pos" xml:id="Bae_REG_Org_242">Bae_TB_8_4608</term>
+            <term type="pos" xml:id="Bae_REG_Org_243">Bae_MF_6-2_5123</term>
+            <term type="pos" xml:id="Bae_REG_Org_244">Bae_MF_6-2_6025</term>
+            <term type="pos" xml:id="Bae_REG_Org_245">Bae_MF_6-2_6056</term>
+            <term type="pos" xml:id="Bae_REG_Org_246">Bae_MF_6-2_6130</term>
+            <term type="pos" xml:id="Bae_REG_Org_247">Bae_MF_6-2_6293</term>
+          </item>
+          <item xml:id="Bae_REG_Org_248">
+            <term type="key" xml:id="Bae_REG_Org_249">Delegationen</term>
+            <term type="name" xml:id="Bae_REG_Org_250">https://d-nb.info/gnd/35883-6</term>
+            <term type="pid" xml:id="Bae_REG_Org_251">Delegationen</term>
+            <term type="pos" xml:id="Bae_REG_Org_252">Bae_MF_1_7465</term>
+            <term type="pos" xml:id="Bae_REG_Org_253">Bae_MF_1_10356</term>
+            <term type="pos" xml:id="Bae_REG_Org_254">Bae_MF_2_5226</term>
+            <term type="pos" xml:id="Bae_REG_Org_255">Bae_MF_2_6677</term>
+            <term type="pos" xml:id="Bae_REG_Org_256">Bae_MF_2_10363</term>
+            <term type="pos" xml:id="Bae_REG_Org_257">Bae_TB_7_670</term>
+            <term type="pos" xml:id="Bae_REG_Org_258">Bae_TB_7_8129</term>
+            <term type="pos" xml:id="Bae_REG_Org_259">Bae_TB_7_9419</term>
+            <term type="pos" xml:id="Bae_REG_Org_260">Bae_TB_7_13219</term>
+            <term type="pos" xml:id="Bae_REG_Org_261">Bae_TB_7_13254</term>
+            <term type="pos" xml:id="Bae_REG_Org_262">Bae_MF_6-1_4129</term>
+          </item>
+          <item xml:id="Bae_REG_Org_263">
+            <term type="key" xml:id="Bae_REG_Org_264">DeutscheAgrarier</term>
+            <term type="name" xml:id="Bae_REG_Org_265">https://d-nb.info/gnd/1041439059</term>
+            <term type="pid" xml:id="Bae_REG_Org_266">DeutscheAgrarier</term>
+            <term type="pos" xml:id="Bae_REG_Org_267">Bae_TB_7_688</term>
+            <term type="pos" xml:id="Bae_REG_Org_268">Bae_MF_6-2_5474</term>
+            <term type="pos" xml:id="Bae_REG_Org_269">Bae_MF_6-2_5956</term>
+            <term type="pos" xml:id="Bae_REG_Org_270">Bae_MF_6-2_5992</term>
+            <term type="pos" xml:id="Bae_REG_Org_271">Bae_MF_6-2_6064</term>
+            <term type="pos" xml:id="Bae_REG_Org_272">Bae_MF_6-2_6142</term>
+            <term type="pos" xml:id="Bae_REG_Org_273">Bae_MF_6-2_6361</term>
+          </item>
+          <item xml:id="Bae_REG_Org_274">
+            <term type="key" xml:id="Bae_REG_Org_275">DeutscheVolkspartei</term>
+            <term type="name" xml:id="Bae_REG_Org_276">https://d-nb.info/gnd/1041438885</term>
+            <term type="pid" xml:id="Bae_REG_Org_277">DeutscheVolkspartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_278">Bae_MF_1_1460</term>
+            <term type="pos" xml:id="Bae_REG_Org_279">Bae_MF_1_2784</term>
+            <term type="pos" xml:id="Bae_REG_Org_280">Bae_MF_1_2835</term>
+            <term type="pos" xml:id="Bae_REG_Org_281">Bae_MF_1_2869</term>
+            <term type="pos" xml:id="Bae_REG_Org_282">Bae_MF_1_2886</term>
+            <term type="pos" xml:id="Bae_REG_Org_283">Bae_MF_1_2902</term>
+            <term type="pos" xml:id="Bae_REG_Org_284">Bae_MF_1_2917</term>
+            <term type="pos" xml:id="Bae_REG_Org_285">Bae_MF_1_3583</term>
+            <term type="pos" xml:id="Bae_REG_Org_286">Bae_MF_1_4274</term>
+            <term type="pos" xml:id="Bae_REG_Org_287">Bae_MF_1_4629</term>
+            <term type="pos" xml:id="Bae_REG_Org_288">Bae_MF_1_4922</term>
+            <term type="pos" xml:id="Bae_REG_Org_289">Bae_MF_1_5758</term>
+            <term type="pos" xml:id="Bae_REG_Org_290">Bae_MF_1_7999</term>
+            <term type="pos" xml:id="Bae_REG_Org_291">Bae_MF_1_8029</term>
+            <term type="pos" xml:id="Bae_REG_Org_292">Bae_MF_1_10873</term>
+            <term type="pos" xml:id="Bae_REG_Org_293">Bae_TB_7_2276</term>
+            <term type="pos" xml:id="Bae_REG_Org_294">Bae_TB_7_2346</term>
+            <term type="pos" xml:id="Bae_REG_Org_295">Bae_TB_8_876</term>
+          </item>
+          <item xml:id="Bae_REG_Org_296">
+            <term type="key" xml:id="Bae_REG_Org_297">DeutschradikalePartei</term>
+            <term type="name" xml:id="Bae_REG_Org_298">https://d-nb.info/gnd/104140834X</term>
+            <term type="pid" xml:id="Bae_REG_Org_299">DeutschradikalePartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_300">Bae_MF_6-2_5641</term>
+            <term type="pos" xml:id="Bae_REG_Org_301">Bae_MF_6-2_6017</term>
+            <term type="pos" xml:id="Bae_REG_Org_302">Bae_MF_6-2_6042</term>
+          </item>
+          <item xml:id="Bae_REG_Org_303">
+            <term type="key" xml:id="Bae_REG_Org_304">Dreibund</term>
+            <term type="name" xml:id="Bae_REG_Org_305">https://d-nb.info/gnd/4150632-7</term>
+            <term type="pid" xml:id="Bae_REG_Org_306">Dreibund</term>
+            <term type="pos" xml:id="Bae_REG_Org_307">Bae_MF_1_6252</term>
+            <term type="pos" xml:id="Bae_REG_Org_308">Bae_MF_1_6260</term>
+            <term type="pos" xml:id="Bae_REG_Org_309">Bae_MF_1_6443</term>
+          </item>
+          <item xml:id="Bae_REG_Org_310">
+            <term type="key" xml:id="Bae_REG_Org_311">Eisenbahnministerium</term>
+            <term type="name" xml:id="Bae_REG_Org_312">https://d-nb.info/gnd/83581-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_313">Eisenbahnministerium</term>
+            <term type="pos" xml:id="Bae_REG_Org_314">Bae_MF_1_2077</term>
+            <term type="pos" xml:id="Bae_REG_Org_315">Bae_MF_2_378</term>
+            <term type="pos" xml:id="Bae_REG_Org_316">Bae_MF_2_431</term>
+          </item>
+          <item xml:id="Bae_REG_Org_317">
+            <term type="key" xml:id="Bae_REG_Org_318">EisernerRing</term>
+            <term type="name" xml:id="Bae_REG_Org_319">https://d-nb.info/gnd/5248775-1</term>
+            <term type="pid" xml:id="Bae_REG_Org_320">EisernerRing</term>
+            <term type="pos" xml:id="Bae_REG_Org_321">Bae_MF_1_2959</term>
+            <term type="pos" xml:id="Bae_REG_Org_322">Bae_MF_1_3174</term>
+            <term type="pos" xml:id="Bae_REG_Org_323">Bae_MF_1_3556</term>
+          </item>
+          <item xml:id="Bae_REG_Org_324">
+            <term type="key" xml:id="Bae_REG_Org_325">Exportakademie</term>
+            <term type="name" xml:id="Bae_REG_Org_326">https://d-nb.info/gnd/63590-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_327">Exportakademie</term>
+            <term type="pos" xml:id="Bae_REG_Org_328">Bae_MF_2_1483</term>
+          </item>
+          <item xml:id="Bae_REG_Org_329">
+            <term type="key" xml:id="Bae_REG_Org_330">Finanzministerium</term>
+            <term type="name" xml:id="Bae_REG_Org_331">https://d-nb.info/gnd/118073-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_332">Finanzministerium</term>
+            <term type="pos" xml:id="Bae_REG_Org_333">Bae_MF_2_390</term>
+          </item>
+          <item xml:id="Bae_REG_Org_334">
+            <term type="key" xml:id="Bae_REG_Org_335">Fortschrittspartei</term>
+            <term type="name" xml:id="Bae_REG_Org_336">https://d-nb.info/gnd/1041415753</term>
+            <term type="pid" xml:id="Bae_REG_Org_337">Fortschrittspartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_338">Bae_MF_1_356</term>
+            <term type="pos" xml:id="Bae_REG_Org_339">Bae_MF_1_602</term>
+            <term type="pos" xml:id="Bae_REG_Org_340">Bae_MF_1_962</term>
+            <term type="pos" xml:id="Bae_REG_Org_341">Bae_MF_1_1468</term>
+            <term type="pos" xml:id="Bae_REG_Org_342">Bae_MF_1_2415</term>
+            <term type="pos" xml:id="Bae_REG_Org_343">Bae_MF_1_2788</term>
+            <term type="pos" xml:id="Bae_REG_Org_344">Bae_MF_1_2873</term>
+            <term type="pos" xml:id="Bae_REG_Org_345">Bae_MF_1_2913</term>
+            <term type="pos" xml:id="Bae_REG_Org_346">Bae_MF_1_3579</term>
+            <term type="pos" xml:id="Bae_REG_Org_347">Bae_MF_1_4934</term>
+            <term type="pos" xml:id="Bae_REG_Org_348">Bae_MF_1_4942</term>
+            <term type="pos" xml:id="Bae_REG_Org_349">Bae_MF_1_5572</term>
+            <term type="pos" xml:id="Bae_REG_Org_350">Bae_MF_1_7983</term>
+            <term type="pos" xml:id="Bae_REG_Org_351">Bae_MF_1_8033</term>
+            <term type="pos" xml:id="Bae_REG_Org_352">Bae_MF_1_9166</term>
+            <term type="pos" xml:id="Bae_REG_Org_353">Bae_MF_1_10877</term>
+            <term type="pos" xml:id="Bae_REG_Org_354">Bae_TB_7_2393</term>
+            <term type="pos" xml:id="Bae_REG_Org_355">Bae_MF_6-2_6068</term>
+          </item>
+          <item xml:id="Bae_REG_Org_356">
+            <term type="key" xml:id="Bae_REG_Org_357">FreiedeutscheVereinigung</term>
+            <term type="name" xml:id="Bae_REG_Org_358"/>
+            <term type="pid" xml:id="Bae_REG_Org_359">FreiedeutscheVereinigung</term>
+            <term type="pos" xml:id="Bae_REG_Org_360">Bae_MF_1_9525</term>
+          </item>
+          <item xml:id="Bae_REG_Org_361">
+            <term type="key" xml:id="Bae_REG_Org_362">Freimaurer</term>
+            <term type="name" xml:id="Bae_REG_Org_363">https://d-nb.info/gnd/4123227-6</term>
+            <term type="pid" xml:id="Bae_REG_Org_364">Freimaurer</term>
+            <term type="pos" xml:id="Bae_REG_Org_365">Bae_MF_1_3124</term>
+          </item>
+          <item xml:id="Bae_REG_Org_366">
+            <term type="key" xml:id="Bae_REG_Org_367">GemeinderatGraz</term>
+            <term type="name" xml:id="Bae_REG_Org_368">https://d-nb.info/gnd/7725681-5</term>
+            <term type="pid" xml:id="Bae_REG_Org_369">GemeinderatGraz</term>
+            <term type="pos" xml:id="Bae_REG_Org_370">Bae_MF_2_5398</term>
+            <term type="pos" xml:id="Bae_REG_Org_371">Bae_MF_2_5422</term>
+            <term type="pos" xml:id="Bae_REG_Org_372">Bae_MF_2_5455</term>
+            <term type="pos" xml:id="Bae_REG_Org_373">Bae_MF_2_5548</term>
+            <term type="pos" xml:id="Bae_REG_Org_374">Bae_MF_2_5577</term>
+            <term type="pos" xml:id="Bae_REG_Org_375">Bae_MF_2_5864</term>
+            <term type="pos" xml:id="Bae_REG_Org_376">Bae_MF_2_7967</term>
+            <term type="pos" xml:id="Bae_REG_Org_377">Bae_MF_2_10431</term>
+          </item>
+          <item xml:id="Bae_REG_Org_378">
+            <term type="key" xml:id="Bae_REG_Org_379">Gewerbeausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_380">https://d-nb.info/gnd/812508-9</term>
+            <term type="pid" xml:id="Bae_REG_Org_381">Gewerbeausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_382">Bae_MF_2_1804</term>
+          </item>
+          <item xml:id="Bae_REG_Org_383">
+            <term type="key" xml:id="Bae_REG_Org_384">HandelskammerSpalato</term>
+            <term type="name" xml:id="Bae_REG_Org_385"/>
+            <term type="pid" xml:id="Bae_REG_Org_386">HandelskammerSpalato</term>
+            <term type="pos" xml:id="Bae_REG_Org_387">Bae_MF_2_4233</term>
+            <term type="pos" xml:id="Bae_REG_Org_388">Bae_MF_2_4314</term>
+          </item>
+          <item xml:id="Bae_REG_Org_389">
+            <term type="key" xml:id="Bae_REG_Org_390">Handelsministerium</term>
+            <term type="name" xml:id="Bae_REG_Org_391">https://d-nb.info/gnd/7648853-6</term>
+            <term type="pid" xml:id="Bae_REG_Org_392">Handelsministerium</term>
+            <term type="pos" xml:id="Bae_REG_Org_393">Bae_MF_1_2081</term>
+            <term type="pos" xml:id="Bae_REG_Org_394">Bae_MF_2_374</term>
+            <term type="pos" xml:id="Bae_REG_Org_395">Bae_MF_2_452</term>
+            <term type="pos" xml:id="Bae_REG_Org_396">Bae_MF_2_1085</term>
+            <term type="pos" xml:id="Bae_REG_Org_397">Bae_MF_2_1120</term>
+            <term type="pos" xml:id="Bae_REG_Org_398">Bae_MF_2_1134</term>
+            <term type="pos" xml:id="Bae_REG_Org_399">Bae_MF_2_1292</term>
+            <term type="pos" xml:id="Bae_REG_Org_400">Bae_MF_2_1414</term>
+            <term type="pos" xml:id="Bae_REG_Org_401">Bae_MF_2_1432</term>
+            <term type="pos" xml:id="Bae_REG_Org_402">Bae_MF_2_1459</term>
+            <term type="pos" xml:id="Bae_REG_Org_403">Bae_MF_2_1857</term>
+            <term type="pos" xml:id="Bae_REG_Org_404">Bae_MF_2_1942</term>
+            <term type="pos" xml:id="Bae_REG_Org_405">Bae_MF_2_1950</term>
+            <term type="pos" xml:id="Bae_REG_Org_406">Bae_MF_2_7240</term>
+            <term type="pos" xml:id="Bae_REG_Org_407">Bae_MF_2_8873</term>
+            <term type="pos" xml:id="Bae_REG_Org_408">Bae_MF_2_8966</term>
+            <term type="pos" xml:id="Bae_REG_Org_409">Bae_MF_2_8970</term>
+            <term type="pos" xml:id="Bae_REG_Org_410">Bae_MF_2_10886</term>
+            <term type="pos" xml:id="Bae_REG_Org_411">Bae_TB_7_3791</term>
+          </item>
+          <item xml:id="Bae_REG_Org_412">
+            <term type="key" xml:id="Bae_REG_Org_413">Handelsmuseum</term>
+            <term type="name" xml:id="Bae_REG_Org_414">https://d-nb.info/gnd/63589-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_415">Handelsmuseum</term>
+            <term type="pos" xml:id="Bae_REG_Org_416">Bae_MF_2_1470</term>
+          </item>
+          <item xml:id="Bae_REG_Org_417">
+            <term type="key" xml:id="Bae_REG_Org_418">HeiligerStuhl</term>
+            <term type="name" xml:id="Bae_REG_Org_419">https://d-nb.info/gnd/2003256-0</term>
+            <term type="pid" xml:id="Bae_REG_Org_420">HeiligerStuhl</term>
+            <term type="pos" xml:id="Bae_REG_Org_421">Bae_TB_7_9763</term>
+          </item>
+          <item xml:id="Bae_REG_Org_422">
+            <term type="key" xml:id="Bae_REG_Org_423">Herrenhaus</term>
+            <term type="name" xml:id="Bae_REG_Org_424">https://d-nb.info/gnd/41999-0</term>
+            <term type="pid" xml:id="Bae_REG_Org_425">Herrenhaus</term>
+            <term type="pos" xml:id="Bae_REG_Org_426">Bae_MF_1_9466</term>
+            <term type="pos" xml:id="Bae_REG_Org_427">Bae_MF_1_10029</term>
+            <term type="pos" xml:id="Bae_REG_Org_428">Bae_MF_2_2011</term>
+            <term type="pos" xml:id="Bae_REG_Org_429">Bae_TB_8_5346</term>
+            <term type="pos" xml:id="Bae_REG_Org_430">Bae_TB_8_5400</term>
+            <term type="pos" xml:id="Bae_REG_Org_431">Bae_TB_8_5576</term>
+            <term type="pos" xml:id="Bae_REG_Org_432">Bae_TB_8_5610</term>
+            <term type="pos" xml:id="Bae_REG_Org_433">Bae_TB_8_5647</term>
+            <term type="pos" xml:id="Bae_REG_Org_434">Bae_MF_6-2_5518</term>
+            <term type="pos" xml:id="Bae_REG_Org_435">Bae_MF_6-2_5616</term>
+            <term type="pos" xml:id="Bae_REG_Org_436">Bae_MF_6-2_5660</term>
+            <term type="pos" xml:id="Bae_REG_Org_437">Bae_MF_6-2_5704</term>
+            <term type="pos" xml:id="Bae_REG_Org_438">Bae_MF_6-2_5732</term>
+            <term type="pos" xml:id="Bae_REG_Org_439">Bae_MF_6-2_5738</term>
+            <term type="pos" xml:id="Bae_REG_Org_440">Bae_MF_6-2_5746</term>
+            <term type="pos" xml:id="Bae_REG_Org_441">Bae_MF_6-2_5783</term>
+            <term type="pos" xml:id="Bae_REG_Org_442">Bae_MF_6-2_6343</term>
+          </item>
+          <item xml:id="Bae_REG_Org_443">
+            <term type="key" xml:id="Bae_REG_Org_444">HotelSacher</term>
+            <term type="name" xml:id="Bae_REG_Org_445">https://d-nb.info/gnd/3046318-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_446">HotelSacher</term>
+            <term type="pos" xml:id="Bae_REG_Org_447">Bae_MF_1_201</term>
+          </item>
+          <item xml:id="Bae_REG_Org_448">
+            <term type="key" xml:id="Bae_REG_Org_449">Immunitaetsausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_450"/>
+            <term type="pid" xml:id="Bae_REG_Org_451">Immunitaetsausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_452">Bae_MF_1_7478</term>
+          </item>
+          <item xml:id="Bae_REG_Org_453">
+            <term type="key" xml:id="Bae_REG_Org_454">IndustrieundLandwirtschaftsrat</term>
+            <term type="name" xml:id="Bae_REG_Org_455">https://d-nb.info/gnd/301633-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_456">IndustrieundLandwirtschaftsrat</term>
+            <term type="pos" xml:id="Bae_REG_Org_457">Bae_MF_2_1540</term>
+            <term type="pos" xml:id="Bae_REG_Org_458">Bae_MF_2_1564</term>
+            <term type="pos" xml:id="Bae_REG_Org_459">Bae_MF_2_1602</term>
+            <term type="pos" xml:id="Bae_REG_Org_460">Bae_MF_2_1619</term>
+            <term type="pos" xml:id="Bae_REG_Org_461">Bae_MF_2_1643</term>
+            <term type="pos" xml:id="Bae_REG_Org_462">Bae_MF_2_1692</term>
+            <term type="pos" xml:id="Bae_REG_Org_463">Bae_MF_2_1696</term>
+            <term type="pos" xml:id="Bae_REG_Org_464">Bae_MF_2_1776</term>
+          </item>
+          <item xml:id="Bae_REG_Org_465">
+            <term type="key" xml:id="Bae_REG_Org_466">InstitutRevoltella</term>
+            <term type="name" xml:id="Bae_REG_Org_467">https://d-nb.info/gnd/10121610-5</term>
+            <term type="pid" xml:id="Bae_REG_Org_468">InstitutRevoltella</term>
+            <term type="pos" xml:id="Bae_REG_Org_469">Bae_TB_7_2229</term>
+          </item>
+          <item xml:id="Bae_REG_Org_470">
+            <term type="key" xml:id="Bae_REG_Org_471">ItalienischerKlub</term>
+            <term type="name" xml:id="Bae_REG_Org_472"/>
+            <term type="pid" xml:id="Bae_REG_Org_473">ItalienischerKlub</term>
+            <term type="pos" xml:id="Bae_REG_Org_474">Bae_MF_1_2363</term>
+            <term type="pos" xml:id="Bae_REG_Org_475">Bae_MF_1_4800</term>
+            <term type="pos" xml:id="Bae_REG_Org_476">Bae_MF_1_9517</term>
+            <term type="pos" xml:id="Bae_REG_Org_477">Bae_MF_1_9529</term>
+            <term type="pos" xml:id="Bae_REG_Org_478">Bae_MF_2_4898</term>
+          </item>
+          <item xml:id="Bae_REG_Org_479">
+            <term type="key" xml:id="Bae_REG_Org_480">Jockeyclub</term>
+            <term type="name" xml:id="Bae_REG_Org_481">https://d-nb.info/gnd/2016616-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_482">Jockeyclub</term>
+            <term type="pos" xml:id="Bae_REG_Org_483">Bae_MF_1_2119</term>
+          </item>
+          <item xml:id="Bae_REG_Org_484">
+            <term type="key" xml:id="Bae_REG_Org_485">Jungtschechen</term>
+            <term type="name" xml:id="Bae_REG_Org_486">https://d-nb.info/gnd/3030733-8</term>
+            <term type="pid" xml:id="Bae_REG_Org_487">Jungtschechen</term>
+            <term type="pos" xml:id="Bae_REG_Org_488">Bae_MF_1_276</term>
+            <term type="pos" xml:id="Bae_REG_Org_489">Bae_MF_1_1379</term>
+            <term type="pos" xml:id="Bae_REG_Org_490">Bae_MF_1_2104</term>
+            <term type="pos" xml:id="Bae_REG_Org_491">Bae_MF_1_2391</term>
+            <term type="pos" xml:id="Bae_REG_Org_492">Bae_MF_1_2466</term>
+            <term type="pos" xml:id="Bae_REG_Org_493">Bae_MF_1_3200</term>
+            <term type="pos" xml:id="Bae_REG_Org_494">Bae_MF_1_4531</term>
+            <term type="pos" xml:id="Bae_REG_Org_495">Bae_MF_1_5762</term>
+            <term type="pos" xml:id="Bae_REG_Org_496">Bae_MF_1_9943</term>
+          </item>
+          <item xml:id="Bae_REG_Org_497">
+            <term type="key" xml:id="Bae_REG_Org_498">Justizministerium</term>
+            <term type="name" xml:id="Bae_REG_Org_499">https://d-nb.info/gnd/39547-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_500">Justizministerium</term>
+            <term type="pos" xml:id="Bae_REG_Org_501">Bae_MF_1_2085</term>
+            <term type="pos" xml:id="Bae_REG_Org_502">Bae_MF_2_370</term>
+            <term type="pos" xml:id="Bae_REG_Org_503">Bae_MF_2_427</term>
+            <term type="pos" xml:id="Bae_REG_Org_504">Bae_MF_2_988</term>
+            <term type="pos" xml:id="Bae_REG_Org_505">Bae_MF_2_1081</term>
+            <term type="pos" xml:id="Bae_REG_Org_506">Bae_MF_2_1112</term>
+            <term type="pos" xml:id="Bae_REG_Org_507">Bae_MF_2_1124</term>
+            <term type="pos" xml:id="Bae_REG_Org_508">Bae_MF_2_1946</term>
+            <term type="pos" xml:id="Bae_REG_Org_509">Bae_MF_2_1954</term>
+            <term type="pos" xml:id="Bae_REG_Org_510">Bae_MF_2_1980</term>
+            <term type="pos" xml:id="Bae_REG_Org_511">Bae_TB_7_368</term>
+            <term type="pos" xml:id="Bae_REG_Org_512">Bae_TB_7_2066</term>
+            <term type="pos" xml:id="Bae_REG_Org_513">Bae_TB_7_3453</term>
+            <term type="pos" xml:id="Bae_REG_Org_514">Bae_MF_6-2_197</term>
+          </item>
+          <item xml:id="Bae_REG_Org_515">
+            <term type="key" xml:id="Bae_REG_Org_516">KatholischeVolkspartei</term>
+            <term type="name" xml:id="Bae_REG_Org_517"/>
+            <term type="pid" xml:id="Bae_REG_Org_518">KatholischeVolkspartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_519">Bae_MF_1_2474</term>
+            <term type="pos" xml:id="Bae_REG_Org_520">Bae_MF_1_3196</term>
+            <term type="pos" xml:id="Bae_REG_Org_521">Bae_MF_1_7593</term>
+            <term type="pos" xml:id="Bae_REG_Org_522">Bae_MF_1_7640</term>
+            <term type="pos" xml:id="Bae_REG_Org_523">Bae_MF_1_7644</term>
+            <term type="pos" xml:id="Bae_REG_Org_524">Bae_MF_1_7670</term>
+            <term type="pos" xml:id="Bae_REG_Org_525">Bae_MF_1_7674</term>
+            <term type="pos" xml:id="Bae_REG_Org_526">Bae_MF_1_7721</term>
+            <term type="pos" xml:id="Bae_REG_Org_527">Bae_MF_1_7749</term>
+            <term type="pos" xml:id="Bae_REG_Org_528">Bae_MF_1_7780</term>
+            <term type="pos" xml:id="Bae_REG_Org_529">Bae_MF_1_7884</term>
+            <term type="pos" xml:id="Bae_REG_Org_530">Bae_MF_1_7902</term>
+            <term type="pos" xml:id="Bae_REG_Org_531">Bae_MF_1_7913</term>
+            <term type="pos" xml:id="Bae_REG_Org_532">Bae_MF_1_8025</term>
+            <term type="pos" xml:id="Bae_REG_Org_533">Bae_MF_1_8064</term>
+            <term type="pos" xml:id="Bae_REG_Org_534">Bae_MF_1_8373</term>
+            <term type="pos" xml:id="Bae_REG_Org_535">Bae_MF_1_8407</term>
+            <term type="pos" xml:id="Bae_REG_Org_536">Bae_MF_1_8880</term>
+            <term type="pos" xml:id="Bae_REG_Org_537">Bae_MF_1_8924</term>
+            <term type="pos" xml:id="Bae_REG_Org_538">Bae_MF_2_4890</term>
+          </item>
+          <item xml:id="Bae_REG_Org_539">
+            <term type="key" xml:id="Bae_REG_Org_540">KonservativerGrossgrundbesitz</term>
+            <term type="name" xml:id="Bae_REG_Org_541"/>
+            <term type="pid" xml:id="Bae_REG_Org_542">KonservativerGrossgrundbesitz</term>
+            <term type="pos" xml:id="Bae_REG_Org_543">Bae_TB_8_1477</term>
+            <term type="pos" xml:id="Bae_REG_Org_544">Bae_TB_8_5463</term>
+          </item>
+          <item xml:id="Bae_REG_Org_545">
+            <term type="key" xml:id="Bae_REG_Org_546">KonservativerGroßgrundbesitz</term>
+            <term type="name" xml:id="Bae_REG_Org_547"/>
+            <term type="pid" xml:id="Bae_REG_Org_548">KonservativerGroßgrundbesitz</term>
+            <term type="pos" xml:id="Bae_REG_Org_549">Bae_MF_1_2343</term>
+            <term type="pos" xml:id="Bae_REG_Org_550">Bae_MF_1_2993</term>
+            <term type="pos" xml:id="Bae_REG_Org_551">Bae_MF_1_3106</term>
+          </item>
+          <item xml:id="Bae_REG_Org_552">
+            <term type="key" xml:id="Bae_REG_Org_553">Kriegsministerium</term>
+            <term type="name" xml:id="Bae_REG_Org_554">https://d-nb.info/gnd/350303-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_555">Kriegsministerium</term>
+            <term type="pos" xml:id="Bae_REG_Org_556">Bae_TB_7_2644</term>
+          </item>
+          <item xml:id="Bae_REG_Org_557">
+            <term type="key" xml:id="Bae_REG_Org_558">Kronrat</term>
+            <term type="name" xml:id="Bae_REG_Org_559"/>
+            <term type="pid" xml:id="Bae_REG_Org_560">Kronrat</term>
+            <term type="pos" xml:id="Bae_REG_Org_561">Bae_MF_6-2_4357</term>
+          </item>
+          <item xml:id="Bae_REG_Org_562">
+            <term type="key" xml:id="Bae_REG_Org_563">Landesausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_564"/>
+            <term type="pid" xml:id="Bae_REG_Org_565">Landesausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_566">Bae_MF_6-2_2535</term>
+          </item>
+          <item xml:id="Bae_REG_Org_567">
+            <term type="key" xml:id="Bae_REG_Org_568">LandesgerichtWien</term>
+            <term type="name" xml:id="Bae_REG_Org_569">https://d-nb.info/gnd/5215748-9</term>
+            <term type="pid" xml:id="Bae_REG_Org_570">LandesgerichtWien</term>
+            <term type="pos" xml:id="Bae_REG_Org_571">Bae_MF_1_10290</term>
+            <term type="pos" xml:id="Bae_REG_Org_572">Bae_MF_1_10313</term>
+          </item>
+          <item xml:id="Bae_REG_Org_573">
+            <term type="key" xml:id="Bae_REG_Org_574">LandtagBoehmen</term>
+            <term type="name" xml:id="Bae_REG_Org_575">https://d-nb.info/gnd/5005623-2</term>
+            <term type="pid" xml:id="Bae_REG_Org_576">LandtagBoehmen</term>
+            <term type="pos" xml:id="Bae_REG_Org_577">Bae_MF_1_428</term>
+            <term type="pos" xml:id="Bae_REG_Org_578">Bae_MF_1_448</term>
+            <term type="pos" xml:id="Bae_REG_Org_579">Bae_MF_1_472</term>
+            <term type="pos" xml:id="Bae_REG_Org_580">Bae_MF_1_715</term>
+            <term type="pos" xml:id="Bae_REG_Org_581">Bae_MF_1_749</term>
+            <term type="pos" xml:id="Bae_REG_Org_582">Bae_MF_1_10736</term>
+            <term type="pos" xml:id="Bae_REG_Org_583">Bae_MF_2_8518</term>
+            <term type="pos" xml:id="Bae_REG_Org_584">Bae_MF_2_12127</term>
+            <term type="pos" xml:id="Bae_REG_Org_585">Bae_TB_7_978</term>
+            <term type="pos" xml:id="Bae_REG_Org_586">Bae_TB_7_1437</term>
+            <term type="pos" xml:id="Bae_REG_Org_587">Bae_TB_7_1739</term>
+            <term type="pos" xml:id="Bae_REG_Org_588">Bae_TB_7_3176</term>
+            <term type="pos" xml:id="Bae_REG_Org_589">Bae_TB_7_3195</term>
+            <term type="pos" xml:id="Bae_REG_Org_590">Bae_TB_7_4226</term>
+            <term type="pos" xml:id="Bae_REG_Org_591">Bae_TB_7_4599</term>
+            <term type="pos" xml:id="Bae_REG_Org_592">Bae_TB_7_4702</term>
+            <term type="pos" xml:id="Bae_REG_Org_593">Bae_TB_7_4742</term>
+            <term type="pos" xml:id="Bae_REG_Org_594">Bae_TB_7_4789</term>
+            <term type="pos" xml:id="Bae_REG_Org_595">Bae_TB_7_4841</term>
+            <term type="pos" xml:id="Bae_REG_Org_596">Bae_TB_7_4948</term>
+            <term type="pos" xml:id="Bae_REG_Org_597">Bae_TB_7_4956</term>
+            <term type="pos" xml:id="Bae_REG_Org_598">Bae_TB_7_4968</term>
+            <term type="pos" xml:id="Bae_REG_Org_599">Bae_TB_7_5008</term>
+            <term type="pos" xml:id="Bae_REG_Org_600">Bae_TB_7_5052</term>
+            <term type="pos" xml:id="Bae_REG_Org_601">Bae_TB_8_1026</term>
+            <term type="pos" xml:id="Bae_REG_Org_602">Bae_MF_6-1_399</term>
+            <term type="pos" xml:id="Bae_REG_Org_603">Bae_MF_6-1_423</term>
+            <term type="pos" xml:id="Bae_REG_Org_604">Bae_MF_6-1_1188</term>
+            <term type="pos" xml:id="Bae_REG_Org_605">Bae_MF_6-1_1247</term>
+            <term type="pos" xml:id="Bae_REG_Org_606">Bae_MF_6-1_1272</term>
+            <term type="pos" xml:id="Bae_REG_Org_607">Bae_MF_6-1_1317</term>
+            <term type="pos" xml:id="Bae_REG_Org_608">Bae_MF_6-1_1321</term>
+            <term type="pos" xml:id="Bae_REG_Org_609">Bae_MF_6-1_1340</term>
+            <term type="pos" xml:id="Bae_REG_Org_610">Bae_MF_6-1_1369</term>
+            <term type="pos" xml:id="Bae_REG_Org_611">Bae_MF_6-1_1383</term>
+            <term type="pos" xml:id="Bae_REG_Org_612">Bae_MF_6-1_1387</term>
+            <term type="pos" xml:id="Bae_REG_Org_613">Bae_MF_6-1_1391</term>
+            <term type="pos" xml:id="Bae_REG_Org_614">Bae_MF_6-1_1397</term>
+          </item>
+          <item xml:id="Bae_REG_Org_615">
+            <term type="key" xml:id="Bae_REG_Org_616">LandtagNiederoesterreich</term>
+            <term type="name" xml:id="Bae_REG_Org_617">https://d-nb.info/gnd/1223443-6</term>
+            <term type="pid" xml:id="Bae_REG_Org_618">LandtagNiederoesterreich</term>
+            <term type="pos" xml:id="Bae_REG_Org_619">Bae_MF_1_5172</term>
+          </item>
+          <item xml:id="Bae_REG_Org_620">
+            <term type="key" xml:id="Bae_REG_Org_621">MaehrischeMittelpartei</term>
+            <term type="name" xml:id="Bae_REG_Org_622"/>
+            <term type="pid" xml:id="Bae_REG_Org_623">MaehrischeMittelpartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_624">Bae_MF_1_2355</term>
+          </item>
+          <item xml:id="Bae_REG_Org_625">
+            <term type="key" xml:id="Bae_REG_Org_626">MagnatenhausReichstag</term>
+            <term type="name" xml:id="Bae_REG_Org_627">https://d-nb.info/gnd/5270827-5</term>
+            <term type="pid" xml:id="Bae_REG_Org_628">MagnatenhausReichstag</term>
+            <term type="pos" xml:id="Bae_REG_Org_629">Bae_MF_6-1_2396</term>
+          </item>
+          <item xml:id="Bae_REG_Org_630">
+            <term type="key" xml:id="Bae_REG_Org_631">MagyarOrszag</term>
+            <term type="name" xml:id="Bae_REG_Org_632"/>
+            <term type="pid" xml:id="Bae_REG_Org_633">MagyarOrszag</term>
+            <term type="pos" xml:id="Bae_REG_Org_634">Bae_TB_7_9213</term>
+            <term type="pos" xml:id="Bae_REG_Org_635">Bae_MF_6-1_4041</term>
+          </item>
+          <item xml:id="Bae_REG_Org_636">
+            <term type="key" xml:id="Bae_REG_Org_637">MinisteriumdesAeussern</term>
+            <term type="name" xml:id="Bae_REG_Org_638">https://d-nb.info/gnd/119828-2</term>
+            <term type="pid" xml:id="Bae_REG_Org_639">MinisteriumdesAeussern</term>
+            <term type="pos" xml:id="Bae_REG_Org_640">Bae_MF_6-1_4951</term>
+          </item>
+          <item xml:id="Bae_REG_Org_641">
+            <term type="key" xml:id="Bae_REG_Org_642">MinisteriumdesAeußern</term>
+            <term type="name" xml:id="Bae_REG_Org_643">https://d-nb.info/gnd/119828-2</term>
+            <term type="pid" xml:id="Bae_REG_Org_644">MinisteriumdesAeußern</term>
+            <term type="pos" xml:id="Bae_REG_Org_645">Bae_MF_1_9066</term>
+            <term type="pos" xml:id="Bae_REG_Org_646">Bae_MF_1_9696</term>
+            <term type="pos" xml:id="Bae_REG_Org_647">Bae_MF_1_9758</term>
+          </item>
+          <item xml:id="Bae_REG_Org_648">
+            <term type="key" xml:id="Bae_REG_Org_649">MinisteriumdesInnern</term>
+            <term type="name" xml:id="Bae_REG_Org_650">https://d-nb.info/gnd/260143-6</term>
+            <term type="pid" xml:id="Bae_REG_Org_651">MinisteriumdesInnern</term>
+            <term type="pos" xml:id="Bae_REG_Org_652">Bae_MF_2_272</term>
+            <term type="pos" xml:id="Bae_REG_Org_653">Bae_MF_2_10307</term>
+            <term type="pos" xml:id="Bae_REG_Org_654">Bae_MF_6-2_1145</term>
+            <term type="pos" xml:id="Bae_REG_Org_655">Bae_MF_6-2_2032</term>
+          </item>
+          <item xml:id="Bae_REG_Org_656">
+            <term type="key" xml:id="Bae_REG_Org_657">MinisteriumfuerKultusundUnterricht</term>
+            <term type="name" xml:id="Bae_REG_Org_658">https://d-nb.info/gnd/128169-0</term>
+            <term type="pid" xml:id="Bae_REG_Org_659">MinisteriumfuerKultusundUnterricht</term>
+            <term type="pos" xml:id="Bae_REG_Org_660">Bae_MF_2_398</term>
+          </item>
+          <item xml:id="Bae_REG_Org_661">
+            <term type="key" xml:id="Bae_REG_Org_662">MinisteriumfuerLandesverteidigung</term>
+            <term type="name" xml:id="Bae_REG_Org_663">https://d-nb.info/gnd/1232081655</term>
+            <term type="pid" xml:id="Bae_REG_Org_664">MinisteriumfuerLandesverteidigung</term>
+            <term type="pos" xml:id="Bae_REG_Org_665">Bae_MF_6-2_6285</term>
+          </item>
+          <item xml:id="Bae_REG_Org_666">
+            <term type="key" xml:id="Bae_REG_Org_667">Ministerrat</term>
+            <term type="name" xml:id="Bae_REG_Org_668">https://d-nb.info/gnd/4236755-4</term>
+            <term type="pid" xml:id="Bae_REG_Org_669">Ministerrat</term>
+            <term type="pos" xml:id="Bae_REG_Org_670">Bae_MF_1_2756</term>
+            <term type="pos" xml:id="Bae_REG_Org_671">Bae_MF_2_823</term>
+            <term type="pos" xml:id="Bae_REG_Org_672">Bae_MF_2_2019</term>
+            <term type="pos" xml:id="Bae_REG_Org_673">Bae_MF_2_4682</term>
+            <term type="pos" xml:id="Bae_REG_Org_674">Bae_MF_2_4864</term>
+            <term type="pos" xml:id="Bae_REG_Org_675">Bae_MF_2_5045</term>
+            <term type="pos" xml:id="Bae_REG_Org_676">Bae_MF_2_5186</term>
+            <term type="pos" xml:id="Bae_REG_Org_677">Bae_MF_2_5266</term>
+            <term type="pos" xml:id="Bae_REG_Org_678">Bae_MF_2_5402</term>
+            <term type="pos" xml:id="Bae_REG_Org_679">Bae_MF_2_5559</term>
+            <term type="pos" xml:id="Bae_REG_Org_680">Bae_MF_2_5705</term>
+            <term type="pos" xml:id="Bae_REG_Org_681">Bae_MF_2_5838</term>
+            <term type="pos" xml:id="Bae_REG_Org_682">Bae_MF_2_6024</term>
+            <term type="pos" xml:id="Bae_REG_Org_683">Bae_MF_2_6133</term>
+            <term type="pos" xml:id="Bae_REG_Org_684">Bae_MF_2_6214</term>
+            <term type="pos" xml:id="Bae_REG_Org_685">Bae_MF_2_6258</term>
+            <term type="pos" xml:id="Bae_REG_Org_686">Bae_MF_2_6333</term>
+            <term type="pos" xml:id="Bae_REG_Org_687">Bae_MF_2_6477</term>
+            <term type="pos" xml:id="Bae_REG_Org_688">Bae_MF_2_6716</term>
+            <term type="pos" xml:id="Bae_REG_Org_689">Bae_MF_2_7260</term>
+            <term type="pos" xml:id="Bae_REG_Org_690">Bae_MF_2_7511</term>
+            <term type="pos" xml:id="Bae_REG_Org_691">Bae_MF_2_7721</term>
+            <term type="pos" xml:id="Bae_REG_Org_692">Bae_MF_2_8385</term>
+            <term type="pos" xml:id="Bae_REG_Org_693">Bae_MF_2_8405</term>
+            <term type="pos" xml:id="Bae_REG_Org_694">Bae_MF_2_8417</term>
+            <term type="pos" xml:id="Bae_REG_Org_695">Bae_MF_2_8805</term>
+            <term type="pos" xml:id="Bae_REG_Org_696">Bae_MF_2_8817</term>
+            <term type="pos" xml:id="Bae_REG_Org_697">Bae_MF_2_8869</term>
+            <term type="pos" xml:id="Bae_REG_Org_698">Bae_MF_2_8877</term>
+            <term type="pos" xml:id="Bae_REG_Org_699">Bae_MF_2_9736</term>
+            <term type="pos" xml:id="Bae_REG_Org_700">Bae_MF_2_10119</term>
+            <term type="pos" xml:id="Bae_REG_Org_701">Bae_MF_2_10154</term>
+            <term type="pos" xml:id="Bae_REG_Org_702">Bae_MF_2_10192</term>
+            <term type="pos" xml:id="Bae_REG_Org_703">Bae_MF_2_10303</term>
+            <term type="pos" xml:id="Bae_REG_Org_704">Bae_MF_2_10419</term>
+            <term type="pos" xml:id="Bae_REG_Org_705">Bae_MF_2_10838</term>
+            <term type="pos" xml:id="Bae_REG_Org_706">Bae_MF_2_10850</term>
+            <term type="pos" xml:id="Bae_REG_Org_707">Bae_MF_2_10858</term>
+            <term type="pos" xml:id="Bae_REG_Org_708">Bae_MF_2_10862</term>
+            <term type="pos" xml:id="Bae_REG_Org_709">Bae_MF_2_10906</term>
+            <term type="pos" xml:id="Bae_REG_Org_710">Bae_MF_2_11036</term>
+            <term type="pos" xml:id="Bae_REG_Org_711">Bae_MF_2_11410</term>
+            <term type="pos" xml:id="Bae_REG_Org_712">Bae_MF_2_11773</term>
+            <term type="pos" xml:id="Bae_REG_Org_713">Bae_MF_2_12248</term>
+          </item>
+          <item xml:id="Bae_REG_Org_714">
+            <term type="key" xml:id="Bae_REG_Org_715">Montagspresse</term>
+            <term type="name" xml:id="Bae_REG_Org_716"/>
+            <term type="pid" xml:id="Bae_REG_Org_717">Montagspresse</term>
+            <term type="pos" xml:id="Bae_REG_Org_718">Bae_TB_8_5747</term>
+            <term type="pos" xml:id="Bae_REG_Org_719">Bae_MF_6-2_1387</term>
+          </item>
+          <item xml:id="Bae_REG_Org_720">
+            <term type="key" xml:id="Bae_REG_Org_721">Nationalpartei</term>
+            <term type="name" xml:id="Bae_REG_Org_722"/>
+            <term type="pid" xml:id="Bae_REG_Org_723">Nationalpartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_724">Bae_TB_7_10059</term>
+            <term type="pos" xml:id="Bae_REG_Org_725">Bae_MF_6-1_4474</term>
+          </item>
+          <item xml:id="Bae_REG_Org_726">
+            <term type="key" xml:id="Bae_REG_Org_727">NeueFreiePresse</term>
+            <term type="name" xml:id="Bae_REG_Org_728">https://d-nb.info/gnd/7640546-1</term>
+            <term type="pid" xml:id="Bae_REG_Org_729">NeueFreiePresse</term>
+            <term type="pos" xml:id="Bae_REG_Org_730">Bae_MF_2_7063</term>
+            <term type="pos" xml:id="Bae_REG_Org_731">Bae_MF_2_10890</term>
+            <term type="pos" xml:id="Bae_REG_Org_732">Bae_MF_2_10894</term>
+            <term type="pos" xml:id="Bae_REG_Org_733">Bae_MF_2_10902</term>
+            <term type="pos" xml:id="Bae_REG_Org_734">Bae_TB_8_579</term>
+            <term type="pos" xml:id="Bae_REG_Org_735">Bae_TB_8_1308</term>
+            <term type="pos" xml:id="Bae_REG_Org_736">Bae_TB_8_1319</term>
+            <term type="pos" xml:id="Bae_REG_Org_737">Bae_TB_8_1407</term>
+            <term type="pos" xml:id="Bae_REG_Org_738">Bae_MF_6-2_1968</term>
+          </item>
+          <item xml:id="Bae_REG_Org_739">
+            <term type="key" xml:id="Bae_REG_Org_740">NeueFreiePresseRedaktion</term>
+            <term type="name" xml:id="Bae_REG_Org_741">https://d-nb.info/gnd/1123578060</term>
+            <term type="pid" xml:id="Bae_REG_Org_742">NeueFreiePresseRedaktion</term>
+            <term type="pos" xml:id="Bae_REG_Org_743">Bae_TB_7_13045</term>
+            <term type="pos" xml:id="Bae_REG_Org_744">Bae_TB_7_13436</term>
+          </item>
+          <item xml:id="Bae_REG_Org_745">
+            <term type="key" xml:id="Bae_REG_Org_746">NorddeutscherLloyd</term>
+            <term type="name" xml:id="Bae_REG_Org_747">https://d-nb.info/gnd/2020453-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_748">NorddeutscherLloyd</term>
+            <term type="pos" xml:id="Bae_REG_Org_749">Bae_MF_6-1_1709</term>
+          </item>
+          <item xml:id="Bae_REG_Org_750">
+            <term type="key" xml:id="Bae_REG_Org_751">Notstandsausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_752"/>
+            <term type="pid" xml:id="Bae_REG_Org_753">Notstandsausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_754">Bae_TB_7_741</term>
+          </item>
+          <item xml:id="Bae_REG_Org_755">
+            <term type="key" xml:id="Bae_REG_Org_756">Obzor</term>
+            <term type="name" xml:id="Bae_REG_Org_757"/>
+            <term type="pid" xml:id="Bae_REG_Org_758">Obzor</term>
+            <term type="pos" xml:id="Bae_REG_Org_759">Bae_MF_6-1_4597</term>
+          </item>
+          <item xml:id="Bae_REG_Org_760">
+            <term type="key" xml:id="Bae_REG_Org_761">Obzorpartei</term>
+            <term type="name" xml:id="Bae_REG_Org_762"/>
+            <term type="pid" xml:id="Bae_REG_Org_763">Obzorpartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_764">Bae_TB_7_10272</term>
+          </item>
+          <item xml:id="Bae_REG_Org_765">
+            <term type="key" xml:id="Bae_REG_Org_766">OesterreichischerLloyd</term>
+            <term type="name" xml:id="Bae_REG_Org_767">https://d-nb.info/gnd/112002-5</term>
+            <term type="pid" xml:id="Bae_REG_Org_768">OesterreichischerLloyd</term>
+            <term type="pos" xml:id="Bae_REG_Org_769">Bae_MF_2_2473</term>
+            <term type="pos" xml:id="Bae_REG_Org_770">Bae_MF_2_2748</term>
+            <term type="pos" xml:id="Bae_REG_Org_771">Bae_MF_2_2789</term>
+            <term type="pos" xml:id="Bae_REG_Org_772">Bae_MF_2_2793</term>
+          </item>
+          <item xml:id="Bae_REG_Org_773">
+            <term type="key" xml:id="Bae_REG_Org_774">Patentamt</term>
+            <term type="name" xml:id="Bae_REG_Org_775">https://d-nb.info/gnd/41792-0</term>
+            <term type="pid" xml:id="Bae_REG_Org_776">Patentamt</term>
+            <term type="pos" xml:id="Bae_REG_Org_777">Bae_MF_2_7248</term>
+          </item>
+          <item xml:id="Bae_REG_Org_778">
+            <term type="key" xml:id="Bae_REG_Org_779">Permanenzausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_780">https://d-nb.info/gnd/5153882-9</term>
+            <term type="pid" xml:id="Bae_REG_Org_781">Permanenzausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_782">Bae_MF_1_7840</term>
+          </item>
+          <item xml:id="Bae_REG_Org_783">
+            <term type="key" xml:id="Bae_REG_Org_784">PesterLloyd</term>
+            <term type="name" xml:id="Bae_REG_Org_785">https://d-nb.info/gnd/5092487-4</term>
+            <term type="pid" xml:id="Bae_REG_Org_786">PesterLloyd</term>
+            <term type="pos" xml:id="Bae_REG_Org_787">Bae_TB_7_9674</term>
+            <term type="pos" xml:id="Bae_REG_Org_788">Bae_TB_7_9681</term>
+            <term type="pos" xml:id="Bae_REG_Org_789">Bae_MF_6-1_4342</term>
+          </item>
+          <item xml:id="Bae_REG_Org_790">
+            <term type="key" xml:id="Bae_REG_Org_791">PoldiPezzoli</term>
+            <term type="name" xml:id="Bae_REG_Org_792">https://d-nb.info/gnd/1006871-5</term>
+            <term type="pid" xml:id="Bae_REG_Org_793">PoldiPezzoli</term>
+            <term type="pos" xml:id="Bae_REG_Org_794">Bae_MF_1_3908</term>
+          </item>
+          <item xml:id="Bae_REG_Org_795">
+            <term type="key" xml:id="Bae_REG_Org_796">Polenklub</term>
+            <term type="name" xml:id="Bae_REG_Org_797">https://d-nb.info/gnd/1050830423</term>
+            <term type="pid" xml:id="Bae_REG_Org_798">Polenklub</term>
+            <term type="pos" xml:id="Bae_REG_Org_799">Bae_MF_1_360</term>
+            <term type="pos" xml:id="Bae_REG_Org_800">Bae_MF_1_2026</term>
+            <term type="pos" xml:id="Bae_REG_Org_801">Bae_MF_1_2339</term>
+            <term type="pos" xml:id="Bae_REG_Org_802">Bae_MF_1_2975</term>
+            <term type="pos" xml:id="Bae_REG_Org_803">Bae_MF_1_3143</term>
+            <term type="pos" xml:id="Bae_REG_Org_804">Bae_MF_1_3170</term>
+            <term type="pos" xml:id="Bae_REG_Org_805">Bae_MF_1_3192</term>
+            <term type="pos" xml:id="Bae_REG_Org_806">Bae_MF_1_3208</term>
+            <term type="pos" xml:id="Bae_REG_Org_807">Bae_MF_1_3317</term>
+            <term type="pos" xml:id="Bae_REG_Org_808">Bae_MF_1_6424</term>
+            <term type="pos" xml:id="Bae_REG_Org_809">Bae_MF_1_7788</term>
+            <term type="pos" xml:id="Bae_REG_Org_810">Bae_TB_7_2553</term>
+          </item>
+          <item xml:id="Bae_REG_Org_811">
+            <term type="key" xml:id="Bae_REG_Org_812">Polizei</term>
+            <term type="name" xml:id="Bae_REG_Org_813">https://d-nb.info/gnd/2080257-2</term>
+            <term type="pid" xml:id="Bae_REG_Org_814">Polizei</term>
+            <term type="pos" xml:id="Bae_REG_Org_815">Bae_MF_1_7574</term>
+            <term type="pos" xml:id="Bae_REG_Org_816">Bae_MF_1_9703</term>
+            <term type="pos" xml:id="Bae_REG_Org_817">Bae_MF_1_9856</term>
+            <term type="pos" xml:id="Bae_REG_Org_818">Bae_MF_1_10045</term>
+            <term type="pos" xml:id="Bae_REG_Org_819">Bae_MF_1_10097</term>
+            <term type="pos" xml:id="Bae_REG_Org_820">Bae_MF_1_10206</term>
+            <term type="pos" xml:id="Bae_REG_Org_821">Bae_MF_1_10228</term>
+            <term type="pos" xml:id="Bae_REG_Org_822">Bae_MF_1_10263</term>
+            <term type="pos" xml:id="Bae_REG_Org_823">Bae_MF_1_10306</term>
+            <term type="pos" xml:id="Bae_REG_Org_824">Bae_MF_1_10323</term>
+            <term type="pos" xml:id="Bae_REG_Org_825">Bae_MF_1_10327</term>
+            <term type="pos" xml:id="Bae_REG_Org_826">Bae_MF_1_10411</term>
+          </item>
+          <item xml:id="Bae_REG_Org_827">
+            <term type="key" xml:id="Bae_REG_Org_828">Popolo</term>
+            <term type="name" xml:id="Bae_REG_Org_829"/>
+            <term type="pid" xml:id="Bae_REG_Org_830">Popolo</term>
+            <term type="pos" xml:id="Bae_REG_Org_831">Bae_TB_7_2090</term>
+          </item>
+          <item xml:id="Bae_REG_Org_832">
+            <term type="key" xml:id="Bae_REG_Org_833">PragerStadtrat</term>
+            <term type="name" xml:id="Bae_REG_Org_834"/>
+            <term type="pid" xml:id="Bae_REG_Org_835">PragerStadtrat</term>
+            <term type="pos" xml:id="Bae_REG_Org_836">Bae_MF_1_10699</term>
+          </item>
+          <item xml:id="Bae_REG_Org_837">
+            <term type="key" xml:id="Bae_REG_Org_838">PragerTagblatt</term>
+            <term type="name" xml:id="Bae_REG_Org_839">https://d-nb.info/010573135</term>
+            <term type="pid" xml:id="Bae_REG_Org_840">PragerTagblatt</term>
+            <term type="pos" xml:id="Bae_REG_Org_841">Bae_TB_7_1476</term>
+            <term type="pos" xml:id="Bae_REG_Org_842">Bae_TB_8_898</term>
+          </item>
+          <item xml:id="Bae_REG_Org_843">
+            <term type="key" xml:id="Bae_REG_Org_844">QuarterlyReview</term>
+            <term type="name" xml:id="Bae_REG_Org_845"/>
+            <term type="pid" xml:id="Bae_REG_Org_846">QuarterlyReview</term>
+            <term type="pos" xml:id="Bae_REG_Org_847">Bae_MF_1_7074</term>
+          </item>
+          <item xml:id="Bae_REG_Org_848">
+            <term type="key" xml:id="Bae_REG_Org_849">RathausWien</term>
+            <term type="name" xml:id="Bae_REG_Org_850">https://d-nb.info/gnd/1087284635</term>
+            <term type="pid" xml:id="Bae_REG_Org_851">RathausWien</term>
+            <term type="pos" xml:id="Bae_REG_Org_852">Bae_TB_7_11158</term>
+          </item>
+          <item xml:id="Bae_REG_Org_853">
+            <term type="key" xml:id="Bae_REG_Org_854">Reichsgericht</term>
+            <term type="name" xml:id="Bae_REG_Org_855">https://d-nb.info/gnd/35881-2</term>
+            <term type="pid" xml:id="Bae_REG_Org_856">Reichsgericht</term>
+            <term type="pos" xml:id="Bae_REG_Org_857">Bae_MF_6-2_6259</term>
+          </item>
+          <item xml:id="Bae_REG_Org_858">
+            <term type="key" xml:id="Bae_REG_Org_859">Reichsrat</term>
+            <term type="name" xml:id="Bae_REG_Org_860">https://d-nb.info/gnd/35882-4</term>
+            <term type="pid" xml:id="Bae_REG_Org_861">Reichsrat</term>
+            <term type="pos" xml:id="Bae_REG_Org_862">Bae_MF_1_165</term>
+            <term type="pos" xml:id="Bae_REG_Org_863">Bae_MF_1_197</term>
+            <term type="pos" xml:id="Bae_REG_Org_864">Bae_MF_1_1696</term>
+            <term type="pos" xml:id="Bae_REG_Org_865">Bae_MF_1_1738</term>
+            <term type="pos" xml:id="Bae_REG_Org_866">Bae_MF_1_1833</term>
+            <term type="pos" xml:id="Bae_REG_Org_867">Bae_MF_1_1858</term>
+            <term type="pos" xml:id="Bae_REG_Org_868">Bae_MF_1_3094</term>
+            <term type="pos" xml:id="Bae_REG_Org_869">Bae_MF_1_3473</term>
+            <term type="pos" xml:id="Bae_REG_Org_870">Bae_MF_1_4098</term>
+            <term type="pos" xml:id="Bae_REG_Org_871">Bae_MF_1_4108</term>
+            <term type="pos" xml:id="Bae_REG_Org_872">Bae_MF_1_4278</term>
+            <term type="pos" xml:id="Bae_REG_Org_873">Bae_MF_1_4571</term>
+            <term type="pos" xml:id="Bae_REG_Org_874">Bae_MF_1_5037</term>
+            <term type="pos" xml:id="Bae_REG_Org_875">Bae_MF_1_5090</term>
+            <term type="pos" xml:id="Bae_REG_Org_876">Bae_MF_1_5218</term>
+            <term type="pos" xml:id="Bae_REG_Org_877">Bae_MF_1_5256</term>
+            <term type="pos" xml:id="Bae_REG_Org_878">Bae_MF_1_5277</term>
+            <term type="pos" xml:id="Bae_REG_Org_879">Bae_MF_1_5415</term>
+            <term type="pos" xml:id="Bae_REG_Org_880">Bae_MF_1_5510</term>
+            <term type="pos" xml:id="Bae_REG_Org_881">Bae_MF_1_5518</term>
+            <term type="pos" xml:id="Bae_REG_Org_882">Bae_MF_1_5528</term>
+            <term type="pos" xml:id="Bae_REG_Org_883">Bae_MF_1_5653</term>
+            <term type="pos" xml:id="Bae_REG_Org_884">Bae_MF_1_5729</term>
+            <term type="pos" xml:id="Bae_REG_Org_885">Bae_MF_1_5735</term>
+            <term type="pos" xml:id="Bae_REG_Org_886">Bae_MF_1_6315</term>
+            <term type="pos" xml:id="Bae_REG_Org_887">Bae_MF_1_6386</term>
+            <term type="pos" xml:id="Bae_REG_Org_888">Bae_MF_1_6428</term>
+            <term type="pos" xml:id="Bae_REG_Org_889">Bae_MF_1_7006</term>
+            <term type="pos" xml:id="Bae_REG_Org_890">Bae_MF_1_7153</term>
+            <term type="pos" xml:id="Bae_REG_Org_891">Bae_MF_1_7180</term>
+            <term type="pos" xml:id="Bae_REG_Org_892">Bae_MF_1_7184</term>
+            <term type="pos" xml:id="Bae_REG_Org_893">Bae_MF_1_7225</term>
+            <term type="pos" xml:id="Bae_REG_Org_894">Bae_MF_1_7256</term>
+            <term type="pos" xml:id="Bae_REG_Org_895">Bae_MF_1_7264</term>
+            <term type="pos" xml:id="Bae_REG_Org_896">Bae_MF_1_7349</term>
+            <term type="pos" xml:id="Bae_REG_Org_897">Bae_MF_1_7570</term>
+            <term type="pos" xml:id="Bae_REG_Org_898">Bae_MF_1_9046</term>
+            <term type="pos" xml:id="Bae_REG_Org_899">Bae_MF_1_9521</term>
+            <term type="pos" xml:id="Bae_REG_Org_900">Bae_MF_1_9804</term>
+            <term type="pos" xml:id="Bae_REG_Org_901">Bae_MF_1_10089</term>
+            <term type="pos" xml:id="Bae_REG_Org_902">Bae_MF_1_10800</term>
+            <term type="pos" xml:id="Bae_REG_Org_903">Bae_MF_2_366</term>
+            <term type="pos" xml:id="Bae_REG_Org_904">Bae_MF_2_702</term>
+            <term type="pos" xml:id="Bae_REG_Org_905">Bae_MF_2_706</term>
+            <term type="pos" xml:id="Bae_REG_Org_906">Bae_MF_2_1436</term>
+            <term type="pos" xml:id="Bae_REG_Org_907">Bae_MF_2_1632</term>
+            <term type="pos" xml:id="Bae_REG_Org_908">Bae_MF_2_1918</term>
+            <term type="pos" xml:id="Bae_REG_Org_909">Bae_MF_2_2007</term>
+            <term type="pos" xml:id="Bae_REG_Org_910">Bae_MF_2_4744</term>
+            <term type="pos" xml:id="Bae_REG_Org_911">Bae_MF_2_4856</term>
+            <term type="pos" xml:id="Bae_REG_Org_912">Bae_MF_2_4951</term>
+            <term type="pos" xml:id="Bae_REG_Org_913">Bae_MF_2_5720</term>
+            <term type="pos" xml:id="Bae_REG_Org_914">Bae_MF_2_5750</term>
+            <term type="pos" xml:id="Bae_REG_Org_915">Bae_MF_2_5764</term>
+            <term type="pos" xml:id="Bae_REG_Org_916">Bae_MF_2_5936</term>
+            <term type="pos" xml:id="Bae_REG_Org_917">Bae_MF_2_6393</term>
+            <term type="pos" xml:id="Bae_REG_Org_918">Bae_MF_2_6724</term>
+            <term type="pos" xml:id="Bae_REG_Org_919">Bae_MF_2_6792</term>
+            <term type="pos" xml:id="Bae_REG_Org_920">Bae_MF_2_6826</term>
+            <term type="pos" xml:id="Bae_REG_Org_921">Bae_MF_2_6859</term>
+            <term type="pos" xml:id="Bae_REG_Org_922">Bae_MF_2_7019</term>
+            <term type="pos" xml:id="Bae_REG_Org_923">Bae_MF_2_7045</term>
+            <term type="pos" xml:id="Bae_REG_Org_924">Bae_MF_2_7289</term>
+            <term type="pos" xml:id="Bae_REG_Org_925">Bae_MF_2_7858</term>
+            <term type="pos" xml:id="Bae_REG_Org_926">Bae_MF_2_7934</term>
+            <term type="pos" xml:id="Bae_REG_Org_927">Bae_MF_2_7955</term>
+            <term type="pos" xml:id="Bae_REG_Org_928">Bae_MF_2_7989</term>
+            <term type="pos" xml:id="Bae_REG_Org_929">Bae_MF_2_9594</term>
+            <term type="pos" xml:id="Bae_REG_Org_930">Bae_MF_2_10946</term>
+            <term type="pos" xml:id="Bae_REG_Org_931">Bae_MF_2_10966</term>
+            <term type="pos" xml:id="Bae_REG_Org_932">Bae_MF_2_10984</term>
+            <term type="pos" xml:id="Bae_REG_Org_933">Bae_MF_2_11027</term>
+            <term type="pos" xml:id="Bae_REG_Org_934">Bae_MF_2_11053</term>
+            <term type="pos" xml:id="Bae_REG_Org_935">Bae_MF_2_11105</term>
+            <term type="pos" xml:id="Bae_REG_Org_936">Bae_MF_2_11139</term>
+            <term type="pos" xml:id="Bae_REG_Org_937">Bae_MF_2_11710</term>
+            <term type="pos" xml:id="Bae_REG_Org_938">Bae_TB_7_1057</term>
+            <term type="pos" xml:id="Bae_REG_Org_939">Bae_TB_7_1084</term>
+            <term type="pos" xml:id="Bae_REG_Org_940">Bae_TB_7_2294</term>
+            <term type="pos" xml:id="Bae_REG_Org_941">Bae_TB_7_2305</term>
+            <term type="pos" xml:id="Bae_REG_Org_942">Bae_TB_7_2545</term>
+            <term type="pos" xml:id="Bae_REG_Org_943">Bae_TB_7_2564</term>
+            <term type="pos" xml:id="Bae_REG_Org_944">Bae_TB_7_3055</term>
+            <term type="pos" xml:id="Bae_REG_Org_945">Bae_TB_7_3083</term>
+            <term type="pos" xml:id="Bae_REG_Org_946">Bae_TB_7_3302</term>
+            <term type="pos" xml:id="Bae_REG_Org_947">Bae_TB_7_3581</term>
+            <term type="pos" xml:id="Bae_REG_Org_948">Bae_TB_7_3655</term>
+            <term type="pos" xml:id="Bae_REG_Org_949">Bae_TB_7_4313</term>
+            <term type="pos" xml:id="Bae_REG_Org_950">Bae_TB_7_4797</term>
+            <term type="pos" xml:id="Bae_REG_Org_951">Bae_TB_7_5253</term>
+            <term type="pos" xml:id="Bae_REG_Org_952">Bae_TB_7_5268</term>
+            <term type="pos" xml:id="Bae_REG_Org_953">Bae_TB_7_5287</term>
+            <term type="pos" xml:id="Bae_REG_Org_954">Bae_TB_7_5914</term>
+            <term type="pos" xml:id="Bae_REG_Org_955">Bae_TB_7_6398</term>
+            <term type="pos" xml:id="Bae_REG_Org_956">Bae_TB_7_8463</term>
+            <term type="pos" xml:id="Bae_REG_Org_957">Bae_TB_7_8480</term>
+            <term type="pos" xml:id="Bae_REG_Org_958">Bae_TB_7_12659</term>
+            <term type="pos" xml:id="Bae_REG_Org_959">Bae_TB_7_12854</term>
+            <term type="pos" xml:id="Bae_REG_Org_960">Bae_TB_8_4011</term>
+            <term type="pos" xml:id="Bae_REG_Org_961">Bae_TB_8_6320</term>
+            <term type="pos" xml:id="Bae_REG_Org_962">Bae_MF_6-1_373</term>
+            <term type="pos" xml:id="Bae_REG_Org_963">Bae_MF_6-1_477</term>
+            <term type="pos" xml:id="Bae_REG_Org_964">Bae_MF_6-1_650</term>
+            <term type="pos" xml:id="Bae_REG_Org_965">Bae_MF_6-1_1325</term>
+            <term type="pos" xml:id="Bae_REG_Org_966">Bae_MF_6-1_1554</term>
+            <term type="pos" xml:id="Bae_REG_Org_967">Bae_MF_6-1_1562</term>
+            <term type="pos" xml:id="Bae_REG_Org_968">Bae_MF_6-1_1570</term>
+            <term type="pos" xml:id="Bae_REG_Org_969">Bae_MF_6-1_2072</term>
+            <term type="pos" xml:id="Bae_REG_Org_970">Bae_MF_6-1_2088</term>
+            <term type="pos" xml:id="Bae_REG_Org_971">Bae_MF_6-1_2382</term>
+            <term type="pos" xml:id="Bae_REG_Org_972">Bae_MF_6-1_2657</term>
+            <term type="pos" xml:id="Bae_REG_Org_973">Bae_MF_6-1_3650</term>
+            <term type="pos" xml:id="Bae_REG_Org_974">Bae_MF_6-1_3660</term>
+            <term type="pos" xml:id="Bae_REG_Org_975">Bae_MF_6-2_613</term>
+            <term type="pos" xml:id="Bae_REG_Org_976">Bae_MF_6-2_1161</term>
+            <term type="pos" xml:id="Bae_REG_Org_977">Bae_MF_6-2_1239</term>
+            <term type="pos" xml:id="Bae_REG_Org_978">Bae_MF_6-2_1306</term>
+            <term type="pos" xml:id="Bae_REG_Org_979">Bae_MF_6-2_1345</term>
+            <term type="pos" xml:id="Bae_REG_Org_980">Bae_MF_6-2_1429</term>
+            <term type="pos" xml:id="Bae_REG_Org_981">Bae_MF_6-2_1501</term>
+            <term type="pos" xml:id="Bae_REG_Org_982">Bae_MF_6-2_1780</term>
+            <term type="pos" xml:id="Bae_REG_Org_983">Bae_MF_6-2_1868</term>
+            <term type="pos" xml:id="Bae_REG_Org_984">Bae_MF_6-2_1979</term>
+            <term type="pos" xml:id="Bae_REG_Org_985">Bae_MF_6-2_1995</term>
+            <term type="pos" xml:id="Bae_REG_Org_986">Bae_MF_6-2_4341</term>
+            <term type="pos" xml:id="Bae_REG_Org_987">Bae_MF_6-2_4353</term>
+            <term type="pos" xml:id="Bae_REG_Org_988">Bae_MF_6-2_4499</term>
+            <term type="pos" xml:id="Bae_REG_Org_989">Bae_MF_6-2_4615</term>
+            <term type="pos" xml:id="Bae_REG_Org_990">Bae_MF_6-2_4745</term>
+            <term type="pos" xml:id="Bae_REG_Org_991">Bae_MF_6-2_4811</term>
+            <term type="pos" xml:id="Bae_REG_Org_992">Bae_MF_6-2_5978</term>
+          </item>
+          <item xml:id="Bae_REG_Org_993">
+            <term type="key" xml:id="Bae_REG_Org_994">Reichstag</term>
+            <term type="name" xml:id="Bae_REG_Org_995">https://d-nb.info/gnd/4194545-1</term>
+            <term type="pid" xml:id="Bae_REG_Org_996">Reichstag</term>
+            <term type="pos" xml:id="Bae_REG_Org_997">Bae_MF_1_6158</term>
+            <term type="pos" xml:id="Bae_REG_Org_998">Bae_MF_2_11131</term>
+            <term type="pos" xml:id="Bae_REG_Org_999">Bae_MF_2_11457</term>
+            <term type="pos" xml:id="Bae_REG_Org_1000">Bae_MF_2_11657</term>
+            <term type="pos" xml:id="Bae_REG_Org_1001">Bae_TB_7_5918</term>
+            <term type="pos" xml:id="Bae_REG_Org_1002">Bae_TB_7_9307</term>
+            <term type="pos" xml:id="Bae_REG_Org_1003">Bae_TB_7_11533</term>
+            <term type="pos" xml:id="Bae_REG_Org_1004">Bae_TB_7_11550</term>
+            <term type="pos" xml:id="Bae_REG_Org_1005">Bae_TB_7_11575</term>
+            <term type="pos" xml:id="Bae_REG_Org_1006">Bae_TB_7_12714</term>
+            <term type="pos" xml:id="Bae_REG_Org_1007">Bae_TB_7_13164</term>
+            <term type="pos" xml:id="Bae_REG_Org_1008">Bae_TB_7_13168</term>
+            <term type="pos" xml:id="Bae_REG_Org_1009">Bae_TB_7_13172</term>
+            <term type="pos" xml:id="Bae_REG_Org_1010">Bae_TB_7_13232</term>
+            <term type="pos" xml:id="Bae_REG_Org_1011">Bae_TB_7_13352</term>
+            <term type="pos" xml:id="Bae_REG_Org_1012">Bae_TB_7_13379</term>
+            <term type="pos" xml:id="Bae_REG_Org_1013">Bae_MF_6-1_2386</term>
+            <term type="pos" xml:id="Bae_REG_Org_1014">Bae_MF_6-1_4095</term>
+            <term type="pos" xml:id="Bae_REG_Org_1015">Bae_MF_6-1_5220</term>
+            <term type="pos" xml:id="Bae_REG_Org_1016">Bae_MF_6-1_5228</term>
+            <term type="pos" xml:id="Bae_REG_Org_1017">Bae_MF_6-1_5236</term>
+            <term type="pos" xml:id="Bae_REG_Org_1018">Bae_MF_6-2_1808</term>
+            <term type="pos" xml:id="Bae_REG_Org_1019">Bae_MF_6-2_3675</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1020">
+            <term type="key" xml:id="Bae_REG_Org_1021">Reichswehr</term>
+            <term type="name" xml:id="Bae_REG_Org_1022"/>
+            <term type="pid" xml:id="Bae_REG_Org_1023">Reichswehr</term>
+            <term type="pos" xml:id="Bae_REG_Org_1024">Bae_MF_1_5942</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1025">
+            <term type="key" xml:id="Bae_REG_Org_1026">Ruthenenklub</term>
+            <term type="name" xml:id="Bae_REG_Org_1027"/>
+            <term type="pid" xml:id="Bae_REG_Org_1028">Ruthenenklub</term>
+            <term type="pos" xml:id="Bae_REG_Org_1029">Bae_MF_1_3036</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1030">
+            <term type="key" xml:id="Bae_REG_Org_1031">SanPaolo</term>
+            <term type="name" xml:id="Bae_REG_Org_1032">https://d-nb.info/gnd/4637768-2</term>
+            <term type="pid" xml:id="Bae_REG_Org_1033">SanPaolo</term>
+            <term type="pos" xml:id="Bae_REG_Org_1034">Bae_MF_1_3794</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1035">
+            <term type="key" xml:id="Bae_REG_Org_1036">SantAmbrogio</term>
+            <term type="name" xml:id="Bae_REG_Org_1037"/>
+            <term type="pid" xml:id="Bae_REG_Org_1038">SantAmbrogio</term>
+            <term type="pos" xml:id="Bae_REG_Org_1039">Bae_MF_1_3904</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1040">
+            <term type="key" xml:id="Bae_REG_Org_1041">SchoenererAlldeutsche</term>
+            <term type="name" xml:id="Bae_REG_Org_1042">https://d-nb.info/gnd/3039149-0</term>
+            <term type="pid" xml:id="Bae_REG_Org_1043">SchoenererAlldeutsche</term>
+            <term type="pos" xml:id="Bae_REG_Org_1044">Bae_MF_1_970</term>
+            <term type="pos" xml:id="Bae_REG_Org_1045">Bae_TB_7_4014</term>
+            <term type="pos" xml:id="Bae_REG_Org_1046">Bae_TB_7_4045</term>
+            <term type="pos" xml:id="Bae_REG_Org_1047">Bae_TB_8_1715</term>
+            <term type="pos" xml:id="Bae_REG_Org_1048">Bae_TB_8_1732</term>
+            <term type="pos" xml:id="Bae_REG_Org_1049">Bae_TB_8_5080</term>
+            <term type="pos" xml:id="Bae_REG_Org_1050">Bae_TB_8_5381</term>
+            <term type="pos" xml:id="Bae_REG_Org_1051">Bae_MF_6-2_2645</term>
+            <term type="pos" xml:id="Bae_REG_Org_1052">Bae_MF_6-2_2752</term>
+            <term type="pos" xml:id="Bae_REG_Org_1053">Bae_MF_6-2_2774</term>
+            <term type="pos" xml:id="Bae_REG_Org_1054">Bae_MF_6-2_5454</term>
+            <term type="pos" xml:id="Bae_REG_Org_1055">Bae_MF_6-2_5637</term>
+            <term type="pos" xml:id="Bae_REG_Org_1056">Bae_MF_6-2_6092</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1057">
+            <term type="key" xml:id="Bae_REG_Org_1058">Seebehoerde</term>
+            <term type="name" xml:id="Bae_REG_Org_1059">https://d-nb.info/gnd/5509297-4</term>
+            <term type="pid" xml:id="Bae_REG_Org_1060">Seebehoerde</term>
+            <term type="pos" xml:id="Bae_REG_Org_1061">Bae_MF_2_2540</term>
+            <term type="pos" xml:id="Bae_REG_Org_1062">Bae_MF_2_2626</term>
+            <term type="pos" xml:id="Bae_REG_Org_1063">Bae_MF_2_2740</term>
+            <term type="pos" xml:id="Bae_REG_Org_1064">Bae_MF_2_3526</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1065">
+            <term type="key" xml:id="Bae_REG_Org_1066">Skupschtina</term>
+            <term type="name" xml:id="Bae_REG_Org_1067">https://d-nb.info/gnd/4375100-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_1068">Skupschtina</term>
+            <term type="pos" xml:id="Bae_REG_Org_1069">Bae_TB_7_4159</term>
+            <term type="pos" xml:id="Bae_REG_Org_1070">Bae_MF_6-1_968</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1071">
+            <term type="key" xml:id="Bae_REG_Org_1072">Slowenenklub</term>
+            <term type="name" xml:id="Bae_REG_Org_1073"/>
+            <term type="pid" xml:id="Bae_REG_Org_1074">Slowenenklub</term>
+            <term type="pos" xml:id="Bae_REG_Org_1075">Bae_MF_1_2359</term>
+            <term type="pos" xml:id="Bae_REG_Org_1076">Bae_MF_1_3024</term>
+            <term type="pos" xml:id="Bae_REG_Org_1077">Bae_MF_1_3028</term>
+            <term type="pos" xml:id="Bae_REG_Org_1078">Bae_MF_1_3032</term>
+            <term type="pos" xml:id="Bae_REG_Org_1079">Bae_MF_1_3062</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1080">
+            <term type="key" xml:id="Bae_REG_Org_1081">Sozialdemokraten</term>
+            <term type="name" xml:id="Bae_REG_Org_1082">https://d-nb.info/gnd/505671-8</term>
+            <term type="pid" xml:id="Bae_REG_Org_1083">Sozialdemokraten</term>
+            <term type="pos" xml:id="Bae_REG_Org_1084">Bae_MF_2_1889</term>
+            <term type="pos" xml:id="Bae_REG_Org_1085">Bae_MF_2_1904</term>
+            <term type="pos" xml:id="Bae_REG_Org_1086">Bae_TB_7_3993</term>
+            <term type="pos" xml:id="Bae_REG_Org_1087">Bae_TB_8_235</term>
+            <term type="pos" xml:id="Bae_REG_Org_1088">Bae_TB_8_1488</term>
+            <term type="pos" xml:id="Bae_REG_Org_1089">Bae_TB_8_1773</term>
+            <term type="pos" xml:id="Bae_REG_Org_1090">Bae_TB_8_4688</term>
+            <term type="pos" xml:id="Bae_REG_Org_1091">Bae_MF_6-2_1598</term>
+            <term type="pos" xml:id="Bae_REG_Org_1092">Bae_MF_6-2_1983</term>
+            <term type="pos" xml:id="Bae_REG_Org_1093">Bae_MF_6-2_2107</term>
+            <term type="pos" xml:id="Bae_REG_Org_1094">Bae_MF_6-2_2598</term>
+            <term type="pos" xml:id="Bae_REG_Org_1095">Bae_MF_6-2_2620</term>
+            <term type="pos" xml:id="Bae_REG_Org_1096">Bae_MF_6-2_4741</term>
+            <term type="pos" xml:id="Bae_REG_Org_1097">Bae_MF_6-2_4997</term>
+            <term type="pos" xml:id="Bae_REG_Org_1098">Bae_MF_6-2_5198</term>
+            <term type="pos" xml:id="Bae_REG_Org_1099">Bae_MF_6-2_5233</term>
+            <term type="pos" xml:id="Bae_REG_Org_1100">Bae_MF_6-2_6060</term>
+            <term type="pos" xml:id="Bae_REG_Org_1101">Bae_MF_6-2_6096</term>
+            <term type="pos" xml:id="Bae_REG_Org_1102">Bae_MF_6-2_6114</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1103">
+            <term type="key" xml:id="Bae_REG_Org_1104">Sprachenausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_1105"/>
+            <term type="pid" xml:id="Bae_REG_Org_1106">Sprachenausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_1107">Bae_MF_1_8143</term>
+            <term type="pos" xml:id="Bae_REG_Org_1108">Bae_MF_1_8151</term>
+            <term type="pos" xml:id="Bae_REG_Org_1109">Bae_MF_1_8283</term>
+            <term type="pos" xml:id="Bae_REG_Org_1110">Bae_MF_2_5130</term>
+            <term type="pos" xml:id="Bae_REG_Org_1111">Bae_MF_2_5145</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1112">
+            <term type="key" xml:id="Bae_REG_Org_1113">Staatsschuldenkontrollkommission</term>
+            <term type="name" xml:id="Bae_REG_Org_1114">https://d-nb.info/gnd/5054264-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_1115">Staatsschuldenkontrollkommission</term>
+            <term type="pos" xml:id="Bae_REG_Org_1116">Bae_MF_2_6348</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1117">
+            <term type="key" xml:id="Bae_REG_Org_1118">StatthaltereiBoehmen</term>
+            <term type="name" xml:id="Bae_REG_Org_1119">https://d-nb.info/gnd/5057353-6</term>
+            <term type="pid" xml:id="Bae_REG_Org_1120">StatthaltereiBoehmen</term>
+            <term type="pos" xml:id="Bae_REG_Org_1121">Bae_TB_7_3989</term>
+            <term type="pos" xml:id="Bae_REG_Org_1122">Bae_MF_6-1_861</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1123">
+            <term type="key" xml:id="Bae_REG_Org_1124">TschechenKlub</term>
+            <term type="name" xml:id="Bae_REG_Org_1125"/>
+            <term type="pid" xml:id="Bae_REG_Org_1126">TschechenKlub</term>
+            <term type="pos" xml:id="Bae_REG_Org_1127">Bae_MF_1_352</term>
+            <term type="pos" xml:id="Bae_REG_Org_1128">Bae_MF_1_598</term>
+            <term type="pos" xml:id="Bae_REG_Org_1129">Bae_MF_1_772</term>
+            <term type="pos" xml:id="Bae_REG_Org_1130">Bae_MF_1_998</term>
+            <term type="pos" xml:id="Bae_REG_Org_1131">Bae_MF_1_1041</term>
+            <term type="pos" xml:id="Bae_REG_Org_1132">Bae_MF_1_1396</term>
+            <term type="pos" xml:id="Bae_REG_Org_1133">Bae_MF_1_1400</term>
+            <term type="pos" xml:id="Bae_REG_Org_1134">Bae_MF_1_2178</term>
+            <term type="pos" xml:id="Bae_REG_Org_1135">Bae_MF_1_2310</term>
+            <term type="pos" xml:id="Bae_REG_Org_1136">Bae_MF_1_2622</term>
+            <term type="pos" xml:id="Bae_REG_Org_1137">Bae_MF_1_2971</term>
+            <term type="pos" xml:id="Bae_REG_Org_1138">Bae_MF_1_3070</term>
+            <term type="pos" xml:id="Bae_REG_Org_1139">Bae_MF_1_3090</term>
+            <term type="pos" xml:id="Bae_REG_Org_1140">Bae_MF_1_3243</term>
+            <term type="pos" xml:id="Bae_REG_Org_1141">Bae_MF_1_4080</term>
+            <term type="pos" xml:id="Bae_REG_Org_1142">Bae_MF_1_5514</term>
+            <term type="pos" xml:id="Bae_REG_Org_1143">Bae_MF_1_5544</term>
+            <term type="pos" xml:id="Bae_REG_Org_1144">Bae_MF_1_5841</term>
+            <term type="pos" xml:id="Bae_REG_Org_1145">Bae_MF_1_5869</term>
+            <term type="pos" xml:id="Bae_REG_Org_1146">Bae_MF_1_6363</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1147">
+            <term type="key" xml:id="Bae_REG_Org_1148">TschechischeKarlsUniversitaet</term>
+            <term type="name" xml:id="Bae_REG_Org_1149">https://d-nb.info/gnd/67240-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_1150">TschechischeKarlsUniversitaet</term>
+            <term type="pos" xml:id="Bae_REG_Org_1151">Bae_MF_6-2_2543</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1152">
+            <term type="key" xml:id="Bae_REG_Org_1153">Unabhaengigkeitspartei</term>
+            <term type="name" xml:id="Bae_REG_Org_1154"/>
+            <term type="pid" xml:id="Bae_REG_Org_1155">Unabhaengigkeitspartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_1156">Bae_MF_2_12052</term>
+            <term type="pos" xml:id="Bae_REG_Org_1157">Bae_TB_7_12220</term>
+            <term type="pos" xml:id="Bae_REG_Org_1158">Bae_TB_7_13567</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1159">
+            <term type="key" xml:id="Bae_REG_Org_1160">UngaroCroata</term>
+            <term type="name" xml:id="Bae_REG_Org_1161"/>
+            <term type="pid" xml:id="Bae_REG_Org_1162">UngaroCroata</term>
+            <term type="pos" xml:id="Bae_REG_Org_1163">Bae_MF_2_4334</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1164">
+            <term type="key" xml:id="Bae_REG_Org_1165">VereinfuerSocialpolitik</term>
+            <term type="name" xml:id="Bae_REG_Org_1166">https://d-nb.info/gnd/1012156-0</term>
+            <term type="pid" xml:id="Bae_REG_Org_1167">VereinfuerSocialpolitik</term>
+            <term type="pos" xml:id="Bae_REG_Org_1168">Bae_MF_6-1_1734</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1169">
+            <term type="key" xml:id="Bae_REG_Org_1170">VereinigteDeutscheLinke</term>
+            <term type="name" xml:id="Bae_REG_Org_1171">https://d-nb.info/gnd/1279124679</term>
+            <term type="pid" xml:id="Bae_REG_Org_1172">VereinigteDeutscheLinke</term>
+            <term type="pos" xml:id="Bae_REG_Org_1173">Bae_MF_1_1793</term>
+            <term type="pos" xml:id="Bae_REG_Org_1174">Bae_MF_1_4341</term>
+            <term type="pos" xml:id="Bae_REG_Org_1175">Bae_MF_1_4406</term>
+            <term type="pos" xml:id="Bae_REG_Org_1176">Bae_MF_1_4424</term>
+            <term type="pos" xml:id="Bae_REG_Org_1177">Bae_MF_1_4435</term>
+            <term type="pos" xml:id="Bae_REG_Org_1178">Bae_MF_1_4478</term>
+            <term type="pos" xml:id="Bae_REG_Org_1179">Bae_MF_6-2_980</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1180">
+            <term type="key" xml:id="Bae_REG_Org_1181">Verfassungspartei</term>
+            <term type="name" xml:id="Bae_REG_Org_1182"/>
+            <term type="pid" xml:id="Bae_REG_Org_1183">Verfassungspartei</term>
+            <term type="pos" xml:id="Bae_REG_Org_1184">Bae_MF_1_9341</term>
+            <term type="pos" xml:id="Bae_REG_Org_1185">Bae_MF_1_9357</term>
+            <term type="pos" xml:id="Bae_REG_Org_1186">Bae_MF_1_9406</term>
+            <term type="pos" xml:id="Bae_REG_Org_1187">Bae_MF_1_9410</term>
+            <term type="pos" xml:id="Bae_REG_Org_1188">Bae_MF_1_9456</term>
+            <term type="pos" xml:id="Bae_REG_Org_1189">Bae_TB_8_5606</term>
+            <term type="pos" xml:id="Bae_REG_Org_1190">Bae_TB_8_5636</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1191">
+            <term type="key" xml:id="Bae_REG_Org_1192">VerfassungstreuerGrossgrundbesitz</term>
+            <term type="name" xml:id="Bae_REG_Org_1193">https://d-nb.info/gnd/2120665-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_1194">VerfassungstreuerGrossgrundbesitz</term>
+            <term type="pos" xml:id="Bae_REG_Org_1195">Bae_TB_7_2825</term>
+            <term type="pos" xml:id="Bae_REG_Org_1196">Bae_TB_7_2900</term>
+            <term type="pos" xml:id="Bae_REG_Org_1197">Bae_TB_8_5052</term>
+            <term type="pos" xml:id="Bae_REG_Org_1198">Bae_TB_8_5153</term>
+            <term type="pos" xml:id="Bae_REG_Org_1199">Bae_TB_8_5459</term>
+            <term type="pos" xml:id="Bae_REG_Org_1200">Bae_MF_6-1_209</term>
+            <term type="pos" xml:id="Bae_REG_Org_1201">Bae_MF_6-1_262</term>
+            <term type="pos" xml:id="Bae_REG_Org_1202">Bae_MF_6-2_5433</term>
+            <term type="pos" xml:id="Bae_REG_Org_1203">Bae_MF_6-2_5470</term>
+            <term type="pos" xml:id="Bae_REG_Org_1204">Bae_MF_6-2_6347</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1205">
+            <term type="key" xml:id="Bae_REG_Org_1206">VerfassungstreuerGroßgrundbesitz</term>
+            <term type="name" xml:id="Bae_REG_Org_1207">https://d-nb.info/gnd/2120665-X</term>
+            <term type="pid" xml:id="Bae_REG_Org_1208">VerfassungstreuerGroßgrundbesitz</term>
+            <term type="pos" xml:id="Bae_REG_Org_1209">Bae_MF_1_137</term>
+            <term type="pos" xml:id="Bae_REG_Org_1210">Bae_MF_1_249</term>
+            <term type="pos" xml:id="Bae_REG_Org_1211">Bae_MF_1_1072</term>
+            <term type="pos" xml:id="Bae_REG_Org_1212">Bae_MF_1_1107</term>
+            <term type="pos" xml:id="Bae_REG_Org_1213">Bae_MF_1_1163</term>
+            <term type="pos" xml:id="Bae_REG_Org_1214">Bae_MF_1_1213</term>
+            <term type="pos" xml:id="Bae_REG_Org_1215">Bae_MF_1_1238</term>
+            <term type="pos" xml:id="Bae_REG_Org_1216">Bae_MF_1_1252</term>
+            <term type="pos" xml:id="Bae_REG_Org_1217">Bae_MF_1_1318</term>
+            <term type="pos" xml:id="Bae_REG_Org_1218">Bae_MF_1_1789</term>
+            <term type="pos" xml:id="Bae_REG_Org_1219">Bae_MF_1_2399</term>
+            <term type="pos" xml:id="Bae_REG_Org_1220">Bae_MF_1_2717</term>
+            <term type="pos" xml:id="Bae_REG_Org_1221">Bae_MF_1_2909</term>
+            <term type="pos" xml:id="Bae_REG_Org_1222">Bae_MF_1_2925</term>
+            <term type="pos" xml:id="Bae_REG_Org_1223">Bae_MF_1_3229</term>
+            <term type="pos" xml:id="Bae_REG_Org_1224">Bae_MF_1_5013</term>
+            <term type="pos" xml:id="Bae_REG_Org_1225">Bae_MF_1_5385</term>
+            <term type="pos" xml:id="Bae_REG_Org_1226">Bae_MF_1_7729</term>
+            <term type="pos" xml:id="Bae_REG_Org_1227">Bae_MF_1_7784</term>
+            <term type="pos" xml:id="Bae_REG_Org_1228">Bae_MF_1_7898</term>
+            <term type="pos" xml:id="Bae_REG_Org_1229">Bae_MF_1_8594</term>
+            <term type="pos" xml:id="Bae_REG_Org_1230">Bae_MF_1_9088</term>
+            <term type="pos" xml:id="Bae_REG_Org_1231">Bae_MF_1_9251</term>
+            <term type="pos" xml:id="Bae_REG_Org_1232">Bae_MF_1_9281</term>
+            <term type="pos" xml:id="Bae_REG_Org_1233">Bae_MF_1_9609</term>
+            <term type="pos" xml:id="Bae_REG_Org_1234">Bae_MF_1_9629</term>
+            <term type="pos" xml:id="Bae_REG_Org_1235">Bae_MF_1_10435</term>
+            <term type="pos" xml:id="Bae_REG_Org_1236">Bae_MF_2_927</term>
+            <term type="pos" xml:id="Bae_REG_Org_1237">Bae_MF_2_1149</term>
+            <term type="pos" xml:id="Bae_REG_Org_1238">Bae_MF_2_1273</term>
+            <term type="pos" xml:id="Bae_REG_Org_1239">Bae_MF_2_1277</term>
+            <term type="pos" xml:id="Bae_REG_Org_1240">Bae_MF_2_1285</term>
+            <term type="pos" xml:id="Bae_REG_Org_1241">Bae_MF_2_4894</term>
+            <term type="pos" xml:id="Bae_REG_Org_1242">Bae_MF_2_4925</term>
+            <term type="pos" xml:id="Bae_REG_Org_1243">Bae_MF_2_5976</term>
+            <term type="pos" xml:id="Bae_REG_Org_1244">Bae_MF_2_6121</term>
+            <term type="pos" xml:id="Bae_REG_Org_1245">Bae_MF_2_6454</term>
+            <term type="pos" xml:id="Bae_REG_Org_1246">Bae_MF_2_6571</term>
+            <term type="pos" xml:id="Bae_REG_Org_1247">Bae_MF_2_8101</term>
+            <term type="pos" xml:id="Bae_REG_Org_1248">Bae_MF_2_8821</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1249">
+            <term type="key" xml:id="Bae_REG_Org_1250">Verwaltungsgerichtshof</term>
+            <term type="name" xml:id="Bae_REG_Org_1251">https://d-nb.info/gnd/35887-3</term>
+            <term type="pid" xml:id="Bae_REG_Org_1252">Verwaltungsgerichtshof</term>
+            <term type="pos" xml:id="Bae_REG_Org_1253">Bae_TB_7_12272</term>
+            <term type="pos" xml:id="Bae_REG_Org_1254">Bae_MF_6-1_5663</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1255">
+            <term type="key" xml:id="Bae_REG_Org_1256">Wahlreformausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_1257"/>
+            <term type="pid" xml:id="Bae_REG_Org_1258">Wahlreformausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_1259">Bae_TB_8_4439</term>
+            <term type="pos" xml:id="Bae_REG_Org_1260">Bae_MF_6-2_1153</term>
+            <term type="pos" xml:id="Bae_REG_Org_1261">Bae_MF_6-2_1193</term>
+            <term type="pos" xml:id="Bae_REG_Org_1262">Bae_MF_6-2_4285</term>
+            <term type="pos" xml:id="Bae_REG_Org_1263">Bae_MF_6-2_4856</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1264">
+            <term type="key" xml:id="Bae_REG_Org_1265">WienerMusikverein</term>
+            <term type="name" xml:id="Bae_REG_Org_1266">https://d-nb.info/gnd/4580165-4</term>
+            <term type="pid" xml:id="Bae_REG_Org_1267">WienerMusikverein</term>
+            <term type="pos" xml:id="Bae_REG_Org_1268">Bae_MF_1_4270</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1269">
+            <term type="key" xml:id="Bae_REG_Org_1270">WienerZeitung</term>
+            <term type="name" xml:id="Bae_REG_Org_1271">https://d-nb.info/010380698</term>
+            <term type="pid" xml:id="Bae_REG_Org_1272">WienerZeitung</term>
+            <term type="pos" xml:id="Bae_REG_Org_1273">Bae_TB_7_1399</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1274">
+            <term type="key" xml:id="Bae_REG_Org_1275">Zentrum</term>
+            <term type="name" xml:id="Bae_REG_Org_1276"/>
+            <term type="pid" xml:id="Bae_REG_Org_1277">Zentrum</term>
+            <term type="pos" xml:id="Bae_REG_Org_1278">Bae_TB_7_2549</term>
+          </item>
+          <item xml:id="Bae_REG_Org_1279">
+            <term type="key" xml:id="Bae_REG_Org_1280">Zollausschuss</term>
+            <term type="name" xml:id="Bae_REG_Org_1281"/>
+            <term type="pid" xml:id="Bae_REG_Org_1282">Zollausschuss</term>
+            <term type="pos" xml:id="Bae_REG_Org_1283">Bae_TB_7_5129</term>
+            <term type="pos" xml:id="Bae_REG_Org_1284">Bae_TB_7_5510</term>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>
