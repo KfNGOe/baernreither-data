@@ -28,6 +28,7 @@ jobs:
       - name: Deploy data to baernreither-app
         run: |
           git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git          
+          rm -r baernreither-app/data
           mkdir -p baernreither-app/data/img
           mkdir -p baernreither-app/data/tei/text
           mkdir -p baernreither-app/data/xlsx          
@@ -38,5 +39,15 @@ jobs:
           git config --global user.email "baernreither-app@github.io"
           git config --global user.name "KfNGOe"
           git add ./data
-          git commit -am "Deploy data" || echo "No changes to commit"
-          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main      
+          git commit -am "Deploy data to app repo" || echo "No changes to commit"
+          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main
+      - name: Cleanup
+        run: |          
+          rm -r data/tei/tei_toBuild/*          
+      - name: Commit files
+        run: |
+          git config --global user.email "baernreither-data@github.io"
+          git config --global user.name "KfNGOe"
+          git add data/tei/tei_toBuild         
+          git commit -m "Cleanup tei_toBuild" || echo "No changes to commit"
+          git push
