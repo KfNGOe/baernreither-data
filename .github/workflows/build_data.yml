@@ -27,8 +27,7 @@ jobs:
           dir data/tei/
       - name: Deploy data to baernreither-app
         run: |
-          git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git          
-          rm -r baernreither-app/data
+          git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git                    
           mkdir -p baernreither-app/data/img
           mkdir -p baernreither-app/data/tei/text
           mkdir -p baernreither-app/data/xlsx          
