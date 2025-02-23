@@ -32,7 +32,7 @@ jobs:
           mkdir -p baernreither-app/data/img
           mkdir -p baernreither-app/data/tei/text
           mkdir -p baernreither-app/data/xlsx          
-          cp -r data/tei/tei_toBuild/** baernreither-app/data/tei/text/
+          cp -r data/tei/tei_toBuild/*.xml baernreither-app/data/tei/text/
           cp -r data/xlsx/** baernreither-app/data/xlsx/
           cp -r data/img/** baernreither-app/data/img/
           cd baernreither-app
@@ -43,8 +43,8 @@ jobs:
           git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main
       - name: Cleanup
         run: |          
-          rm -r data/tei/tei_toBuild/*          
-      - name: Commit files
+          rm -r data/tei/tei_toBuild/*.xml         
+      - name: Redeploy to data repo
         run: |
           git config --global user.email "baernreither-data@github.io"
           git config --global user.name "KfNGOe"
