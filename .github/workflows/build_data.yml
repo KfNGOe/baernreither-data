@@ -30,10 +30,10 @@ jobs:
           git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git                    
           mkdir -p baernreither-app/data/img
           mkdir -p baernreither-app/data/tei/text
-          mkdir -p baernreither-app/data/xlsx          
-          cp -r data/tei/tei_toBuild/*.xml baernreither-app/data/tei/text/
-          cp -r data/xlsx/** baernreither-app/data/xlsx/
-          cp -r data/img/** baernreither-app/data/img/
+          mkdir -p baernreither-app/data/xlsx
+          find data/tei/tei_toBuild -name '*.xml' -exec cp -r {} baernreither-app/data/tei/text/ \;
+          find data/xlsx -type f -exec cp -r {} baernreither-app/data/xlsx/ \;
+          find data/img -type f -exec cp -r {} baernreither-app/data/img/ \;          
           cd baernreither-app
           git config --global user.email "baernreither-app@github.io"
           git config --global user.name "KfNGOe"
