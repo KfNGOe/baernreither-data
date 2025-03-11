@@ -407,10 +407,10 @@
           </app>
         </p>
         <!-- CA: hier eine Einfügung auf der anderen Seite, ist das mit dem 'doppelten' pb hier so korrekt ausgezeichnet? -->
-        <p xml:id="Bae_MF_1_308">
+        <p xml:id="Bae_MF_1_308"><anchor/>
           <pb facs="#F_K-11_Bae_MF_1_020" n="6" xml:id="Bae_MF_1_309"/>In der Besorgung der Parteigeschäfte war 
           <persName key="SchlesingerLudwig" ref="https://d-nb.info/gnd/138214379" xml:id="Bae_MF_1_310">Schlesinger</persName>, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der größten Gewissenhaftigkeit und sehr fleißig. Er arbeitete sich täglich durch einen Stoß Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instruktionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets, 
-          <app from="#" type="equal" xml:id="Bae_MF_1_311">
+          <app from="#Bae_TB_1_558" type="equal" xml:id="Bae_MF_1_311">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_312">In der Besorgung der Parteigeschäfte war Schlesinger, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der grössten Gewissenhaftigkeit u. sehr fleissig. Er arbeitete sich täglich durch einen Stoss Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instructionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_313"/>um einen 
@@ -748,9 +748,9 @@
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_577">Bezüglich meiner Person zeige ich an, dass ich am 12.-15. auf meinem Gute bin und dann vom 16.–20. in Tyrol sein werde. Am 22. habe ich meine Wahl in Eger. Charakteristisch ist die Antwort Badeni's die hier inliegt; es war ihm nicht zur rathen.</rdg>
           </app>
         </p>
-        <p xml:id="Bae_MF_1_578">Bis zum 
+        <p xml:id="Bae_MF_1_578"><anchor/>Bis zum 
           <date when="1897-03-22" xml:id="Bae_MF_1_579">22. März</date>, dem Tage der Wahlen im Großgrundbesitz, trat nun mitten in dem 
-          <app from="#" type="equal" xml:id="Bae_MF_1_580">
+          <app from="#Bae_TB_1_1082" type="equal" xml:id="Bae_MF_1_580">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_581">Bis zum 22. März, dem Tage der Wahlen im Grossgrundbesitz, trat nun mitten in dem</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_582"/>hitzigsten 
