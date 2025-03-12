@@ -76,7 +76,7 @@
       <div xml:id="Bae_TB_2_51">
         <p xml:id="Bae_TB_2_52">
           <anchor xml:id="Bae_TB_2_53"/>
-          <app from="#" type="missing" xml:id="Bae_TB_2_54">
+          <app from="#Bae_MF_1_2445" type="missing" xml:id="Bae_TB_2_54">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_55">Die Herbstsession 1897</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_56"/>
@@ -170,12 +170,12 @@
             </choice>
           </date> wirklich in Scene gesetzt wurden und zur Parlamentsrevolution geführt haben. 
           <persName key="KathreinTheodor" ref="https://d-nb.info/gnd/11903235X" xml:id="Bae_TB_2_121">Kathrein</persName> erzählte mir 
-          <app from="#" type="equal" xml:id="Bae_TB_2_122">
+          <app from="#Bae_MF_1_2449" type="equal" xml:id="Bae_TB_2_122">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_123">Die Herbstsession des österreichischen Reichsrats, die am 25. September 1897 begann und am 28. November ihren Abschluß fand, steht in den Annalen nicht nur unserer, sondern des Parlamentarismus überhaupt ohne Beispiel da. Fast in allen Parlamenten hat es Tage, Nächte gegeben, in denen der Streit in Sturm, Auflehnung und Repression ausartete, aber eine monatelange Steigerung der Leidenschaften, die bis zur tätlichen Gewalt, zum physischen Kampf der Parteien, zum Niederbruch aller Autorität führte – dies gesehen, erlebt und erduldet zu haben, war dem Hausevorbehalten, das Graf Badeni zu führen erklärt hatte. Man mag die Deutschen verurteilen, daß sie, die eigentliche Kulturnation Oesterreichs zu Mitteln gegriffen haben, welche die Auflösung des Parlaments bedeuten – man mag die Majorität verdammen, die skrupellos und frevelhaft alles verletzt hat, was Recht, Herkommen und Gesetz im Parlamente bedeutete – über diese Verteilung der Schuld wird Uebereinstimmung wohl nicht sobald hergestellt werden. Wie es aber möglich war, daß Regierung und Krone diesem Debacle des öffentlichen Lebens in Oesterreich wochen-, ja monatelang zusehen konnten, das wird zu den Unbegreiflichkeiten gehören, welche die Entwicklung, den Niedergang Oesterreichs begleiten. Von Badeni war nach seinem kopflosen Verhalten während des Sommers nichts anderes zu erwarten. Als ehrlicher Mann musste er nach dem Scheitern der Ausgleichsversuche im August sein Amt niederlegen, weil jedermann sich sagte, daß eine Wiedereröffnung des Reichsrates ohne vorherige Begleichung der Sprachenfrage nur zur Fortsetzung der Vorgänge der letzten Maitage führen müsse – alles bermehrt [!] und verschärft durch den Zündstoff, den der Sommer angehäuft hatte. Warum Graf Badeni trotzdem mit einer Art Fatalismus den Reichsrat am 25. September wiedereröffnete, darüber haben erst die letzten Tage insofern Licht verbreitet, als bekannt wurde, daß er schon damals jene Gewaltmaßregeln im Parlamente durchführen wollte, die dann Ende November wirklich in Szene gesetzt wurden und zur Parlamentsrevolution geführt haben. Kathrein erzählte mir</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_124"/>und 
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_2_125">Stürgkh</persName>
-          <app from="#" type="missing" xml:id="Bae_TB_2_126">
+          <app from="#Bae_MF_1_2490" type="missing" xml:id="Bae_TB_2_126">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_127"/>
           </app>
           <anchor xml:id="Bae_TB_2_128"/>, dass schon am 
@@ -191,7 +191,7 @@
           <index xml:id="Bae_TB_2_135">
             <term key="Polizeieinsatz" xml:id="Bae_TB_2_136">Polizeimasregeln</term>
           </index> gemacht wurde, dass er aber unbedingt abgelehnt habe. 
-          <app from="#" type="equal" xml:id="Bae_TB_2_137">
+          <app from="#Bae_MF_1_2493" type="equal" xml:id="Bae_TB_2_137">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_138">, daß schon am 16. September von Seite der Regierung ihm die Zumutung zur Anwendung der Polizeimaßregeln gemacht wurde, daß er aber unbedingt abgelehnt habe.</rdg>
           </app>
         </p>
@@ -268,11 +268,11 @@
             <expan xml:id="Bae_TB_2_193">und</expan>
           </choice> frug uns, wie er es anstellen solle, um dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_2_194">Kaiser</persName> reinen Wein über die Situation einschenken zu können. Wir fanden keinen Weg. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_195">
+          <app from="#Bae_MF_1_2500" type="missing" xml:id="Bae_TB_2_195">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_196"/>
           </app>
         </p>
-        <p xml:id="Bae_TB_2_197">Unsere 
+        <p xml:id="Bae_TB_2_197"><anchor/>Unsere 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_198">Vereinigung</orgName> war in diesen zwei parlamentarischen Monaten ( 
           <date when="1897-10" xml:id="Bae_TB_2_199">Oktober</date>, 
           <date when="1897-11" xml:id="Bae_TB_2_200">
@@ -281,11 +281,11 @@
               <expan xml:id="Bae_TB_2_203">November</expan>
             </choice>
           </date>) in einer sehr exponirten Stellung. Im Folgenden will ich chronologisch, aber doch nach den verschiedenen Beziehungen und Gegenständen gruppirt, den Cours skizziren, den wir eingehalten haben. Vielleicht werden unparteiische Beurteiler die riesige Schwierigkeit ermessen, eine Partei, die sich als gemässigte Staatspartei nichts vergeben durfte, in diesen unerhörten Stürmen durchzusteuern, ohne ihre natürliche Verbindung mit den deutschen Parteien zu zerreissen, aber zugleich ohne in Staatsfragen in ihr Fahrwasser zu gerathen, welches ein rein 
-          <app from="#" type="equal" xml:id="Bae_TB_2_204">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_205">Unsere Verteidigung war in diesen zwei parlamentarischen Monaten (Oktober, November) in einer sehr exponierten Stellung. Im Folgenden will ich chronologisch, aber doch nach den verschiedenen Beziehungen und Gegenständen gruppiert, den Kurs skizzieren, den wir eingehalten haben. Vielleicht werden unparteiische Beurteiler die riesige Schwierigkeit ermessen, eine Partei, die sich als gemäßigte Staatspartei nichts vergeben durfte, in diesen unerhörten Stürmen durchzusteuern, ohne ihre natürliche Verbindung mit den deutschen Parteien zu zerreissen, aber zugleich ohne in Staatsfragen in ihr Fahrwasser zu geraten, welches ein rein</rdg>
+          <app from="#Bae_MF_1_2503" type="equal" xml:id="Bae_TB_2_204">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_205">Unsere Vereinigung war in diesen zwei parlamentarischen Monaten (Oktober, November) in einer sehr exponierten Stellung. Im Folgenden will ich chronologisch, aber doch nach den verschiedenen Beziehungen und Gegenständen gruppiert, den Kurs skizzieren, den wir eingehalten haben. Vielleicht werden unparteiische Beurteiler die riesige Schwierigkeit ermessen, eine Partei, die sich als gemäßigte Staatspartei nichts vergeben durfte, in diesen unerhörten Stürmen durchzusteuern, ohne ihre natürliche Verbindung mit den deutschen Parteien zu zerreissen, aber zugleich ohne in Staatsfragen in ihr Fahrwasser zu geraten, welches ein rein</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_206"/>nationales geworden war. 
-          <app from="#" type="notEqual" xml:id="Bae_TB_2_207">
+          <app from="#Bae_MF_1_2507" type="notEqual" xml:id="Bae_TB_2_207">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_208">nationalistisches geworden war.</rdg>
           </app>
         </p>
@@ -295,7 +295,7 @@
         <head xml:id="Bae_TB_2_211">
           <hi rendition="#ul" xml:id="Bae_TB_2_212">I. Anfänge der Herbstsession 1897</hi>
         </head>
-        <app from="#" type="equal" xml:id="Bae_TB_2_213">
+        <app from="#Bae_MF_1_2513" type="equal" xml:id="Bae_TB_2_213">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_214">I. Anfänge der Herbstsession 1897</rdg>
         </app>
         <p xml:id="Bae_TB_2_215">
@@ -314,7 +314,7 @@
             </index>
           </index> war in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_2_225">Wien</placeName> alles versammelt. Besprechungen, Anfragen, Clubsitzungen folgten aufeinander. 
-          <app from="#" type="equal" xml:id="Bae_TB_2_226">
+          <app from="#Bae_MF_1_2517" type="equal" xml:id="Bae_TB_2_226">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_227">Schon am Tage vor der Eröffnung des Reichsrates war in Wien alles versammelt. Besprechungen, Anfragen, Klubsitzungen folgten auf einander.</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_228"/>Das Wesentlichste war 
@@ -338,20 +338,20 @@
           </index> auftreten, hielt im 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_243">Club</orgName> Ansprachen ohne dem Executivcomité früher etwas zu sagen, erregte aber damit nur Erstaunen und Misstrauen. Das Schlimmste für ihn und für uns war aber, dass er, von Absichten erfüllt, die wir nie ergründet haben, nicht mehr mit voller Offenheit gegenüber dem kleinen Kreis der leitenden Personen 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_244">unserer Partei</orgName> vorging, sondern über unsere Köpfe hinweg Beziehungen und Verhandlungen spann, die ihm dann selbst böse Verwicklungen eintrugen. Die Frictionen in unserem Kreise wurden dadurch immer grösser, meine fortgesetzten Bemühungen ihm zu halten, zu stützen, das gegen ihn immer stärker auftretende Misstrauen zu besiegen, kosteten mich unverhältnissmässig Mühe und Zeit. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_245">
+          <app from="#Bae_MF_1_2527" type="missing" xml:id="Bae_TB_2_245">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_246"/>
           </app>
         </p>
         <pb facs="#F_K4_Bae_TB_2-101" n="5v" xml:id="Bae_TB_2_247"/>
         <!-- Einklebung 2 Zeitungsartikel siehe unten -->
         <p xml:id="Bae_TB_2_248">
-          <pb facs="#F_K4_Bae_TB_2-101" n="6r" xml:id="Bae_TB_2_249"/>Im 
+          <pb facs="#F_K4_Bae_TB_2-101" n="6r" xml:id="Bae_TB_2_249"/><anchor/>Im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_250">Hause</orgName> war 
-          <app from="#" type="equal" xml:id="Bae_TB_2_251">
+          <app from="#Bae_MF_1_2530" type="equal" xml:id="Bae_TB_2_251">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_252">Im Hause war</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_253"/>natürlich 
-          <app from="#" type="missing" xml:id="Bae_TB_2_254">
+          <app from="#Bae_MF_1_2534" type="missing" xml:id="Bae_TB_2_254">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_255"/>
           </app>
           <anchor xml:id="Bae_TB_2_256"/>der Kampf gegen 
@@ -382,7 +382,7 @@
             </index>
           </index>, die 
           <persName key="KathreinTheodor" ref="https://d-nb.info/gnd/11903235X" xml:id="Bae_TB_2_275">Kathrein</persName> für eine Abendsitzung vorschlug. 
-          <app from="#" type="equal" xml:id="Bae_TB_2_276">
+          <app from="#Bae_MF_1_2537" type="equal" xml:id="Bae_TB_2_276">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_277">der Kampf gegen Badeni auf das Heftigste wieder ausgebrochen. Nur ein politisches Kind konnte etwas anderes erwarten oder den Versuch machen, die Wogen mit Worten oder Erklärungen einzudämmen. Die Polizeimaßregeln des Sommers, der Egerer Tag gab dem Feuer frische Nahrung. Ministeranklagen, Interpellationen, Anträge um die Wette! Die Präsidentenwahl ging verhältnismäßig glatt von statten. Damit war auch die Delegationswahl gesichert. Wir traten sowohl in der deutsch-böhmischen Besprechung für ein Kompromiß mit den Čechen ein – vergeblich! – als auch im Hause für die Vornahme der Wahl, die Kathrein für eine Abendsitzung vorschlug.</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_278"/>Die Unentschlossenheit 
@@ -449,7 +449,7 @@
                 <term key="Obstruktion" xml:id="Bae_TB_2_326"/>
               </index>
             </index> sich der Abstimmung zu enthalten, um nicht gegen die eigenen Stammesgenossen zu stimmen, hat in den deutschen Oppositionsgruppen große Verstimmung hervorgerufen. 
-            <app from="#" type="missing" xml:id="Bae_TB_2_327">
+            <app from="#Bae_MF_1_2560" type="missing" xml:id="Bae_TB_2_327">
               <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_328"/>
             </app>
           </p>
@@ -527,11 +527,11 @@
                 <abbr xml:id="Bae_TB_2_382">u.</abbr>
                 <expan xml:id="Bae_TB_2_383">und</expan>
               </choice> Reden 
-              <app from="#" type="equal" xml:id="Bae_TB_2_384">
+              <app from="#Bae_MF_1_2563" type="equal" xml:id="Bae_TB_2_384">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_385">Ausser der Konstitierung des Hauses, die Wahl in die Delegationen und die Wahl des Budgetausschusses sowie des Immunitätsausschusses kam nichts zu Stande. Die Notstandsanträge und Vorlagen der Regierung, durch die Elementarereignisse des Sommers hervorgerufen, war das einzig Geschäftliche, das erledigt wurde, weil alle Parteien für ihre Wähler ein lebhaftes Interesse an der baldigen Erledigung dieser Hilfsaktion hatten. Wer aber den Geist der im Hause herrschte, nicht nach diesen zufälligen Ansätzen zu einer wirklichen Tätigkeit beurteilte, sondern nur etwas tiefer blickte – dem musste es klar sein, daß von den Obstruktionsparteien alles angewendet werden würde, um die parlamentarische Maschine wieder vollständig zum Stillstande zu bringen. Badeni aber war nach den Delegationswahlen und der ersten Lesung der Notstandsangelegenheiten sichtlich der Ansicht, es werde gehen. Dasselbe Lächeln, dieselbe Zuversicht wie in seinen besten Tagen. Wir hatten aber keine Gelegenheit mehr ihn zu warnen, denn ausser Ludwigstorff, der sehr bald ausser Aktion trat, verkehrte niemand mit ihm. Er vergalt es uns durch allerhand üble Nachrede. Des Ernstes der Situation waren wir uns aber voll bewußt. Mehr und mehr brachte ich allen unsern Herren (mit wenigen Ausnahmen) die Ueberzeugung bei, daß es mit Badeni nicht mehr gehe, daß eine Lösung der Krise nur durch seine Entfernung vom Amte angebahnt werden könne und daß je eher das geschehen würde, desto besser für den Staat, für den Parlamentarismus und für das sich täglich mehr verbitternde Verhältnis der Parteien und Nationalitäten im Hause. Seither haben wir alles getan was uns möglich war, um den Fall Badenis zu beschleunigen. Gewiß haben wir durch unsere Haltung, unsere Erklärungen und Reden</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_386"/>Vieles 
-              <app from="#" type="missing" xml:id="Bae_TB_2_387">
+              <app from="#Bae_MF_1_2598" type="missing" xml:id="Bae_TB_2_387">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_388"/>
               </app>
               <anchor xml:id="Bae_TB_2_389"/>beigetragen, um ihn zu untergraben 
@@ -595,11 +595,11 @@
               <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_434">Dipauli's</persName> alle Anerkennung widerfahren lassen. Er hat in den Verhandlungen mit grosser Klugheit, mit einem klaren Ziel, 
               <del rendition="#s" xml:id="Bae_TB_2_435">mit</del>
               <add place="across" xml:id="Bae_TB_2_436">selbst mit einer Art</add> Loyalität gehandelt 
-              <app from="#" type="equal" xml:id="Bae_TB_2_437">
+              <app from="#Bae_MF_1_2601" type="equal" xml:id="Bae_TB_2_437">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_438">beigetragen, um ihn zu untergraben und seine unkluge, ratlose u. schwankende Haltung während dieser Herbstsession hätte jedenfalls seinen Sturz zur Folge gehabt; daß er aber schließlich über Nacht eintrat, daran war doch nur die tolle Idee: das Parlament durch die Polizei zu bändigen – schuld, die kopflos gefasst, brutal durchgefürt ihn blitzartig niederstreckte. Anfang Oktober natürlich konnte man den Gang der Sache noch nicht voraussehen, obwohl seit Beginn der Session von angeblich geplanten Gewaltmaßregeln gesprochen wurde. Wir gingen unbekümmert um alle die täglich wie Pilze aufschießenden Gerüchte an die Arbeit überall Verbündete für den Sturz des Ministeriums zu suchen, wohlgezielte Schläge gegen dasselbe vorzubereiten, um mitzuwirken unser Vaterland von diesen politischen Unholden zu befreien. Unser Augenmerk war vornehmlich auf die katholische Volkspartei gerichtet. Innerhalb derselben gährte es, wie wir wußten, die Tiroler waren unzufrieden und wollten von Badeni nichts mehr wissen. Kathrein machte gar kein Hehl daraus. Hier setzten wir – leider nur mit teilweisem Erfolge – unsere Hebel an. II. Unsere Verhandlungen mit Baron Dipauli. "Il ne faut jurer de rien" – diese Erfahrung macht man in der heutigen Politik auf Schritt und Tritt. Vor einem halben Jahre hatten wir uns – vielleicht etwas zu heftig und ostentativ – dagegen gewehrt in eine Majorität einzutreten, in der Dipauli mit den Seinen auch aufgenommen wäre, jetzt knüpften wir mit demselben Dipauli an und taten alles um uns näher zu kommen. Freilich von dem von mir so oft aufgestellten Dilemma: entweder auf liberaler Basis eine Allianz mit den liberalen Čechen – oder auf nationaler Basis eine Allianz mit den Deutschen auch wenn sie klerikal sind – blieb uns, wie die Dinge liegen nur die letztere Eventualität übrig und ich war daher ganz entschieden dafür zu trachten sie sofort so gut als möglich auszunützen. Ich muß Dipauli das Zeugniss ausstellen, daß er nicht einen Moment eine Nachwirkung unserer Haltung im Frühjahr gegen uns zur Schau trug. Auch er erblickte seinen Vorteil in einer Annäherung an uns und das genügte ihm mit fast italienischer gentilezza uns entgegenzukommen. Er hat seinen Plan, den wir lebhaft unterstützten, nicht durchzuführen vermocht. Seine Partei folgte ihm nicht und das Ganze endete, statt daß die katholische Volkspartei eine dominierende Stellung im Hause eingenommen hätte, mit ihrem innern Zerfall. Vielleicht ist in dieser Hinsicht noch nicht aller Tage Abend, aber schon heute muß man der Unermüdlichkeit, dem Scharfblick, dem Mut Dipaulis alle Anerkennung widerfahren lassen. Er hat in den Verhandlungen mit grosser Klugheit, mit einem klaren Ziel, selbst mit einer Art Loyalität gehandelt</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_439"/>nur 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_440">
+              <app from="#Bae_MF_1_2630" type="notEqual" xml:id="Bae_TB_2_440">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_441">und</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_442"/>hat ihn vielleicht manchmal sein lebhaftes 
@@ -717,11 +717,11 @@
             </p>
             <p xml:id="Bae_TB_2_528">Unter dem Gesichtspunkt einer möglichen Cooperation wurde auch von der Schulfrage gesprochen. 
               <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_2_529">Schwegel</persName> meinte dass wir auf diesem Punkte nicht doktrinär 
-              <app from="#" type="equal" xml:id="Bae_TB_2_530">
+              <app from="#Bae_MF_1_2633" type="equal" xml:id="Bae_TB_2_530">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_531">hat ihn vielleicht manchmal sein lebhaftes politisches Temperament zu weit fortgerissen und er hat im Laufe der Verhandlungen hie und da Situationen anticipiert, die er im Interesse seiner Partei und wohl auch seiner Ambitionen richtig konstruiert hatte, die zu verwirklichen er aber nicht imstande war, weil die Geistlichen und Bauern seiner Partei unter dem Einfluß Ebenhochs ihm zu folgen sich weigerten. Es ergab sich von selbst, dass Schwegel zunächst die ersten Fäden mit Dipauli anzuspinnen trachtete, weil er in seiner Nähe sitzend mit ihm in stetem Kontakt ist. Es war am 5. Oktober als Dipauli selbst zu Schwegel seine Ueberzeugung aussprach, daß es so nicht weitergehen könne, Badeni sei ein todter Mann. Sofort erwiderte Schwegel, daß es nur in der Hand Dipaulis und seiner Partei liege eine Wendung herbeizuführen, wenn dieselbe aus der Majorität ausscheiden und sich ganz selbständig stellen wollte. Dipauli zeigte aber sofort die Befürchtung, daß dann am Ende der verfassungstreue Großgrundbesitz in die Lücke einspringen und sich der Majorität anschließen würde. Schwegel konnte ihm leicht beliebige Garantien dafür anbieten, daß das sicher nicht geschehen werde. Tags darauf wurde das Gespräch fortgesetzt, von Seite Schwegels schon in Vollmacht unseres Exekutivkomitees. Dipauli, beruhigt darüber, daß wir nicht die Absicht haben, uns zu einem changement de decoration in der Majorität herzugeben, wagte sich sehr weit vor. Er meinte, daß Badeni nicht mehr imstande sein werde eine Verständigung herbeizufüren, er steure dem Absolutismus zu, verspreche viel, halte nichts. Seine Partei werde in der Ministeranklage über die Sprachenverordnung ebenfalls eine motivierte Tagesordnung beantragen, er sei entschlossen dem Kabinett das Ausgleichsprovisorium nicht zu bewilligen und aus der Majorität auszutreten. Aber was solle in der Zukunft geschehen? Könnte nicht eine Verständigung zwischen seiner Partei und dem verfassungstreuen Großgrundbesitz bewerkstelligt werden, welche mit den Polen die Grundlage einer neuen Koalition bilden könnte? Dieses Thema variierte er unter lebhaften Beschwerden gegen die radikalen Parteien. "Die Antisemiten untergraben uns den Boden geradeso wie Schönerer den Deutschen Parteien der Linken." Eine Revision der Wahlreform im Sinne der Wiederherstellung des Wahlrechtes der Landtage sei erwünscht. Schwegel antwortete auf die möglichen Dinge klar und bejahend auf die andern vorsichtig. Vor Allem betonte er immer wieder, daß Dipauli aus der Majorität austreten müsse, um eine neue Situation zu schaffen. An Stelle Badeni's müsste vorläufig ein Beamtenministerium treten, allenfalls mit Schönborn an der Spitze. Der Dipaulische Sprachenantrag müsse einem Permanenzausschusse zugewiesen werden und könne vielleicht der Ausgangspunkt einer Verständigungsaktion werden. Unter dem Gesichtspunkt einer möglichen Kooperation wurde auch von der Schulfrage gesprochen. Schwegel meinte, daß wir auf diesem Punkte nicht doktrinär</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_532"/>seien 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_533">
+              <app from="#Bae_MF_1_2692" type="notEqual" xml:id="Bae_TB_2_533">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_534">wären</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_535"/>
@@ -877,7 +877,7 @@
               <pb facs="#F_K4_Bae_TB_2-112" n="17r" xml:id="Bae_TB_2_651"/>gerade als wir hofften, sie durch unsere gemeinsamen Unterschriften ratificiren zu können. 
             </p>
             <p xml:id="Bae_TB_2_652">Der Gang der Verhandlungen hat in seinen Einzelheiten heute kein Interesse mehr. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_653">
+              <app from="#Bae_MF_1_2695" type="equal" xml:id="Bae_TB_2_653">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_654">und auch gewisse Erleichterungen aus wirtschaftlichen Gesichtspunkten für diskutabel halten, aber von der staatlichen Schulaufsicht ebenso wenig abgehen könnten als wir zugeben könnten, daß Geschichte und Naturwissenschaften in der früheren beschränkten Weise behandelt würden. Dipauli verwahrte sich, dass er kein Klerikaler sei; er sei nur konservativ und setze das bis zu einem gewissen Grade auch von uns voraus. Er identifiziere sich nicht mit dem Ebenhochischen Schulantrag. Die Aufsicht des Klerus über die Schule beanspruche er nicht, sondern nur den Religionsunterricht. Der rote Faden war immer: diese Regierung müsse beseitigt werden und die beiden schieden voneinander nachdem sie eine große Zahl wichtiger Berührungspunkte constatirt, andrerseits den Differenzpunkten geschickt ausgewichen waren. Die Frage der konfessionellen Schule war nicht berührt worden. Der Tag darauf – den 7. Oktober – zeigte es sich allerdings, daß Dipauli sich zu weit vorgewagt hatte. Er musste bekennen, daß sein Club "noch nicht" entschlossen sei aus der Majorität auszutreten. Er nehme nichts zurück von dem was er gesagt habe, aber die Aktion müsse aufgeschoben werden. Die von Schwegel tags vorher angeregte offizielle Besprechung zwischen mehreren Mitgliedern unserer sowie der katholischen Volkspartei, lehnte er ab, erklärte aber weitere private Diskussionen für erwünscht. Diese ruhten nun einige Zeit, es war uns aber klar, daß Dipauli die Situation für seine Partei und für sich um jeden Preis ausnützen wolle. Man sah ihn offen mit aller Welt unterhandeln, auch mit Badeni. Er entwickelte eine fieberhafte Tätigkeit und suchte jetzt offenbar für seinen Sprachenantrag auch auf der Rechten Propaganda zu machen. Am 16. Oktober rückte er sodann auch uns gegenüber mit dem Plane heraus, diesen seinen Antrag zum Ausgangspunkt einer Aktion zu machen. In seinen Ansichten war – offenbar in Folge seiner Konferenzen mit der Rechten und vor allem mit seinen Parteigenossen – insofern eine Wandlung eingetreten, als er nach wie vor auf die Beseitigung Badenis losarbeitete und seine eigene Ministerschaft nicht aus dem Auge verlor, den Stier aber nicht mehr bei den Hörnern packen wollte; ferner daß er von einer Verweigerung des Ausgleichsprovisoriums nicht mehr sprach, sondern im Gegenteil von der Staatsnotwendigkeit es zu bewilligen. Die Verhandlungen mit Dipauli bewegten sich in diesen Tagen in der Form, daß zunächst wir, d.h. unser Exekutivkomitee mit ihm zusammen saßen. Dann übernahmen wir es, die andern deutschen Parteien für die Sache zu gewinnen. Ueber unsere Einladung kamen wir daher mit der Fortschrittspartei (Funke, Pergelt, Gross) sowie mit der deutschen Volkspartei (Steinwender, Kaiser, Hoffmann von Wellenhof) zusammen und zwar teils mit diesen Herrn allein, teils unter Zuziehung Dipaulis selbst. Anfangs herrschte natürlich großes Mißtrauen, aber wir waren bemüht alle Beteiligten zu veranlassen sich offen auszusprechen und da Dipauli trotz seiner Schwankungen, die durch seine Verbindung mit der Majorität und den Antagonisten seines eigenen Clubs erklärlich waren – mit einer gewissen Loyalität und Offenheit vorging, sehr geschickt im Formulieren seiner Anträge war, sehr rasch in der Auffassung der Meinungen anderer und auch geneigt ihnen Rechnung zu tragen, so gestalteten sich diese Besprechungen sehr ernst und eindringlich. Bei weitem politischer fasste die deutsche Volkspartei diese ganze Sache auf als die Fortschrittspartei, die, wie immer widerstrebend und doktrinär war. Nur Steinwender bewegte sich auch wieder im Zickzack. Er sah wohl ein, daß es einen großen Umschwung geben würde, wenn es in der Tat gelänge, Dipauli von der Majorität zu trennen und zu konstatiren, daß es keine Majorität mehr im Hause gebe – da aber der Zug der ganzen Sache dahin ging, Badeni zu beseitigen, was ihm doch eigentlich nicht recht schien, so machte er sonst unerklärliche Diversionen. Wir haben es an den äussersten Bemühungen nicht fehlen lassen, um zu einem Resultat zu gelangen. Wir waren nahe am Ziel, aber Badeni, das Exekutivkomitee der Rechten und insbesondere die Partei Ebenhoch in der katholischen Volkspartei durchkreuzten die Sache gerade als wir hofften, sie durch unsere gemeinsamen Unterschriften ratifizieren zu können. Der Gang der Verhandlungen hat in seinen Einzelheiten heute kein Interesse mehr.</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_655"/>Ich will daher im Folgenden nur die einzelnen Gesichtspunkte, die im Vordergrund der Diskussion standen, kurz skizziren. 
@@ -919,15 +919,15 @@
                 <abbr xml:id="Bae_TB_2_683">u.</abbr>
                 <expan xml:id="Bae_TB_2_684">und</expan>
               </choice> den Patriotismus diese Stellung auszunützen. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_685">
+              <app from="#Bae_MF_1_2759" type="missing" xml:id="Bae_TB_2_685">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_686"/>
               </app>
               <anchor xml:id="Bae_TB_2_687"/>Es 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_688">
+              <app from="Bae_MF_1_2762#" type="notEqual" xml:id="Bae_TB_2_688">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_689">Bei Dipauli</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_690"/>war ein guter, gerechter Zug in dem was er wollte 
-              <app from="#" type="equal" xml:id="Bae_TB_2_691">
+              <app from="#Bae_MF_1_2766" type="equal" xml:id="Bae_TB_2_691">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_692">war ein guter, gerechter Zug in dem was er wollte</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_693"/>
@@ -935,14 +935,14 @@
                 <abbr xml:id="Bae_TB_2_695">u.</abbr>
                 <expan xml:id="Bae_TB_2_696">und</expan>
               </choice> deswegen schlossen wir uns ihm an. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_697">
+              <app from="#Bae_MF_1_2769" type="missing" xml:id="Bae_TB_2_697">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_698"/>
               </app>
             </p>
             <p xml:id="Bae_TB_2_699">
               <anchor xml:id="Bae_TB_2_700"/>
               <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_701">Dipauli</persName>
-              <app from="#" type="notequal" xml:id="Bae_TB_2_702">
+              <app from="#Bae_MF_1_2772" type="notequal" xml:id="Bae_TB_2_702">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_703">Er</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_704"/>wollte für seinen 
@@ -1040,7 +1040,7 @@
                   <term key="Ausgleichsprovisorium" xml:id="Bae_TB_2_768"/>
                 </index>
               </index>. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_769">
+              <app from="#Bae_MF_1_2775" type="equal" xml:id="Bae_TB_2_769">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_770">wollte für seinen Sprachenantrag vor allen andern Dringlichkeitsanträgen die Priorität haben, wiewohl er in der langen Reihe der Dringlichkeitsanträge ziemlich weit rückwärts stand. Seine offen ausgesprochene Meinung war in dem Sprachenausschuß doch vielleicht einen modus vivendi herstellen zu können. Dann wäre er mit Recht als der Retter der Situation da gestanden. Nebenbei hat er aber gewiß den Gedanken gehabt, daß möglicherweise Badeni gerade durch die Verhandlungen dieses Ausschusses zu Fall gebracht werden könnte, wenn sich nämlich bei sachlicher Erörterung seine vollständige Impotenz gezeigt hätte. Das Exekutivkomitee der Rechten einerseits, die deutschen Parteien anderseits nahmen zu dieser Idee ganz verschiedenen Standpunkt ein. Die Rechte wollte für die Zuweisung des Dipaulischen Antrages an einen Ausschuß zwar stimmen, weigerte sich aber, dasselbe bezüglich aller anderen Sprachenanträge zu tun, die von deutscher Seite (auch von Schönerer) ausgegangen waren, eine Forderung auf der wiederum die Deutschen umso hartnäckiger bestanden als eine Reihe ihrer Anträge früher eingebracht war als der Antrag Dipauli und sie dem letzteren die ausschließliche Führung in der Sache nicht einräumen wollten. Ganz kategorisch forderte aber das Exekutivkomitee der Rechten, daß vor der Verhandlung des Dipaulischen Antrages das Ausgleichsprovisorium die erste Lesung im Hause passiert haben müsse. Dem entgegen betrachteten die deutschen Parteien den ganzen Plan nur vom Standpunkt der Obstruktion. Sie hofften durch die Verhandlungen über Dipaulis Antrag ein neues Material für die Obstruktion zu erhalten und perhorreszierten natürlich ebenso entschieden die vorherige erste Lesung des Ausgleichsprovisoriums.</rdg>
               </app>
             </p>
@@ -1212,7 +1212,7 @@
                   <term key="Sprachenantrag" xml:id="Bae_TB_2_885"/>
                 </index>
               </index> frei stehe. 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_886">
+              <app from="#Bae_MF_1_2839" type="notEqual" xml:id="Bae_TB_2_886">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_887">Wir kamen soweit, daß ich am 21. Oktober den Entwurf eines Uebereinkommens zwischen Dipauli und den deutschen Parteien vorzulegen in der Lage war, welcher die einzelnen Punkte des abzuschließenden Paktes zusammenfasste.</rdg>
               </app>
             </p>
@@ -1227,15 +1227,15 @@
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_894">Grafen Badeni</persName>
               <hi rendition="#ul" xml:id="Bae_TB_2_895">überleben</hi> konnte – doch vielleicht, geleitet von einer geschickten, gerechten, unpräjudicirten Regierung die Anfänge einer Lösung der Sprachenschwierigkeiten gelegt werden könnten. Dann aber wäre die ins Auge gefasste Reihenfolge von Verhandlungsgegenständen das einzige Mittel gewesen das 
               <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_896">Haus</orgName> wieder zu sachlichen 
-              <app from="#" type="equal" xml:id="Bae_TB_2_897">
+              <app from="#Bae_MF_1_2843" type="equal" xml:id="Bae_TB_2_897">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_898">Unser Ziel bei der ganzen Sache war ein doppeltes. Mit geringer Wahrscheinlichkeit, ohne sie aber ganz aufzugeben, dachten wir, daß in dem Sprachenausschuß, der permanent gedacht war und daher die Regierung des Grafen Badeni überleben konnte – doch vielleicht, geleitet von einer geschickten, gerechten, unpräjudizierten Regierung die Anfänge einer Lösung der Sprachenschwierigkeiten gelegt werden könnten. Dann aber wäre die ins Auge gefasste Reihenfolge von Verhandlungsgegenständen das einzige Mittel gewesen das Haus wieder zu sachlichen</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_899"/>, wenn auch voraussichtlich erregten 
-              <app from="#" type="missing" xml:id="Bae_TB_2_900">
+              <app from="#Bae_MF_1_2851" type="missing" xml:id="Bae_TB_2_900">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_901"/>
               </app>
               <anchor xml:id="Bae_TB_2_902"/>Debatten zu veranlassen. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_903">
+              <app from="#Bae_MF_1_2854" type="equal" xml:id="Bae_TB_2_903">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_904">Debatten zu veranlassen.</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_905"/>Wäre der entworfene Pakt 
@@ -1274,7 +1274,7 @@
                 <expan xml:id="Bae_TB_2_929">und</expan>
               </choice> die letzten Faktoren verhinderten desswegen den ganzen 
               <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_930">Dipauli'schen</persName> Plan). 
-              <app from="#" type="missing" xml:id="Bae_TB_2_931">
+              <app from="#Bae_MF_1_2857" type="missing" xml:id="Bae_TB_2_931">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_932"/>
               </app>
             </p>
@@ -1282,7 +1282,7 @@
             <p xml:id="Bae_TB_2_934">
               <anchor xml:id="Bae_TB_2_935"/>Zur Unterzeichnung des Uebereinkommens kam es nicht. Einzelne Details des Entwurfes wurden von den deutschen Parteien benörgelt, 
               <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_936">Dipauli</persName> wollte sich ohne Zustimmung des Exekutivcomité's nicht definitiv binden. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_937">
+              <app from="#Bae_MF_1_2861" type="equal" xml:id="Bae_TB_2_937">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_938">Zur Unterzeichnung des Uebereinkommens kam es nicht. Einzelne Details des Entwurfes wurden von den deutschen Parteien benörgelt, Dipauli wollte sich ohne Zustimmung des Exekutivkomitees nicht definitiv binden.</rdg>
               </app>
             </p>
@@ -1344,7 +1344,7 @@
             </p>
             <p xml:id="Bae_TB_2_978">Die deutschen Parteien lehnten so kategorisch ab, dass wir es nicht für opportun fanden, den Versuch zu machen sie umzustimmen. 
               <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_979">Dipauli</persName> brach ab, sichtlich betrübt. Wir schieden in besten Formen, erklärten den Faden nicht für abgerissen. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_980">
+              <app from="#Bae_MF_1_2865" type="missing" xml:id="Bae_TB_2_980">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_981"/>
               </app>
             </p>
@@ -1364,11 +1364,11 @@
               <!-- DC Einklebung Zeitungsausschnitt siehe unten -->
               <pb facs="#F_K4_Bae_TB_2-117" n="22r" xml:id="Bae_TB_2_993"/>
               <persName key="EbenhochAlfred" ref="https://d-nb.info/gnd/132867745" xml:id="Bae_TB_2_994">Ebenhoch</persName>
-              <app from="#" type="equal" xml:id="Bae_TB_2_995">
+              <app from="#Bae_MF_1_2869" type="equal" xml:id="Bae_TB_2_995">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_996">Unsere Absicht Dipauli durch diese Sache aus der Majorität auszulösen war also mißlungen. In den nächsten Tagen und Wochen wurde es ganz klar, daß Badeni und Ebenhoch</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_997"/>durch ihn 
-              <app from="#" type="missing" xml:id="Bae_TB_2_998">
+              <app from="#Bae_MF_1_2875" type="missing" xml:id="Bae_TB_2_998">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_999"/>
               </app>
               <anchor xml:id="Bae_TB_2_1000"/>diesem Plan systematisch entgegengewirkt hatten. 
@@ -1403,7 +1403,7 @@
                   <expan xml:id="Bae_TB_2_1023">katholischen</expan>
                 </choice> Volkspartei 
               </orgName> trennte sich bei der Abstimmung, so dass die Regierung mit 6 Stimmen Siegerin blieb. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1024">
+              <app from="#Bae_MF_1_2878" type="equal" xml:id="Bae_TB_2_1024">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1025">diesem Plan systematisch entgegengewirkt hatten. Dipauli war nicht nur beim Exekutivkomitee der Rechten ganz abgefallen, sondern auch sein Klub ließ ihn im Stich. Nur die Tiroler hielten zu ihm. Trotzdem hätte diese Diversion bei der Abstimmung über die Ministeranklage wegen der Sprachenverordnungen zur Folge gehabt, daß das Ministerium mit der einfachen Tagesordnung in der Minorität geblieben wäre, wenn nicht wie so oft in der Politik ein Zufall auch diese Frucht unserer Arbeit geraubt hätte. Dipauli erkrankte nicht unbedenklich, sein persönlicher Einfluß war entzogen, Ebenhoch, Karlon hatten freies Feld und nur ein kleiner Teil der katholischen Volkspartei trennte sich bei der Abstimmung, so daß die Regierung mit 6 Stimmen Siegerin blieb.</rdg>
               </app>
             </p>
@@ -1461,7 +1461,7 @@
               <pb facs="#F_K4_Bae_TB_2-118" n="23r" xml:id="Bae_TB_2_1061"/>Politiker, die anfangen auf dem rechten Weg zu wandeln. Vorläufig geringer Erfolg. 
               <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_2_1062">Wolf</persName> beschimpfte die Tyroler Clerikalen bei einem Parteifest in 
               <placeName key="Bozen" ref="https://www.geonames.org/6535953/bolzano-bozen.html" xml:id="Bae_TB_2_1063">Bozen</placeName> ganz sinnlos. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_1064">
+              <app from="#Bae_MF_1_2895" type="missing" xml:id="Bae_TB_2_1064">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1065"/>
               </app>
             </p>
@@ -1582,11 +1582,11 @@
                 <expan xml:id="Bae_TB_2_1146">und</expan>
               </choice>
               <persName key="HalbanHeinrich" ref="https://d-nb.info/gnd/116208848" xml:id="Bae_TB_2_1147">Halban</persName> erhobenen Kopfes 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1148">
+              <app from="#Bae_MF_1_2900" type="equal" xml:id="Bae_TB_2_1148">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1149">III. Die Ministeranklagen. Abgesehen von den Notstandssachen bildeten die Ministeranklagen während des ganzen Monats Oktober und eines großen Teil des November ausschließliches Verhandlungsthema, d.h. soweit nicht Obstruktionsabstimmungen und durch die Obstruktion herbeigeführte Zwischenfälle eine eigentliche Verhandlung überhaupt aufkommen ließ, was nur in Intervallen der Fall war. Diese Ministeranklagen waren nichts anderes als die plumpe Wiederholung derselben Vorgänge im Frühjahre. Nur hatte die Regierung durch ihre unbegreifliche Haltung während des Sommers solchen Dingen neue Nahrung gegeben. Juristisch und staatsrechtlich waren diese Anklagen eigentlich gar nicht fundiert, aber die Form durch Anklagen Fehler der Regierung zur Sprache zu bringen diente nicht nur den deutschen Parteien dazu gewisse Vorgänge des Sommers zur Sprache zu bringen, sondern hauptsächlich ihren Zwecken der Obstruktion. Schon im Oktober war es daher jedem etwas Weiterblickenden klar, daß das eigentliche Kampfobjekt das Ausgleichsprovisorium sei und daß der ganze strategische Aufmarsch der Opposition dieser Vorlage der Regierung gelte. Mit einem Fatalismus ohne Gleichen ließ die Regierung den Dingen ihren Lauf. Badeni mußte sich schon im Oktober klar sein, daß er entweder mit der Opposition einen Vergleich zu Stande bringen oder das Feld räumen müsse, damit einem Nachfolger noch die Zeit übrig bleibe, das Provisorium verfassungsmäßig bis 1.I.98 zu Stande zu bringen. Das was er tat, war va banque. Die Chancen für die Regierung wechselten natürlich. Hatte die Obstruktion irgend eine Schlappe erlitten, ging Badeni und Halban erhobenen Kopfes</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1150"/>einher; 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_1151">
+              <app from="#Bae_MF_1_2964" type="notEqual" xml:id="Bae_TB_2_1151">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1152">umher; </rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1153"/>dann gab es wieder Tage wo man sehr lange Gesichter auf der Regierungsbank sah. Von Tag zu Tag stieg die Leidenschaft 
@@ -1595,15 +1595,15 @@
                 <expan xml:id="Bae_TB_2_1156">und</expan>
               </choice> Verbitterung auf beiden Seiten. Wie schwer unsere Situation als 
               <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1157">gemässigte Partei</orgName>
-              <app from="#" type="equal" xml:id="Bae_TB_2_1158">
+              <app from="#Bae_MF_1_2967" type="equal" xml:id="Bae_TB_2_1158">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1159">dann gab es wieder Tage, wo man sehr lange Gesichter auf der Regierungsbank sah. Von Tag zu Tag stieg die Leidenschaft und Verbitterung auf beiden Seiten. Wie schwer unsere Situation als gemäßigte Partei</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1160"/>von Tag zu Tag 
-              <app from="#" type="missing" xml:id="Bae_TB_2_1161">
+              <app from="#Bae_MF_1_2971" type="missing" xml:id="Bae_TB_2_1161">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1162"/>
               </app>
               <anchor xml:id="Bae_TB_2_1163"/>wurde, lässt sich leicht ermessen. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1164">
+              <app from="#Bae_MF_1_2974" type="equal" xml:id="Bae_TB_2_1164">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1165">wurde, lässt sich leicht ermessen.</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1166"/>Den 
@@ -1613,7 +1613,7 @@
                   <term key="Ministeranklagen" xml:id="Bae_TB_2_1170"/>
                 </index>
               </index>
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_1171">
+              <app from="#Bae_MF_1_2977" type="notEqual" xml:id="Bae_TB_2_1171">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1172">Der Ministeranklage</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1173"/>gegenüber nahmen wir dieselbe Stellung ein wie im Frühjahre, die motivirten Tagesordnungen, wobei wir die unbegründeten 
@@ -1633,7 +1633,7 @@
                   <term key="Ministeranklagen" xml:id="Bae_TB_2_1184"/>
                 </index>
               </index> zu Grunde lagen, selbständig zu nehmen. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1185">
+              <app from="#Bae_MF_1_2984" type="equal" xml:id="Bae_TB_2_1185">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1186">gegenüber nahmen wir dieselbe Stellung ein wie im Frühjahr, die motivierten Tagesordnungen, wobei wir die unbegründeten Anklagen nicht mitmachten, mit der Majorität für die einfache Tagesordnung aber nicht stimmten und überdies in jedem Falle Gelegenheit hatten Stellung zu den politischen Fragen, die den Anklagen zugrunde lagen, selbständig zu nehmen.</rdg>
               </app>
             </p>
@@ -1720,7 +1720,7 @@
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1247">Badeni's</persName> zur Sache beeinflussten etwas veränderten, nämlich bezüglich der Authenticität des Textes der Verordnung hypothetischen Form. 
             </p>
             <!-- DC Einklebung Zeitungsartikel 24v -->
-            <addSpan xml:id="Bae_TB_2_1248"/>
+            <addSpan xml:id="Bae_TB_2_1248"/><anchor/>
             <p xml:id="Bae_TB_2_1249">[handschriftlich]: Unsere Erklärung vom 
               <date when="1897-11-14" xml:id="Bae_TB_2_1250">14 Novbr.</date>
             </p>
@@ -1761,7 +1761,7 @@
               <persName key="HochenburgerViktor" ref="https://d-nb.info/gnd/117525596" xml:id="Bae_TB_2_1279">Dr. Hochenburger</persName> und Genossen, 
               <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_TB_2_1280">Schönerer</persName> und Genossen auf Versetzung bes 
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1281">Herrn Minister-Präsidenten Grafen Badeni</persName> in den Anklagestand zur Tagesordnung über." (Beifall links.) 
-              <app from="#" type="missing" xml:id="Bae_TB_2_1282">
+              <app from="#Bae_MF_1_2955" type="missing" xml:id="Bae_TB_2_1282">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1283"/>
               </app>
             </p>
@@ -1769,7 +1769,7 @@
             <p xml:id="Bae_TB_2_1284">
               <pb facs="#F_K4_Bae_TB_2-121" n="26r" xml:id="Bae_TB_2_1285"/>
               <anchor xml:id="Bae_TB_2_1286"/>
-              <app from="#" type="missing" xml:id="Bae_TB_2_1287">
+              <app from="#Bae_MF_1_2999" type="missing" xml:id="Bae_TB_2_1287">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1288">In dieser ganz kritischen Zeit hatte ich mit einem oder dem andern meiner aristokratischen Klubgenossen große Schwierigkeiten.</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1289"/>Es ist ganz falsch Verlässlichkeit 
@@ -1833,11 +1833,11 @@
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1332">Badeni's</persName> waren sehr schwach, nicht der leiseste Versuch das 
               <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_1333">Haus</orgName> aus seiner unheilvollen Bahn herauszureissen. Die übrigen Minister, besonders 
               <persName key="GleispachJohann" ref="https://d-nb.info/gnd/136541127" xml:id="Bae_TB_2_1334">Gleispach</persName> sah mit unbegreiflicher Stumpfheit den Ereignissen zu; seine höhnische 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1335">
+              <app from="#Bae_MF_1_3002" type="equal" xml:id="Bae_TB_2_1335">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1336">Es ist ganz falsch Verläßlichkeit und eine feste, sichere Haltung lediglich als Charaktereigenschaften anzusehen. Gewiß gibt es Charaktere, denen Schwanken und Unverläßlichkeit innewohnt. Häufig sind aber diese im Leben und in der Politik so unheilvollen Eigenschaften aber direkte Wirkungen der Urteilslosigkeit und der Abhängigkeit des Urteils von andern. Wer die Eindrücke, die er von Andern empfängt nicht, zu verarbeiten imstande ist, wer ihnen nichts entgegenzusetzen hat, sondern von rechts und links gedrängt, fremden Bewegungen folgt wie eine Billardkugel, der wird sich selbst in unbegreiflichen Linien bewegen und nicht nur den Eindruck der Ratlosigkeit, sondern sehr oft auch den der Unverläßlichkeit und Treulosigkeit machen. Kommt noch ein gewisser Eigendünkel dazu, der sich merkwürdigerweise trotz der innern, allerdings unbewußten Schwäche und Haltlosigkeit häufig dazugesellt, so macht so ein Mensch, der im Grunde nichts ist als ganz unzulänglich in seinem Urteil, den Eindruck einer illoyalen Unberechenbarkeit. Es ist fast unmöglich solche Menschen zu lenken. Jedes Urteil, das man ihnen beibringt, kann im nächsten Moment durch ein anderes aufgehoben werden und sind sie vollends gewissen gesellschaftlichen Vorurteilen unterworfen, ist alle Mühe der Überredung verschwendet. Die Reden, welche von den deutschen Parteien in dieser und den folgenden Ministeranklagen gehalten wurden, waren – mit einer einzigen Ausnahme, nämlich die Rede d'Elverts bei der Sprachenverordnungsanklage, herzlich unbedeutend. Die Inszenirung der Obstruktion machte den Herren soviel Mühe, daß sie sich auf eine Vorbereitung zum Reden gar nicht einlassen konnten. Die Rechte reagierte nur wenig, die Regierung so gut wie gar nicht. Die Erklärungen Badenis waren sehr schwach, nicht der leiseste Versuch das Haus aus seiner unheilvollen Bahn herauszureissen. Die übrigen Minister, besonders Gleispach sah mit unbegreiflicher Stumpfheit den Ereignissen zu; seine höhnische</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1337"/>, bäurische 
-              <app from="#" type="missing" xml:id="Bae_TB_2_1338">
+              <app from="#Bae_MF_1_3019" type="missing" xml:id="Bae_TB_2_1338">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1339"/>
               </app>
               <anchor xml:id="Bae_TB_2_1340"/>Sicherheit war aber dahin. Ich glaube aber trotzdem, dass sich in ihm nichts gerührt hat, das einer Erkenntniss seiner grossen Fehler ähnlich gewesen wäre. Schon damals im 
@@ -1850,7 +1850,7 @@
               <persName key="GuttenbergEmil" ref="https://d-nb.info/gnd/1011405415" xml:id="Bae_TB_2_1346">Guttenberg</persName> und etwa 
               <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_2_1347">Welsersheim</persName>, einer ostentativen Ignorirung von Seite aller deutschen Parteien verfallen. Besonders 
               <persName key="GleispachJohann" ref="https://d-nb.info/gnd/136541127" xml:id="Bae_TB_2_1348">Gleispach</persName> dürfte schon damals nur den Rücken der meisten Abgeordneten gesehen haben. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1349">
+              <app from="#Bae_MF_1_3022" type="equal" xml:id="Bae_TB_2_1349">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1350">Sicherheit war aber dahin. Ich glaube aber trotzdem, daß sich in ihm nichts gerührt hat, das einer Erkenntniss seiner großen Fehler ähnlich gewesen wäre. Schon damals im Oktober war das Ministerium persönlich, mit Ausnahme von Glanz und Guttenberg und etwa Welsersheim, einer ostentativen Ignorierung von Seite aller deutschen Parteien verfallen. Besonders Gleispach dürfte schon damals nur den Rücken der meisten Abgeordneten gesehen haben.</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1351"/>Auch wir hatten nach der Abreise 
@@ -1865,7 +1865,7 @@
                 <expan xml:id="Bae_TB_2_1358">und</expan>
               </choice>
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1359">Badeni</persName> abgebrochen. Die meisten grüssten gar nicht mehr. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_1360">
+              <app from="#Bae_MF_1_3030" type="missing" xml:id="Bae_TB_2_1360">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1361"/>
               </app>
             </p>
@@ -1881,13 +1881,13 @@
                 </index>
               </index> wegen der 
               <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1370">Egerer</placeName> Ereignisse alle Register gezogen wurden, ist selbstverständlich. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1371">
+              <app from="#Bae_MF_1_3033" type="equal" xml:id="Bae_TB_2_1371">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1372">Daß bei der Ministeranklage wegen der Egerer Ereignisse alle Register gezogen wurden, ist selbstverständlich.</rdg>
               </app>
             </p>
             <addSpan xml:id="Bae_TB_2_1373"/>
             <!-- Einklebung Zeitungsartikel fol. 27v, 28v, 29v -->
-            <p xml:id="Bae_TB_2_1374">[handschriftlich]: Unsere Erklärung zur 
+            <p xml:id="Bae_TB_2_1374"><anchor/>[handschriftlich]: Unsere Erklärung zur 
               <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1375">Egerer</placeName> Sache. [handschriftlich am linken Rand]: 
               <date when="1897-10-26" xml:id="Bae_TB_2_1376">26. Octbr 97</date>
             </p>
@@ -2232,7 +2232,7 @@
               <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_2_1620">Oesterreichs</placeName> um eine bestimmte Forderung zu schaaren. Der erbitterte und unabsehbare Kampf in dem Slaventhum kann ja doch nicht das Ziel und Ende unserer Politik sein; andererseits ist ein dauernder nationaler Friedensschluß zwischen zwei Parteien nur möglich, wenn sich zwei selbstbewußte einige nationale Parteien gegenüberstehen. Deßhalb sollen wir ruhig und ohne uns ablenken zu lassen, das Ziel verfolgen, allen maßgebenden Kreisen in 
               <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_2_1621">Oesterreich</placeName> die Ueberzeugung beizubringen, daß ohne einen klaren, entschiedenen Schritt des Entgegenkommens gegen die Deutschen kein Ausweg aus der heutigen Situation möglich ist. Wir sagen das ohne jede Feindseligkeit gegen die anderen Nationalitäten, wir sagen es nicht nur im pflichtgemäßen Ausdrucke unseres eigenen nationalen Fühlens, sondern weil wir glauben, daß auf diesem Wege allein auch dem Gedeihen, der Größe und der Einheit unseres 
               <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_2_1622">österreichischen Vaterlandes</placeName> gedient wäre. (Lebhafter Beifall und Händeklatschen links. Redner wird beglückwünscht.) 
-              <app from="#" type="missing" xml:id="Bae_TB_2_1623">
+              <app from="#Bae_MF_1_3041" type="missing" xml:id="Bae_TB_2_1623">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1624"/>
               </app>
             </p>
@@ -2292,11 +2292,11 @@
                 <abbr xml:id="Bae_TB_2_1663">u.</abbr>
                 <expan xml:id="Bae_TB_2_1664">und</expan>
               </choice> wiewol er noch sehr stolz darauf pochte, er werde seinen Platz nicht räumen, so klang doch seine 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1665">
+              <app from="#Bae_MF_1_3044" type="equal" xml:id="Bae_TB_2_1665">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1666">Unsere Erklärung die ich abgab, wurde als sehr scharf bezeichnet, was sie doch eigentlich nicht ist, weil sie den Schwerpunkt des Tadels darin findet, daß die Egerer verfehlte Politik der Regierung die Verständigung so sehr erschwert. Immer argumentiere ich auf eine Verständigung hinaus, freilich ganz aussichtslos in einer Zeit, in der aus jeder Kundgebung von Freund und Feind nur das polemische, kritische, nie das mildernde herausgehört wird. Auch die Zeitungen tragen das ihrige zu dieser alles zurückdrängenden Kampfesstimmung bei, indem sie bezeichnenderweise die Schärfen einer Rede durchschossen drucken, was bei der großen Oberflächlichkeit, mit der heute gelesen wird, seine Wirkung nicht verfehlt. Durch eine Sandwüste von namentlichen Abstimmungen wateten wir weiter. Es kam zur parallelen Behandlung des Ausgleichsprovisoriums und der noch ausstehenden Dinge. Endlich kam auch die meritorische Debatte über die Anklage wegen der Sprachenverordnungen daran, während im Budgetausschuss das Provisorium behandelt wurde. Durch die Ereignisse bei der ersten Lesung des Provisoriums war die Temperatur im Hause noch höher gestiegen. Zur allgemeinen Ueberraschung griff Badeni (12. November) gleich zu Beginn der Debatte mit dem Versuche ein, zu besänftigen und wiewohl er noch sehr stolz darauf pochte, er werde seinen Platz nicht räumen, so klang doch seine</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1667"/>ganze 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_1668">
+              <app from="#Bae_MF_1_3074" type="notEqual" xml:id="Bae_TB_2_1668">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1669">große</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1670"/>Rede wie ein Geständniss, dass eine Remedur notwendig sei 
@@ -2321,11 +2321,11 @@
                 </choice>
               </add> abgab. Dann kam 
               <persName key="KronawetterFerdinand" ref="https://d-nb.info/gnd/134206649" xml:id="Bae_TB_2_1686">Kronawetter</persName>. Während seiner Rede machte ich in 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1687">
+              <app from="#Bae_MF_1_3077" type="equal" xml:id="Bae_TB_2_1687">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1688">Rede wie ein Geständniss, daß eine Remedur notwendig sei und daß er bereit sei, eventuell eine solche vorzubereiten. Freilich war alles wieder nur sehr verschwommen gesagt, nichts Greifbares, keine Perspektive, die an sich irgend Vertrauen hätte erwecken können. Trotzdem musste ich meine vorbereitete Rede rasch etwas verschieben. Nach Badeni hatte Zallinger zu sprechen, den ich anhören musste, da er an Stelle Dipaulis für die katholische Volkspartei die Erklärungen zu ihrer motivierten Tagesordnung abgab. Dann kam Kronawetter. Während seiner Rede machte ich in</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1689"/>meinen 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_1690">
+              <app from="#Bae_MF_1_3085" type="notEqual" xml:id="Bae_TB_2_1690">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1691">meine</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1692"/>Notizen die notwendigen Einschaltungen, lies einiges aus 
@@ -2398,12 +2398,12 @@
               </choice> in den Wählerschaften. Das war bei 
               <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_1743">Dipauli</persName>, 
               <persName key="HuynRudolf" xml:id="Bae_TB_2_1744">Huyn</persName>, 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1745">
+              <app from="#Bae_MF_1_3088" type="equal" xml:id="Bae_TB_2_1745">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1746">Notizen die notwendigen Einschaltungen, ließ einiges aus und stimmte das Ganze auf den Tenor der Badenischen Erklärung. Es gelang mir, wie es scheint vollkommen, alles unversönliche zu vermeiden, trotzdem aber in meiner Kritik der ganzen gefährlichen politischen Situation den entschiedenen Ton zu treffen, den ich treffen wollte. Meine Rede wurde mit großer Aufmerksamkeit angehört und selbst Halban, der damals schon sehr nervös und besorgt um das Schicksal seines Herrn und Meisters herumging, sagte mir, ich hätte sehr klug gesprochen. Die Abstimmung über diese Ministeranklage gestaltete sich sehr spannend. In der katholischen Volkspartei lag die Entscheidung. Die Erkrankung Dipaulis machte unsere wochenlange Arbeit zunichte. Die Bauern brachen aus. Nur der alte Rammer blieb fest, ausser ihm die Tiroler. Karlon stimmte mit der Regierung und die oberösterreichischen und steirischen Bauern saßen beim Bier in der Restauration und lachten jeden höhnisch an, der sie erinnerte, daß drin für die deutsche Sache in Österreich abgestimmt werde. Vererbter und klubmässig entwickelter Parteihass ist doch das stärkste Element im öffentlichen Leben. Darin eine Änderung herbeizufüren, bedarf es entweder grosser politischer Umwälzungen oder greifbare, aber starke Vorteile für die Partei und den Einzelnen. Nur Weiterblickende wittern den möglichen Umschwung in der öffentlichen Meinung und in den Wählerschaften. Das war bei Dipauli, Huyn,</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1747"/>
               <persName key="KapfererMax" xml:id="Bae_TB_2_1748">Kapferer</persName>
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_1749">
+              <app from="#Bae_MF_1_3106" type="notEqual" xml:id="Bae_TB_2_1749">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1750">Kapfner</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1751"/>der Fall. Diese waren über die Haltung der ihrigen viel unglücklicher als wir. Der Sieg über die Regierung wäre 
@@ -2474,7 +2474,7 @@
                 <expan xml:id="Bae_TB_2_1797">und</expan>
               </choice> und es zeigt von einer unverzeihlichen Apathie der Kreise, die über dem 
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1798">Grafen Badeni</persName> stehend auch für das Wohl des Reiches zu sorgen haben – also vor Allem 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1799">
+              <app from="#Bae_MF_1_3110" type="equal" xml:id="Bae_TB_2_1799">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1800">der Fall. Diese waren über die Haltung der ihrigen viel unglücklicher als wir. Der Sieg über die Regierung wäre ein schöner Erfolg gewesen und hätte – das wichtigste – die Phrase "Majorität" im Hause zerstört, aber momentan hätte er nichts geändert, denn natürlich hätte auch der Anklageantrag nicht die Majorität erhalten. IV. Das Ausgleichsprovisorium. Mir ist heute nicht im Geringsten zweifelhaft, daß, wenn Badeni – wie ich ihm im Feber und März so oft sagte –, ohne einer Parlamentsmajorität nachzujagen, ohne die Sprachenverordnung zu erlassen, den Deutschen und Čechen gleich wohlwollend gegenüberstehend seine ganze Kraft dem Ausgleich gewidmet hätte, derselbe zustande gekommen wäre, wenn nicht, so doch ganz gewiß das Provisorium. Seit Wiedereröffnung des Reichsrats im Herbst schwand ja doch diese Hoffnung von Woche zu Woche und und es zeigt von einer unverzeihlichen Apathie der Kreise, die über dem Grafen Badeni stehend auch für das Wohl des Reiches zu sorgen haben – also vor Allem</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1801"/>der 
@@ -2484,7 +2484,7 @@
                   <expan xml:id="Bae_TB_2_1805">Minister</expan>
                 </choice> des Äussern 
               </persName>
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_1806">
+              <app from="#Bae_MF_1_3149" type="notEqual" xml:id="Bae_TB_2_1806">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1807">das Ministerium des Auessern</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_1808"/>– dass man den Dingen derartig seinen Lauf lies. 
@@ -2553,7 +2553,7 @@
               </index> auf regelmässigem Wege nicht durchzubringen sein werde. Wenn man bisher Alles was die Regierung verschuldet hatte auf Rechnung ihres Leichtsinns setzen will, von diesem Moment an konnte sie nur von dem Gedanken an Gewaltmaasregeln geleitet sein. 
             </p>
             <p xml:id="Bae_TB_2_1854">Im Ausschusse kam, weil die eine Seite die ganze Sache nur vom Standpunkt der Verschleppung behandelte, die andere nur vom Standpunkt der Abwehr dieser Tendenz die eigentliche Ausgleichsfrage in ihrer Bedeutung nicht zum Ausdruck. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_1855">
+              <app from="#Bae_MF_1_3153" type="equal" xml:id="Bae_TB_2_1855">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1856">– daß man den Dingen derartig seinen Lauf lies. An der ersten Lesung des Provisoriums beteiligten wir uns nicht. Bei der Abstimmung, wo es sich nur um den Ausschuss handelte, stimmten wir gar nicht, da die Meinungen im Klub über diese übrigens untergeordnete Frage sehr geteilt waren. Die Zuweisung selbst musste ja erfolgen nach der Geschäftsordnung, da es sich um eine Regierungsvorlage handelte. Die pièce de resistance im wahren Sinne des Wortes war bei dieser ersten Lesung die große Rede Lechers. Ihre eigentliche, zu wenig gewürdigte Bedeutung lag parlamentarisch darin, daß durch dieselbe die Obstruktion, die zuletzt nur eine formelle war und durch die fortwährenden namentlichen Abstimmungen und bei den Haaren herbeigezogenen Zwischenfällen einen öden, geistlosen Eindruck machte – moralisch ausserordentlich gehoben wurde. Das Haus stand vor einer wirklichen physisch und auch geistig gleich bewunderungswürdigen Kraftanstrengung, der man natürlich den Obstruktionszweck an allen Ecken und Enden ansah, die aber durch den mutigen energischen Einsatz einer kräftigen Persönlichkeit eine grosse Wirkung ausübte. Nach dieser ersten Lesung war es jedem klar, daß das Provisorium auf regelmässigem Wege nicht durchzubringen sein werde. Wenn man bisher Alles was die Regierung verschuldet hatte auf Rechnung ihres Leichtsinns setzen will, von diesem Moment an konnte sie nur von dem Gedanken an Gewaltmaßregeln geleitet sein. Im Ausschusse kam, weil die eine Seite die ganze Sache nur vom Standpunkte der Verschleppung behandelte, die andere nur vom Standpunkte der Abwehr dieser Tendenz die eigentliche Ausgleichsfrage in ihrer Bedeutung nicht zum Ausdruck.</rdg>
               </app>
             </p>
@@ -2781,7 +2781,7 @@
                   <term key="Staatsgrundgesetz 1867" xml:id="Bae_TB_2_2017"/>
                 </index>
               </index> geregelt werden können." 
-              <app from="#" type="missing" xml:id="Bae_TB_2_2018">
+              <app from="#Bae_MF_1_3184" type="missing" xml:id="Bae_TB_2_2018">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2019"/>
               </app>
             </p>
@@ -2817,7 +2817,7 @@
                   <term key="Ausgleich" xml:id="Bae_TB_2_2042"/>
                 </index>
               </index> einzutreten. Und gerade sie war es, die 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2043">
+              <app from="#Bae_MF_1_3188" type="equal" xml:id="Bae_TB_2_2043">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2044">Wer die so und so vielen Minoritätsvoten durchliest, die schließlich angemeldet wurden, darf nichts suchen, was einer staatsmännischen, halbwegs objektiven, sachlich begründeten Auffassung des schwierigen wirtschaftlichen Verhältnisses auch nur ähnlich sehen würde. Der Parlamentarismus ist ohne einer starken, wirklich führenden Regierung und Parteien, die, wenn auch rücksichtslos, aber offen und ehrlich nach dem Kern ihrer Ueberzeugungen reden und handeln, eine unerträgliche Komödie. Wenn irgend eine Partei im ganzen Haus, so hat die so viele gewerbliche und industrielle Interessen vertretende deutsche Fortschrittspartei alle Ursache für einen möglichen Ausgleich mit Ungarn einzutreten. Und gerade sie war es, die</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2045"/>diese Frage dem 
@@ -2860,7 +2860,7 @@
                 </index>
               </index> war, ein so trauriges Symptom ist es, wenn eine so bedeutende Kraft 
               <del rendition="#s" xml:id="Bae_TB_2_2075">sich in der Verwechslung</del> die staatlichen Pflichten einer politischen Partei derart verwechselt. Bei dieser Sachlage war unsere Thätigkeit in dieser Frage eine beschränkte. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2076">
+              <app from="#Bae_MF_1_3202" type="equal" xml:id="Bae_TB_2_2076">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2077">Obstruktionszweck blindlings opferte. Die Stellung der Deutschen in Oesterreich ist gewiß ein Staatsinteresse – aber bei der Verteidigung des einen Staatsinteresses das andere ganz aufgeben, ist ein Beginnen, welches wenn in einem Parlamente eingebürgert und als faktisch erlaubt anerkannt – dem öffentlichen Leben jene innere Wahrheit und jenen inneren sittlichen Ernst zu entziehen droht, ohne den es in Parteigezänk und Parteileidenschaft untergehen muß. So lang und bewunderungswürdig die Rede Lechers vom Standpunkt der Obstruktion war, ein so trauriges Symptom ist es, wenn eine so bedeutende Kraft die staatlichen Pflichten einer politischen Partei derart verwechselt. Bei dieser Sachlage war unsere Tätigkeit in dieser Frage eine beschränkte.</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2078"/>Im 
@@ -2898,7 +2898,7 @@
               <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2102">Hause</orgName> aus reiner Parteileidenschaft in ungünstigem Sinne entschieden zu werden. Allerdings hatte 
               <persName key="BilinskiLeon" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2103">Bilinski</persName> sehr ungeschickt gesprochen, aber darauf kam es in dieser Situation wirklich nicht mehr an. Glücklicherweise kam die Frage im 
               <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_2104">Hause</orgName> nicht zur Abstimmung. Staatsrechtlich aber glaube ich allerdings im Rechte zu sein, aber es war offenbar eher ein Stoff für eine Dissertation als für eine praktische politische Aktion. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_2105">
+              <app from="#Bae_MF_1_3218" type="missing" xml:id="Bae_TB_2_2105">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2106"/>
               </app>
             </p>
@@ -2968,7 +2968,7 @@
                 <abbr xml:id="Bae_TB_2_2154">u.</abbr>
                 <expan xml:id="Bae_TB_2_2155">und</expan>
               </choice> unsern Einfluss zu erhöhen. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2156">
+              <app from="#Bae_MF_1_3222" type="equal" xml:id="Bae_TB_2_2156">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2157">Wichtig war die Frage wie der Klub in der Ausgleichssache selbst stimmen würde. Ich war keinen Moment zweifelhaft, daß wir für das Provisorium eintreten müssen, aber es kostete mich wochenlange, unermüdliche Arbeit von Mann zu Mann die Herren dazu zu bewegen. Anfangs waren nur wenige dafür, aber ihre Zahl vermehrte sich derart, daß in der entscheidenden Klubsitzung nur 5 oder 6 dagegen waren. Schwegel hielt eine ausgezeichnete Rede im Klub, so recht aus dem Vollen der Kenntniss der Verhältnisse und Gesetze und steckte Grabmayr, der sehr leidenschaftlich gegen das Provisorium gesprochen hatte, in den Sand. Bei der zweiten Lesung des Ausgleichsprovisoriums im Hause kam der letzte Kampf der Obstruktion gegen die Regierung zum Ausbruch und endete mit dem Zusammenbruch der letzteren. Ich möchte aber, bevor ich auf diese Szenen und die von uns eingenommene Haltung zu sprechen komme, eine Uebersicht jener Verhandlungen und Beziehungen geben, die wir mehrfach angeknüpft hatten, um unsere Position zu verstärken, um Bundesgenossen zu werben und unsern Einfluß zu erhöhen.</rdg>
               </app>
             </p>
@@ -3003,11 +3003,11 @@
                 <abbr xml:id="Bae_TB_2_2181">u.</abbr>
                 <expan xml:id="Bae_TB_2_2182">und</expan>
               </choice> darin allen andern überlegen mit 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2183">
+              <app from="#Bae_MF_1_3254" type="equal" xml:id="Bae_TB_2_2183">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2184">V. Angeknüpfte Verbindungen. Gleich bei Beginn der Session wurde von verschiedenen Seiten der Wunsch geäussert, mit der Verfassungsgruppe des Herrenhauses, das heißt mit dem Exekutivkomitee desselben in Fühlung zu treten. Auersperg war sehr entgegenkommend und es wurde beschlossen, daß unsere beiderseitigen Exekutivkomitees von Fall zu Fall zusammentreten sollen. Es fand jedoch nur eine solche Zusammentretung statt, Mitte Oktober. Die einzig frischen, unabhängig denkenden zu einer Aktion bereiten Elemente dieses Komitees der Herrenhaus Partei sind die jüngeren Herren, Auersperg, Kottulinsky, Rohan, Thun. Der alte Stremayr greift nicht ein und Chlumecky spielt in derselben Weise wie in der vereinigten Linken, nur geschmeidiger, die Rolle des quietistischen, alles beschwichtigenden, jede frischere Initiative tödtenden Angstmeiers, aber ausgestattet und darin allen andern überlegen mit</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2185"/>grossen 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2186">
+              <app from="#Bae_MF_1_3273" type="notEqual" xml:id="Bae_TB_2_2186">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2187">gewissen</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2188"/>formalen Kenntnissen, Erfahrung 
@@ -3025,11 +3025,11 @@
               <persName key="SchmerlingAnton" ref="https://d-nb.info/gnd/119233460" xml:id="Bae_TB_2_2199">Schmerlings</persName>, 
               <persName key="KaiserfeldMoriz" ref="https://d-nb.info/gnd/117565229" xml:id="Bae_TB_2_2200">Kaiserfeld's</persName> zu verwalten haben, in einer Zeit in der in 
               <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_2_2201">Österreich</placeName> durch eine frevelhafte Politik alles aufs Spiel gesetzt 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2202">
+              <app from="#Bae_MF_1_3276" type="equal" xml:id="Bae_TB_2_2202">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2203">formalen Kenntnissen, Erfahrung und Gewandtheit, daher zu Einwendungen, Schwierigkeiten und schließlich zum Vereiteln von allem, was vorgeschlagen wird, wie geschaffen. Unsere Besprechung verlief daher im Sande. Auch in der Folge war unsere Herrenhauspartei zu irgend einer Aktion nicht zu bewegen. So oft ich es irgend einem Mitglied dieser Partei vorhielt, daß sie, die das politische Erbe der Auerspergs, Lichtenfels, Hasners, Anastasius Grüns, Schmerlings, Kaiserfelds zu verwalten haben, in einer Zeit in der in Oesterreich durch eine frevelhafte Politik alles aufs Spiel gesetzt</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2204"/>werde, 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2205">
+              <app from="#Bae_MF_1_3288" type="notEqual" xml:id="Bae_TB_2_2205">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2206">wurde, </rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2207"/>was die 
@@ -3093,7 +3093,7 @@
                 <abbr xml:id="Bae_TB_2_2250">u.</abbr>
                 <expan xml:id="Bae_TB_2_2251">und</expan>
               </choice> so lehrreich es für uns gewesen wäre, öfter Rücksprachen zu pflegen, so lies ich bei diesen Umständen diese Beziehung fallen und da sie natürlich von der andern Seite noch weniger reclamirt wurde, so schlief sie ganz ein. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2252">
+              <app from="#Bae_MF_1_3291" type="equal" xml:id="Bae_TB_2_2252">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2253">was die Partei seit Dezennien selbst gebaut und verteitigt habe – sie nicht schweigen könne, sie in irgend einer Form die Stimme erheben müsse, um zu warnen, zu protestiren – immer gab mir der Betreffende (und es waren das sehr viele) vollkommen recht, aber niemand ergriff die Fahne, niemand riss die andern mit und Chlumecky und seine politisch impotenten Anhänger, die er hauptsächlich in den Kreisen der Fabrikanten und Geldgrössen des Herrenhauses hat, vereitelten Alles mit kleinlichen Geschäftsordnungsbedenken und mit der hypnotisierenden Formel: alles was vorgeschlagen werde, Interpellation, Dringlichkeitsantrag, Parteikundgebung ohne Haussitzung – sei noch nie da gewesen. Nur übersehen die Herren, daß die politische Situation in Oesterreich, wie sie von Woche zu Woche sich steigerte, auch noch nicht da gewesen war und daß wenn eine Partei in ausserordentlichen Zeiten davor zurückschreckt, ausserordentliche Mittel zu ergreifen und bloß jammernd beklagt, was sie öffentlich verurteilen sollte – politisch abdiziert. So erfrischend für die Herrenhausmitglieder und so lehrreich es für uns gewesen wäre, öfter Rücksprachen zu pflegen, so ließ ich bei diesen Umständen diese Beziehung fallen und da sie natürlich von der andern Seite noch weniger reklamiert wurde, so schlief sie ganz ein.</rdg>
               </app>
             </p>
@@ -3122,11 +3122,11 @@
                 <expan xml:id="Bae_TB_2_2272">und</expan>
               </choice> es ist nur die liebenswürdige, nach allen Seiten nachgebende Natur 
               <persName key="MalfattiValeriano" ref="https://d-nb.info/gnd/1020459212" xml:id="Bae_TB_2_2273">Malfatti's</persName> die Ursache, dass diese Herren zusammenhalten. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2274">
+              <app from="#Bae_MF_1_3310" type="equal" xml:id="Bae_TB_2_2274">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2275">Nizza, im Januar 1898. Eine andere Verbindung, auf die ich grossen Wert legte, war die mit den Italienern. Leider erwiesen sie sich als unverlässlich. Zwanzig Mann stark, könnten sie immerhin eine Rolle im Parlament spielen, in Anlehnung an eine andere Partei. So hätten wir mit ihnen und den Mauthnerleuten eine Gruppe von über 60 Abgeordneten bilden können. Aber die innere Zusammensetzung des italienischen Klubs ist eine zu heterogene. Die Triestiner gehen immer mit der Regierung, die Südtiroler sind geteilt in Liberale und Klerikale und es ist nur die liebenswürdige, nach allen Seiten nachgebende Natur Malfattis die Ursache, daß diese Herren zusammenhalten.</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2276"/>Nam 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2277">
+              <app from="#Bae_MF_1_3323" type="notEqual" xml:id="Bae_TB_2_2277">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2278">Jam</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2279"/>ardet Ucalegon! – haben wir ihnen in dem 
@@ -3168,11 +3168,11 @@
                 <abbr xml:id="Bae_TB_2_2306">u.</abbr>
                 <expan xml:id="Bae_TB_2_2307">und</expan>
               </choice> als er ihm unter den Händen zerbrach, warf er 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2308">
+              <app from="#Bae_MF_1_3328" type="equal" xml:id="Bae_TB_2_2308">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2309">ardet Ucalegon! – haben wir ihnen in dem čechisch-deutschen Streite immer wieder zugerufen, die Görzer und Istrianer fühlten auch denselben slavischen Stachel, der auch sie bedroht, aber bei den entscheidenden Abstimmungen fehlten doch immer mehr als die Hälfte. Da wir jetzt im Hause lauter nationale Parteien haben, die aber wieder in viele von wirtschaftlichen und politischen Ueberzeugungen diktierten Gruppen zerfallen, so sind trotz der grossen Spannung, die im Hause herrscht die parlamentarischen Kräfte vollkommen paralysiert und daher herrschen jetzt ausschließlich nationale Impulse und politische Gedanken fehlen ganz. Das Wort "Autonomie" hinter welchem sich die Rechte aufgestellt hat, ist auch nur eine verkappte nationale Devise, unter der sich Čechen und Polen die Herrschaft über Deutsche und Ruthenen denken, die Slovenen dagegen ihren ganz unhistorischen Zusammenschluß im Süden der Monarchie. Mit Badeni hatten wir die letzten Wochen gar keine Fühlung mehr. Zu allem andern wurde er jetzt auch unerträglich kleinlich. Er griff nach jedem Strohhalm und als er ihm unter den Händen zerbrach, warf er</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2310"/>ziellos 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2311">
+              <app from="#Bae_MF_1_3339" type="notEqual" xml:id="Bae_TB_2_2311">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2312">hilflos</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2313"/>mit Anschuldigungen herum. Am 
@@ -3204,11 +3204,11 @@
                 <abbr xml:id="Bae_TB_2_2333">l.J.</abbr>
                 <expan xml:id="Bae_TB_2_2334">laufenden Jahres</expan>
               </choice> ausgedrückten Bereitwilligkeit, erklären wir jedem Verständigungsversuche unsere Mitwirkung leihen zu wollen, unter der Voraussetzung dass eine solche Besprechung oder Fühlungnahme von Seite der Regierung auch mit den beteiligten deutschen Parteien thatsächlich zu Stande gebracht 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2335">
+              <app from="#Bae_MF_1_3342" type="equal" xml:id="Bae_TB_2_2335">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2336">mit Anschuldigungen herum. Am 17. November frug er Schwegel, ob wir uns nicht an vertraulichen Besprechungen beteiligen wollten. Wir fanden es für gut ihm darauf eine schriftliche Antwort zu geben, um vor Rekriminationen sicher zu sein. Unsere note verbale lautete: "Auf die Frage: ob unsere Vereinigung sich an vertraulichen Besprechungen beteiligen würde, welche den Zweck verfolgen sollen, eine Beilegung des böhmischen Sprachenstreites anzubahnen, erteilen wir nachstehende Antwort: In Uebereinstimmung mit der Kundgebung des gesamten verfassungstreuen Grossgrundbesitzes vom 11. Juli l.J. sowie in Uebereinstimmung mit unserer auch aus Anlaß der Konferenzeinladung für den 26. August l.J. ausgedrückten Bereitwilligkeit, erklären wir jedem Verständigungsversuche unsere Mitwirkung leihen zu wollen, unter der Voraussetzung, daß eine solche Besprechung oder Fühlungnahme von Seite der Regierung auch mit den beteiligten deutschen Parteien tatsächlich zustande gebracht</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2337"/>wird 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2338">
+              <app from="#Bae_MF_1_3364" type="notEqual" xml:id="Bae_TB_2_2338">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2339">werde</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2340"/>." Mit dieser ebenso natürlichen als harmlosen Erklärung war 
@@ -3223,11 +3223,11 @@
               </choice> schimpfte kindisch. 
             </p>
             <p xml:id="Bae_TB_2_2348">Wichtiger war eine Verbindung, die sich uns 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2349">
+              <app from="#Bae_MF_1_3367" type="equal" xml:id="Bae_TB_2_2349">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2350">." Mit dieser ebenso natürlichen als harmlosen Erklärung war Badeni zuerst sehr zufrieden, als aber die Deutschen ablehnten und nichts daraus wurde, gab er uns die Schuld und schimpfte kindisch. Wichtiger war eine Verbindung, die sich uns</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2351"/>
-              <app from="#" type="missing" xml:id="Bae_TB_2_2352">
+              <app from="#Bae_MF_1_3372" type="missing" xml:id="Bae_TB_2_2352">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2353">ebenfalls</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2354"/>durch 
@@ -3276,11 +3276,11 @@
                   <expan xml:id="Bae_TB_2_2389">November</expan>
                 </choice>
               </date> genau vorausgesagt wie die Dinge sich 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2390">
+              <app from="#Bae_MF_1_3375" type="equal" xml:id="Bae_TB_2_2390">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2391">durch Schwegels Intervention darbot. Der Sektionschef im Ministerium des Äussern Baron Wolfarth, Chef der Staatspolizei äusserte den Wunsch von uns, als einer "unparteiischen" Seite von Zeit zu Zeit Situationsberichte zu bekommen, die er für die laufenden an den Kaiser zu erstattenden Berichte verwenden wollte. Diese Art der Dinge und wohl auch der Weg mahnen zur Vorsicht. Nach eingehender Besprechung der Sache mit Schwegel und Stürgkh entschieden wir uns, doch diese Gelegenheit nicht ungenützt vorbeigehen zu lassen. Das Ganze war ein sehr bemerkenswertes Symptom. Offenbar war an maßgebender Stelle das unbedingte Vertrauen auf Badeni längst erschüttert und man wollte Nachrichten "von Aussen". Uns war klar, daß es leider unmöglich sei ganz offen zu sprechen und Badeni direkt als das Hindernis jeder Verständigung hinzustellen, denn ganz wasserdicht sind die Wege der Ministerien doch nicht und leicht hätte die ganze Sache in die Hände Badenis fallen können, der uns rücksichtslos bloßgestellt hätte. Auch die Schilderung der Stimmung in der Bevölkerung durfte nicht wie eine Denunziation erscheinen. Wir haben aber in knappen, nach keiner Seite übertreibenden Sätzen damals am 17. November genau vorausgesagt wie die Dinge sich</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2392"/>8 Tage 
-              <app from="#" type="missing" xml:id="Bae_TB_2_2393">
+              <app from="#Bae_MF_1_3390" type="missing" xml:id="Bae_TB_2_2393">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2394"/>
               </app>
               <anchor xml:id="Bae_TB_2_2395"/>später entwickelten. Nur rechneten wir nicht mit jenem Maas von Ungeschick 
@@ -3309,7 +3309,7 @@
             <p xml:id="Bae_TB_2_2412">
               <placeName key="Arco" ref="https://www.geonames.org/6539794/arco.html" xml:id="Bae_TB_2_2413">Arco</placeName>, im 
               <date when="1898-02" xml:id="Bae_TB_2_2414">Februar 1898</date>
-              <app from="#" type="equal" xml:id="Bae_TB_2_2415">
+              <app from="#Bae_MF_1_3393" type="equal" xml:id="Bae_TB_2_2415">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2416">später entwickelten. Nur rechneten wir nicht mit jenem Maß von Ungeschick und Gewalttat, wie die ertrinkende Regierung und die fanatisirte Majorität sie thatsächlich geübt haben. Stürgkh, der diese Information dem Baron Wolfarth schriftlich überreichte, hatte den Eindruck, daß man im Ministerium des Aeussern, wenigstens in den Kreisen der altösterreichische Beamten, über Badeni wütend sei. Doch sah man auch von dort untätig zu. Arco im Februar 1898.</rdg>
               </app>
             </p>
@@ -3406,7 +3406,7 @@
             </p>
             <p xml:id="Bae_TB_2_2481">Je länger die Situation dauert, desto schwerer wird es werden diese 
               <orgName key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0" xml:id="Bae_TB_2_2482">nationalradicale Partei</orgName> zu isoliren und die Fortschritte dieser Richtung aufzuhalten. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_2483">
+              <app from="#Bae_MF_1_3403" type="missing" xml:id="Bae_TB_2_2483">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2484"/>
               </app>
             </p>
@@ -3436,14 +3436,14 @@
                 <abbr xml:id="Bae_TB_2_2501">u.</abbr>
                 <expan xml:id="Bae_TB_2_2502">und</expan>
               </choice> Prügelszenen vorkamen, wie in einem Wirtshaus – alles das muss man sich zusammenreimen mit der Tatsache, dass das Gros derselben Abgeordneten 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2503">
+              <app from="#Bae_MF_1_3407" type="equal" xml:id="Bae_TB_2_2503">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2504">VI. Die letzten Dinge der Session. Wer in einer späteren Zeit die Zeitungen dieser letzten Novembertage lesen und ruhigeren Gemüts ein historisches Urteil über die Vorgänge im österreichischen Parlamente zu gewinnen trachten wird – dem wird, was die Entstehung, die Vorgänge und den Verlauf dieser Ereignisse betrifft, das Bild einer Revolution vor die Augen treten. Eine neue Form der Revolution allerdings, nämlich die einer Parlamentsrevolution. Ich glaube, daß man unter diesem Gesichtspunkt die letzten Dinge der abgelaufenen kurzen Session am richtigsten würdigen wird. Das Auftreten der Deutschen erscheint dann nicht bloß als abstoßendes Exzedieren, das Vorgehen der Majorität nicht bloß als brutaler Versuch die lärmende Minorität zu bändigen. Daß gebildete Männer sich zu unerhörten Ausdrücken und Beschimpfungen hinreissen ließen, daß alte parlamentarische Grauköpfe mit Kindertrompeten die Katzenmusik verstärkten, daß Tintenfässer geschleudert, Messer gezogen, Pulte zertrommelt wurden und Prügelszenen vorkamen, wie in einem Wirtshaus – alles das muß man sich zusammenreimen mit der Tatsache, 
                   <pb facs="#F_K-11_Bae_MF_1_194" n="94" xml:id="Bae_TB_2_2505"/>
                   <add place="across" xml:id="Bae_TB_2_2506">dass</add> das Gros derselben Abgeordneten 
                 </rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2507"/>
-              <app from="#" type="missing" xml:id="Bae_TB_2_2508">
+              <app from="#Bae_MF_1_3418" type="missing" xml:id="Bae_TB_2_2508">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2509">die</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2510"/>vor Jahresfrist unter dem Aufwand beispielloser parlamentarischer Arbeitskraft 
@@ -3451,7 +3451,7 @@
                 <abbr xml:id="Bae_TB_2_2512">u.</abbr>
                 <expan xml:id="Bae_TB_2_2513">und</expan>
               </choice> Arbeitslust die drei grössten Reformen auf dem Gebiete unserer innern Zustände 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2514">
+              <app from="#Bae_MF_1_3422" type="equal" xml:id="Bae_TB_2_2514">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2515">vor Jahresfrist unter dem Aufwand beispielloser parlamentarischer Arbeitskraft und Arbeitslust die drei größten Reformen auf dem Gebiete unserer innern Zustände</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2516"/>
@@ -3484,7 +3484,7 @@
               </choice>
               <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_2_2537">Wolf</persName> waren von Anfang an an der Spitze. Wollten die Gemässigteren zurückweichen oder erlahmen, so waren es ihre Haranguen, die von Neuem den Kampf entfesselten. Die Socialisten hielten sich anfangs im Hintergrunde, der nationale Anlass hielt sie zurück. Sobald sie aber sahen, dass sich eine wirkliche, gewaltsame Erhebung gegen die im 
               <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_2538">Parlament</orgName> etablirte Autorität vorbereite, traten sie in die erste Reihe der Kämpfenden. Sie waren dann diejenigen, welche alle andern übertrafen, 
-              <app from="#" type="missing" xml:id="Bae_TB_2_2539">
+              <app from="#Bae_MF_1_3425" type="missing" xml:id="Bae_TB_2_2539">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2540"/>
               </app>
               <anchor xml:id="Bae_TB_2_2541"/>
@@ -3492,13 +3492,13 @@
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2543">durchberaten hatten,</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2544"/>
-              <app from="#" type="missing" xml:id="Bae_TB_2_2545">
+              <app from="#Bae_MF_1_3431" type="missing" xml:id="Bae_TB_2_2545">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2546">jetzt</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2547"/>das Präsidium stürmten und 
               <pb facs="#F_K4_Bae_TB_2-138" n="43r" xml:id="Bae_TB_2_2548"/>besetzten und den ersten Kampf mit der 
               <orgName key="Polizei" ref="https://d-nb.info/gnd/2080257-2" xml:id="Bae_TB_2_2549">Polizei</orgName> bestanden. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2550">
+              <app from="#Bae_MF_1_3434" type="equal" xml:id="Bae_TB_2_2550">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2551">das Präsidium erstürmten und besetzten und den Kampf mit der Polizei bestanden.</rdg>
               </app>
             </p>
@@ -3508,11 +3508,11 @@
                 <abbr xml:id="Bae_TB_2_2555">u.</abbr>
                 <expan xml:id="Bae_TB_2_2556">und</expan>
               </choice> Feudalen vereitelte 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2557">
+              <app from="#Bae_MF_1_3439" type="equal" xml:id="Bae_TB_2_2557">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2558">Aber auch die tieferen Ursachen waren typisch. Wie jeder revolutionären Bewegung alte Uebelstände, jahrelange Fehler, materielles Unrecht im Gewande formeller Gesetzmäßigkeit vorangehen – so war es auch diesmal. Der von den Čechen und Feudalen vereitelte</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2559"/>
-              <app from="#" type="missing" xml:id="Bae_TB_2_2560">
+              <app from="#Bae_MF_1_3442" type="missing" xml:id="Bae_TB_2_2560">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2561">deutsch-čech.</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2562"/>
@@ -3524,7 +3524,7 @@
               </index> des Jahres 
               <date when="1890" xml:id="Bae_TB_2_2567">1890</date> gab den alten Grundton 
               <add place="across" xml:id="Bae_TB_2_2568">für</add> die Erbitterung der Deutschböhmen, die schwache, erfolglose Politik der vereinigten Linken, der politische 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2569">
+              <app from="#Bae_MF_1_3449" type="equal" xml:id="Bae_TB_2_2569">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2570">Ausgleich des Jahres 1890 gab den alten Grundton für die Erbitterung der Deutschböhmen, die schwache, erfolglose Politik der vereinigten Linken, der politische</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2571"/>
@@ -3532,7 +3532,7 @@
                 <abbr xml:id="Bae_TB_2_2573">u.</abbr>
                 <expan xml:id="Bae_TB_2_2574">und</expan>
               </choice> moralische 
-              <app from="#" type="missing" xml:id="Bae_TB_2_2575">
+              <app from="#Bae_MF_1_3457" type="missing" xml:id="Bae_TB_2_2575">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2576"/>
               </app>
               <anchor xml:id="Bae_TB_2_2577"/>Krach 
@@ -3657,11 +3657,11 @@
                 </index>
               </index> doch übers Knie gebrochen werden würde. Tags darauf streckte das Präsidium die Waffen – aber 
               <persName key="GleispachAntonia" xml:id="Bae_TB_2_2669">Gräfin Gleispach</persName>, offenbar als Echo ihres 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2670">
+              <app from="#Bae_MF_1_3460" type="equal" xml:id="Bae_TB_2_2670">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2671">Krach Pleners, der Zorn über die verfehlte Führung Chlumetzkys, der sich in unbegreiflichem Optimismus und in unglaublicher Kurzsichtigkeit Badeni an den Hals geworfen hatte, endlich die Sprachenverordnung als Dank für die parlamentarische Aufopferung der letzten Jahre – das waren die Motive die am Werk waren und die immer kräftiger wirkten, als die Deutschen sahen, daß Badeni sowohl Lueger als den Jungčechen immer mehr entgegenkam, wiewohl diese beiden an Rohheit und Rücksichtslosigkeit der Opposition wahrhaftig nichts hatten fehlen lassen. Schon in der Frühjahrssession war es bis zur Obstruktion gekommen, jetzt im Herbst steigert es sich bald bis zur offenen Gewalt. Aber wie in jeder Revolution unter der Hülle abstoßender Erscheinungen ein gerechter Kern ruht, eine Auflehnung gegen zugefügtes Unrecht, die selbst Thomas von Aquino für erlaubt erklärt, so war auch hier ein nationaler, moralischer Grundzug, der selbst den Gegnern imponierte. Im Verlaufe dieser Herbstsession drängten sich die Analogien mit anderen revolutionären Bewegungen förmlich auf. So auch in der Haltung der "Autorität". Ihr Streben ging natürlich dahin der Auflehnung Herr zu werden. Zwei Wege konnte sie versuchen. Entweder grosse Mässigung, Klugheit und Geduld – oder Festigkeit, Energie innerhalb des Gesetzes und Ausdauer. Der erste Weg hätte wahrscheinlich zum Ziele gefürt, denn die Obstruktion fand die Nahrung die sie brauchte nur immer wieder in den kopflosen Vorstößen des Präsidiums und der Majorität, sonst wäre sie sicher erlahmt. Vielleicht hätte auch zielbewußte Energie und Ausdauer, ein System von tagelangen Sitzungen mit Schichtenwechsel etwas erzielt, wenn auch zu so einem Vorgang einzelne Teile der Majorität zu unzuverlässig waren. Das Präsidium entschied sich jedoch zu keinem der beiden Wege, sondern wechselte nur in der Anwendung geschäftsordnungswidrigen Terrorismus mit oft unbegreiflicher Schwäche ab. Ein oder das anderemal hatte sie den Sieg fast in der Hand. Aber nichts war vorgesehen. Ein oder dem andern Abgeordneten der Majorität wurde unwohl und Abrahamovicz verlor den Kopf. Nach der einen Nachtsitzung erklärten die Stenografen nicht mehr arbeiten zu können, kein Mensch hatte daran gedacht für einen Ersatz oder eine Ablösung zu sorgen. Als Kathrein seine Stelle niedergelegt hatte, war auch die Aufgabe physisch für die zwei andern eine äusserst schwierige geworden, aber an die Wahl eines dritten Präsidenten wagte sich die Majorität doch erst als Alles schon verloren war. Fuchs, den Karl Chorinsky immer das schlaue Füchslein genannt hatte, fiel bei diesen Gelegenheiten ganz unnütz herein. Dem Zusammenbruch ging wie immer die Verblendung voraus. Die innerste, gewalttätige Natur Badenis kam zum Vorschein. Aber auch seine naive Urteilslosigkeit. Wie ein angeschossener Bär tappte er herum und sah den Abgrund nicht, dem er immer näher kam. Am Freitag den 26. November früh ließ er Jauner rufen und frug ihn ob, wenn das Abgeordnetenhaus am nächsten Tage das Ausgleichsprovisorium votiert haben würde, das Herrenhaus in der Lage wäre, dasselbe sofort in der folgenden Woche ebenfalls zu erledigen. Jauner glaubte nicht recht zu hören und ließ Zweifel laut werden, ob das Abgeordnetenhaus diese Arbeit in 24 Stunden leisten werde, Badeni war aber brüsk und ganz siegesgewiss. Er inspizierte die Polizeimannschaft, die auf den Korridoren stand, und war der Meinung, daß, wenn nur einige Hauptschreier aus dem Hause entfernt sein würden, das Ausgleichsprovisorium doch übers Knie gebrochen werden würde. Tags darauf streckte das Präsidium die Waffen – aber Gräfin Gleispach, offenbar als Echo ihres</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2672"/>bornirten 
-              <app from="#" type="missing" xml:id="Bae_TB_2_2673">
+              <app from="#Bae_MF_1_3513" type="missing" xml:id="Bae_TB_2_2673">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2674"/>
               </app>
               <anchor xml:id="Bae_TB_2_2675"/>
@@ -3675,11 +3675,11 @@
               </choice> frug, ob die 
               <orgName key="Polizei" ref="https://d-nb.info/gnd/2080257-2" xml:id="Bae_TB_2_2683">Polizeiwirtschaft</orgName> im 
               <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2684">Hause</orgName> fortgesetzt werden 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2685">
+              <app from="#Bae_MF_1_3517" type="equal" xml:id="Bae_TB_2_2685">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2686">Gatten versicherte wenige Tage darauf in einem Salon, Badeni sei im Parlament nur deswegen gefallen, weil "ihm die Nerven ausgelassen" hätten. Der arme Halban! Am Donnerstag traf ich ihn im Kaffehaus und frug, ob die Polizeiwirtschaft im Hause fortgesetzt werden</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2687"/>soll, 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2688">
+              <app from="#Bae_MF_1_3526" type="notEqual" xml:id="Bae_TB_2_2688">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2689">solle,</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2690"/>worauf er – das 
@@ -3728,11 +3728,11 @@
               </choice> unbeschreiblich ungeschickt geführt. Der letzte Gewaltakt mit der 
               <orgName key="Polizei" ref="https://d-nb.info/gnd/2080257-2" xml:id="Bae_TB_2_2725">Polizei</orgName> ist gewiss der Initiative 
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_2726">Badeni's</persName> entsprungen. Aber auch dieser wurde so brutal ins Werk gesetzt, dass er auf die Fähigkeiten der beiden Präsidenten das traurigste Licht wirft. Wer es gesehen hat, wird wol nie das Bild vergessen, das die 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2727">
+              <app from="#Bae_MF_1_3529" type="equal" xml:id="Bae_TB_2_2727">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2728">worauf er – das einzigemal das ich wüsste – grob wurde. Am Samstag kroch er moralisch auf allen Vieren. Offenbar hatte Badeni dem Kaiser gegenüber, der am Donnerstag zu seiner Tochter nach Wallsee gefahren war dieselbe Zuversicht zur Schau getragen und gleiche Voraussagungen wie Jauner gegenüber gemacht. Die Wirkung der großen Enttäuschung sowie die folgenden Strassentumulte brachten den Fall Badenis zustande. Ich kann mir nicht denken, daß seine Position nicht schon früher erschüttert gewesen ist. Aber so wie in den letzten Tagen des Koalitionsministeriums die Gewissheit einen Nachfolger zu haben den Sturz dieses Ministeriums beschleunigte, so wirkte offenbar die vollkommene Ratlosigkeit bezüglich eines Nachfolgers Badenis verzögernd auf seine Entlassung. Als aber der Kaiser am Samstag Abend am Westbahnhof eintraf, durch Seitengassen in die Hofburg fahren musste, von der grossen Erregung in Wien erfuhr, nahm er die Demission zur Kenntnis; am folgenden Morgen gerade als die Husaren ausreiten mussten, ließ er Gautsch rufen und übertrug ihm die Führung der Geschäfte.Ich möchte nichts Ungerechtes, noch weniger etwas Hasserfülltes gegen das Präsidium und die Majorität dieser Tage sagen. Ich bin überzeugt daß Vieles, was ihr auf der Linken als abgefeimte Perfidie ausgelegt wurde, nichts als Kopflosigkeit war. Der ganze Verteidigungskrieg gegen die Obstruktion war kleinlich ausgedacht und unbeschreiblich ungeschickt geführt. Der letzte Gewaltakt mit der Polizei ist gewiß der Initiative Badenis entsprungen. Aber auch dieser wurde so brutal ins Werk gesetzt, daß er auf die Fähigkeiten der beiden Präsidenten das traurigste Licht wirft. Wer es gesehen hat, wird wohl nie das Bild vergessen, das die</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2729"/>Präsidententribüne 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2730">
+              <app from="#Bae_MF_1_3560" type="notEqual" xml:id="Bae_TB_2_2730">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2731">Präsidentenbühne</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2732"/>
@@ -3746,11 +3746,11 @@
                 <expan xml:id="Bae_TB_2_2739">und</expan>
               </choice> Ueberröcken - darbot. Hinter dieser Hecke 
               <persName key="AbrahamowiczDawid" ref="https://d-nb.info/gnd/143832883" xml:id="Bae_TB_2_2740">Abrahamowicz</persName> am Präsidentenstuhl, 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2741">
+              <app from="#Bae_MF_1_3563" type="equal" xml:id="Bae_TB_2_2741">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2742">und Ministerbank umgeben von einem Doppelkordon von 60 Polizisten in Pickelhauben und Ueberröcken - darbot. Hinter dieser Hecke Abrahamovicz am Präsidentenstuhl,</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2743"/>
-              <app from="#" type="missing" xml:id="Bae_TB_2_2744">
+              <app from="#Bae_MF_1_3568" type="missing" xml:id="Bae_TB_2_2744">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2745">neben ihm Kramar,</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2746"/>auf der Ministerbank 
@@ -3834,11 +3834,11 @@
                 <abbr xml:id="Bae_TB_2_2807">u.</abbr>
                 <expan xml:id="Bae_TB_2_2808">und</expan>
               </choice> verkündete auch 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2809">
+              <app from="#Bae_MF_1_3571" type="equal" xml:id="Bae_TB_2_2809">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2810">auf der Ministerbank Badeni u. Gleispach, die beide wohl nicht ahnten wie jämmerlich der Eindruck war, den sie machten. Dieses Bild hat mir einen womöglich noch unauslöschlicheren Eindruck gemacht als wie die Polizei rottenweise unter Anführung des "Ordners", des čechischen Abgeordneten Lang, auf die einzelnen ausgeschlossenen Abgeordneten losging und sie hinausführte, hinausschob und zerrte oder hinaustrug. Der erste Adventsonntag des Jahres 1897 wird in der innern Geschichte Österreichs immerhin denkwürdig bleiben. Ich war vormittags in meiner in der Landesgerichtsstrasse gelegenen Wohnung am Schreibtisch beschäftigt, als mich Lärm ans Fenster lockte. Die Straße vor dem Landesgericht und die Zugänge derselben aus der Stadt war von einer dichten Menschenmenge besetzt. Ein dumpfes Gemurmel, das sich zeitweise zu lautem Geschrei steigerte, war zu hören. Auch Gesang. Knapp vor meinem Fenster passierten erregte Gruppen von Männern, Studenten und Arbeiter, in großer Aufregung. Aus der Menge ragten die Gestalten berittener Polizei hervor. Mit gezücktem Säbel ritten sie planlos in der Menge herum, die auseinanderstob, aber dann gleich wieder beisammen war. Im rückwärtigen Rathauspark, den ich gerade vor mir hatte, verfolgten sie im Galopp davonrennende Menschen. Auch in meiner Gasse kam ein Trupp im Galopp dahergesprengt die Säbel gegen einzelne flüchtende Personen schwingend. Man konnte nur so viel erfahren, daß der Massenbesuch vor dem Landesgericht dem dort verhafteten Wolf gelte. Ob die Menge etwas Ernstliches ins Werk setzen wollte oder nur eine Demonstration beabsichtigte konnte ich nicht ausnehmen. Die Polizei richtete gar nichts aus. Die Menschenmenge wurde immer größer, auch das Geschrei und Singen immer lauter. Einen Moment sah es sehr kritisch aus. Da kamen – es mochte nach 11 Uhr sein – von der Seite der Josephstädter Straße Husaren im Schritt geritten, die volle Breite der Landesgerichtsstraße einnehmend. Die militärische Präzision, die Ruhe stachen sehr von dem planlosen wilden Getue der berittenen Polizei ab, die offenbar ohne einheitliches Commando war. Dieses war bei den Husaren sofort zu bemerken. Sie besetzten die Straßenkreuzungen, säuberten im Schritt und kurzen Trab die Straßen und es war noch nicht 12 Uhr, so konnte ich unbehelligt ausgehen. Bald darauf kamen die ersten Extrablätter mit der Nachricht von Badenis Entlassung. Gerüchteweise wurde auch gleich Gautsch als sein Nachfolger genannt. Nachmittags war Sitzung des Budgetausschusses der Delegation. Ich wollte dorthin, um näheres zu erfahren und begegnete vor dem Hause Lueger, der mitten in einer Menschenmenge stand und zu ihr sprach. Er kam an meinen Wagen heran und verkündete auch</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2811"/>mir 
-              <app from="#" type="missing" xml:id="Bae_TB_2_2812">
+              <app from="#Bae_MF_1_3610" type="missing" xml:id="Bae_TB_2_2812">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2813"/>
               </app>
               <anchor xml:id="Bae_TB_2_2814"/>die 
@@ -3882,11 +3882,11 @@
               <persName key="FalkenhaynJulius" ref="https://d-nb.info/gnd/135963850" xml:id="Bae_TB_2_2841">Falkenhayn</persName> kehrte. Keiner lies sich aber hinreissen den Lärm mitzumachen und ich kann sagen, dass kein Club im 
               <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2842">Hause</orgName> sich würdiger 
               <pb facs="#F_K4_Bae_TB_2-145" n="50r" xml:id="Bae_TB_2_2843"/>benommen hat als wir. Es gab einen Moment, in dem die Abstinenz von den Deutschen Parteien erwogen wurde. Ich selbst war 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2844">
+              <app from="#Bae_MF_1_3613" type="equal" xml:id="Bae_TB_2_2844">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2845">die Entlassung Badeni's. Er war im Frack und weisser Kravatte. Man glaubte damals allgemein er sei vom Kaiser in Audienz empfangen worden. Dem war aber nicht so. Er hatte sie zwar verlangt, aber er war angewiesen worden, sie auf dem gewöhnlichen Wege anzumelden, was natürlich gleichbedeutend war mit der Versagung der Audienz in diesem kritischen Moment. Am spätern Nachmittage hatte die Polizei schon den Auftrag den Passanten mitzuteilen, daß Badeni entlassen sei; Abends, nach Schluß der Theater geschah dasselbe an den Ausgängen; die Konducteure der in Wien ankommenden Züge taten dasselbe. Im Kleinen der Fall Metternichs! Die Stellung unseres Klubs in diesen Tagen war eine schwierige. Inmitten der Tumulte gerieten unsere Herren in eine begreifliche Aufregung, die sich bald gegen die Skandalmacher bald gegen das Präsidium und Falkenhayn kehrte. Keiner ließ sich aber hinreissen den Lärm mitzumachen und ich kann sagen, daß kein Klub im Hause sich würdiger benommen hat als wir. Es gab einen Moment, in dem die Abstinenz von den deutschen Parteien erwogen wurde. Ich selbst war</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2846"/>schwankend, 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2847">
+              <app from="#Bae_MF_1_3638" type="notEqual" xml:id="Bae_TB_2_2847">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2848">sehr wankend</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2849"/>entschied mich aber 
@@ -3910,12 +3910,12 @@
               <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_2_2863">Chlumetzky</persName> riet zur Abstinenz, die Dinge richtig beurteilend, aber charakteristischer Weise noch in diesem Stadium willens 
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_2864">Badeni</persName> zu helfen. Geradezu komisch war es aber, dass 
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_2865">Badeni</persName> selbst nichts mehr 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2866">
+              <app from="#Bae_MF_1_3641" type="equal" xml:id="Bae_TB_2_2866">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2867">entschied mich aber gegen dieselbe und in einer gemeinsamen Konferenz gab unsere Haltung gegen die Abstinenz den Ausschlag. Sie hätte Badeni gerettet, wenigstens momentan, denn nach dem Austritt der Deutschen wäre Ausgleichsprovisorium und Budget im Handumdrehen bewilligt worden. Chlumetzky riet zur Abstinenz, die Dinge richtig beurteilend, aber charakteristischer Weise noch in diesem Stadium willens Badeni zu helfen. Geradezu komisch war es aber, daß Badeni selbst nichts mehr</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2868"/>
               <hi rendition="#ul" xml:id="Bae_TB_2_2869">fürchtete</hi>
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2870">
+              <app from="#Bae_MF_1_3655" type="notEqual" xml:id="Bae_TB_2_2870">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2871">fürchtete</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2872"/>als die Abstinenz. Um 2 Uhr Nacht kam 
@@ -3924,12 +3924,12 @@
                 <abbr xml:id="Bae_TB_2_2875">u.</abbr>
                 <expan xml:id="Bae_TB_2_2876">und</expan>
               </choice> beschwor mich mich 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2877">
+              <app from="#Bae_MF_1_3658" type="equal" xml:id="Bae_TB_2_2877">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2878">als die Abstinenz. Um zwei Uhr Nacht kam Baltazzi in seinem Auftrag zu mir, ließ mich wecken und beschwor mich, mich</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2879"/>
               <hi rendition="#ul" xml:id="Bae_TB_2_2880">gegen</hi>
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2881">
+              <app from="#Bae_MF_1_3662" type="notEqual" xml:id="Bae_TB_2_2881">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2882">gegen</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2883"/>die Abstinenz auszusprechen. Auch 
@@ -3959,11 +3959,11 @@
                 <abbr xml:id="Bae_TB_2_2901">u.</abbr>
                 <expan xml:id="Bae_TB_2_2902">und</expan>
               </choice> Reden, aber dadurch dass wir in den prägnanten Momenten mit einer ruhig stylisirten aber 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2903">
+              <app from="#Bae_MF_1_3665" type="equal" xml:id="Bae_TB_2_2903">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2904">die Abstinenz auszusprechen. Auch Halban war sehr erschreckt. Verkennung der Situation auf der ganzen Linie. Indem ich hier aus der Erinnerung die markanten Züge dieser Tage niederschreibe, bemühe ich mich frei von der Aufregung unmittelbarer Ereignisse und frei von jener konventionellen Stellung, die jede politische Partei mehr oder weniger einnimmt, will sie immer konsequent erscheinen, einnehmen muß – zu urteilen. Wir haben die Obstruktion unterstützt, nicht durch Geschrei und Trommeln, nicht durch Anträge und Reden, aber dadurch, daß wir in den prägnanten Momenten mit einer ruhig stilisierten aber</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2905"/>wuchtigen 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2906">
+              <app from="#Bae_MF_1_3674" type="notEqual" xml:id="Bae_TB_2_2906">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2907">wichtigen</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2908"/>Erklärung 
@@ -3996,7 +3996,7 @@
                 <abbr xml:id="Bae_TB_2_2927">u.</abbr>
                 <expan xml:id="Bae_TB_2_2928">und</expan>
               </choice> wie ich erfuhr auf die an diesem Vormittage gefassten Entschlüsse nicht ohne Einfluss war. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_2929">
+              <app from="#Bae_MF_1_3677" type="equal" xml:id="Bae_TB_2_2929">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2930">Erklärung auftraten und in der halb gewonnenen Schlacht der Obstruktion als die schwere Kavallerie durch einen Chok den Sieg entschieden. Gegen die lex Falkenhayn hatten wir einen Protest vorbereitet, den Stürgkh vortragen sollte. Es kam nicht dazu, weil überhaupt niemand mehr zu Worte kam. Ich beantragte die Veröffentlichung, die an jenem denkwürdigen ersten Adventsonntage erfolgte und wie ich erfuhr auf die an diesem Vormittage gefassten Entschlüsse nicht ohne Einfluß war.</rdg>
               </app>
             </p>
@@ -4109,13 +4109,13 @@
             </p>
             <p xml:id="Bae_TB_2_3005">Wir protestiren gegen diese Rechtsverletzung, welche ohne Beispiel in irgendeinem Parlamente dastehen dürfte, wir protestiren gegen ein Verfahren, das auf diesem Boden jede gesetzliche Schranke ins Wanken zu bringen droht. Wir protestiren gegen die gesetzwidrige Verwendung der Sicherheitswache im 
               <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_3006">Parlamente</orgName>; wir machen für die unabsehbaren Consequenzen alle Jene verantwortlich, die an diesem Vorgange mitgewirkt haben." 
-              <app from="#" type="missing" xml:id="Bae_TB_2_3007">
+              <app from="#Bae_MF_1_3692" type="missing" xml:id="Bae_TB_2_3007">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3008"/>
               </app>
             </p>
             <!-- DC Ende der Einklebung -->
             <anchor xml:id="Bae_TB_2_3009"/>
-            <app from="#" type="missing" xml:id="Bae_TB_2_3010">
+            <app from="#Bae_MF_1_3696" type="missing" xml:id="Bae_TB_2_3010">
               <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3011">Ich habe hier geschildert, wie die Dinge sich schrittweise entwickelt haben. Die Parlamentwirren unter Badeni haben das Haus für immer zurrüttet, denn die Obstruction wurde zu einem politisch selbstverständlichen Hausmittel. Die Czechen hatten zwar unter der Coalitionsregierung mit dieser Methode angefangen, aber die Deutschen haben sie unter Badeni systematisch ausgebildet u. damit dem österreichischen Parlamentarismus das Grab gegraben. In einem Obstructionscomité das in Permanenz war wurden aus Lücken und der Unvollkommenheit der Geschäftsordnung immer neue Erfindungen geschöpft, wie die Verhandlungen des Hauses verhindert o. verschleppt werden könnten. Einige Abgeordnete waren anerkannte Meister darin. Damals lobte mir ein deutschslowenisch Journalist einen sonst an sich unbedeutenden Abgeordneten mit den Worten: er ist ein tüchtiger Obstructionist. Die Obstruction blieb seither das drohende Gespenst des Hauses. Und doch muss man gerechterweise sagen, dass Badeni eine Verständigung zwischen Deutschen und Czechen ehrlich wollte. Aber er musste an seiner totalen Unkenntnis der Verhältnisse scheitern</rdg>
             </app>
           </div>
@@ -4124,7 +4124,7 @@
             <head xml:id="Bae_TB_2_3014">
               <hi rendition="#ul" xml:id="Bae_TB_2_3015">VII. Die neue Regierung</hi>
             </head>
-            <app from="#" type="notEqual" xml:id="Bae_TB_2_3016">
+            <app from="#Bae_MF_1_3715" type="notEqual" xml:id="Bae_TB_2_3016">
               <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3017">Die neue Regierung</rdg>
             </app>
             <p xml:id="Bae_TB_2_3018">
@@ -4173,7 +4173,7 @@
                   <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_2_3051"/>
                 </index>
               </index>
-              <app from="#" type="equal" xml:id="Bae_TB_2_3052">
+              <app from="#Bae_MF_1_3720" type="equal" xml:id="Bae_TB_2_3052">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3053">Badeni war gestürzt; durch die Kraft der deutschen Obstruction gestürzt, die Tumulte, Plünderungen und Schreckenstaten in Prag waren das Echo. Die Regierung sowohl als die Deutschen standen vor wichtigen Entschlüssen. Beide konnten durch Festigkeit und Staatsklugkeit ihre Position ausserordentlich befestigen, beide versäumten es. In Prag musste Gautsch zeigen, daß wirklich noch die Staatsautorität nicht von einer Bande mit Füssen getreten werden dürfe. Er mußte den Stadtrat, der alles geduldet hatte, auflösen, den Statthalter, der sich als unfähig erwiesen hatte, beseitigen, Ausnamszustand androhen und wenn nötig sofort verhängen – er konnte die Sprachenverordnungen</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_3054"/>sistiren 
@@ -4182,7 +4182,7 @@
                   <abbr xml:id="Bae_TB_2_3057">o.</abbr>
                   <expan xml:id="Bae_TB_2_3058">oder</expan>
                 </choice>
-                <app from="#" type="notEqual" xml:id="Bae_TB_2_3059">
+                <app from="#Bae_MF_1_3741" type="notEqual" xml:id="Bae_TB_2_3059">
                   <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3060">sistieren und</rdg>
                 </app>
                 <anchor xml:id="Bae_TB_2_3061"/>aufheben 
@@ -4205,11 +4205,11 @@
                 <expan xml:id="Bae_TB_2_3073">und</expan>
               </choice> unentschlossen. Die Deutschen beantworteten diese Zögerpolitik mit der gleichen Methode. Im 
               <date when="1897-10" xml:id="Bae_TB_2_3074">Oktober 1897</date>
-              <app from="#" type="equal" xml:id="Bae_TB_2_3075">
+              <app from="#Bae_MF_1_3745" type="equal" xml:id="Bae_TB_2_3075">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3076">und reinen Tisch machen. Nichts von alledem. Das Standrecht wurde verhängt zugleich der Landtag einberufen, der in solchen Zeiten nie einberufen werden durfte. Gautsch hat diesen Moment, das sündige Bewußtsein der Čechen, die die Prager Ereignisse angezettelt hatten, zu benützen, verpasst. An gutem Willen fehlte es ihm nicht. Das beweisen seine Verhandlungen mit aller Welt. Den Deutschen kam er entgegen, wenigstens auf halbem Wege, aber tastend und unentschlossen. Die Deutschen beantworteten diese Zögerpolitik mit der gleichen Methode. Im Oktober 1897</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_3077"/>mussten sie sich entschliessen 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_3078">
+              <app from="#Bae_MF_1_3755" type="notEqual" xml:id="Bae_TB_2_3078">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3079">hätten sie sich entschließen müssen</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_3080"/>das 
@@ -4285,11 +4285,11 @@
               <del rendition="#s" xml:id="Bae_TB_2_3129">eine</del>
               <add place="across" xml:id="Bae_TB_2_3130">wenigstens eine entschiedene</add> Annäherung. Es wurde ein gemeinsames Comité eingesetzt, das öfter zusammenkam. Ich verfasste eine Art Protokoll – von 
               <persName key="FunkeAlois" ref="https://d-nb.info/gnd/1072507609" xml:id="Bae_TB_2_3131">Funke</persName>
-              <app from="#" type="equal" xml:id="Bae_TB_2_3132">
+              <app from="#Bae_MF_1_3758" type="equal" xml:id="Bae_TB_2_3132">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3133">das Ausgleichsprovisorium parlamentarisch zu bewilligen, sonst in der äussersten Kampfesstellung zu bleiben. Sie hätten den Staat gerettet und ihre Kraft nicht vermindert. Statt dessen verhandelten sie, konnten das Aufhören der Obstruktion nicht zusagen und so kam es, daß Gautsch Anfang Dezember den Reichsrat schloß. Die Deutschen benützten ihren Sieg nicht, wie es schlechte, durch Zufall glückliche Feldherren tun. Damals konnten sie eine Reihe von Bedingungen stellen – sie hätten viel, sehr viel erreicht – aber das Provisorium parlamentarisch ermöglicht. Es war eben kein Führer da, die einzelnen deutschen Parteien trotz der erfolgten Annäherung eifersüchtig, Lueger auf der Lauer gegen den Ausgleich donnernd, niemand der so eine Idee aufgestellt und durchgefürt hätte. Vergebens natürlich machten wir diese Argumente geltend, vergebens predigten wir, die Situation doch politisch aufzufassen – es war umsonst. So versumpfte die ganze Situation in Verhandlungen, bei denen hin und hergeredet wurde, ohne Ziel, Sicherheit und Aufrichtigkeit. Unter den deutschen Parteien vollzog sich über unsere Anregung wenigstens eine entschiedene Annäherung. Es wurde ein gemeinsames Komitee eingesetzt, das öfter zusammenkam. Ich verfasste eine Art Protokoll – von Funke</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_3134"/>
-              <app from="#" type="missing" xml:id="Bae_TB_2_3135">
+              <app from="#Bae_MF_1_3790" type="missing" xml:id="Bae_TB_2_3135">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3136">theatralisch</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_3137"/>die magna charta!! genannt – worin wir uns zu einem gemeinsamen Vorgehen in den schwebenden Fragen verpflichteten. Sehr viele Divergenzen blieben übrig. 
@@ -4318,7 +4318,7 @@
                   <term key="Ausgleich" xml:id="Bae_TB_2_3155"/>
                 </index>
               </index> selbst zu verhandeln. 
-              <app from="#" type="equal" xml:id="Bae_TB_2_3156">
+              <app from="#Bae_MF_1_3793" type="equal" xml:id="Bae_TB_2_3156">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3157">die magna charta!! genannt – worin wir uns zu einem gemeinsamen Vorgehen in den schwebenden Fragen verpflichteten. Sehr viele Divergenzen blieben übrig. Lueger stand dem Ausgleich feindlich gegenüber, die deutsche Volkspartei weniger, die Fortschrittspartei unaufrichtig dagegen; wir unbedingt für das Provisorium und geneigt, den Ausgleich selbst zu verhandeln.</rdg>
               </app>
             </p>
@@ -4345,7 +4345,7 @@
                   <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_2_3173"/>
                 </index>
               </index> debattirt, die Deutschen stellten Forderungen auf, kamen aber wie gesagt politisch zu keinem Entschluss. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_3174">
+              <app from="#Bae_MF_1_3811" type="missing" xml:id="Bae_TB_2_3174">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3175"/>
               </app>
             </p>
@@ -4554,7 +4554,7 @@
                 <expan xml:id="Bae_TB_2_3321">und</expan>
               </choice> ist die offizielle Ausfertigung im Besitze des 
               <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_2_3322">Dr. Gross</persName>. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_3323">
+              <app from="#Bae_MF_1_3815" type="missing" xml:id="Bae_TB_2_3323">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3324"/>
               </app>
             </p>
@@ -4767,7 +4767,7 @@
                   <expan xml:id="Bae_TB_2_3481">Fürstenberg</expan>
                 </choice>
               </persName> verlangte dies besonders energisch selbst auf die Gefar eines Bruches mit den exclusiv nationalen Mitgliedern unserer Curie. 
-              <app from="#" type="missing" xml:id="Bae_TB_2_3482">
+              <app from="#Bae_MF_1_3819" type="missing" xml:id="Bae_TB_2_3482">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3483"/>
               </app>
             </p>
@@ -4775,10 +4775,10 @@
               <anchor xml:id="Bae_TB_2_3485"/>
               <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_2_3486">Lünz</placeName>, im 
               <date when="1898-02" xml:id="Bae_TB_2_3487">Februar 1898</date>
-              <app from="#" type="equal" xml:id="Bae_TB_2_3488">
+              <app from="#Bae_MF_1_3823" type="equal" xml:id="Bae_TB_2_3488">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3489"/>
               </app>
-            </p>
+            </p><!-- CA: ab hier korrespondiert das TB dann mit MF_2 -->
             <p xml:id="Bae_TB_2_3490">x x x</p>
           </div>
           <div xml:id="Bae_TB_2_3491">
