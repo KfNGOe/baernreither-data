@@ -452,7 +452,7 @@
             <app from="#Bae_MF_1_2560" type="missing" xml:id="Bae_TB_2_327">
               <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_328"/>
             </app>
-          </p>
+          </p><anchor/><!-- CA. anchor von addspan Bae_TB_2_281 -->
           <!-- DC Ende der Einklebungen -->
           <div xml:id="Bae_TB_2_329">
             <p xml:id="Bae_TB_2_330">
@@ -1215,7 +1215,7 @@
               <app from="#Bae_MF_1_2839" type="notEqual" xml:id="Bae_TB_2_886">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_887">Wir kamen soweit, daß ich am 21. Oktober den Entwurf eines Uebereinkommens zwischen Dipauli und den deutschen Parteien vorzulegen in der Lage war, welcher die einzelnen Punkte des abzuschließenden Paktes zusammenfasste.</rdg>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_784 -->
             <!-- DC Ende der Einfügung -->
             <p xml:id="Bae_TB_2_888">
               <anchor xml:id="Bae_TB_2_889"/>Unser Ziel bei der ganzen Sache war ein Doppeltes. Mit geringer Warscheinlichkeit, ohne sie aber ganz aufzugeben, dachten wir, dass in dem 
@@ -1443,7 +1443,7 @@
                   <term key="Ausgleichsprovisorium" xml:id="Bae_TB_2_1051"/>
                 </index>
               </index> in Verbindung gebracht worden ist, haben die Verhandlungen zu keinem Resultat geführt." 
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_1028 -->
             <!-- DC Ende der Einklebung -->
             <p xml:id="Bae_TB_2_1052">So unbefriedigend diese Angelegenheit vorläufig abschloss, so zog sie doch in der Folge immer weitere Wellen. Das Gefüge der 
               <orgName key="KatholischeVolkspartei" xml:id="Bae_TB_2_1053">
@@ -1764,7 +1764,7 @@
               <app from="#Bae_MF_1_2955" type="missing" xml:id="Bae_TB_2_1282">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1283"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_1248 -->
             <!-- DC Ende der Einklebung -->
             <p xml:id="Bae_TB_2_1284">
               <pb facs="#F_K4_Bae_TB_2-121" n="26r" xml:id="Bae_TB_2_1285"/>
@@ -2235,7 +2235,7 @@
               <app from="#Bae_MF_1_3041" type="missing" xml:id="Bae_TB_2_1623">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1624"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_1373 -->
             <!-- DC Ende der Einklebung -->
             <p xml:id="Bae_TB_2_1625">Unsere Erklärung die ich abgab, wurde als sehr scharf bezeichnet, was sie doch eigentlich nicht ist, weil sie den Schwerpunkt des Tadels darin findet, dass die 
               <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1626">Egerer</placeName> verfehlte Politik der Regierung die 
@@ -2784,7 +2784,7 @@
               <app from="#Bae_MF_1_3184" type="missing" xml:id="Bae_TB_2_2018">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2019"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_1857 -->
             <!-- DC Ende der Einklebung-->
             <p xml:id="Bae_TB_2_2020">
               <anchor xml:id="Bae_TB_2_2021"/>Wer die so 
@@ -3409,7 +3409,7 @@
               <app from="#Bae_MF_1_3403" type="missing" xml:id="Bae_TB_2_2483">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2484"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_2417 -->
             <!-- Ende der Einklebung -->
           </div>
           <div xml:id="Bae_TB_2_2485">
@@ -4112,7 +4112,7 @@
               <app from="#Bae_MF_1_3692" type="missing" xml:id="Bae_TB_2_3007">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3008"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_2931 -->
             <!-- DC Ende der Einklebung -->
             <anchor xml:id="Bae_TB_2_3009"/>
             <app from="#Bae_MF_1_3696" type="missing" xml:id="Bae_TB_2_3010">
@@ -4557,7 +4557,7 @@
               <app from="#Bae_MF_1_3815" type="missing" xml:id="Bae_TB_2_3323">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3324"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_3176 -->
             <!-- Ende der Eingklebung -->
             <pb facs="#F_K4_Bae_TB_2-149" n="54r" xml:id="Bae_TB_2_3325"/>
             <p xml:id="Bae_TB_2_3326">
@@ -4674,7 +4674,7 @@
               <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_3407">Vereinigung des verfassungstreuen Großgrundbesitzes</orgName> im 
               <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_3408">Abgeordnetenhause</orgName> des 
               <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_3409">Reichsrathes</orgName>. 
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_3337 -->
             <!-- DC Ende der Einklebung -->
             <pb facs="#F_K4_Bae_TB_2-149" n="54r" xml:id="Bae_TB_2_3410"/>
             <p xml:id="Bae_TB_2_3411">Ich besprach dieses Schriftstück mit 
@@ -4892,7 +4892,7 @@
             <p xml:id="Bae_TB_2_3571">So hat selbst ein 
               <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_2_3572">Macchiavell</persName> sich mit fremden Federn geschmückt! 
               <!-- DC Ende der Ergänzung -->
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_3556 -->
             <p xml:id="Bae_TB_2_3573">Es ist merkwürdig 
               <choice xml:id="Bae_TB_2_3574">
                 <abbr xml:id="Bae_TB_2_3575">u.</abbr>
@@ -6158,7 +6158,7 @@
               <app from="#Bae_MF_2_555" type="missing" xml:id="Bae_TB_2_4530">
                 <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4531"/>
               </app>
-            </p>
+            </p><anchor/> <!-- CA: anchor für addspan Bae_TB_2_4348 -->
             <!-- DC Ende der Einklebung -->
             <!-- Fortsetung fol 77r -->
             <p xml:id="Bae_TB_2_4532">
@@ -6640,7 +6640,7 @@
               <app from="#Bae_MF_2_688" type="missing" xml:id="Bae_TB_2_4891">
                 <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4892"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_4755 -->
             <!-- DC Ende der Einklebung -->
             <!-- DC Fortsetzung fol. 82r -->
             <p xml:id="Bae_TB_2_4893">
@@ -7582,7 +7582,7 @@
               <app from="#Bae_MF_2_1037" type="missing" xml:id="Bae_TB_2_5610">
                 <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5611"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_5493 -->
             <!-- DC Ende der Einklebung -->
             <!-- DC Fortsetzung auf fol. 98r -->
             <p xml:id="Bae_TB_2_5612">
@@ -8017,7 +8017,7 @@
               <app from="#Bae_MF_2_1264" type="missing" xml:id="Bae_TB_2_5952">
                 <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5953"/>
               </app>
-            </p>
+            </p><anchor/><!-- CA: anchor für addspan Bae_TB_2_5933 -->
             <!-- DC Ende der Einklebung -->
             <p xml:id="Bae_TB_2_5954">
               <anchor xml:id="Bae_TB_2_5955"/>Ein in modernster Expansion begriffenes Unternehmen, freilich gefördert, geradezu getragen durch die modernsten Bedürfnisse, nämlich den Kriegsbedarf. 

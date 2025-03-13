@@ -343,7 +343,7 @@
           <app from="#Bae_MF_1_114" type="missing" xml:id="Bae_TB_1_256">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_257"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA. anchor für addspan Bae_TB_1_209 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 3r-->
         <p xml:id="Bae_TB_1_258">
@@ -686,7 +686,7 @@
           <app from="#Bae_MF_1_269" type="missing" xml:id="Bae_TB_1_515">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_516"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA. anchor für addspan Bae_TB_1_476 -->
         <!-- DC Ende der Einklebung -->
         <p xml:id="Bae_TB_1_517">
           <anchor xml:id="Bae_TB_1_518"/>Ich möchte 
@@ -1045,7 +1045,7 @@
           <app from="#Bae_MF_1_416" type="missing" xml:id="Bae_TB_1_789">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_790"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_716 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung auf fol. 12r -->
         <p xml:id="Bae_TB_1_791">
@@ -1736,7 +1736,7 @@
           <app from="#Bae_MF_1_664" type="missing" xml:id="Bae_TB_1_1307">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1308"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_1202 -->
         <!-- DC Ende der Einklebung -->
         <!--DC Fortsetzung fol. 20r -->
         <p xml:id="Bae_TB_1_1309">
@@ -2634,7 +2634,7 @@
           <app from="#Bae_MF_1_957" type="notEqual" xml:id="Bae_TB_1_1971">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1972">dahin lautete, daß die Gruppe nach wie vor geneigt sei, die Regierung, wenn irgend möglich, in ihrer schwierigen Lage eine Majorität zu bilden, zu unterstützen, daß sie es jedoch ablehnen müsse, heute schon mit einem unbedingten Ja oder Nein zu antworten, weil die Majoritätsbildung selbst, sowie das darauf basierte Regierungsprogramm noch nicht feststehe.</rdg>
           </app>
-        </p>
+        </p><anchor/><!-- CA. anchor für addspan Bae_TB_1_1953 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung auf fol. 28r -->
         <p xml:id="Bae_TB_1_1973">
@@ -3022,7 +3022,7 @@
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_2272">Jungčechenclub</orgName> und der 
           <orgName xml:id="Bae_TB_1_2273">slavisch-christlich-nationalen Vereinigung</orgName> geeinigt, um eine gemeinsame parlamentarische Commission einzusetzten. Ferner erachtet der 
           <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_1_2274">Polenclub</orgName> den Anschluß der liberalen Großgrundbesitzer an diese Regierungsmajorität für wünschenswerth." 
-        </p>
+        </p><anchor/><!-- CA. anchor für addspann Bae_TB_1_2263 -->
         <!-- DC Ende der Einklebung -->
         <p xml:id="Bae_TB_1_2275">
           <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_TB_1_2276">Dzieduszycki</persName> war zugegen, 
@@ -3067,7 +3067,7 @@
           <app from="#Bae_MF_1_1122" type="missing" xml:id="Bae_TB_1_2307">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2308"/>
           </app>
-        </p>
+        </p><anchor/> <!-- CA. anchor für addspan Bae_TB_1_2295 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung auf fol. 34r -->
         <p xml:id="Bae_TB_1_2309">
@@ -3185,7 +3185,7 @@
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2396">verfassungstreue Großgrundbesitz</orgName> hat es für seine Pflicht gehalten, seine guten Dienste unbeirrt und unermüdlich für die Bildung einer parlamentarischen Majorität einzusetzen, in welcher außer dem 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2397">verfassungstreuen Großgrundbesitze</orgName> auch noch andere Vertreter, denen er nach seinen politischen und wirthschaftlichen Ansichten nahesteht, hätten Platz finden und für die ihnen von den Wählern anvertrauten Interessen hätten wirken können. Seither hat die Regierung ihr weiteres Verbleiben im Amte mit der Erklärung verbunden, auf die Bildung einer bstimmten Majorität vorläufig zu verzichten. Bedeutsam für die Entwicklung unserer parlamentarischen Verhätltnisse und entscheidend für unser weiteres Verhalten ist aber zugleich der Umstand geworden, daß sich nach den vorliegenden Anzeichen eine Majorität zusammenzufinden scheint, welcher der 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2398">verfassungstreue Großgrundbesitz</orgName> selbstverständlich nicht angehören kann. Dieser politischen Situation gegenüber haben wir unzweideutig zu erklären, daß wir, unsere Stellung nach allen Seiten wahrend, den kommenden Ereignissen gegenüber unser Verhalten nach jenen Erklärungen, die wir in unserem Wahlaufrufe kundgegeben haben, einrichten und uns hiebei stets von den Pflichten gegenüber den staatlichen Interessen werden leiten lassen. 
-        </p>
+        </p><anchor/><!-- CA. anchor für addspan Bae_TB_1_2389 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung auf fol. 35r -->
         <p xml:id="Bae_TB_1_2399">Am Schlusse derselben hatten wir den Hinweis auf "die staatlichen Interessen" dem an 
@@ -3736,7 +3736,7 @@
           <app from="#Bae_MF_1_1390" type="missing" xml:id="Bae_TB_1_2819">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2820"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_2724 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung auf fol. 41r -->
         <p xml:id="Bae_TB_1_2821">
@@ -4430,7 +4430,7 @@
           <app from="#Bae_MF_1_1644" type="missing" xml:id="Bae_TB_1_3329">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_3330"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_3270 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 49r -->
         <p xml:id="Bae_TB_1_3331">
@@ -4795,7 +4795,7 @@
           <app from="#Bae_MF_1_1713" type="missing" xml:id="Bae_TB_1_3602">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_3603"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA. anchor für addspan Bae_TB_1_3494 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung auf fol. 52r -->
         <p xml:id="Bae_TB_1_3604">
@@ -5204,7 +5204,7 @@
           <app from="#Bae_MF_1_1845" type="missing" xml:id="Bae_TB_1_3909">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_3910"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_3854 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 57r -->
         <p xml:id="Bae_TB_1_3911">
@@ -5463,7 +5463,7 @@
         <p xml:id="Bae_TB_1_4100">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_4101">Wien</placeName>, am 
           <date when="1897-06-02" xml:id="Bae_TB_1_4102">2. Juni 1897</date>. 
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_4079 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 62r -->
         <p xml:id="Bae_TB_1_4103">Die von ihm angekündigte Erklärung blieb aber bis jetzt ( 
@@ -5837,7 +5837,7 @@
               <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_1_4392"/>
             </index>
           </index> Meldung zu erstatten, eventuell sofort die gerichtliche Anzeige zu veranlassen und hierüber, sowie über die Resultate des bezirksgerichtlichen Verfahrens oder über die allfällige Zurücklegung der Anzeige ungesäumt zu berichten." 
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_4377 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 68r -->
         <p xml:id="Bae_TB_1_4393">Allgemein wurde er als unmoralisch bezeichnet 
@@ -5986,7 +5986,7 @@
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4504">verfassungstreue Großgrundbesitz</orgName> veranlaßt gesehen, der Obstruktion beizutreten oder nichts zu thun, was deren Mäßigung veranlaßt hätte. Unter allen Umständen ist ein solches Vorgehen unerklärlich. Von czechischer Seite wurde die wilde Obstruktion mit großer Befriedigung aufgenommen. Die Czechen sind von Hause aus Gegner des Zentralismus und möchten am liebsten die ganze legislative Thätigkeit in die Landtage zurückversetzt und das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_4505">Abgeordetenhaus</orgName> auf die Verhandlung der Budget- und Wehrvorlagen beschränkt sehen; darum ist von ihrer Seite – obwohl sie die stärkste Partei im 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_4506">Parlament</orgName> bilden – nichts geschehen, um die Obstruktion einzudämmen. 
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_4461 -->
         <!-- Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 69r -->
         <p xml:id="Bae_TB_1_4507">Ob er aus dem 
@@ -6131,7 +6131,7 @@
         </p>
         <p xml:id="Bae_TB_1_4617">
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_1_4618">Dr. Joseph Maria Bärnreither</persName>." 
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_4548 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 70r -->
         <p xml:id="Bae_TB_1_4619">Vor der Publication teilte ich es – vielleicht aus übertriebener Höflichkeit – 
@@ -6294,7 +6294,7 @@
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_4743">Abgeordnetenhause</orgName> gedacht, derselben allseitig die Zustimmung ausgesprochen und insbesondere den beiden Obmännern, 
           <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_4744">Baron Ludwigstorff</persName> und 
           <persName key="DubskyGuido" xml:id="Bae_TB_1_4745">Grafen Dubsky</persName>, der Dank ausgedrückt. 
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_4641 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 70r -->
         <p xml:id="Bae_TB_1_4746">Fast alle der Eingeladenen erschienen, selbst von 
@@ -6537,7 +6537,7 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_4912">Oesterreich</placeName> mit voller Entschiedenheit eintreten. Nur eine kraftvolle Initiative aus dem österreichischen Staatsgedanken heraus, getragen von Autorität und Billigkeit nach allen Seiten, kann Hilfe bringen. 
         </p>
         <p xml:id="Bae_TB_1_4913">Die Lösung der Krise kann nur erfolgen, und unser Vaterland kann nur dann vor unberechenbaren Gefahren bewahrt werden, wenn das Reich vor einer in den Mitteln und Zielen unklaren staatsrechtlichen Rückbildung gesichert und wenn dem deutschen Volksstamme, dem ältesten Sohne der österreichischen Völkerfamilie, von dessen hingebungsvoller Treue die erlauchte Dynastie durch Jahrhunderte Beweise erhalten hat, seine berechtigte Stellung gewahrt bleibt.”</p>
-        <!-- DC Ende der Einklebung -->
+        <anchor/><!-- CA: anchor für addspan Bae_TB_1_4892 --><!-- DC Ende der Einklebung -->
         <pb facs="#F_K6_Bae_TB_1-073" n="73r" xml:id="Bae_TB_1_4914"/>
         <p xml:id="Bae_TB_1_4915">Gleich nach mir ergriff 
           <hi rendition="ul" xml:id="Bae_TB_1_4916">
@@ -7141,7 +7141,7 @@
           <app from="#Bae_MF_1_2296" type="missing" xml:id="Bae_TB_1_5378">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5379"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_5335 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 86r -->
         <p xml:id="Bae_TB_1_5380">
@@ -7215,7 +7215,7 @@
           <app from="#Bae_MF_1_2303" type="missing" xml:id="Bae_TB_1_5434">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5435"/>
           </app>
-        </p>
+        </p><anchor/><!-- CA: anchor für addspan Bae_TB_1_5385 -->
         <!-- DC Ende der Einklebung -->
         <!-- DC Fortsetzung fol. 86r -->
         <p xml:id="Bae_TB_1_5436">
