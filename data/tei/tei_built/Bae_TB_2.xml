@@ -391,7 +391,7 @@
           <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_2_279">Ludwigstorff's</persName> war Schuld, dass wir im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_280">Hause</orgName> vor der Abstimmung keine diesbezügliche Erklärung abgaben; wir halfen uns daher mit einem nachträglichen, unsere Abstimmung motivierenden Communiqué. 
         </p>
-        <addSpan xml:id="Bae_TB_2_281"/>
+        <addSpan spanTo="#Bae_TB_2_6005" type="insertion" xml:id="Bae_TB_2_281"/>
         <!-- Communique von fol. 5v -->
         <div xml:id="Bae_TB_2_282">
           <p xml:id="Bae_TB_2_283">[handschriftlich]: Unser Communiqué.</p>
@@ -1066,7 +1066,7 @@
               <pb facs="#F_K4_Bae_TB_2-115" n="20r" xml:id="Bae_TB_2_783"/>zusammenfasste. Man ersieht aus demselben, wie detaillirt die Abmachungen waren. 
             </p>
             <!-- DC handschriftliche Einfügung mit Tinte auf 19v und 20v -->
-            <addSpan xml:id="Bae_TB_2_784"/>
+            <addSpan spanTo="#Bae_TB_2_6006" type="insertion" xml:id="Bae_TB_2_784"/>
             <p xml:id="Bae_TB_2_785">Der Entwurf des Uebereinkommens</p>
             <p xml:id="Bae_TB_2_786">" 
               <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_787">Baron Dipauli</persName> wird in einer der nächsten Sitzungen einen 
@@ -1417,7 +1417,7 @@
               <anchor xml:id="Bae_TB_2_1027"/>Nach Abschluss der Verhandlungen gaben wir ein Communiqué heraus. 
             </p>
             <!-- Einklebung Zeitungsausschnitt von fol. 21v-->
-            <addSpan xml:id="Bae_TB_2_1028"/>
+            <addSpan spanTo="#Bae_TB_2_6007" type="insertion" xml:id="Bae_TB_2_1028"/>
             <p xml:id="Bae_TB_2_1029">[handschriftlich] Unser Communiqué</p>
             <p xml:id="Bae_TB_2_1030">In 
               <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_2_1031">Wien</placeName> wurde gestern (Samstag) folgendes vom 
@@ -1728,7 +1728,7 @@
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1247">Badeni's</persName> zur Sache beeinflussten etwas veränderten, nämlich bezüglich der Authenticität des Textes der Verordnung hypothetischen Form. 
             </p>
             <!-- DC Einklebung Zeitungsartikel 24v -->
-            <addSpan xml:id="Bae_TB_2_1248"/>
+            <addSpan spanTo="#Bae_TB_2_6009" type="insertion" xml:id="Bae_TB_2_1248"/>
             <anchor xml:id="Bae_TB_2_6008"/>
             <p xml:id="Bae_TB_2_1249">[handschriftlich]: Unsere Erklärung vom 
               <date when="1897-11-14" xml:id="Bae_TB_2_1250">14 Novbr.</date>
@@ -1896,7 +1896,7 @@
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1372">Daß bei der Ministeranklage wegen der Egerer Ereignisse alle Register gezogen wurden, ist selbstverständlich.</rdg>
               </app>
             </p>
-            <addSpan xml:id="Bae_TB_2_1373"/>
+            <addSpan spanTo="#Bae_TB_2_6011" type="insertion" xml:id="Bae_TB_2_1373"/>
             <!-- Einklebung Zeitungsartikel fol. 27v, 28v, 29v -->
             <p xml:id="Bae_TB_2_1374">
               <anchor xml:id="Bae_TB_2_6010"/>[handschriftlich]: Unsere Erklärung zur 
@@ -2572,7 +2572,7 @@
               </app>
             </p>
             <!-- DC Einklebung Artikel fol. 32v und 33v -->
-            <addSpan xml:id="Bae_TB_2_1857"/>
+            <addSpan spanTo="#Bae_TB_2_6012" type="insertion" xml:id="Bae_TB_2_1857"/>
             <p xml:id="Bae_TB_2_1858">
               <anchor xml:id="Bae_TB_2_1859"/>[handschriftlich]: 
               <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_TB_2_1860">Budgetausschusssitzung</orgName> vom 
@@ -2837,7 +2837,7 @@
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2044">Wer die so und so vielen Minoritätsvoten durchliest, die schließlich angemeldet wurden, darf nichts suchen, was einer staatsmännischen, halbwegs objektiven, sachlich begründeten Auffassung des schwierigen wirtschaftlichen Verhältnisses auch nur ähnlich sehen würde. Der Parlamentarismus ist ohne einer starken, wirklich führenden Regierung und Parteien, die, wenn auch rücksichtslos, aber offen und ehrlich nach dem Kern ihrer Ueberzeugungen reden und handeln, eine unerträgliche Komödie. Wenn irgend eine Partei im ganzen Haus, so hat die so viele gewerbliche und industrielle Interessen vertretende deutsche Fortschrittspartei alle Ursache für einen möglichen Ausgleich mit Ungarn einzutreten. Und gerade sie war es, die</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2045"/>diese Frage dem 
-              <app from="#" type="notEqual" xml:id="Bae_TB_2_2046">
+              <app from="#Bae_MF_1_3833" type="notEqual" xml:id="Bae_TB_2_2046">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2047">dieser Frage den</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2048"/>
@@ -3329,7 +3329,7 @@
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2416">später entwickelten. Nur rechneten wir nicht mit jenem Maß von Ungeschick und Gewalttat, wie die ertrinkende Regierung und die fanatisirte Majorität sie thatsächlich geübt haben. Stürgkh, der diese Information dem Baron Wolfarth schriftlich überreichte, hatte den Eindruck, daß man im Ministerium des Aeussern, wenigstens in den Kreisen der altösterreichische Beamten, über Badeni wütend sei. Doch sah man auch von dort untätig zu. Arco im Februar 1898.</rdg>
               </app>
             </p>
-            <addSpan xml:id="Bae_TB_2_2417"/>
+            <addSpan spanTo="#Bae_TB_2_6013" type="insertion" xml:id="Bae_TB_2_2417"/>
             <!-- DC Einklebung von fol. 38v, 39v und 40v -->
             <pb facs="#F_K4_Bae_TB_2-134" n="38v" xml:id="Bae_TB_2_2418"/>
             <p xml:id="Bae_TB_2_2419">
@@ -3506,7 +3506,7 @@
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2540"/>
               </app>
               <anchor xml:id="Bae_TB_2_2541"/>
-              <app from="#" type="missing" xml:id="Bae_TB_2_2542">
+              <app from="#Bae_MF_1_3834" type="missing" xml:id="Bae_TB_2_2542">
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2543">durchberaten hatten,</rdg>
               </app>
               <anchor xml:id="Bae_TB_2_2544"/>
@@ -4018,7 +4018,7 @@
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2930">Erklärung auftraten und in der halb gewonnenen Schlacht der Obstruktion als die schwere Kavallerie durch einen Chok den Sieg entschieden. Gegen die lex Falkenhayn hatten wir einen Protest vorbereitet, den Stürgkh vortragen sollte. Es kam nicht dazu, weil überhaupt niemand mehr zu Worte kam. Ich beantragte die Veröffentlichung, die an jenem denkwürdigen ersten Adventsonntage erfolgte und wie ich erfuhr auf die an diesem Vormittage gefassten Entschlüsse nicht ohne Einfluß war.</rdg>
               </app>
             </p>
-            <addSpan xml:id="Bae_TB_2_2931"/>
+            <addSpan spanTo="#Bae_TB_2_6014" type="insertion" xml:id="Bae_TB_2_2931"/>
             <!-- DC Einklebung fol. 50 v -->
             <p xml:id="Bae_TB_2_2932">
               <anchor xml:id="Bae_TB_2_2933"/>Unser Protest gegen die 
@@ -4369,7 +4369,7 @@
                 <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3175"/>
               </app>
             </p>
-            <addSpan xml:id="Bae_TB_2_3176"/>
+            <addSpan spanTo="#Bae_TB_2_6015" type="insertion" xml:id="Bae_TB_2_3176"/>
             <!-- Einklebung von fol. 51v und 52v -->
             <pb facs="#F_K4_Bae_TB_2-147" n="51v" xml:id="Bae_TB_2_3177"/>
             <p xml:id="Bae_TB_2_3178">
@@ -4596,7 +4596,7 @@
             <p xml:id="Bae_TB_2_3335">Zum Schluss verfasste ich ein Rundschreiben zwar im Bette liegend doch überzeugt dass wir verpflichtet seien den 
               <hi rendition="#ul" xml:id="Bae_TB_2_3336">österreichischen</hi> Sinn unserer Politik zu rechtfertigen. 
             </p>
-            <addSpan xml:id="Bae_TB_2_3337"/>
+            <addSpan spanTo="#Bae_TB_2_6016" type="insertion" xml:id="Bae_TB_2_3337"/>
             <!-- DC Einklebung von fol. 55v, 56v, 57v. -->
             <pb facs="#F_K4_Bae_TB_2-151" n="55v" xml:id="Bae_TB_2_3338"/>
             <p xml:id="Bae_TB_2_3339">[handschriftlich]: Das Rundschreiben an unsere Wähler nach Schluss der Session im Winter 1897 vom 
@@ -4894,7 +4894,7 @@
               <persName key="Kunze" xml:id="Bae_TB_2_3554">Dr. Kunze</persName> gewährte, brachten eine Besserung hervor. Ich konnte mit Hülfe eines Lehrers den principe von 
               <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_2_3555">Macchiavell</persName> wieder einmal in Originalsprache lesen, eine unbewusste Vorbereitung für die kommenden Monate! 
             </p>
-            <addSpan xml:id="Bae_TB_2_3556"/>
+            <addSpan spanTo="#Bae_TB_2_6017" type="insertion" xml:id="Bae_TB_2_3556"/>
             <!-- DC Ergänzung mit Tinte -->
             <p xml:id="Bae_TB_2_3557">Ich habe seither gelesen, dass 
               <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_2_3558">Macchiavell</persName> in seinen Schriften manchmal wörtlich Gedanken 
@@ -5934,7 +5934,7 @@
                 <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4347">anhängig sei. Dies gab mir Gelegenheit mit den einzelnen Referenten und selbst den jungen Herren des Hauses zu verkehren, ihre Fähigkeiten kennen zu lernen. Vielen Wünschen konnte ich rasch entsprechen, so gleich am Anfang der Bitte des Handelsmuseums um eine Subvention von 20.000 Fl. zur Errichtung einer "Exportakademie", einvvielleicht nicht ganz glücklicher Name für eine sehr gute Sache, nämlich für eine höhere Handelsschule nach dem Muster gleicher Anstalten in Deutschland. Im Oktober konnte dieselbe bereits eröffnet werden. Eine große Zahl besonderer Fälle in denen Industrielle über Benachteiligung durch Behörden, Eisenbahnen u.s.w. klagten machte ich zum Gegenstand sofortiger, teils mündlicher, teils schriftlicher Vorstellungen und erzielte manchmal trotz der Schwerfälligkeit unserer Verwaltung rasche Erfolge, welche die Betreffenden gewöhnlich weit über das Maß meines Verdienstes in Erstaunen setzten und zu Dank verpflichteten. Auf diese Weise kam ich sehr bald in Kontakt mit vielen Industriellen und Gewerbetreibenden und war mir bald klar, in welcher Richtung sich meine Industriepolitik werde zu bewegen haben. Bei den Herren der handelspolitischen Sektion, Stibral und Rössler, fand ich sofort Verständniss und Mitwirkung bei meinen rasch reifenden Ideen. In täglichen Gesprächen mit ersterem redete ich mich über vieles klar und nahm andrerseits nach und nach die Grundzüge unserer Handelspolitik, wie sie sich dem Ausland und Ungarn gegenüber entwickelt hat, in mich auf, während Rössler mir stets bereitwillig Material beschaffte und zur Ausführung brachte was nach und nach fertig wurde. Gleich in den ersten Wochen beschäftigte mich die Idee des Industriebeirates. Anfangs hatte ich ihn mir als Volkswirtschaftsrat gedacht und darnach Statuten entworfen. Ein Gutachten, welches mir Phillipovic über das Statut erstattete, ließ mich die Idee aufgeben. Zum "Volks"wirtschaftsrat gehörte nach seiner Ansicht auch die Sozialpolitik und in einen solchen "Rat" demnach auch Arbeiter. Da mir aber klar war, daß ich diese Fragen trennen müsse so arbeitete ich das Statut um in einen "Industrie- und Landwirtschaftsrat", wobei die den letzteren betreffenden §§ im Ackerbauministerium verfasst wurden. Den Kaiser informierte ich auch noch in diesem Werdestadium von der geplanten Institution. Er gab mir den Rat die Sache nicht "bureaukratisch" einzurichten, hielt sie für nützlich, aber offenbar nicht für bedeutend. Auch ich überschätzte das Ganze von Anfang an keineswegs.</rdg>
               </app>
             </p>
-            <addSpan xml:id="Bae_TB_2_4348"/>
+            <addSpan spanTo="#Bae_TB_2_6019" type="insertion" xml:id="Bae_TB_2_4348"/>
             <!-- Einklebung fol. 75v, 76v, 77v, 78v, 79v, 80v -->
             <pb facs="#F_K4_Bae_TB_2-171" n="75v" xml:id="Bae_TB_2_4349"/>
             <p xml:id="Bae_TB_2_4350">
@@ -6492,7 +6492,7 @@
                 <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4754">Elaborat las, zur Feder griff und den Regentag so gut benützte, daß ich die ganzen Motive umarbeitete, in die Staatsdruckerei schickte und zwei Tage darauf die Korrekturbögen dem erstaunten Mataja zur Durchsicht übergab. Auch die Ernennung der 24 Mitglieder des Arbeitsrates war mühsam. Sie hat eine grosse Korrespondenz und manche Konferenz gekostet. Bezüglich der Ernennung der Arbeiter setzte ich mich mit der Leitung der socialdemokratischen Partei in Verbindung, aber erst als ich selbständig eine Liste zusammengestellt hatte, von der ich wußte, daß sie die richtigen, d.h. führenden Personen enthielt und die daher von der Parteileitung der Socialdemokratie ohne weiteres akzeptiert wurde. Die Eröffnungsrede bei Konstituierung des Arbeitsrates war meine letzte Amtshandlung vor der Oeffentlichkeit; sie fand am 25. September statt, da aber der Reichsrat tags darauf wieder eröffnet wurde, wurde sie so ziemlich übertönt.</rdg>
               </app>
             </p>
-            <addSpan xml:id="Bae_TB_2_4755"/>
+            <addSpan spanTo="#Bae_TB_2_6020" type="insertion" xml:id="Bae_TB_2_4755"/>
             <!-- Einklebung Zeitungsartikel -->
             <pb facs="#F_K4_Bae_TB_2-176" n="80v" xml:id="Bae_TB_2_4756"/>
             <p xml:id="Bae_TB_2_4757">
@@ -7464,7 +7464,7 @@
                 <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5492">großartiger, dann in Schio das Etablissement der Familie Rossi habe ich als ähnlich in der Erinnerung. Die längste und interessanteste Informationsreise trat ich am letzten Juli an.</rdg>
               </app>
             </p>
-            <addSpan xml:id="Bae_TB_2_5493"/>
+            <addSpan spanTo="#Bae_TB_2_6021" type="insertion" xml:id="Bae_TB_2_5493"/>
             <!-- Einklebung Zeitungsartikel fol. 98v, 99v -->
             <p xml:id="Bae_TB_2_5494">
               <pb facs="#F_K4_Bae_TB_2-194" n="98v" xml:id="Bae_TB_2_5495"/>
@@ -8024,7 +8024,7 @@
               </app>
               <pb facs="#F_K4_Bae_TB_2-200" n="104v" xml:id="Bae_TB_2_5931"/>
               <anchor xml:id="Bae_TB_2_5932"/>
-              <addSpan xml:id="Bae_TB_2_5933"/>
+              <addSpan spanTo="#Bae_TB_2_6022" type="insertion" xml:id="Bae_TB_2_5933"/>
               <!-- DC Einklebung fol. 104v --> [ 
               <index xml:id="Bae_TB_2_5934">
                 <term key="Baernreither" xml:id="Bae_TB_2_5935">Inspectionsreise</term>

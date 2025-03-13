@@ -89,7 +89,7 @@
           </index> zu berichten. 
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 1v, 2v, 3v) -->
-        <addSpan xml:id="Bae_TB_3_61"/>
+        <addSpan spanTo="#Bae_TB_3_5314" type="insertion" xml:id="Bae_TB_3_61"/>
         <p xml:id="Bae_TB_3_62">
           <pb facs="#F_K4_Bae_TB_3-203" n="1v" xml:id="Bae_TB_3_63"/>[handschriftlich:] " 
           <orgName key="BotevonderYbbs" xml:id="Bae_TB_3_64">Bote von der Ybbs</orgName>", 
@@ -1405,7 +1405,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1052">durch. In einer späteren Sitzung erklärte er diese Absicht endgiltig aufzugeben unter Ausdrücken über Dipauli, die so unparlamentarisch waren, daß ich sie nicht wiederholen will. In diese Tage fiel auch eine Debatte über die Herabsetzung der Getreidezölle in Folge der hohen Getreidepreise, in der ich durch eine geschickte Erklärung im Hause die Gefahr für das Ministerium parierte. Endlos zog sich die Sprachendebatte hin bis am 9. Mai das Haus wegen den in Budapest tagenden Delegationen seine Sitzungen aussetzte. Die Pause währte bis 26. Mai. Während dieser Zeit häufte die Regierung Fehler auf Fehler. Ganz nachgibig nach oben, von unverständiger und unüberlegter Schroffheit nach unten, verwandelte Thun in diesen Tagen die zuwartende Stellung der Deutschen ihm gegenüber</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_1053"/>zu einer feindseligen. 
-          <app from="#" type="notEqual" xml:id="Bae_TB_3_1054">
+          <app from="#Bae_MF_2_4200" type="notEqual" xml:id="Bae_TB_3_1054">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1055">in eine feindselige.</rdg>
           </app>
         </p>
@@ -1873,7 +1873,7 @@
           </app>
         </p>
         <!-- DC Einklebung von fol. 25v und 26v -->
-        <addSpan xml:id="Bae_TB_3_1415"/>
+        <addSpan spanTo="#Bae_TB_3_5315" type="insertion" xml:id="Bae_TB_3_1415"/>
         <p xml:id="Bae_TB_3_1416">
           <anchor xml:id="Bae_TB_3_1417"/>
           <hi xml:id="Bae_TB_3_1418">Die Kundgebung des 
@@ -2385,7 +2385,7 @@
           </app>
         </p>
         <!-- DC: Einklebung Zeitungsartikel von fol. 31v -->
-        <addSpan xml:id="Bae_TB_3_1800"/>
+        <addSpan spanTo="#Bae_TB_3_5316" type="insertion" xml:id="Bae_TB_3_1800"/>
         <p xml:id="Bae_TB_3_1801">
           <anchor xml:id="Bae_TB_3_1802"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_1803">Wien</placeName>, 
@@ -2776,7 +2776,7 @@
           </app>
         </p>
         <!-- DC Einklebung Zeitungsausschnitt fol. 37v und 38v -->
-        <addSpan xml:id="Bae_TB_3_2087"/>
+        <addSpan spanTo="#Bae_TB_3_5319" type="insertion" xml:id="Bae_TB_3_2087"/>
         <p xml:id="Bae_TB_3_2088">
           <anchor xml:id="Bae_TB_3_2089"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_2090">Wien</placeName>, 
@@ -2948,7 +2948,7 @@
           <placeName key="Bruex" ref="http://www.geonames.org/3070291/most.html" xml:id="Bae_TB_3_2214">Brüx</placeName>, vom 
           <date when="1898-08-23" xml:id="Bae_TB_3_2215">23.</date> bis 
           <app from="#Bae_MF_2_2395" type="equal" xml:id="Bae_TB_3_2216">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2217">Neben meiner Anteilname an den Ausgleichsfragen und meinen Reisen nach dem Küstenland, nach Ischl, Budapest und Böhmen beschäftigten mich mehrere wichtige Ressortangelegenheiten und wenn ich mein Diarium des Monats August überblicke, so wundere ich mich selbst, wie ich alles zu Stande brachte. Vom 1. bis 5. in Krain und im Küstenland, den 6. und 7. scharfe Ausgleichskonferenzen in Wien, vom 13. bis 16. in Ischl wegen des Ausgleiches, am 17. und 18. wichtige Ministerberatungen wegen Ungarn in Wien, vom 19. bis 22. in Pilsen, Karlsbad und Brüx, vom 23. bis</rdg>
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2217">Neben meiner Anteilnahme an den Ausgleichsfragen und meinen Reisen nach dem Küstenland, nach Ischl, Budapest und Böhmen beschäftigten mich mehrere wichtige Ressortangelegenheiten und wenn ich mein Diarium des Monats August überblicke, so wundere ich mich selbst, wie ich alles zu Stande brachte. Vom 1. bis 5. in Krain und im Küstenland, den 6. und 7. scharfe Ausgleichskonferenzen in Wien, vom 13. bis 16. in Ischl wegen des Ausgleiches, am 17. und 18. wichtige Ministerberatungen wegen Ungarn in Wien, vom 19. bis 22. in Pilsen, Karlsbad und Brüx, vom 23. bis</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_2218"/>
           <date when="1898-08-25" xml:id="Bae_TB_3_2219">25.</date>
@@ -3058,7 +3058,7 @@
           </app>
         </p>
         <!-- DC Einklebung Einladung Ministerratssitzung -->
-        <addSpan xml:id="Bae_TB_3_2297"/>
+        <addSpan spanTo="#Bae_TB_3_5321" type="insertion" xml:id="Bae_TB_3_2297"/>
         <p xml:id="Bae_TB_3_2298">
           <anchor xml:id="Bae_TB_3_2299"/>[handschriftlich:] Die letzte 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2300">Ministerratssitzung</orgName> der ich beiwohnte. 
@@ -3253,7 +3253,7 @@
           </app>
         </p>
         <!-- DC: Einklebung Telegramm fol. 41v und 42v-->
-        <addSpan xml:id="Bae_TB_3_2440"/>
+        <addSpan spanTo="#Bae_TB_3_5322" type="insertion" xml:id="Bae_TB_3_2440"/>
         <p xml:id="Bae_TB_3_2441">
           <anchor xml:id="Bae_TB_3_2442"/>[handschriftlich:] Telegramm des 
           <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_3_2443">deutschen Kaisers</persName> an 
@@ -3357,7 +3357,7 @@
           </app>
         </p>
         <!-- DC Einklebung -->
-        <addSpan xml:id="Bae_TB_3_2514"/>
+        <addSpan spanTo="#Bae_TB_3_5323" type="insertion" xml:id="Bae_TB_3_2514"/>
         <p xml:id="Bae_TB_3_2515">
           <anchor xml:id="Bae_TB_3_2516"/>[handschriftlich]: Uebliche Form der Ansage der 
           <choice xml:id="Bae_TB_3_2517">
@@ -3678,7 +3678,7 @@
           </app>
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 48v und 49v -->
-        <addSpan xml:id="Bae_TB_3_2747"/>
+        <addSpan spanTo="#Bae_TB_3_5324" type="insertion" xml:id="Bae_TB_3_2747"/>
         <p xml:id="Bae_TB_3_2748">
           <anchor xml:id="Bae_TB_3_2749"/>[handschriftlich]: Wie ungeschickt 
           <choice xml:id="Bae_TB_3_2750">

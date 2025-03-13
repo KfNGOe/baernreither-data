@@ -283,7 +283,7 @@
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_207">Statthalters</persName> vom 
           <date when="1897-01-26" xml:id="Bae_TB_1_208">26.1.1897</date>
         </p>
-        <addSpan xml:id="Bae_TB_1_209"/>
+        <addSpan spanTo="#Bae_TB_1_5680" type="insertion" xml:id="Bae_TB_1_209"/>
         <p xml:id="Bae_TB_1_210">Statthalter 
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_211">Graf Coudenhove</persName> (čechisch): Hoher 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_212">Landtag</orgName>! Seine Excellenz der Herr 
@@ -635,7 +635,7 @@
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_474">Statthalters</persName> vom 
           <date when="1897-02-05" xml:id="Bae_TB_1_475">5. Feburar 1897</date>
         </p>
-        <addSpan xml:id="Bae_TB_1_476"/>
+        <addSpan spanTo="#Bae_TB_1_5681" type="insertion" xml:id="Bae_TB_1_476"/>
         <p xml:id="Bae_TB_1_477">Statthalter 
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_478">Graf Coudenhove</persName>: Ich bin gern bereit demjenigen Theil der Ausführungen des verehrten Herrn Vorredners, in welchem er sich mit der Regierungserklärung beschäftigt hat, Rechnung zu tragen und mich an der Discussion über diese Erklärung zu betheiligen, und da habe ich zunächst im Namen der Regierung die Erklärung abzugeben, daß dieselbe gegen die Annahme dieses Antrages von ihrem Standpuncte aus keinerlei Einwendung zu erheben hat (Heiterkeit bei den Deutschen), und dies umso weniger, weil seit der Abgabe dieser Erklärung dieselbe in der Oeffentlichkeit vielfach eine nach Meinung der Regierung etwas tendenziöse Behandlung erfahren hat (Oho!) und als vielfach der Versuch gemacht worden ist, diese Erklärung als Waffe im nationalen Kampfe zu benützen. Der Regierung kann daher eine objective und ruhige Besprechung ihrer Erklärung im Schoße eines Ausschußes nur erwünscht sein. Die Regierung hätte zwar gemeint, daß die offene Sprache, die sie geführt hat, und daß die Intentionen, die sie zum Ausdrucke gebracht hat, es weniger nothwendig gemacht hätten, ihre Erklärung zum Gegenstande commissioneller Erörterungen zu machen, als wenn sie es vorgezogen hätte, sich in diplomatisches Schweigen zu hüllen, allein mit derselben Offenheit und Loyalität, mit welcher die Regierung gleich bei Beginn der Verhandlungen dieses hohen 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_479">Landtages</orgName> mit ihrer Erklärung hervorgetreten ist, mit derselben Offenheit und Loyalität nimmt sie auch den Antrag des Abg. 
@@ -752,7 +752,7 @@
           </choice> sehr fleissig. Er arbeitete sich täglich durch einen Stoss Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instructionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Ein 
           <del rendition="#s" xml:id="Bae_TB_1_563">fluss</del>
           <add place="across" xml:id="Bae_TB_1_564">lauf</add> stets 
-          <app from="#" type="equal" xml:id="Bae_TB_1_565">
+          <app from="#Bae_MF_1_3828" type="equal" xml:id="Bae_TB_1_565">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_566">In der Besorgung der Parteigeschäfte war Schlesinger, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der größten Gewissenhaftigkeit und sehr fleißig. Er arbeitete sich täglich durch einen Stoß Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instruktionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets,</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_567"/>
@@ -947,7 +947,7 @@
         <p xml:id="Bae_TB_1_714">
           <anchor xml:id="Bae_TB_1_715"/>Unser Circular 
         </p>
-        <addSpan xml:id="Bae_TB_1_716"/>
+        <addSpan spanTo="#Bae_TB_1_5682" type="insertion" xml:id="Bae_TB_1_716"/>
         <p xml:id="Bae_TB_1_717">Das unterzeichnete Wahlcomité beehrt sich hiemit an die Parteileitungen des 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_718">verfassungstreuen Grossgrundbesitzes</orgName> in 
           <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_1_719">Mähren</placeName>, 
@@ -1438,11 +1438,11 @@
         <p xml:id="Bae_TB_1_1081">
           <anchor xml:id="Bae_TB_1_1082"/>Bis zum 
           <date when="1897-03-22" xml:id="Bae_TB_1_1083">22. März</date>, dem Tage der Wahlen im Grossgrundbesitz, trat nun mitten in dem 
-          <app from="#Bae_MF_1_582" type="equal" xml:id="Bae_TB_1_1084">
+          <app from="#Bae_MF_1_3829" type="equal" xml:id="Bae_TB_1_1084">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1085">Bis zum 22. März, dem Tage der Wahlen im Großgrundbesitz, trat nun mitten in dem</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_1086"/>hitzigen 
-          <app from="#" type="notEqual" xml:id="Bae_TB_1_1087">
+          <app from="#Bae_MF_1_582" type="notEqual" xml:id="Bae_TB_1_1087">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1088">hitzigsten</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_1089"/>Stadium der Wahlen eine Ruhepause in den 
@@ -1598,7 +1598,7 @@
           </app>
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 19v -->
-        <addSpan xml:id="Bae_TB_1_1202"/>
+        <addSpan spanTo="#Bae_TB_1_5684" type="insertion" xml:id="Bae_TB_1_1202"/>
         <p xml:id="Bae_TB_1_1203">
           <anchor xml:id="Bae_TB_1_1204"/>[handschriftlich]: 
           <orgName key="Bohemia" ref="https://d-nb.info/014500817" xml:id="Bae_TB_1_1205">Bohemia</orgName>artikel vom 
@@ -2616,7 +2616,7 @@
           <anchor xml:id="Bae_TB_1_1952"/>ablehnend lautete. 
         </p>
         <!-- DC Einklebung von fol. 27v -->
-        <addSpan xml:id="Bae_TB_1_1953"/>
+        <addSpan spanTo="#Bae_TB_1_5686" type="insertion" xml:id="Bae_TB_1_1953"/>
         <p xml:id="Bae_TB_1_1954">[handschriftlich]: Communiqué vom 
           <date when="1897-04-02" xml:id="Bae_TB_1_1955">2. April 1897</date>
         </p>
@@ -3019,7 +3019,7 @@
           </app>
         </p>
         <!-- DC Einklebung fol. 33v -->
-        <addSpan xml:id="Bae_TB_1_2263"/>
+        <addSpan spanTo="#Bae_TB_1_5687" type="insertion" xml:id="Bae_TB_1_2263"/>
         <p xml:id="Bae_TB_1_2264">
           <anchor xml:id="Bae_TB_1_2265"/>[handschriftlich:] Resolution des Polenclubs 
           <app from="#Bae_MF_1_1101" type="notEqual" xml:id="Bae_TB_1_2266">
@@ -3064,7 +3064,7 @@
           </app>
         </p>
         <!-- DC Einklebung Zeitungsausschnitt von fol. 33v -->
-        <addSpan xml:id="Bae_TB_1_2295"/>
+        <addSpan spanTo="#Bae_TB_1_5688" type="insertion" xml:id="Bae_TB_1_2295"/>
         <p xml:id="Bae_TB_1_2296">
           <anchor xml:id="Bae_TB_1_2297"/>[handschriftlich:] Communiqué der conservativen böhmischen Grossgrundbesitzer 
         </p>
@@ -3189,7 +3189,7 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2388">Inzwischen ließ die Regierung erklären, sie verzichte vorläufig auf die Bildung einer festen Majorität. Badeni erklärte uns und ließ es auch durch den allezeit geschäftigen Halban verkünden, daß er die Majorität nicht anerkenne, noch weniger sich ihr unterwerfe. Er war also mit großen, unwiederbringlichen Verlusten für sich und das Reich dahin gelangt, von wo er hätte aus gehen sollen. Durch diese Umstände wurde eine neuerliche Erklärung unserer Vereinigung notwendig, die wir in einer Sitzung am 6. April beschlossen</rdg>
           </app>
         </p>
-        <addSpan xml:id="Bae_TB_1_2389"/>
+        <addSpan spanTo="#Bae_TB_1_5689" type="insertion" xml:id="Bae_TB_1_2389"/>
         <!-- DC Einklebung Zeitungsausschnitt fol. 34v -->
         <p xml:id="Bae_TB_1_2390">
           <anchor xml:id="Bae_TB_1_2391"/>[handschriftlich:] Erklärung unserer Vereingigung vom 
@@ -3622,7 +3622,7 @@
         </p>
         <!-- DC Einklebung Zeitungsausschnitt fol. 39v -->
         <pb facs="#F_K6_Bae_TB_1-040" n="39v" xml:id="Bae_TB_1_2723"/>
-        <addSpan xml:id="Bae_TB_1_2724"/>
+        <addSpan spanTo="#Bae_TB_1_5690" type="insertion" xml:id="Bae_TB_1_2724"/>
         <p xml:id="Bae_TB_1_2725">
           <anchor xml:id="Bae_TB_1_2726"/>[handschriftlich:] Die 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_1_2727">Pacak'schen</persName> Enthüllungen (nach der 
@@ -4363,7 +4363,7 @@
           </app>
         </p>
         <!-- Einklebung Zeitungsausschnitt fol. 48v -->
-        <addSpan xml:id="Bae_TB_1_3270"/>
+        <addSpan spanTo="#Bae_TB_1_5691" type="insertion" xml:id="Bae_TB_1_3270"/>
         <p xml:id="Bae_TB_1_3271">
           <anchor xml:id="Bae_TB_1_3272"/>[handschriftlich]: Unsere Erklärung in Sachen der 
           <index xml:id="Bae_TB_1_3273">
@@ -4672,7 +4672,7 @@
           </app>
         </p>
         <!-- DC Einklebung fol. 50v, 51v, 52v -->
-        <addSpan xml:id="Bae_TB_1_3494"/>
+        <addSpan spanTo="#Bae_TB_1_5692" type="insertion" xml:id="Bae_TB_1_3494"/>
         <pb facs="#F_K6_Bae_TB_1-051" n="50v" xml:id="Bae_TB_1_3495"/>
         <p xml:id="Bae_TB_1_3496">
           <anchor xml:id="Bae_TB_1_3497"/>[handschriftlich]: Unsere Adresse 
@@ -5148,7 +5148,7 @@
           </app>
         </p>
         <!-- DC Einklebung von fol. 56v -->
-        <addSpan xml:id="Bae_TB_1_3854"/>
+        <addSpan spanTo="#Bae_TB_1_5693" type="insertion" xml:id="Bae_TB_1_3854"/>
         <pb facs="#F_K6_Bae_TB_1-057" n="56v" xml:id="Bae_TB_1_3855"/>
         <p xml:id="Bae_TB_1_3856">
           <anchor xml:id="Bae_TB_1_3857"/>Abg. 
@@ -5457,7 +5457,7 @@
           <persName key="AbrahamowiczDawid" ref="https://d-nb.info/gnd/143832883" xml:id="Bae_TB_1_4078">Abrahamowicz David</persName> wegen der von mir gegen das Präsidium abgegebenen Erklärung. 
         </p>
         <!-- DC Einklebung fol. 61v -->
-        <addSpan xml:id="Bae_TB_1_4079"/>
+        <addSpan spanTo="#Bae_TB_1_5694" type="insertion" xml:id="Bae_TB_1_4079"/>
         <pb facs="#F_K6_Bae_TB_1-062" n="61v" xml:id="Bae_TB_1_4080"/>
         <p xml:id="Bae_TB_1_4081">[handschriftlich:] Brief 
           <persName key="AbrahamoviczDawid" ref="https://d-nb.info/gnd/143832883" xml:id="Bae_TB_1_4082">Abrahamovicz</persName> an mich 
@@ -5845,7 +5845,7 @@
           </choice> gerechte Entrüstung brachte die Verlesung des Erlasses hervor, der damals zu so viel Zeitungsconfiskationen den Anlass gab. 
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 67v -->
-        <addSpan xml:id="Bae_TB_1_4377"/>
+        <addSpan spanTo="#Bae_TB_1_5695" type="insertion" xml:id="Bae_TB_1_4377"/>
         <pb facs="#F_K6_Bae_TB_1-068" n="67v" xml:id="Bae_TB_1_4378"/>
         <p xml:id="Bae_TB_1_4379">Auf Grund dieser Entscheidung des k. k. Ober-Landesgerichtes in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_4380">Wien</placeName> wiederholen wir im Folgenden aus dem von der k. k. Staatsanwaltschaft 
@@ -5956,7 +5956,7 @@
           <date when="1897-07-06" xml:id="Bae_TB_1_4460">6. Juni</date> hatte Aufsehen erregt und war in viele Wiener und böhmische Blätter übergegangen. 
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 68v -->
-        <addSpan xml:id="Bae_TB_1_4461"/>
+        <addSpan spanTo="#Bae_TB_1_5696" type="insertion" xml:id="Bae_TB_1_4461"/>
         <pb facs="#F_K6_Bae_TB_1-069" n="68v" xml:id="Bae_TB_1_4462"/>
         <p xml:id="Bae_TB_1_4463">[handschriftlich]: Aus einem Artikel des 
           <orgName key="PesterLloyd" ref="https://d-nb.info/gnd/5092487-4" xml:id="Bae_TB_1_4464">Pesther Lloyd</orgName> vom 
@@ -6075,7 +6075,7 @@
           <date when="1897-07-11" xml:id="Bae_TB_1_4547">11. Juli</date> veröffentlicht wurde. 
         </p>
         <!-- DC Einklebung Zeitungsausschnitt fol. 69v -->
-        <addSpan xml:id="Bae_TB_1_4548"/>
+        <addSpan spanTo="Bae_TB_1_5697" type="insertion" xml:id="Bae_TB_1_4548"/>
         <pb facs="#F_K6_Bae_TB_1-070" n="69v" xml:id="Bae_TB_1_4549"/>
         <p xml:id="Bae_TB_1_4550">[handschriftlich:] Meine Richtigstellung.</p>
         <p xml:id="Bae_TB_1_4551">
@@ -6196,7 +6196,7 @@
           </choice> wir schrieben selbst die Einladungstelegramme. 
         </p>
         <!-- DC Einklebung Zeitungsausschnitt von fol. 70v und 71v -->
-        <addSpan xml:id="Bae_TB_1_4641"/>
+        <addSpan spanTo="#Bae_TB_1_5698" type="insertion" xml:id="Bae_TB_1_4641"/>
         <pb facs="#F_K6_Bae_TB_1-072" n="70v" xml:id="Bae_TB_1_4642"/>
         <p xml:id="Bae_TB_1_4643">Die Conferenz des verfassungetreuen Großgrundbesitzes.</p>
         <p xml:id="Bae_TB_1_4644">
@@ -6540,7 +6540,7 @@
         <p xml:id="Bae_TB_1_4890">Von jetzt an drehte sich die Debatte um dieses Resümé.</p>
         <!-- DC Einklebung Zeitungsausschnitt -->
         <pb facs="#F_K6_Bae_TB_1-073" n="72v" xml:id="Bae_TB_1_4891"/>
-        <addSpan xml:id="Bae_TB_1_4892"/>
+        <addSpan spanTo="#Bae_TB_1_5699" type="insertion" xml:id="Bae_TB_1_4892"/>
         <p xml:id="Bae_TB_1_4893">[handschriftlich:] Das Resumé</p>
         <p xml:id="Bae_TB_1_4894">Auf Grund der abgeführten Discussion, welche eine erfreuliche Uebereinstimmung der Anschauungen ergab, wurde nachstehendes Resumé festgestellt: "Der Ernst der Situation und die Frage, welchen politischen Zuständen wir im Herbste angesichts der bevorstehenden wichtigsten Staatsaufgaben entgegengehen, legt dem 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4895">verfassungstreuen Großgrundbesitze</orgName> die Verpflichtung auf, sich rückhaltos auszusprechen. Die 
@@ -6688,7 +6688,7 @@
         </p>
         <p xml:id="Bae_TB_1_4999">
           <anchor xml:id="Bae_TB_1_5000"/>Nach Abwicklung 
-          <app from="#Bae_MF_1_" type="equal" xml:id="Bae_TB_1_5001">
+          <app from="#Bae_MF_1_3830" type="equal" xml:id="Bae_TB_1_5001">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5002">Nach Abwicklung</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_5003"/>aller dieser 
@@ -7122,7 +7122,7 @@
           </app>
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 85v -->
-        <addSpan xml:id="Bae_TB_1_5335"/>
+        <addSpan spanTo="#Bae_TB_1_5700" type="insertion" xml:id="Bae_TB_1_5335"/>
         <p xml:id="Bae_TB_1_5336">
           <anchor xml:id="Bae_TB_1_5337"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_5338">Wien</placeName>, 
@@ -7191,7 +7191,7 @@
           </app>
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 86v -->
-        <addSpan xml:id="Bae_TB_1_5385"/>
+        <addSpan spanTo="#Bae_TB_1_5701" type="insertion" xml:id="Bae_TB_1_5385"/>
         <p xml:id="Bae_TB_1_5386">
           <anchor xml:id="Bae_TB_1_5387"/>[handschriftlich]: Brief 
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_1_5388">Thun’s</persName> an 
@@ -7521,7 +7521,7 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5637">dem Geist ihrer Zeit darstellen würde. Mein neuerlicher Hinweis: wie sehr so ein Werk notwendig und wie geeignet gerade er, Dumreicher, wäre, es zu schreiben, – begegnete zu meiner Freude nicht mehr jener resignierten Ablehnung wie früher. Vielleicht entschliesst er sich doch. An jenem Abend gab er eine sehr schöne Rapsodie über die Entwicklung der griechischen Skulptur, ihre drei Höhepunkte, die er sehr geistreich mit der Früh-, Hochrenaissance und dem Barock verglich. Dabei kamen wir darauf zu sprechen, daß in einer großen Kunstepoche neben den Großen auch eine Menge Mittlerer und Kleinerer streben und arbeiten, ja daß in manchen Arbeiten dieser Grössen zweiten, ja dritten Rangs das Höchste erreicht wird und dadurch die Zeit den Charakter einer großen, zusammenhängenden Kunstepoche von einer bestimmten Richtung annimmt. Ich machte die Nutzanwendung auf das staatliche Leben. Was wir eine große Epoche nennen, ist der Zusammenhang führender politischer Geister mit kleineren Größen, die lokal wirken, modifiziert und doch im gleichen Sinne. Moltke allein hätte den großen Feldzug nie gewonnen, ohne daß die Armeekommandanten, Divisionäre und herunter bis zum Kompagniechef und noch tiefer, jeder nicht nur tüchtig gewesen wäre, sondern auch auf seine Tüchtigkeit vertraut hätte. So ist es auch in der Staatsverwaltung im höheren Sinne des Wortes. Durch die Reden im Parlament und durch die Zeitungen wird ein großer Staat nicht zusammengehalten. Selbst die Verwerflichkeit eines Monarchen, meinte Dumreicher (diesmal wie schon öfter) entscheidet nicht ausschlaggebend über den Staat, denn trotz den Neros, Caligulas, Domitians und so vielen anderen, die uns mit Recht so verwerflich scheinen, erhielt sich nicht nur in den ersten Jahrhunderten unserer Zeitrechnung der römische Staat, sondern er erweiterte sich, führte – wie uns Momsen in seinem 5. Bande so wunderbar beschreibt – in den entlegensten Teilen der römischen Monarchie eine musterhafte Verwaltung ein und erschloß halbe Weltteile der menschlichen Kultur. Es bedurfte Ereignisse, wie die Verbreitung des Christentums und die Völkerwanderung, um das mit tausend Klammern zusammengehaltene Gebäude zu zerstören. Die Entwicklung, Durchführung und konsequente Verfolgung gewisser Grundsätze des öffentlichen und privaten Rechtes: – das was wir manchmal recht unklar "die Staatsidee" nennen – nicht nur in platonischen Regierungserklärungen, sondern vom Zentrum des Reiches lebendig und</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_5638"/>strikte 
-          <app from="#Bae_MF_1_" type="notEqual" xml:id="Bae_TB_1_5639">
+          <app from="#Bae_MF_1_3831" type="notEqual" xml:id="Bae_TB_1_5639">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5640">stark</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_5641"/>hinauswirkend bis in die äusserste Peripherie desselben, ist das staatserhaltende Prinzip 
@@ -7545,7 +7545,7 @@
           </choice> den 
           <persName key="GascoyneRobert" ref="https://d-nb.info/gnd/118794256" xml:id="Bae_TB_1_5657">Salisbury</persName> damals in der Opposition gegen die 
           <persName key="GladstoneWilliam" ref="https://d-nb.info/gnd/118695207" xml:id="Bae_TB_1_5658">Gladstone'sche</persName> Politik geschrieben hatte. "Desintegration" des Reichs warf er 
-          <app from="#" type="equal" xml:id="Bae_TB_1_5659">
+          <app from="#Bae_MF_1_3832" type="equal" xml:id="Bae_TB_1_5659">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5660">hinauswirkend bis in die äusserste Peripherie desselben, ist das staatserhaltende Prinzip jedes Gemeinwesens und daß es mehrsprachig sein kann, beweist die Grösse des römischen und englischen Reiches. Pessimistisch wie immer schloß Dumreicher unsere Betrachtungen mit einer Vergleichung unseres Vaterlandes. Mir fiel dabei ein Artikel ein, den ich vor vielen Jahren in der Quarterly Review gelesen und den Salisbury damals in der Opposition gegen die Gladstone'sche Politik geschrieben hatte. "Desintegration" des Reichs warf er</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_5661"/>dem alten Holzfäller 
