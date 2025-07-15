@@ -1801,8 +1801,8 @@
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_985"/>
             </app>
             <anchor xml:id="Bae_MF_6-2_2421"/>
-            <app from="#Bae_TB_8_1714" type="missing" xml:id="Bae_MF_6-2_2422"/>
-            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2423">Lünz am 13.4.06</rdg>
+            <app from="#Bae_TB_8_1714" type="missing" xml:id="Bae_MF_6-2_2422">
+            <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2423">Lünz am 13.4.06</rdg></app>
           </p>
         </div>
         <div n="2" type="chapter" xml:id="Bae_MF_6-2_986">
@@ -2325,11 +2325,11 @@
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1295"/>
             </app>
             <anchor xml:id="Bae_MF_6-2_2430"/>
-            <app from="" type="missing" xml:id="Bae_MF_6-2_2431">
+            <app from="#Bae_TB_8_1476" type="missing" xml:id="Bae_MF_6-2_2431">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2432">Wien 17.6.06</rdg>
             </app>
             <anchor xml:id="Bae_MF_6-2_2433"/>
-            <app from="" type="missing" xml:id="Bae_MF_6-2_2434">
+            <app from="#Bae_TB_8_976" type="missing" xml:id="Bae_MF_6-2_2434">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2435">Will nicht jeden Tratsch registrieren. Urban aber erzälte doch etwas sehr Interessantes. Aus Statthalterkreisen in Prag: die Arbeiter in R[eichen]berg u. Umgebung planten wärend der Kaiserreise Demonstrationen durch Abstinenz beim Empfang u. den Fahrten des Kaisers. Wollten große Meetings außerhalb Reichenberg veranstalten. Das wurde nach Wien gemeldet und daher das Wort des Kaisers wegen der Wahlreform, dass nach der alten Wahlordnung nicht mehr gewählt werden kann. Wien 19.6.06</rdg>
             </app>
           </p>
