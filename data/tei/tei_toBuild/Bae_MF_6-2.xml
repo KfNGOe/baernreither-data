@@ -5,6 +5,7 @@
       <titleStmt xml:id="Bae_MF_6-2_4">
         <title xml:id="Bae_MF_6-2_5">Die Tagebücher von Joseph Maria Baernreither</title>
         <title type="volume" xml:id="Bae_MF_6-2_6">Fragmente eines politischen Tagebuches, Band 6, Teil 2</title>
+        <title type="display">Manuskript Fragmente 6, 2</title>
         <title type="short" xml:id="Bae_MF_6-2_7">Bae_MF_6-2</title>
         <author xml:id="Bae_MF_6-2_8">
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_MF_6-2_9">
@@ -63,6 +64,8 @@
       </editorialDecl>
     </encodingDesc>
     <profileDesc xml:id="Bae_MF_6-2_44">
+      <creation><date when="1905">1905</date>
+      </creation>
       <langUsage xml:id="Bae_MF_6-2_45">
         <language ident="deu" xml:id="Bae_MF_6-2_46">Deutsch</language>
       </langUsage>
