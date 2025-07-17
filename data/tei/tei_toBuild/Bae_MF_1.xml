@@ -177,7 +177,7 @@
         </p>
         <pb facs="#F_K-11_Bae_MF_1_012" n="3" xml:id="Bae_MF_1_129"/>
         <p xml:id="Bae_MF_1_130">
-          <pb facs="#F_K-11_Bae_MF_1_004" n="4r" xml:id="Bae_MF_1_131"/>Mir blutet das Herz, sagte er, wenn ich bedenke was kommt. Er meinte damit eine slavisch-klerikale Richtung. Wenn er könnte, er ginge am liebsten gleich, aber der 
+          Mir blutet das Herz, sagte er, wenn ich bedenke was kommt. Er meinte damit eine slavisch-klerikale Richtung. Wenn er könnte, er ginge am liebsten gleich, aber der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_1_132">Kaiser</persName> lasse ihn nicht – er müsse den 
           <index xml:id="Bae_MF_1_133">
             <term key="Österreich-Ungarn" xml:id="Bae_MF_1_134">Ausgleich</term>
@@ -389,13 +389,13 @@
           <app from="#Bae_TB_1_548" type="notEqual" xml:id="Bae_MF_1_294">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_295">private</rdg>
           </app>
-          <pb facs="#F_K-11_Bae_MF_1_020" n="6" xml:id="Bae_MF_1_296"/>
+          <pb facs="#F_K-11_Bae_MF_1_020" n="7" xml:id="Bae_MF_1_296"/>
           <anchor xml:id="Bae_MF_1_297"/>Zurückhaltung für die größte Klugheit. 
           <app from="#Bae_TB_1_551" type="equal" xml:id="Bae_MF_1_298">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_299">Zurückhaltung für die grösste Klugheit.</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_300"/>
-          <pb facs="#F_K-11_Bae_MF_1_019" n="5v" xml:id="Bae_MF_1_301"/>
+          <pb facs="#F_K-11_Bae_MF_1_019" n="6v" xml:id="Bae_MF_1_301"/>
           <add place="across" xml:id="Bae_MF_1_302">Man hat später 
             <choice xml:id="Bae_MF_1_303">
               <abbr xml:id="Bae_MF_1_304">B.</abbr>
@@ -409,7 +409,7 @@
         <!-- CA: hier eine Einfügung auf der anderen Seite, ist das mit dem 'doppelten' pb hier so korrekt ausgezeichnet? -->
         <p xml:id="Bae_MF_1_308">
           <anchor xml:id="Bae_MF_1_3828"/>
-          <pb facs="#F_K-11_Bae_MF_1_020" n="6" xml:id="Bae_MF_1_309"/>In der Besorgung der Parteigeschäfte war 
+          <pb facs="#F_K-11_Bae_MF_1_020" n="7" xml:id="Bae_MF_1_309"/>In der Besorgung der Parteigeschäfte war 
           <persName key="SchlesingerLudwig" ref="https://d-nb.info/gnd/138214379" xml:id="Bae_MF_1_310">Schlesinger</persName>, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der größten Gewissenhaftigkeit und sehr fleißig. Er arbeitete sich täglich durch einen Stoß Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instruktionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets, 
           <app from="#Bae_TB_1_558" type="equal" xml:id="Bae_MF_1_311">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_312">In der Besorgung der Parteigeschäfte war Schlesinger, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der grössten Gewissenhaftigkeit u. sehr fleissig. Er arbeitete sich täglich durch einen Stoss Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instructionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets</rdg>
@@ -563,7 +563,7 @@
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_1_433">Großgrundbesitzes</orgName> aus den verschiedenen Kronländern (nur 
           <placeName key="Kaernten" ref="https://www.geonames.org/2774686/kaernten.html" xml:id="Bae_MF_1_434">Kärnten</placeName> fehlte), und zwar unter dem Vorsitz von 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_MF_1_435">Max Fürstenberg</persName>, der durch seine warmherzige Art der Begrüßung und der Leitung der Geschäfte das Wesentlichste dazu beitrug das Eis zu 
-          <pb facs="#F_K-11_Bae_MF_1_028" n="11" xml:id="Bae_MF_1_436"/> brechen und eine rückhaltslose Diskussion hervorzurufen. Man einigte sich ohne Schwierigkeit, daß der 
+          <pb facs="#F_K-11_Bae_MF_1_028" n="11" xml:id="Bae_MF_1_436"/>brechen und eine rückhaltslose Diskussion hervorzurufen. Man einigte sich ohne Schwierigkeit, daß der 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_1_437">deutsche Großgrundbesitz</orgName> zusammenhalten solle ohne aber auf Angliederung anderer Elemente im neuen Reichsrat zu verzichten, sondern eine solche geradezu anzustreben. Auch Kompromissideen, deren hauptsächlichster Träger und Verfechter 
           <persName key="StarhembergErnst" ref="http://d-nb.info/gnd/1035682745" xml:id="Bae_MF_1_438">Fürst Starhemberg</persName> war, wurden bekämpft 
           <choice xml:id="Bae_MF_1_439">
@@ -869,7 +869,7 @@
           </app>
           <anchor xml:id="Bae_MF_1_667"/>Sehr bezeichnend für die 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_668">Badeni’sche</persName> Politik ist es aber, dass gerade dieser Artikel die Quelle von Missverständnissen geworden ist, welche die sich entwickelnde unheilvolle Situation nur noch mehr verschärften. 
-          <pb facs="#F_K-11_Bae_MF_1_038" n="16" xml:id="Bae_MF_1_669"/> Bei allen Verhandlungen mit Badeni über den Inhalt der Sprachenverordnungen (deren Text er uns ja immer noch nicht gezeigt hatte) wurde ihm klarzumachen versucht, daß ein großer Unterschied darin bestehe, ob der Zwang der Zweisprachigkeit (für den er ja Ausnamen konzedieren wollte) bloß 
+          <pb facs="#F_K-11_Bae_MF_1_038" n="16" xml:id="Bae_MF_1_669"/>Bei allen Verhandlungen mit Badeni über den Inhalt der Sprachenverordnungen (deren Text er uns ja immer noch nicht gezeigt hatte) wurde ihm klarzumachen versucht, daß ein großer Unterschied darin bestehe, ob der Zwang der Zweisprachigkeit (für den er ja Ausnamen konzedieren wollte) bloß 
           <app from="#Bae_TB_1_1310" type="equal" xml:id="Bae_MF_1_670">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_671">Sehr bezeichnend für die Badeni’sche Politik ist es aber, dass gerade dieser Artikel die Quelle von Missverständnissen geworden ist, welche die sich entwickelnde unheilvolle Situation nur noch mehr verschärften. Bei allen Verhandlungen mit B. über den Inhalt der S.V. (deren Text er uns ja immer noch nicht gezeigt hatte) wurde ihm klarzumachen versucht dass ein grosser Unterschied darin bestehe ob der Zwang der Zweisprachigkeit (für den er ja Ausnamen concediren wollte) bloß</rdg>
           </app>
@@ -994,8 +994,7 @@
             <index xml:id="Bae_MF_1_764">
               <term key="Sprachenverordnungen Badeni" xml:id="Bae_MF_1_765"/>
             </index>
-          </index> mit ihm 
-          <pb facs="#F_K-11_Bae_MF_1_024" n="24r" xml:id="Bae_MF_1_766"/> durchzusprechen. Er suchte meine Bedenken zu zerstreuen und gebrauchte auch den Ausdruck, es sei "ein großer Moment" für die Deutschen in 
+          </index> mit ihm durchzusprechen. Er suchte meine Bedenken zu zerstreuen und gebrauchte auch den Ausdruck, es sei "ein großer Moment" für die Deutschen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_1_767">Oesterreich</placeName>. Sein Wunsch sei, daß sie ihn ausnützen möchten. 
           <pb facs="#F_K-11_Bae_MF_1_044" n="19" xml:id="Bae_MF_1_768"/>Wenn 
           <orgName key="TschechenKlub" xml:id="Bae_MF_1_769">Čechen</orgName> und Deutsche sich nicht zu einem freisinnigen Regime vereinigen, sei die klerikal-slavische Reaction unausweichlich. Auf meine Frage ob er die Sprachenverordnung unterschreiben werde, wie sie dermalen aussehe – antwortete er zunächst, daß er manche noch viel gefährlichere Punkte verhindert habe und ausserdem entschlossen sei, durch eine nachträgliche, interne Verordnung für den inneren Dienst die deutsche Sprache nicht nur aufrechtzuerhalten, sondern manchen Abusus der sich eingeschlichen, im Sinne der deutschen Manipulationssprache wieder abzuschaffen. Was die politische Seite der ganzen Angelegenheit anbelangt, versicherte er mich, daß sowohl er selbst als 
@@ -1256,8 +1255,8 @@
           <app from="#Bae_TB_1_1952" type="notEqual" xml:id="Bae_MF_1_958">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_959">ablehend lautete. Communiqué vom 2. April 1897. Ueber die Stellung, welche der verfassungstreue Großgrundbesitz bei den Verhandlungen über die Majoritätsbildung eingenommen hat, geht uns folgendes Communiqué zu: "Unter der Leitung des Baron Ludwigstorff und des Grafen Guido Dubsky fanden in den letzten Tagen mehrere Besprechungen der Abgeordneten des verfassungstreuen Großgrundbesitzes sowie denselben nahestehender Gruppen statt. Es wurde die politische Situation besprochen, die gegenseitigen Anschauungen ausgetauscht und in den wesentlichen, der Erörterung unterzogenen Fragen eine erfreuliche Uebereinstimmung erzielt. Ueber die am Donnerstag Abends stattgehabte Besprechung sind in den öffentlichen Blättern theilweise ganz unrichtige Versionen in Umlauf gesetzt worden. Gegenstand der Verhandlung an dem bezeichneten Abende war eine Anfrage der Regierung, ob dieselbe bei der Majoritätsbildung unbedingt auf die Gruppe zählen könne und wie sich dieselbe zu der bevorstehenden Sprachenverordnung verhalten werde. Eine eingehende Debatte ergab, daß unter den obwaltenden Verhältnissen eine unbedingte Antwort auf diese Frage noch nicht ertheilt werden könne. Zu der Sprachenverordnung wurde definitiv noch nicht Stellung genommen. In der Debatte über diese Angelegenheit wurden das eminente Staatsinteresse und die Bedürfnüsse der Verwaltung in den Vordergrund gestellt. Schließlich wurde einhellig die Erklärung angenommen, daß die Gruppe nach wie vor geneigt sei, die Regierung, wenn irgendmöglich, in ihrer schwierigen Lage eine Majorität zu bilden, zu unterstützen, daß sie es jedoch ablehnen müsse, heute schon mit einem unbedingten Ja oder Nein zu antworten, weil die Majortätsbildung selbst, sowie das darauf basirte Regierungsprogramm noch nicht feststehe. In einer neuerlichen Besprechung, die heute Nachmittags stattfand, wurde allgemein die Anschauung ausgesprochen, daß angesichts der bestehenden Cabinetskrisis alle auf die Constituirung des Hauses abzielenden Arbeiten zu vertagen sowie die Parlamentssitzungen auszusetzen seien!"</rdg>
           </app>
-          <anchor xml:id="Bae_MF_1_960"/>Man wird vielleicht der Meinung sein, die Antwort sei nicht ablehnend, sondern lavierend gewesen – ich war eben bei allen diesen Konzeptionen auf die größte Vorsicht angewiesen. Einmal wollte ich unsere Gruppe nicht ins Unrecht setzen lassen, anderseits hatten wir so viele Elemente unter uns, welche damals 
-          <pb facs="#F_K-11_Bae_MF_1_052" n="23" xml:id="Bae_MF_1_961"/> die Tragweite der 
+          <anchor xml:id="Bae_MF_1_960"/>Man wird vielleicht der Meinung sein, die Antwort sei nicht ablehnend, sondern lavierend gewesen – ich war eben bei allen diesen Konzeptionen auf die größte Vorsicht angewiesen. Einmal wollte ich unsere Gruppe nicht ins Unrecht setzen lassen, anderseits hatten wir so viele Elemente unter uns, welche damals die
+          <pb facs="#F_K-11_Bae_MF_1_052" n="23" xml:id="Bae_MF_1_961"/>Tragweite der 
           <index xml:id="Bae_MF_1_962">
             <term key="Reichsrat" xml:id="Bae_MF_1_963"/>
           </index>Sprachenverordnungen 
@@ -1313,7 +1312,7 @@
           <persName key="ProskowetzEmanuel" ref="https://d-nb.info/gnd/139238069" xml:id="Bae_MF_1_1001">Proskowetz</persName> und 
           <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_MF_1_1002">Mauthner</persName>, 
           <persName key="GoetzLeopold" xml:id="Bae_MF_1_1003">Götz</persName> und einige Großgrundbesitzer geladen. In dieser Konferenz rechtfertigten wir 
-          <pb facs="#F_K-11_Bae_MF_1_054" n="24" xml:id="Bae_MF_1_1004"/> unser Communiqué vom 
+          <pb facs="#F_K-11_Bae_MF_1_054" n="24" xml:id="Bae_MF_1_1004"/>unser Communiqué vom 
           <date when="1897-04-02" xml:id="Bae_MF_1_1005">2. April</date>, da die Besprechung den Sinn hatte die Situation möglichst zu klären. Unsere Haltung wurde von den 
           <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_MF_1_1006">Deutschnationalen</orgName> vollkommen gebilligt, von den 
           <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_MF_1_1007">Fortschrittlern</orgName> weniger. Diese erklärten wegen der 
@@ -1588,9 +1587,9 @@
           <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_MF_1_1231">Steinwender</persName> das eine und andere Mal offen auf die Seite der 
           <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_MF_1_1232">Christlich-Sozialen</orgName>. 
         </p>
-        <pb facs="#F_K-11_Bae_MF_1_068" n="31" xml:id="Bae_MF_1_1233"/>
       </div>
       <div n="1897-05" type="diaryEntry" xml:id="Bae_MF_1_1234">
+        <pb facs="#F_K-11_Bae_MF_1_068" n="31" xml:id="Bae_MF_1_1233"/>
         <head xml:id="Bae_MF_1_1235">
           <hi rendition="#ul" xml:id="Bae_MF_1_1236">III. Die Osterferien 1897</hi>
         </head>
@@ -1708,7 +1707,7 @@
           <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_MF_1_1330">Dumreicher</persName> jenen großen Menschenstrom, der außer diesen Dingen und vielleicht noch 
           <orgName key="SantAmbrogio" xml:id="Bae_MF_1_1331">St. Ambrogio</orgName> und neuerdings 
           <orgName key="PoldiPezzoli" ref="https://d-nb.info/gnd/1006871-5" xml:id="Bae_MF_1_1332">Poldi Pezzoli</orgName>
-          <pb facs="#F_K-11_Bae_MF_1_074" n="34" xml:id="Bae_MF_1_1333"/> nichts weiß. Wir brachten zwei äußerst genußreiche Tage in 
+          <pb facs="#F_K-11_Bae_MF_1_074" n="34" xml:id="Bae_MF_1_1333"/>nichts weiß. Wir brachten zwei äußerst genußreiche Tage in 
           <placeName key="Mailand" ref="https://www.geonames.org/3173435/milan.html" xml:id="Bae_MF_1_1334">Mailand</placeName> zu und ich gewann wenigstens eine Uebersicht über all die an Kunstschätzen so überreichen Kirchen, über die Paläste und Facaden, die mir das Bild der Stadt in meiner Erinnerung ganz veränderten, unendlich bereicherten. 
           <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_MF_1_1335">Dumreicher</persName>
           <del rendition="#s" xml:id="Bae_MF_1_1336">lernte</del>
@@ -1769,7 +1768,7 @@
           </app>
           <anchor xml:id="Bae_MF_1_1380"/>wurde nicht von den Abgeordneten ins Volk getragen, – was 
           <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_MF_1_1381">Schönerer</persName> und 
-          <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_MF_1_1382">Wolf</persName> in dieser Hinsicht leisteten reichte nicht aus – umgekehrt, wo ein Abgeordneter sich bei den Wählern blicken ließ, wurde die politische Elektrizität auf ihn abgeladen. Nichts hat aber die Erregung, ja die Erbitterung mehr gesteigert als die unbegreiflich taktlosen Enthüllungen 
+          <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_MF_1_1382">Wolf</persName> in dieser Hinsicht leisteten reichte nicht aus – umgekehrt, wo ein Abgeordneter sich bei den Wählern blicken ließ, wurde die politische Elektrizität auf ihn abgeladen. Nichts hat aber die Erregung, ja die Erbitterung mehr gesteigert als die unbegreiflich<pb facs="#F_K-11_Bae_MF_1_076" n="35"/>taktlosen Enthüllungen 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_MF_1_1383">Pacaks</persName> über die Art und Weise, wie die 
           <index xml:id="Bae_MF_1_1384">
             <term key="Reichsrat" xml:id="Bae_MF_1_1385">Sprachenverordnungen</term>
@@ -1848,8 +1847,7 @@
             </index>
           </index> auftreten. Die nationalen Verhältnisse in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_MF_1_1439">Böhmen</placeName> seien vorsichtig und nur schrittweise zu lösen. Immer nur durch Verhandlungen mit beiden Teilen. Das war in der Denkschrift des Näheren ausgefürt, aber 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_1440">Badeni</persName> fand es nicht 
-          <pb facs="#F_K-11_Bae_MF_1_042" n="42r" xml:id="Bae_MF_1_1441"/>einmal der Mühe wert diese von einem ihm gewiss wohlwollenden Freunde gegebenen Ratschläge seinen Ministerkollegen vorzulegen, und 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_1440">Badeni</persName> fand es nicht einmal der Mühe wert diese von einem ihm gewiss wohlwollenden Freunde gegebenen Ratschläge seinen Ministerkollegen vorzulegen, und 
           <persName key="GlanzHugo" ref="https://d-nb.info/gnd/1011357844" xml:id="Bae_MF_1_1442">Baron Glanz</persName>, mit dem ich im 
           <date when="1897-06" xml:id="Bae_MF_1_1443">Juni 1897</date> eine eingehende Besprechung der Lage hatte, wußte von dem Memorandum gar nichts. 
         </p>
@@ -1877,7 +1875,7 @@
         <p xml:id="Bae_MF_1_1458">Die Erklärung liegt weit zurück. Ich habe die Dinge seit 
           <date when="1885" xml:id="Bae_MF_1_1459">1885</date> mitgemacht. Damals wurde der entscheidende Fehler begangen. Die Wahlen des Jahres 
           <date when="1885" xml:id="Bae_MF_1_1460">1885</date> brachten eine grosse Zahl neuer, junger Abgeordneter an die Oberfläche, 
-          <pb facs="#F_K-11_Bae_MF_1_080" n="37" xml:id="Bae_MF_1_1461"/> aus der Volksströmung hervorgegangen und mit den Volkskreisen in enger Verbindung. Es musste jedem erfahrenen Politiker klar sein – war es doch manchem unerfahrenen klar! – daß diese Elemente mit dem konservativen Flügel der Deutschen, den Großgrundbesitzern und ihren Gesinnungsverwandten, die damals noch sehr stark in der Partei vertreten waren, in einer und derselben parlamentarischen Vereinigung nicht zusammenzuhalten seien. Man mußte sich von vorneherein klar sein, zwei getrennte politische Heerhaufen bilden und zugleich für eine richtige Verbindung beider sorgen. Vor Allem durfte man aber die neuen, gährenden Elemente sich nicht selbst überlassen. Man mußte den Schwerpunkt der Partei nach links verlegen und die 
+          <pb facs="#F_K-11_Bae_MF_1_080" n="37" xml:id="Bae_MF_1_1461"/>aus der Volksströmung hervorgegangen und mit den Volkskreisen in enger Verbindung. Es musste jedem erfahrenen Politiker klar sein – war es doch manchem unerfahrenen klar! – daß diese Elemente mit dem konservativen Flügel der Deutschen, den Großgrundbesitzern und ihren Gesinnungsverwandten, die damals noch sehr stark in der Partei vertreten waren, in einer und derselben parlamentarischen Vereinigung nicht zusammenzuhalten seien. Man mußte sich von vorneherein klar sein, zwei getrennte politische Heerhaufen bilden und zugleich für eine richtige Verbindung beider sorgen. Vor Allem durfte man aber die neuen, gährenden Elemente sich nicht selbst überlassen. Man mußte den Schwerpunkt der Partei nach links verlegen und die 
           <del rendition="#s" xml:id="Bae_MF_1_1462">Anbschwächung</del>
           <add place="across" xml:id="Bae_MF_1_1463">Abschnürung</add> des rechten Flügels ruhig geschehen lassen. Dieser, ungeeignet im Vordertreffen zu kämpfen, hätte doch an allen grossen Schlachten teilgenommen, langsam, aber durchaus verläßlich, wie sich dieses Elementes der Partei immer erwiesen hat. Gleich nach den Wahlen im 
           <date when="1885-07" xml:id="Bae_MF_1_1464">Juli 1885</date> fand eine Abgeordnetenversammlung im 
@@ -1927,7 +1925,7 @@
           <anchor xml:id="Bae_MF_1_1503"/>eifersüchtig auf jede aufstrebende Kraft. Der Hochmut und die Unbeliebtheit vieler Männer der alten Partei war geradezu komisch, wirkte aber leider tragisch. 
         </p>
         <p xml:id="Bae_MF_1_1504">Der begangene Fehler hatte weittragende Folgen. Zunächst erreichten die Herren, welche so ungeduldig die Ministerschaft anstrebten, ihr Ziel nicht. Eine Regierungspartei kann man nicht als solche erziehen und patentieren lassen. Aus dem freien, volkstümlichen, idealen Widerstand gegen eine fehlerhafte Regierung entstehen immer die besten Regierungsparteien. Sie haben Einheit, Ideen, Kraft und Schwung, also auch Tragfähigkeit Opfer zu bringen, die 
-          <pb facs="#F_K-11_Bae_MF_1_084" n="39" xml:id="Bae_MF_1_1505"/> jede Regierungspartei bringen muß. 
+          <pb facs="#F_K-11_Bae_MF_1_084" n="39" xml:id="Bae_MF_1_1505"/>jede Regierungspartei bringen muß. 
         </p>
         <p xml:id="Bae_MF_1_1506">Ganz anders die 
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_MF_1_1507">Vereinigte Linke</orgName>. Sie wurde systematisch gezähmt, in sozialpolitischer, nationaler, freiheitlicher Hinsicht, kam dadurch immer mehr und mehr in Widerspruch mit ihren Wählern, wurde unsicher und haltlos, so daß von einer Wechselwirkung zwischen Wählern und Abgeordneten keine Rede mehr war, also auch der legitime Einfluß der Abgeordneten auf 
@@ -1976,7 +1974,7 @@
           </index>, der Steuer- und Justizreform, die unter seinem Regime beendet wurden, hatte er sich nicht kleinlich gezeigt, viel geschickter als die Koalitionsregierung. Sein Auftreten war conciliant und wenn auch seine Unkenntnis der westöstreichischen Verhältnisse jedem auffiel, so war dafür sein Bestreben zu hören, sich zu unterrichten ein aufrichtiges. Der Mann hatte Ideen und eine glückliche Gabe 
           <add place="across" xml:id="Bae_MF_1_1541">,</add> sie ins Licht zu setzen. Auf der einen Seite ein solcher leitende 
           <add place="across" xml:id="Bae_MF_1_1542">r</add> Staatsmann, auf der andern eine ganz desorganisierte Partei, ein Heer, mit dem man keine Schlacht wagen konnte – war es da nicht natürlich und klug sich auf das Verhandeln zu verlegen? Wer hätte es anders gemacht? Wer hätte von Vornherein in die 
-          <pb facs="#F_K-11_Bae_MF_1_088" n="41" xml:id="Bae_MF_1_1543"/> Kriegstrompete gestoßen? Wer hätte dazu ein Recht gehabt? 
+          <pb facs="#F_K-11_Bae_MF_1_088" n="41" xml:id="Bae_MF_1_1543"/>Kriegstrompete gestoßen? Wer hätte dazu ein Recht gehabt? 
         </p>
         <p xml:id="Bae_MF_1_1544">Zwei Umstände haben die Situation seither vollkommen geändert. Einmal die sich schrittweise herausstellende Unfähigkeit 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_1545">Badenis</persName>
@@ -2037,7 +2035,7 @@
             </index>
           </index> beabsichtigen. Die 
           <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_MF_1_1588">Deutschnationalen</orgName> scheinen diesmal rasch bei der Hand gewesen zu sein, die Fortschrittspartei schwankte, aber zwischen die zwei Feuer genommen, entschloß sie sich 
-          <pb facs="#F_K-11_Bae_MF_1_090" n="42" xml:id="Bae_MF_1_1589"/> ebenfalls zur Erhebung der Anklage. Unsere Herren waren von Vornherein dagegen 
+          <pb facs="#F_K-11_Bae_MF_1_090" n="42" xml:id="Bae_MF_1_1589"/>ebenfalls zur Erhebung der Anklage. Unsere Herren waren von Vornherein dagegen 
           <choice xml:id="Bae_MF_1_1590">
             <abbr xml:id="Bae_MF_1_1591">u.zw.</abbr>
             <expan xml:id="Bae_MF_1_1592">und zwar</expan>
@@ -2306,7 +2304,7 @@
         </p>
         <p xml:id="Bae_MF_1_1790">Viele viele Mitglieder der beiden deutschen Parteien schüttelten den Kopf und niemals ist die Frage öfter an mich gerichtet worden: "was soll da draus werden"? Aber das Contagium war da, sofort wieder wirksam, als irgendwo ein Spektakel losging. Ein Dringlichkeitsantrag reichte dem andern die Hand. Nicht 
           <hi rendition="#ul" xml:id="Bae_MF_1_1791">eine</hi> neutrale Frage kam an die Oberfläche. Zank und offener Streit mit dem Präsidium war 
-          <pb facs="#F_K-11_Bae_MF_1_100" n="47" xml:id="Bae_MF_1_1792"/> die Hauptsache. Es war als ob man von allen Seiten die Absicht gehabt hätte, die Situation zu verschärfen. Solang 
+          <pb facs="#F_K-11_Bae_MF_1_100" n="47" xml:id="Bae_MF_1_1792"/>die Hauptsache. Es war als ob man von allen Seiten die Absicht gehabt hätte, die Situation zu verschärfen. Solang 
           <persName key="KathreinTheodor" ref="https://d-nb.info/gnd/11903235X" xml:id="Bae_MF_1_1793">Kathrein</persName> präsidierte, hatte das Präsidium seine Autorität noch halbwegs aufrecht erhalten. Der Tiroler ließ sich zu nackten Gewaltstreichen doch nicht verleiten. Nach seiner Erkrankung als 
           <persName key="AbrahamowiczDawid" ref="https://d-nb.info/gnd/143832883" xml:id="Bae_MF_1_1794">Abrahamowicz 
             <del rendition="#s" xml:id="Bae_MF_1_1795">,</del> David 
@@ -2351,7 +2349,7 @@
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_1825">Parlaments</orgName>, der Regierung erlitt Beschädigungen, von denen sie sich in der nächsten Zeit, wer weiß ob überhaupt erholen werden. Und doch sah die Regierung tatenlos zu. Sie beteuerte immer noch, sich mit der Majorität nicht zu identifizieren, hatte aber nicht den Mut 
           <add place="across" xml:id="Bae_MF_1_1826">,</add> das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_1_1827">Haus</orgName> zu vertagen 
-          <pb facs="#F_K-11_Bae_MF_1_102" n="48" xml:id="Bae_MF_1_1828"/> oder zu schließen. Wenn man mit vernünftigen Männern auf der Rechten sprach waren sie alle für die sofortige Vertagung, dann hieß es aber wieder die Rechte widerstrebe der Vertagung und wolle die Adresse im Hause durchsetzen, wenigstens die Generaldebatte. Daß dies nicht möglich war, lag auf der Hand und hätte die Regierung wirklich sich die Wege einer Verständigung während der Sommermonate offen halten wollen, so 
+          <pb facs="#F_K-11_Bae_MF_1_102" n="48" xml:id="Bae_MF_1_1828"/>oder zu schließen. Wenn man mit vernünftigen Männern auf der Rechten sprach waren sie alle für die sofortige Vertagung, dann hieß es aber wieder die Rechte widerstrebe der Vertagung und wolle die Adresse im Hause durchsetzen, wenigstens die Generaldebatte. Daß dies nicht möglich war, lag auf der Hand und hätte die Regierung wirklich sich die Wege einer Verständigung während der Sommermonate offen halten wollen, so 
           <app from="#Bae_TB_1_3799" type="equal" xml:id="Bae_MF_1_1829">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_1830">In den letzten Tagen des Parlaments war diese gegenseitige Steigerung an jedem Tage zu beobachten. Jeder Uebergriff des Präsidiums führte einen neuen, heftigen Ausbruch der Obstruction u. Leidenschaft herbei u. jeder so entstandene Tumult verleitete das Präsidium zu neuen Kraftversuchen u. Schlichen. "Einen europäischen Scandal" nannte Baron Widmann, der einmal auf der Galerie einer solchen Scene zusah – die passive Haltung der Regierung. Sie ist damals eigentlich viel zu wenig gebrandmarkt worden. Sie ist, wenn man noch an eine bona fides glauben soll, einfach unerklärlich. An jedem Tag wurde alles, was Autorität heisst mit Füssen getreten, das Ansehen des Präsidiums, des Parlaments, der Regierung erlitt Beschädigungen, von denen sie sich in der nächsten Zeit, wer weis ob überhaupt erholen werden. Und doch sah die Regierung thatenlos zu. Sie beteuerte immer noch, sich mit der Majorität nicht zu identificiren, hatte aber nicht den Muth das Haus zu vertagen oder zu schliessen. Wenn man mit vernünftigen Männern auf der Rechten sprach waren sie alle für die sofortige Vertagung, dann hies es aber wieder die Rechte widerstrebe der Vertagung u. wolle die Adresse im Hause durchsetzen, wenigstens die Generaldebatte. Das dies nicht möglich war, lag auf der Hand u. hätte die Regierung wirklich sich die Wege einer Verständigung während der Sommermonate offen halten wollen, so</rdg>
           </app>
@@ -2478,7 +2476,7 @@
           <hi rendition="#ul" xml:id="Bae_MF_1_1925">sie</hi> hätte die Zügel in der Hand, ist die Getriebene und Geduldete. 
         </p>
         <p xml:id="Bae_MF_1_1926">Der Expansionsfanatismus der Čechen hat keine Grenzen. Ich habe noch nie ein so provokatorisches Auftreten derselben erlebt. Das bezieht sich nicht nur auf ihre 
-          <pb facs="#F_K-11_Bae_MF_1_110" n="52" xml:id="Bae_MF_1_1927"/> politischen Enunziationen, sondern insbesondere was Vereine, Kommunen und was jeder Einzelne an maßloser Ueberhebung leistet. 
+          <pb facs="#F_K-11_Bae_MF_1_110" n="52" xml:id="Bae_MF_1_1927"/>politischen Enunziationen, sondern insbesondere was Vereine, Kommunen und was jeder Einzelne an maßloser Ueberhebung leistet. 
         </p>
         <p xml:id="Bae_MF_1_1928">Dieser Zusammenklang ist das Fazit der drei Monate. Ich will im Folgenden einige Phasen und Situationen des Sommers, an denen ich persönlich beteiligt war, schildern. 
           <app from="#Bae_TB_1_3995" type="equal" xml:id="Bae_MF_1_1929">
@@ -2510,7 +2508,7 @@
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_1_1949">Hause</orgName> tagen können, denn die Regelung der Sprachenverhältnisse hätte Vorstudien, Erhebungen und langwierige Verhandlungen erfordert; aber dadurch wäre diese Frage vorläufig ausgeschaltet worden und das 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_1950">Parlament</orgName> wäre im Herbst wieder arbeitsfähig gewesen. In dem diesen Kongress einberufenden Manifest hätte der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_1_1951">Kaiser</persName> die feierlichsten Töne anschlagen 
-          <pb facs="#F_K-11_Bae_MF_1_112" n="53" xml:id="Bae_MF_1_1952"/> müssen und auch sein Jubiläum hätte darin eine Rolle spielen müssen. Inzwischen hätte die Regierung ohne bestimmte Majorität, rein neutral und sachlich die Geschäfte, vor allem den 
+          <pb facs="#F_K-11_Bae_MF_1_112" n="53" xml:id="Bae_MF_1_1952"/>müssen und auch sein Jubiläum hätte darin eine Rolle spielen müssen. Inzwischen hätte die Regierung ohne bestimmte Majorität, rein neutral und sachlich die Geschäfte, vor allem den 
           <index xml:id="Bae_MF_1_1953">
             <term key="Österreich-Ungarn" xml:id="Bae_MF_1_1954">ungarischen Ausgleich</term>
             <index xml:id="Bae_MF_1_1955">
@@ -2780,7 +2778,7 @@
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_2169">Parlament</orgName> bedarf. Zwei Allianzen bieten sich nun den Deutschen: auf Grund freisinniger Anschauungen mit jenem Teil der Slaven, die die gleiche Geistesrichtung vertreten – oder auf Grund der nationalen Gemeinsamkeit mit den Klerikalen. Keine dieser Allianzen ist zu schließen 
           <add place="across" xml:id="Bae_MF_1_2170">,</add> ohne Opfer zu bringen. Für die erstbezeichnete war ich von jeher eingenommen. Sie wäre kulturell und wirtschaftlich die gesündere. 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_2171">Badeni</persName> wollte sie zustande bringen, und deswegen war ich an seiner Seite. Diese richtige Idee scheiterte aber vollkommen an der Unfähigkeit, die richtigen Mittel der Durchführung zu finden. 
-          <pb facs="#F_K-11_Bae_MF_1_126" n="60" xml:id="Bae_MF_1_2172"/> Und auch wenn 
+          <pb facs="#F_K-11_Bae_MF_1_126" n="60" xml:id="Bae_MF_1_2172"/>Und auch wenn 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_2173">Badeni</persName> den richtigen, ihm von seinen Freunden so oft vorgehaltenen Weg gegangen wäre, wäre die Uneinigkeit und Planlosigkeit unter den deutschen Politikern 
           <app from="#Bae_TB_1_5047" type="equal" xml:id="Bae_MF_1_2174">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_2175">in vielen Köpfen, gewiss auch bei allen unsern Slaven u. auch die Clerikalen dürften solchen Gedankengängen nicht ferne stehen. Es war das ein Lieblingsthema des armen Carl Chorinsky. Etwas stutzig hat mich in dieser Hinsicht ein jüngst von Bismark gesprochenes Wort gemacht, der, wenn auch nur sehr hypothetisch von dem Falle sprach dass Österreich dem Deutschen Reiche abwendig gemacht werden könnte. Aber so unerschütterlich heute gewiss die Vertragstreue unseres Kaisers ist, so sicher anscheinend die Politik des Dreibundes nach Aussen auftritt, so sind doch auch für die äussere Politik die innern Zustände eines Staates maasgebend. Wenn in Österreich Slaven u. Clerikale auf die Dauer zur Herrschaft gelangen, nützt eine intransingente, irredentistische Politik der Deutschen dem Dreibund nicht. Es ist das ein Theil einer großen Frage, welche die Deutschen Österreich an sich selbst stellen müssen, d.h. die Frage auf welche Weise sie sich einen entscheidenden Einfluss auf die Staatsgeschäfte sichern können? Dieser Einfluss war früher unbestritten. Seit 1866 haben sich die Voraussetzungen desselben successive zu Ungunsten der Deutschen geändert. Das bei uns, wenn auch nur partiell eingeführte allgemeine Stimmrecht war die letzte, grosse Verschiebung zu Ungunsten der Deutschen, wenn man tiefer blickt von viel grösserer Tragweite als die Sprachenverordnungen. Diese können modificirt werden, die Wirkungen des allgemeinen Stimmrechtes nicht. Die freisinnigen Deutschen sind definitiv in der Minorität u. ohne dass sie Allianzen eingehen, können sie ein mitbestimmender Faktor im Staatsleben nicht mehr werden, da jede Regierung u. wäre sie die deutscheste zum Regieren einer Majorität im Parlament bedarf. Zwei Allianzen bieten sich nun den Deutschen: auf Grund freisinniger Anschauungen mit jenem Teil der Slaven, die die gleiche Geistesrichtung vertreten – oder auf Grund der nationalen Gemeinsamkeit mit den Clerikalen. Keine dieser Allianzen ist zu schließen, ohne Opfer zu bringen. Für die erstbezeichnete war ich von jeher eingenommen. Sie wäre culturell u. wirtschaftlich die gesündere. Badeni wollte sie zu Stande bringen, und desswegen war ich an seiner Seite. Diese richtige Idee scheiterte aber vollkommen an der Unfähigkeit, die richtigen Mittel der Durchfürung zu finden. Und auch wenn Badeni den richtigen, ihm von seinen Freunden so oft vorgehaltenen Weg gegangen wäre, wäre die Uneinigkeit und Planlosigkeit unter den deutschen Politikern</rdg>
@@ -2822,7 +2820,7 @@
           <placeName key="Galizien" ref="https://www.geonames.org/562153/galicia.html" xml:id="Bae_MF_1_2202">Galizien</placeName> eine ähnliche Stellung in 
           <placeName key="Cisleithanien" ref="https://d-nb.info/gnd/4043271-3" xml:id="Bae_MF_1_2203">Cisleithanien</placeName> anzuweisen wie 
           <placeName key="Kroatien" ref="https://www.geonames.org/3202326/republic-of-croatia.html" xml:id="Bae_MF_1_2204">Kroatien</placeName> in der ungarischen Reichshälfte. Will man sich aber nicht die Hände vor die Augen halten, muß man sich eingestehen, daß 
-          <pb facs="#F_K-11_Bae_MF_1_130" n="62" xml:id="Bae_MF_1_2205"/> dieser Ausweg auf normalem parlamentarischen Weg nicht zu erreichen ist. Die 
+          <pb facs="#F_K-11_Bae_MF_1_130" n="62" xml:id="Bae_MF_1_2205"/>dieser Ausweg auf normalem parlamentarischen Weg nicht zu erreichen ist. Die 
           <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_MF_1_2206">Polen</orgName> selbst wollen natürlich nicht, da ihnen die heutige Stellung viel besser passt, die andern Slaven erst recht nicht und von den Deutschklerikalen ist es sehr zweifelhaft, ob sie dazu zu haben sind. Von einer 2/3 Majorität im 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_2207">Reichsrat</orgName> ist gar keine Rede. Bleibt nur ein Staatsstreich zu Gunsten der Ausscheidung 
           <placeName key="Galizien" ref="https://www.geonames.org/562153/galicia.html" xml:id="Bae_MF_1_2208">Galiziens</placeName>? Ist der warscheinlich ohne internationale Verwicklungen? Sind ernste Verwicklungen dieser Art in Aussicht, in der nächsten Zeit wahrscheinlich? 
@@ -2835,7 +2833,7 @@
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_MF_1_2214">Deutschland</placeName> noch sonst jemand die Hand gerührt hat und wohl je die Hand rühren wird. Haben also diejenigen nicht Recht, die es der Anstrengung der Besten für wert halten, daß diese Frage innerhalb unserer Grenzen, unter uns, gelöst werde? Wäre nicht zunächst eine Politik der Beruhigung und dann eine Politik der schrittweisen, sachlichen Lösung der nationalen Schwierigkeiten nicht die einzige österreichische Politik? 
         </p>
         <p xml:id="Bae_MF_1_2215">Ich gebe aber zu, daß die ganze Sache noch eine 
-          <pb facs="#F_K-11_Bae_MF_1_132" n="63" xml:id="Bae_MF_1_2216"/> andere Seite hat. Die Slaven sind in ihren Expansionsbestrebungen in den letzten Dezennien deswegen immer so zuversichtlich gewesen, weil die Deutschen, gewöhnlich parteimäßig zersplittert, von Staatsinteressen durchtränkt, ihren nationalen Standpunkt vernachläßigt haben. Das muß man eingestehen und so weit die heutige Bewegung dahin geht, diesem Mangel abzuhelfen, die Deutschen zur nationalen Wahrung ihrer Interessen zusammenzuschließen und zu stählen, ist sie nicht nur berechtigt, sondern ein dringendes Bedürfniss. Auf dieses gesteigerte Nationalbewußtsein der Deutschen hin, haben allerdings auch die Slaven ihre nationalen Töne höher gestimmt. Das würde an und für sich nichts machen. Aber es ist eine Grenze und die ist der Bestand 
+          <pb facs="#F_K-11_Bae_MF_1_132" n="63" xml:id="Bae_MF_1_2216"/>andere Seite hat. Die Slaven sind in ihren Expansionsbestrebungen in den letzten Dezennien deswegen immer so zuversichtlich gewesen, weil die Deutschen, gewöhnlich parteimäßig zersplittert, von Staatsinteressen durchtränkt, ihren nationalen Standpunkt vernachläßigt haben. Das muß man eingestehen und so weit die heutige Bewegung dahin geht, diesem Mangel abzuhelfen, die Deutschen zur nationalen Wahrung ihrer Interessen zusammenzuschließen und zu stählen, ist sie nicht nur berechtigt, sondern ein dringendes Bedürfniss. Auf dieses gesteigerte Nationalbewußtsein der Deutschen hin, haben allerdings auch die Slaven ihre nationalen Töne höher gestimmt. Das würde an und für sich nichts machen. Aber es ist eine Grenze und die ist der Bestand 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_1_2217">Oesterreichs</placeName>. Die Deutschen dürfen nie aufhören, eine österreichische Partei zu sein. Was heute in Deutschböhmen vorgeht ist noch nicht Irredentismus, aber die Saat dazu. Man muß sich nur – ganz abgesehen von den Matadoren á la 
           <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_MF_1_2218">Schönerer</persName> und 
           <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_MF_1_2219">Wolf</persName> – die Männer ansehen in den kleinen Städten die heute das Heft in den Händen haben. Ich will gerne denen glauben, die mir sagen: alles das verschwindet wieder, wenn es gelingt normale Zustände zu schaffen. Möglich. Dauern aber die heutigen Zustände länger, wird alles was ruhig denkt, die Politik von einem höhern, gebildeteren Standpunkt betrachtet, aus dem öffentlichen Leben hinausgedrängt. 
@@ -2864,7 +2862,7 @@
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_2236">stets</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_2237"/>blöde Refrain den man hier hört: "es ist uns ganz alles eins, was draus wird". Anstatt daß die 
-          <pb facs="#F_K-11_Bae_MF_1_134" n="64" xml:id="Bae_MF_1_2238"/> Deutschen in 
+          <pb facs="#F_K-11_Bae_MF_1_134" n="64" xml:id="Bae_MF_1_2238"/>Deutschen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_1_2239">Oesterreich</placeName>
           <hi rendition="#ul" xml:id="Bae_MF_1_2240">alle</hi> Mittel ergreifen, auch die stärksten, aber innerhalb unserer Grenzpfähle bleiben, unternehmen sie die Bierreisen nach 
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_MF_1_2241">Deutschland</placeName>; anstatt daß die Deutschböhmen mit den Alpendeutschen enge Beziehungen knüpfen, nach 
@@ -2903,7 +2901,7 @@
           <add place="across" xml:id="Bae_MF_1_2267">r</add> Stammesbrüder "im Reich" wirken gewiß kräftigend auf Mut und Ausdauer bei uns, sie für mehr verwerten zu wollen, hat keinen Sinn. Sehen wir den Dingen ganz auf den Grund. Wer halbwegs 
           <del rendition="#s" xml:id="Bae_MF_1_2268">unter</del>
           <add place="across" xml:id="Bae_MF_1_2269">über</add> dem Niveau der Bierbankpolitik steht, gibt ohnedies zu, das alles diene nur zur "Einschüchterung" und werde dazu führen, daß die gerechten Deutschen Forderungen Gehör finden. Ich gestehe, daß mir diese Art Politik durchaus widerstrebt. Freilich haben die Ungarn Alles auf diesem Wege erreicht. Aber ich frage: wäre 
-          <pb facs="#F_K-11_Bae_MF_1_136" n="65" xml:id="Bae_MF_1_2270"/> unser Verhältnis zu 
+          <pb facs="#F_K-11_Bae_MF_1_136" n="65" xml:id="Bae_MF_1_2270"/>unser Verhältnis zu 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_1_2271">Ungarn</placeName> nicht ein Besseres, Haltbareres, Gerechteres, wenn an Stelle der durch Unglück und Furcht diktierten Aktion 
           <persName key="BeustFriedrichFerdinand" ref="https://d-nb.info/gnd/118510444" xml:id="Bae_MF_1_2272">B 
             <del rendition="#s" xml:id="Bae_MF_1_2273">r</del>
@@ -2960,7 +2958,7 @@
           <index xml:id="Bae_MF_1_2314">
             <term key="Parteien/Obmaennerkonferenz" xml:id="Bae_MF_1_2315">Obmännerkonferenz</term>
           </index> beschlossen worden 
-          <pb facs="#F_K-11_Bae_MF_1_138" n="66" xml:id="Bae_MF_1_2316"/> war, daß wenn eine Einladung zu einer Friedenskonferenz erfolgen würde, sofort eine neuerliche Besprechung zu veranstalten sei, um Stellung zu nehmen. 
+          <pb facs="#F_K-11_Bae_MF_1_138" n="66" xml:id="Bae_MF_1_2316"/>war, daß wenn eine Einladung zu einer Friedenskonferenz erfolgen würde, sofort eine neuerliche Besprechung zu veranstalten sei, um Stellung zu nehmen. 
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_MF_1_2317">Thun</persName> hatte also eigentlich gar nicht die Legitimation die Einladung anzunehmen. Doch sah ich ein, daß er recht gehandelt habe. 
           <app from="#Bae_TB_1_5437" type="equal" xml:id="Bae_MF_1_2318">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_2319">Als ich jedoch in Prag ankam, wurde ich schon im "blauen Stern" sehr erregt gefragt, warum wir das gethan hätten u. warum wir uns vom "deutschen Volke" trennen? Ich fuhr sofort zu Schlesinger, wo ich wusste, dass Thun zu finden war. Wir drei hatten dann (es war um 6 Uhr am 22. August) eine eingehende Conferenz. Anfangs war mir die Sache auch in die Nase gefahren, dass Thun ohne weiters angenommen hatte, um so mehr als in der letzten am 11. Juli in Wien abgehaltenen Obmännerconferenz beschlossen worden war, dass wenn eine Einladung zu einer Friedensconferenz erfolgen würde, sofort eine neuerliche Besprechung zu veranstalten sei, um Stellung zu nehmen. Thun hatte also eigentlich gar nicht die Legitimation die Einladung anzunehmen. Doch sah ich ein, dass er recht gehandelt habe.</rdg>
@@ -3322,7 +3320,7 @@
           </p>
           <p xml:id="Bae_MF_1_2591">Des Ernstes der Situation waren wir uns aber voll bewußt. Mehr und mehr brachte ich allen unsern Herren (mit wenigen Ausnahmen) die Ueberzeugung bei, daß es mit 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_2592">Badeni</persName> nicht mehr gehe, daß eine Lösung der Krise nur durch seine Entfernung vom Amte angebahnt werden könne und daß je eher das geschehen würde, desto besser für den Staat, für den Parlamentarismus und für das sich täglich mehr verbitternde 
-            <pb facs="#F_K-11_Bae_MF_1_152" n="74" xml:id="Bae_MF_1_2593"/> Verhältnis der Parteien und Nationalitäten im 
+            <pb facs="#F_K-11_Bae_MF_1_152" n="74" xml:id="Bae_MF_1_2593"/>Verhältnis der Parteien und Nationalitäten im 
             <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_1_2594">Hause</orgName>. Seither haben wir alles getan was uns möglich war, um den Fall 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_2595">Badenis</persName> zu beschleunigen. Gewiß haben wir durch unsere Haltung, unsere Erklärungen und Reden 
             <app from="#Bae_TB_2_331" type="equal" xml:id="Bae_MF_1_2596">
@@ -3357,7 +3355,7 @@
           <p xml:id="Bae_MF_1_2617">"Il ne faut jurer de rien" – diese Erfahrung macht man in der heutigen Politik auf Schritt und Tritt. Vor einem halben Jahre hatten wir uns – vielleicht etwas zu heftig und ostentativ – dagegen gewehrt in eine Majorität einzutreten, in der 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_MF_1_2618">Dipauli</persName> mit den Seinen auch aufgenommen wäre, jetzt knüpften wir mit demselben 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_MF_1_2619">Dipauli</persName> an und taten alles um 
-            <pb facs="#F_K-11_Bae_MF_1_154" n="74" xml:id="Bae_MF_1_2620"/> uns näher zu kommen. Freilich von dem von mir so oft aufgestellten Dilemma: entweder auf liberaler Basis eine Allianz mit den liberalen Čechen – oder auf nationaler Basis eine Allianz mit den Deutschen auch wenn sie klerikal sind – blieb uns, wie die Dinge liegen nur die letztere Eventualität übrig und ich war daher ganz entschieden dafür zu trachten sie sofort so gut als möglich auszunützen. Ich muß 
+            <pb facs="#F_K-11_Bae_MF_1_154" n="74" xml:id="Bae_MF_1_2620"/>uns näher zu kommen. Freilich von dem von mir so oft aufgestellten Dilemma: entweder auf liberaler Basis eine Allianz mit den liberalen Čechen – oder auf nationaler Basis eine Allianz mit den Deutschen auch wenn sie klerikal sind – blieb uns, wie die Dinge liegen nur die letztere Eventualität übrig und ich war daher ganz entschieden dafür zu trachten sie sofort so gut als möglich auszunützen. Ich muß 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_MF_1_2621">Dipauli</persName> das Zeugniss ausstellen, daß er nicht einen Moment eine Nachwirkung unserer Haltung im Frühjahr gegen uns zur Schau trug. Auch er erblickte seinen Vorteil in einer Annäherung an uns und das genügte ihm mit fast italienischer gentil 
             <del rendition="#s" xml:id="Bae_MF_1_2622">i</del>
             <add place="across" xml:id="Bae_MF_1_2623">e</add>zza uns entgegenzukommen. Er hat seinen Plan, den wir lebhaft unterstützten, nicht durchzuführen vermocht. 
@@ -3382,7 +3380,7 @@
               <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_MF_1_2639">Schwegel</persName>
             </hi> zunächst die ersten Fäden mit 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_MF_1_2640">Dipauli</persName> anzuspinnen trachtete, weil er in seiner Nähe sitzend mit ihm in stetem Kontakt ist. Es 
-            <pb facs="#F_K-11_Bae_MF_1_156" n="75" xml:id="Bae_MF_1_2641"/> war am 
+            <pb facs="#F_K-11_Bae_MF_1_156" n="75" xml:id="Bae_MF_1_2641"/>war am 
             <date when="1897-10-05" xml:id="Bae_MF_1_2642">5. Oktober</date> als 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_MF_1_2643">Dipauli</persName> selbst zu 
             <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_MF_1_2644">Schwegel</persName> seine Ueberzeugung aussprach, daß es so nicht weitergehen könne, 
@@ -3428,7 +3426,7 @@
           </p>
           <p xml:id="Bae_MF_1_2676">
             <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_MF_1_2677">Schwegel</persName> antwortete auf die möglichen Dinge klar 
-            <pb facs="F_K-11_Bae_MF_1_158" n="76" xml:id="Bae_MF_1_2678"/> und bejahend auf die andern vorsichtig. Vor Allem betonte er immer wieder, daß 
+            <pb facs="F_K-11_Bae_MF_1_158" n="76" xml:id="Bae_MF_1_2678"/>und bejahend auf die andern vorsichtig. Vor Allem betonte er immer wieder, daß 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_MF_1_2679">Dipauli</persName> aus der Majorität austreten müsse, um eine neue Situation zu schaffen. An Stelle 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_2680">Badeni's</persName> müsste vorläufig ein Beamtenministerium treten, allenfalls mit 
             <persName key="SchoenbornFriedrich" ref="https://d-nb.info/gnd/116863854" xml:id="Bae_MF_1_2681">Schönborn</persName> an der Spitze. Der 
@@ -3725,9 +3723,10 @@
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_2897">Nach Abschluss der Verhandlungen gaben wir ein Communiqué heraus. Unser Communiqué. In Wien wurde gestern (Samstag) folgendes vom deutschen Großgrundbeseitze stammendes Communiqué ausgegeben: "Abg. von Dipauli ist durch Vermittlung des verfassungstreuen Großgrundbesitzes an die Obstructionsparteien herangetreten, um unmittelbar nach den Ministeranklagen die Verhandlung seines Sprachenantrages zu ermöglichen. Auf Grund dieser Anregung haben Verhandlungen stattgefunden, welche die gleichzeitige Verhandlung der Sprachenanträge zum Gegenstande hatten. Nachdem jedoch von Seite einzelner Majoritätsparteien, wie Baron Dipauli heute mittheilte, diese Frage mit dem Ausgleichsprovisorium in Verbindung gebracht worden ist, haben die Verhandlungen zu keinem Resultat geführt." So unbefriedigend diese Angelegenheit vorläufig abschloss, so zog sie doch in der Folge immer weitere Wellen. Das Gefüge der kathol. Volkspartei war schwer erschüttert. Bei jeder Gelegenheit trat ich dafür ein die Secessionisten der kathol. Volkspartei nicht feindlich zu behandeln, sondern wie Politiker, die anfangen auf dem rechten Weg zu wandeln. Vorläufig geringer Erfolg. Wolf beschimpfte die Tyroler Clerikalen bei einem Parteifest in Bozen ganz sinnlos.</rdg>
             </app>
           </p>
-          <pb facs="#F_K-11_Bae_MF_1_168" n="81" xml:id="Bae_MF_1_2898"/>
+          
         </div>
         <div xml:id="Bae_MF_1_2899">
+          <pb facs="#F_K-11_Bae_MF_1_168" n="81" xml:id="Bae_MF_1_2898"/>
           <anchor xml:id="Bae_MF_1_2900"/>
           <head xml:id="Bae_MF_1_2901">
             <hi rendition="#ul" xml:id="Bae_MF_1_2902">III. Die 
@@ -3816,7 +3815,7 @@
             </index> irgend eine Schlappe erlitten, ging 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_2959">Badeni</persName> und 
             <persName key="HalbanHeinrich" ref="https://d-nb.info/gnd/116208848" xml:id="Bae_MF_1_2960">Halban</persName>
-            <pb facs="#F_K-11_Bae_MF_1_170" n="83" xml:id="Bae_MF_1_2961"/> erhobenen Kopfes 
+            <pb facs="#F_K-11_Bae_MF_1_170" n="82" xml:id="Bae_MF_1_2961"/> erhobenen Kopfes 
             <app from="#Bae_TB_2_1067" type="equal" xml:id="Bae_MF_1_2962">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_2963">III. Die Ministeranklagen. Abgesehen von den Notstandssachen bildeten die Ministeranklagen während des ganzen Monats October u. eines grossen Theil des November ausschliessliches Verhandlungsthema, d.h. soweit nicht Obstructionsabstimmungen u. durch die Obstruction herbeigefürte Zwischenfälle eine eigentliche Verhandlung überhaupt aufkommen ließ, was nur in Intervallen der Fall war. Diese Ministeranklagen Vorgänge im Frühjahre. Nur hatte die Regierung durch ihre unbegreifliche Haltung während des Sommers solchen Dingen neue Nahrung gegeben. Juristisch u. staatsrechtlich waren diese Anklagen eigentlich gar nicht fundirt, aber die Form durch Anklagen Fehler der Regierung zur Sprache zu bringen diente nicht nur den deutschen Parteien dazu gewisse Vorgänge des Sommers zur Sprache zu bringen, sondern hauptsächlich ihren Zwecken der Obstruction. Schon im octbr. war es daher jedem etwas Weiterblickenden klar, dass das eigentliche Kampfobjekt das Ausgleichsprovisorium sei u. dass der ganze strategische Aufmarsch der Opposition dieser Vorlage der Regierung gelte. Mit einem Fatalismus ohne Gleichen lies die Regierung den Dingen ihren Lauf. Badeni musste sich schon im Oktober klar sein, dass er entweder mit der Opposition einen Vergleich zu Stande bringen oder das Feld räumen müsse, damit einem Nachfolger noch die Zeit übrig bleibe, das Provisorium verfassungsmässig bis 1.1.98 zu Stande zu bringen. Das was er that, war va banque. Die Chancen für die Regierung wechselten natürlich. Hatte die Obstruction irgend eine Schlappe erlitten, ging Badeni u. Halban erhobenen Kopfes</rdg>
             </app>
