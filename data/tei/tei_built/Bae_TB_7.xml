@@ -5,7 +5,7 @@
       <titleStmt xml:id="Bae_TB_7_4">
         <title xml:id="Bae_TB_7_5">Die Tagebücher von Joseph Maria Baernreither</title>
         <title type="volume" xml:id="Bae_TB_7_6">Tagebuch 7 (1905)</title>
-        <title type="display">Tagebuch 7</title>
+        <title type="display" xml:id="Bae_TB_7_4518">Tagebuch 7</title>
         <title type="short" xml:id="Bae_TB_7_7">Bae_TB_7</title>
         <author xml:id="Bae_TB_7_8">
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_7_9">
@@ -65,7 +65,8 @@
       </editorialDecl>
     </encodingDesc>
     <profileDesc xml:id="Bae_TB_7_45">
-      <creation><date when="1905">1905</date>
+      <creation xml:id="Bae_TB_7_4519">
+        <date when="1905" xml:id="Bae_TB_7_4520">1905</date>
       </creation>
       <langUsage xml:id="Bae_TB_7_46">
         <language ident="deu" xml:id="Bae_TB_7_47">Deutsch</language>
