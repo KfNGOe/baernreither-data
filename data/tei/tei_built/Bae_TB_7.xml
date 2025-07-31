@@ -66,7 +66,7 @@
     </encodingDesc>
     <profileDesc xml:id="Bae_TB_7_45">
       <creation xml:id="Bae_TB_7_4519">
-        <date when="1905" xml:id="Bae_TB_7_4520">1905</date>
+        <date when="1904-12" to="1906-01" xml:id="Bae_TB_7_4520">1905</date>
       </creation>
       <langUsage xml:id="Bae_TB_7_46">
         <language ident="deu" xml:id="Bae_TB_7_47">Deutsch</language>
@@ -2272,7 +2272,7 @@
         <note type="editorial" xml:id="Bae_TB_7_2103">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_7_139" n="39r" xml:id="Bae_TB_7_1049"/>
       </div>
-      <div xml:id="Bae_TB_7_1050">
+      <div n="1905-08" xml:id="Bae_TB_7_1050">
         <head xml:id="Bae_TB_7_1051">
           <anchor xml:id="Bae_TB_7_4423"/>Ungarische Fühlungen 
           <app from="#Bae_MF_6-1_1326" type="notEqual" xml:id="Bae_TB_7_4424">
@@ -2825,7 +2825,7 @@
           </app>
         </p>
       </div>
-      <div xml:id="Bae_TB_7_1179">
+      <div n="1905-10" type="diaryEntry" xml:id="Bae_TB_7_1179">
         <addSpan spanTo="#Bae_TB_7_2128" type="insertion" xml:id="Bae_TB_7_2126"/>
         <p xml:id="Bae_TB_7_1180">
           <anchor xml:id="Bae_TB_7_4512"/>

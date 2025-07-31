@@ -65,7 +65,7 @@
     </encodingDesc>
     <profileDesc xml:id="Bae_TB_1_44">
       <creation xml:id="Bae_TB_1_5836">
-        <date when="1897" xml:id="Bae_TB_1_5837">1897</date>
+        <date from="1897-01" to="1898-10" xml:id="Bae_TB_1_5837">1897</date>
       </creation>
       <langUsage xml:id="Bae_TB_1_45">
         <language ident="deu" xml:id="Bae_TB_1_46">Deutsch</language>
@@ -78,7 +78,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_1_49">
     <body xml:id="Bae_TB_1_50">
-      <div xml:id="Bae_TB_1_51">
+      <div n="1897-01" type="diaryEntry" xml:id="Bae_TB_1_51">
         <pb facs="#F_K-6_Bae_TB_1_002" n="1r" xml:id="Bae_TB_1_52"/>
         <p xml:id="Bae_TB_1_53">
           <anchor xml:id="Bae_TB_1_54"/>Der 
@@ -112,7 +112,7 @@
           </app>
         </p>
       </div>
-      <div xml:id="Bae_TB_1_76">
+      <div n="1897-03" type="diaryEntry" xml:id="Bae_TB_1_76">
         <head xml:id="Bae_TB_1_77">
           <hi rendition="ul" xml:id="Bae_TB_1_78">
             <anchor xml:id="Bae_TB_1_79"/>I. Bis zur 
@@ -1591,7 +1591,7 @@
           </app>
         </p>
       </div>
-      <div xml:id="Bae_TB_1_1174">
+      <div n="1897-04" type="diaryEntry" xml:id="Bae_TB_1_1174">
         <head xml:id="Bae_TB_1_1175">
           <anchor xml:id="Bae_TB_1_1176"/>
           <hi rendition="ul" xml:id="Bae_TB_1_1177">II. Von der 
@@ -3337,7 +3337,7 @@
           <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_TB_1_2457">Christlich-socialen</orgName>. 
         </p>
       </div>
-      <div xml:id="Bae_TB_1_2458">
+      <div n="1897-05" type="diaryEntry" xml:id="Bae_TB_1_2458">
         <head xml:id="Bae_TB_1_2459">
           <hi rendition="ul" xml:id="Bae_TB_1_2460">III. Die Osterferien 1897</hi>
         </head>
@@ -3853,7 +3853,7 @@
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_2846">Reichsrats</orgName> erfolgte unter den denkbar ungünstigsten Stimmungen. 
         </p>
       </div>
-      <div xml:id="Bae_TB_1_2847">
+      <div n="1897-02" type="diaryEntry" xml:id="Bae_TB_1_2847">
         <head xml:id="Bae_TB_1_2848">
           <hi rendition="ul" xml:id="Bae_TB_1_2849">IV. Von der Wiedereröffnung des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_2850">
@@ -5409,7 +5409,7 @@
           </app>
         </p>
       </div>
-      <div xml:id="Bae_TB_1_3984">
+      <div n="1897-10" type="diaryEntry" xml:id="Bae_TB_1_3984">
         <!-- Hinweis mit Bleistift: geschrieben Anfang Oktober 1897 Lünz -->
         <pb facs="#F_K-6_Bae_TB_1_119" n="59v" xml:id="Bae_TB_1_5750"/>
         <note type="editorial" xml:id="Bae_TB_1_5814">Diese Seite ist leer.</note>

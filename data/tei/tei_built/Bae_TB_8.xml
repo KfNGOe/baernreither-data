@@ -66,7 +66,7 @@
     </encodingDesc>
     <profileDesc xml:id="Bae_TB_8_45">
       <creation xml:id="Bae_TB_8_2442">
-        <date when="1905" xml:id="Bae_TB_8_2443">1905</date>
+        <date from="1906-01" to="1909-07" xml:id="Bae_TB_8_2443">1905</date>
       </creation>
       <langUsage xml:id="Bae_TB_8_46">
         <language ident="deu" xml:id="Bae_TB_8_47">Deutsch</language>
@@ -79,13 +79,11 @@
   </teiHeader>
   <text xml:id="Bae_TB_8_50">
     <body xml:id="Bae_TB_8_51">
-      <div xml:id="Bae_TB_8_52">
+      <div n="1906-04-13" type="diaryEntry" xml:id="Bae_TB_8_52">
         <head xml:id="Bae_TB_8_53">
           <pb facs="#F_K-5_Bae_TB_8_002" n="4r" xml:id="Bae_TB_8_54"/>
           <hi rend="#ul" xml:id="Bae_TB_8_55">Die Wahlreform</hi>
         </head>
-      </div>
-      <div n="1906-04-13" type="diaryEntry" xml:id="Bae_TB_8_56">
         <p xml:id="Bae_TB_8_2440">
           <anchor xml:id="Bae_TB_8_1462"/>
           <app from="#Bae_MF_6-2_1924" type="missing" xml:id="Bae_TB_8_2438">
@@ -424,7 +422,7 @@
         <pb facs="#F_K-5_Bae_TB_8_011" n="7v" xml:id="Bae_TB_8_172"/>
         <note type="editorial" xml:id="Bae_TB_8_173">Diese Seite ist leer.</note>
       </div>
-      <div xml:id="Bae_TB_8_174">
+      <div n="1906-01" type="diaryEntry" xml:id="Bae_TB_8_174">
         <addSpan spanTo="#Bae_TB_8_299" type="insertion" xml:id="Bae_TB_8_175"/>
         <p xml:id="Bae_TB_8_176">
           <pb facs="#F_K-5_Bae_TB_8_012" n="8r" xml:id="Bae_TB_8_178"/>
