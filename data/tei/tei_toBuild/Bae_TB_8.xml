@@ -81,7 +81,7 @@
     <body xml:id="Bae_TB_8_51">
       <div n="1906-04-13" type="diaryEntry"  xml:id="Bae_TB_8_52">
         <head xml:id="Bae_TB_8_53">
-          <pb facs="#F_K-5_Bae_TB_8_002" n="4r" xml:id="Bae_TB_8_54"/>
+          <pb facs="#F_K-5_Bae_TB_8_004" n="4r" xml:id="Bae_TB_8_54"/>
           <hi rend="#ul" xml:id="Bae_TB_8_55">Die Wahlreform</hi>
         </head>
         <p xml:id="Bae_TB_8_2440">
@@ -602,7 +602,7 @@
           <anchor xml:id="Bae_TB_8_299"/>
         </p>
       </div>
-      <div xml:id="Bae_TB_8_300">
+      <div n="1906-02" type="diaryEntry" xml:id="Bae_TB_8_300">
         <p xml:id="Bae_TB_8_301">Das Ganze war kein offen eingestandener Plan, sondern sollte hinter den Coulissen fertiggemacht werden – unbegreiflich daher warum die offiziöse 
           <index xml:id="Bae_TB_8_302">
             <term key="Presse" xml:id="Bae_TB_8_303">Presse</term>
@@ -937,7 +937,8 @@
           </app>
         </p>
         <p xml:id="Bae_TB_8_457">---</p>
-        <div xml:id="Bae_TB_8_458">
+      </div>
+        <div n="1906-4" type="diaryEntry" xml:id="Bae_TB_8_458">
           <p xml:id="Bae_TB_8_459">
             <anchor xml:id="Bae_TB_8_460"/>In der Osterpause haben in 
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_8_461">Prag</placeName> mehrfache Besprechungen zwischen 
@@ -1934,8 +1935,8 @@
               <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_882">Als Beck anfangs Juni 1906 die Geschäfte übernahm, wurde von verschiedenen Seiten behauptet, daß in den obersten Kreisen bezüglich der Wahlreform eine Sinnesänderung eingetreten sei. Es wäre erklärlich gewesen, daß, wenn der Plan des allgemeinen Stimmrechts in Ungarn aufgegeben wird, man auch in Oesterreich darauf verzichtet. Czernin schrieb mir am 5. Juni 1906 von einer Audienz , die der Statthalter Coudenhove beim Kaiser gehabt hatte, folgendermaßen:</rdg>
             </app>
           </p>
-        </div>
-        <div xml:id="Bae_TB_8_883">
+       
+        
           <anchor xml:id="Bae_TB_8_884"/>
           <pb facs="#F_K-5_Bae_TB_8_078" n="40a" xml:id="Bae_TB_8_885"/>
           <addSpan spanTo="#Bae_TB_8_931" type="insert" xml:id="Bae_TB_8_886"/>
@@ -2000,8 +2001,8 @@
               <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_930">Der Schluss, den Czernin in diesem Briefe aus der Audienz Coudenhoves zieht, ist, wie es sich bald herausstellte, voreilig gewesen. Der Kaiser hatte zu den Ausführungen Coudenhoves geschwiegen, mehr nicht. Beck leugnet, von so einem Schwanken des Kaisers irgendetwas gewußt zu haben und sein Auftreten war nicht danach angetan, eine solche Wendung vorzubereiten. Er ging im Gegenteil gerade und mit allen Mitteln auf das allgemeine Stimmrecht los.</rdg>
             </app>
           </p>
-          <anchor xml:id="Bae_TB_8_931"/>
         </div>
+          <anchor xml:id="Bae_TB_8_931"/>
         <div n="1906-06-17" type="diaryEntry" xml:id="Bae_TB_8_932">
           <p xml:id="Bae_TB_8_933">
             <pb facs="#F_K-5_Bae_TB_8_049" n="26v" xml:id="Bae_TB_8_934"/>
@@ -2421,7 +2422,7 @@
         <pb facs="#F_K-5_Bae_TB_8_059" n="31v" xml:id="Bae_TB_8_1112"/>
         <note type="editorial" xml:id="Bae_TB_8_1113">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K-5_Bae_TB_8_060" n="32r" xml:id="Bae_TB_8_1114"/>
-        <div xml:id="Bae_TB_8_1115">
+        <div n="1906-08-13" type="diaryEntry" xml:id="Bae_TB_8_1115">
           <anchor xml:id="Bae_TB_8_1116"/>
           <head xml:id="Bae_TB_8_1117">
             <hi rend="#ul" xml:id="Bae_TB_8_1118">Denkschrift verfasst für 
@@ -3170,7 +3171,7 @@
             </app>
           </p>
         </div>
-      </div>
+      
     </body>
   </text>
 </TEI>
