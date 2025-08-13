@@ -626,7 +626,7 @@
             <abbr xml:id="Bae_TB_1_457">u.</abbr>
             <expan xml:id="Bae_TB_1_458">und</expan>
           </choice> das Versprechen gegeben werden in 
-          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_459">Böhmen</placeName> nichts zu unternehmen, ohne vorher
+          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_459">Böhmen</placeName> nichts zu unternehmen, ohne vorher 
         </p>
         <pb facs="#F_K-6_Bae_TB_1_015" n="7v" xml:id="Bae_TB_1_471"/>
         <p xml:id="Bae_TB_1_472">
@@ -691,7 +691,6 @@
         <anchor xml:id="Bae_TB_1_5681"/>
         <!-- CA. anchor für addspan Bae_TB_1_476 -->
         <!-- DC Ende der Einklebung -->
-        <!-- Einklebung fol. 7v siehe unten -->
         <pb facs="#F_K-6_Bae_TB_1_016" n="8r" xml:id="Bae_TB_1_460"/>
         <p xml:id="Bae_TB_1_5841">die Vertreter beider Nationalitäten gefragt zu haben. 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_461">Badeni</persName> ging auf dieses Verlangen ohne Weiteres ein 
@@ -931,7 +930,7 @@
         <p xml:id="Bae_TB_1_682">Die Versammlung der Vertrauensmänner der Deutschen in 
           <placeName key="Boemen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_683">Böhmen</placeName> am 
           <date when="1896-06-29" xml:id="Bae_TB_1_684">29. Juni 1896</date> in 
-          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_1_685">Prag</placeName>, noch mehr aber die dieser Versammlung vorausgehenden Beratungen des Exekutivcomité's und
+          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_1_685">Prag</placeName>, noch mehr aber die dieser Versammlung vorausgehenden Beratungen des Exekutivcomité's und 
         </p>
         <p xml:id="Bae_TB_1_714">
           <pb facs="#F_K-6_Bae_TB_1_023" n="11v" xml:id="Bae_TB_1_5710"/>
@@ -1585,9 +1584,9 @@
           <app from="#Bae_MF_1_629" type="missing" xml:id="Bae_TB_1_1160">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1161"/>
           </app>
-          <anchor xml:id="Bae_TB_1_1162"/>, dass bei einer namhaften Gruppe deutscher Abgeordneter die grösste Lust bestehe sich mit dem Grossgrundbesitz zu vereinigen. Die Rücksicht auf die Wählerschaften verhinderte
+          <anchor xml:id="Bae_TB_1_1162"/>, dass bei einer namhaften Gruppe deutscher Abgeordneter die grösste Lust bestehe sich mit dem Grossgrundbesitz zu vereinigen. Die Rücksicht auf die Wählerschaften verhinderte 
         </p>
-        <!-- Einklebung Zeitungsartikel 19v und 20v siehe unten -->
+        <!-- Einklebung Zeitungsartikel -->
         <addSpan spanTo="#Bae_TB_1_XXXX" type="insertion" xml:id="Bae_TB_1_1202"/>
         <pb facs="#F_K-6_Bae_TB_1_039" n="19v" xml:id="Bae_TB_1_1163"/>
         <p xml:id="Bae_TB_1_1203">
@@ -1684,7 +1683,9 @@
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_1271">Böhmen</placeName> bestimmte Verordnung setzt in § 1 zwar fest, daß alle Beamten bei allen landesfürstlichen Behörden in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_1272">Böhmen</placeName> beider Landessprachen mächtig sein müssen, aber fast jeder folgende Paragraph bedeutet eine Milderung dieser principiellen Feststellung. 
         </p>
-        <p xml:id="Bae_TB_1_1273">Vor Allem sind die bereits angestellten Beamten von der Verpflichtung, die Kenntniß der čechischen Sprache, nachzuweisen, für immer befreit; ferner ist der Eintritt von Beamten in den Staatsdienst auch für eine mehrjährige Uibergangsperiode nicht an diesen Nachweis gebunden, die Beamten werden aber verpflichtet, binnen einer Frist von sechs Jahren, und wenn eine Aenderung, die noch in Verhandlung steht, </p>
+        <p xml:id="Bae_TB_1_1273">Vor Allem sind die bereits angestellten Beamten von der Verpflichtung, die Kenntniß der čechischen Sprache, nachzuweisen, für immer befreit; ferner ist der Eintritt von Beamten in den Staatsdienst auch für eine mehrjährige Uibergangsperiode nicht an diesen Nachweis gebunden, die Beamten werden aber verpflichtet, binnen einer Frist von sechs Jahren, und wenn eine Aenderung, die noch in Verhandlung steht,</p>
+        <anchor xml:id="Bae_TB_1_5926"/>
+        <!-- CA: anchor für das vorherige addspan 1202-->
         <pb facs="#F_K-6_Bae_TB_1_040" n="20r" xml:id="Bae_TB_1_1164"/>
         <p xml:id="Bae_TB_1_5849">dies jedoch. Auch waren wir 30 Abgeordnete des 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_1165">Grossgrundbesitzes</orgName> gegenüber den 12 - 15 Abgeordneten, die zu einer Vereinigung eigentlich bereit waren, zu stark 
@@ -1738,7 +1739,7 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1201">II. Von der Eröffnung des Reichsrats am 27. März 1897 bis zu den Osterferien (April 1897). Es war wohl kein zufälliges Zusammentreffen, daß am Tage der Eröffnung des Parlamentes in der "Bohemia" ein Artikel erschien, von dem man wußte, daß er durch eine Unterredung zwischen Badeni und dem Wiener Korrespondenten des Blattes zustande gekommen war und der die Absicht an der Stirne trug durch eine gewisse Offenheit beruhigend auf die Deutschen zu wirken.</rdg>
           </app>
         </p>
-        <!-- DC Einklebung Zeitungsartikel fol. 19v -->
+        <!-- DC Einklebung Zeitungsartikel -->
         <addSpan spanTo="#Bae_TB_1_5684" type="insertion" xml:id="Bae_TB_1_5850"/>
         <pb facs="#F_K-6_Bae_TB_1_041" n="20v" xml:id="Bae_TB_1_1274"/>
         <p xml:id="Bae_TB_1_5851">Platz greift, in sieben Jahren die Prüfung aus der čechischen Sprache abzulegen. Eigene Prüfungscommissionen, in welchen den Deutschen eine ausreichende Vertretung eingeräumt wird, um die Prüfungscandidaten vor überflüssiger Strenge zu schützen, werden eingesetzt. </p>
@@ -1791,7 +1792,6 @@
         </p>
         <anchor xml:id="Bae_TB_1_5684"/>
         <!-- CA: anchor für addspan -->
-        <!-- CA: an dieser Stelle den Artikel einfügen -->
         <anchor xml:id="Bae_TB_1_5852"/>
         <app from="#Bae_TB_1_XXX" type="insertion" xml:id="Bae_TB_1_5853">
           <rdg xml:id="Bae_TB_1_5854">[...]</rdg>
@@ -2336,7 +2336,7 @@
         </p>
         <pb facs="#F_K-6_Bae_TB_1_053" n="26v" xml:id="Bae_TB_1_1755"/>
         <!-- Ergänzung S. 26v: Layout: die Zahlen der Abgeordnetengruppen stehen untereinander wegen Addition -->
-        <addSpan spanTo="#Bae_TB_1_XXXX" type="insertion" xml:id="Bae_TB_1_5858"/>
+        <addSpan spanTo="#Bae_TB_1_5859" type="insertion" xml:id="Bae_TB_1_5858"/>
         <p xml:id="Bae_TB_1_1756">
           <anchor xml:id="Bae_TB_1_1757"/>*) 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1758">Badeni's</persName> Calcül, der eben mehr ein mechanischer als ein politischer war, war folgender: 
@@ -2547,10 +2547,9 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_1_5860"/>
-        <app from="#Bae_TB_1_XXXX" xml:id="Bae_TB_1_5861">
+        <app from="#Bae_TB_1_5859" xml:id="Bae_TB_1_5861">
           <rdg xml:id="Bae_TB_1_5862">[...]</rdg>
         </app>
-        <!-- CA: anchor-ID von addspan-anchor noch nachtragen -->
         <p xml:id="Bae_TB_1_1858">
           <anchor xml:id="Bae_TB_1_1859"/>Von den Deutschböhmen war es vor allem 
           <persName key="FunkeAlois" ref="https://d-nb.info/gnd/1072507609" xml:id="Bae_TB_1_1860">Funke</persName>, der einen Sturm in Deutschböhmen voraussagte, falls die 
@@ -2602,7 +2601,7 @@
             <expan xml:id="Bae_TB_1_1893">und</expan>
           </choice> den 
           <orgName key="TschechenKlub" xml:id="Bae_TB_1_1894">Čechen</orgName>, was ich so oft die Schlacht mit den drei Fronten genannt habe – stand drohend vor aller Augen. Trotzdem war im Urteil kein Schwanken, der einzige 
-          <persName key="FournierAugust" ref="https://d-nb.info/gnd/119034735" xml:id="Bae_TB_1_1895">Fournier</persName> war es, der eine Art Verzweiflungsstimmung zur Schau trug. Spät am Abend trennten wir uns, nachdem beschlossen worden war, dass am andern Morgen eine Deputation bestehend aus
+          <persName key="FournierAugust" ref="https://d-nb.info/gnd/119034735" xml:id="Bae_TB_1_1895">Fournier</persName> war es, der eine Art Verzweiflungsstimmung zur Schau trug. Spät am Abend trennten wir uns, nachdem beschlossen worden war, dass am andern Morgen eine Deputation bestehend aus 
         </p>
         <!-- Einklebung Zeitungsausschnitt -->
         <pb facs="#F_K-6_Bae_TB_1_055" n="27v" xml:id="Bae_TB_1_5724"/>
@@ -3105,7 +3104,7 @@
           <choice xml:id="Bae_TB_1_2278">
             <abbr xml:id="Bae_TB_1_2279">u.</abbr>
             <expan xml:id="Bae_TB_1_2280">und</expan>
-          </choice> konnte sein Erstaunen nicht verbergen. Ich habe die Ueberzeugung, dass er vorher von der ganzen Sache nichts wusste. Die Resolution war geschrieben. Mit Bleistift war von einer
+          </choice> konnte sein Erstaunen nicht verbergen. Ich habe die Ueberzeugung, dass er vorher von der ganzen Sache nichts wusste. Die Resolution war geschrieben. Mit Bleistift war von einer 
         </p>
         <pb facs="#F_K-6_Bae_TB_1_067" n="33v" xml:id="Bae_TB_1_5729"/>
         <addSpan spanTo="#Bae_TB_1_5687" type="insertion" xml:id="Bae_TB_1_2263"/>
@@ -3196,7 +3195,7 @@
           <app from="#Bae_MF_1_1148" type="notEqual" xml:id="Bae_TB_1_2334">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2335">geistreicher</rdg>
           </app>
-          <anchor xml:id="Bae_TB_1_2336"/>Reactionär, als der Rädelsführer der Intrigue genannt. Ich glaube, dass sich zu diesem Beginnen
+          <anchor xml:id="Bae_TB_1_2336"/>Reactionär, als der Rädelsführer der Intrigue genannt. Ich glaube, dass sich zu diesem Beginnen 
         </p>
         <anchor xml:id="Bae_TB_1_5871"/>
         <app from="#Bae_TB_1_5688" type="insertion" xml:id="Bae_TB_1_5872">
@@ -3614,10 +3613,10 @@
           <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_TB_1_2645">Dumreicher</persName> lehrte mich zwei Maler der Mailänder Schule genau kennen, 
           <persName key="LuiniBernardino" ref="https://d-nb.info/gnd/118780808" xml:id="Bae_TB_1_2646">Luini</persName> und 
           <persName key="FerrariGaudenzio" ref="https://d-nb.info/gnd/11868339X" xml:id="Bae_TB_1_2647">Gaudenzio Ferrari</persName>. Eines Morgens fuhren wir nach 
-          <placeName key="Saronno" ref="https://www.geonames.org/3167113/saronno.html" xml:id="Bae_TB_1_2648">Saronno</placeName>, wo eine ganz von den Beiden ausgemalte Kirche. Die Kuppel von
+          <placeName key="Saronno" ref="https://www.geonames.org/3167113/saronno.html" xml:id="Bae_TB_1_2648">Saronno</placeName>, wo eine ganz von den Beiden ausgemalte Kirche. Die Kuppel von 
         </p>
         <pb facs="#F_K-6_Bae_TB_1_079" n="39v" xml:id="Bae_TB_1_2723"/>
-        <addSpan spanTo="#Bae_TB_1_XXXX" type="insertion" xml:id="Bae_TB_1_2724"/>
+        <addSpan spanTo="#Bae_TB_1_5878" type="insertion" xml:id="Bae_TB_1_2724"/>
         <p xml:id="Bae_TB_1_2725">
           <anchor xml:id="Bae_TB_1_2726"/>[handschriftlich:] Die 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_1_2727">Pacak'schen</persName> Enthüllungen (nach der 
@@ -3686,7 +3685,7 @@
           <date when="1897-04-05" xml:id="Bae_TB_1_2773">5. April.</date>
         </p>
         <anchor xml:id="Bae_TB_1_5878"/>
-        <!-- CA: das der anchor für den vorangegangenen addspan - hier noch xml-ID nachtragen oben -->
+        <!-- CA: anchor für den vorangegangenen addspan -->
         <pb facs="#F_K-6_Bae_TB_1_080" n="40r" xml:id="Bae_TB_1_2650"/>
         <p xml:id="Bae_TB_1_5879">dem Letztgenannten mit einem Chor musicirender Damen des 15. Jahrhunderts, will sagen Engel, ausgefüllt. Das war doch ein anderes Geschlecht als das Tennisschwitzende und radelnde von heute. Einen der Nachmittage fuhr ich mit 
           <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_TB_1_2652">Dumreicher</persName> nach 
@@ -3786,7 +3785,7 @@
         </p>
         <!-- DC Einklebung Zeitungsausschnitt fol. 39v und 40v-->
         <anchor xml:id="Bae_TB_1_5880"/>
-        <app from="#Bae_TB_1_XXXX" type="insertion" xml:id="Bae_TB_1_5881">
+        <app from="#Bae_TB_1_5878" type="insertion" xml:id="Bae_TB_1_5881">
           <rdg xml:id="Bae_TB_1_5882">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_1_5883"/>
@@ -3815,7 +3814,7 @@
           <choice xml:id="Bae_TB_1_2835">
             <abbr xml:id="Bae_TB_1_2836">u.</abbr>
             <expan xml:id="Bae_TB_1_2837">und</expan>
-          </choice> gefeilscht hatte.
+          </choice> gefeilscht hatte. 
         </p>
         <pb facs="#F_K-6_Bae_TB_1_081" n="40v" xml:id="Bae_TB_1_2774"/>
         <addSpan spanTo="#Bae_TB_1_5690" type="insertion" xml:id="Bae_TB_1_5886"/>
@@ -4435,7 +4434,7 @@
               <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_1_3239"/>
             </index>
           </index> 1890 
-          <hi rendition="ul" xml:id="Bae_TB_1_3240">aufgegeben</hi>, da die
+          <hi rendition="ul" xml:id="Bae_TB_1_3240">aufgegeben</hi>, da die 
         </p>
         <pb facs="#F_K-6_Bae_TB_1_097" n="48v" xml:id="Bae_TB_1_5743"/>
         <addSpan spanTo="#Bae_TB_1_5691" type="insertion" xml:id="Bae_TB_1_3270"/>
@@ -4727,10 +4726,10 @@
           <choice xml:id="Bae_TB_1_3442">
             <abbr xml:id="Bae_TB_1_3443">u.</abbr>
             <expan xml:id="Bae_TB_1_3444">und</expan>
-          </choice> vielleicht sein Vertrauen bis zu einem gewissen Grade gewonnen. Er gehört zu jenen politischen Charakteren, deren weitere Entwicklung mich jedenfalls sehr interessiert,
+          </choice> vielleicht sein Vertrauen bis zu einem gewissen Grade gewonnen. Er gehört zu jenen politischen Charakteren, deren weitere Entwicklung mich jedenfalls sehr interessiert, 
         </p>
         <pb facs="#F_K-6_Bae_TB_1_101" n="50v" xml:id="Bae_TB_1_3495"/>
-        <addSpan spanTo="#Bae_TB_1_XXXX1" type="insertion" xml:id="Bae_TB_1_3494"/>
+        <addSpan spanTo="#Bae_TB_1_5892" type="insertion" xml:id="Bae_TB_1_3494"/>
         <p xml:id="Bae_TB_1_3496">
           <anchor xml:id="Bae_TB_1_3497"/>[handschriftlich]: Unsere Adresse 
         </p>
@@ -4775,7 +4774,7 @@
           </index> zu begegnen sei – hat sich bisher nur zum kleinsten Theile in fruchtbare Thaten umgesetzt und zahlreiche berechtigte Wünsche der agricolen Bevölkerung harren noch immer der Erfüllung. Durch eine geeignete Vorlage, betreffend die berufsgenossenschaftliche Organisation des landwirtschaftlichen Standes erhoffen weite Kreise die Erfüllung eines dieser Wünsche. Hiebei wird es aber ebensosehr auf die richtige Zusammenfassung zerstreuter Kräfte, als auf die Hebung der individuellen Einsicht und Tüchtigkeit des einzelnen Landwirtes, ohne die weder ein Genossenschaftswesen noch eine Staatshilfe zu fruchten vermag – ankommen. 
         </p>
         <anchor xml:id="Bae_TB_1_5892"/>
-        <!-- CA: anchor für den vorherigen addspan XXXX1 -->
+        <!-- CA: anchor für den vorherigen addspan -->
         <pb facs="#F_K-6_Bae_TB_1_102" n="51r" xml:id="Bae_TB_1_3446"/>
         <p xml:id="Bae_TB_1_5893">ohne dass ich aber vorauszusagen im Stande wäre, welchen Weg er schliesslich einschlagen wird. Trotzdem 
           <choice xml:id="Bae_TB_1_3447">
@@ -4827,9 +4826,8 @@
             <expan xml:id="Bae_TB_1_3485">und</expan>
           </choice> was mir erwünscht war – selbständig vorgehen. 
         </p>
-        <addSpan spanTo="#Bae_TB_1_Bae_TB_1_3486" xml:id="Bae_TB_1_5894"/>
         <pb facs="#F_K-6_Bae_TB_1_103" n="51v" xml:id="Bae_TB_1_3528"/>
-        <addSpan spanTo="#Bae_TB_1_XXXX" type="insertion" xml:id="Bae_TB_1_5895"/>
+        <addSpan spanTo="#Bae_TB_1_Bae_TB_1_3486" xml:id="Bae_TB_1_5894"/>
         <p xml:id="Bae_TB_1_3529">Die allergnädigste Zusicherung, dass die Regierung darauf bedacht sein werde, der Landwirtschaft genügenden Schutz gegen bedrohliche Gefahren zu bieten, nimmt das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3530">Abgeordnetenhaus</orgName> mit Dank zur Kenntnis, doch kann es nicht umhin, auf ein solches bedrohliches Symptom, der jährlich wachsenden Verschuldung und drohenden Überschuldung besonders hinzuweisen. Das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3531">Abgeordnetenhaus</orgName> verkennt nicht, dass ein Theil dieser fortschreitenden Verschuldung seine Compensation in einer steigenden Bodencultur und intensiveren Wirtschaft findet, aber die Frage der Entschuldung der Landwirtschaft in dem Sinne einer Regelung und Förderung des derzeit vielfach noch regel- und maßlosen landwirtschaftlichen Credits – zwar sowohl in Bezug auf seine Höhe, als bezüglich seiner rechtlichen Form — rückt dennoch unabweislich in den Vordergrund. 
@@ -5243,7 +5241,7 @@
           <choice xml:id="Bae_TB_1_3820">
             <abbr xml:id="Bae_TB_1_3821">u.</abbr>
             <expan xml:id="Bae_TB_1_3822">und</expan>
-          </choice> hätte die Regierung wirklich sich
+          </choice> hätte die Regierung wirklich sich 
         </p>
         <addSpan spanTo="#Bae_TB_1_5693" type="insertion" xml:id="Bae_TB_1_3854"/>
         <pb facs="#F_K-6_Bae_TB_1_113" n="56v" xml:id="Bae_TB_1_3855"/>
@@ -5587,7 +5585,7 @@
           <choice xml:id="Bae_TB_1_4065">
             <abbr xml:id="Bae_TB_1_4066">u.</abbr>
             <expan xml:id="Bae_TB_1_4067">und</expan>
-          </choice> Situationen des Sommers, an denen
+          </choice> Situationen des Sommers, an denen 
         </p>
         <addSpan spanTo="#Bae_TB_1_5694" type="insertion" xml:id="Bae_TB_1_4079"/>
         <pb facs="#F_K-6_Bae_TB_1_123" n="61v" xml:id="Bae_TB_1_4080"/>
@@ -5644,7 +5642,7 @@
         <app from="#Bae_TB_1_5694" type="insertion" xml:id="Bae_TB_1_5913">
           <rdg xml:id="Bae_TB_1_5914">[...]</rdg>
         </app>
-        <p xml:id="Bae_TB_1_4103">Die von ihm angekündigte Erklärung blieb aber bis jetzt (
+        <p xml:id="Bae_TB_1_4103">Die von ihm angekündigte Erklärung blieb aber bis jetzt ( 
           <date when="1897-09-08" xml:id="Bae_TB_1_4104">8.9.</date>) aus 
           <choice xml:id="Bae_TB_1_4105">
             <abbr xml:id="Bae_TB_1_4106">u.</abbr>
@@ -6360,8 +6358,16 @@
             <expan xml:id="Bae_TB_1_4640">und</expan>
           </choice> wir schrieben selbst die Einladungstelegramme. 
         </p>
+        <anchor xml:id="Bae_TB_1_5927"/>
+        <app from="xxxx" type="insertion" xml:id="Bae_TB_1_5928">
+          <rdg xml:id="Bae_TB_1_5929">[...]</rdg>
+        </app>
+        <anchor xml:id="Bae_TB_1_5930"/>
+        <app from="#Bae_TB_1_5698" type="insertion" xml:id="Bae_TB_1_5931">
+          <rdg xml:id="Bae_TB_1_5932">[...]</rdg>
+        </app>
         <!-- DC Einklebung Zeitungsausschnitt von fol. 70v und 71v -->
-        <addSpan spanTo="#Bae_TB_1_5698" type="insertion" xml:id="Bae_TB_1_4641"/>
+        <addSpan spanTo="#Bae_TB_1_XXXX" type="insertion" xml:id="Bae_TB_1_4641"/>
         <pb facs="#F_K-6_Bae_TB_1_141" n="70v" xml:id="Bae_TB_1_4642"/>
         <p xml:id="Bae_TB_1_4643">Die Conferenz des verfassungetreuen Großgrundbesitzes.</p>
         <p xml:id="Bae_TB_1_4644">
@@ -6422,7 +6428,7 @@
           </index> erkannt, sondern den Haupterfolg in dem endlichen Durchbruch der deutschen Amtssprache und in dem ein- für allemaligen Verschwinden des "nebulosen" deutschen Sprachgebietes erblickt. Gefühlloser kann man den Finger in eine schmerzhafte Wunde kaum legen und wird der Widerstand der Deutschen vielleicht jetzt auch von jenen Deutschen gewürdigt werden, welche die tiefe Beschämung des 
           <persName key="SchwarzenbergFriedrich" ref="https://d-nb.info/gnd/1229872299" xml:id="Bae_TB_1_4692">Prinz Schwarzenberg'schen</persName> Dankes über sich ergehen lassen mußten. (Beifall.) 
         </p>
-        <p xml:id="Bae_TB_1_4693"> Die Deutschen griffen zu den schärfsten Mitteln der Nothwehr, das 
+        <p xml:id="Bae_TB_1_4693">Die Deutschen griffen zu den schärfsten Mitteln der Nothwehr, das 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_4694">Parlament</orgName> wurde durch die 
           <index xml:id="Bae_TB_1_4695">
             <term key="Reichsrat" xml:id="Bae_TB_1_4696">Obstruction"</term>
@@ -6430,74 +6436,10 @@
               <term key="Obstruktion" xml:id="Bae_TB_1_4698"/>
             </index>
           </index> zum Stillstande gebracht. In 
-          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_4699">Böhmen</placeName>, wo eine nie geahnte Bewegung alle Schichten der Bevölkerung ergriffen hat, treten unter dem Zeichen der entschiedensten Opposition Erscheinungen zu Tage, wie niemals zuvor. Dabei muß ich leider constatiren, daß ein gewisser Bruchtheil unserer Connationalen sich zu Handlungen hinreißen ließ, welche selbst erprobte und treue, aber streng patriotische Gesinnungsgenossen zwingen, die schärfste Verurtheilung auszusprechen. Jeder Schritt und jedes Wort jenseits der Grenze schädigen tief und miscreditiren den legitimen Kampf. Ich muß den lebhaften Wunsch aussprechen, 
-          <pb facs="#F_K-6_Bae_TB_1_143" n="70v" xml:id="Bae_TB_1_5756"/> daß die Deutschen in ihrer Opposition gegen die 
-          <index xml:id="Bae_TB_1_4700">
-            <term key="Reichsrat" xml:id="Bae_TB_1_4701">Sprachenverordnungen</term>
-            <index xml:id="Bae_TB_1_4702">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_1_4703"/>
-            </index>
-          </index> solche Grenzen einhalten, innerhalb welcher wir ungescheut unsere politische Zugehörigkeit bethätigen können. 
+          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_4699">Böhmen</placeName>, wo eine nie geahnte Bewegung alle Schichten der Bevölkerung ergriffen hat, treten unter dem Zeichen der entschiedensten Opposition Erscheinungen zu Tage, wie niemals zuvor. Dabei muß ich leider constatiren, daß ein gewisser Bruchtheil unserer Connationalen sich zu Handlungen hinreißen ließ, welche selbst erprobte und treue, aber streng patriotische Gesinnungsgenossen zwingen, die schärfste Verurtheilung auszusprechen. Jeder Schritt und jedes Wort jenseits der Grenze schädigen tief und miscreditiren den legitimen Kampf. Ich muß den lebhaften Wunsch aussprechen,
         </p>
-        <p xml:id="Bae_TB_1_4704">Die Mission des 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4705">Großgrundbesitzes</orgName> ist es gewiß nicht, den Kampf zu fördern, ich sehe vielmehr eine ernste Pflicht des Großgrundbesitzes darin, möglichst dahin zu wirken, daß eine Basis gefunden werde, auf welcher die dem Lande und dem Reiche absolut nothwendige Verständigung beider Völker versucht werden kann, und daß von Seite der Regierung vorbereitende Schritte zu einer Verständigungsaction unternommen wurden, durch die Regierungsorgane bekannt geworden. Ich nehme gar keinen Anstand zu erklären, daß auch ich freiwillig in dieser Richtung thätig war, weil ich den größten Lohn politischer Arbeit in Erfolgen sehe und ich noch niemals Erfolge durch Schlagworte und ausgegebene Parolen erkämpfen sah. Dabei ging ich allerdings von der Anschauung aus, daß die Regierung eine positive Grundlage für die Verhandlungen schaffen und concrete Vorschläge den Parteien vorlegen müsse. Eine einseitige Unterhandlung des 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4706">Großgrundbesitzes</orgName> mit der Regierung war dabei ganz ausgeschlossen. 
-        </p>
-        <p xml:id="Bae_TB_1_4707"> Alles scheiterte, auch dieses haben wir durch die Regierungsorgane vernommen, welche nun die Deutschen allein dafür verantwortlich erklären. Wenn die Regierungsorgane die Behauptung aufstellen, daß die Deutschen Alles vereiteln, weil sie starr auf der Forderung der Annullirung der 
-          <index xml:id="Bae_TB_1_4708">
-            <term key="Reichsrat" xml:id="Bae_TB_1_4709">Sprachenverordnungen</term>
-            <index xml:id="Bae_TB_1_4710">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_1_4711"/>
-            </index>
-          </index> stehen, sollten sie auch ehrlicherweise erklären, daß die Czechen nicht minder starr sind. Was bedeutet alles scheinbare Entgegenkommen von czechischer Seite, den 
-          <persName key="SchwarzenbergFriedrich" ref="https://d-nb.info/gnd/1229872299" xml:id="Bae_TB_1_4712">Prinzen Schwarzenberg</persName> nicht ausgenommen, wenn als erste Vorbedingung eines 
-          <index xml:id="Bae_TB_1_4713">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_1_4714">Ausgleiches</term>
-            <index xml:id="Bae_TB_1_4715">
-              <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_1_4716"/>
-            </index>
-          </index> die Anerkennung der 
-          <index xml:id="Bae_TB_1_4717">
-            <term key="Reichsrat" xml:id="Bae_TB_1_4718">Sprachenverordnungen</term>
-            <index xml:id="Bae_TB_1_4719">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_1_4720"/>
-            </index>
-          </index> gefordert wird? Solches Entgegenkommen erinnert lebhaft an den berühmten weißen Bogen, mit dem man sich stets brüstet, den aber noch Niemand sah. 
-        </p>
-        <p xml:id="Bae_TB_1_4721"> Die Regierungsblätter brachten in einem Communiqué Enthüllungen, wonach "markante außerparlamentarische" Persönlichkeiten mit der Einleitung von 
-          <index xml:id="Bae_TB_1_4722">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_1_4723">Ausgleichsverhandlungen</term>
-            <index xml:id="Bae_TB_1_4724">
-              <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_1_4725"/>
-            </index>
-          </index> betraut wurden, die an der versagten Zustimmung der fortschrittlichen Parteileitung gescheitert seien. Wenngleich ich die zweifellos von den patriotischesten Absichten geleiteten Bestrebungen dieser Unbekannten voll würdige, constatire ich dennoch öffentlich gemachten Behauptungen entgegen, daß jene Unbekannten der Gruppe des 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4726">Großgrundbesitzes</orgName> nicht angehören. Ich constatire dies blos deßhalb, um dadurch festzustellen, daß das Vorgehen des 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4727">Großgrundbesitzes</orgName> von der Zustimmung der fortschrittlichen Parteileitung überhaupt nicht abhängig ist. Beide Parteien sind unabhängig und selbstständig, unser Verhältniß ist nicht subordinirt, sondern coordinirt. 
-        </p>
-        <p xml:id="Bae_TB_1_4728"> Einige Blätter sagen, daß die Publicirung des bekannten Communiqués im " 
-          <orgName key="Fremdenblatt" ref="https://d-nb.info/gnd/1086227905" xml:id="Bae_TB_1_4729">Fremden-Blatt</orgName>" ein Beweis für das Kraftbewußtsein des 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4730">Grafen Badeni</persName> ist – ich bekenne, daß ich aus dem Geständnisse einer Niederlage eher auf Ohnmacht geschlossen hätte. Gerade aber diese rathlose Ohnmacht, die den entschiedenen Gegnern unserer Verfassung den Muth verleiht, ganz offen ihre grundstürzenden Ideen auszusprechen, welche Ideen schon durch die starke Betonung allein geeignet sind, den inneren Verband und die äußere Machtstellung der Monarchie zu erschüttern, drängt uns heute mehr denn je, uns daran zu erinnern, daß wir uns verfassungstreu nennen. Im Hinblick auf die stolzen Traditionen unserer Partei, die nie Anderes verfolgte, als unter allen Umständen treu zum 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_1_4731">Kaiser</persName> und Reich zu stehen, fordere ich Sie auf, meine Herren, Ihre Anschauungen über die Tage rückhaltlos zum Ausdrucke zu bringen. (Allgemeiner Beifall.) 
-        </p>
-        <p xml:id="Bae_TB_1_4732">An die Eröffnungsrede des Vorsitzenden 
-          <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_1_4733">Grafen Thun</persName> schloß sich eine mehrstündige bewegte politische Debatte, welche durch eingehende politische Darlegungen seitens des 
-          <persName key="StarhembergErnst" ref="http://d-nb.info/gnd/1035682745" xml:id="Bae_TB_1_4734">Fürsten Starhemberg</persName> eingeleitet wurde und an der sich fast alle Anwesenden, darunter insbesondere 
-          <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_4735">Fürst Rohan</persName>, 
-          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_1_4736">Baron Chlumecky</persName>, 
-          <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_1_4737">Fürst Auersperg</persName>, 
-          <persName key="KottulinskyAdalbert" ref="https://d-nb.info/gnd/1018229493" xml:id="Bae_TB_1_4738">Graf Kottulinsky</persName>, 
-          <persName key="AttemsFranz" xml:id="Bae_TB_1_4739">Graf Franz Attems</persName>, 
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_1_4740">Dr. Baernreither</persName> und 
-          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_1_4741">Fürst zu Fürstenberg</persName>, lebhaft betheiligten. Hiebei wurde auch der politischen Haltung der Vereinigung des 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4742">verfassungstreuen Großgrundbesitzes</orgName> im 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_4743">Abgeordnetenhause</orgName> gedacht, derselben allseitig die Zustimmung ausgesprochen und insbesondere den beiden Obmännern, 
-          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_4744">Baron Ludwigstorff</persName> und 
-          <persName key="DubskyGuido" xml:id="Bae_TB_1_4745">Grafen Dubsky</persName>, der Dank ausgedrückt. 
-        </p>
-        <anchor xml:id="Bae_TB_1_5698"/>
-        <!-- CA: anchor für addspan Bae_TB_1_4641 -->
-        <!-- DC Ende der Einklebung -->
-        <!-- DC Fortsetzung fol. 70r -->
+        <anchor xml:id="Bae_TB_1_5933"/>
+        <!-- anchor für vorhergehenden addspan 4641 -->
         <p xml:id="Bae_TB_1_4746">Fast alle der Eingeladenen erschienen, selbst von 
           <placeName key="Tirol" ref="https://www.geonames.org/2763587/tyrol.html" xml:id="Bae_TB_1_4747">Tyrol</placeName> und 
           <placeName key="Schlesien" ref="https://www.geonames.org/11748058/silesian-metropolis.html" xml:id="Bae_TB_1_4748">Schlesien</placeName>. Die Debatte war eine sehr besorgte. Hier eine Skizze davon. 
@@ -6530,7 +6472,7 @@
             <expan xml:id="Bae_TB_1_4769">und</expan>
           </choice> kein Subordinationsverhältniss mehr bestehe. Wieder kam er auf die Rede 
           <persName key="SchwarzenbergFriedrich" ref="https://d-nb.info/gnd/1229872299" xml:id="Bae_TB_1_4770">Schwarzenberg's</persName>, den Ausdruck eines grossen Machtbewusstseins. 
-          <!-- DC Einklebung Zeitungsausschnitt siehe oben -->
+          <!-- DC Einklebung Zeitungsausschnitt f 71r -->
           <pb facs="#F_K-6_Bae_TB_1_142" n="71r" xml:id="Bae_TB_1_4772"/>Ein energischer Protest gegen dieselbe sei notwendig. Sie versuche den Sprachenstreit auf die andern Länder zu übertragen, indem er die Croaten und 
           <orgName key="Slowenenklub" xml:id="Bae_TB_1_4773">Slovenen</orgName> zu gleichen Forderungen aufruft. Die Regierung thut alles um den Streit zu verschärfen 
           <choice xml:id="Bae_TB_1_4774">
@@ -6612,8 +6554,76 @@
             <abbr xml:id="Bae_TB_1_4827">u.</abbr>
             <expan xml:id="Bae_TB_1_4828">und</expan>
           </choice> mit Schlagworten 
-          <!-- DC Fortsetzung Einklebung siehe oben -->
-          <pb facs="#F_K-6_Bae_TB_1_144" n="72r" xml:id="Bae_TB_1_4830"/>vor die Öffentlichkeit treten, deren Tragweite unabsehbar ist. Er beklagt nun den Zerfall der deutschen Linken 
+        </p>
+        <pb facs="#F_K-6_Bae_TB_1_143" n="70v" xml:id="Bae_TB_1_5756"/>
+        <addSpan spanTo="#Bae_TB_1_5698" type="insertion" xml:id="Bae_TB_1_5934"/>
+        <p xml:id="Bae_TB_1_5935">daß die Deutschen in ihrer Opposition gegen die 
+          <index xml:id="Bae_TB_1_4700">
+            <term key="Reichsrat" xml:id="Bae_TB_1_4701">Sprachenverordnungen</term>
+            <index xml:id="Bae_TB_1_4702">
+              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_1_4703"/>
+            </index>
+          </index> solche Grenzen einhalten, innerhalb welcher wir ungescheut unsere politische Zugehörigkeit bethätigen können. 
+        </p>
+        <p xml:id="Bae_TB_1_4704">Die Mission des 
+          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4705">Großgrundbesitzes</orgName> ist es gewiß nicht, den Kampf zu fördern, ich sehe vielmehr eine ernste Pflicht des Großgrundbesitzes darin, möglichst dahin zu wirken, daß eine Basis gefunden werde, auf welcher die dem Lande und dem Reiche absolut nothwendige Verständigung beider Völker versucht werden kann, und daß von Seite der Regierung vorbereitende Schritte zu einer Verständigungsaction unternommen wurden, durch die Regierungsorgane bekannt geworden. Ich nehme gar keinen Anstand zu erklären, daß auch ich freiwillig in dieser Richtung thätig war, weil ich den größten Lohn politischer Arbeit in Erfolgen sehe und ich noch niemals Erfolge durch Schlagworte und ausgegebene Parolen erkämpfen sah. Dabei ging ich allerdings von der Anschauung aus, daß die Regierung eine positive Grundlage für die Verhandlungen schaffen und concrete Vorschläge den Parteien vorlegen müsse. Eine einseitige Unterhandlung des 
+          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4706">Großgrundbesitzes</orgName> mit der Regierung war dabei ganz ausgeschlossen. 
+        </p>
+        <p xml:id="Bae_TB_1_4707"> Alles scheiterte, auch dieses haben wir durch die Regierungsorgane vernommen, welche nun die Deutschen allein dafür verantwortlich erklären. Wenn die Regierungsorgane die Behauptung aufstellen, daß die Deutschen Alles vereiteln, weil sie starr auf der Forderung der Annullirung der 
+          <index xml:id="Bae_TB_1_4708">
+            <term key="Reichsrat" xml:id="Bae_TB_1_4709">Sprachenverordnungen</term>
+            <index xml:id="Bae_TB_1_4710">
+              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_1_4711"/>
+            </index>
+          </index> stehen, sollten sie auch ehrlicherweise erklären, daß die Czechen nicht minder starr sind. Was bedeutet alles scheinbare Entgegenkommen von czechischer Seite, den 
+          <persName key="SchwarzenbergFriedrich" ref="https://d-nb.info/gnd/1229872299" xml:id="Bae_TB_1_4712">Prinzen Schwarzenberg</persName> nicht ausgenommen, wenn als erste Vorbedingung eines 
+          <index xml:id="Bae_TB_1_4713">
+            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_1_4714">Ausgleiches</term>
+            <index xml:id="Bae_TB_1_4715">
+              <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_1_4716"/>
+            </index>
+          </index> die Anerkennung der 
+          <index xml:id="Bae_TB_1_4717">
+            <term key="Reichsrat" xml:id="Bae_TB_1_4718">Sprachenverordnungen</term>
+            <index xml:id="Bae_TB_1_4719">
+              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_1_4720"/>
+            </index>
+          </index> gefordert wird? Solches Entgegenkommen erinnert lebhaft an den berühmten weißen Bogen, mit dem man sich stets brüstet, den aber noch Niemand sah. 
+        </p>
+        <p xml:id="Bae_TB_1_4721"> Die Regierungsblätter brachten in einem Communiqué Enthüllungen, wonach "markante außerparlamentarische" Persönlichkeiten mit der Einleitung von 
+          <index xml:id="Bae_TB_1_4722">
+            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_1_4723">Ausgleichsverhandlungen</term>
+            <index xml:id="Bae_TB_1_4724">
+              <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_1_4725"/>
+            </index>
+          </index> betraut wurden, die an der versagten Zustimmung der fortschrittlichen Parteileitung gescheitert seien. Wenngleich ich die zweifellos von den patriotischesten Absichten geleiteten Bestrebungen dieser Unbekannten voll würdige, constatire ich dennoch öffentlich gemachten Behauptungen entgegen, daß jene Unbekannten der Gruppe des 
+          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4726">Großgrundbesitzes</orgName> nicht angehören. Ich constatire dies blos deßhalb, um dadurch festzustellen, daß das Vorgehen des 
+          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4727">Großgrundbesitzes</orgName> von der Zustimmung der fortschrittlichen Parteileitung überhaupt nicht abhängig ist. Beide Parteien sind unabhängig und selbstständig, unser Verhältniß ist nicht subordinirt, sondern coordinirt. 
+        </p>
+        <p xml:id="Bae_TB_1_4728"> Einige Blätter sagen, daß die Publicirung des bekannten Communiqués im " 
+          <orgName key="Fremdenblatt" ref="https://d-nb.info/gnd/1086227905" xml:id="Bae_TB_1_4729">Fremden-Blatt</orgName>" ein Beweis für das Kraftbewußtsein des 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4730">Grafen Badeni</persName> ist – ich bekenne, daß ich aus dem Geständnisse einer Niederlage eher auf Ohnmacht geschlossen hätte. Gerade aber diese rathlose Ohnmacht, die den entschiedenen Gegnern unserer Verfassung den Muth verleiht, ganz offen ihre grundstürzenden Ideen auszusprechen, welche Ideen schon durch die starke Betonung allein geeignet sind, den inneren Verband und die äußere Machtstellung der Monarchie zu erschüttern, drängt uns heute mehr denn je, uns daran zu erinnern, daß wir uns verfassungstreu nennen. Im Hinblick auf die stolzen Traditionen unserer Partei, die nie Anderes verfolgte, als unter allen Umständen treu zum 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_1_4731">Kaiser</persName> und Reich zu stehen, fordere ich Sie auf, meine Herren, Ihre Anschauungen über die Tage rückhaltlos zum Ausdrucke zu bringen. (Allgemeiner Beifall.) 
+        </p>
+        <p xml:id="Bae_TB_1_4732">An die Eröffnungsrede des Vorsitzenden 
+          <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_1_4733">Grafen Thun</persName> schloß sich eine mehrstündige bewegte politische Debatte, welche durch eingehende politische Darlegungen seitens des 
+          <persName key="StarhembergErnst" ref="http://d-nb.info/gnd/1035682745" xml:id="Bae_TB_1_4734">Fürsten Starhemberg</persName> eingeleitet wurde und an der sich fast alle Anwesenden, darunter insbesondere 
+          <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_4735">Fürst Rohan</persName>, 
+          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_1_4736">Baron Chlumecky</persName>, 
+          <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_1_4737">Fürst Auersperg</persName>, 
+          <persName key="KottulinskyAdalbert" ref="https://d-nb.info/gnd/1018229493" xml:id="Bae_TB_1_4738">Graf Kottulinsky</persName>, 
+          <persName key="AttemsFranz" xml:id="Bae_TB_1_4739">Graf Franz Attems</persName>, 
+          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_1_4740">Dr. Baernreither</persName> und 
+          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_1_4741">Fürst zu Fürstenberg</persName>, lebhaft betheiligten. Hiebei wurde auch der politischen Haltung der Vereinigung des 
+          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4742">verfassungstreuen Großgrundbesitzes</orgName> im 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_4743">Abgeordnetenhause</orgName> gedacht, derselben allseitig die Zustimmung ausgesprochen und insbesondere den beiden Obmännern, 
+          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_4744">Baron Ludwigstorff</persName> und 
+          <persName key="DubskyGuido" xml:id="Bae_TB_1_4745">Grafen Dubsky</persName>, der Dank ausgedrückt. 
+        </p>
+        <anchor xml:id="Bae_TB_1_5698"/>
+        <!-- CA: anchor für vorangegangenen addspan -->
+        <pb facs="#F_K-6_Bae_TB_1_144" n="72r" xml:id="Bae_TB_1_4830"/>
+        <p xml:id="Bae_TB_1_5936">vor die Öffentlichkeit treten, deren Tragweite unabsehbar ist. Er beklagt nun den Zerfall der deutschen Linken 
           <choice xml:id="Bae_TB_1_4831">
             <abbr xml:id="Bae_TB_1_4832">u.</abbr>
             <expan xml:id="Bae_TB_1_4833">und</expan>
@@ -6702,9 +6712,16 @@
           <add place="across" xml:id="Bae_TB_1_4889">Ich motivirte, warum</add> ich meine Ansicht versucht habe in ein paar Sätzen niederzuschreiben, die ich vorlas. 
         </p>
         <p xml:id="Bae_TB_1_4890">Von jetzt an drehte sich die Debatte um dieses Resümé.</p>
-        <!-- DC Einklebung Zeitungsausschnitt -->
+        <anchor xml:id="Bae_TB_1_5937"/>
+        <app from="#Bae_TB_1_xxxx" type="insertion" xml:id="Bae_TB_1_5938">
+          <rdg xml:id="Bae_TB_1_5939">[...]</rdg>
+        </app>
+        <anchor xml:id="Bae_TB_1_5940"/>
+        <app from="#Bae_TB_1_5699" type="insertion" xml:id="Bae_TB_1_5941">
+          <rdg xml:id="Bae_TB_1_5942">[...]</rdg>
+        </app>
         <pb facs="#F_K-6_Bae_TB_1_145" n="72v" xml:id="Bae_TB_1_4891"/>
-        <addSpan spanTo="#Bae_TB_1_5699" type="insertion" xml:id="Bae_TB_1_4892"/>
+        <addSpan spanTo="#Bae_TB_1_xxxx" type="insertion" xml:id="Bae_TB_1_4892"/>
         <p xml:id="Bae_TB_1_4893">[handschriftlich:] Das Resumé</p>
         <p xml:id="Bae_TB_1_4894">Auf Grund der abgeführten Discussion, welche eine erfreuliche Uebereinstimmung der Anschauungen ergab, wurde nachstehendes Resumé festgestellt: "Der Ernst der Situation und die Frage, welchen politischen Zuständen wir im Herbste angesichts der bevorstehenden wichtigsten Staatsaufgaben entgegengehen, legt dem 
           <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4895">verfassungstreuen Großgrundbesitze</orgName> die Verpflichtung auf, sich rückhaltos auszusprechen. Die 
@@ -6732,14 +6749,8 @@
         <p xml:id="Bae_TB_1_4909">Mit diesem Kraftgefühle und mit der Würde und Pflicht des deutschen Volksstammes in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_4910">Oesterreich</placeName> finden wir es aber nicht vereinbarlich, daß – wie dies in einzelnen Fällen geschah – das nationale Bewußtsein zu Handlungen jenseits der schwarz-gelben Grenzpfähle sich verleiten läßt. In dieser Richtung verurtheilen wir und warnen eindringlich. Die besondere Aufmerksamkeit zieht jene Haltung der Regierung auf sich, welche seit Schluß der Session zu Tage tritt und auf dem Irrthume beruht, als könne eine große, im Volke wurzelnde Bewegung durch polizeiliche Maßregeln unterdrückt werden. Die Versammlungsverbote, welche auf sehr fragwürdiger gesetzlicher Grundlage beruhen, die geheimen Polizei-Instructionen, deren politische Moral in Zweifel gezogen werden kann, haben zur Ausdehnung der Bewegung unstreitig beigetragen. 
         </p>
-        <pb facs="#F_K-6_Bae_TB_1_147" n="72v" xml:id="Bae_TB_1_5757"/>
-        <p xml:id="Bae_TB_1_4911">Ohne Haß und Voreingenommenheit gegen die anderen Nationalitäten werden wir ruhig und durch offene oder versteckte Angriffe unbeirrt, unseren deutschen Stammesgenossen zur Seite stehen und für die berechtigte Stellung der Deutschen in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_4912">Oesterreich</placeName> mit voller Entschiedenheit eintreten. Nur eine kraftvolle Initiative aus dem österreichischen Staatsgedanken heraus, getragen von Autorität und Billigkeit nach allen Seiten, kann Hilfe bringen. 
-        </p>
-        <p xml:id="Bae_TB_1_4913">Die Lösung der Krise kann nur erfolgen, und unser Vaterland kann nur dann vor unberechenbaren Gefahren bewahrt werden, wenn das Reich vor einer in den Mitteln und Zielen unklaren staatsrechtlichen Rückbildung gesichert und wenn dem deutschen Volksstamme, dem ältesten Sohne der österreichischen Völkerfamilie, von dessen hingebungsvoller Treue die erlauchte Dynastie durch Jahrhunderte Beweise erhalten hat, seine berechtigte Stellung gewahrt bleibt.”</p>
-        <anchor xml:id="Bae_TB_1_5699"/>
-        <!-- CA: anchor für addspan Bae_TB_1_4892 -->
-        <!-- DC Ende der Einklebung -->
+        <anchor xml:id="Bae_TB_1_5943"/>
+        <!-- CA: anchor für das vorherige addspan -->
         <pb facs="#F_K-6_Bae_TB_1_146" n="73r" xml:id="Bae_TB_1_4914"/>
         <p xml:id="Bae_TB_1_4915">Gleich nach mir ergriff 
           <hi rendition="ul" xml:id="Bae_TB_1_4916">
@@ -6782,9 +6793,18 @@
         <p xml:id="Bae_TB_1_4943">Die Redaction des Ganzen nach den gefassten Beschlüssen wurde mir überlassen. Alle schieden befriedigt, nur 
           <persName key="StarhembergErnst" ref="http://d-nb.info/gnd/1035682745" xml:id="Bae_TB_1_4944">Starhemberg</persName> war unzufrieden weggegangen, weil ihm die ganze Enunciation zu schwach gegen die Regierung ausgefallen war. Auch einige jüngere Herren, wie 
           <persName key="EhrenfelsBernhard" ref="https://d-nb.info/gnd/132868369" xml:id="Bae_TB_1_4945">Ehrenfels</persName> und 
-          <persName key="PirkoFranz" ref="https://d-nb.info/gnd/1026178045" xml:id="Bae_TB_1_4946">Pirko</persName> äusserten sich mir gegenüber in gleicher 
-          <!-- DC Fortsetzung Einklebung siehe oben -->
-          <pb facs="#F_K-6_Bae_TB_1_148" n="74r" xml:id="Bae_TB_1_4948"/>Weise. Es wurden deswegen der Sache noch einige Lichter aufgesetzt, die dann aber so befriedigten, dass 
+          <persName key="PirkoFranz" ref="https://d-nb.info/gnd/1026178045" xml:id="Bae_TB_1_4946">Pirko</persName> äusserten sich mir gegenüber in gleicher
+        </p>
+        <pb facs="#F_K-6_Bae_TB_1_147" n="72v" xml:id="Bae_TB_1_5757"/>
+        <addSpan spanTo="#Bae_TB_1_5699" type="insertion" xml:id="Bae_TB_1_5944"/>
+        <p xml:id="Bae_TB_1_4911">Ohne Haß und Voreingenommenheit gegen die anderen Nationalitäten werden wir ruhig und durch offene oder versteckte Angriffe unbeirrt, unseren deutschen Stammesgenossen zur Seite stehen und für die berechtigte Stellung der Deutschen in 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_4912">Oesterreich</placeName> mit voller Entschiedenheit eintreten. Nur eine kraftvolle Initiative aus dem österreichischen Staatsgedanken heraus, getragen von Autorität und Billigkeit nach allen Seiten, kann Hilfe bringen. 
+        </p>
+        <p xml:id="Bae_TB_1_4913">Die Lösung der Krise kann nur erfolgen, und unser Vaterland kann nur dann vor unberechenbaren Gefahren bewahrt werden, wenn das Reich vor einer in den Mitteln und Zielen unklaren staatsrechtlichen Rückbildung gesichert und wenn dem deutschen Volksstamme, dem ältesten Sohne der österreichischen Völkerfamilie, von dessen hingebungsvoller Treue die erlauchte Dynastie durch Jahrhunderte Beweise erhalten hat, seine berechtigte Stellung gewahrt bleibt.”</p>
+        <anchor xml:id="Bae_TB_1_5699"/>
+        <!-- CA: anchor für addspan -->
+        <pb facs="#F_K-6_Bae_TB_1_148" n="74r" xml:id="Bae_TB_1_4948"/>
+        <p xml:id="Bae_TB_1_5945">Weise. Es wurden deswegen der Sache noch einige Lichter aufgesetzt, die dann aber so befriedigten, dass 
           <persName key="StarhembergErnst" ref="http://d-nb.info/gnd/1035682745" xml:id="Bae_TB_1_4949">Starhemberg</persName> mir nachträglich einen sehr befriedigten Brief schrieb. 
         </p>
         <p xml:id="Bae_TB_1_4950">Die Redaction des Resume's besorgten wir des andern Tags 
@@ -7250,35 +7270,10 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_5295">Österreich</placeName> wiederholt werden? 
         </p>
         <p xml:id="Bae_TB_1_5296">Erheben wir uns doch über den Tagesstreit. Sehen wir das grosse staatliche Gebilde 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_5297">"Österreich"</placeName> als das an, was es ist, 
-          <!-- Einfügung mit Tinte siehe unten -->
-          <!-- DC Einklebung Zeitungsausschnitt siehe unten -->
-          <pb facs="#F_K-6_Bae_TB_1_168" n="86r" xml:id="Bae_TB_1_5299"/>als der notwendige Zusammenschluss der Donauvölker verschiedener Nationalität. Soll das auf die Dauer zusammenhalten, bedarf es Einheit 
-          <choice xml:id="Bae_TB_1_5300">
-            <abbr xml:id="Bae_TB_1_5301">u.</abbr>
-            <expan xml:id="Bae_TB_1_5302">und</expan>
-          </choice> Kraft und die setzt eine Auseinandersetzung zwischen Deutschen 
-          <choice xml:id="Bae_TB_1_5303">
-            <abbr xml:id="Bae_TB_1_5304">u.</abbr>
-            <expan xml:id="Bae_TB_1_5305">und</expan>
-          </choice> Slaven in dem Reiche voraus. 
-          <persName key="KaratheodoriAlexander" xml:id="Bae_TB_1_5306">Karatheodoripascha</persName> hat einmal gesagt, dass geradeso wie das 19. Jahrhundert den Auflösungsprocess der 
-          <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_1_5307">Türkei</placeName> gesehen hat, das 20. denselben Process 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_5308">Österreich's</placeName> sehen wird. Das Wort wahr oder falsch zu machen, liegt in den Händen der 
-          <choice xml:id="Bae_TB_1_5309">
-            <abbr xml:id="Bae_TB_1_5310">öster.</abbr>
-            <expan xml:id="Bae_TB_1_5311">österreichischen</expan>
-          </choice> Staatsmänner 
-          <choice xml:id="Bae_TB_1_5312">
-            <abbr xml:id="Bae_TB_1_5313">u.</abbr>
-            <expan xml:id="Bae_TB_1_5314">und</expan>
-          </choice> Parteifürer. 
-          <app from="#Bae_MF_1_2265" type="equal" xml:id="Bae_TB_1_5315">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5316">Dinge aktuelle, erfolgreiche Politik gründen? Die Sympathien unserer Stammesbrüder "im Reich" wirken gewiß kräftigend auf Mut und Ausdauer bei uns, sie für mehr verwerten zu wollen, hat keinen Sinn. Sehen wir den Dingen ganz auf den Grund. Wer halbwegs über dem Niveau der Bierbankpolitik steht, gibt ohnedies zu, das alles diene nur zur "Einschüchterung" und werde dazu führen, daß die gerechten Deutschen Forderungen Gehör finden. Ich gestehe, daß mir diese Art Politik durchaus widerstrebt. Freilich haben die Ungarn Alles auf diesem Wege erreicht. Aber ich frage: wäre unser Verhältnis zu Ungarn nicht ein Besseres, Haltbareres, Gerechteres, wenn an Stelle der durch Unglück und Furcht diktierten Aktion Beust's eine von wirklich staatlichen und moralischen Motiven getragene Auseinandersetzung erfolgt wäre? Soll der damals in der Not gemachte Fehler bei der notwendigen Schlichtung der deutsch-slavischen Frage in Oesterreich wiederholt werden? Erheben wir uns doch über den Tagesstreit. Sehen wir das große staatliche Gebilde "Oesterreich" als das an, was es ist, als der notwendige Zusammenschluß der Donauvölker verschiedener Nationalität. Soll das auf die Dauer zusammenhalten, bedarf es Einheit und Kraft und die setzt eine Auseinandersetzung zwischen Deutschen und Slaven in dem Reiche voraus. Karatheodoripascha hat einmal gesagt, daß gerade so wie das 19. Jahrhundert den Auflösungsprozeß der Türkei gesehen hat, das 20. denselben Prozeß Oesterreichs sehen wird. Das Wort wahr oder falsch zu machen, liegt in den Händen der österreichischen Staatsmänner und Parteifürer.</rdg>
-          </app>
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_5297">"Österreich"</placeName> als das an, was es ist,
         </p>
-        <!-- Einfügung mit Tinte fol. 85v -->
         <pb facs="#F_K-6_Bae_TB_1_167" n="85v" xml:id="Bae_TB_1_5317"/>
+        <addSpan spanTo="#Bae_TB_1_xxxx" type="insertion" xml:id="Bae_TB_1_5946"/>
         <p xml:id="Bae_TB_1_5318">
           <anchor xml:id="Bae_TB_1_5319"/>
           <persName key="SorelAlbert" ref="https://d-nb.info/gnd/117476617" xml:id="Bae_TB_1_5320">Albert Sorel</persName> schliesst sein im 
@@ -7291,17 +7286,8 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5326"/>
           </app>
         </p>
-        <!-- DC Ende der Einfügung -->
-        <p xml:id="Bae_TB_1_5327">
-          <anchor xml:id="Bae_TB_1_5328"/>Von 
-          <placeName key="Norderney" ref="https://www.geonames.org/6557460/norderney.html" xml:id="Bae_TB_1_5329">Norderney</placeName> rief mich ein dringendes Telegramm 
-          <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_1_5330">Thun's</persName> nach 
-          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_1_5331">Prag</placeName>. 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_5332">Badeni</persName> hatte die Einladungen an beide Theile des Grossgrundbesitzes, sowie an die beiden Volksparteien gerichtet. 
-          <app from="#Bae_MF_1_2289" type="equal" xml:id="Bae_TB_1_5333">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5334">Von Norderney rief mich ein dringendes Telegramm Thuns nach Prag. Badeni hatte die Einladungen an beide Teile des Großgrundbesitzes, sowie an die beiden Volksparteien gerichtet.</rdg>
-          </app>
-        </p>
+        <anchor xml:id="Bae_TB_1_5947"/>
+        <!-- DC anchor für den vorigen addspan -->
         <!-- DC Einklebung Zeitungsartikel fol. 85v -->
         <addSpan spanTo="#Bae_TB_1_5700" type="insertion" xml:id="Bae_TB_1_5335"/>
         <p xml:id="Bae_TB_1_5336">
@@ -7362,8 +7348,46 @@
         </p>
         <anchor xml:id="Bae_TB_1_5700"/>
         <!-- CA: anchor für addspan Bae_TB_1_5335 -->
-        <!-- DC Ende der Einklebung -->
-        <!-- DC Fortsetzung fol. 86r -->
+        <pb facs="#F_K-6_Bae_TB_1_168" n="86r" xml:id="Bae_TB_1_5299"/>
+        <p xml:id="Bae_TB_1_5948">als der notwendige Zusammenschluss der Donauvölker verschiedener Nationalität. Soll das auf die Dauer zusammenhalten, bedarf es Einheit 
+          <choice xml:id="Bae_TB_1_5300">
+            <abbr xml:id="Bae_TB_1_5301">u.</abbr>
+            <expan xml:id="Bae_TB_1_5302">und</expan>
+          </choice> Kraft und die setzt eine Auseinandersetzung zwischen Deutschen 
+          <choice xml:id="Bae_TB_1_5303">
+            <abbr xml:id="Bae_TB_1_5304">u.</abbr>
+            <expan xml:id="Bae_TB_1_5305">und</expan>
+          </choice> Slaven in dem Reiche voraus. 
+          <persName key="KaratheodoriAlexander" xml:id="Bae_TB_1_5306">Karatheodoripascha</persName> hat einmal gesagt, dass geradeso wie das 19. Jahrhundert den Auflösungsprocess der 
+          <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_1_5307">Türkei</placeName> gesehen hat, das 20. denselben Process 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_5308">Österreich's</placeName> sehen wird. Das Wort wahr oder falsch zu machen, liegt in den Händen der 
+          <choice xml:id="Bae_TB_1_5309">
+            <abbr xml:id="Bae_TB_1_5310">öster.</abbr>
+            <expan xml:id="Bae_TB_1_5311">österreichischen</expan>
+          </choice> Staatsmänner 
+          <choice xml:id="Bae_TB_1_5312">
+            <abbr xml:id="Bae_TB_1_5313">u.</abbr>
+            <expan xml:id="Bae_TB_1_5314">und</expan>
+          </choice> Parteifürer. 
+          <app from="#Bae_MF_1_2265" type="equal" xml:id="Bae_TB_1_5315">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5316">Dinge aktuelle, erfolgreiche Politik gründen? Die Sympathien unserer Stammesbrüder "im Reich" wirken gewiß kräftigend auf Mut und Ausdauer bei uns, sie für mehr verwerten zu wollen, hat keinen Sinn. Sehen wir den Dingen ganz auf den Grund. Wer halbwegs über dem Niveau der Bierbankpolitik steht, gibt ohnedies zu, das alles diene nur zur "Einschüchterung" und werde dazu führen, daß die gerechten Deutschen Forderungen Gehör finden. Ich gestehe, daß mir diese Art Politik durchaus widerstrebt. Freilich haben die Ungarn Alles auf diesem Wege erreicht. Aber ich frage: wäre unser Verhältnis zu Ungarn nicht ein Besseres, Haltbareres, Gerechteres, wenn an Stelle der durch Unglück und Furcht diktierten Aktion Beust's eine von wirklich staatlichen und moralischen Motiven getragene Auseinandersetzung erfolgt wäre? Soll der damals in der Not gemachte Fehler bei der notwendigen Schlichtung der deutsch-slavischen Frage in Oesterreich wiederholt werden? Erheben wir uns doch über den Tagesstreit. Sehen wir das große staatliche Gebilde "Oesterreich" als das an, was es ist, als der notwendige Zusammenschluß der Donauvölker verschiedener Nationalität. Soll das auf die Dauer zusammenhalten, bedarf es Einheit und Kraft und die setzt eine Auseinandersetzung zwischen Deutschen und Slaven in dem Reiche voraus. Karatheodoripascha hat einmal gesagt, daß gerade so wie das 19. Jahrhundert den Auflösungsprozeß der Türkei gesehen hat, das 20. denselben Prozeß Oesterreichs sehen wird. Das Wort wahr oder falsch zu machen, liegt in den Händen der österreichischen Staatsmänner und Parteifürer.</rdg>
+          </app>
+        </p>
+        <!-- Einfügung mit Tinte fol. 85v -->
+        <anchor xml:id="Bae_TB_1_5949"/>
+        <app from="#Bae_TB_1_xxxx" type="insertion" xml:id="Bae_TB_1_5950">
+          <rdg xml:id="Bae_TB_1_5951">[...]</rdg>
+        </app>
+        <p xml:id="Bae_TB_1_5327">
+          <anchor xml:id="Bae_TB_1_5328"/>Von 
+          <placeName key="Norderney" ref="https://www.geonames.org/6557460/norderney.html" xml:id="Bae_TB_1_5329">Norderney</placeName> rief mich ein dringendes Telegramm 
+          <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_1_5330">Thun's</persName> nach 
+          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_1_5331">Prag</placeName>. 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_5332">Badeni</persName> hatte die Einladungen an beide Theile des Grossgrundbesitzes, sowie an die beiden Volksparteien gerichtet. 
+          <app from="#Bae_MF_1_2289" type="equal" xml:id="Bae_TB_1_5333">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5334">Von Norderney rief mich ein dringendes Telegramm Thuns nach Prag. Badeni hatte die Einladungen an beide Teile des Großgrundbesitzes, sowie an die beiden Volksparteien gerichtet.</rdg>
+          </app>
+        </p>
         <p xml:id="Bae_TB_1_5380">
           <anchor xml:id="Bae_TB_1_5381"/>
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_1_5382">Thun</persName> hatte in unserm Namen sofort angenommen. 
@@ -7372,6 +7396,14 @@
           </app>
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 86v -->
+        <anchor xml:id="Bae_TB_1_5952"/>
+        <app from="#Bae_TB_1_5700" type="insertion" xml:id="Bae_TB_1_5953">
+          <rdg xml:id="Bae_TB_1_5954">[...]</rdg>
+        </app>
+        <anchor xml:id="Bae_TB_1_5955"/>
+        <app from="#Bae_TB_1_5701" type="insertion" xml:id="Bae_TB_1_5956">
+          <rdg xml:id="Bae_TB_1_5957">[...]</rdg>
+        </app>
         <addSpan spanTo="#Bae_TB_1_5701" type="insertion" xml:id="Bae_TB_1_5385"/>
         <pb facs="#F_K-6_Bae_TB_1_169" n="85v" xml:id="Bae_TB_1_5767"/>
         <p xml:id="Bae_TB_1_5386">
