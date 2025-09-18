@@ -148,7 +148,7 @@
           <index xml:id="Bae_TB_8_78">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_79">Terrorismus</term>
             <index xml:id="Bae_TB_8_1485">
-              <term xml:id="Bae_TB_8_1486">Wahlrechtsagitation</term>
+              <term key="Wahlkampf" xml:id="Bae_TB_8_1486"/>
             </index>
           </index>
           <choice xml:id="Bae_TB_8_2120">
@@ -170,7 +170,7 @@
           <index xml:id="Bae_TB_8_86">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_87">Wahlkreiseinteilung</term>
             <index xml:id="Bae_TB_8_1490">
-              <term xml:id="Bae_TB_8_1491">Wahlkreiseinteilung</term>
+              <term key="Wahlkreiseinteilung" xml:id="Bae_TB_8_1491"/>
             </index>
           </index>
           <app from="#Bae_MF_6-2_1945" type="equal" xml:id="Bae_TB_8_1492">
@@ -367,7 +367,7 @@
           <index xml:id="Bae_TB_8_153">
             <term key="Parteien" xml:id="Bae_TB_8_154">4 Ausschuss</term>
             <index xml:id="Bae_TB_8_1542">
-              <term xml:id="Bae_TB_8_1543">Viererausschuss der deutschen Parteien</term>
+              <term key="Viererausschuss" xml:id="Bae_TB_8_1543"/>
             </index>
           </index> nicht 
           <pb facs="#F_K-5_Bae_TB_8_009" n="6v" xml:id="Bae_TB_8_155"/>
@@ -432,7 +432,7 @@
             <index xml:id="Bae_TB_8_181">
               <term key="Parteien" xml:id="Bae_TB_8_182">4 Ausschusses</term>
               <index xml:id="Bae_TB_8_1552">
-                <term xml:id="Bae_TB_8_1553">Viererausschuss der deutschen Parteien</term>
+                <term key="Viererausschuss" xml:id="Bae_TB_8_1553"/>
               </index>
             </index> vom 
             <date when="1906-01-25" xml:id="Bae_TB_8_183">25.1.1906</date>. 
@@ -448,7 +448,7 @@
           <index xml:id="Bae_TB_8_190">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_191">Mandate</term>
             <index xml:id="Bae_TB_8_1554">
-              <term xml:id="Bae_TB_8_1555">Nationale Mandatszahlen</term>
+              <term key="NationaleMandatszahlen" xml:id="Bae_TB_8_1555"/>
             </index>
           </index> bei einer Vermehrung der Gesamtzahl. Auf die Ziffern für 
           <placeName key="Galizien" ref="https://www.geonames.org/562153/galicia.html" xml:id="Bae_TB_8_192"> Galizien</placeName> wurde nicht eingegangen. Allgemeine politische Erörterungen über die 
@@ -613,9 +613,6 @@
           </choice> das 
           <index xml:id="Bae_TB_8_304">
             <term key="Presse" xml:id="Bae_TB_8_305">Pressbureau</term>
-            <index xml:id="Bae_TB_8_1556">
-              <term xml:id="Bae_TB_8_1557">Pressebuero des Ministerratspräsidiums</term>
-            </index>
           </index> insbes. in der 
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/1123578060" xml:id="Bae_TB_8_306">N. fr. Presse</orgName> "Stimmung" machen wollte. 
         </p>
@@ -745,7 +742,7 @@
           <index xml:id="Bae_TB_8_375">
             <term key="Parteien" xml:id="Bae_TB_8_376">Grossgrundbesitzer</term>
             <index xml:id="Bae_TB_8_1576">
-              <term xml:id="Bae_TB_8_1577">Großgrundbesitz (beide Parteien)</term>
+              <term key="Großgrundbesitz" xml:id="Bae_TB_8_1577"/>
             </index>
           </index> stimmten mit 
           <persName key="SteinFranko" ref="https://d-nb.info/gnd/129277169" xml:id="Bae_TB_8_377">Stein</persName>, so dass dieser Dringlichkeitsantrag, wenn auch nicht die 2/3 Majorität, so doch die einfache Mehrheit erhielt. 
@@ -767,9 +764,9 @@
           </app>
           <anchor xml:id="Bae_TB_8_384"/> meine gewönliche 
           <index xml:id="Bae_TB_8_385">
-            <term key="Kaiser Franz Joseph" xml:id="Bae_TB_8_386">Jahresaudienz</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_TB_8_386">Jahresaudienz</term>
             <index xml:id="Bae_TB_8_1584">
-              <term xml:id="Bae_TB_8_1585">Audienzen</term>
+              <term key="Audienzen" xml:id="Bae_TB_8_1585"/>
             </index>
           </index>. 
           <app from="#Bae_MF_6-2_741" type="notEqual" xml:id="Bae_TB_8_387">
@@ -852,7 +849,7 @@
           <index xml:id="Bae_TB_8_425">
             <term key="Parteien" xml:id="Bae_TB_8_426">Grossgrundbesitz</term>
             <index xml:id="Bae_TB_8_1596">
-              <term xml:id="Bae_TB_8_1597">Großgrundbesitz (beide Parteien)</term>
+              <term key="Großgrundbesitz" xml:id="Bae_TB_8_1597"/>
             </index>
           </index> das getan hat. 
           <app from="#Bae_MF_6-2_2047" type="equal" xml:id="Bae_TB_8_1598">
@@ -868,19 +865,19 @@
           <index xml:id="Bae_TB_8_429">
             <term key="Reichsrat" xml:id="Bae_TB_8_430">Recruten</term>
             <index xml:id="Bae_TB_8_1600">
-              <term xml:id="Bae_TB_8_1601">Rekrutenkontingent</term>
+              <term key="Rekrutenkontingent" xml:id="Bae_TB_8_1601"/>
             </index>
           </index>, der 
           <index xml:id="Bae_TB_8_431">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_8_432">Zolltarif</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_432">Zolltarif</term>
             <index xml:id="Bae_TB_8_1602">
-              <term xml:id="Bae_TB_8_1603">Zolltarif</term>
+              <term key="Zolltarif" xml:id="Bae_TB_8_1603"/>
             </index>
           </index>, der deutsche 
           <index xml:id="Bae_TB_8_433">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_8_434">Handelsvertrag</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_434">Handelsvertrag</term>
             <index xml:id="Bae_TB_8_1604">
-              <term xml:id="Bae_TB_8_1605">Handelsvertrag mit Deutschland</term>
+              <term key="HandelsvertragDeutschland" xml:id="Bae_TB_8_1605"/>
             </index>
           </index> – alles das haben wir im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_435">Abgeordnetenhaus</orgName> ermöglicht 
@@ -900,7 +897,7 @@
           <index xml:id="Bae_TB_8_442">
             <term key="Parteien" xml:id="Bae_TB_8_443">Grossgrundbesitz</term>
             <index xml:id="Bae_TB_8_1607">
-              <term xml:id="Bae_TB_8_1608">Großgrundbesitz (beide Parteien)</term>
+              <term key="Großgrundbesitz" xml:id="Bae_TB_8_1608"/>
             </index>
           </index> nicht übel nehmen, dass er 
           <app from="#Bae_MF_6-2_2058" type="equal" xml:id="Bae_TB_8_1609">
@@ -920,9 +917,9 @@
           <add xml:id="Bae_TB_8_449">zu erzählen sondern</add>
           <del rendition="#s" xml:id="Bae_TB_8_450">und</del> schwieg über die 
           <index xml:id="Bae_TB_8_451">
-            <term key="Kaiser Franz Joseph" xml:id="Bae_TB_8_452">Audienz</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_TB_8_452">Audienz</term>
             <index xml:id="Bae_TB_8_1614">
-              <term xml:id="Bae_TB_8_1615">Audienzen</term>
+              <term key="Audienzen" xml:id="Bae_TB_8_1615"/>
             </index>
           </index>. Ich schluckte die Pille ganz allein 
           <choice xml:id="Bae_TB_8_2214">
@@ -945,7 +942,7 @@
           <index xml:id="Bae_TB_8_462">
             <term key="Parteien" xml:id="Bae_TB_8_463">Grossgrundbesitzern</term>
             <index xml:id="Bae_TB_8_1616">
-              <term xml:id="Bae_TB_8_1617">Großgrundbesitz (beide Parteien)</term>
+              <term key="Großgrundbesitz" xml:id="Bae_TB_8_1617"/>
             </index>
           </index> beider Parteien stattgefunden. Die interessanteste fand am 
           <date when="1906-04-11" xml:id="Bae_TB_8_464">11. 
@@ -1157,7 +1154,7 @@
           <index xml:id="Bae_TB_8_553">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_554">Pluralsystem</term>
             <index xml:id="Bae_TB_8_1663">
-              <term xml:id="Bae_TB_8_1664">Pluralwahlrecht</term>
+              <term key="Pluralwahlrecht" xml:id="Bae_TB_8_1664"/>
             </index>
           </index>
           <app from="#Bae_MF_6-2_2115" type="equal" xml:id="Bae_TB_8_1665">
@@ -1169,7 +1166,7 @@
               <index xml:id="Bae_TB_8_558">
                 <term key="Wahlrechtsreform" xml:id="Bae_TB_8_559">Proporz</term>
                 <index xml:id="Bae_TB_8_1667">
-                  <term xml:id="Bae_TB_8_1668">Proportionalwahlrecht</term>
+                  <term key="Proportionalwahlrecht" xml:id="Bae_TB_8_1668"/>
                 </index>
               </index>
             </rdg>
@@ -1207,7 +1204,7 @@
           <index xml:id="Bae_TB_8_570">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_571">Pluralwahlrecht</term>
             <index xml:id="Bae_TB_8_1679">
-              <term xml:id="Bae_TB_8_1680">Pluralwahlrecht</term>
+              <term key="Pluralwahlrecht" xml:id="Bae_TB_8_1680"/>
             </index>
           </index>
           <app from="#Bae_MF_6-2_2131" type="equal" xml:id="Bae_TB_8_1681">
@@ -1267,7 +1264,7 @@
           <index xml:id="Bae_TB_8_593">
             <term key="Parteien" xml:id="Bae_TB_8_594">Grossgrundbesitzer</term>
             <index xml:id="Bae_TB_8_1698">
-              <term xml:id="Bae_TB_8_1699">Großgrundbesitz (beide Parteien)</term>
+              <term key="Großgrundbesitz" xml:id="Bae_TB_8_1699"/>
             </index>
           </index>, sondern Mitglieder anderer Parteien die betreffenden Anträge stellen sollen. 
           <app from="#Bae_MF_6-2_944" type="notEqual" xml:id="Bae_TB_8_595">
@@ -1317,7 +1314,7 @@
           <index xml:id="Bae_TB_8_612">
             <term key="Parteien" xml:id="Bae_TB_8_613">Grossgrundbesitzes</term>
             <index xml:id="Bae_TB_8_1704">
-              <term xml:id="Bae_TB_8_1705">Großgrundbesitz (beide Parteien)</term>
+              <term key="Großgrundbesitz" xml:id="Bae_TB_8_1705"/>
             </index>
           </index> abhängen werde, ob 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_614">Gautsch</persName> dieselben werde bewilligt erhalten. Ich frug die Herren, ob sie der Meinung 
@@ -1481,9 +1478,9 @@
           </app>
           <anchor xml:id="Bae_TB_8_1738"/> in der 
           <index xml:id="Bae_TB_8_686">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_8_687">Militärfrage</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_687">Militärfrage</term>
             <index xml:id="Bae_TB_8_1739">
-              <term xml:id="Bae_TB_8_1740">Kommandosprache</term>
+              <term key="Kommandosprache" xml:id="Bae_TB_8_1740"/>
             </index>
           </index>, das 
           <app from="#Bae_MF_6-2_2184" type="equal" xml:id="Bae_TB_8_1741">
@@ -1499,9 +1496,9 @@
             <expan xml:id="Bae_TB_8_2285">und</expan>
           </choice> die Erhaltung der bisherigen wirtschaftlichen Gemeinsamkeit. Er war der Meinung, dass Unnachgiebigkeit in militär. Dingen unbedingt Nachgiebigkeit gegenüber dem Verlangen nach wirtschaftlicher 
           <index xml:id="Bae_TB_8_691">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_8_692">Selbständigkeit</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_692">Selbständigkeit</term>
             <index xml:id="Bae_TB_8_1744">
-              <term xml:id="Bae_TB_8_1745">Wirtschaftliche Trennung</term>
+              <term key="Trennung" xml:id="Bae_TB_8_1745"/>
             </index>
           </index> zur Folge haben müsse. Das letzte wollte er um jeden Preis vermeiden, weil er sagte, dass die wirtschaftliche Trennung die Gemeinsamkeit auf allen andern Gebieten in Frage stellt. 
         </p>
@@ -1607,9 +1604,9 @@
           </app>
           <anchor xml:id="Bae_TB_8_1769"/> den separatistischen 
           <index xml:id="Bae_TB_8_739">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_8_740">Bestrebungen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_740">Bestrebungen</term>
             <index xml:id="Bae_TB_8_1770">
-              <term xml:id="Bae_TB_8_1771">Wirtschaftliche Trennung</term>
+              <term key="Trennung" xml:id="Bae_TB_8_1771"/>
             </index>
           </index>
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_741">Ungarn's</placeName> auf 
@@ -1632,9 +1629,9 @@
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_749">Kaiser</persName> das Programm 
           <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_8_750">Andrássy</persName> angenommen, den Husarenregimentern die ungar. 
           <index xml:id="Bae_TB_8_751">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_8_752">Commandosprache</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_752">Commandosprache</term>
             <index xml:id="Bae_TB_8_1777">
-              <term xml:id="Bae_TB_8_1778">Kommandosprache</term>
+              <term key="Kommandosprache" xml:id="Bae_TB_8_1778"/>
             </index>
           </index> gegeben 
           <choice xml:id="Bae_TB_8_2298">
@@ -1828,7 +1825,7 @@
           <index xml:id="Bae_TB_8_834">
             <term key="Parteien" xml:id="Bae_TB_8_835">Großgrundbesitzer</term>
             <index xml:id="Bae_TB_8_1822">
-              <term xml:id="Bae_TB_8_1823">Großgrundbesitz (beide Parteien)</term>
+              <term key="Großgrundbesitz" xml:id="Bae_TB_8_1823"/>
             </index>
           </index> höflich 
           <choice xml:id="Bae_TB_8_2319">
@@ -2036,9 +2033,9 @@
             <expan xml:id="Bae_TB_8_2360">und</expan>
           </choice> es wird der 
           <index xml:id="Bae_TB_8_948">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_8_949">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_8_949">§ 14</term>
             <index xml:id="Bae_TB_8_1829">
-              <term xml:id="Bae_TB_8_1830">Paragraph 14 des Gesetzes vom 21. Dezember 1867</term>
+              <term key="Paragraph14" xml:id="Bae_TB_8_1830"/>
             </index>
           </index> angewendet werden müssen. Erst nach und nach werden sich die Dinge 
           <app from="#Bae_MF_6-2_1268" type="notEqual" xml:id="Bae_TB_8_950">
@@ -2071,7 +2068,7 @@
           <index xml:id="Bae_TB_8_957">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_958">Pluralwahlrecht</term>
             <index xml:id="Bae_TB_8_1838">
-              <term xml:id="Bae_TB_8_1839">Pluralwahlrecht</term>
+              <term key="Pluarlwahlrecht" xml:id="Bae_TB_8_1839"/>
             </index>
           </index> gemacht 
           <choice xml:id="Bae_TB_8_2364">
@@ -2141,7 +2138,7 @@
           <index xml:id="Bae_TB_8_983">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_984">Demonstrationen</term>
             <index xml:id="Bae_TB_8_1848">
-              <term xml:id="Bae_TB_8_1849">Wahlrechtsagitation</term>
+              <term key="Wahlkampf" xml:id="Bae_TB_8_1849"/>
             </index>
           </index> durch Abstinenz beim Empfang 
           <choice xml:id="Bae_TB_8_2373">
@@ -2384,9 +2381,9 @@
         <p xml:id="Bae_TB_8_1098">Gestern hat 
           <persName key="SteinFranko" ref="https://d-nb.info/gnd/129277169" xml:id="Bae_TB_8_1099">Franko Stein</persName> in der 
           <index xml:id="Bae_TB_8_1100">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_8_1101">Delegation</term>
+            <term key="Reichsrat" xml:id="Bae_TB_8_1101">Delegation</term>
             <index xml:id="Bae_TB_8_1895">
-              <term xml:id="Bae_TB_8_1896">Delegationen</term>
+              <term key="Delegationswahlen" xml:id="Bae_TB_8_1896"/>
             </index>
           </index> eine 
           <ref type="editorialNote" target="https://alex.onb.ac.at/cgi-content/alex?aid=spd&amp;datum=0041&amp;size=45&amp;page=295" xml:id="Bae_TB_8_1102">Rede</ref> gehalten die an hochverräterischem Cynismus Alles übertroffen hat was je da war. Man sah dabei dass einige wenige wirklich innerlich empört waren, aber der 
@@ -2458,7 +2455,7 @@
           <index xml:id="Bae_TB_8_1131">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_1132">Mandate</term>
             <index xml:id="Bae_TB_8_1901">
-              <term xml:id="Bae_TB_8_1902">Nationale Mandatszahlen</term>
+              <term key="NationaleMandatszahlen" xml:id="Bae_TB_8_1902"/>
             </index>
           </index> nicht einigen – die Zeit wird zu kurz werden bis Ende 
           <date when="1907-01" xml:id="Bae_TB_8_1133">Jänner 1907</date>. Dem entgegen steht heute fest: die Krone 
@@ -2542,15 +2539,9 @@
           <index xml:id="Bae_TB_8_1169">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_1170">Wählerversammlung</term>
             <index xml:id="Bae_TB_8_1920">
-              <term xml:id="Bae_TB_8_1921">Wahlkampf</term>
+              <term key="Wahlkampf" xml:id="Bae_TB_8_1921"/>
             </index>
-          </index> abgehalten wird, in dieser Frage Farbe bekennen müssen. Das Leitmotiv für diese Versammlung kann nur sein entweder "wir setzen unseren Widerstand gegen die Wahlreform fort" oder "wir fügen uns den Tatsachen und bereiten eine Politik der Zukunft vor". Will man sich weder zu dem einen noch zu dem andern bekennen, dann muss die Versammlung unterbleiben, da sie mit bloßem Wischiwaschi nicht ausgefüllt werden kann. Das erste Leitmotiv halte ich für unglücklich, weil es gegen Tatsachen strebt, die wir nicht mehr abwenden können. Das Intonieren des zweiten Leitmotivs hätte die Folgen: dass wir dadurch der Finalisierung der Wahlreform Vorschub leisten – die Haltung unserer 
-          <index xml:id="Bae_TB_8_1171">
-            <term key="Reichsrat" xml:id="Bae_TB_8_1172">Herrenhausmitglieder</term>
-            <index xml:id="Bae_TB_8_1922">
-              <term xml:id="Bae_TB_8_1923">Herrenhaus</term>
-            </index>
-          </index> präjudizieren – Missbilligung der Intransigenten auf uns laden. Trotzdem bin ich dafür, aber nicht um schön zu sterben, sondern um weiterleben zu können. Es handelt sich darum, eine Form zu finden, die unsere 
+          </index> abgehalten wird, in dieser Frage Farbe bekennen müssen. Das Leitmotiv für diese Versammlung kann nur sein entweder "wir setzen unseren Widerstand gegen die Wahlreform fort" oder "wir fügen uns den Tatsachen und bereiten eine Politik der Zukunft vor". Will man sich weder zu dem einen noch zu dem andern bekennen, dann muss die Versammlung unterbleiben, da sie mit bloßem Wischiwaschi nicht ausgefüllt werden kann. Das erste Leitmotiv halte ich für unglücklich, weil es gegen Tatsachen strebt, die wir nicht mehr abwenden können. Das Intonieren des zweiten Leitmotivs hätte die Folgen: dass wir dadurch der Finalisierung der Wahlreform Vorschub leisten – die Haltung unserer Herrenhausmitglieder präjudizieren – Missbilligung der Intransigenten auf uns laden. Trotzdem bin ich dafür, aber nicht um schön zu sterben, sondern um weiterleben zu können. Es handelt sich darum, eine Form zu finden, die unsere 
           <pb facs="#F_K-5_Bae_TB_8_065" n="34v" xml:id="Bae_TB_8_1173"/>
           <note type="editorial" xml:id="Bae_TB_8_1174">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8_066" n="35r" xml:id="Bae_TB_8_1175"/>Frontveränderung 
@@ -2575,7 +2566,7 @@
           <index xml:id="Bae_TB_8_1183">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_1184">Pluralwahlrechts</term>
             <index xml:id="Bae_TB_8_1930">
-              <term xml:id="Bae_TB_8_1931">Pluralwahlrecht</term>
+              <term key="Pluralwahlrecht" xml:id="Bae_TB_8_1931"/>
             </index>
           </index>, die im September gleich zu Beginn der Verhandlungen im Ausschuss auftauchen wird. 
         </p>
@@ -2660,7 +2651,7 @@
           <index xml:id="Bae_TB_8_1218">
             <term key="Parteien" xml:id="Bae_TB_8_1219">Obmännerkonferenz</term>
             <index xml:id="Bae_TB_8_1958">
-              <term xml:id="Bae_TB_8_1959">Obmännerkonferenz</term>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_8_1959"/>
             </index>
           </index> des ganzen 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_8_1220">verfassungstreuen Großgrundbesitzes</orgName> unsere Ansicht sagen. Wir müssen sie auch dem 
@@ -2708,7 +2699,7 @@
           <index xml:id="Bae_TB_8_1246">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_1247">Pluralrechtes</term>
             <index xml:id="Bae_TB_8_1963">
-              <term xml:id="Bae_TB_8_1964">Pluralwahlrecht</term>
+              <term key="Pluralwahlrecht" xml:id="Bae_TB_8_1964"/>
             </index>
           </index> scheiterte. Erzielte im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_1248">Abgeordnetenhause</orgName> durch den Antrag 
@@ -2843,7 +2834,7 @@
             <term key="Aristokratie" xml:id="Bae_TB_8_1316">Adel</term>
           </index> oder Erbgesessenheit imponierte. Die besitzende, gebildete, oft genug halbgebildete 
           <index xml:id="Bae_TB_8_1317">
-            <term key="Bürgertum" xml:id="Bae_TB_8_1318">Mittelklasse</term>
+            <term key="Buergertum" xml:id="Bae_TB_8_1318">Mittelklasse</term>
           </index> war ihm zuwider. Das, was man 
           <app from="#Bae_MF_6-2_1746" type="equal" xml:id="Bae_TB_8_1997">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1998">oft seine Ansichten auseinandergesetzt. Er war im Grunde ein guter Mensch, aber hasste den Besitz, sofern er ihm nicht durch Adel oder Erbgesessenheit imponierte. Die besitzende, gebildete, oft genug halbgebildete Mittelklasse war ihm zuwider. Das, was man</rdg>
@@ -2873,7 +2864,7 @@
           <index xml:id="Bae_TB_8_1329">
             <term key="Verwaltung" xml:id="Bae_TB_8_1330">Beamtenstandes</term>
             <index xml:id="Bae_TB_8_2006">
-              <term xml:id="Bae_TB_8_2007">Bürokratie</term>
+              <term key="Buerokratie" xml:id="Bae_TB_8_2007"/>
             </index>
           </index>. Sein Ideal war die Ausübung aller staatlichen und wirtschaftlichen Funktionen als Amt. Darin war er ganz Sozialist älteren Stils. Für Selbstverwaltung, Selbsttätigkeit hatte er nur 
           <app from="#Bae_MF_6-2_1755" type="equal" xml:id="Bae_TB_8_2008">
@@ -2934,13 +2925,13 @@
           <index xml:id="Bae_TB_8_1357">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_1358">Wahlreform</term>
             <index xml:id="Bae_TB_8_2023">
-              <term xml:id="Bae_TB_8_2024">Taaffsche Wahlrechtsreform</term>
+              <term key="TaaffeWahlrechtsreform" xml:id="Bae_TB_8_2024"/>
             </index>
           </index> war sein Werk. Allgemeines Wahlrecht mit Belassung des 
           <index xml:id="Bae_TB_8_1359">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_1360">Großgrundbesitzes</term>
             <index xml:id="Bae_TB_8_2025">
-              <term xml:id="Bae_TB_8_2026">Kurie Großgrundbesitz</term>
+              <term key="KurieGroßgrundbesitz" xml:id="Bae_TB_8_2026"/>
             </index>
           </index>
           <app from="#Bae_MF_6-2_1772" type="equal" xml:id="Bae_TB_8_2027">
@@ -2999,7 +2990,7 @@
           <index xml:id="Bae_TB_8_1378">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_1379">Großgrundbesitzes</term>
             <index xml:id="Bae_TB_8_2052">
-              <term xml:id="Bae_TB_8_2053">Kurie Großgrundbesitz</term>
+              <term key="KurieGroßgrundbesitz" xml:id="Bae_TB_8_2053"/>
             </index>
           </index>. 
           <app from="#Bae_MF_6-2_1860" type="notEqual" xml:id="Bae_TB_8_1380">
@@ -3105,7 +3096,7 @@
           <anchor xml:id="Bae_TB_8_2084"/>, in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_1427">Österreich</placeName> glückte er. Ob es den 
           <index xml:id="Bae_TB_8_1428">
-            <term key="Bürgertum" xml:id="Bae_TB_8_1429">bürgerlichen Klassen</term>
+            <term key="Buergertum" xml:id="Bae_TB_8_1429">bürgerlichen Klassen</term>
           </index> im österreichischen 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_8_1430">Parlament</orgName> möglich gewesen wäre, die Sache abzuwenden, ist schwer zu sagen. Der Druck kam diesmal nicht nur von oben, sondern viel intensiver noch von unten, 
           <app from="#Bae_MF_6-2_1807" type="equal" xml:id="Bae_TB_8_2085">
@@ -3134,7 +3125,7 @@
           <anchor xml:id="Bae_TB_8_2093"/>von vornherein eine andere Situation als unter 
           <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_TB_8_1440">Taaffe</persName>. Es hätte eines Gegenplanes, einer großzügigen Wahlreform aus den 
           <index xml:id="Bae_TB_8_1441">
-            <term key="Bürgertum" xml:id="Bae_TB_8_1442">bürgerlichen Kreisen</term>
+            <term key="Buergertum" xml:id="Bae_TB_8_1442">bürgerlichen Kreisen</term>
           </index> bedurft, 
           <pb facs="#F_K-5_Bae_TB_8_088" n="42v" xml:id="Bae_TB_8_1443"/>
           <note type="editorial" xml:id="Bae_TB_8_1444">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>

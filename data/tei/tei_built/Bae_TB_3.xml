@@ -1047,7 +1047,7 @@
             <expan xml:id="Bae_TB_3_766">und</expan>
           </choice> hatte knapp vor 
           <index xml:id="Bae_TB_3_767">
-            <term key="Demission der Regierung" xml:id="Bae_TB_3_768">meiner Demission</term>
+            <term key="DemissionRegierung" xml:id="Bae_TB_3_768">meiner Demission</term>
           </index> noch die Befriedigung den Gesetzentwurf, die Pläne, den Vertrag mit der Comune 
           <placeName key="Triest" ref="https://www.geonames.org/3165185/trieste.html" xml:id="Bae_TB_3_769">Triest</placeName> dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_770">Kaiser</persName> zur Vorsanction vorlegen zu können 
@@ -1094,13 +1094,13 @@
           <index xml:id="Bae_TB_3_800">
             <term key="Reichsrat" xml:id="Bae_TB_3_801">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_802">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_3_803"/>
+              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_3_803"/>
             </index>
           </index>, die Notwendigkeit den 
           <index xml:id="Bae_TB_3_804">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_805">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_805">§ 14</term>
             <index xml:id="Bae_TB_3_806">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_807"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_807"/>
             </index>
           </index> der Verfassung in Anwendung zu bringen 
           <choice xml:id="Bae_TB_3_808">
@@ -1108,7 +1108,7 @@
             <expan xml:id="Bae_TB_3_810">und</expan>
           </choice> vor allem die 
           <index xml:id="Bae_TB_3_811">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_812">Ausgleichsverhandlungen mit 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_812">Ausgleichsverhandlungen mit 
               <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_813">Ungarn</placeName>
             </term>
             <index xml:id="Bae_TB_3_814">
@@ -1131,7 +1131,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_826"/>Passivität zu entwerfen suchen bis zu dem Moment meiner 
           <index xml:id="Bae_TB_3_827">
-            <term key="Demission der Regierung" xml:id="Bae_TB_3_828">Demission</term>
+            <term key="DemissionRegierung" xml:id="Bae_TB_3_828">Demission</term>
           </index>
           <app from="#Bae_MF_2_1636" type="equal" xml:id="Bae_TB_3_829">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_830">Passivität zu entwerfen suchen bis zu dem Moment meiner Demission</rdg>
@@ -1232,7 +1232,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_902"/>war diese 
           <index xml:id="Bae_TB_3_903">
-            <term key="Kaiser Franz Joseph" xml:id="Bae_TB_3_904">Audienz</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_TB_3_904">Audienz</term>
             <index xml:id="Bae_TB_3_905">
               <term key="Audienzen" xml:id="Bae_TB_3_906"/>
             </index>
@@ -1270,7 +1270,7 @@
           <date when="1898-04-27" xml:id="Bae_TB_3_930">27. April</date> gab 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_931">Thun</persName> eine Erklärung in der 
           <index xml:id="Bae_TB_3_932">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_933">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_933">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_934">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_935"/>
             </index>
@@ -1283,7 +1283,7 @@
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_3_939">Badeni'schen</persName> Verordnungen 
             </term>
             <index xml:id="Bae_TB_3_940">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_3_941"/>
+              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_3_941"/>
             </index>
           </index>, anerkannte die Notwendigkeit gesetzlicher Regelung der Materie 
           <choice xml:id="Bae_TB_3_942">
@@ -1299,7 +1299,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_951">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_952"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_952"/>
             </index>
           </index> als möglich dar noch vor Zustandekommen des Gesetzes wenn beide Theile in den Grundzügen desselben übereinstimmen würden. Stückweise wie 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_953">Thun</persName> diese Erklärung verfasste, las er mir sie vor 
@@ -1321,7 +1321,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_966">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_967"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_967"/>
             </index>
           </index> prägnanter gemacht, dieselbe nähergerückt haben, aber diesmal schlug es mir fehl. Unter vier Augen als ich 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_968">Thun</persName> vorstellte er solle die Aufhebung doch nicht an eine Bedingung knüpfen die ihm, wenn er sie doch vornehmen wollte, hinderlich wäre, sagte er mir: ein Staatsmann ist, wenn sich die Notwendigkeit ergibt durch so eine Erklärung nicht gebunden. 
@@ -1346,7 +1346,7 @@
           <note type="editorial" xml:id="Bae_TB_3_5357">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_038" n="18r" xml:id="Bae_TB_3_982"/>unbewusst, dann im steigenden Groll gegen die Deutschen, welche keine Miene machten ihm irgend wie entgegenzukommen, bevor er in der 
           <index xml:id="Bae_TB_3_983">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_984">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_984">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_985">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_986"/>
             </index>
@@ -1369,9 +1369,9 @@
           <date when="1898-05" xml:id="Bae_TB_3_999">Mai</date> drehte sich Alles um die Wahl des 
           <orgName key="Sprachenausschuss" xml:id="Bae_TB_3_1000">Sprachenausschusses</orgName>. Der 
           <index xml:id="Bae_TB_3_1001">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_1002">Ausgleich</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_1002">Ausgleich</term>
             <index xml:id="Bae_TB_3_1003">
-              <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_3_1004"/>
+              <term key="Ausgleich" xml:id="Bae_TB_3_1004"/>
             </index>
           </index> lag zwar vor, aber niemand nahm Notiz davon. Alles drehte sich um den 
           <orgName key="Sprachenausschuss" xml:id="Bae_TB_3_1005">Sprachenausschuss</orgName>. Die Čechen häuften Schwierigkeiten, die Deutschen wollten vorher ein Votum des 
@@ -1387,7 +1387,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_1015">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_1016"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_1016"/>
             </index>
           </index> scheint thatsächlich unhaltbar zu sein" 
           <choice xml:id="Bae_TB_3_1017">
@@ -1581,7 +1581,7 @@
           <index xml:id="Bae_TB_3_1164">
             <term key="Parteien" xml:id="Bae_TB_3_1165">Obmännerconferenz</term>
             <index xml:id="Bae_TB_3_1166">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_1167"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_1167"/>
             </index>
           </index> abgelehnt. 
         </p>
@@ -1725,7 +1725,7 @@
           </choice> Trachten hauptsächlich durch einen neuerlichen Versuch eine Verständigung 
           <add place="across" xml:id="Bae_TB_3_1272">in der 
             <index xml:id="Bae_TB_3_1273">
-              <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_1274">Sprachenfrage</term>
+              <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_1274">Sprachenfrage</term>
               <index xml:id="Bae_TB_3_1275">
                 <term key="Sprachenfrage" xml:id="Bae_TB_3_1276"/>
               </index>
@@ -1733,7 +1733,7 @@
           </add> herbeizufüren beherrscht, nach diesem Datum bis Anfang 
           <date when="1898-09" xml:id="Bae_TB_3_1277">September</date> beherrschte die 
           <index xml:id="Bae_TB_3_1278">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_1279">ungarische Ausgleichsaktion</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_1279">ungarische Ausgleichsaktion</term>
             <index xml:id="Bae_TB_3_1280">
               <term key="Ausgleich" xml:id="Bae_TB_3_1281"/>
             </index>
@@ -1898,7 +1898,7 @@
           <index xml:id="Bae_TB_3_1401">
             <term key="Reichsrat" xml:id="Bae_TB_3_1402">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_1403">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_1404"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_1404"/>
             </index>
           </index>. Freilich mehrten sich auf der andern Seite die Zweifel in die Fähigkeiten 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_1405">Thun's</persName> aus dem Labyrinth einen Ausweg zu finden. Am 
@@ -1907,7 +1907,7 @@
           <index xml:id="Bae_TB_3_1408">
             <term key="Parteien" xml:id="Bae_TB_3_1409">Obmännerconferenz</term>
             <index xml:id="Bae_TB_3_1410">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_1411"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_1411"/>
             </index>
           </index> des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1412">Grossgrundbesitzes</orgName> statt, die eine (grösstenteils von mir selbst verfasste) Kundgebung erlies, in welche aber schon durch Anregungen von verschiedenen Seiten deutliche Anzeichen des schwindenden Vertrauens Aufnahme fanden. 
@@ -1943,7 +1943,7 @@
           <index xml:id="Bae_TB_3_1434">
             <term key="Parteien" xml:id="Bae_TB_3_1435">Obmänner-Conferenz</term>
             <index xml:id="Bae_TB_3_1436">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_1437"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_1437"/>
             </index>
           </index> des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1438">verfassungstreuen Großgrundbesitzes</orgName> heute Nachmittags unter dem Vorsitze des Obmannes des böhmischen Wahlcomités, 
@@ -1951,7 +1951,7 @@
           <index xml:id="Bae_TB_3_1440">
             <term key="Parteien" xml:id="Bae_TB_3_1441">Conferenz</term>
             <index xml:id="Bae_TB_3_1442">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_1443"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_1443"/>
             </index>
           </index> hatten sich eingefunden: für 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_3_1444">Böhmen</placeName>
@@ -1982,7 +1982,7 @@
           <index xml:id="Bae_TB_3_1468">
             <term key="Parteien" xml:id="Bae_TB_3_1469">Obmänner-Conferenz</term>
             <index xml:id="Bae_TB_3_1470">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_1471"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_1471"/>
             </index>
           </index> bildete, hat seither von ihrem ernsten Charakter leider nichts verloren, und die innere Krise, die nun schon mehr als ein Jahr auf dem Reiche lastet, zehrt an der Kraft, dem Ansehen und der Würde unseres Vaterlandes. 
         </p>
@@ -1999,7 +1999,7 @@
           <index xml:id="Bae_TB_3_1480">
             <term key="Reichsrat" xml:id="Bae_TB_3_1481">Aufhebung der Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_1482">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_1483"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_1483"/>
             </index>
           </index> eingenommene Standpunkt eine wesentliche, ja entscheidende Verstärkung in der Erwägung finden muß, daß das Festhalten an einer von einem so maßgebenden und großen Theile der Bevölkerung bekämpften Verordnung in keinem Verhältnisse zu den hiedurch geschaffenen gefahrdrohenden Zuständen und Schwierigkeiten steht. 
         </p>
@@ -2013,14 +2013,14 @@
           <index xml:id="Bae_TB_3_1490">
             <term key="Parteien" xml:id="Bae_TB_3_1491">Obmänner-Conferenz</term>
             <index xml:id="Bae_TB_3_1492">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_1493"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_1493"/>
             </index>
           </index> fand im Salon des 
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_3_1494">Grafen Oswald Thun</persName> statt und währte mehr als zwei Stunden. Die Redner, welche in die Debatte über den vorliegenden Entwurf der Kundgebung eingriffen, betonten in dringlicher Weise die Nothwendigkeit der 
           <index xml:id="Bae_TB_3_1495">
             <term key="Reichsrat" xml:id="Bae_TB_3_1496">Aufhebung der Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_1497">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_1498"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_1498"/>
             </index>
           </index>, als das einzige Mittel, den Frieden und die Arbeitsfähigkeit im 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_1499">Parlamente</orgName> wieder herzustellen. Man war der Ansicht, daß 
@@ -2031,7 +2031,7 @@
           <index xml:id="Bae_TB_3_1504">
             <term key="Reichsrat" xml:id="Bae_TB_3_1505">Aufhebung der Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_1506">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_1507"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_1507"/>
             </index>
           </index> zu schreiten. 
         </p>
@@ -2096,9 +2096,9 @@
           </index>. 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_3_1549">Kaizl</persName> kam eines Tages mit der Idee mittelst des 
           <index xml:id="Bae_TB_3_1550">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1551">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1551">§ 14</term>
             <index xml:id="Bae_TB_3_1552">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1553"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1553"/>
             </index>
           </index> nicht mehr ein 
           <index xml:id="Bae_TB_3_1554">
@@ -2106,9 +2106,9 @@
           </index> für einen Zeitraum nach dem 
           <date when="1898-06-30" xml:id="Bae_TB_3_1556">letzten Juni</date>, an welchem Tage das laufende Provisorium erlöschen würde, ein neues Provisorium zu erlassen, sondern den 
           <index xml:id="Bae_TB_3_1557">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1558">Notparagraph</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1558">Notparagraph</term>
             <index xml:id="Bae_TB_3_1559">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1560"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1560"/>
             </index>
           </index> sofort auf das 
           <index xml:id="Bae_TB_3_1561">
@@ -2148,9 +2148,9 @@
           </choice> dem andren Ministersectionschef regten sich mutige absolutistische Allüren. Offenbar war auch der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_1587">Kaiser</persName> für den Plan gewonnen, der ihm als ein Ausdruck des Kraftbewusstseins geschildert worden war. Sachlich war es mir sehr leicht zu widerlegen. Ein Provisorium thut dieselben Dienste; die Anwendung des 
           <index xml:id="Bae_TB_3_1588">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1589">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1589">§ 14</term>
             <index xml:id="Bae_TB_3_1590">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1591"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1591"/>
             </index>
           </index> auf das Finanzgesetz tangiert die wichtigste Prärogative des 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_1592">Hauses</orgName>; wenn man im entferntesten daran denkt, das 
@@ -2174,9 +2174,9 @@
           <note type="editorial" xml:id="Bae_TB_3_5376">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_056" n="29r" xml:id="Bae_TB_3_1605"/>Abstimmung die Sache nicht entschieden habe. Ich machte den Herren klar dass zur Erlassung einer Verordnung nach 
           <index xml:id="Bae_TB_3_1606">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1607">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1607">§ 14</term>
             <index xml:id="Bae_TB_3_1608">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1609"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1609"/>
             </index>
           </index> die 
           <add place="across" xml:id="Bae_TB_3_1610">physischen</add> Unterschriften 
@@ -2197,7 +2197,7 @@
           <date when="1898-06-18" xml:id="Bae_TB_3_1622">18.</date> brachte keine Entscheidung, endlich erklärte ich dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_1623">Kaiser</persName> den Fall vorlegen zu wollen, nahm eine 
           <index xml:id="Bae_TB_3_1624">
-            <term key="Kaiser Franz Joseph" xml:id="Bae_TB_3_1625">Audienz</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_TB_3_1625">Audienz</term>
             <index xml:id="Bae_TB_3_1626">
               <term key="Audienzen" xml:id="Bae_TB_3_1627"/>
             </index>
@@ -2285,9 +2285,9 @@
             </choice>Sitzungen 
           </orgName> über die Beschaffung der Mittel für die Deckung des Investitionscredits, den in Anspruch zu nehmen mittelst 
           <index xml:id="Bae_TB_3_1689">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1690">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1690">§ 14</term>
             <index xml:id="Bae_TB_3_1691">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1692"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1692"/>
             </index>
           </index> absolut unthunlich war. Endlich kam die Form eines Vorschusses heraus, welche mit § 10 des Gesetzes über die 
           <orgName key="Staatsschuldenkontrollkommission" ref="https://d-nb.info/gnd/5054264-3" xml:id="Bae_TB_3_1693">Staatsschuldencontrollcommission</orgName> in Einklang gesetzt werden konnte, natürlich unter der Voraussetzung der 
@@ -2300,18 +2300,18 @@
           </app>
           <anchor xml:id="Bae_TB_3_1699"/>Anwendung des 
           <index xml:id="Bae_TB_3_1700">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1701">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1701">§ 14</term>
             <index xml:id="Bae_TB_3_1702">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1703"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1703"/>
             </index>
           </index> auf das Provisorium. 
         </p>
         <p xml:id="Bae_TB_3_1704">Im Allgemeinen kann man nicht behaupten dass 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_1705">Thun</persName> von dem 
           <index xml:id="Bae_TB_3_1706">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1707">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1707">§ 14</term>
             <index xml:id="Bae_TB_3_1708">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1709"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1709"/>
             </index>
           </index> bis zum Wiederzusammentritt des 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_1710">
@@ -2360,9 +2360,9 @@
           <add place="across" xml:id="Bae_TB_3_1742">auch für einen Personen- und Scenenwechsel</add>, und von einer Auflösung des 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_1743">Hauses</orgName> war unter den obwaltenden Verhältnissen auch keine Rede; es konnte sich also für mich nur darum handeln, die Anwendung des 
           <index xml:id="Bae_TB_3_1744">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1745">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1745">§ 14</term>
             <index xml:id="Bae_TB_3_1746">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1747"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1747"/>
             </index>
           </index> auf das Äusserste einzuschränken, da ein Austritt aus dem Cabinet damals gewiss nicht richtig gewesen wäre 
           <choice xml:id="Bae_TB_3_1748">
@@ -2373,9 +2373,9 @@
         </p>
         <p xml:id="Bae_TB_3_1752">In diesem Kampf gegen die Anwendung des 
           <index xml:id="Bae_TB_3_1753">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1754">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1754">§ 14</term>
             <index xml:id="Bae_TB_3_1755">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1756"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1756"/>
             </index>
           </index> leistete mir 
           <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_3_1757">Welsersheimb</persName> energische Hilfe. Als Anfang 
@@ -2388,9 +2388,9 @@
           </orgName> von 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_3_1763">Kaizl</persName> die Absicht lancirt wurde, die Zuckerverschleissteuer mittelst des 
           <index xml:id="Bae_TB_3_1764">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1765">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1765">§ 14</term>
             <index xml:id="Bae_TB_3_1766">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1767"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1767"/>
             </index>
           </index> zu machen, opponirte 
           <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_3_1768">Welsersheimb</persName>
@@ -2414,9 +2414,9 @@
           </app>
           <anchor xml:id="Bae_TB_3_1783"/>Obedienz schwankend zu werden. Die Sache wurde fallen gelassen und von jeder grösseren Aktion auf Grund des 
           <index xml:id="Bae_TB_3_1784">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1785">Notparagraphen</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1785">Notparagraphen</term>
             <index xml:id="Bae_TB_3_1786">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1787"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1787"/>
             </index>
           </index>, 
           <app from="#Bae_MF_2_2195" type="equal" xml:id="Bae_TB_3_1788">
@@ -2572,9 +2572,9 @@
             <expan xml:id="Bae_TB_3_1897">und</expan>
           </choice> Flamme für die Erlassung eines Sprachengesetzes auf Grund des 
           <index xml:id="Bae_TB_3_1898">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_1899">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_1899">§ 14</term>
             <index xml:id="Bae_TB_3_1900">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_1901"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_1901"/>
             </index>
           </index>, kurz darauf sah er das einzige Heil in einem Staatsstreich, aber er dachte nichts zu Ende, geschweige denn, dass er Handlungen planmässig vorbereitet 
           <choice xml:id="Bae_TB_3_1902">
@@ -2685,7 +2685,7 @@
             <index xml:id="Bae_TB_3_1975">
               <term key="Reichsrat" xml:id="Bae_TB_3_1976">Wiedereröffnung</term>
               <index xml:id="Bae_TB_3_1977">
-                <term key="Eröffnung" xml:id="Bae_TB_3_1978"/>
+                <term key="Eroeffnung" xml:id="Bae_TB_3_1978"/>
               </index>
             </index> am 
             <date when="1898-09-26" xml:id="Bae_TB_3_1979">26. September</date>. 
@@ -2706,7 +2706,7 @@
             </index>
           </index> erhielt die Frage des 
           <index xml:id="Bae_TB_3_1989">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_1990">Ausgleichs mit 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_1990">Ausgleichs mit 
               <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_1991">Ungarn</placeName>
             </term>
             <index xml:id="Bae_TB_3_1992">
@@ -2763,7 +2763,7 @@
           <index xml:id="Bae_TB_3_2032">
             <term key="Reichsrat" xml:id="Bae_TB_3_2033">Sprachenverordnung</term>
             <index xml:id="Bae_TB_3_2034">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2035"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2035"/>
             </index>
           </index> aufgehoben würde, dass allerdings je länger der heutige Zustand 
           <add place="across" xml:id="Bae_TB_3_2036">daure</add>, desto schwieriger eine Loslösung von den radicalen Elementen sein werde, ich erhielt ungefär das immer wiederholt, was ich vor wenigen Tagen dem 
@@ -2775,7 +2775,7 @@
           <hi rendition="#ul" xml:id="Bae_TB_3_2041">einer</hi> großen Arbeit das 
           <hi rendition="#ul" xml:id="Bae_TB_3_2042">Ganze</hi> im Auge zu behalten. Der 
           <index xml:id="Bae_TB_3_2043">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2044">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2044">
               <choice xml:id="Bae_TB_3_2045">
                 <abbr xml:id="Bae_TB_3_2046">ung.</abbr>
                 <expan xml:id="Bae_TB_3_2047">ungarische</expan>
@@ -2798,7 +2798,7 @@
           <index xml:id="Bae_TB_3_2057">
             <term key="Reichsrat" xml:id="Bae_TB_3_2058">Wiedereröffnung</term>
             <index xml:id="Bae_TB_3_2059">
-              <term key="Eröffnung" xml:id="Bae_TB_3_2060"/>
+              <term key="Eroeffnung" xml:id="Bae_TB_3_2060"/>
             </index>
           </index> einen Plan zu machen, eine Action vorzubereiten, sich eine grosse staatsmännische Rede zusammenzustellen – nichts von alledem; er spann sich ganz in den Gedanken ein, das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_2061">Haus</orgName> könne 
@@ -2871,13 +2871,13 @@
           <index xml:id="Bae_TB_3_2109">
             <term key="Reichsrat" xml:id="Bae_TB_3_2110">Verordnungen</term>
             <index xml:id="Bae_TB_3_2111">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2112"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2112"/>
             </index>
           </index> bestehen, nicht darauf eingehen werden. (Beifall.) Ob das Sprachengesetz nun günstiger oder ungünstiger ausfällt, die Verordnungen bestehen. Befriedigt das Gesetz nicht alle Wünsche der Czechen, so nehmen sie es einfach nicht an, und – die 
           <index xml:id="Bae_TB_3_2113">
             <term key="Reichsrat" xml:id="Bae_TB_3_2114">Verordnungen</term>
             <index xml:id="Bae_TB_3_2115">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2116"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2116"/>
             </index>
           </index> bleiben bestehen. 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2117">Thun</persName> hat sich gegenüber den Czechen gebunden, gegenüber den Deutschen aber nicht. Damit ist die Position als eine vollständig parteiische gegeben. Die Czechen halten den 
@@ -2913,22 +2913,22 @@
           <index xml:id="Bae_TB_3_2142">
             <term key="Reichsrat" xml:id="Bae_TB_3_2143">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_2144">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2145"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2145"/>
             </index>
           </index> bestehen, werden die Deutschen in allen Fällen stark genug sein, um ein parlamentarisches Regieren gründlich zu verleiden. (Beifall.) Unterdessen wird die Lage immer schwieriger. Die Autorität ist bereits so erschüttert, daß man kaum mehr den Staat wird wieder aufbauen können. Und warum dies Alles? Weil es sich darum handelt, 
           <index xml:id="Bae_TB_3_2146">
             <term key="Reichsrat" xml:id="Bae_TB_3_2147">Verordnungen</term>
             <index xml:id="Bae_TB_3_2148">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2149"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2149"/>
             </index>
           </index> aufzuheben, unter denen nicht einmal die Unterschrift des 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_2150">Kaisers</persName> steht. 
         </p>
         <p xml:id="Bae_TB_3_2151">Redner bespricht sodann die Handhabung des 
           <index xml:id="Bae_TB_3_2152">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_2153">§. 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_2153">§. 14</term>
             <index xml:id="Bae_TB_3_2154">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_2155"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_2155"/>
             </index>
           </index>, die er als verfassungswidrig kennzeichnet. Den Schwärmern für den Absolutismus hält er die furchtbaren Erfahrungen entgegen, die 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_2156">Oesterreich</placeName> in der absolutistischen Aera gemacht hat, und fährt dann fort: Heute haben wir bereits den Absolutismus. Die Gesetzgebung arbeitet ja weiter ohne 
@@ -2938,7 +2938,7 @@
           <index xml:id="Bae_TB_3_2159">
             <term key="Reichsrat" xml:id="Bae_TB_3_2160">Verordnungen</term>
             <index xml:id="Bae_TB_3_2161">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2162"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2162"/>
             </index>
           </index> zurücknehmen, die nicht passen; einen andern Weg wird die Regierung nicht finden. Der gegenwärtige Zustand legt uns manche Opfer auf, Manches muß warten: der Mittelstand und die 
           <index xml:id="Bae_TB_3_2163">
@@ -2987,7 +2987,7 @@
           <date when="1898-08-06" xml:id="Bae_TB_3_2193">6.</date> und 
           <date when="1898-08-07" xml:id="Bae_TB_3_2194">7.</date> scharfe 
           <index xml:id="Bae_TB_3_2195">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2196">Ausgleichsconferenzen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2196">Ausgleichsconferenzen</term>
             <index xml:id="Bae_TB_3_2197">
               <term key="Ausgleichsverhandlungen" xml:id="Bae_TB_3_2198"/>
             </index>
@@ -2996,7 +2996,7 @@
           <date when="1898-08-13" xml:id="Bae_TB_3_2200">13. bis 16.</date> in 
           <placeName key="BadIschl" ref="https://www.geonames.org/2782052/bad-ischl.html" xml:id="Bae_TB_3_2201">Ischl</placeName> wegen des 
           <index xml:id="Bae_TB_3_2202">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2203">Ausgleiches</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2203">Ausgleiches</term>
             <index xml:id="Bae_TB_3_2204">
               <term key="Ausgleich" xml:id="Bae_TB_3_2205"/>
             </index>
@@ -3025,7 +3025,7 @@
           <date when="1898-08-31" xml:id="Bae_TB_3_2225">letzten August</date> endlich tägliche Ministerberatungen, darunter zwei unter dem Vorsitz des 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_2226">Kaisers</persName> wegen des 
           <index xml:id="Bae_TB_3_2227">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2228">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2228">
               <choice xml:id="Bae_TB_3_2229">
                 <abbr xml:id="Bae_TB_3_2230">ung.</abbr>
                 <expan xml:id="Bae_TB_3_2231">ungarisches</expan>
@@ -3073,7 +3073,7 @@
         </p>
         <p xml:id="Bae_TB_3_2261">Nach dem Abschluss der 
           <index xml:id="Bae_TB_3_2262">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2263">Ausgleichsconferenzen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2263">Ausgleichsconferenzen</term>
             <index xml:id="Bae_TB_3_2264">
               <term key="Ausgleichsverhandlungen" xml:id="Bae_TB_3_2265"/>
             </index>
@@ -3083,7 +3083,7 @@
             <expan xml:id="Bae_TB_3_2268">und</expan>
           </choice> als klar war, dass die Regierung mit der ungarischen ein Abkommen für den Fall getroffen habe, als der 
           <index xml:id="Bae_TB_3_2269">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2270">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2270">Ausgleich</term>
             <index xml:id="Bae_TB_3_2271">
               <term key="Ausgleich" xml:id="Bae_TB_3_2272"/>
             </index>
@@ -3160,7 +3160,7 @@
             <expan xml:id="Bae_TB_3_2321">und</expan>
           </choice> halb derselben Meinung. Ich konnte sie aber unter entschiedener Zustimmung aller übrigen damit widerlegen, dass in erster Reihe doch immer noch die parlamentarische Verhandlung des 
           <index xml:id="Bae_TB_3_2322">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2323">Ausgleiches</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2323">Ausgleiches</term>
             <index xml:id="Bae_TB_3_2324">
               <term key="Ausgleich" xml:id="Bae_TB_3_2325"/>
             </index>
@@ -3183,9 +3183,9 @@
           </index>
           <hi rendition="#ul" xml:id="Bae_TB_3_2338">nicht</hi> entgegenzutreten. Das Ministerium würde den 
           <index xml:id="Bae_TB_3_2339">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_2340">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_2340">§ 14</term>
             <index xml:id="Bae_TB_3_2341">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_2342"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_2342"/>
             </index>
           </index> anwenden, darüber aber sicher stürzen. Man könne den Deutschen nicht wieder die Gutmütigkeiten zutrauen einzulenken 
           <choice xml:id="Bae_TB_3_2343">
@@ -3193,7 +3193,7 @@
             <expan xml:id="Bae_TB_3_2345">und</expan>
           </choice> den 
           <index xml:id="Bae_TB_3_2346">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2347">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2347">Ausgleich</term>
             <index xml:id="Bae_TB_3_2348">
               <term key="Ausgleich" xml:id="Bae_TB_3_2349"/>
             </index>
@@ -3211,7 +3211,7 @@
           </index> abbringen. 
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_3_2358">Stürgkh</persName> war derselben Ansicht jedoch dabei stark, wenn nicht entscheidend beeinflusst von der Hoffnung dass eine Verhandlung des 
           <index xml:id="Bae_TB_3_2359">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2360">Ausgleiches</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2360">Ausgleiches</term>
             <index xml:id="Bae_TB_3_2361">
               <term key="Ausgleich" xml:id="Bae_TB_3_2362"/>
             </index>
@@ -3239,7 +3239,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_2381"/>die grosse Gefahr vor, in die er kommen könnte, wenn der 
           <index xml:id="Bae_TB_3_2382">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2383">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2383">Ausgleich</term>
             <index xml:id="Bae_TB_3_2384">
               <term key="Ausgleich" xml:id="Bae_TB_3_2385"/>
             </index>
@@ -3382,7 +3382,7 @@
             <expan xml:id="Bae_TB_3_2487">und</expan>
           </choice> ich glaube er wollte in diesem Jahre überhaupt temporisiren. Der 
           <index xml:id="Bae_TB_3_2488">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_2489">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_2489">
               <choice xml:id="Bae_TB_3_2490">
                 <abbr xml:id="Bae_TB_3_2491">ungar.</abbr>
                 <expan xml:id="Bae_TB_3_2492">ungarische</expan>
@@ -3502,7 +3502,7 @@
         <head xml:id="Bae_TB_3_2571">
           <hi rendition="#ul" xml:id="Bae_TB_3_2572">III. 
             <index xml:id="Bae_TB_3_2573">
-              <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_2574">Die Sprachenfrage</term>
+              <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_2574">Die Sprachenfrage</term>
               <index xml:id="Bae_TB_3_2575">
                 <term key="Sprachenfrage" xml:id="Bae_TB_3_2576"/>
               </index>
@@ -3512,7 +3512,7 @@
         <p xml:id="Bae_TB_3_2577">Wenn ich jetzt so im Zusammenhang zurückblicke auf die Action 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2578">Thun's</persName> in der 
           <index xml:id="Bae_TB_3_2579">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_2580">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_2580">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_2581">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_2582"/>
             </index>
@@ -3535,7 +3535,7 @@
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_3_2594">Badeni'schen</persName> Verordnung 
             </term>
             <index xml:id="Bae_TB_3_2595">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_3_2596"/>
+              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_3_2596"/>
             </index>
           </index>
           <choice xml:id="Bae_TB_3_2597">
@@ -3547,7 +3547,7 @@
               <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_3_2602">Gautsch'schen</persName>
             </term>
             <index xml:id="Bae_TB_3_2603">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2604"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2604"/>
             </index>
           </index>. Ich habe schon gesagt, dass die – teilweise verzeihliche – Täuschung weit verbreitet war, dass damit der heftigste Widerstand der Deutschen doch beseitigt sei. Nur als man sah, dass die Deutschen mit Recht sich der 
           <index xml:id="Bae_TB_3_2605">
@@ -3560,7 +3560,7 @@
               </persName> Verordnung 
             </term>
             <index xml:id="Bae_TB_3_2611">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2612"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2612"/>
             </index>
           </index>
           <hi rendition="#ul" xml:id="Bae_TB_3_2613">nicht</hi>
@@ -3586,7 +3586,7 @@
             <expan xml:id="Bae_TB_3_2628">und</expan>
           </choice> nahm die Aufgabe in der 
           <index xml:id="Bae_TB_3_2629">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_2630">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_2630">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_2631">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_2632"/>
             </index>
@@ -3624,15 +3624,15 @@
           </orgName> beschäftigte sich 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2656">Thun</persName> sehr intensiv mit der 
           <index xml:id="Bae_TB_3_2657">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_2658">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_2658">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_2659">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_2660"/>
             </index>
           </index>. Er hatte die Idee ein Sprachengesetz zu verfassen, nach erhaltener Zustimmung der Parteien zu den Grundsätzen desselben dieses Gesetz mittels des 
           <index xml:id="Bae_TB_3_2661">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_2662">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_2662">§ 14</term>
             <index xml:id="Bae_TB_3_2663">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_2664"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_2664"/>
             </index>
           </index> zu publiciren 
           <choice xml:id="Bae_TB_3_2665">
@@ -3649,13 +3649,13 @@
               </persName> Sprachenverordnung 
             </term>
             <index xml:id="Bae_TB_3_2674">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2675"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2675"/>
             </index>
           </index> aufzuheben. Gewiss widersprach dies dem eigentlichen Sinn des 
           <index xml:id="Bae_TB_3_2676">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_2677">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_2677">§ 14</term>
             <index xml:id="Bae_TB_3_2678">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_2679"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_2679"/>
             </index>
           </index>, aber wäre es gelungen den 
           <hi rendition="#ul" xml:id="Bae_TB_3_2680">Inhalt</hi> des Gesetzes nur halbwegs befriedigend zu gestalten, so wäre diese Form warscheinlich als ein Auskunftsmittel acceptirt worden. Ich sprach in diesen Tagen in 
@@ -3683,7 +3683,7 @@
         </p>
         <p xml:id="Bae_TB_3_2696">Zunächst arbeitete er "Grundsätze" aus, nach denen er die 
           <index xml:id="Bae_TB_3_2697">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_2698">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_2698">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_2699">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_2700"/>
             </index>
@@ -3707,7 +3707,7 @@
           <index xml:id="Bae_TB_3_2716">
             <term key="Parteien" xml:id="Bae_TB_3_2717">Obmännerconferenz</term>
             <index xml:id="Bae_TB_3_2718">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_2719"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_2719"/>
             </index>
           </index>, auf die ihn 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_3_2720">Pergelt</persName> verwies, nichts wissen, 
@@ -3722,7 +3722,7 @@
           <index xml:id="Bae_TB_3_2728">
             <term key="Parteien" xml:id="Bae_TB_3_2729">Obmännerconferenz</term>
             <index xml:id="Bae_TB_3_2730">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_2731"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_2731"/>
             </index>
           </index>, Vermittler zwischen 
           <app from="#Bae_MF_2_2672" type="equal" xml:id="Bae_TB_3_2732">
@@ -3769,7 +3769,7 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_2761">Wien</placeName> folgende officiöse Auslassung; sie sagt nach kurzer Einleitung: "Nachdem die Berufung einer aus deutschen und czechischen Vertrauensmännern gemischten Conferenz von vornherein aussichtslos war, wollte 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2762">Graf Thun</persName> sich darauf beschränken, die Grundzüge einer von ihm geplanten gesetzlichen Regelung der 
           <index xml:id="Bae_TB_3_2763">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_2764">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_2764">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_2765">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_2766"/>
             </index>
@@ -3777,7 +3777,7 @@
           <index xml:id="Bae_TB_3_2767">
             <term key="Reichsrat" xml:id="Bae_TB_3_2768">Sprachenverordnung</term>
             <index xml:id="Bae_TB_3_2769">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_2770"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2770"/>
             </index>
           </index> eingeleitet werden sollte, ging. Die czechischen Vertrauensmänner folgten dem Rufe. Die Deutschen, nach Nuancen vielfach geschieden, vermochten nicht ohneweiters schlüssig zu werden. Selbst der von der Wählerpolitik am meisten unabhängige 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_2771">verfassungstreue Großgrundbesitz</orgName> gab, ohne einen bindenden Beschluß zu fassen, lediglich seine Anschauung kund, daß der Einladung zu unverbindlichen Besprechungen Folge zu leisten sei, die an den geschäftsführenden Obmann der 
@@ -3787,7 +3787,7 @@
           <index xml:id="Bae_TB_3_2775">
             <term key="Parteien" xml:id="Bae_TB_3_2776">Obmänner-Conferenz</term>
             <index xml:id="Bae_TB_3_2777">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_2778"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_2778"/>
             </index>
           </index> durch den Senior 
           <persName key="FunkeAlois" ref="https://d-nb.info/gnd/1072507609" xml:id="Bae_TB_3_2779">Dr. Funke</persName> beantwortet. Das ist die äußere Vorgeschichte der morgigen Conferenz. Im Zusammenhange mit allen vorangegangenen Stadien der Parlamentskrise in 
@@ -3797,7 +3797,7 @@
         </p>
         <p xml:id="Bae_TB_3_2783">Der Kriegszustand, der zwischen der regierenden und der gesetzgebenden Gewalt nun schon an anderthalb Jahre fortdauert, drängt irgend einem Ende zu. Entscheiden sich die Führer der Linken für die Theilnahme an den unverbindlichen Besprechungen zur Beseitigung des 
           <index xml:id="Bae_TB_3_2784">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_2785">Sprachenconflicts</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_2785">Sprachenconflicts</term>
             <index xml:id="Bae_TB_3_2786">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_2787"/>
             </index>
@@ -3833,7 +3833,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_2807">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_2808"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_2808"/>
             </index>
           </index> fand am 
           <date when="1898-07-10" xml:id="Bae_TB_3_2809">10. Juli</date> statt. Die Obmänner machten ihr Eintreten in Besprechungen davon abhängig, dass ihnen 
@@ -3857,7 +3857,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_2825">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_2826"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_2826"/>
             </index>
           </index> am 
           <date when="1898-07-11" xml:id="Bae_TB_3_2827">11.</date> und 
@@ -3931,7 +3931,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_2882">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_2883"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_2883"/>
             </index>
           </index> waren in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_2884">Wien</placeName> geblieben – auch das war 
@@ -3947,7 +3947,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_2894">
-              <term key="Obmännerkonferenz" xml:id="Bae_TB_3_2895"/>
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_2895"/>
             </index>
           </index> zu acceptiren, dass er sich als hart, unzugänglich erwiesen habe. Damals gerieten die beiden hart aneinander, aber 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_3_2896">Schwegel</persName> wollte niemals alles erzählen was 
@@ -4012,7 +4012,7 @@
           <note type="editorial" xml:id="Bae_TB_3_5411">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_093a" n="52r" xml:id="Bae_TB_3_2939"/>
           <index xml:id="Bae_TB_3_2940">
-            <term key="Bürgertum" xml:id="Bae_TB_3_2941">Bürgertum</term>
+            <term key="Buergertum" xml:id="Bae_TB_3_2941">Bürgertum</term>
           </index> seit Jahrhunderten seinen Sitz hat, wo die älteste deutsche Universität besteht! Ebenso ganz unmöglich erklärte ich den Zusammenhang, den er zwischen den čechischen Behörden 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_3_2942">Böhmens</placeName> und 
           <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_3_2943">Mährens</placeName> dadurch herstellen wollte, dass sie auch über die Landesgrenzen mit einander čechisch korrespondiren können, was die Herstellung einer Verbindung zwischen diesen beiden Kronländern bedeutete, die ihnen eine Sonderstellung innerhalb der Reichshälfte gegeben hätte, einen Anklang an die angestrebte Vereinigung der Nebenländer der böhmischen Krone. 
@@ -4091,9 +4091,9 @@
             <expan xml:id="Bae_TB_3_2997">insbesondere</expan>
           </choice> bezüglich des technischen Personales, wo immer eine spezifische Qualification entscheiden muss. Dann war ja auch im 
           <index xml:id="Bae_TB_3_2998">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_2999">Ausgleich</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_2999">Ausgleich</term>
             <index xml:id="Bae_TB_3_3000">
-              <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_3_3001"/>
+              <term key="Ausgleich" xml:id="Bae_TB_3_3001"/>
             </index>
           </index>
           <date when="1898" xml:id="Bae_TB_3_3002">1890</date> der deutsche Senat beim Obergericht creirt. 
@@ -4119,9 +4119,9 @@
             <expan xml:id="Bae_TB_3_3018">und</expan>
           </choice> berührte so in sehr unglücklicher Weise den heiklichsten Punkt: die unausgefürt gebliebenen Punctationen des 
           <index xml:id="Bae_TB_3_3019">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_3020">Ausgleiches</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_3020">Ausgleiches</term>
             <index xml:id="Bae_TB_3_3021">
-              <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_3_3022"/>
+              <term key="Ausgleich" xml:id="Bae_TB_3_3022"/>
             </index>
           </index>! 
         </p>
@@ -4215,7 +4215,7 @@
           <index xml:id="Bae_TB_3_3086">
             <term key="Parteien" xml:id="Bae_TB_3_3087">Grossgrundbesitz</term>
             <index xml:id="Bae_TB_3_3088">
-              <term key="Großgrundbesitz (beide Parteien)" xml:id="Bae_TB_3_3089"/>
+              <term key="Großgrundbesitz" xml:id="Bae_TB_3_3089"/>
             </index>
           </index> aus 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_3_3090">Böhmen</placeName> statt. 
@@ -4364,9 +4364,9 @@
         </p>
         <p xml:id="Bae_TB_3_3194">Die Idee den 
           <index xml:id="Bae_TB_3_3195">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_3196">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_3196">§ 14</term>
             <index xml:id="Bae_TB_3_3197">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_3198"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_3198"/>
             </index>
           </index> ohne Einwilligung der Parteien anzuwenden wurde fallen gelassen, aber 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3199">Thun</persName> verlangte diese Ausarbeitungen von uns "für eine spätere Aktion". Damals dachte er sich eine Octroyirung des Sprachengesetzes in Verbindung mit noch viel weitergehenderen Dingen. Auf diese Weise hatte er es auch umgangen, im 
@@ -4404,7 +4404,7 @@
             <expan xml:id="Bae_TB_3_3223">und</expan>
           </choice> lies mir von ihnen ausfürliche Gutachten über die 
           <index xml:id="Bae_TB_3_3224">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_3225">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_3225">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_3226">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_3227"/>
             </index>
@@ -4430,7 +4430,7 @@
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_3241">Hauses</orgName> am 
           <date when="1898-07-24" xml:id="Bae_TB_3_3242">24. Juli</date> erschien in der großen Wandeldecoration ein neues Bild: der 
           <index xml:id="Bae_TB_3_3243">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3244">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3244">
               <choice xml:id="Bae_TB_3_3245">
                 <abbr xml:id="Bae_TB_3_3246">ungar.</abbr>
                 <expan xml:id="Bae_TB_3_3247">ungarische</expan>
@@ -4448,7 +4448,7 @@
           <anchor xml:id="Bae_TB_3_3253"/>Ich glaube nicht, dass 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3254">Thun</persName> in dieser ganzen 
           <index xml:id="Bae_TB_3_3255">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_3256">Sprachenaktion</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_3256">Sprachenaktion</term>
             <index xml:id="Bae_TB_3_3257">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_3258"/>
             </index>
@@ -4504,7 +4504,7 @@
         <head xml:id="Bae_TB_3_3293">
           <hi rendition="#ul" xml:id="Bae_TB_3_3294">IV. Der 
             <index xml:id="Bae_TB_3_3295">
-              <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3296">Ausgleich mit 
+              <term key="OesterreichUngarn" xml:id="Bae_TB_3_3296">Ausgleich mit 
                 <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_3297">Ungarn</placeName>
               </term>
               <index xml:id="Bae_TB_3_3298">
@@ -4519,7 +4519,7 @@
           <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_3_3303">Ministeriums</orgName> hätte ich es sehr gerne erreicht, dass er geblieben wäre, damit ich das Justizportefeuille hätte übernehmen können, jetzt weis ich aber, dass er aus Ehrlichkeit gegangen ist. Als er mir damals sagte "in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_3304">Österreich</placeName> ist so lange keine ordentliche Regierung möglich so lange von Zeit zu Zeit der 
           <index xml:id="Bae_TB_3_3305">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3306">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3306">
               <choice xml:id="Bae_TB_3_3307">
                 <abbr xml:id="Bae_TB_3_3308">ungar.</abbr>
                 <expan xml:id="Bae_TB_3_3309">ungarische</expan>
@@ -4544,7 +4544,7 @@
         <p xml:id="Bae_TB_3_3319">
           <hi rendition="#ul" xml:id="Bae_TB_3_3320">1. Vorgeschichte der 
             <index xml:id="Bae_TB_3_3321">
-              <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3322">Ausgleichsverhandlungen</term>
+              <term key="OesterreichUngarn" xml:id="Bae_TB_3_3322">Ausgleichsverhandlungen</term>
               <index xml:id="Bae_TB_3_3323">
                 <term key="Ausgleichsverhandlungen" xml:id="Bae_TB_3_3324"/>
               </index>
@@ -4554,14 +4554,14 @@
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3326">Thun</persName> angeknüpft hat oder vielmehr anknüpfen musste. Er hat das Ministerium übernommen ohne 
           <add place="across" xml:id="Bae_TB_3_3327">eine</add> Uebersicht über den Stand der 
           <index xml:id="Bae_TB_3_3328">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3329">Ausgleichsfrage</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3329">Ausgleichsfrage</term>
             <index xml:id="Bae_TB_3_3330">
               <term key="Ausgleich" xml:id="Bae_TB_3_3331"/>
             </index>
           </index> zu haben, der genaueste Einblick hätte ihn gewiss nicht verhindert die Präsidentschaft zu übernehmen, aber er hätte den 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_3332">Ungarn</placeName> gegenüber vielleicht doch anders Stellung genommen. So aber unterschätzte er weit die Bedeutung der 
           <index xml:id="Bae_TB_3_3333">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3334">Ausgleichsfragen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3334">Ausgleichsfragen</term>
             <index xml:id="Bae_TB_3_3335">
               <term key="Ausgleich" xml:id="Bae_TB_3_3336"/>
             </index>
@@ -4574,7 +4574,7 @@
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_3_3341">Badeni</persName> mit den 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_3342">Ungarn</placeName> vereinbarten 
           <index xml:id="Bae_TB_3_3343">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3344">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3344">Ausgleich</term>
             <index xml:id="Bae_TB_3_3345">
               <term key="Ausgleich" xml:id="Bae_TB_3_3346"/>
             </index>
@@ -4592,7 +4592,7 @@
           </choice>
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_3_3355">Gautsch</persName> samt allen Akten einzusehen - wenn ich ein vollberechtigtes Urteil über den critischen Stand der 
           <index xml:id="Bae_TB_3_3356">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3357">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3357">
               <choice xml:id="Bae_TB_3_3358">
                 <abbr xml:id="Bae_TB_3_3359">ungar.</abbr>
                 <expan xml:id="Bae_TB_3_3360">ungarischen</expan>
@@ -4611,7 +4611,7 @@
           </choice> dadurch, dass ich bis zum letzten Moment glaubte nur das Justizportefeuille übernehmen zu können. Ich habe bereits erzählt, dass mich 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3367">Thun</persName> vor meinem Eintritt nur ganz im Allgemeinen über die 
           <index xml:id="Bae_TB_3_3368">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3369">Ausgleichsfrage</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3369">Ausgleichsfrage</term>
             <index xml:id="Bae_TB_3_3370">
               <term key="Ausgleich" xml:id="Bae_TB_3_3371"/>
             </index>
@@ -4621,9 +4621,9 @@
             <expan xml:id="Bae_TB_3_3374">und</expan>
           </choice> hat alles Spätere derart präjudicirt, dass ich ihr – hier nur im Allgemeinen – ein paar Worte widmen will. Den pragmatische Gang der Verhandlungen in betreff des 
           <index xml:id="Bae_TB_3_3375">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3376">Zoll und Handelsbündnisses</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3376">Zoll und Handelsbündnisses</term>
             <index xml:id="Bae_TB_3_3377">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_3378"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_3378"/>
             </index>
           </index>, wie sie unter 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_3_3379">Badeni</persName> seit 
@@ -4637,7 +4637,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_3386"/>die Verhandlungen, die parallel bezüglich der 
           <index xml:id="Bae_TB_3_3387">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3388">Quote</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3388">Quote</term>
             <index xml:id="Bae_TB_3_3389">
               <term key="Quote" xml:id="Bae_TB_3_3390"/>
             </index>
@@ -4652,9 +4652,9 @@
           <anchor xml:id="Bae_TB_3_3396"/>unsere Regierungen mit Schwäche gegen 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_3397">Ungarn</placeName> erblich belastet sind. Die Verhandlungen bezüglich des 
           <index xml:id="Bae_TB_3_3398">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3399">Zoll und Handelsbündnisses</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3399">Zoll und Handelsbündnisses</term>
             <index xml:id="Bae_TB_3_3400">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_3401"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_3401"/>
             </index>
           </index> wurden durch 
           <persName key="GlanzHugo" ref="https://d-nb.info/gnd/1011357844" xml:id="Bae_TB_3_3402">Glanz</persName> in ehrlicher bureaucratischer Weise, aber ohne Kraft 
@@ -4681,7 +4681,7 @@
           <persName key="Boehm-BawerkEugen" ref="https://d-nb.info/gnd/118660691" xml:id="Bae_TB_3_3417">Böhm</persName> in einem bessern Lichte, als 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_3_3418">Kaizl</persName> später auf sie fallen lies. Beide beharrten auf einer 
           <index xml:id="Bae_TB_3_3419">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3420">Quote</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3420">Quote</term>
             <index xml:id="Bae_TB_3_3421">
               <term key="Quote" xml:id="Bae_TB_3_3422"/>
             </index>
@@ -4716,7 +4716,7 @@
           </choice> Vortrag, womit 
           <date when="1897-03" xml:id="Bae_TB_3_3444">im März 1897</date> die Vorsanction zur Einbringung der 
           <index xml:id="Bae_TB_3_3445">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3446">Ausgleichsvorlagen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3446">Ausgleichsvorlagen</term>
             <index xml:id="Bae_TB_3_3447">
               <term key="Ausgleich" xml:id="Bae_TB_3_3448"/>
             </index>
@@ -4781,21 +4781,21 @@
           <note type="editorial" xml:id="Bae_TB_3_5435">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_110d" n="64r" xml:id="Bae_TB_3_3492"/>der Befürchtung ergibt, dass wenn nicht sämmtliche 
           <index xml:id="Bae_TB_3_3493">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3494">Ausgleichsvorlagen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3494">Ausgleichsvorlagen</term>
             <index xml:id="Bae_TB_3_3495">
               <term key="Ausgleich" xml:id="Bae_TB_3_3496"/>
             </index>
           </index> längstens bis zum 
           <date when="1898-05-01" xml:id="Bae_TB_3_3497">1. Mai l. J.</date> den Parlamenten vorgelegt werden, es weiterhin überhaupt kaum möglich sein dürfte, die wirtschaftlichen Beziehungen der beiden Staaten der Monarchie zu einander auf der Basis eines 
           <index xml:id="Bae_TB_3_3498">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3499">Zoll 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3499">Zoll 
               <choice xml:id="Bae_TB_3_3500">
                 <abbr xml:id="Bae_TB_3_3501">u.</abbr>
                 <expan xml:id="Bae_TB_3_3502">und</expan>
               </choice> Handelsbündnisses 
             </term>
             <index xml:id="Bae_TB_3_3503">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_3504"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_3504"/>
             </index>
           </index> regeln zu können." – Damit war dieser 
           <choice xml:id="Bae_TB_3_3505">
@@ -4809,13 +4809,13 @@
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_3511">Ungarn</placeName> als unbequeme Fessel empfanden, zerrissen, denn es war nicht daran zu denken, dass bis 
           <date when="1898-05-01" xml:id="Bae_TB_3_3512">1. Mai</date> zwischen den beiden Regierungen eine 
           <index xml:id="Bae_TB_3_3513">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3514">Quote</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3514">Quote</term>
             <index xml:id="Bae_TB_3_3515">
               <term key="Quote" xml:id="Bae_TB_3_3516"/>
             </index>
           </index> vereinbart sein konnte; den 
           <index xml:id="Bae_TB_3_3517">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3518">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3518">Ausgleich</term>
             <index xml:id="Bae_TB_3_3519">
               <term key="Ausgleich" xml:id="Bae_TB_3_3520"/>
             </index>
@@ -4825,7 +4825,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_3523"/>vorgelegt ohne 
           <index xml:id="Bae_TB_3_3524">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3525">Quote</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3525">Quote</term>
             <index xml:id="Bae_TB_3_3526">
               <term key="Quote" xml:id="Bae_TB_3_3527"/>
             </index>
@@ -4932,7 +4932,7 @@
           <date when="1898-03-20" xml:id="Bae_TB_3_3602">20. März</date>. 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3603">Thun</persName> erklärte sich bereit den 
           <index xml:id="Bae_TB_3_3604">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3605">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3605">Ausgleich</term>
             <index xml:id="Bae_TB_3_3606">
               <term key="Ausgleich" xml:id="Bae_TB_3_3607"/>
             </index>
@@ -4955,7 +4955,7 @@
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_3_3620">Budapest</placeName> bewegte sich in Allgemeinheiten, das Wertvollste für die 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_3621">Ungarn</placeName> war ja die Zusage den 
           <index xml:id="Bae_TB_3_3622">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3623">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3623">Ausgleich</term>
             <index xml:id="Bae_TB_3_3624">
               <term key="Ausgleich" xml:id="Bae_TB_3_3625"/>
             </index>
@@ -4976,7 +4976,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_3637"/>in die Sanction zu verlegen, doch wurde die ganze 
           <index xml:id="Bae_TB_3_3638">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3639">Quotenfrage</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3639">Quotenfrage</term>
             <index xml:id="Bae_TB_3_3640">
               <term key="Quote" xml:id="Bae_TB_3_3641"/>
             </index>
@@ -4988,7 +4988,7 @@
             <expan xml:id="Bae_TB_3_3646">unter anderem</expan>
           </choice> auch das Material betreffend, welches der 
           <index xml:id="Bae_TB_3_3647">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3648">Quotendeputation</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3648">Quotendeputation</term>
             <index xml:id="Bae_TB_3_3649">
               <term key="Quote" xml:id="Bae_TB_3_3650"/>
             </index>
@@ -4996,14 +4996,14 @@
           <!-- [Einklebung handschriftliche spätere Ergänzung, vermutlich in Volltext in MF enthalten: Es handelte sich in erster Lienie ... -->
           <pb facs="#F_K-4_Bae_TB_3_114" n="66r" xml:id="Bae_TB_3_3652"/>machte den Versuch den Lieferungsartikel im 
           <index xml:id="Bae_TB_3_3653">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3654">Zoll 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3654">Zoll 
               <choice xml:id="Bae_TB_3_3655">
                 <abbr xml:id="Bae_TB_3_3656">u.</abbr>
                 <expan xml:id="Bae_TB_3_3657">und</expan>
               </choice> Handelsbündniss 
             </term>
             <index xml:id="Bae_TB_3_3658">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_3659"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_3659"/>
             </index>
           </index>, der zuletzt in einer ganz unmöglichen Fassung vereinbart worden war zu redressiren. 
           <persName key="GlanzHugo" ref="https://d-nb.info/gnd/1011357844" xml:id="Bae_TB_3_3660">Glanz</persName> hatte unglaublicherweise in eine Formulirung gewilligt, die besagte dass Personen 
@@ -5069,7 +5069,7 @@
           </choice> mir blieb nichts anderes übrig als die andere mögliche Eventualität zu ergreifen, nämlich den Lieferungspassus ganz wegzulassen, da ich die 
           <persName key="GlanzHugo" ref="https://d-nb.info/gnd/1011357844" xml:id="Bae_TB_3_3706">Glanzische</persName> Formulirung selbstredend nicht annehmen konnte. So hatten wir, speciel ich, die erste Erfahrung in den 
           <index xml:id="Bae_TB_3_3707">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3708">Verhandlungen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3708">Verhandlungen</term>
             <index xml:id="Bae_TB_3_3709">
               <term key="Ausgleichsverhandlungen" xml:id="Bae_TB_3_3710"/>
             </index>
@@ -5098,7 +5098,7 @@
           <pb facs="#F_K-4_Bae_TB_3_118" n="68r" xml:id="Bae_TB_3_3726"/>und wenn nötig umgekehrt darauf, dass niemand anderer als sie die Majorität hinter sich habe. Mir machte es 
           <add place="across" xml:id="Bae_TB_3_3727">den</add> Eindruck Männer vor mir zu haben, die gewohnt waren in den 
           <index xml:id="Bae_TB_3_3728">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3729">Verhandlungen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3729">Verhandlungen</term>
             <index xml:id="Bae_TB_3_3730">
               <term key="Ausgleichsverhandlungen" xml:id="Bae_TB_3_3731"/>
             </index>
@@ -5158,7 +5158,7 @@
           <persName key="BatthyanyLajos" ref="https://d-nb.info/gnd/118850385" xml:id="Bae_TB_3_3774">Batthyány</persName> dieser Gedanken nicht erwehren. Die Haltung des 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_3775">Kaisers</persName> in der 
           <index xml:id="Bae_TB_3_3776">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3777">Ausgleichsfrage</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3777">Ausgleichsfrage</term>
             <index xml:id="Bae_TB_3_3778">
               <term key="Ausgleich" xml:id="Bae_TB_3_3779"/>
             </index>
@@ -5206,13 +5206,13 @@
           <hi rendition="#ul" xml:id="Bae_TB_3_3809">3. Die Maiconferenzen.</hi> Von 
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_3_3810">Budapest</placeName> zurückgekehrt warf ich mich mit aller Macht auf das Studium des 
           <index xml:id="Bae_TB_3_3811">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3812">Ausgleiches</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3812">Ausgleiches</term>
             <index xml:id="Bae_TB_3_3813">
               <term key="Ausgleich" xml:id="Bae_TB_3_3814"/>
             </index>
           </index>, nicht nur der einzelnen Bestimmungen des 
           <index xml:id="Bae_TB_3_3815">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3816">Zoll 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3816">Zoll 
               <choice xml:id="Bae_TB_3_3817">
                 <abbr xml:id="Bae_TB_3_3818">u.</abbr>
                 <expan xml:id="Bae_TB_3_3819">und</expan>
@@ -5223,7 +5223,7 @@
               </choice>Bündnisses 
             </term>
             <index xml:id="Bae_TB_3_3823">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_3824"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_3824"/>
             </index>
           </index> mit allen Adnexen, sondern vor Allem auf die Entstehungsgeschichte, den Hergang bei den Verhandlungen, die markanten Äusserungen der Ungarn, um aus den in der Vergangenheit liegenden Daten Schlüsse für die Zukunft zu gewinnen. 
           <persName key="StibralFranz" ref="https://d-nb.info/gnd/1036573850" xml:id="Bae_TB_3_3825">Stibral</persName> war mir sehr behilflich. Auch 
@@ -5282,7 +5282,7 @@
             <expan xml:id="Bae_TB_3_3866">das heißt</expan>
           </choice> ein förmliches Bündniss kann nur stattfinden, wenn der 
           <index xml:id="Bae_TB_3_3867">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3868">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3868">Ausgleich</term>
             <index xml:id="Bae_TB_3_3869">
               <term key="Ausgleich" xml:id="Bae_TB_3_3870"/>
             </index>
@@ -5292,26 +5292,26 @@
           <note type="editorial" xml:id="Bae_TB_3_5445">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_176" n="71r" xml:id="Bae_TB_3_3872"/>die Anwendung des 
           <index xml:id="Bae_TB_3_3873">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_3874">§14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_3874">§14</term>
             <index xml:id="Bae_TB_3_3875">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_3876"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_3876"/>
             </index>
           </index> auf den 
           <index xml:id="Bae_TB_3_3877">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3878">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3878">Ausgleich</term>
             <index xml:id="Bae_TB_3_3879">
               <term key="Ausgleich" xml:id="Bae_TB_3_3880"/>
             </index>
           </index> als Vereinbarung ist ungarischerseits ausgeschlossen – ein 
           <index xml:id="Bae_TB_3_3881">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3882">Provisorium</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3882">Provisorium</term>
             <index xml:id="Bae_TB_3_3883">
               <term key="Ausgleichsprovisorium" xml:id="Bae_TB_3_3884"/>
             </index>
           </index> in der Weise wie es am 
           <date when="1898-01-01" xml:id="Bae_TB_3_3885">1.1.98</date> verfügt wurde ist ausgeschlossen, nur von einem parlamentarischen Provisorium kann die Rede sein, wenn der 
           <index xml:id="Bae_TB_3_3886">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3887">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3887">Ausgleich</term>
             <index xml:id="Bae_TB_3_3888">
               <term key="Ausgleich" xml:id="Bae_TB_3_3889"/>
             </index>
@@ -5376,7 +5376,7 @@
             </choice>Rathe 
           </orgName> die dringende Wichtigkeit der 
           <index xml:id="Bae_TB_3_3932">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3933">Ausgleichsfrage</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3933">Ausgleichsfrage</term>
             <index xml:id="Bae_TB_3_3934">
               <term key="Ausgleich" xml:id="Bae_TB_3_3935"/>
             </index>
@@ -5399,7 +5399,7 @@
           <date when="1898-05-22" xml:id="Bae_TB_3_3948">22.5.</date>) 
           <del rendition="#s" xml:id="Bae_TB_3_3949">wo</del> um mir Gelegenheit zu geben meinen Vortrag über die 
           <index xml:id="Bae_TB_3_3950">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3951">ungarische Ausgleichsfrage</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3951">ungarische Ausgleichsfrage</term>
             <index xml:id="Bae_TB_3_3952">
               <term key="Ausgleich" xml:id="Bae_TB_3_3953"/>
             </index>
@@ -5444,7 +5444,7 @@
             <expan xml:id="Bae_TB_3_3980">und</expan>
           </choice> drüben bezüglich 
           <index xml:id="Bae_TB_3_3981">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_3982">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_3982">Ausgleich</term>
             <index xml:id="Bae_TB_3_3983">
               <term key="Ausgleich" xml:id="Bae_TB_3_3984"/>
             </index>
@@ -5495,7 +5495,7 @@
           <index xml:id="Bae_TB_3_4016">
             <term key="Reichsrat" xml:id="Bae_TB_3_4017">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_4018">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_3_4019"/>
+              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_3_4019"/>
             </index>
           </index>, suchte aber doch deutlich zu machen, dass wenn von den Ungarn nichts zu erreichen sei, durch eine Aenderung der Politik im Innern die 
           <index xml:id="Bae_TB_3_4020">
@@ -5552,7 +5552,7 @@
           </choice> wir frühstückten bei der 
           <persName key="ThunAnnaMaria" ref="https://d-nb.info/gnd/1168239265" xml:id="Bae_TB_3_4058">Gräfin Thun</persName>. Die Discussion war aber eine so intensive geworden, dass nach dem Frühstück fortgesetzt wurde. Es wurde beschlossen auch die Frage des 
           <index xml:id="Bae_TB_3_4059">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4060">Quotenschlüssels</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4060">Quotenschlüssels</term>
             <index xml:id="Bae_TB_3_4061">
               <term key="Quote" xml:id="Bae_TB_3_4062"/>
             </index>
@@ -5602,9 +5602,9 @@
           </app>
           <anchor xml:id="Bae_TB_3_4096"/>in Aussicht gestellt, alles andere abgelehnt, insbesondere jede Anwendung des 
           <index xml:id="Bae_TB_3_4097">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_4098">§14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_4098">§14</term>
             <index xml:id="Bae_TB_3_4099">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_4100"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_4100"/>
             </index>
           </index> auf den definitiven 
           <choice xml:id="Bae_TB_3_4101">
@@ -5612,7 +5612,7 @@
             <expan xml:id="Bae_TB_3_4103">oder</expan>
           </choice> provisorischen Abschluss des 
           <index xml:id="Bae_TB_3_4104">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4105">Ausgleiches</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4105">Ausgleiches</term>
             <index xml:id="Bae_TB_3_4106">
               <term key="Ausgleich" xml:id="Bae_TB_3_4107"/>
             </index>
@@ -5698,14 +5698,14 @@
           <anchor xml:id="Bae_TB_3_4166"/>. Die Ungarn legen einen Gesetzentwurf vor des Inhalts, dass mit 
           <date when="1899-01-01" xml:id="Bae_TB_3_4167">1.1.1899</date> das 
           <index xml:id="Bae_TB_3_4168">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4169">Zoll 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4169">Zoll 
               <choice xml:id="Bae_TB_3_4170">
                 <abbr xml:id="Bae_TB_3_4171">u.</abbr>
                 <expan xml:id="Bae_TB_3_4172">und</expan>
               </choice> Handelsbündniss 
             </term>
             <index xml:id="Bae_TB_3_4173">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_4174"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_4174"/>
             </index>
           </index> aufhört 
           <choice xml:id="Bae_TB_3_4175">
@@ -5718,7 +5718,7 @@
             <expan xml:id="Bae_TB_3_4181">und</expan>
           </choice> zur Feststellung eines 
           <index xml:id="Bae_TB_3_4182">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4183">Zolltarifes</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4183">Zolltarifes</term>
             <index xml:id="Bae_TB_3_4184">
               <term key="Zolltarif" xml:id="Bae_TB_3_4185"/>
             </index>
@@ -5734,26 +5734,26 @@
           <pb facs="#F_K-4_Bae_TB_3_136" n="78r" xml:id="Bae_TB_3_4191"/>Veränderungen eintreten zu lassen, so wird verordnet, dass bis 
           <date when="1903" xml:id="Bae_TB_3_4192">1903</date> die 
           <index xml:id="Bae_TB_3_4193">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4194">Zoll 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4194">Zoll 
               <choice xml:id="Bae_TB_3_4195">
                 <abbr xml:id="Bae_TB_3_4196">u.</abbr>
                 <expan xml:id="Bae_TB_3_4197">und</expan>
               </choice> Handelsverhältnisse 
             </term>
             <index xml:id="Bae_TB_3_4198">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_4199"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_4199"/>
             </index>
           </index> zu 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_4200">Österreich</placeName> formell als selbständige Gesetze, materiell nach dem Inhalt des bestehenden 
           <index xml:id="Bae_TB_3_4201">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4202">Zoll 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4202">Zoll 
               <choice xml:id="Bae_TB_3_4203">
                 <abbr xml:id="Bae_TB_3_4204">u.</abbr>
                 <expan xml:id="Bae_TB_3_4205">und</expan>
               </choice> Handelsbündnisses 
             </term>
             <index xml:id="Bae_TB_3_4206">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_4207"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_4207"/>
             </index>
           </index>
           <choice xml:id="Bae_TB_3_4208">
@@ -5763,9 +5763,9 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_4211">Österreich</placeName> kann dann, da es sich nicht mehr um den Abschluss eines Bündnisses mit 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_4212">Ungarn</placeName> handelt, sondern ebenfalls nur um selbständige Gesetze, welche nur die Reciprocitätsclausel haben müssen, nötigenfalls auch der 
           <index xml:id="Bae_TB_3_4213">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_4214">§14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_4214">§14</term>
             <index xml:id="Bae_TB_3_4215">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_4216"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_4216"/>
             </index>
           </index> in Anwendung gebracht werden! 
         </p>
@@ -5787,9 +5787,9 @@
           <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_TB_3_4231">Lukacz</persName> () vielfach so gedeutet, als habe sich 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_4232">Ungarn</placeName> bereit erklärt den 
           <index xml:id="Bae_TB_3_4233">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_4234">§14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_4234">§14</term>
             <index xml:id="Bae_TB_3_4235">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_4236"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_4236"/>
             </index>
           </index> zu acceptiren. Diese Schwierigkeit war nun von 
           <choice xml:id="Bae_TB_3_4237">
@@ -5816,13 +5816,13 @@
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_4252">Ungarn</placeName> gleichgültig, ob in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_4253">Österreich</placeName> das entsprechende Gesetz auf parlamentarischem Wege oder auf Grund des 
           <index xml:id="Bae_TB_3_4254">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_4255">§14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_4255">§14</term>
             <index xml:id="Bae_TB_3_4256">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_4257"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_4257"/>
             </index>
           </index> geschaffen wird. Da es sich um keinen Vertrag handelt, kann das Gesetz auf jedem Wege zu Stande kommen, welcher der dortigen Verfassung entspricht." Also selbständige aber parallele durch die Reciprocitätserklärung gegenseitig gesicherte Gesetze, die den Inhalt des bisherigen 
           <index xml:id="Bae_TB_3_4258">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4259">Ausgleiches</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4259">Ausgleiches</term>
             <index xml:id="Bae_TB_3_4260">
               <term key="Ausgleich" xml:id="Bae_TB_3_4261"/>
             </index>
@@ -5969,7 +5969,7 @@
             </choice>
           </orgName> besprach ich auch eingehend das grosse Ereigniss des Tages, nämlich die Publicirung des autonomen 
           <index xml:id="Bae_TB_3_4365">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4366">Zolltarifes</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4366">Zolltarifes</term>
             <index xml:id="Bae_TB_3_4367">
               <term key="Zolltarif" xml:id="Bae_TB_3_4368"/>
             </index>
@@ -6016,7 +6016,7 @@
         <p xml:id="Bae_TB_3_4395">Um dieselbe Zeit fällt der Entschluss 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_4396">Thun's</persName> Verhandlungen wegen der 
           <index xml:id="Bae_TB_3_4397">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_4398">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_4398">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_4399">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_4400"/>
             </index>
@@ -6081,7 +6081,7 @@
           </index> war eine Gedankenlosigkeit, aber concentrirtes Durchdenken einer politischen Situation war nicht die Sache 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_4439">Thun's</persName>. Das hat er bei der Behandlung der 
           <index xml:id="Bae_TB_3_4440">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_4441">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_4441">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_4442">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_4443"/>
             </index>
@@ -6105,7 +6105,7 @@
             <expan xml:id="Bae_TB_3_4457">und</expan>
           </choice> Beruhigung der 
           <index xml:id="Bae_TB_3_4458">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_4459">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_4459">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_4460">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_4461"/>
             </index>
@@ -6191,7 +6191,7 @@
             <expan xml:id="Bae_TB_3_4518">und</expan>
           </choice> den eben misslungenen Versuch einer Verständigung in der 
           <index xml:id="Bae_TB_3_4519">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_4520">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_4520">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_4521">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_4522"/>
             </index>
@@ -6271,7 +6271,7 @@
           <note type="editorial" xml:id="Bae_TB_3_5477">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_150" n="87r" xml:id="Bae_TB_3_4574"/>da sonst der 
           <index xml:id="Bae_TB_3_4575">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4576">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4576">Ausgleich</term>
             <index xml:id="Bae_TB_3_4577">
               <term key="Ausgleich" xml:id="Bae_TB_3_4578"/>
             </index>
@@ -6283,13 +6283,13 @@
             <expan xml:id="Bae_TB_3_4583">und</expan>
           </choice> die 
           <index xml:id="Bae_TB_3_4584">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4585">Quotenverhandlungen</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4585">Quotenverhandlungen</term>
             <index xml:id="Bae_TB_3_4586">
               <term key="Quote" xml:id="Bae_TB_3_4587"/>
             </index>
           </index>, eventuell die Constatirung der Nichtübereinstimmung bezüglich der 
           <index xml:id="Bae_TB_3_4588">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4589">Quote</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4589">Quote</term>
             <index xml:id="Bae_TB_3_4590">
               <term key="Quote" xml:id="Bae_TB_3_4591"/>
             </index>
@@ -6363,7 +6363,7 @@
           </choice> schlug vor die Materie des 
           <add place="across" xml:id="Bae_TB_3_4646">bisherigen</add>
           <index xml:id="Bae_TB_3_4647">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4648">Zoll 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4648">Zoll 
               <choice xml:id="Bae_TB_3_4649">
                 <abbr xml:id="Bae_TB_3_4650">u.</abbr>
                 <expan xml:id="Bae_TB_3_4651">und</expan>
@@ -6374,7 +6374,7 @@
               </choice>Bündnisses 
             </term>
             <index xml:id="Bae_TB_3_4655">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_4656"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_4656"/>
             </index>
           </index>
           <pb facs="#F_K-4_Bae_TB_3_151" n="87v" xml:id="Bae_TB_3_5478"/>
@@ -6487,7 +6487,7 @@
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_4737">Thun</persName> mit dürren Worten aufgefordert. Auf der andern Seite wird aber die Karte ausgespielt, dass 
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_3_4738">Banffy</persName> bereit sei seine 
           <index xml:id="Bae_TB_3_4739">
-            <term key="Demission der Regierung" xml:id="Bae_TB_3_4740">Demission</term>
+            <term key="DemissionRegierung" xml:id="Bae_TB_3_4740">Demission</term>
           </index> zu geben, wenn irgend jemand anderer in 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_4741">Ungarn</placeName> die Sache anders machen könne, nur glaube er nicht dass sich jemand finden werde. Damit war es ihm von Vornherein gelungen die 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_4742">Krone</persName> einzuschüchtern, wie sich sehr bald in 
@@ -6510,9 +6510,9 @@
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_3_4756">Kaizl</persName> debutirte mit einer Denkschrift (), die auf einen sonderbaren Vorschlag hinauslief. 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_4757">Österreich</placeName> solle einseitig auf Grund des 
           <index xml:id="Bae_TB_3_4758">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_4759">§14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_4759">§14</term>
             <index xml:id="Bae_TB_3_4760">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_4761"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_4761"/>
             </index>
           </index> die Ausgleichsgesetze promulgiren, spätestens am 
           <date when="1898-09-05" xml:id="Bae_TB_3_4762">5. 
@@ -6528,7 +6528,7 @@
             </choice> Parlament 
           </orgName> soll dann mit der parlamentarischen Behandlung derselben nachfolgen. Die 
           <index xml:id="Bae_TB_3_4770">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4771">Quote</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4771">Quote</term>
             <index xml:id="Bae_TB_3_4772">
               <term key="Quote" xml:id="Bae_TB_3_4773"/>
             </index>
@@ -6574,7 +6574,7 @@
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_4803">Ungarn</placeName>
           <add place="acros" xml:id="Bae_TB_3_4804">in Manchem</add> vorteilhaftere 
           <index xml:id="Bae_TB_3_4805">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4806">Zoll 
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4806">Zoll 
               <choice xml:id="Bae_TB_3_4807">
                 <abbr xml:id="Bae_TB_3_4808">u.</abbr>
                 <expan xml:id="Bae_TB_3_4809">und</expan>
@@ -6585,7 +6585,7 @@
               </choice>Bündniss 
             </term>
             <index xml:id="Bae_TB_3_4813">
-              <term key="Zoll- und Handelsbündnis" xml:id="Bae_TB_3_4814"/>
+              <term key="Zollbuendnis" xml:id="Bae_TB_3_4814"/>
             </index>
           </index> sonst aber die neuen Vereinbarungen zu Grunde gelegt werden sollen, ich bewies, dass der Termin 1903 nichts anderes bedeute als die Vorbereitung der Trennung 
           <choice xml:id="Bae_TB_3_4815">
@@ -6593,14 +6593,14 @@
             <expan xml:id="Bae_TB_3_4817">und</expan>
           </choice> dass die 
           <index xml:id="Bae_TB_3_4818">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4819">Quote</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4819">Quote</term>
             <index xml:id="Bae_TB_3_4820">
               <term key="Quote" xml:id="Bae_TB_3_4821"/>
             </index>
           </index> in der Luft sein werde, ohne Garantie irgend einer zukünftigen Compensation für die von 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_4822">Österreich</placeName> im neuen 
           <index xml:id="Bae_TB_3_4823">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4824">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4824">Ausgleich</term>
             <index xml:id="Bae_TB_3_4825">
               <term key="Ausgleich" xml:id="Bae_TB_3_4826"/>
             </index>
@@ -6625,7 +6625,7 @@
               </choice>Verordnungen 
             </term>
             <index xml:id="Bae_TB_3_4841">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_4842"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_4842"/>
             </index>
           </index>. Ich formulirte schliesslich mein Votum 
           <app from="#Bae_MF_2_3915" type="equal" xml:id="Bae_TB_3_4843">
@@ -6649,7 +6649,7 @@
             <expan xml:id="Bae_TB_3_4856">und</expan>
           </choice> neuen 
           <index xml:id="Bae_TB_3_4857">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4858">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4858">Ausgleich</term>
             <index xml:id="Bae_TB_3_4859">
               <term key="Ausgleich" xml:id="Bae_TB_3_4860"/>
             </index>
@@ -6659,7 +6659,7 @@
             <expan xml:id="Bae_TB_3_4863">und</expan>
           </choice> lasse trotz der Ueberweisung der 3 Millionen die Höhe der 
           <index xml:id="Bae_TB_3_4864">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4865">Quote</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4865">Quote</term>
             <index xml:id="Bae_TB_3_4866">
               <term key="Quote" xml:id="Bae_TB_3_4867"/>
             </index>
@@ -6667,22 +6667,22 @@
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_3_4868">Finanzministers</persName> sei ein circulus vitiosus. Der 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_3_4869">Finanzminister</persName> wolle den neuen 
           <index xml:id="Bae_TB_3_4870">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4871">Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4871">Ausgleich</term>
             <index xml:id="Bae_TB_3_4872">
               <term key="Ausgleich" xml:id="Bae_TB_3_4873"/>
             </index>
           </index> im Ganzen auf 10 Jahre durch beiderseitige selbständige Gesetze, beziehungsweise Anordnungen, wenn auch nicht als Bündniss oder Vertrag, so doch faktisch herstellen. Er will ferner nach vorläufiger Vereinbarung mit 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_4874">Ungarn</placeName> einseitig nach der Publicirung des 
           <index xml:id="Bae_TB_3_4875">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4876">Ausgleiches</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4876">Ausgleiches</term>
             <index xml:id="Bae_TB_3_4877">
               <term key="Ausgleich" xml:id="Bae_TB_3_4878"/>
             </index>
           </index> mittelst 
           <index xml:id="Bae_TB_3_4879">
-            <term key="Kaiserliches Notverordnungsrecht" xml:id="Bae_TB_3_4880">§ 14</term>
+            <term key="KaiserlichesNotverordnungsrecht" xml:id="Bae_TB_3_4880">§ 14</term>
             <index xml:id="Bae_TB_3_4881">
-              <term key="Paragraph 14 des Gesetzes vom 21. Dezember 1867" xml:id="Bae_TB_3_4882"/>
+              <term key="Paragraph14" xml:id="Bae_TB_3_4882"/>
             </index>
           </index> vorgehen, noch bevor das 
           <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_3_4883">
@@ -6711,7 +6711,7 @@
           <note type="editorial" xml:id="Bae_TB_3_5489">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_162" n="93r" xml:id="Bae_TB_3_4900"/>nicht möglich. Die parallele, selbständige Regelung des 
           <index xml:id="Bae_TB_3_4901">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4902">Ausgleichs</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4902">Ausgleichs</term>
             <index xml:id="Bae_TB_3_4903">
               <term key="Ausgleich" xml:id="Bae_TB_3_4904"/>
             </index>
@@ -6743,7 +6743,7 @@
           <index xml:id="Bae_TB_3_4925">
             <term key="Reichsrat" xml:id="Bae_TB_3_4926">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_4927">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_3_4928"/>
+              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_3_4928"/>
             </index>
           </index> sind unsere Zustände derartige geworden, dass 
           <pb facs="#F_K-4_Bae_TB_3_163" n="93v" xml:id="Bae_TB_3_5490"/>
@@ -6758,7 +6758,7 @@
           <index xml:id="Bae_TB_3_4935">
             <term key="Reichsrat" xml:id="Bae_TB_3_4936">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_3_4937">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_4938"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_4938"/>
             </index>
           </index> kann heute noch dazu führen, wenn auch nicht geläugnet werden soll, dass diese Aufhebung vor einem Jahre bei den Deutschen eine viel günstigere, grössere Wirkung, bei den Čechen eine kleinere, weniger aufregendere gehabt hätte. Aber wenn dieser Schritt nicht unternommen wird, wird die Situation in einem Jahre noch ärger sein. Inzwischen leiden wir an einer allgemeinen Stagnation unserer wirtschaftlichen Verhältnisse, die nur behoben werden kann, wenn die Regierung des innern Conflictes entledigt, ihre Aufgaben aufnehmen könnte." 
         </p>
@@ -6774,7 +6774,7 @@
             <expan xml:id="Bae_TB_3_4947">ungarische</expan>
           </choice>
           <index xml:id="Bae_TB_3_4948">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_4949">Ausgleichssache</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_4949">Ausgleichssache</term>
             <index xml:id="Bae_TB_3_4950">
               <term key="Ausgleich" xml:id="Bae_TB_3_4951"/>
             </index>
@@ -6964,7 +6964,7 @@
         <p xml:id="Bae_TB_3_5091">Tags darauf, am 
           <date when="1898-08-15" xml:id="Bae_TB_3_5092">15. August</date> Mittags kam ich an die Reihe der 
           <index xml:id="Bae_TB_3_5093">
-            <term key="Kaiser Franz Joseph" xml:id="Bae_TB_3_5094">Audienzen</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_TB_3_5094">Audienzen</term>
             <index xml:id="Bae_TB_3_5095">
               <term key="Audienzen" xml:id="Bae_TB_3_5096"/>
             </index>
@@ -7032,7 +7032,7 @@
               </choice>Verordnungen 
             </term>
             <index xml:id="Bae_TB_3_5145">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_5146"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_5146"/>
             </index>
           </index> herbeigeführt werden könne, diesmal versuchte ich es jedoch dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_5147">Kaiser</persName> zu zeigen, durch welche Umstände 
@@ -7041,9 +7041,9 @@
             <expan xml:id="Bae_TB_3_5150">und</expan>
           </choice> Regierungsfehler die Deutschen in die jetzige verzweifelte Stimmung versetzt worden seien. Ich ging bis zu dem vereitelten 
           <index xml:id="Bae_TB_3_5151">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_5152">Ausgleich</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_5152">Ausgleich</term>
             <index xml:id="Bae_TB_3_5153">
-              <term key="Ausgleich (deutsch-tschechisch)" xml:id="Bae_TB_3_5154"/>
+              <term key="Ausgleich" xml:id="Bae_TB_3_5154"/>
             </index>
           </index> des Jahres 
           <date when="1890" xml:id="Bae_TB_3_5155">1890</date> zurück, schilderte die Enttäuschung, die sich seit dieser Zeit der Deutschböhmen bemächtigt; ich erzählte, wie ich selbst im 
@@ -7056,7 +7056,7 @@
           </date> gehört habe wie 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_3_5161">Badeni</persName> die Regelung der 
           <index xml:id="Bae_TB_3_5162">
-            <term key="Nationalitätenkonflikt" xml:id="Bae_TB_3_5163">Sprachenfrage</term>
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_3_5163">Sprachenfrage</term>
             <index xml:id="Bae_TB_3_5164">
               <term key="Sprachenfrage" xml:id="Bae_TB_3_5165"/>
             </index>
@@ -7088,7 +7088,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_5184">
-              <term key="Sprachenverordnungen Badeni" xml:id="Bae_TB_3_5185"/>
+              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_3_5185"/>
             </index>
           </index> nicht nur ohne Zustimmung der Deutschen, sondern gegen ihre Remonstrationen erlassen habe. Ich schilderte wie auf diese Weise die Radicalen immer mehr Oberwasser bekommen haben 
           <choice xml:id="Bae_TB_3_5186">
@@ -7107,7 +7107,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_5197">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_5198"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_5198"/>
             </index>
           </index>, die je später sie erfolgen würde, desto geringern Eindruck einerseits desto grössern Widerspruch andrerseits hervorrufen würde. Hie 
           <choice xml:id="Bae_TB_3_5199">
@@ -7123,7 +7123,7 @@
               </choice>
             </term>
             <index xml:id="Bae_TB_3_5208">
-              <term key="Sprachenverordnungen Gautsch" xml:id="Bae_TB_3_5209"/>
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_5209"/>
             </index>
           </index> die 
           <index xml:id="Bae_TB_3_5210">
@@ -7144,7 +7144,7 @@
         </p>
         <p xml:id="Bae_TB_3_5221">Als ich nach einer mehr als halbstündigen 
           <index xml:id="Bae_TB_3_5222">
-            <term key="Kaiser Franz Joseph" xml:id="Bae_TB_3_5223">Audienz</term>
+            <term key="KaiserFranzJoseph" xml:id="Bae_TB_3_5223">Audienz</term>
             <index xml:id="Bae_TB_3_5224">
               <term key="Audienzen" xml:id="Bae_TB_3_5225"/>
             </index>
@@ -7180,7 +7180,7 @@
             <expan xml:id="Bae_TB_3_5248">das heißt</expan>
           </choice> auf unserem Verlangen den status quo zur Grundlage einer provisorischen Verlängerung des 
           <index xml:id="Bae_TB_3_5249">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_5250">Ausgleiches</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_5250">Ausgleiches</term>
             <index xml:id="Bae_TB_3_5251">
               <term key="Ausgleich" xml:id="Bae_TB_3_5252"/>
             </index>
@@ -7190,7 +7190,7 @@
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_3_5255">Kaizl</persName> sprach schon davon, man könne ja vielleicht die 
           <hi rendition="#ul" xml:id="Bae_TB_3_5256">neuen</hi> Abmachungen zum Inhalt eines 
           <index xml:id="Bae_TB_3_5257">
-            <term key="Österreich-Ungarn" xml:id="Bae_TB_3_5258">Provisoriums</term>
+            <term key="OesterreichUngarn" xml:id="Bae_TB_3_5258">Provisoriums</term>
             <index xml:id="Bae_TB_3_5259">
               <term key="Ausgleichsprovisorium" xml:id="Bae_TB_3_5260"/>
             </index>
