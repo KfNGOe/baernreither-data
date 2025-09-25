@@ -79,22 +79,9 @@
   <text xml:id="Bae_TB_3_50">
     <body xml:id="Bae_TB_3_51">
       <div n="1898-09" type="diaryEntry" xml:id="Bae_TB_3_52">
-        <!-- DC Einklebung Zeitungsartikel siehe unten -->
-        <pb facs="#F_K-4_Bae_TB_3_004" n="1ar" xml:id="Bae_TB_3_54"/>
-        <p xml:id="Bae_TB_3_55">
-          <anchor xml:id="Bae_TB_3_56"/>Ich habe noch über zwei 
-          <index xml:id="Bae_TB_3_57">
-            <term key="Baernreither" xml:id="Bae_TB_3_58">Informationsreisen</term>
-            <index xml:id="Bae_TB_3_59">
-              <term key="Informationsreisen" xml:id="Bae_TB_3_60"/>
-            </index>
-          </index> zu berichten. 
-        </p>
-        <!-- DC Einklebung Zeitungsartikel fol. 1v, 2v, 3v) -->
-        <addSpan spanTo="#Bae_TB_3_5314" type="insertion" xml:id="Bae_TB_3_61"/>
-        <p xml:id="Bae_TB_3_62">
-          <pb facs="#F_K-4_Bae_TB_3_003" n="1v" xml:id="Bae_TB_3_63"/>[handschriftlich:] " 
-          <orgName key="BotevonderYbbs" xml:id="Bae_TB_3_64">Bote von der Ybbs</orgName>", 
+        <pb facs="#F_K-4_Bae_TB_3_003" n="1v" xml:id="Bae_TB_3_63"/>
+        <addSpan spanTo="#xxx1v" type="insertion" xml:id="Bae_TB_3_61"/>
+        <p xml:id="Bae_TB_3_62">[handschriftlich:] "<orgName key="BotevonderYbbs" xml:id="Bae_TB_3_64">Bote von der Ybbs</orgName>", 
           <date when="1898-09-10" xml:id="Bae_TB_3_65">Samstag 10. 
             <choice xml:id="Bae_TB_3_66">
               <abbr xml:id="Bae_TB_3_67">Septbr.</abbr>
@@ -158,8 +145,7 @@
           <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_3_111">Waidhofner</placeName>
           <index xml:id="Bae_TB_3_112">
             <term key="Industrie" xml:id="Bae_TB_3_113">Kleineisenindustrie</term>
-          </index>, die türkischen Rasiermesser, wovon jährlich ca. eine halbe Million Stück zu unglaublich billigen Preisen ( 
-          <choice xml:id="Bae_TB_3_114">
+          </index>, die türkischen Rasiermesser, wovon jährlich ca. eine halbe Million Stück zu unglaublich billigen Preisen (<choice xml:id="Bae_TB_3_114">
             <abbr xml:id="Bae_TB_3_115">pr.</abbr>
             <expan xml:id="Bae_TB_3_116">pro</expan>
           </choice> Dutzend 60 Kreuzer) nach dem Orient exportirt werden. 
@@ -192,8 +178,80 @@
           <persName key="BammerJohann" xml:id="Bae_TB_3_136">Johann Bammer</persName> besichtigt, die ein Bild rationellsten Arbeitsverfahrens und großer Geschicklichkeit der durchaus gelernten 
           <index xml:id="Bae_TB_3_137">
             <term key="Arbeiter" xml:id="Bae_TB_3_138">Arbeiterschaft</term>
-          </index> bot. Die Fabrik erzeugt per Tag durchschnittlich 1000 Stück Sensen in feinster Ausführung und aus den besten steirischen Stahlsorten, die fast ausschließlich 
-          <pb facs="#F_K-4_Bae_TB_3_005" n="1av" xml:id="Bae_TB_3_139"/>nach 
+          </index> bot. Die Fabrik erzeugt per Tag durchschnittlich 1000 Stück Sensen in feinster Ausführung und aus den besten steirischen Stahlsorten, die fast ausschließlich</p>
+        <anchor/><!-- anchor für addspan xxx1v -->
+          <pb facs="#F_K-4_Bae_TB_3_004" n="1ar" xml:id="Bae_TB_3_54"/>
+          <p xml:id="Bae_TB_3_55">
+            <anchor xml:id="Bae_TB_3_56"/>Ich habe noch über zwei 
+            <index xml:id="Bae_TB_3_57">
+              <term key="Baernreither" xml:id="Bae_TB_3_58">Informationsreisen</term>
+              <index xml:id="Bae_TB_3_59">
+                <term key="Informationsreisen" xml:id="Bae_TB_3_60"/>
+              </index>
+            </index> zu berichten.  
+          <!-- DC Einklebung Zeitungsartikel fol. 1v, 2v, 3v) -->
+          <anchor/><app from="xxx1v"><rdg>[...]</rdg></app>
+          <anchor/><app from="xxx1v"><rdg>[...]</rdg></app>
+          <anchor/><app from="xxx1v"><rdg>[...]</rdg></app>
+          <anchor xml:id="Bae_TB_3_247"/>Am 
+          <date when="1898-09-02" xml:id="Bae_TB_3_248">2. 
+            <choice xml:id="Bae_TB_3_249">
+              <abbr xml:id="Bae_TB_3_250">Septbr.</abbr>
+              <expan xml:id="Bae_TB_3_251">September</expan>
+            </choice>
+          </date> fuhr ich mit 
+          <persName key="StibralFranz" ref="https://d-nb.info/gnd/1036573850" xml:id="Bae_TB_3_252">Stibral</persName> an einem herrlichen Morgen nach 
+          <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_3_253">Waidhofen an der Ybbs</placeName>. 
+          <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_3_254">Marchet</persName> hatte dort alles vorbereitet, so dass ein großes Programm leicht abgewickelt werden konnte. Allerdings haben wir keine Zeit verloren, den Arbeitstag nur durch ein kleines Frühstück im Wirtshaus unterbrochen 
+          <choice xml:id="Bae_TB_3_255">
+            <abbr xml:id="Bae_TB_3_256">u.</abbr>
+            <expan xml:id="Bae_TB_3_257">und</expan>
+          </choice> uns erst abends bei 
+          <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_3_258">Marchet</persName> gründlich 
+          <choice xml:id="Bae_TB_3_259">
+            <abbr xml:id="Bae_TB_3_260">u.</abbr>
+            <expan xml:id="Bae_TB_3_261">und</expan>
+          </choice> gemütlich erholt. 
+          <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_3_262">Waidhofen</placeName> eine ganze Stufenleiter von 
+          <index xml:id="Bae_TB_3_263">
+            <term key="Industrie" xml:id="Bae_TB_3_264">Industrien</term>
+          </index>, alle der Bearbeitung des Eisens gewidmet zu Sensen, Sicheln, Schrauben, Draht, Nieten 
+          <choice xml:id="Bae_TB_3_265">
+            <abbr xml:id="Bae_TB_3_266">u.s.w.</abbr>
+            <expan xml:id="Bae_TB_3_267">und so weiter</expan>
+          </choice>. 
+          <index xml:id="Bae_TB_3_268">
+            <term key="Industrie" xml:id="Bae_TB_3_269">Kleinindustrie</term>
+          </index> ist es 
+          <app from="#Bae_MF_2_1299" type="equal" xml:id="Bae_TB_3_270">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_271">Am 2. September fuhr ich mit Stibral an einem herrlichen Morgen nach Waidhofen an der Ybbs. Marchet hatte dort alles vorbereitet, so daß ein großes Programm leicht abgewickelt werden konnte. Allerdings haben wir keine Zeit verloren, den Arbeitstag nur durch ein kleines Frühstück im Wirtshaus unterbrochen und uns erst abends bei Marchet gründlich und gemütlich erholt. Waidhofen eine ganze Stufenleiter von Industrien, alle der Bearbeitung des Eisens gewidmet zu Sensen, Sicheln, Schrauben, Draht, Nieten u.s.w. Kleinindustrie ist es,</rdg>
+          </app>
+          <anchor xml:id="Bae_TB_3_272"/>nur weil 
+          <app from="#Bae_MF_2_1319" type="missing" xml:id="Bae_TB_3_273">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_274"/>
+          </app>
+          <anchor xml:id="Bae_TB_3_275"/>zersplittert in eine Menge von kleinen Etablissements, nicht notwendig wegen des Erzeugnisses, das bei 
+          <persName key="BoehlerAlbert" xml:id="Bae_TB_3_276">Böhler</persName> im großen Styl 
+          <del rendition="#s" xml:id="Bae_TB_3_277">erzeugt</del>
+          <add place="across" xml:id="Bae_TB_3_278">hergestellt</add> wird. Wir waren in einer Werkstätte, wo ein Meister mit 2 Buben aus dem Eisen, das er sich vom Eisenhändler im Orte kauft 
+          <choice xml:id="Bae_TB_3_279">
+            <abbr xml:id="Bae_TB_3_280">o.</abbr>
+            <expan xml:id="Bae_TB_3_281">oder</expan>
+          </choice> borgt Sensen schlägt, alles mit der Hand, mühsam, zeitraubend, ohne Arbeitsteilung wie vor hundert 
+          <choice xml:id="Bae_TB_3_282">
+            <abbr xml:id="Bae_TB_3_283">u.</abbr>
+            <expan xml:id="Bae_TB_3_284">und</expan>
+          </choice> aber hundert Jahren. Höher stehen schon die Hammerwerke, die mit Wasser getrieben mehrere 
+          <index xml:id="Bae_TB_3_285">
+            <term key="Arbeiter" xml:id="Bae_TB_3_286">Arbeiter</term>
+          </index> beschäftigen, eine gewisse Arbeitsteilung aufweisen, ihre Sensen in Fässern verpackt nach 
+          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_3_287">Russland</placeName> senden, bemüht sind ihre Kunden zu erhalten 
+          <choice xml:id="Bae_TB_3_288">
+            <abbr xml:id="Bae_TB_3_289">u.</abbr>
+            <expan xml:id="Bae_TB_3_290">und</expan>
+          </choice> zu befriedigen; sie sind sich ihrer schwierigen Lage bewusst,</p>        
+          <pb facs="#F_K-4_Bae_TB_3_005" n="1av" xml:id="Bae_TB_3_139"/>
+        <addSpan spanTo="xxx1av"/><p>nach 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_3_140">Rußland</placeName> exportiert werden. 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_141">
             <choice xml:id="Bae_TB_3_142">
@@ -322,90 +380,7 @@
               <abbr xml:id="Bae_TB_3_230">Se.</abbr>
               <expan xml:id="Bae_TB_3_231">Seine</expan>
             </choice> Excellenz 
-          </persName> besonders zu hören, daß an Stelle der zahlreichen Werks- und Wohngebäude, die eine ganze Ortschaft 
-          <pb facs="#F_K-4_Bae_TB_3_007" n="2v" xml:id="Bae_TB_3_232"/>repräsentieren, sich vor 10 Jahren nur grüne Wiesen und Felder befanden. 
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_233">
-            <choice xml:id="Bae_TB_3_234">
-              <abbr xml:id="Bae_TB_3_235">Se.</abbr>
-              <expan xml:id="Bae_TB_3_236">Seine</expan>
-            </choice> Excellenz 
-          </persName> drückte auch 
-          <persName key="BoehlerAlbert" ref="https://d-nb.info/gnd/143619993" xml:id="Bae_TB_3_237">Herrn Böhler</persName> über den Unternehmungsgeist der Firma die vollste Anerkennung aus. 
-        </p>
-        <p xml:id="Bae_TB_3_238">Die Besichtigung dieser Fabrik bildete den Schluß des reichen Programmes der Excursion, während welcher 
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_239">Se. Excellenz</persName> eine staunenswerte Agilität, ein unermüdetes Interesse und rasche und richtige Auffassung für alles sich darbietende bekundete. 
-        </p>
-        <p xml:id="Bae_TB_3_240">
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_241">Se. Excellenz</persName> sprach zum Schlusse an den Leiter der Excursion, 
-          <persName key="ZeitlingerMichael" xml:id="Bae_TB_3_242">Industrierath Michael Zeitlinger</persName>, seine Befriedigung und die Anerkennung für das Gesehene aus und trat noch in der Nacht die Rückreise nach 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_243">Wien</placeName> an. 
-          <app from="#Bae_MF_2_1295" type="missing" xml:id="Bae_TB_3_244">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_245"/>
-          </app>
-        </p>
-        <anchor xml:id="Bae_TB_3_5314"/>
-        <!-- CA: anchor für addspan Bae_TB_3_61 -->
-        <!-- DC Ende der Einklebung -->
-        <!-- DC Fortsetzung fol. 1a -->
-        <p xml:id="Bae_TB_3_246">
-          <anchor xml:id="Bae_TB_3_247"/>Am 
-          <date when="1898-09-02" xml:id="Bae_TB_3_248">2. 
-            <choice xml:id="Bae_TB_3_249">
-              <abbr xml:id="Bae_TB_3_250">Septbr.</abbr>
-              <expan xml:id="Bae_TB_3_251">September</expan>
-            </choice>
-          </date> fuhr ich mit 
-          <persName key="StibralFranz" ref="https://d-nb.info/gnd/1036573850" xml:id="Bae_TB_3_252">Stibral</persName> an einem herrlichen Morgen nach 
-          <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_3_253">Waidhofen an der Ybbs</placeName>. 
-          <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_3_254">Marchet</persName> hatte dort alles vorbereitet, so dass ein großes Programm leicht abgewickelt werden konnte. Allerdings haben wir keine Zeit verloren, den Arbeitstag nur durch ein kleines Frühstück im Wirtshaus unterbrochen 
-          <choice xml:id="Bae_TB_3_255">
-            <abbr xml:id="Bae_TB_3_256">u.</abbr>
-            <expan xml:id="Bae_TB_3_257">und</expan>
-          </choice> uns erst abends bei 
-          <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_3_258">Marchet</persName> gründlich 
-          <choice xml:id="Bae_TB_3_259">
-            <abbr xml:id="Bae_TB_3_260">u.</abbr>
-            <expan xml:id="Bae_TB_3_261">und</expan>
-          </choice> gemütlich erholt. 
-          <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_3_262">Waidhofen</placeName> eine ganze Stufenleiter von 
-          <index xml:id="Bae_TB_3_263">
-            <term key="Industrie" xml:id="Bae_TB_3_264">Industrien</term>
-          </index>, alle der Bearbeitung des Eisens gewidmet zu Sensen, Sicheln, Schrauben, Draht, Nieten 
-          <choice xml:id="Bae_TB_3_265">
-            <abbr xml:id="Bae_TB_3_266">u.s.w.</abbr>
-            <expan xml:id="Bae_TB_3_267">und so weiter</expan>
-          </choice>. 
-          <index xml:id="Bae_TB_3_268">
-            <term key="Industrie" xml:id="Bae_TB_3_269">Kleinindustrie</term>
-          </index> ist es 
-          <app from="#Bae_MF_2_1299" type="equal" xml:id="Bae_TB_3_270">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_271">Am 2. September fuhr ich mit Stibral an einem herrlichen Morgen nach Waidhofen an der Ybbs. Marchet hatte dort alles vorbereitet, so daß ein großes Programm leicht abgewickelt werden konnte. Allerdings haben wir keine Zeit verloren, den Arbeitstag nur durch ein kleines Frühstück im Wirtshaus unterbrochen und uns erst abends bei Marchet gründlich und gemütlich erholt. Waidhofen eine ganze Stufenleiter von Industrien, alle der Bearbeitung des Eisens gewidmet zu Sensen, Sicheln, Schrauben, Draht, Nieten u.s.w. Kleinindustrie ist es,</rdg>
-          </app>
-          <anchor xml:id="Bae_TB_3_272"/>nur weil 
-          <app from="#Bae_MF_2_1319" type="missing" xml:id="Bae_TB_3_273">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_274"/>
-          </app>
-          <anchor xml:id="Bae_TB_3_275"/>zersplittert in eine Menge von kleinen Etablissements, nicht notwendig wegen des Erzeugnisses, das bei 
-          <persName key="BoehlerAlbert" xml:id="Bae_TB_3_276">Böhler</persName> im großen Styl 
-          <del rendition="#s" xml:id="Bae_TB_3_277">erzeugt</del>
-          <add place="across" xml:id="Bae_TB_3_278">hergestellt</add> wird. Wir waren in einer Werkstätte, wo ein Meister mit 2 Buben aus dem Eisen, das er sich vom Eisenhändler im Orte kauft 
-          <choice xml:id="Bae_TB_3_279">
-            <abbr xml:id="Bae_TB_3_280">o.</abbr>
-            <expan xml:id="Bae_TB_3_281">oder</expan>
-          </choice> borgt Sensen schlägt, alles mit der Hand, mühsam, zeitraubend, ohne Arbeitsteilung wie vor hundert 
-          <choice xml:id="Bae_TB_3_282">
-            <abbr xml:id="Bae_TB_3_283">u.</abbr>
-            <expan xml:id="Bae_TB_3_284">und</expan>
-          </choice> aber hundert Jahren. Höher stehen schon die Hammerwerke, die mit Wasser getrieben mehrere 
-          <index xml:id="Bae_TB_3_285">
-            <term key="Arbeiter" xml:id="Bae_TB_3_286">Arbeiter</term>
-          </index> beschäftigen, eine gewisse Arbeitsteilung aufweisen, ihre Sensen in Fässern verpackt nach 
-          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_3_287">Russland</placeName> senden, bemüht sind ihre Kunden zu erhalten 
-          <choice xml:id="Bae_TB_3_288">
-            <abbr xml:id="Bae_TB_3_289">u.</abbr>
-            <expan xml:id="Bae_TB_3_290">und</expan>
-          </choice> zu befriedigen; sie sind sich ihrer schwierigen Lage bewusst, 
-          <!-- Fortsetzung Zeitungsartikel siehe oben-->
+          </persName> besonders zu hören, daß an Stelle der zahlreichen Werks- und Wohngebäude, die eine ganze Ortschaft<anchor/><!-- anchor für addspan xxx1av --> 
           <pb facs="#F_K-4_Bae_TB_3_006" n="2r" xml:id="Bae_TB_3_292"/>suchen sich auf alle mögliche Weise zu helfen, schreiten aber doch technisch gar nicht oder nur langsam fort. Für diese Kategorie von Betrieben besteht eine sehr gute Gewerbeschule in 
           <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_3_293">
             <choice xml:id="Bae_TB_3_294">
@@ -459,9 +434,30 @@
           </choice> stand sehr unter der Impression, welche ihm die dortige 
           <index xml:id="Bae_TB_3_331">
             <term key="Industrie" xml:id="Bae_TB_3_332">Kleinindustrie</term>
-          </index> gemacht, von der er eine Sammlung 
-          <!-- Fortsetzung Einklebung Zeitungsartikel siehe oben-->
-          <pb facs="#F_K-4_Bae_TB_3_008" n="3r" xml:id="Bae_TB_3_334"/>reizender Muster mitgebracht hatte. In den Kreisen dieser höher strebenden Männer herrscht soweit man aus ihren einfachen, aber behaglichen, etwas altväterlichen Wohnhäusern 
+          </index> gemacht, von der er eine Sammlung </p>
+          <pb facs="#F_K-4_Bae_TB_3_007" n="2v" xml:id="Bae_TB_3_232"/><addSpan spanTo="#Bae_TB_3_5314"/><p>repräsentieren, sich vor 10 Jahren nur grüne Wiesen und Felder befanden. 
+          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_233">
+            <choice xml:id="Bae_TB_3_234">
+              <abbr xml:id="Bae_TB_3_235">Se.</abbr>
+              <expan xml:id="Bae_TB_3_236">Seine</expan>
+            </choice> Excellenz 
+          </persName> drückte auch 
+          <persName key="BoehlerAlbert" ref="https://d-nb.info/gnd/143619993" xml:id="Bae_TB_3_237">Herrn Böhler</persName> über den Unternehmungsgeist der Firma die vollste Anerkennung aus. 
+        </p>
+        <p xml:id="Bae_TB_3_238">Die Besichtigung dieser Fabrik bildete den Schluß des reichen Programmes der Excursion, während welcher 
+          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_239">Se. Excellenz</persName> eine staunenswerte Agilität, ein unermüdetes Interesse und rasche und richtige Auffassung für alles sich darbietende bekundete. 
+        </p>
+        <p xml:id="Bae_TB_3_240">
+          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_241">Se. Excellenz</persName> sprach zum Schlusse an den Leiter der Excursion, 
+          <persName key="ZeitlingerMichael" xml:id="Bae_TB_3_242">Industrierath Michael Zeitlinger</persName>, seine Befriedigung und die Anerkennung für das Gesehene aus und trat noch in der Nacht die Rückreise nach 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_243">Wien</placeName> an. 
+          <app from="#Bae_MF_2_1295" type="missing" xml:id="Bae_TB_3_244">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_245"/>
+          </app>
+        </p>
+        <anchor xml:id="Bae_TB_3_5314"/>
+        <!-- CA: anchor für addspan 2v -->
+        <pb facs="#F_K-4_Bae_TB_3_008" n="3r" xml:id="Bae_TB_3_334"/><p>reizender Muster mitgebracht hatte. In den Kreisen dieser höher strebenden Männer herrscht soweit man aus ihren einfachen, aber behaglichen, etwas altväterlichen Wohnhäusern 
           <choice xml:id="Bae_TB_3_335">
             <abbr xml:id="Bae_TB_3_336">u.</abbr>
             <expan xml:id="Bae_TB_3_337">und</expan>
@@ -775,7 +771,7 @@
             <abbr xml:id="Bae_TB_3_562">u.</abbr>
             <expan xml:id="Bae_TB_3_563">und</expan>
           </choice> in der Nacht kamen allerdings von 
-          <pb facs="#F_K-4_Bae_TB_3_017" n="v" xml:id="Bae_TB_3_5336"/>
+          <pb facs="#F_K-4_Bae_TB_3_017" n="7v" xml:id="Bae_TB_3_5336"/>
           <note type="editorial" xml:id="Bae_TB_3_5337">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_018" n="8r" xml:id="Bae_TB_3_564"/>allen Seiten große Dampfer, die den bequemen Anlegeraum fast ganz besetzten. Ein grosses Lloydschiff 
           <choice xml:id="Bae_TB_3_565">
@@ -1850,77 +1846,12 @@
           <choice xml:id="Bae_TB_3_1365">
             <abbr xml:id="Bae_TB_3_1366">u.</abbr>
             <expan xml:id="Bae_TB_3_1367">und</expan>
-          </choice> Weise der Deutschen zuwider ist haben 
-          <!-- Einklebung Zeitungsausschnitt fol. 25v, 26v siehe unten -->
-          <pb facs="#F_K-4_Bae_TB_3_050" n="26r" xml:id="Bae_TB_3_1369"/>ihn vollständig lahm 
-          <choice xml:id="Bae_TB_3_1370">
-            <abbr xml:id="Bae_TB_3_1371">u.</abbr>
-            <expan xml:id="Bae_TB_3_1372">und</expan>
-          </choice> unfähig gemacht seine akademischen Intentionen durch Thaten 
-          <!-- CA: hier den Text kontrollieren, fehlt hier ein Teil, dann entsprechend auch im MF_2 korrigieren für den Textvergleich -->Čechen wie gegen die Deutschen - wenn nötig - hätte auftreten müssen. Dazu war er nicht zu bewegen 
-          <choice xml:id="Bae_TB_3_1373">
-            <abbr xml:id="Bae_TB_3_1374">u.</abbr>
-            <expan xml:id="Bae_TB_3_1375">und</expan>
-          </choice> wenn er noch am Anfang der Parlamentscampagne im 
-          <date when="1898-03" xml:id="Bae_TB_3_1376">März</date>
-          <choice xml:id="Bae_TB_3_1377">
-            <abbr xml:id="Bae_TB_3_1378">u.</abbr>
-            <expan xml:id="Bae_TB_3_1379">und</expan>
-          </choice>
-          <date when="1898-04" xml:id="Bae_TB_3_1380">April</date> hie 
-          <choice xml:id="Bae_TB_3_1381">
-            <abbr xml:id="Bae_TB_3_1382">u.</abbr>
-            <expan xml:id="Bae_TB_3_1383">und</expan>
-          </choice> da parlamentarisch etwas für die Deutschen durchsetzte, wie 
-          <choice xml:id="Bae_TB_3_1384">
-            <abbr xml:id="Bae_TB_3_1385">z.B.</abbr>
-            <expan xml:id="Bae_TB_3_1386">zum Beispiel</expan>
-          </choice> den Ausschluss von 
-          <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_3_1387">Kramarz</persName> vom Präsidium 
-          <choice xml:id="Bae_TB_3_1388">
-            <abbr xml:id="Bae_TB_3_1389">u.</abbr>
-            <expan xml:id="Bae_TB_3_1390">und</expan>
-          </choice> von der Obmannschaft des 
-          <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_TB_3_1391">Budgetausschusses</orgName>, so kamen solche Fälle später nicht mehr vor, sondern er verlegte seinen ganzen innern Schwerpunkt in das Lager der Čechen 
-          <choice xml:id="Bae_TB_3_1392">
-            <abbr xml:id="Bae_TB_3_1393">u.</abbr>
-            <expan xml:id="Bae_TB_3_1394">und</expan>
-          </choice> Feudalen. Seit der Vertagung des 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_1395">
-            <choice xml:id="Bae_TB_3_1396">
-              <abbr xml:id="Bae_TB_3_1397">R.R.</abbr>
-              <expan xml:id="Bae_TB_3_1398">Reichsrates</expan>
-            </choice>
-          </orgName> mehrten sich auch in den 
-          <index xml:id="Bae_TB_3_1399">
-            <term key="Presse" xml:id="Bae_TB_3_1400">čechischen Zeitungen</term>
-          </index> die zuversichtlichen Äusserungen bezüglich der Nichtaufhebung der 
-          <index xml:id="Bae_TB_3_1401">
-            <term key="Reichsrat" xml:id="Bae_TB_3_1402">Sprachenverordnungen</term>
-            <index xml:id="Bae_TB_3_1403">
-              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_1404"/>
-            </index>
-          </index>. Freilich mehrten sich auf der andern Seite die Zweifel in die Fähigkeiten 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_1405">Thun's</persName> aus dem Labyrinth einen Ausweg zu finden. Am 
-          <date when="1898-06-16" xml:id="Bae_TB_3_1406">16. Juni</date> fand unter dem Vorsitz 
-          <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_3_1407">Oswald Thun's</persName> eine 
-          <index xml:id="Bae_TB_3_1408">
-            <term key="Parteien" xml:id="Bae_TB_3_1409">Obmännerconferenz</term>
-            <index xml:id="Bae_TB_3_1410">
-              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_1411"/>
-            </index>
-          </index> des 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1412">Grossgrundbesitzes</orgName> statt, die eine (grösstenteils von mir selbst verfasste) Kundgebung erlies, in welche aber schon durch Anregungen von verschiedenen Seiten deutliche Anzeichen des schwindenden Vertrauens Aufnahme fanden. 
-          <app from="#Bae_MF_2_1991" type="equal" xml:id="Bae_TB_3_1413">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1414">Art und Weise der Deutschen zuwider ist haben ihn vollständig lahm und unfähig gemacht seine akademischen Intentionen durch Taten praktischer Politik zu unterstützen, wobei er mit gleicher Festigkeit gegen die Čechen wie gegen die Deutschen - wenn nötig - hätte auftreten müssen. Dazu war er nicht zu bewegen und wenn er noch am Anfang der Parlamentskampagne im März und April hie und da parlamentarisch etwas für die Deutschen durchsetzte, wie z.B. den Ausschluß von Kramar vom Präsidium und von der Obmannschaft des Budgetausschusses, so kamen solche Fälle später nicht mehr vor, sondern er verlegte seinen ganzen innern Schwerpunkt in das Lager der Čechen und Feudalen. Seit der Vertagung des Reichsrates mehrten sich auch in den čechischen Zeitungen die zuversichtlichen Aeusserungen bezüglich der Nichtaufhebung der Sprachenverordnungen. Freilich mehrten sich auf der andern Seite die Zweifel in die Fähigkeiten Thuns aus dem Labyrinth einen Ausweg zu finden. Am 16. Juni fand unter dem Vorsitz Oswald Thuns eine Obmännerkonferenz des Großgrundbesitzes statt, die eine (größtenteils von mir selbst verfasste) Kundgebung erließ, in welcher aber schon durch Anregungen von verschiedenen Seiten deutliche Anzeichen des schwindenden Vertrauens Aufnahme fanden.</rdg>
-          </app>
-        </p>
-        <!-- DC Einklebung von fol. 25v und 26v -->
+          </choice> Weise der Deutschen zuwider ist haben</p>
         <pb facs="#F_K-4_Bae_TB_3_049" n="25v" xml:id="Bae_TB_3_5372"/>
-        <addSpan spanTo="#Bae_TB_3_5315" type="insertion" xml:id="Bae_TB_3_1415"/>
+        <addSpan spanTo="#xxx25v" type="insertion" xml:id="Bae_TB_3_1415"/>
         <p xml:id="Bae_TB_3_1416">
           <anchor xml:id="Bae_TB_3_1417"/>
-          <hi xml:id="Bae_TB_3_1418">Die Kundgebung des 
+          <hi rendition="#b" xml:id="Bae_TB_3_1418">Die Kundgebung des 
             <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1419">verfassungstreuen Großgrundbesitzes</orgName>. 
           </hi>
         </p>
@@ -1991,7 +1922,80 @@
         </p>
         <p xml:id="Bae_TB_3_1474">Bei voller Würdigung der Schwierigkeiten der Lage müssen wir aber heute mit erhöhtem Nachdrucke betonen, daß eine Lösung der bestehenden Krise nur im Rahmen der geltenden Verfassung gesucht und gefunden werden und daß Alles vermieden werden muß, was eine Erschütterung des staatsrechtlichen Zustandes herbeiführen würde. Mit unerbittlicher Nothwendigkeit weist Alles auf die Ermittlung eines Ausweges aus den inneren Wirren hin. Wir betonen wiederholt, daß unsere Gruppe alle Bemühungen in dieser Richtung zu unterstützen bereit ist. Wir anerkennen rückhaltlos die Rechte und Bedürfnisse der anderen Nationalitäten in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_1475">Oesterreich</placeName> und glauben, daß in unserer Zeit keinem Volksstamme seine culturelle Entwicklung vorenthalten werden soll. 
-          <pb facs="#F_K-4_Bae_TB_3_051" n="26v" xml:id="Bae_TB_3_1476"/>Aber wir erachten es für unbedingt geboten, von den Deutschen in 
+          <anchor/><!-- CA. anchor für addspan xxx25v -->
+          <pb facs="#F_K-4_Bae_TB_3_050" n="26r" xml:id="Bae_TB_3_1369"/>ihn vollständig lahm 
+          <choice xml:id="Bae_TB_3_1370">
+            <abbr xml:id="Bae_TB_3_1371">u.</abbr>
+            <expan xml:id="Bae_TB_3_1372">und</expan>
+          </choice> unfähig gemacht seine akademischen Intentionen durch Thaten praktischer Politik zu unterstützen, wobei er mit gleicher Fertigkeit gegen die Čechen wie gegen die Deutschen - wenn nötig - hätte auftreten müssen. Dazu war er nicht zu bewegen 
+          <choice xml:id="Bae_TB_3_1373">
+            <abbr xml:id="Bae_TB_3_1374">u.</abbr>
+            <expan xml:id="Bae_TB_3_1375">und</expan>
+          </choice> wenn er noch am Anfang der Parlamentscampagne im 
+          <date when="1898-03" xml:id="Bae_TB_3_1376">März</date>
+          <choice xml:id="Bae_TB_3_1377">
+            <abbr xml:id="Bae_TB_3_1378">u.</abbr>
+            <expan xml:id="Bae_TB_3_1379">und</expan>
+          </choice>
+          <date when="1898-04" xml:id="Bae_TB_3_1380">April</date> hie 
+          <choice xml:id="Bae_TB_3_1381">
+            <abbr xml:id="Bae_TB_3_1382">u.</abbr>
+            <expan xml:id="Bae_TB_3_1383">und</expan>
+          </choice> da parlamentarisch etwas für die Deutschen durchsetzte, wie 
+          <choice xml:id="Bae_TB_3_1384">
+            <abbr xml:id="Bae_TB_3_1385">z.B.</abbr>
+            <expan xml:id="Bae_TB_3_1386">zum Beispiel</expan>
+          </choice> den Ausschluss von 
+          <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_3_1387">Kramarz</persName> vom Präsidium 
+          <choice xml:id="Bae_TB_3_1388">
+            <abbr xml:id="Bae_TB_3_1389">u.</abbr>
+            <expan xml:id="Bae_TB_3_1390">und</expan>
+          </choice> von der Obmannschaft des 
+          <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_TB_3_1391">Budgetausschusses</orgName>, so kamen solche Fälle später nicht mehr vor, sondern er verlegte seinen ganzen innern Schwerpunkt in das Lager der Čechen 
+          <choice xml:id="Bae_TB_3_1392">
+            <abbr xml:id="Bae_TB_3_1393">u.</abbr>
+            <expan xml:id="Bae_TB_3_1394">und</expan>
+          </choice> Feudalen. Seit der Vertagung des 
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_1395">
+            <choice xml:id="Bae_TB_3_1396">
+              <abbr xml:id="Bae_TB_3_1397">R.R.</abbr>
+              <expan xml:id="Bae_TB_3_1398">Reichsrates</expan>
+            </choice>
+          </orgName> mehrten sich auch in den 
+          <index xml:id="Bae_TB_3_1399">
+            <term key="Presse" xml:id="Bae_TB_3_1400">čechischen Zeitungen</term>
+          </index> die zuversichtlichen Äusserungen bezüglich der Nichtaufhebung der 
+          <index xml:id="Bae_TB_3_1401">
+            <term key="Reichsrat" xml:id="Bae_TB_3_1402">Sprachenverordnungen</term>
+            <index xml:id="Bae_TB_3_1403">
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_1404"/>
+            </index>
+          </index>. Freilich mehrten sich auf der andern Seite die Zweifel in die Fähigkeiten 
+          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_1405">Thun's</persName> aus dem Labyrinth einen Ausweg zu finden. Am 
+          <date when="1898-06-16" xml:id="Bae_TB_3_1406">16. Juni</date> fand unter dem Vorsitz 
+          <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_3_1407">Oswald Thun's</persName> eine 
+          <index xml:id="Bae_TB_3_1408">
+            <term key="Parteien" xml:id="Bae_TB_3_1409">Obmännerconferenz</term>
+            <index xml:id="Bae_TB_3_1410">
+              <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_1411"/>
+            </index>
+          </index> des 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1412">Grossgrundbesitzes</orgName> statt, die eine (grösstenteils von mir selbst verfasste) Kundgebung erlies, in welche aber schon durch Anregungen von verschiedenen Seiten deutliche Anzeichen des schwindenden Vertrauens Aufnahme fanden. 
+          <app from="#Bae_MF_2_1991" type="equal" xml:id="Bae_TB_3_1413">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1414">Art und Weise der Deutschen zuwider ist haben ihn vollständig lahm und unfähig gemacht seine akademischen Intentionen durch Taten praktischer Politik zu unterstützen, wobei er mit gleicher Festigkeit gegen die Čechen wie gegen die Deutschen - wenn nötig - hätte auftreten müssen. Dazu war er nicht zu bewegen und wenn er noch am Anfang der Parlamentskampagne im März und April hie und da parlamentarisch etwas für die Deutschen durchsetzte, wie z.B. den Ausschluß von Kramar vom Präsidium und von der Obmannschaft des Budgetausschusses, so kamen solche Fälle später nicht mehr vor, sondern er verlegte seinen ganzen innern Schwerpunkt in das Lager der Čechen und Feudalen. Seit der Vertagung des Reichsrates mehrten sich auch in den čechischen Zeitungen die zuversichtlichen Aeusserungen bezüglich der Nichtaufhebung der Sprachenverordnungen. Freilich mehrten sich auf der andern Seite die Zweifel in die Fähigkeiten Thuns aus dem Labyrinth einen Ausweg zu finden. Am 16. Juni fand unter dem Vorsitz Oswald Thuns eine Obmännerkonferenz des Großgrundbesitzes statt, die eine (größtenteils von mir selbst verfasste) Kundgebung erließ, in welcher aber schon durch Anregungen von verschiedenen Seiten deutliche Anzeichen des schwindenden Vertrauens Aufnahme fanden.</rdg>
+          </app>
+          <!-- an dieser Stelle die  Einklebung von fol. 25v und 26v -->
+          <anchor/><app from="#xxx25v"><rdg>[...]</rdg></app>
+          <anchor/><app from="#xxx26v"><rdg>[...]</rdg></app><anchor xml:id="Bae_TB_3_1512"/>Der 
+          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_1513">
+            <choice xml:id="Bae_TB_3_1514">
+              <abbr xml:id="Bae_TB_3_1515">M.</abbr>
+              <expan xml:id="Bae_TB_3_1516">Minister</expan>
+            </choice>Präsident 
+          </persName> wurde in dieser Manifestation schliesslich aufgefordert, "aus dem Stadium der Erwägungen 
+          <hi rendition="#ul" xml:id="Bae_TB_3_1517">endlich</hi></p> 
+          <pb facs="#F_K-4_Bae_TB_3_051" n="26v" xml:id="Bae_TB_3_1476"/><addSpan spanTo="#Bae_TB_3_5315"/>
+        <p>Aber wir erachten es für unbedingt geboten, von den Deutschen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_1477">Oesterreich</placeName> den schwer empfundenen Druck nationaler Beeinträchtigung hinwegzunehmen und denselben in einer Weise engegenzukommen, die es ihnen ermöglicht, endlich wieder zur Arbeit an den Staatsaufgaben zurückzukehren, welche sie eine zeitlang fast allein und jederzeit, beherrscht von starkem Empfinden für den Staat und seine Bedürfnisse, mit Hingebung geleistet haben. 
         </p>
         <p xml:id="Bae_TB_3_1478">Die gegenwärtige Regierung hat in ihrer Erklärung vom 
@@ -2041,20 +2045,8 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_3_5315"/>
-        <!-- CA: anchor für addspan Bae_TB_3_1415 -->
-        <!-- Ende der Einklebung -->
-        <!-- DC Fortsetzung auf fol. 26r -->
-        <p xml:id="Bae_TB_3_1511">
-          <anchor xml:id="Bae_TB_3_1512"/>Der 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_1513">
-            <choice xml:id="Bae_TB_3_1514">
-              <abbr xml:id="Bae_TB_3_1515">M.</abbr>
-              <expan xml:id="Bae_TB_3_1516">Minister</expan>
-            </choice>Präsident 
-          </persName> wurde in dieser Manifestation schliesslich aufgefordert, "aus dem Stadium der Erwägungen 
-          <hi rendition="#ul" xml:id="Bae_TB_3_1517">endlich</hi>
-          <!-- Fortsetzung Einklebung Zeitungsartikel siehe oben-->
-          <pb facs="#F_K-4_Bae_TB_3_052" n="27r" xml:id="Bae_TB_3_1519"/>zu einer thatkräfigen Initiative zu schreiten". Er verübelte uns hauptsächlich das Wort "endlich". Mehr 
+        <!-- CA: anchor für addspan 26v -->
+          <pb facs="#F_K-4_Bae_TB_3_052" n="27r" xml:id="Bae_TB_3_1519"/><p>zu einer thatkräfigen Initiative zu schreiten". Er verübelte uns hauptsächlich das Wort "endlich". Mehr 
           <choice xml:id="Bae_TB_3_1520">
             <abbr xml:id="Bae_TB_3_1521">u.</abbr>
             <expan xml:id="Bae_TB_3_1522">und</expan>
@@ -2123,7 +2115,7 @@
             <abbr xml:id="Bae_TB_3_1568">u.</abbr>
             <expan xml:id="Bae_TB_3_1569">und</expan>
           </choice> ich vergewisserte 
-          <pb facs="#F_K-4_Bae_TB_3_053" n="53v" xml:id="Bae_TB_3_5373"/>
+          <pb facs="#F_K-4_Bae_TB_3_053" n="27v" xml:id="Bae_TB_3_5373"/>
           <note type="editorial" xml:id="Bae_TB_3_5374">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_054" n="28r" xml:id="Bae_TB_3_1570"/>mich bei den ruhigsten Mitgliedern 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1571">meiner Partei</orgName>, bei 
@@ -2394,10 +2386,37 @@
             </index>
           </index> zu machen, opponirte 
           <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_3_1768">Welsersheimb</persName>
-          <add place="across" xml:id="Bae_TB_3_1769">mit dem ich mich früher besprochen hatte</add> so energisch, dass ich kaum recht mehr zur 
+          <add place="across" xml:id="Bae_TB_3_1769">mit dem ich mich früher besprochen hatte</add> so energisch, dass ich kaum recht mehr zur</p> 
           <pb facs="#F_K-4_Bae_TB_3_057" n="31v" xml:id="Bae_TB_3_1770"/>
-          <note type="editorial" xml:id="Bae_TB_3_5381">Auf dieser Seite ist ein Zeitungsartikel eingeklebt, der an entsprechender Stelle eingefügt ist.</note>
-          <pb facs="#F_K-4_Bae_TB_3_058" n="32r" xml:id="Bae_TB_3_1771"/>Entfaltung meiner eigenen Opposition kam; 
+          <addSpan spanTo="#Bae_TB_3_5316" type="insertion" xml:id="Bae_TB_3_1800"/>
+          <p xml:id="Bae_TB_3_1801">
+            <pb facs="#F_K-4_Bae_TB_3_057" n="31v" xml:id="Bae_TB_3_5382"/>
+            <anchor xml:id="Bae_TB_3_1802"/>
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_1803">Wien</placeName>, 
+            <date when="1898-07-02" xml:id="Bae_TB_3_1804">2. Juli</date>. (<persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_3_1805">Joseph Unger's</persName> Geburtstag.) 
+          </p>
+          <p xml:id="Bae_TB_3_1806">Die Vereinigung des 
+            <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1807">verfassungstreuen Großgrundbesitzes</orgName> des 
+            <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_1808">Abgeordnetenhauses</orgName> begrüßte heute den gefeierten Rechtslehrer und Staatsmann 
+            <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_3_1809">Dr. Unger</persName> durch eine Deputation, bestehend aus dem 
+            <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_1810">Handelsminister Dr. Bärnreither</persName>, 
+            <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_3_1811">Baron Schwegel</persName> und 
+            <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_3_1812">Graf Stürgkh</persName>. 
+            <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_1813">Handelsminister Dr. Bärnreither</persName> hielt hiebei folgende Rede: 
+          </p>
+          <p xml:id="Bae_TB_3_1814">"In der langen Reihe Jener, welche Ihnen heute ihre ehrfurchtsvollen Glückwünsche darbringen, erscheint auch eine Abordnung des 
+            <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1815">verfassungstreuen Großgrundbesitzes</orgName> des 
+            <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_1816">Abgeordnetenhauses</orgName>. Von der hohen Warte eines Lebens, welches glänzende und bleibende Erfolge auf dem Gebiete der Wissenschaften und des öffentlichen Wirkens, wie kaum ein anderes in 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_1817">Oesterreich</placeName> aufweist, überblicken Eure Excellenz Menschen und Parteien losgelöst vom Getriebe des Tages. Deßwegen möchten wir heute nicht nur als Abgesandte des 
+            <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1818">verfassungstreuen Großgrundbesitzes</orgName> vor Ihnen erscheinen, nicht nur als Juristen, die wir alle Ihre Schüler sind, nicht nur als politische Anhänger, die sich gerade den höheren Zielen Ihrer Politik innerlich ganz besonders verwandt fühlen – sondern wir möchten, eingedenk der ganzen großen und unvergeßlichen geistigen Arbeit, die Eure Excellenz zum Wohle und Heile unseres Vaterlandes geleistet haben, als Oesterreicher, die treu an den Traditionen festhalten, die unser Vaterland groß gemacht haben und die es hoffentlich vor den drohenden Gefahren beschützen werden, unsere Huldigung dem großen österreichischen Patrioten ehrfurchtsvoll darbringen." – 
+            <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_3_1819">Dr. Unger</persName> dankte in bewegten Worten. 
+            <app from="#Bae_MF_2_2212" type="missing" xml:id="Bae_TB_3_1820">
+              <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1821"/>
+            </app>
+          </p>
+          <anchor xml:id="Bae_TB_3_5316"/>
+          <!-- CA: anchor für addspan Bae_TB_3_1800 -->
+          <pb facs="#F_K-4_Bae_TB_3_058" n="32r" xml:id="Bae_TB_3_1771"/><p>Entfaltung meiner eigenen Opposition kam; 
           <del rendition="#s" xml:id="Bae_TB_3_1772">was</del>
           <add place="across" xml:id="Bae_TB_3_1773">wir machten</add> doch einen solchen Eindruck 
           <del rendition="#s" xml:id="Bae_TB_3_1774">machte</del>, dass einer 
@@ -2437,37 +2456,7 @@
           </app>
         </p>
         <!-- DC: Einklebung Zeitungsartikel von fol. 31v -->
-        <addSpan spanTo="#Bae_TB_3_5316" type="insertion" xml:id="Bae_TB_3_1800"/>
-        <p xml:id="Bae_TB_3_1801">
-          <pb facs="#F_K-4_Bae_TB_3_057" n="31v" xml:id="Bae_TB_3_5382"/>
-          <anchor xml:id="Bae_TB_3_1802"/>
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_1803">Wien</placeName>, 
-          <date when="1898-07-02" xml:id="Bae_TB_3_1804">2. Juli</date>. ( 
-          <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_3_1805">Joseph Unger's</persName> Geburtstag.) 
-        </p>
-        <p xml:id="Bae_TB_3_1806">Die Vereinigung des 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1807">verfassungstreuen Großgrundbesitzes</orgName> des 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_1808">Abgeordnetenhauses</orgName> begrüßte heute den gefeierten Rechtslehrer und Staatsmann 
-          <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_3_1809">Dr. Unger</persName> durch eine Deputation, bestehend aus dem 
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_1810">Handelsminister Dr. Bärnreither</persName>, 
-          <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_3_1811">Baron Schwegel</persName> und 
-          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_3_1812">Graf Stürgkh</persName>. 
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_1813">Handelsminister Dr. Bärnreither</persName> hielt hiebei folgende Rede: 
-        </p>
-        <p xml:id="Bae_TB_3_1814">"In der langen Reihe Jener, welche Ihnen heute ihre ehrfurchtsvollen Glückwünsche darbringen, erscheint auch eine Abordnung des 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1815">verfassungstreuen Großgrundbesitzes</orgName> des 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_1816">Abgeordnetenhauses</orgName>. Von der hohen Warte eines Lebens, welches glänzende und bleibende Erfolge auf dem Gebiete der Wissenschaften und des öffentlichen Wirkens, wie kaum ein anderes in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_1817">Oesterreich</placeName> aufweist, überblicken Eure Excellenz Menschen und Parteien losgelöst vom Getriebe des Tages. Deßwegen möchten wir heute nicht nur als Abgesandte des 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1818">verfassungstreuen Großgrundbesitzes</orgName> vor Ihnen erscheinen, nicht nur als Juristen, die wir alle Ihre Schüler sind, nicht nur als politische Anhänger, die sich gerade den höheren Zielen Ihrer Politik innerlich ganz besonders verwandt fühlen – sondern wir möchten, eingedenk der ganzen großen und unvergeßlichen geistigen Arbeit, die Eure Excellenz zum Wohle und Heile unseres Vaterlandes geleistet haben, als Oesterreicher, die treu an den Traditionen festhalten, die unser Vaterland groß gemacht haben und die es hoffentlich vor den drohenden Gefahren beschützen werden, unsere Huldigung dem großen österreichischen Patrioten ehrfurchtsvoll darbringen." – 
-          <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_3_1819">Dr. Unger</persName> dankte in bewegten Worten. 
-          <app from="#Bae_MF_2_2212" type="missing" xml:id="Bae_TB_3_1820">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1821"/>
-          </app>
-        </p>
-        <anchor xml:id="Bae_TB_3_5316"/>
-        <!-- CA: anchor für addspan Bae_TB_3_1800 -->
-        <!-- DC: Ende der Einklebung -->
-        <!-- DC: Fortsetzung auf fol. 324 -->
+        <anchor/><app from="#Bae_TB_3_5316"><rdg>[...]</rdg></app>
         <p xml:id="Bae_TB_3_1822">
           <anchor xml:id="Bae_TB_3_1823"/>Ich ging mit 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_3_1824">Schwegel</persName>
@@ -2823,24 +2812,9 @@
             </choice>
           </orgName> rein mit dem Kismetglauben eines Türken. 
         </p>
-        <!-- DC Einklebung Zeitungsausschnitt fol. 37v und 38v siehe unten -->
-        <pb facs="#F_K-4_Bae_TB_3_070" n="38r" xml:id="Bae_TB_3_2077"/>
-        <p xml:id="Bae_TB_3_2078">In den 
-          <index xml:id="Bae_TB_3_2079">
-            <term key="Presse" xml:id="Bae_TB_3_2080">Zeitungen</term>
-          </index> spukten jetzt nachträglich noch Staatsstreichgelüste, offenbar verspätet ausgekommene Töne einer Melodie, die 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2081">Thun</persName> in seinen Kreisen geblasen hatte, an die er aber jetzt schon wegen der Kürze der Zeit nicht mehr dachte. 
-          <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_3_2082">Steinwender</persName> hielt Anfang August ( 
-          <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_3_2083">N. fr. Presse</orgName> vom 
-          <date when="1898-08-04" xml:id="Bae_TB_3_2084">4.8</date>) eine ausgezeichnete Rede gegen diese Velleitäten. 
-          <app from="#Bae_MF_2_2343" type="equal" xml:id="Bae_TB_3_2085">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2086">daß er aber keinen Plan habe, kein bestimmtes Ziel. Aus Anlaß einer Bereisung in Böhmen vom 19. bis 22. August sprach ich eine ganze Reihe ruhiger besonnener Männer in Deutschböhmen, Dr. Schreiner in Pilsen, den Aussiger Stadtrat Apfel in Karlsbad, den Bürgermeister Pohnert und Direktor Bihl in Brüx – übereinstimmend erhielt ich die Auskunft, daß die Bevölkerung immer noch wiederzugewinnen wäre, wenn die Sprachenverordnung aufgehoben würde, daß allerdings je länger der heutige Zustand daure, desto schwieriger eine Loslösung von den radikalen Elementen sein werde, ich erhielt ungefähr das immer wiederholt, was ich vor wenigen Tagen dem Kaiser in Ischl ausfürlich vorgetragen hatte. Die Politik Thuns in dieser Zeit war ein steuerloses Abtreiben, aber er erwies sich auch unfähig, angesichts einer großen Arbeit das Ganze im Auge zu behalten. Der ungarische Ausgleich mit allen Reisen, Audienzen, Diners u.s.w., die damit zusammenhängen, absorbierten ihn derart, daß er auf alles übrige nicht mehr mit jener Schärfe achtete, welche die gefährliche Position erfordert hätte. Bald wußte er, daß er den Reichsrat werde wieder einberufen müssen, nichts wäre naheliegender gewesen sich wenigstens für diese Wiedereröffnung einen Plan zu machen, eine Aktion vorzubereiten, sich eine grosse staatsmännische Rede zusammenzustellen – nichts von alle dem; er spann sich ganz in den Gedanken ein, das Haus könne und werde nur Obstruktion machen und so näherte er sich dem Reichsrat rein mit dem Kismetglauben eines Türken. In den Zeitungen spukten jetzt nachträglich noch Staatsstreichgelüste, offenbar verspätet ausgekommene Töne einer Melodie, die Thun in seinen Kreisen geblasen hatte, an die er aber jetzt schon wegen der Kürze der Zeit nicht mehr dachte. Steinwender hielt Anfang August (Neue freie Presse vom 4.VIII.) eine ausgezeichnete Rede gegen diese Velleitäten.</rdg>
-          </app>
-        </p>
-        <!-- DC Einklebung Zeitungsausschnitt fol. 37v und 38v -->
-        <addSpan spanTo="#Bae_TB_3_5319" type="insertion" xml:id="Bae_TB_3_2087"/>
+        <pb facs="#F_K-4_Bae_TB_3_069" n="37v" xml:id="Bae_TB_3_5393"/>
+        <addSpan spanTo="#xxx37v" type="insertion" xml:id="Bae_TB_3_2087"/>
         <p xml:id="Bae_TB_3_2088">
-          <pb facs="#F_K-4_Bae_TB_3_069" n="37v" xml:id="Bae_TB_3_5393"/>
           <anchor xml:id="Bae_TB_3_2089"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_2090">Wien</placeName>, 
           <date when="1898-08-03" xml:id="Bae_TB_3_2091">3. August</date>. ( 
@@ -2886,7 +2860,7 @@
         <p xml:id="Bae_TB_3_2119">Also 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2120">Graf Thun</persName> wird warten. Das thun alle Leute, denen nichts einfällt. Vielleicht kommt ein Zwischenfall zu Hilfe; freilich kommt da selten ein guter, meist ein schlimmer, dann wird die Sache noch schwieriger. Auf beiden Seiten wächst die Unnachgiebigkeit. Man versucht auf beiden Seiten auszuhalten und den Gegner auszuhungern. Was nun? Das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_2121">Abgeordnetenhaus</orgName> kann 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2122">Thun</persName> nicht auflösen; er weiß, es kommen die Radicalen in vielfacher Anzahl in das neue 
+          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2122">Thun</persName> nicht auflösen; er weiß, es kommen die Radicalen in vielfacher Anzahl in das neue
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_2123">Haus</orgName> und er hat es noch schlimmer. Nun wird das Wort Staatsstreich ausgesprochen. Man spielt mit dem Worte schon eine Zeit lang im 
           <index xml:id="Bae_TB_3_2124">
             <term key="Presse" xml:id="Bae_TB_3_2125">officiösen Blättern</term>
@@ -2933,32 +2907,24 @@
           </index>, die er als verfassungswidrig kennzeichnet. Den Schwärmern für den Absolutismus hält er die furchtbaren Erfahrungen entgegen, die 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_2156">Oesterreich</placeName> in der absolutistischen Aera gemacht hat, und fährt dann fort: Heute haben wir bereits den Absolutismus. Die Gesetzgebung arbeitet ja weiter ohne 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_2157">Parlament</orgName>. Wie lange dieser Zustand dauern wird, das kann man nicht sagen. Aber daß wir nicht müde werden, das sollte die Regierung endlich wissen. Das ist zunächst Ehrensache! Heute haben wir Deutsche die Absicht, den ganzen Staat zu beherrschen, aufgegeben. Wir wollen Ruhe auf unserem eigenen Boden haben. Und dazu müssen wir Herren in unserem 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_2158">Hause</orgName> sein! Sollen sich die Czechen auf ihrem Boden es sich czechisch oder chinesisch einrichten, das ist uns gleichgiltig. In nationalen Dingen gibt es kein Majorisiren. So lange sich die Nationen nicht mit einander verständigen können, bleibt es beim Alten. Die Gegensätze bestehen schon lange; die gesetzliche Regelung wird kommen, sobald es den Deutschen und den Czechen entsprechen 
-          <pb facs="#F_K-4_Bae_TB_3_071" n="38v" xml:id="Bae_TB_3_5394"/>wird. Dann wird es heißen: "In deutschen Gebieten wird Deutsch amtirt, macht ihr auf czechischen, was ihr wollt!" Die Regierung soll daher die 
-          <index xml:id="Bae_TB_3_2159">
-            <term key="Reichsrat" xml:id="Bae_TB_3_2160">Verordnungen</term>
-            <index xml:id="Bae_TB_3_2161">
-              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2162"/>
-            </index>
-          </index> zurücknehmen, die nicht passen; einen andern Weg wird die Regierung nicht finden. Der gegenwärtige Zustand legt uns manche Opfer auf, Manches muß warten: der Mittelstand und die 
-          <index xml:id="Bae_TB_3_2163">
-            <term key="Arbeiter" xml:id="Bae_TB_3_2164">arbeitenden Classen</term>
-          </index>. Doch da ist bereits jahrzehntelang gewartet worden. Wenn sie uns aber diesmal die Courage abkaufen, dann ist Alles verloren! Wenn nicht, dann gehört der Erfolg uns, dann ist die Frage für immer verneint, ob in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_2165">Oesterreich</placeName> gegen die Deutschen regiert und ob ein solcher Versuch je wieder unternommen werden kann. (Sehr wahr!) 
-        </p>
-        <p xml:id="Bae_TB_3_2166">Wir geben nicht nach! Schon haben wir uns an gewissen Stellen Respect verschafft; wir werden aber dafür sorgen, daß man uns noch mehr respectirt. Wir Deutsche sind kein revolutionäres Volk, wir sind viel zu gute Staatsbürger. Wir haben uns sogar aufgeopfert für den Staat. Jetzt aber denken wir an uns selbst und nur an uns! (Beifall.)</p>
-        <p xml:id="Bae_TB_3_2167">Man soll es nur wissen: Wie man uns behandelt, so werden wir auch den Staat behandeln. Laßt uns ungeschoren, laßt uns unser nationales Leben ausleben, laßt uns den Kampf ausfechten gegen unsere Gegner. Wir brauchen keine Protection, aber keine Regierung soll es mehr wagen, sich gegen uns zu stellen! (Großer Beifall.)</p>
-        <p xml:id="Bae_TB_3_2168">In den letzten anderthalb Jahren hat der nationale Gedanke ungeahnte Fortschritte gemacht; ich denke dabei an seine Ausbreitung auf große Kreise, die bisher dem Nationalismus fremd gegenübergestanden sind. Wir Deutsche müssen so vorgehen, daß wir eine ziemliche Anzahl von deutschen Bundesgenossen erhalten. Den 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_2169">verfassungstreuen Großgrundbesitz</orgName> vor den Kopf stoßen, paßt nicht. Heute muß Alles, was deutlich ist, zusammengehalten werden. Es handelt sich ja nicht um eine Partei, sondern um eine große Sache! 
-          <app from="#Bae_MF_2_2391" type="missing" xml:id="Bae_TB_3_2170">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2171"/>
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_2158">Hause</orgName> sein! Sollen sich die Czechen auf ihrem Boden es sich czechisch oder chinesisch einrichten, das ist uns gleichgiltig. In nationalen Dingen gibt es kein Majorisiren. So lange sich die Nationen nicht mit einander verständigen können, bleibt es beim Alten. Die Gegensätze bestehen schon lange; die gesetzliche Regelung wird kommen, sobald es den Deutschen und den Czechen entsprechen</p><anchor/><!-- anchor für 37v -->
+        <pb facs="#F_K-4_Bae_TB_3_070" n="38r" xml:id="Bae_TB_3_2077"/>
+        <p xml:id="Bae_TB_3_2078">In den 
+          <index xml:id="Bae_TB_3_2079">
+            <term key="Presse" xml:id="Bae_TB_3_2080">Zeitungen</term>
+          </index> spukten jetzt nachträglich noch Staatsstreichgelüste, offenbar verspätet ausgekommene Töne einer Melodie, die 
+          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2081">Thun</persName> in seinen Kreisen geblasen hatte, an die er aber jetzt schon wegen der Kürze der Zeit nicht mehr dachte. 
+          <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_3_2082">Steinwender</persName> hielt Anfang August ( 
+          <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_3_2083">N. fr. Presse</orgName> vom 
+          <date when="1898-08-04" xml:id="Bae_TB_3_2084">4.8</date>) eine ausgezeichnete Rede gegen diese Velleitäten. 
+          <app from="#Bae_MF_2_2343" type="equal" xml:id="Bae_TB_3_2085">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2086">daß er aber keinen Plan habe, kein bestimmtes Ziel. Aus Anlaß einer Bereisung in Böhmen vom 19. bis 22. August sprach ich eine ganze Reihe ruhiger besonnener Männer in Deutschböhmen, Dr. Schreiner in Pilsen, den Aussiger Stadtrat Apfel in Karlsbad, den Bürgermeister Pohnert und Direktor Bihl in Brüx – übereinstimmend erhielt ich die Auskunft, daß die Bevölkerung immer noch wiederzugewinnen wäre, wenn die Sprachenverordnung aufgehoben würde, daß allerdings je länger der heutige Zustand daure, desto schwieriger eine Loslösung von den radikalen Elementen sein werde, ich erhielt ungefähr das immer wiederholt, was ich vor wenigen Tagen dem Kaiser in Ischl ausfürlich vorgetragen hatte. Die Politik Thuns in dieser Zeit war ein steuerloses Abtreiben, aber er erwies sich auch unfähig, angesichts einer großen Arbeit das Ganze im Auge zu behalten. Der ungarische Ausgleich mit allen Reisen, Audienzen, Diners u.s.w., die damit zusammenhängen, absorbierten ihn derart, daß er auf alles übrige nicht mehr mit jener Schärfe achtete, welche die gefährliche Position erfordert hätte. Bald wußte er, daß er den Reichsrat werde wieder einberufen müssen, nichts wäre naheliegender gewesen sich wenigstens für diese Wiedereröffnung einen Plan zu machen, eine Aktion vorzubereiten, sich eine grosse staatsmännische Rede zusammenzustellen – nichts von alle dem; er spann sich ganz in den Gedanken ein, das Haus könne und werde nur Obstruktion machen und so näherte er sich dem Reichsrat rein mit dem Kismetglauben eines Türken. In den Zeitungen spukten jetzt nachträglich noch Staatsstreichgelüste, offenbar verspätet ausgekommene Töne einer Melodie, die Thun in seinen Kreisen geblasen hatte, an die er aber jetzt schon wegen der Kürze der Zeit nicht mehr dachte. Steinwender hielt Anfang August (Neue freie Presse vom 4.VIII.) eine ausgezeichnete Rede gegen diese Velleitäten.</rdg>
           </app>
         </p>
-        <anchor xml:id="Bae_TB_3_5319"/>
-        <!-- CA: anchor für addspan Bae_TB_3_2087 -->
-        <!-- DC: Ende der Einklebung -->
-        <!-- DC: Fortsetzung fol. 38r -->
-        <p xml:id="Bae_TB_3_2172">
+       <!-- an dieser Stelle Einklebung Zeitungsausschnitt fol. 37v und 38v -->
+        <anchor/><app from="xxx37v"><rdg>[...]</rdg></app>
+        <anchor/><app from="xxx38v"><rdg>[...]</rdg></app>
+       <p xml:id="Bae_TB_3_2172">
           <anchor xml:id="Bae_TB_3_5320"/>Neben meiner Anteilname an den Ausgleichsfragen 
           <choice xml:id="Bae_TB_3_2173">
             <abbr xml:id="Bae_TB_3_2174">u.</abbr>
@@ -3048,8 +3014,29 @@
             <abbr xml:id="Bae_TB_3_2241">u.</abbr>
             <expan xml:id="Bae_TB_3_2242">und</expan>
           </choice> die zahlreichen Verordnungen zur 
-          <!-- Fortsetzung Einklebung Zeitungsartikel fol. 38v siehe oben-->
-          <pb facs="#F_K-4_Bae_TB_3_072" n="39r" xml:id="Bae_TB_3_2244"/>Aktivierung des 
+        <pb facs="#F_K-4_Bae_TB_3_071" n="38v" xml:id="Bae_TB_3_5394"/><addSpan spanTo="#Bae_TB_3_5319"/>wird. Dann wird es heißen: "In deutschen Gebieten wird Deutsch amtirt, macht ihr auf czechischen, was ihr wollt!" Die Regierung soll daher die 
+          <index xml:id="Bae_TB_3_2159">
+            <term key="Reichsrat" xml:id="Bae_TB_3_2160">Verordnungen</term>
+            <index xml:id="Bae_TB_3_2161">
+              <term key="SprachenverordnungenGautsch" xml:id="Bae_TB_3_2162"/>
+            </index>
+          </index> zurücknehmen, die nicht passen; einen andern Weg wird die Regierung nicht finden. Der gegenwärtige Zustand legt uns manche Opfer auf, Manches muß warten: der Mittelstand und die 
+          <index xml:id="Bae_TB_3_2163">
+            <term key="Arbeiter" xml:id="Bae_TB_3_2164">arbeitenden Classen</term>
+          </index>. Doch da ist bereits jahrzehntelang gewartet worden. Wenn sie uns aber diesmal die Courage abkaufen, dann ist Alles verloren! Wenn nicht, dann gehört der Erfolg uns, dann ist die Frage für immer verneint, ob in 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_2165">Oesterreich</placeName> gegen die Deutschen regiert und ob ein solcher Versuch je wieder unternommen werden kann. (Sehr wahr!) 
+        </p>
+        <p xml:id="Bae_TB_3_2166">Wir geben nicht nach! Schon haben wir uns an gewissen Stellen Respect verschafft; wir werden aber dafür sorgen, daß man uns noch mehr respectirt. Wir Deutsche sind kein revolutionäres Volk, wir sind viel zu gute Staatsbürger. Wir haben uns sogar aufgeopfert für den Staat. Jetzt aber denken wir an uns selbst und nur an uns! (Beifall.)</p>
+        <p xml:id="Bae_TB_3_2167">Man soll es nur wissen: Wie man uns behandelt, so werden wir auch den Staat behandeln. Laßt uns ungeschoren, laßt uns unser nationales Leben ausleben, laßt uns den Kampf ausfechten gegen unsere Gegner. Wir brauchen keine Protection, aber keine Regierung soll es mehr wagen, sich gegen uns zu stellen! (Großer Beifall.)</p>
+        <p xml:id="Bae_TB_3_2168">In den letzten anderthalb Jahren hat der nationale Gedanke ungeahnte Fortschritte gemacht; ich denke dabei an seine Ausbreitung auf große Kreise, die bisher dem Nationalismus fremd gegenübergestanden sind. Wir Deutsche müssen so vorgehen, daß wir eine ziemliche Anzahl von deutschen Bundesgenossen erhalten. Den 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_2169">verfassungstreuen Großgrundbesitz</orgName> vor den Kopf stoßen, paßt nicht. Heute muß Alles, was deutlich ist, zusammengehalten werden. Es handelt sich ja nicht um eine Partei, sondern um eine große Sache! 
+          <app from="#Bae_MF_2_2391" type="missing" xml:id="Bae_TB_3_2170">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2171"/>
+          </app>
+        </p>
+        <anchor xml:id="Bae_TB_3_5319"/>
+        <!-- CA: anchor für addspan 38v -->
+          <pb facs="#F_K-4_Bae_TB_3_072" n="39r" xml:id="Bae_TB_3_2244"/><p>Aktivierung des 
           <orgName key="Patentamt" ref="https://d-nb.info/gnd/41792-0" xml:id="Bae_TB_3_2245">Patentamtes</orgName>. 
           <persName key="BeckPaul" ref="https://d-nb.info/gnd/142414956" xml:id="Bae_TB_3_2246">Ministerialrat Beck</persName> leistete in der letzten Hinsicht eine riesige Arbeit. Das einzige Verdienst 
           <del rendition="#s" xml:id="Bae_TB_3_2247">das</del>
@@ -3109,45 +3096,41 @@
             <abbr xml:id="Bae_TB_3_2287">u.</abbr>
             <expan xml:id="Bae_TB_3_2288">und</expan>
           </choice>
-          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_3_2289">Stürgkh</persName> zusammen. Die 
-          <!-- Einklebung Einladung Ministerratssitzung siehe unten -->
-          <pb facs="#F_K-4_Bae_TB_3_074" n="40r" xml:id="Bae_TB_3_2291"/>Meinungen waren anfangs sehr geteilt. 
+          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_3_2289">Stürgkh</persName> zusammen. Die </p>
+          <pb facs="#F_K-4_Bae_TB_3_073" n="39v" xml:id="Bae_TB_3_5395"/>
+          <addSpan spanTo="#Bae_TB_3_5321" type="insertion" xml:id="Bae_TB_3_2297"/>
+          <p xml:id="Bae_TB_3_2298">
+            <anchor xml:id="Bae_TB_3_2299"/>[handschriftlich:] Die letzte 
+            <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2300">Ministerratssitzung</orgName> der ich beiwohnte. 
+          </p>
+          <p xml:id="Bae_TB_3_2301">Unter dem Vorsitze</p>
+          <p xml:id="Bae_TB_3_2302">Seiner Excellenz des 
+            <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2303">Herrn Minister-Präsidenten</persName>
+          </p>
+          <p xml:id="Bae_TB_3_2304">findet</p>
+          <p xml:id="Bae_TB_3_2305"> Samstag den 
+            <date when="1898-09-24" xml:id="Bae_TB_3_2306">24. September</date> 3 Uhr 
+            <choice xml:id="Bae_TB_3_2307">
+              <abbr xml:id="Bae_TB_3_2308">N.M.</abbr>
+              <expan xml:id="Bae_TB_3_2309">Nachmittag</expan>
+            </choice> im Ministerraths-Präsidium 
+          </p>
+          <p xml:id="Bae_TB_3_2310">eine Ministerraths-Sitzung statt. 
+            <app from="#Bae_MF_2_2472" type="missing" xml:id="Bae_TB_3_2311">
+              <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2312"/>
+            </app>
+          </p>
+          <anchor xml:id="Bae_TB_3_5321"/>
+          <!-- CA: anchor für addspan 39v -->
+          <pb facs="#F_K-4_Bae_TB_3_074" n="40r" xml:id="Bae_TB_3_2291"/><p>Meinungen waren anfangs sehr geteilt. 
           <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_3_2292">Auersperg</persName> meinte ich hätte den richtigen Zeitpunkt zum Austritt aus dem Cabinet verpasst, da ich den Abmachungen mit 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_2293">Ungarn</placeName>
           <del rendition="#s" xml:id="Bae_TB_3_2294">nicht</del> beigestimmt habe, wäre dies der Zeitpunkt gewesen. 
           <app from="#Bae_MF_2_2433" type="equal" xml:id="Bae_TB_3_2295">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2296">in Budapest ununterbrochene Konferenzen, zwischen dem 26. und letzten August endlich tägliche Ministerberatungen, darunter zwei unter dem Vorsitz des Kaisers wegen des ungarischen Ausgleichs! In meinem Ministerium machte ich in dieser Zeit zwei wichtige Dinge fertig, das arbeitsstatistische Amt, von dem ich schon gesprochen habe und die zahlreichen Verordnungen zur Aktivierung des Patentamtes. Ministerialrat Beck leistete in der letzten Hinsicht eine riesige Arbeit. Das einzige Verdienst, welches ich mir bei der ganzen Sache zuschreiben kann, ist, daß ich ihn beständig aneiferte, so oft ich konnte mit ihm über die Arbeit sprach, mein Interesse zeigte, seine bureaukratischen Bedenken zerstreute. In einem Punkte war sowohl er als Weigelsperg anfangs bedenklich, nämlich wegen der deutschen Verhandlungssprache, die in einer Verordnung als ausnahmslose Regel statuiert war. Die Herren meinten, ich solle die Sache doch in den Ministerrat bringen, da aber alle Verordnungen den beteiligten Ministerien zur Einsicht geschickt und nicht bemängelt worden waren, so beruhigte ich die Herren und ließ die Verordnungen Mitte September im Reichsgesetzblatt erscheinen, ohne irgend jemanden weiter zu fragen. Nach dem Abschluss der Ausgleichskonferenzen und als klar war, daß die Regierung mit der ungarischen ein Abkommen für den Fall getroffen habe, als der Ausgleich diesseitig im Parlament nicht zustande kommen würde, hielt ich eine Besprechung mit meinen allernächsten Parteifreunden für notwendig. Bei Oswald Thun kamen am 6. September Auersperg, Chlumetzky, Schwegel und Stürgkh zusammen. Die Meinungen waren anfangs sehr geteilt. Auersperg meinte ich hätte den richtigen Zeitpunkt zum Austritt aus dem Kabinett verpasst, da ich den Abmachungen mit Ungarn nicht beigestimmt habe, wäre dies der Zeitpunkt gewesen.</rdg>
           </app>
-        </p>
         <!-- DC Einklebung Einladung Ministerratssitzung -->
-        <addSpan spanTo="#Bae_TB_3_5321" type="insertion" xml:id="Bae_TB_3_2297"/>
-        <p xml:id="Bae_TB_3_2298">
-          <pb facs="#F_K-4_Bae_TB_3_073" n="39v" xml:id="Bae_TB_3_5395"/>
-          <anchor xml:id="Bae_TB_3_2299"/>[handschriftlich:] Die letzte 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2300">Ministerratssitzung</orgName> der ich beiwohnte. 
-        </p>
-        <p xml:id="Bae_TB_3_2301">Unter dem Vorsitze</p>
-        <p xml:id="Bae_TB_3_2302">Seiner Excellenz des 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2303">Herrn Minister-Präsidenten</persName>
-        </p>
-        <p xml:id="Bae_TB_3_2304">findet</p>
-        <p xml:id="Bae_TB_3_2305"> Samstag den 
-          <date when="1898-09-24" xml:id="Bae_TB_3_2306">24. September</date> 3 Uhr 
-          <choice xml:id="Bae_TB_3_2307">
-            <abbr xml:id="Bae_TB_3_2308">N.M.</abbr>
-            <expan xml:id="Bae_TB_3_2309">Nachmittag</expan>
-          </choice> im Ministerraths-Präsidium 
-        </p>
-        <p xml:id="Bae_TB_3_2310">eine Ministerraths-Sitzung statt. 
-          <app from="#Bae_MF_2_2472" type="missing" xml:id="Bae_TB_3_2311">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2312"/>
-          </app>
-        </p>
-        <anchor xml:id="Bae_TB_3_5321"/>
-        <!-- CA: anchor für addspan Bae_TB_3_2297 -->
-        <!-- DC Ende der Einklebung -->
-        <!-- DC Fortsetzung fol. 40r -->
-        <p xml:id="Bae_TB_3_2313">
+        <anchor/><app from="#Bae_TB_3_5321"><rdg>[...]</rdg></app>
           <anchor xml:id="Bae_TB_3_2314"/>
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_3_2315">
             <choice xml:id="Bae_TB_3_2316">
@@ -3219,6 +3202,7 @@
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_2363">Hause</orgName> das Grab des Cabinets 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2364">Thun</persName> sein werde. 
         </p>
+        <pb facs="#F_K-4_Bae_TB_3_074a" n="40v"/><note type="editorial">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_3_074b" n="41r" xml:id="Bae_TB_3_2365"/>
         <p xml:id="Bae_TB_3_2366">Alle neigten der Ansicht 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_3_2367">Schwegels</persName> zu und überredeten schliesslich 

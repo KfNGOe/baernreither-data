@@ -2038,7 +2038,7 @@
             <rdg xml:id="Bae_TB_2_6214">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6215"/>
-          <app from="xxx28v" type="insertion" xml:id="Bae_TB_2_6216">
+          <app from="#Bae_TB_2_6365" type="insertion" xml:id="Bae_TB_2_6216">
             <rdg xml:id="Bae_TB_2_6217">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6218"/>
@@ -2091,7 +2091,7 @@
           </index>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_057" n="28v" xml:id="Bae_TB_2_6075"/>
-        <addSpan spanTo="xxx28v" type="insertion" xml:id="Bae_TB_2_6222"/>
+        <addSpan spanTo="#Bae_TB_2_6365" type="insertion" xml:id="Bae_TB_2_6222"/>
         <p xml:id="Bae_TB_2_1422">
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_2_1423">
             <choice xml:id="Bae_TB_2_1424">
@@ -2315,7 +2315,7 @@
             </index>
           </index> begegnen kann? Da muß man sich billig fragen, wie stellt sich die Regierung die Zukunft vor, und wie will sie diesen Staat und wohin will sie diesen Staat eigentlich führen? 
           <anchor xml:id="Bae_TB_2_6365"/>
-          <!-- anchor für den addspan xxx28v -->
+          <!-- anchor für den addspan 28v -->
         </p>
         <pb facs="#F_K-4_Bae_TB_2_058" n="29r" xml:id="Bae_TB_2_1657"/>
         <p xml:id="Bae_TB_2_6223">war die Temperatur im 
@@ -4716,7 +4716,7 @@
             <rdg xml:id="Bae_TB_2_6283">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6284"/>
-          <app from="xxx56v" type="insertion" xml:id="Bae_TB_2_6285">
+          <app from="#Bae_TB_2_6366" type="insertion" xml:id="Bae_TB_2_6285">
             <rdg xml:id="Bae_TB_2_6286">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6287"/>
@@ -4827,7 +4827,7 @@
         <anchor xml:id="Bae_TB_2_6015"/>
         <!-- CA: anchor für addspan von fol 56r -->
         <pb facs="#F_K-4_Bae_TB_2_113" n="56v" xml:id="Bae_TB_2_3345"/>
-        <addSpan spanTo="xxx56v" type="insertion" xml:id="Bae_TB_2_3337"/>
+        <addSpan spanTo="#Bae_TB_2_6366" type="insertion" xml:id="Bae_TB_2_3337"/>
         <p xml:id="Bae_TB_2_3346">Wir glauben treu und consequent der Aufgabe entsprochen zu haben, die uns durch die politische Richtung unserer Wählergruppen und durch wiederholte Manifestationen derselben vorgezeichnet ist.</p>
         <p xml:id="Bae_TB_2_3347">Als die Schritte des Ministeriums des 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_3348">Grafen Badeni</persName> eine immer bedrohlichere Richtung annahmen und es keinen Zweifel mehr unterlag, daß diese Regierung die Staatsangelegenheiten in geordneten und gerechten Bahnen zu erhalten nicht im Stande sei, haben wir immer klarer und entschiedener Stellung gegen dieselbe genommen. Wir erkannten rechtzeitig, daß nur durch eine entsprechende Beseitigung der Situation, welche durch die 
@@ -4893,7 +4893,7 @@
           <orgName key="FreiedeutscheVereinigung" xml:id="Bae_TB_2_3390">freien Vereinigung</orgName> ( 
           <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_2_3391">Mauthner</persName>-Gruppe) in diesen Tagen untereinander und mit der Regierung Besprechungen gepflogen. 
           <anchor xml:id="Bae_TB_2_6366"/>
-          <!-- anchor für xxx56v -->
+          <!-- anchor für 56v -->
         </p>
         <pb facs="#F_K-4_Bae_TB_2_114" n="57r" xml:id="Bae_TB_2_3435"/>
         <p xml:id="Bae_TB_2_6301">Verhalten der ganzen Vereinigung ausüben, ist das 
@@ -7769,7 +7769,7 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_2_6353"/>
-        <app from="xxx98v" type="insertion" xml:id="Bae_TB_2_6354">
+        <app from="#Bae_TB_2_6367" type="insertion" xml:id="Bae_TB_2_6354">
           <rdg xml:id="Bae_TB_2_6355">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6356"/>
@@ -7858,7 +7858,7 @@
         </p>
         <pb facs="#F_K-4_Bae_TB_2_197" n="98v" xml:id="Bae_TB_2_5495"/>
         <p xml:id="Bae_TB_2_5494">
-          <addSpan spanTo="xxx98v" type="insertion" xml:id="Bae_TB_2_5493"/>
+          <addSpan spanTo="#Bae_TB_2_6367" type="insertion" xml:id="Bae_TB_2_5493"/>
           <anchor xml:id="Bae_TB_2_5496"/>[ 
           <index xml:id="Bae_TB_2_5497">
             <term key="Baernreither" xml:id="Bae_TB_2_5498">Inspicirungsreise</term>
@@ -7995,7 +7995,7 @@
             </index>
           </index> angenehm berührt war. Es freue ihn auch, daß
           <anchor xml:id="Bae_TB_2_6367"/>
-          <!-- anchor für xxx98v -->
+          <!-- anchor für 98v -->
         </p>
         <p xml:id="Bae_TB_2_5679">
           <pb facs="#F_K-4_Bae_TB_2_198" n="99r" xml:id="Bae_TB_2_5680"/>Nachdem wir 
