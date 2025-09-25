@@ -1098,7 +1098,7 @@
           </choice> den deutschen Parteien vorzulegen in der Lage war, welcher die einzelnen Punkte des abschliessenden Paktes
         </p>
         <pb facs="#F_K-4_Bae_TB_2_039" n="19v" xml:id="Bae_TB_2_782"/>
-        <addSpan spanTo="#Bae_TB_2_6006" type="insertion" xml:id="Bae_TB_2_784"/>
+        <addSpan spanTo="#Bae_TB_2_6193" type="insertion" xml:id="Bae_TB_2_784"/>
         <p xml:id="Bae_TB_2_785">Der Entwurf des Uebereinkommens</p>
         <p xml:id="Bae_TB_2_786">" 
           <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_787">Baron Dipauli</persName> wird in einer der nächsten Sitzungen einen 
@@ -1234,13 +1234,13 @@
             <expan xml:id="Bae_TB_2_875">und</expan>
           </choice> des Meritums in erster Lesung) eine Woche (siebenstündige Sitzungen, keine Abendsitzungen, keine Unterbrechung der Sitzung) gewärt werden. Dagegen geben die 
           <anchor xml:id="Bae_TB_2_6193"/>
-          <!-- CA: anchor für das vorherige addspan XXX1 -->
+          <!-- CA: anchor für das vorherige addspan  -->
         </p>
         <pb facs="#F_K-4_Bae_TB_2_115" n="20r" xml:id="Bae_TB_2_783"/>
         <p xml:id="Bae_TB_2_6194">zusammenfasste. Man ersieht aus demselben, wie detaillirt die Abmachungen waren.</p>
         <!-- DC handschriftliche Einfügung mit Tinte auf fol 19v und 20v -->
         <anchor xml:id="Bae_TB_2_6195"/>
-        <app from="XXX1" type="insertion" xml:id="Bae_TB_2_6196">
+        <app from="#Bae_TB_2_6193" type="insertion" xml:id="Bae_TB_2_6196">
           <rdg xml:id="Bae_TB_2_6197">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6198"/>
@@ -1449,9 +1449,7 @@
           </index> in Verbindung gebracht worden ist, haben die Verhandlungen zu keinem Resultat geführt." 
         </p>
         <anchor xml:id="Bae_TB_2_6007"/>
-        <!-- CA: anchor für addspan Bae_TB_2_1028 -->
-        <!-- DC: Einklebung Zeitungsausschnitt siehe unten -->
-        <pb facs="#F_K-4_Bae_TB_2_044" n="22r" xml:id="Bae_TB_2_993"/>
+        <!-- CA: anchor für addspan Bae_TB_2_1028 --><pb facs="#F_K-4_Bae_TB_2_044" n="22r" xml:id="Bae_TB_2_993"/>
         <p xml:id="Bae_TB_2_6203">
           <persName key="EbenhochAlfred" ref="https://d-nb.info/gnd/132867745" xml:id="Bae_TB_2_994">Ebenhoch</persName>
           <app from="#Bae_MF_1_2869" type="equal" xml:id="Bae_TB_2_995">
@@ -1950,7 +1948,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_055" n="27v" xml:id="Bae_TB_2_6074"/>
-        <addSpan spanTo="#Bae_TB_2_xxx27v" type="insertion" xml:id="Bae_TB_2_1373"/>
+        <addSpan spanTo="#Bae_TB_2_6211" type="insertion" xml:id="Bae_TB_2_1373"/>
         <p xml:id="Bae_TB_2_1374">
           <anchor xml:id="Bae_TB_2_6010"/>[handschriftlich]: Unsere Erklärung zur 
           <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1375">Egerer</placeName> Sache. [handschriftlich am linken Rand]: 
@@ -1962,8 +1960,7 @@
               <abbr xml:id="Bae_TB_2_1380">Abg.</abbr>
               <expan xml:id="Bae_TB_2_1381">Abgeordneter</expan>
             </choice> Dr. Bärnreither 
-          </persName> (
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1382">verfassungstreuer Großgrundbesitz</orgName>): Im Auftrage der 
+          </persName> (<orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1382">verfassungstreuer Großgrundbesitz</orgName>): Im Auftrage der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1383">Vereinigung</orgName>, der ich angehöre, erlaube ich mir, zu der Angelegenheit, welche hier in Verhandlung steht, nachstehenden Antrag vorzulegen: "Indem das Haus der Regierung bezüglich ihres Verhaltens gegenüber dem am 
           <date when="1897-07-11" xml:id="Bae_TB_2_1384">11. Juli l. J.</date> in 
           <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1385">Eger</placeName> geplanten Volkstage den entschiedenen Tadel ausspricht (Hört! Hört! links), geht es über die Anträge der Abgeordneten 
@@ -2018,7 +2015,7 @@
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_2_1420">Böhmen</placeName> und bei dem bewährten und unerschütterlichen Sinne für strenge Gesetzlichkeit, die Niemand in Frage zu stellen oder zu bezweifeln ein Recht hat, die Regierung an dem unglücklichen Tage von 
           <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1421">Eger</placeName> Mittel in Anwendung gebracht hat, die den schärfsten Tadel verdienen (Beifall links.) 
           <anchor xml:id="Bae_TB_2_6211"/>
-          <!-- CA: anchor vom vorherigen addspan xxxv27-->
+          <!-- CA: anchor vom vorherigen addspan -->
         </p>
         <pb facs="#F_K-4_Bae_TB_2_056" n="28r" xml:id="Bae_TB_2_1363"/>
         <p xml:id="Bae_TB_2_1364">
@@ -2035,7 +2032,7 @@
           </app>
           <!-- Einklebung Zeitungsartikel fol. 27v, 28v, 29v -->
           <anchor xml:id="Bae_TB_2_6212"/>
-          <app from="xxx27v" type="insertion" xml:id="Bae_TB_2_6213">
+          <app from="#Bae_TB_2_6211" type="insertion" xml:id="Bae_TB_2_6213">
             <rdg xml:id="Bae_TB_2_6214">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6215"/>
@@ -2099,8 +2096,7 @@
               <abbr xml:id="Bae_TB_2_1425">Abg.</abbr>
               <expan xml:id="Bae_TB_2_1426">Abgeordneter</expan>
             </choice> Dr. Bärnreither 
-          </persName> (
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1427">verfassungstreuer Grobgrundbesitz</orgName>) erklärt, daß sich seit der Zeit, in welcher ein analoger Antrag, wie der jetzt in Verhandlung stehende, gestellt wurde, in der Sache selbst, insbesondere in Bezug auf die juristische Seite der Frage nichts geändert habe und daß daher die Stellung seiner Gesinnungsgenossen auch heute einen Antrag auf motivirte Tagesordnung, in welcher sie die Erlassung der 
+          </persName> (<orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1427">verfassungstreuer Grobgrundbesitz</orgName>) erklärt, daß sich seit der Zeit, in welcher ein analoger Antrag, wie der jetzt in Verhandlung stehende, gestellt wurde, in der Sache selbst, insbesondere in Bezug auf die juristische Seite der Frage nichts geändert habe und daß daher die Stellung seiner Gesinnungsgenossen auch heute einen Antrag auf motivirte Tagesordnung, in welcher sie die Erlassung der 
           <index xml:id="Bae_TB_2_1428">
             <term key="Reichsrat" xml:id="Bae_TB_2_1429">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_2_1430">
@@ -2315,7 +2311,7 @@
               <term key="Paragraph14" xml:id="Bae_TB_2_1578"/>
             </index>
           </index> begegnen kann? Da muß man sich billig fragen, wie stellt sich die Regierung die Zukunft vor, und wie will sie diesen Staat und wohin will sie diesen Staat eigentlich führen? 
-        </p>
+        <anchor/><!-- anchor für den addspan xxx28v --></p>
         <pb facs="#F_K-4_Bae_TB_2_058" n="29r" xml:id="Bae_TB_2_1657"/>
         <p xml:id="Bae_TB_2_6223">war die Temperatur im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_1658">Hause</orgName> noch höher gestiegen. Zur allgemeinen Ueberraschung griff 
@@ -2659,7 +2655,7 @@
           </app>
           <!-- DC Einklebung Artikel fol. 32v und 33v -->
           <anchor xml:id="Bae_TB_2_6225"/>
-          <app from="xxx32v" type="insertion" xml:id="Bae_TB_2_6226">
+          <app from="#Bae_TB_2_6231" type="insertion" xml:id="Bae_TB_2_6226">
             <rdg xml:id="Bae_TB_2_6227">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6228"/>
@@ -2677,7 +2673,7 @@
           </choice> Parteien, die, wenn auch rücksichtslos, aber offen und ehrlich
         </p>
         <pb facs="#F_K-4_Bae_TB_2_065" n="32v" xml:id="Bae_TB_2_6081"/>
-        <addSpan spanTo="#Bae_TB_2_6012" type="insertion" xml:id="Bae_TB_2_1857"/>
+        <addSpan spanTo="#Bae_TB_2_6231" type="insertion" xml:id="Bae_TB_2_1857"/>
         <p xml:id="Bae_TB_2_1858">
           <anchor xml:id="Bae_TB_2_1859"/>[handschriftlich]: 
           <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_TB_2_1860">Budgetausschusssitzung</orgName> vom 
@@ -3303,7 +3299,7 @@
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_2_2315">Schwegel</persName>, ob wir uns nicht an vertraulichen Besprechungen beteiligen wollten. Wir fanden es für gut ihm darauf eine schriftliche Antwort zu geben,
         </p>
         <pb facs="#F_K-4_Bae_TB_2_077" n="38v" xml:id="Bae_TB_2_2418"/>
-        <addSpan spanTo="#xxx38v" type="insertion" xml:id="Bae_TB_2_2417"/>
+        <addSpan spanTo="#Bae_TB_2_6236" type="insertion" xml:id="Bae_TB_2_2417"/>
         <p xml:id="Bae_TB_2_2419">
           <anchor xml:id="Bae_TB_2_2420"/>Unsere Information an 
           <persName key="WolfahrtCarl" xml:id="Bae_TB_2_2421">Wolfahrt</persName> vom 
@@ -3354,7 +3350,7 @@
           </index> ist die Durchfürung der zweiten Lesung des Ausgleichs-
         </p>
         <anchor xml:id="Bae_TB_2_6236"/>
-        <!-- CA: anchor für den addspan xxx38v -->
+        <!-- CA: anchor für den addspan 38v -->
         <pb facs="#F_K-4_Bae_TB_2_078" n="39r" xml:id="Bae_TB_2_2317"/>
         <p xml:id="Bae_TB_2_6237">um vor Recriminationen sicher zu sein. Unsere note verbale lautete: "Auf die Frage: ob 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_2318">unsere Vereinigung</orgName> sich an vertraulichen Besprechungen beteiligen würde, welche den Zweck verfolgen sollen, eine Beilegung des böhmischen 
@@ -3420,7 +3416,7 @@
         </p>
         <pb facs="#F_K-4_Bae_TB_2_079" n="39v" xml:id="Bae_TB_2_2454"/>
         <p xml:id="Bae_TB_2_6238">
-          <addSpan xml:id="Bae_TB_2_6239"/>provisoriums bei Fortdauer der 
+          <addSpan spanTo="#Bae_TB_2_6240" xml:id="Bae_TB_2_6239"/>provisoriums bei Fortdauer der 
           <index xml:id="Bae_TB_2_2457">
             <term key="Reichsrat" xml:id="Bae_TB_2_2458">Obstruction</term>
             <index xml:id="Bae_TB_2_2459">
@@ -3442,7 +3438,7 @@
         <p xml:id="Bae_TB_2_2469">Die Erregung unter der deutschen Bevölkerung sowol in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_2_2470">Böhmen</placeName> als in den Alpenländern ist sehr gross. Die Abgeordneten folgen nur den Antrieben derselben, und ihr heftiges Auftreten ist den unmittelbaren Einflüssen aus den Wählerschaften zuzuschreiben. Wenn die Situation fortdauert, kann die Bewegung in diesen Theilen des Reiches Formen annehmen, die eine spätere Aussöhnung fast unmöglich machen wird. 
           <anchor xml:id="Bae_TB_2_6240"/>
-          <!-- CA: anchor für addspan xxx39v -->
+          <!-- CA: anchor für addspan 39v -->
         </p>
         <pb facs="#F_K-4_Bae_TB_2_080" n="40r" xml:id="Bae_TB_2_2364"/>
         <p xml:id="Bae_TB_2_6241">verwenden wollte. Diese Art der Dinge 
@@ -3517,11 +3513,11 @@
         </p>
         <!-- DC Einklebung von fol. 38v, 39v und 40v -->
         <anchor xml:id="Bae_TB_2_6242"/>
-        <app from="xxx38v" type="insertion" xml:id="Bae_TB_2_6243">
+        <app from="#Bae_TB_2_6236" type="insertion" xml:id="Bae_TB_2_6243">
           <rdg xml:id="Bae_TB_2_6244">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6245"/>
-        <app from="xxx39v" type="insertion" xml:id="Bae_TB_2_6246">
+        <app from="#Bae_TB_2_6240" type="insertion" xml:id="Bae_TB_2_6246">
           <rdg xml:id="Bae_TB_2_6247">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6248"/>
@@ -4318,7 +4314,7 @@
           <hi rendition="#ul" xml:id="Bae_TB_2_3042">konnte</hi>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_103" n="51v" xml:id="Bae_TB_2_3177"/>
-        <addSpan spanTo="xxx51v" type="insertion" xml:id="Bae_TB_2_6258"/>
+        <addSpan spanTo="#Bae_TB_2_6259" type="insertion" xml:id="Bae_TB_2_6258"/>
         <p xml:id="Bae_TB_2_3178">
           <anchor xml:id="Bae_TB_2_3179"/>(Originalentwurf von mir) 
         </p>
@@ -4388,7 +4384,7 @@
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_3223">Abgeordnetenhauses</orgName> sind auf eine sachliche Amtsfürung ab
         </p>
         <anchor xml:id="Bae_TB_2_6259"/>
-        <!-- CA. anchor für xxx51v -->
+        <!-- CA. anchor für 51v -->
         <pb facs="#F_K-4_Bae_TB_2_104" n="52r" xml:id="Bae_TB_2_3044"/>
         <p xml:id="Bae_TB_2_6260">die 
           <index xml:id="Bae_TB_2_3045">
@@ -4498,7 +4494,7 @@
             </index>
           </index> donnernd, niemand der so 
           <pb facs="#F_K-4_Bae_TB_2_105" n="52v" xml:id="Bae_TB_2_3224"/>
-          <addSpan spanTo="xxx52v" type="insertion" xml:id="Bae_TB_2_6261"/>zielende Reformen durchzuführen. 
+          <addSpan spanTo="#Bae_TB_2_6262" type="insertion" xml:id="Bae_TB_2_6261"/>zielende Reformen durchzuführen. 
         </p>
         <p xml:id="Bae_TB_2_3225">II. 
           <index xml:id="Bae_TB_2_3226">
@@ -4625,27 +4621,27 @@
         </p>
         <!-- Einklebung von fol. 51v, 52v, 53v und 54v und 55v erster Teil -->
         <anchor xml:id="Bae_TB_2_6264"/>
-        <app from="xxx51v" type="insertion" xml:id="Bae_TB_2_6265">
+        <app from="#Bae_TB_2_6259" type="insertion" xml:id="Bae_TB_2_6265">
           <rdg xml:id="Bae_TB_2_6266">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6267"/>
-        <app from="xxx52v" type="insertion" xml:id="Bae_TB_2_6268">
+        <app from="#Bae_TB_2_6262" type="insertion" xml:id="Bae_TB_2_6268">
           <rdg xml:id="Bae_TB_2_6269">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6270"/>
-        <app from="xxx53v" type="insertion" xml:id="Bae_TB_2_6271">
+        <app from="#Bae_TB_2_6280" type="insertion" xml:id="Bae_TB_2_6271">
           <rdg xml:id="Bae_TB_2_6272">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6273"/>
-        <app from="xxx54v" type="insertion" xml:id="Bae_TB_2_6274">
+        <app from="#Bae_TB_2_6291" type="insertion" xml:id="Bae_TB_2_6274">
           <rdg xml:id="Bae_TB_2_6275">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6276"/>
-        <app from="xxx55v1" type="insertion" xml:id="Bae_TB_2_6277">
+        <app from="#Bae_TB_2_6294" type="insertion" xml:id="Bae_TB_2_6277">
           <rdg xml:id="Bae_TB_2_6278">[...]</rdg>
         </app>
         <pb facs="#F_K-4_Bae_TB_2_107" n="53v" xml:id="Bae_TB_2_3252"/>
-        <addSpan spanTo="xxx53v" type="insertion" xml:id="Bae_TB_2_6279"/>
+        <addSpan spanTo="#Bae_TB_2_6280" type="insertion" xml:id="Bae_TB_2_6279"/>
         <p xml:id="Bae_TB_2_3253">1. 
           <index xml:id="Bae_TB_2_3254">
             <term key="OesterreichUngarn" xml:id="Bae_TB_2_3255">Ausgleichsprovisorium</term>
@@ -4694,7 +4690,7 @@
             </index>
           </index>.
           <anchor xml:id="Bae_TB_2_6280"/>
-          <!-- anchor für addspan xxx53v -->
+          <!-- anchor für addspan 53v -->
         </p>
         <pb facs="#F_K-4_Bae_TB_2_108" n="54r" xml:id="Bae_TB_2_3325"/>
         <p xml:id="Bae_TB_2_3326">
@@ -4711,7 +4707,7 @@
         <p xml:id="Bae_TB_2_3335">Zum Schluss verfasste ich ein Rundschreiben zwar im Bette liegend doch überzeugt dass wir verpflichtet seien den 
           <hi rendition="#ul" xml:id="Bae_TB_2_3336">österreichischen</hi> Sinn unserer Politik zu rechtfertigen. 
           <anchor xml:id="Bae_TB_2_6281"/>
-          <app from="xxx55v2" type="insertion" xml:id="Bae_TB_2_6282">
+          <app from="#Bae_TB_2_6299" type="insertion" xml:id="Bae_TB_2_6282">
             <rdg xml:id="Bae_TB_2_6283">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6284"/>
@@ -4736,7 +4732,7 @@
           </choice> besonders dieser Satz war zu viel. So gemässigt das erstere war, so sehr verstimmend wirkte das letztere, weil darunter vom Kampf uneingeschränkt gesprochen wurde. 
         </p>
         <pb facs="#F_K-4_Bae_TB_2_109" n="54v" xml:id="Bae_TB_2_3285"/>
-        <addSpan spanTo="xxx54v" type="insertion" xml:id="Bae_TB_2_6290"/>
+        <addSpan spanTo="#Bae_TB_2_6291" type="insertion" xml:id="Bae_TB_2_6290"/>
         <p xml:id="Bae_TB_2_3286">IV. Weitere parlamentarische Thätigkeit</p>
         <p xml:id="Bae_TB_2_3287">Die deutschen Parteien, von dem Bestreben 
           <del rendition="#s" xml:id="Bae_TB_2_3288">geleitet</del> erfüllt, das 
@@ -4752,7 +4748,7 @@
           <del rendition="#s" xml:id="Bae_TB_2_3296">der Vorstände</del> stattfinden. Die deutschen Parteien warten ab bis die Regierung an sie herantritt. Diese Parteien delegiren eine Abordnung von Vertrauensmännern, welche die eventuellen Verhandlungen mit der Re-
         </p>
         <anchor xml:id="Bae_TB_2_6291"/>
-        <!-- anchor für addspan xxx54v -->
+        <!-- anchor für addspan 54v -->
         <p xml:id="Bae_TB_2_3421">
           <pb facs="#F_K-4_Bae_TB_2_110" n="55r" xml:id="Bae_TB_2_3422"/>Die Wirkung die dieser Satz hervorrief, zeigte mir wieder einmal dass so gut eine Situation ist, man vermeiden muss den Punkt auf das i zu machen. Unsere Haltung durch die ganze schwierige Zeit war sehr correct. Ohne die Verbindung mit den deutschen Parteien aufzugeben, im Gegenteil sie enger knüpfend, hatten wir unsere Selbständigkeit gewahrt, unser Östreichertum keinen Moment verläugnet und im heftigsten Kampf unsere Fahne hoch emporgehalten. Meine Idee, durch ein Rundschreiben, durch eine Art Rechenschaftsbericht dies festzustellen, zu resümieren war für eine Partei, die nicht mit Volksinstincten, sondern mit allerhand dynastischen, staatlichen Erwägungen zu rechnen hat ein Verstoss gegen das Wort 
           <persName key="TalleyrandCharlesMaurice" ref="https://d-nb.info/gnd/118620606" xml:id="Bae_TB_2_3423">Taillerand's</persName>: et surtout point de zèle – Politik die der Allgemeinheit 
@@ -4770,21 +4766,21 @@
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_3433">Großgrundbesitz</orgName> die Meinungen weniger schon eine Wirkung auf das
         </p>
         <pb facs="#F_K-4_Bae_TB_2_111" n="55v" xml:id="Bae_TB_2_3297"/>
-        <addSpan spanTo="xxx55v1" type="insertion" xml:id="Bae_TB_2_6292"/>
+        <addSpan spanTo="#Bae_TB_2_6294" type="insertion" xml:id="Bae_TB_2_6292"/>
         <p xml:id="Bae_TB_2_6293">gierung zu führen 
           <del rendition="#s" xml:id="Bae_TB_2_3298">hätten</del> haben wird. 
         </p>
         <p xml:id="Bae_TB_2_3299">Jede derselben verpflichtet sich, falls die Regierung mit ihr in eine Verhandlung einzutreten versuchen sollte, die vorstehende Vereinbarung als Grundlage der Verhandlungen zu bezeichnen und zu erklären, dass sie bei denselben nur in der angegebenen Weise vorgehen wird.</p>
         <p xml:id="Bae_TB_2_3300">Die Parteien behalten sich auch vor, mit andern befreundeten Gruppen eine Fühlung herzustellen.</p>
         <anchor xml:id="Bae_TB_2_6294"/>
-        <!-- anchor für xxxx55v1 -->
+        <!-- anchor für 55v1 -->
         <anchor xml:id="Bae_TB_2_6295"/>
-        <app from="xxx56r" type="insertion" xml:id="Bae_TB_2_6296">
+        <app from="#Bae_TB_2_6299" type="insertion" xml:id="Bae_TB_2_6296">
           <rdg xml:id="Bae_TB_2_6297">[...]</rdg>
         </app>
         <!-- CA: an diese Stelle kommt die Seite 56r -->
         <p xml:id="Bae_TB_2_3339">
-          <addSpan spanTo="xxx55v2" type="insertion" xml:id="Bae_TB_2_6298"/>[handschriftlich]: Das Rundschreiben an unsere Wähler nach Schluss der Session im Winter 1897 vom 
+          <addSpan spanTo="#Bae_TB_2_6299" type="insertion" xml:id="Bae_TB_2_6298"/>[handschriftlich]: Das Rundschreiben an unsere Wähler nach Schluss der Session im Winter 1897 vom 
           <date when="1897-12-10" xml:id="Bae_TB_2_3340">10 Decbr 97</date>. 
         </p>
         <p xml:id="Bae_TB_2_3341">Die Vereinigung der 
@@ -4793,7 +4789,7 @@
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_3344">Reichsrathes</orgName> erachtet es als ihre Pflicht, ihren Wählern am Schlusse einer ereignißreichen Session durch ein Rundschreiben, wenn auch nur in kurzen Zügen, ihr Verhalten in Erinnerung zu bringen und Rechenschaft zu geben über die wichtigsten Schritte, zu denen sie sich in dieser Zeit entschlossen hat. 
         </p>
         <anchor xml:id="Bae_TB_2_6299"/>
-        <!-- anchor für xxx55v2 -->
+        <!-- anchor für 55v2 -->
         <pb facs="#F_K-4_Bae_TB_2_112" n="56r" xml:id="Bae_TB_2_3301"/>
         <addSpan spanTo="#Bae_TB_2_6015" type="insertion" xml:id="Bae_TB_2_6300"/>
         <p xml:id="Bae_TB_2_3302">Dieses Schriftstück trägt die Unterschriften von 
@@ -4891,7 +4887,7 @@
           <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_TB_2_3389">christlich-socialen Vereinigung</orgName> und der 
           <orgName key="FreiedeutscheVereinigung" xml:id="Bae_TB_2_3390">freien Vereinigung</orgName> ( 
           <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_2_3391">Mauthner</persName>-Gruppe) in diesen Tagen untereinander und mit der Regierung Besprechungen gepflogen. 
-        </p>
+        <anchor/><!-- anchor für xxx56v --></p>
         <pb facs="#F_K-4_Bae_TB_2_114" n="57r" xml:id="Bae_TB_2_3435"/>
         <p xml:id="Bae_TB_2_6301">Verhalten der ganzen Vereinigung ausüben, ist das 
           <choice xml:id="Bae_TB_2_3436">
@@ -5477,7 +5473,7 @@
             <abbr xml:id="Bae_TB_2_3838">u.</abbr>
             <expan xml:id="Bae_TB_2_3839">und</expan>
           </choice> mir damals weniger die Rede als es notwendig gewesen wäre. Wir 
-          <del rend="#s" xml:id="Bae_TB_2_3840">betrachteten</del>
+          <del rendition="#s" xml:id="Bae_TB_2_3840">betrachteten</del>
           <add place="across" xml:id="Bae_TB_2_3841">hofften</add> beide wenigstens die 
           <index xml:id="Bae_TB_2_3842">
             <term key="Reichsrat" xml:id="Bae_TB_2_3843">
@@ -6085,7 +6081,7 @@
           </choice> klagten machte ich zum Gegenstand sofortiger, teils mündlicher, teils schriftlicher Vorstellungen und erzielte
         </p>
         <pb facs="#F_K-4_Bae_TB_2_151" n="75v" xml:id="Bae_TB_2_6143"/>
-        <addSpan spanTo="xxx75v" type="insertion" xml:id="Bae_TB_2_4348"/>
+        <addSpan spanTo="#Bae_TB_2_6308" type="insertion" xml:id="Bae_TB_2_4348"/>
         <p xml:id="Bae_TB_2_4350">
           <anchor xml:id="Bae_TB_2_4351"/>Die Eröffnung des 
           <orgName key="IndustrieundLandwirtschaftsrat" ref="https://d-nb.info/gnd/301633-X" xml:id="Bae_TB_2_4352">Industrierathes</orgName>. 
@@ -6167,7 +6163,7 @@
           </index> und den Handel beziehen soll und daß eigentliche gewerbliche Fragen etwa ausgeschlossen sein sollen, da ja das wirthschaftliche Productionsleben eine Einheit ist und hier Eins ins Andere greift. Aber ich möchte hier auf eine Arbeitstheilung aufmerksam machen, welche dadurch zur Nothwendigkeit wird, daß gewisse specifisch gewerbliche Fragen einer abgesonderten Behandlung bedürfen, und ich bitte die Herren, zur Kenntniß zu nehmen, daß ich – wenn es mir vergönnt sein sollte, mein Ressort länger zu verwalten – die Absicht habe, den Gewerbeförderungs-Beirath, welcher auf gewerblichem Gebiete sich schon manche
         </p>
         <anchor xml:id="Bae_TB_2_6308"/>
-        <!-- anchor für addspan xxx75v -->
+        <!-- anchor für addspan 75v -->
         <pb facs="#F_K-4_Bae_TB_2_152" n="76r" xml:id="Bae_TB_2_4294"/>
         <p xml:id="Bae_TB_2_6309">manchmal trotz der Schwerfälligkeit unserer 
           <index xml:id="Bae_TB_2_4295">
@@ -6225,7 +6221,7 @@
           <persName key="PhilippovichEugen" ref="https://d-nb.info/gnd/116176199" xml:id="Bae_TB_2_4334">Phillipovic</persName> über das Statut erstattete,
         </p>
         <pb facs="#F_K-4_Bae_TB_2_153" n="76v" xml:id="Bae_TB_2_4411"/>
-        <addSpan spanTo="xxx76v" type="insertion" xml:id="Bae_TB_2_6310"/>
+        <addSpan spanTo="#Bae_TB_2_6312" type="insertion" xml:id="Bae_TB_2_6310"/>
         <p xml:id="Bae_TB_2_6311">Lorbeern erworben hat, zu erweitern und umzugestalten, damit er sich zu einem Organ entwickle, welches den von mir erwähnten specifischen gewerblichen Interessen zu dienen mehr und mehr geeignet werde. </p>
         <p xml:id="Bae_TB_2_4412">Aber noch nach einer anderen Richtung muß ich eine Arbeitstheilung betonen. Unlösbar mit dem wahren Interesse der 
           <index xml:id="Bae_TB_2_4413">
@@ -6265,7 +6261,7 @@
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_2_4437">Ungarn</placeName> ins Reine zu bringen. 
         </p>
         <anchor xml:id="Bae_TB_2_6312"/>
-        <!-- anchor für addspan xxx76v -->
+        <!-- anchor für addspan 76v -->
         <pb facs="#F_K-4_Bae_TB_2_154" n="77r" xml:id="Bae_TB_2_4336"/>
         <p xml:id="Bae_TB_2_6313">lies mich die Idee aufgeben. Zum "
           <hi rendition="#ul" xml:id="Bae_TB_2_4337">Volks</hi>"wirtschaftsrath gehörte nach seiner Ansicht auch die Socialpolitik 
@@ -6284,19 +6280,19 @@
           </app>
           <!-- an diese Stelle kommen die Einklebung fol. 75v, 76v, 77v, 78v, 79v -->
           <anchor xml:id="Bae_TB_2_6314"/>
-          <app from="xxx75v" type="insertion" xml:id="Bae_TB_2_6315">
+          <app from="#Bae_TB_2_6308" type="insertion" xml:id="Bae_TB_2_6315">
             <rdg xml:id="Bae_TB_2_6316">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6317"/>
-          <app from="xxx76v" type="insertion" xml:id="Bae_TB_2_6318">
+          <app from="#Bae_TB_2_6312" type="insertion" xml:id="Bae_TB_2_6318">
             <rdg xml:id="Bae_TB_2_6319">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6320"/>
-          <app from="xxx77v" type="insertion" xml:id="Bae_TB_2_6321">
+          <app from="#Bae_TB_2_6330" type="insertion" xml:id="Bae_TB_2_6321">
             <rdg xml:id="Bae_TB_2_6322">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6323"/>
-          <app from="xxx78v" type="insertion" xml:id="Bae_TB_2_6324">
+          <app from="#Bae_TB_2_6334" type="insertion" xml:id="Bae_TB_2_6324">
             <rdg xml:id="Bae_TB_2_6325">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_6326"/>
@@ -6333,7 +6329,7 @@
           <orgName key="IndustrieundLandwirtschaftsrat" ref="https://d-nb.info/gnd/301633-X" xml:id="Bae_TB_2_4553">Industrierathes</orgName> hatte ich Gelegenheit
         </p>
         <pb facs="#F_K-4_Bae_TB_2_155" n="77v" xml:id="Bae_TB_2_4438"/>
-        <addSpan spanTo="xxx77v" type="insertion" xml:id="Bae_TB_2_6329"/>
+        <addSpan spanTo="#Bae_TB_2_6330" type="insertion" xml:id="Bae_TB_2_6329"/>
         <p xml:id="Bae_TB_2_4439">Die im Amte befindliche Regierung hat die 
           <index xml:id="Bae_TB_2_4440">
             <term key="OesterreichUngarn" xml:id="Bae_TB_2_4441">Ausgleichsvorlagen</term>
@@ -6405,7 +6401,7 @@
           </index> nicht unberechtigt. Aber es wäre ganz
         </p>
         <anchor xml:id="Bae_TB_2_6330"/>
-        <!-- anchor für addspan xxx77v -->
+        <!-- anchor für addspan 77v -->
         <pb facs="#F_K-4_Bae_TB_2_156" n="78r" xml:id="Bae_TB_2_4555"/>
         <p xml:id="Bae_TB_2_6331">einer von meinem alten Freunde 
           <persName key="HallwichHermann" ref="https://d-nb.info/gnd/139873708" xml:id="Bae_TB_2_4556">Hallwich</persName> gelegten Miene entgegenzuarbeiten. Er wollte nichts weniger als gleich die ganzen 
@@ -6462,7 +6458,7 @@
           <anchor xml:id="Bae_TB_2_4594"/>mir viel Mühe, denn ich wusste, dass 
         </p>
         <pb facs="#F_K-4_Bae_TB_2_157" n="78v" xml:id="Bae_TB_2_4489"/>
-        <addSpan spanTo="xxx78v" type="insertion" xml:id="Bae_TB_2_6332"/>
+        <addSpan spanTo="#Bae_TB_2_6334" type="insertion" xml:id="Bae_TB_2_6332"/>
         <p xml:id="Bae_TB_2_6333">gefehlt, wollten wir uns auf Recriminationen verlegen. Es handelt sich nicht um einen Kampf, sondernum eine Parallel-Action mit dem gleichen Ziele der 
           <index xml:id="Bae_TB_2_4490">
             <term key="Oesterreich" xml:id="Bae_TB_2_4491">Industrie-Förderung</term>
@@ -6657,7 +6653,7 @@
           <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4688">arbeitsstatistische Amt</orgName> hineingebracht. Jetzt rief ich die Sache ins Leben. Zwar 
         </p>
         <pb facs="#F_K-4_Bae_TB_2_161" n="80v" xml:id="Bae_TB_2_4756"/>
-        <addSpan spanTo="xxx80v" type="insertion" xml:id="Bae_TB_2_4755"/>
+        <addSpan spanTo="#Bae_TB_2_6338" type="insertion" xml:id="Bae_TB_2_4755"/>
         <p xml:id="Bae_TB_2_4757">
           <anchor xml:id="Bae_TB_2_4758"/>[handschriftliche Ergänzung rechts]: 
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_2_4759">N. Fr. Pr.</orgName>
@@ -6738,7 +6734,7 @@
           </index>. Es ist den Herren bekannt, daß eine solche seit dem Jahre 
           <date when="1894" xml:id="Bae_TB_2_4821">1894</date> bearbeitet wird. Das Material hiezu wird durch Zählblätter gewonnen, welche die politischen Behörden auszufüllen haben und die dann durch den zuständigen Gewerbe-Inspector begutachtet, eventuell ergänzt oder
           <anchor xml:id="Bae_TB_2_6338"/>
-          <!-- anchor für addspan xxx80v -->
+          <!-- anchor für addspan 80v -->
           <pb facs="#F_K-4_Bae_TB_2_162" n="81r" xml:id="Bae_TB_2_4690"/>war es mir nicht möglich 
           <app from="#Bae_MF_2_639" type="equal" xml:id="Bae_TB_2_4691">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4692">, der in Verbindung mit dem arbeitsstatistischen Amt gebracht wurde. Diesen Gedanken hatte ich seinerzeit im Gewerbeausschuss vertreten und in den Gesetzentwurf über das arbeitsstatistische Amt hineingebracht. Jetzt rief ich die Sache ins Leben. Zwar war es mir nicht möglich</rdg>
@@ -6798,7 +6794,7 @@
           </index> setzte ich mich mit der Leitung der 
           <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_2_4733">socialdemocratischen Partei</orgName> in Verbindung, aber erst als ich selbständig 
           <pb facs="#F_K-4_Bae_TB_2_163" n="81v" xml:id="Bae_TB_2_4822"/>
-          <addSpan spanTo="xxx81v" type="insertion" xml:id="Bae_TB_2_6339"/>berichtigt werden. Weiters dienen diesem Zwecke Vormerkungen und Erhebungen – allerdings bisher nur in beschränktem Umfange – durch das 
+          <addSpan spanTo="#Bae_TB_2_6340" type="insertion" xml:id="Bae_TB_2_6339"/>berichtigt werden. Weiters dienen diesem Zwecke Vormerkungen und Erhebungen – allerdings bisher nur in beschränktem Umfange – durch das 
           <orgName key="StatistischesDepartement" ref="https://d-nb.info/gnd/121099-3" xml:id="Bae_TB_2_4823">statistische Departement</orgName> selbst. Es werden 
           <index xml:id="Bae_TB_2_4824">
             <term key="Presse" xml:id="Bae_TB_2_4825">Zeitungen</term>
@@ -6869,7 +6865,7 @@
         <p xml:id="Bae_TB_2_4869">Ich möchte es, wie gesagt, vermeiden, weit ausgreifende Zukunftspläne für das 
           <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4870">arbeitsstatistische Amt</orgName> zu schmieden. Doch kann ich mir nicht versagen, Ihnen, meine Herren, mitzutheilen, daß allerdings, meiner Meinung nach, eine brennende Frage 
           <anchor xml:id="Bae_TB_2_6340"/>
-          <!-- anchor für addspan xxx81v -->
+          <!-- anchor für addspan 81v -->
           <pb facs="#F_K-4_Bae_TB_2_164" n="82r" xml:id="Bae_TB_2_4735"/>eine Liste zusammengestellt hatte, von der ich wusste, dass sie die richtigen, 
           <choice xml:id="Bae_TB_2_4736">
             <abbr xml:id="Bae_TB_2_4737">d.h.</abbr>
@@ -6901,15 +6897,15 @@
         </p>
         <!-- Einklebung Zeitungsartikel 80v, 81v, 82v -->
         <anchor xml:id="Bae_TB_2_6341"/>
-        <app from="xxx80v" type="insertion" xml:id="Bae_TB_2_6342">
+        <app from="#Bae_TB_2_6338" type="insertion" xml:id="Bae_TB_2_6342">
           <rdg xml:id="Bae_TB_2_6343">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6344"/>
-        <app from="xxx81v" type="insertion" xml:id="Bae_TB_2_6345">
+        <app from="#Bae_TB_2_6340" type="insertion" xml:id="Bae_TB_2_6345">
           <rdg xml:id="Bae_TB_2_6346">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6347"/>
-        <app from="xxx82v" type="insertion" xml:id="Bae_TB_2_6348">
+        <app from="#Bae_TB_2_6020" type="insertion" xml:id="Bae_TB_2_6348">
           <rdg xml:id="Bae_TB_2_6349">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_2_4893">
@@ -7132,7 +7128,7 @@
       <div n="1898-09" type="diaryEntry" xml:id="Bae_TB_2_5023">
         <p xml:id="Bae_TB_2_5024">
           <pb facs="#F_K-4_Bae_TB_2_172" n="86r" xml:id="Bae_TB_2_5025"/>I. 
-          <hi rendition="ul" xml:id="Bae_TB_2_5026">Meine 
+          <hi rendition="#ul" xml:id="Bae_TB_2_5026">Meine 
             <index xml:id="Bae_TB_2_5027">
               <term key="Baernreither" xml:id="Bae_TB_2_5028">Informationsreisen</term>
               <index xml:id="Bae_TB_2_5029">
@@ -7770,7 +7766,7 @@
           <rdg xml:id="Bae_TB_2_6355">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6356"/>
-        <app from="xxx99v" type="insertion" xml:id="Bae_TB_2_6357">
+        <app from="#Bae_TB_2_6021" type="insertion" xml:id="Bae_TB_2_6357">
           <rdg xml:id="Bae_TB_2_6358">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_2_5612">
@@ -7990,7 +7986,7 @@
             <index xml:id="Bae_TB_2_5602">
               <term key="Industrie" xml:id="Bae_TB_2_5603"/>
             </index>
-          </index> angenehm berührt war. Es freue ihn auch, daß
+          </index> angenehm berührt war. Es freue ihn auch, daß<anchor/><!-- anchor für xxx98v -->
         </p>
         <p xml:id="Bae_TB_2_5679">
           <pb facs="#F_K-4_Bae_TB_2_198" n="99r" xml:id="Bae_TB_2_5680"/>Nachdem wir 
@@ -8004,7 +8000,7 @@
           </choice> ein Bad in 
           <placeName key="Veldes" ref="https://www.geonames.org/3203925/bled.html" xml:id="Bae_TB_2_5688">Veldes</placeName> sehr erquickend. Nachmittags war Diner bei 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_2_5689">Schwegel</persName> in Grimschitzhof, dann Kaffee unter herrlichen Bäumen, endlich eine Rundfahrt um den See. Abends sass ich beim herrlichsten Mondschein noch lange am See. Anderntags zeitliche Ausfart nach 
-          <hi rendition="ul" xml:id="Bae_TB_2_5690">
+          <hi rendition="#ul" xml:id="Bae_TB_2_5690">
             <placeName key="Neumarktl" ref="https://www.geonames.org/3188687/obcina-trzic.html" xml:id="Bae_TB_2_5691">Neumarktl</placeName>
           </hi>, eine kleine deutsche Stadt knapp am Fusse der 
           <placeName key="Karawanken" ref="https://www.geonames.org/3323262/karawanken.html" xml:id="Bae_TB_2_5692">Karawanken</placeName>. Ein frischer herrlicher Morgen voll Ozon in der Luft, so recht geeignet unermüdlich 

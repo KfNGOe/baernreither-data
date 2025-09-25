@@ -3926,7 +3926,7 @@
             <anchor xml:id="Bae_MF_1_3833"/>dieser Frage de 
             <del rendition="#s" xml:id="Bae_MF_1_3198">s</del>
             <add place="across" xml:id="Bae_MF_1_3199">n</add>
-            <app from="#Bae_TB_2_2045" rend="notEqual" xml:id="Bae_MF_1_3200">
+            <app from="#Bae_TB_2_2045" type="notEqual" xml:id="Bae_MF_1_3200">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_3201">diese Frage dem</rdg>
             </app>
             <anchor xml:id="Bae_MF_1_3202"/>
@@ -4593,7 +4593,7 @@
             <anchor xml:id="Bae_MF_1_3741"/>
             <hi rendition="#ul" xml:id="Bae_MF_1_3742">sistieren</hi> und 
             <app from="#Bae_TB_2_3054" type="notEqual" xml:id="Bae_MF_1_3743">
-              <rdg type="notEqual" xml:id="Bae_MF_1_3744">sistieren o.</rdg>
+              <rdg wit="notEqual" xml:id="Bae_MF_1_3744">sistieren o.</rdg>
             </app>
             <anchor xml:id="Bae_MF_1_3745"/>und reinen Tisch machen. Nichts von alledem. Das Standrecht wurde verhängt zugleich der 
             <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_MF_1_3746">Landtag</orgName> einberufen, der in solchen Zeiten nie einberufen werden durfte. 
