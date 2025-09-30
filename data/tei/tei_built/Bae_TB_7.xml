@@ -569,7 +569,8 @@
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_2062"/>
           </app>
         </p>
-        <anchor xml:id="Bae_TB_7_341"/><!-- anchor für den addspan -->
+        <anchor xml:id="Bae_TB_7_341"/>
+        <!-- anchor für den addspan -->
         <note type="editorial" xml:id="Bae_TB_7_2071">Ergänzung mit Bleistift: Bei der Abstimmung blieb die Regierung in der Minorität 
           <choice xml:id="Bae_TB_7_2243">
             <abbr xml:id="Bae_TB_7_2244">u.</abbr>
@@ -577,7 +578,10 @@
           </choice> vertagte sofort das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_2072">Haus</orgName>. 
         </note>
-        <anchor/><app from="#Bae_TB_7_341" type="insertion"><rdg>[...]</rdg></app>
+        <anchor xml:id="Bae_TB_7_4878"/>
+        <app from="#Bae_TB_7_341" type="insertion" xml:id="Bae_TB_7_4879">
+          <rdg xml:id="Bae_TB_7_4880">[...]</rdg>
+        </app>
         <!--Beginn der Einklebung. 41 Seiten eingeklebtes vervielfältigtes handschriftliches Protokoll-->
         <pb facs="#F_K-4_Bae_TB_7_009" n="4v" xml:id="Bae_TB_7_2073"/>
         <note type="editorial" xml:id="Bae_TB_7_2074">Diese Seite ist leer.</note>
@@ -2109,7 +2113,8 @@
           <app from="#Bae_MF_6-1_1209" type="equal" xml:id="Bae_TB_7_3607">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3608">Beratungen mit den Tschechen</rdg>
           </app>
-          <anchor xml:id="Bae_TB_7_3609"/>(<persName key="Silva-TaroucaErnst" ref="https://d-nb.info/gnd/127064842" xml:id="Bae_TB_7_934">Silva Taroucca</persName>, 
+          <anchor xml:id="Bae_TB_7_3609"/>( 
+          <persName key="Silva-TaroucaErnst" ref="https://d-nb.info/gnd/127064842" xml:id="Bae_TB_7_934">Silva Taroucca</persName>, 
           <pb facs="#F_K-4_Bae_TB_7_069" n="34v" xml:id="Bae_TB_7_2094"/>
           <note type="editorial" xml:id="Bae_TB_7_2095">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-4_Bae_TB_7_071" n="35r" xml:id="Bae_TB_7_935"/>
@@ -2322,7 +2327,7 @@
         <p xml:id="Bae_TB_7_1008">Die Regierung wird jedoch in der Erledigung dieser beiden Angelegenheiten nur den 
           <hi rendition="#g" xml:id="Bae_TB_7_1009">ersten Schritt</hi> einer Aktion erblicken, die eine sach- und zeitgemäße Regelung der mannigfachen 
           <hi rendition="#g" xml:id="Bae_TB_7_1010">politischen und nationalen Streitpunkte</hi> in 
-          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_7_1011">Böhmen</placeName> überhaupt zum Ziel haben muss. Die Regierung hofft, daß, wenn einmal dieser erste Schritt gelungen sein wird,
+          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_7_1011">Böhmen</placeName> überhaupt zum Ziel haben muss. Die Regierung hofft, daß, wenn einmal dieser erste Schritt gelungen sein wird, 
           <pb facs="#F_K-4_Bae_TB_7_074" n="36v" xml:id="Bae_TB_7_2098"/>
           <note type="editorial" xml:id="Bae_TB_7_2099">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-4_Bae_TB_7_075" n="37r" xml:id="Bae_TB_7_1012"/> die Erkenntnis von der Notwendigkeit, die Landesgesetzgebung auf einer gerechten und unanfechtbaren Grundlage auszugestalten, sich Bahn brechen und daß dadurch auch der Vorteil eines fruchtbaren Zusammenwirkens der Vertreter beider Volksstämme zum Bewusstsein kommen werde. Die Regierung wird nichts unversucht lassen, um diesen Plan nach Kräften zu fördern und das hiezu notwenige Einverständnis aller für die Gesetzgebung des Landes maßgebenden Faktoren zu erzielen. Sie wird aber auch durch eine nach allen Richtungen hin gerechte und wohlwollende Verwaltung jeden Anlass zu Streitigkeiten und Missverständnissen aus dem Wege gehen und die entstandenen Reibungen zu beseitigen trachten, um dadurch das Vertrauen beider Volksstämme des Landes zu den Regierungshandlungen, aber auch zueinander zu stärken, da sie in einem in dieser Hinsicht gebesserten Verhältnis eine wesentliche Bürgschaft des Erfolges erblickt." 
@@ -2340,7 +2345,12 @@
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3669"/>
           </app>
           <anchor xml:id="Bae_TB_7_3670"/>
-          <!-- CA: Anchor für Addspan --><anchor/><app from="#Bae_TB_7_3670"><rdg>[...]</rdg></app><!-- CA. an dieser Stelle für die Lesefassung das addspan, ist aber ohnehin der richtigen Stelle -->
+          <!-- CA: Anchor für Addspan -->
+          <anchor xml:id="Bae_TB_7_4881"/>
+          <app from="#Bae_TB_7_3670" xml:id="Bae_TB_7_4882">
+            <rdg xml:id="Bae_TB_7_4883">[...]</rdg>
+          </app>
+          <!-- CA. an dieser Stelle für die Lesefassung das addspan, ist aber ohnehin der richtigen Stelle -->
         </p>
         <p xml:id="Bae_TB_7_1018">
           <anchor xml:id="Bae_TB_7_3671"/>Was ich hier der Regierung sagen lies, war mein altes Programm. Wenn die Regierung wirklich mit Einsicht 
@@ -2705,20 +2715,11 @@
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3775">zum Berichterstatter gewählt.</rdg>
           </app>
           <anchor xml:id="Bae_TB_7_3776"/>und hatte den Bericht zu arbeiten 
-          <addSpan spanTo="#Bae_TB_7_2114" type="insert" xml:id="Bae_TB_7_2108"/> und im 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_2110">Hause</orgName> zu vertreten. Ich muss gestehen, dass ich dabei aus politischen Gründen eine große Selbstverleugnung dadurch geübt habe, dass ich Zolltarif und Handelsvertrag im 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_2111">Hause</orgName> durchgebracht habe. Gegen die Eisenzölle ist vieles einzuwenden und ihre Ablehnung konnte ich nur mit Mühe verhindern. Aber unser wirtschaftlicher Ausgleich mit Ungarn ist so gefärdet, dass es darauf ankommt durch den gemeinsamen Tarif 
-          <choice xml:id="Bae_TB_7_2546">
-            <abbr xml:id="Bae_TB_7_2547">u.</abbr>
-            <expan xml:id="Bae_TB_7_2548">und</expan>
-          </choice> Vertrag Klammern zwischen den beiden Reichshälften herzustellen, die verhindern, dass sie auseinanderfallen können. Diese Klammern sind teuer erkauft. Unser 
-          <index xml:id="Bae_TB_7_2112">
-            <term key="OesterreichUngarn" xml:id="Bae_TB_7_2113">Verhältnis zu Ungarn</term>
-            <index xml:id="Bae_TB_7_4587">
-              <term key="Verhaeltnis" xml:id="Bae_TB_7_4588"/>
-            </index>
-          </index> muss von Grund aus saniert werden, wenn Österreich nicht immer die Zeche der politischen Konstellationen zahlen soll. 
-          <anchor xml:id="Bae_TB_7_2114"/>
+          <!-- CA: an diese Stelle die Einlage auf 42r -->
+          <anchor xml:id="Bae_TB_7_4904"/>
+          <app from="#Bae_TB_7_2114" type="insert" xml:id="Bae_TB_7_4905">
+            <rdg xml:id="Bae_TB_7_4906">[...]</rdg>
+          </app>
           <app from="#Bae_MF_6-1_1377" type="notEqual" xml:id="Bae_TB_7_3777">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3778">Im Plenum des Abgeordnetenhauses wurde der Tarif von verschiedenen Seiten heftig angegriffen und insbesondere verlangt, die Regierung solle ihn zu einem spezifisch österreichischen zurechtstutzen. Auch schien die Abstimmung über einzelne besonders gefährdete Posten zweifelhaft. Bylandt stand diesen Gefahren gegenüber ratlos da. Call erkundigte sich bei mir immer, wie die Sache stehe. Ich musste alle Anstrengungen machen, den Tarif durchzubringen, aber schließlich wurde er in zweiter und dritter Lesung genehmigt. Der Handelsvertrag mit Deutschland bot weniger Schwierigkeiten, besonders da gewisse Abnormitäten des Tarifes (Schwefelkies und Bücherzoll) durch ihn aus der Welt geschaffen wurden. Im Plenum des Hauses versuchten aber Tschechen und Alldeutsche, aus sehr verschiedenen Gründen, durch einen großen Spektakel die Verhandlungen zu stören und mich am Sprechen zu verhindern. Ich ließ mich aber nicht irre machen, und der Handelsvertrag wurde genehmigt. Ich erzähle hier die Sache ungeschminkt in den Hauptzügen und Hauptmotiven. Wir Oesterreicher standen wieder vor dem Dilemma: unsere Interessen rücksichtslos zu vertreten und dadurch ganz unabsehbare Verwicklungen herbeizuführen oder für die Sicherheit und Verhandlungsfähigkeit der Monarchie Opfer zu bringen. Der Dualismus ist eben brüchig geworden. Unser Verhältnis zu Ungarn muss von Grund auf saniert werden. Lünz, im Juli 1905.</rdg>
           </app>
@@ -2775,6 +2776,22 @@
           </choice> sehr interessant war. 
           <pb facs="#F_K-4_Bae_TB_7_084" n="41v" xml:id="Bae_TB_7_2115"/>
           <note type="editorial" xml:id="Bae_TB_7_2116">Diese Seite ist leer.</note>
+          <pb facs="#F_K-4_Bae_TB_7_085" n="42v1" xml:id="Bae_TB_7_4907"/>
+          <addSpan spanTo="#Bae_TB_7_2114" type="insert" xml:id="Bae_TB_7_2108"/> und im 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_2110">Hause</orgName> zu vertreten. Ich muss gestehen, dass ich dabei aus politischen Gründen eine große Selbstverleugnung dadurch geübt habe, dass ich Zolltarif und Handelsvertrag im 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_2111">Hause</orgName> durchgebracht habe. Gegen die Eisenzölle ist vieles einzuwenden und ihre Ablehnung konnte ich nur mit Mühe verhindern. Aber unser wirtschaftlicher Ausgleich mit Ungarn ist so gefärdet, dass es darauf ankommt durch den gemeinsamen Tarif 
+          <choice xml:id="Bae_TB_7_2546">
+            <abbr xml:id="Bae_TB_7_2547">u.</abbr>
+            <expan xml:id="Bae_TB_7_2548">und</expan>
+          </choice> Vertrag Klammern zwischen den beiden Reichshälften herzustellen, die verhindern, dass sie auseinanderfallen können. Diese Klammern sind teuer erkauft. Unser 
+          <index xml:id="Bae_TB_7_2112">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_7_2113">Verhältnis zu Ungarn</term>
+            <index xml:id="Bae_TB_7_4587">
+              <term key="Verhaeltnis" xml:id="Bae_TB_7_4588"/>
+            </index>
+          </index> muss von Grund aus saniert werden, wenn Österreich nicht immer die Zeche der politischen Konstellationen zahlen soll. 
+          <anchor xml:id="Bae_TB_7_2114"/>
+          <!-- anchor für addspan -->
           <pb facs="#F_K-4_Bae_TB_7_086" n="42r" xml:id="Bae_TB_7_1091"/>
           <persName key="KornfeldSigmund" ref="https://d-nb.info/gnd/136423078" xml:id="Bae_TB_7_1092">Kornfeld</persName> bekannte sich offen 
           <choice xml:id="Bae_TB_7_2561">
@@ -2872,14 +2889,17 @@
         </p>
         <anchor xml:id="Bae_TB_7_2122"/>
         <!-- CA: Anchor für das insertion 42v -->
-        
         <note type="editorial" xml:id="Bae_TB_7_2123">Einklebter Zeitungsartikel aus der Neuen Freien Presse, 1.9.1905. Randnotiz von Baernreither dazu: Apponyi scheint 
           <choice xml:id="Bae_TB_7_2576">
             <abbr xml:id="Bae_TB_7_2577">D</abbr>
             <expan xml:id="Bae_TB_7_2578">Derschatta</expan>
           </choice> gegenüber ähnliche Gedanken entwickelt zu haben wie (N. f. Presse vom 1.9.09) der Budapesti Hirlap. 
         </note>
-        <anchor/><app from="#Bae_TB_7_2122" type="insertion"><rdg>[...]</rdg></app><!-- CA: der eingeklebte Zeitungsartikel ist an der richtigen Stelle -->
+        <anchor xml:id="Bae_TB_7_4884"/>
+        <app from="#Bae_TB_7_2122" type="insertion" xml:id="Bae_TB_7_4885">
+          <rdg xml:id="Bae_TB_7_4886">[...]</rdg>
+        </app>
+        <!-- CA: der eingeklebte Zeitungsartikel ist an der richtigen Stelle -->
         <pb facs="#F_K-4_Bae_TB_7_088" n="43r" xml:id="Bae_TB_7_1109"/>
         <p xml:id="Bae_TB_7_1110">
           <anchor xml:id="Bae_TB_7_3806"/>Wir schieden voneinander uns spätere Anknüpfungen vorbehaltend. Kurze Zeit darauf machte 
@@ -3066,9 +3086,16 @@
           </persName> aus dem 
           <anchor xml:id="Bae_TB_7_3821"/>
           <!-- CA: an diese Stelle kommt 44v und 45v -->
-          <anchor/><app from="#xxxx44v" type="insertion"><rdg>[...]</rdg></app>
-          <anchor/><app from="#xxxx45v" type="insertion"><rdg>[...]</rdg></app>
-          <pb facs="#F_K-4_Bae_TB_7_091" n="44v" xml:id="Bae_TB_7_1181"/><addSpan spanTo="#xxxx44v" type="insertion"/>Während meiner 
+          <anchor xml:id="Bae_TB_7_4887"/>
+          <app from="#Bae_TB_7_4894" type="insertion" xml:id="Bae_TB_7_4888">
+            <rdg xml:id="Bae_TB_7_4889">[...]</rdg>
+          </app>
+          <anchor xml:id="Bae_TB_7_4890"/>
+          <app from="#Bae_TB_7_4896" type="insertion" xml:id="Bae_TB_7_4891">
+            <rdg xml:id="Bae_TB_7_4892">[...]</rdg>
+          </app>
+          <pb facs="#F_K-4_Bae_TB_7_091" n="44v" xml:id="Bae_TB_7_1181"/>
+          <addSpan spanTo="#Bae_TB_7_4894" type="insertion" xml:id="Bae_TB_7_4893"/>Während meiner 
           <index xml:id="Bae_TB_7_1182">
             <term key="Baernreither" xml:id="Bae_TB_7_1183">Studien</term>
             <index xml:id="Bae_TB_7_4781">
@@ -3101,7 +3128,9 @@
             </index>
           </index>. Auf diese Weise erwarb ich mir eine Fertigkeit, 
           <del xml:id="Bae_TB_7_1189">in der ich es zu einer gewissen Vollkommenheit brachte</del>
-          <add place="across" xml:id="Bae_TB_7_1190">die ich damals und später immer mehr ausbildete</add>. Zu keiner der Besprechungen, über die ich in diesen Büchern berichte bin ich gegangen ohne mir einen genauen Plan für die Conversation zu machen, und<anchor/><!-- CA: anchor für xxxx44v --> 
+          <add place="across" xml:id="Bae_TB_7_1190">die ich damals und später immer mehr ausbildete</add>. Zu keiner der Besprechungen, über die ich in diesen Büchern berichte bin ich gegangen ohne mir einen genauen Plan für die Conversation zu machen, und 
+          <anchor xml:id="Bae_TB_7_4894"/>
+          <!-- CA: anchor für 44v -->
           <pb facs="#F_K-4_Bae_TB_7_092" n="45r" xml:id="Bae_TB_7_1168"/>einerseits hervorging dass die 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1169">Ungarn</placeName> auf die Beschleunigung der Sache keinen Wert legen andrerseits Wunsch ausgedrückt, dass 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_7_1170">
@@ -3138,6 +3167,10 @@
         </p>
       </div>
       <div n="1905-10" type="diaryEntry" xml:id="Bae_TB_7_1179">
+        <anchor xml:id="Bae_TB_7_4908"/>
+        <app from="#Bae_TB_7_2128" type="insertion" xml:id="Bae_TB_7_4909">
+          <rdg xml:id="Bae_TB_7_4910">[...]</rdg>
+        </app>
         <addSpan spanTo="#Bae_TB_7_2128" type="insertion" xml:id="Bae_TB_7_2126"/>
         <p xml:id="Bae_TB_7_1180">
           <anchor xml:id="Bae_TB_7_4512"/>
@@ -3228,7 +3261,8 @@
           </app>
           <anchor xml:id="Bae_TB_7_3866"/>Fühlung mit 
           <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1216">Andrassy</persName> zu suchen, als dessen Anhänger sich 
-          <pb facs="#F_K-4_Bae_TB_7_093" n="45v" xml:id="Bae_TB_7_2130"/><addSpan spanTo="#xxxx45v"/>über keine Besprechung von der ich berichte, habe ich unterlassen, gleich darauf, unter dem unmittelbaren und frischen Eindruck des Gehörten, wenn möglich auf Grund meiner stenografischen Notizen die Niederschrift zu machen. Es liegt in dieser Methode eine Disziplinierung des Denkens, 
+          <pb facs="#F_K-4_Bae_TB_7_093" n="45v" xml:id="Bae_TB_7_2130"/>
+          <addSpan spanTo="#Bae_TB_7_4896" xml:id="Bae_TB_7_4895"/>über keine Besprechung von der ich berichte, habe ich unterlassen, gleich darauf, unter dem unmittelbaren und frischen Eindruck des Gehörten, wenn möglich auf Grund meiner stenografischen Notizen die Niederschrift zu machen. Es liegt in dieser Methode eine Disziplinierung des Denkens, 
           <app from="#Bae_MF_6-1_1440" type="equal" xml:id="Bae_TB_7_3834">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3835">war, schärfte ich dabei meine Aufmerksamkeit und mein Gedächtnis, im Bestreben, das Gehörte so genau als möglich fixieren zu können. Wo immer es angängig war, machte ich mir während der Besprechung stenographische Notizen. Auf diese Weise erwarb ich mir eine Fertigkeit, die ich damals und später immer mehr ausbildete. Zu keiner der Besprechungen, über die ich in diesen Blättern berichte, bin ich gegangen, ohne mir einen genauen Plan für die Konversation zu machen und über keine Besprechung, von der ich berichte, habe ich unterlassen gleich darauf, unter dem unmittelbaren frischen Eindruck des Gehörten, wenn möglich auf Grund meiner stenographischen Notizen, die Niederschrift zu machen. Es liegt in dieser Methode eine Disziplinierung des Denkens,</rdg>
           </app>
@@ -3251,8 +3285,8 @@
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3847">Die folgenden Tagebuchblätter, an Ort und Stelle geschrieben, enthalten Gespräche mit ungarischen Politikern.</rdg>
           </app>
           <note type="editorial" xml:id="Bae_TB_7_2127">Diese Einklebung auf den jeweiligen Verso-Seiten ersetzt Teile der Eintragung vom 5.9.1905.</note>
-          <anchor/>
-          <!-- anchor für addspan xxxx45v -->     
+          <anchor xml:id="Bae_TB_7_4896"/>
+          <!-- anchor für addspan 45v -->
           <pb facs="#F_K-4_Bae_TB_7_094" n="46r" xml:id="Bae_TB_7_1217"/>
           <persName key="KornfeldSigmund" ref="https://d-nb.info/gnd/136423078" xml:id="Bae_TB_7_1218">Kornfeld</persName> ausdrücklich bekannt hatte. 
           <app from="#Bae_MF_6-1_1473" type="equal" xml:id="Bae_TB_7_3867">
@@ -3319,7 +3353,7 @@
         <pb facs="#F_K-4_Bae_TB_7_095" n="46v" xml:id="Bae_TB_7_2132"/>
         <note type="editorial" xml:id="Bae_TB_7_2133">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_7_096" n="47r" xml:id="Bae_TB_7_1230"/>
-        <p xml:id="Bae_TB_7_1231"><addSpan/>
+        <p xml:id="Bae_TB_7_1231">
           <anchor xml:id="Bae_TB_7_3877"/>
           <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1232">
             <choice xml:id="Bae_TB_7_2687">
@@ -5944,7 +5978,6 @@
         </p>
         <pb facs="#F_K-4_Bae_TB_7_179" n="89v" xml:id="Bae_TB_7_2204"/>
         <note type="editorial" xml:id="Bae_TB_7_2205">Diese Seite ist leer.</note>
-        
         <!-- Ende der Einklebung von 45r weg - zumal diese Einklebung der reguläre Text ist, diese nicht als Einklebung behandelt.-->
         <pb facs="#F_K-4_Bae_TB_7_180" n="90r" xml:id="Bae_TB_7_1823"/>
         <p xml:id="Bae_TB_7_1824">
@@ -6223,7 +6256,12 @@
         <pb facs="#F_K-4_Bae_TB_7_195" n="97v" xml:id="Bae_TB_7_2225"/>
         <note type="editorial" xml:id="Bae_TB_7_2226">Diese Seite ist leer.</note>
         <anchor xml:id="Bae_TB_7_2227"/>
-        <!-- Ende der Einklebung von fol 90r --><!-- CA: hier die Frage, behandelt man dies als Einklebung, da dies ja als 'regulärer Text zu behandeln ist? -->
+        <anchor xml:id="Bae_TB_7_4911"/>
+        <app from="#Bae_TB_7_2227" type="insertion" xml:id="Bae_TB_7_4912">
+          <rdg xml:id="Bae_TB_7_4913">[...]</rdg>
+        </app>
+        <!-- Ende der Einklebung von fol 90r -->
+        <!-- CA: hier die Frage, behandelt man dies als Einklebung, da dies ja als 'regulärer Text zu behandeln ist? -->
         <pb facs="#F_K-4_Bae_TB_7_196" n="98r" xml:id="Bae_TB_7_1926"/>
         <p xml:id="Bae_TB_7_1927">
           <anchor xml:id="Bae_TB_7_4411"/>Mit den vorstehenden Äusserungen ist – sehr interessant – zu vergleichen, was 
@@ -6349,7 +6387,10 @@
         </p>
         <note type="editorial" xml:id="Bae_TB_7_2231">Zeitungsartikel aus Neue Freie Presse, 12.4.1906.</note>
         <anchor xml:id="Bae_TB_7_2232"/>
-        <anchor/><app from="#Bae_TB_7_2232" type="insertion"><rdg>[...]</rdg></app>
+        <anchor xml:id="Bae_TB_7_4898"/>
+        <app from="#Bae_TB_7_2232" type="insertion" xml:id="Bae_TB_7_4899">
+          <rdg xml:id="Bae_TB_7_4900">[...]</rdg>
+        </app>
         <!-- Ende der Einklebung des Zeitungsartikels -->
         <p xml:id="Bae_TB_7_2001">Diese Rede wurde in dem grossen Saal des "Hotel Royal" gehalten wo sich alle Mitglieder der Coalitionsparteien versammelt hatten! u.z. unmittelbar nach dem Amtsantritt des Coalitionsministeriums.</p>
         <p xml:id="Bae_TB_7_2002">Immer klarer tritt hervor dass 
@@ -6424,7 +6465,10 @@
         <note type="editorial" xml:id="Bae_TB_7_2235">Zeitungsausschnitt der Neuen Freien Presse, 13.4.1906, S. 3.</note>
         <anchor xml:id="Bae_TB_7_2236"/>
         <!-- Ende des eingeklebten Arikels -->
-        <anchor/><app from="#Bae_TB_7_2236" type="insertion"><rdg>[...]</rdg></app>
+        <anchor xml:id="Bae_TB_7_4901"/>
+        <app from="#Bae_TB_7_2236" type="insertion" xml:id="Bae_TB_7_4902">
+          <rdg xml:id="Bae_TB_7_4903">[...]</rdg>
+        </app>
       </div>
       <div n="1906-01-01" type="diaryEntry" xml:id="Bae_TB_7_2047">
         <pb facs="#F_K-4_Bae_TB_7_202" n="101r" xml:id="Bae_TB_7_2048"/>

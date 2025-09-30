@@ -198,10 +198,7 @@
           <app from="#Bae_TB_3_5510" xml:id="Bae_TB_3_5512">
             <rdg xml:id="Bae_TB_3_5513">[...]</rdg>
           </app>
-          <anchor xml:id="Bae_TB_3_5517"/>
-          <app from="#Bae_TB_3_5522" type="insertion" xml:id="Bae_TB_3_5606">
-            <rdg xml:id="Bae_TB_3_5607">[...]</rdg>
-          </app>
+          <anchor xml:id="Bae_TB_3_5517"/><app from="#Bae_TB_3_5522" type="insertion"><rdg>[...]</rdg></app>
           <anchor xml:id="Bae_TB_3_5514"/>
           <app from="#Bae_TB_3_5314" xml:id="Bae_TB_3_5515">
             <rdg xml:id="Bae_TB_3_5516">[...]</rdg>
@@ -2856,7 +2853,7 @@
         <p xml:id="Bae_TB_3_2088">
           <anchor xml:id="Bae_TB_3_2089"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_2090">Wien</placeName>, 
-          <date when="1898-08-03" xml:id="Bae_TB_3_2091">3. August</date>. ( 
+          <date when="1898-08-03" xml:id="Bae_TB_3_2091">3. August</date>. (
           <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_3_2092">
             <choice xml:id="Bae_TB_3_2093">
               <abbr xml:id="Bae_TB_3_2094">Abg.</abbr>
@@ -3314,7 +3311,7 @@
             <abbr xml:id="Bae_TB_3_2406">u.</abbr>
             <expan xml:id="Bae_TB_3_2407">und</expan>
           </choice> kam sehr erregt mit der Nachricht zurück, die 
-          <persName key="KaiserinElisabeth" ref="https://d-nb.info/gnd/118529897" xml:id="Bae_TB_3_2408">Kaiserin</persName> sei ermordet worden. Anfangs ungläubig wurden wir bald durch ein ausführliches 
+          <persName key="KaiserinElisabeth" ref="https://d-nb.info/gnd/118529897" xml:id="Bae_TB_3_2408">Kaiserin</persName> sei ermordet worden. Anfangs ungläubig wurden wir bald durch ein ausführliches
         </p>
         <pb facs="#F_K-4_Bae_TB_3_074c" n="41v" xml:id="Bae_TB_3_5396"/>
         <addSpan spanTo="#Bae_TB_3_5555" type="insertion" xml:id="Bae_TB_3_2440"/>
@@ -3757,9 +3754,9 @@
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_3_2711">Prag</placeName> vor, manches wurd eingewendet, manches als unannehmbar, vieles als unklar bezeichnet, jedoch beschlossen unter allen Umständen die Einladung zu unverbindlichen Besprechungen anzunehmen. In die entscheidende Phase trat[en] die Verhandlungen als 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2712">Thun</persName> nunmehr mit den Deutschen in Verbindung zu treten suchte. 
         </p>
+        
         <p xml:id="Bae_TB_3_2748">
-          <pb facs="#F_K-4_Bae_TB_3_087" n="48v" xml:id="Bae_TB_3_5406"/>
-          <addSpan spanTo="#Bae_TB_3_5570" type="insertion" xml:id="Bae_TB_3_2747"/>
+          <pb facs="#F_K-4_Bae_TB_3_087" n="48v" xml:id="Bae_TB_3_5406"/><addSpan spanTo="#Bae_TB_3_5570" type="insertion" xml:id="Bae_TB_3_2747"/>
           <anchor xml:id="Bae_TB_3_2749"/>[handschriftlich]: Wie ungeschickt 
           <choice xml:id="Bae_TB_3_2750">
             <abbr xml:id="Bae_TB_3_2751">u.</abbr>
@@ -3791,7 +3788,7 @@
             </index>
           </index> eingeleitet werden sollte, ging. Die czechischen Vertrauensmänner folgten dem Rufe. Die Deutschen, nach Nuancen vielfach geschieden, vermochten nicht ohneweiters schlüssig zu werden. Selbst der von der Wählerpolitik am meisten unabhängige 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_2771">verfassungstreue Großgrundbesitz</orgName> gab, ohne einen bindenden Beschluß zu fassen, lediglich seine Anschauung kund, daß der Einladung zu unverbindlichen Besprechungen Folge zu leisten sei, die an den geschäftsführenden Obmann der 
-          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_3_2772">deutschen Fortschrittspartei</orgName> ( 
+          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_3_2772">deutschen Fortschrittspartei</orgName> (
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_3_2773">Dr. Pergelt</persName>) ergangene Einladung des 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2774">Minister-Präsidenten</persName> wurde mit der Einberufung der allgemeinen 
           <index xml:id="Bae_TB_3_2775">
@@ -3815,7 +3812,7 @@
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2788">Graf Thun</persName> allen Ernstes entschlossen ist, dann kann sich noch Alles gütlich wenden und die traurige Kampfzeit mit einem ehrlichen Frieden abschließen. Wenn aber nicht, wenn radicale Obstructionssucht selbst in den formalsten Dingen obsiegt, dann wird und muß die Strömung die Oberhand gewinnen, die nach einer Radicalcur verlangt. 
         </p>
         <p xml:id="Bae_TB_3_2789">Lange schon kämpfen die beiden Strömungen gegen einander, deren eine das bestehende 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_2790">Parlament</orgName> total in Frage stellt, deren andere es immer wieder mit homöopathischen Curen versuchen will. Scheitert der Plan des außerparlamentarischen Einvernehmens, dann dürfte das 
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_2790">Parlament</orgName> total in Frage stellt, deren andere es immer wieder mit homöopathischen Curen versuchen will. Scheitert der Plan des außerparlamentarischen Einvernehmens, dann dürfte das
           <anchor xml:id="Bae_TB_3_5570"/>
           <!-- anchor für addspan 48v -->
           <pb facs="#F_K-4_Bae_TB_3_088" n="49r" xml:id="Bae_TB_3_2714"/>Anfangs wollte 
@@ -5059,7 +5056,7 @@
             <index xml:id="Bae_TB_3_3649">
               <term key="Quote" xml:id="Bae_TB_3_3650"/>
             </index>
-          </index> vorzulegen sein werde; ich 
+          </index> vorzulegen sein werde; ich
         </p>
         <pb facs="#F_K-4_Bae_TB_3_113" n="65v" xml:id="Bae_TB_3_5581"/>
         <addSpan spanTo="#Bae_TB_3_5592" type="insertion" xml:id="Bae_TB_3_5582"/>
@@ -5068,9 +5065,9 @@
           <persName key="KallayBeni" ref="https://d-nb.info/gnd/119001993" xml:id="Bae_TB_3_5585">Kallay</persName> hatte die Zustimmung der ungarischen Regierung zum Ausbau der Strecke von 
           <placeName key="Bugojno" ref="https://www.geonames.org/3203099/bugojno.html" xml:id="Bae_TB_3_5586">Bugojno</placeName> an die dalmatinische Grenze verlangt. 
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_3_5587">Banffy</persName> antwortete ohne jede Rücksicht auf bosnische oder allgemeine Interessen der Monarchie, dass dieser Bahnbau den Interessen Ungarns nicht entspreche und nur gegen ausreichende "Compensationen" bewilligt werden könne. Ein Licht auf diese "Compensationen" wirft u.a. das bei dieser Gelegenheit gestellte Verlangen, die Linie 
-          <placeName key="Doboj" ref="https://www.geonames.org/3201984/doboj.html" xml:id="Bae_TB_3_5588">Doboj</placeName>- 
+          <placeName key="Doboj" ref="https://www.geonames.org/3201984/doboj.html" xml:id="Bae_TB_3_5588">Doboj</placeName>-
           <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html" xml:id="Bae_TB_3_5589">Sarajevo</placeName> als Vollbahn auszubauen und sie "unter die tarifarische Oberhoheit der königlich ungarischen Staatseisenbahn zu stellen". Vergeblich machte 
-          <persName key="KallayBeni" ref="https://d-nb.info/gnd/119001993" xml:id="Bae_TB_3_5590">Kallay</persName> alles geltend, was sich für diesen Bahnbau sagen lässt. 
+          <persName key="KallayBeni" ref="https://d-nb.info/gnd/119001993" xml:id="Bae_TB_3_5590">Kallay</persName> alles geltend, was sich für diesen Bahnbau sagen lässt.
         </p>
         <note type="editorial" xml:id="Bae_TB_3_5591">Dieser Abschnitt ist eine nachträgliche Einfügung und findet sich im entsprechenden Manuskript Fragmente.</note>
         <anchor xml:id="Bae_TB_3_5592"/>
@@ -5270,14 +5267,14 @@
         </p>
         <p xml:id="Bae_TB_3_3796">
           <anchor xml:id="Bae_TB_3_3797"/>Auf der Rückfahrt war ich lange mit 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3798">Thun</persName> zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, dass er mir damals in vielen Punkten, die ich erörterte Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maase von klaren Ideen 
+          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3798">Thun</persName> zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, dass er mir damals in vielen Punkten, die ich erörterte Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maase von klaren Ideen
         </p>
         <pb facs="#F_K-4_Bae_TB_3_121" n="69v" xml:id="Bae_TB_3_5594"/>
         <addSpan spanTo="#Bae_TB_3_5601" type="insertion" xml:id="Bae_TB_3_5595"/>
         <p xml:id="Bae_TB_3_5596">bezüglich der Erneuerung des Zoll- und Handelsbündnisses fordert die ungarische Regierung in Oesterreich "vollkräftige Gesetze", widrigenfalls das Selbstbestimmungsrecht Ungarns Platz greift; ein in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_5597">Oesterreich</placeName> auf Grund des Notparagraphen beruhendes Zoll- und Handelsbündnis könne 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_5598">Ungarn</placeName> nicht eingehen; ebenso wenig könnte es einem Provisorium zustimmen, ausser in dem einzigen Fall als das Zoll- und Handelbündnis in aussichtsreicher parlamentarischer Verhandlung in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_5599">Oesterreich</placeName> stände und nur ein weiterer Zeitaufwand noch nötig wäre. Damit war der österreichischen Regierung die Schling um den Hals gelegt. 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_5599">Oesterreich</placeName> stände und nur ein weiterer Zeitaufwand noch nötig wäre. Damit war der österreichischen Regierung die Schling um den Hals gelegt.
         </p>
         <note type="editorial" xml:id="Bae_TB_3_5600">Hier handelt es sich um eine nachträgliche Einfügung von Baernreither für das Manuskript Fragmente.</note>
         <anchor xml:id="Bae_TB_3_5601"/>
