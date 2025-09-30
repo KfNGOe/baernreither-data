@@ -383,30 +383,28 @@
           <app from="#Bae_TB_1_548" type="notEqual" xml:id="Bae_MF_1_294">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_295">private</rdg>
           </app>
+          <pb facs="#F_K-11_Bae_MF_1_019" n="6v" xml:id="Bae_MF_1_301"/>
+          <addspan spanto="xxx6v" xml:id="Bae_MF_1_302"/>Man hat später 
+            <choice xml:id="Bae_MF_1_303">
+              <abbr xml:id="Bae_MF_1_304">B.</abbr>
+              <expan xml:id="Bae_MF_1_305">Badeni</expan>
+            </choice> immer vorgeworfen, dass er nur mit den Czechen verhandelt habe - sein Bestreben war aber von vorn herein auch mit den Deutschen in Cartell zu kommen - aber diese versagten sich berharrlich. 
+         
+          <app from="#Bae_TB_1_555" type="missing" xml:id="Bae_MF_1_306">
+            <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_307"/>
+          </app>
+          <anchor/><!-- anchor für addspan xxx6v -->
+        </p>
           <pb facs="#F_K-11_Bae_MF_1_020" n="7" xml:id="Bae_MF_1_296"/>
           <anchor xml:id="Bae_MF_1_297"/>Zurückhaltung für die größte Klugheit. 
           <app from="#Bae_TB_1_551" type="equal" xml:id="Bae_MF_1_298">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_299">Zurückhaltung für die grösste Klugheit.</rdg>
           </app>
-          <anchor xml:id="Bae_MF_1_300"/>
-          <pb facs="#F_K-11_Bae_MF_1_019" n="6v" xml:id="Bae_MF_1_301"/>
-          <add place="across" xml:id="Bae_MF_1_302">Man hat später 
-            <choice xml:id="Bae_MF_1_303">
-              <abbr xml:id="Bae_MF_1_304">B.</abbr>
-              <expan xml:id="Bae_MF_1_305">Badeni</expan>
-            </choice> immer vorgeworfen, dass er nur mit den Czechen verhandelt habe - sein Bestreben war aber von vorn herein auch mit den Deutschen in Cartell zu kommen - aber diese versagten sich berharrlich. 
-          </add>
-          <app from="#Bae_TB_1_555" type="missing" xml:id="Bae_MF_1_306">
-            <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_307"/>
-          </app>
-        </p>
-        <!-- CA: hier eine Einfügung auf der anderen Seite, ist das mit dem 'doppelten' pb hier so korrekt ausgezeichnet? -->
+          <anchor/><app from="#xxx6v"><rdg>[...]</rdg></app>
         <p xml:id="Bae_MF_1_308">
-          <anchor xml:id="Bae_MF_1_3828"/>
-          <pb facs="#F_K-11_Bae_MF_1_020" n="7" xml:id="Bae_MF_1_309"/>In der Besorgung der Parteigeschäfte war 
-          <persName key="SchlesingerLudwig" ref="https://d-nb.info/gnd/138214379" xml:id="Bae_MF_1_310">Schlesinger</persName>, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der größten Gewissenhaftigkeit und sehr fleißig. Er arbeitete sich täglich durch einen Stoß Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instruktionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets, 
+          <anchor xml:id="Bae_MF_1_3828"/>In der Bewegung <app from="xxxx123" type="notEqual"><rdg wit="Bae_TB_1">In der Besorgung</rdg></app><anchor xml:id="Bae_MF_1_300"/>der Parteigeschäfte war <persName key="SchlesingerLudwig" ref="https://d-nb.info/gnd/138214379" xml:id="Bae_MF_1_310">Schlesinger</persName>, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der größten Gewissenhaftigkeit und sehr fleißig. Er arbeitete sich täglich durch einen Stoß Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instruktionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets, 
           <app from="#Bae_TB_1_558" type="equal" xml:id="Bae_MF_1_311">
-            <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_312">In der Besorgung der Parteigeschäfte war Schlesinger, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der grössten Gewissenhaftigkeit u. sehr fleissig. Er arbeitete sich täglich durch einen Stoss Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instructionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets</rdg>
+            <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_312">der Parteigeschäfte war Schlesinger, wie ich gerade jetzt in der Zeit der Wahlen stets beobachten konnte von der grössten Gewissenhaftigkeit u. sehr fleissig. Er arbeitete sich täglich durch einen Stoss Briefe durch, erteilte dem Sekretär der Parteileitung eingehende Instructionen, führte mit minutiöser Genauigkeit die Geldgeschäfte, er war gegenüber dem täglichen Einlauf stets</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_313"/>um einen 
           <persName key="Tacitus" ref="https://d-nb.info/gnd/118620452" xml:id="Bae_MF_1_314">Tacitus</persName>'schen Ausdruck zu gebrauchen, 
@@ -4479,6 +4477,26 @@
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3644">Badeni</persName> gerettet, wenigstens momentan, denn nach dem Austritt der Deutschen wäre 
             <index xml:id="Bae_MF_1_3645"><term key="OesterreichUngarn" xml:id="Bae_MF_1_3646">Ausgleichsprovisorium</term><index xml:id="Bae_MF_1_3647"><term key="Ausgleichsprovisorium" xml:id="Bae_MF_1_3648"/></index></index> und Budget im Handumdrehen bewilligt worden. 
             <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_MF_1_3649">Chlumetzky</persName> riet zur Abstinenz, die Dinge 
+            <pb facs="#F_K-11_Bae_MF_1_205" n="99v" xml:id="Bae_MF_1_3699"/><addSpan spanTo="#xxx99v" type="insertion"/>Coalitionsregierung mit dieser Methode angefangen, aber die Deutschen haben sie unter 
+            <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3700">Badeni</persName> systematisch ausgebildet 
+            <choice xml:id="Bae_MF_1_3701">
+              <abbr xml:id="Bae_MF_1_3702">u.</abbr>
+              <expan xml:id="Bae_MF_1_3703">und</expan>
+            </choice> damit dem österreichischen Parlamentarismus das Grab gegraben. In einem Obstructionscomité das in Permanenz war wurden aus Lücken und der Unvollkommenheit der Geschäftsordnung immer neue Erfindungen geschöpft, wie die Verhandlungen des Hauses verhindert 
+            <choice xml:id="Bae_MF_1_3704">
+              <abbr xml:id="Bae_MF_1_3705">o.</abbr>
+              <expan xml:id="Bae_MF_1_3706">oder</expan>
+            </choice> verschleppt werden könnten. Einige Abgeordnete waren anerkannte Meister darin. Damals lobte mir ein deutschslowenisch Journalist einen sonst an sich unbedeutenden Abgeordneten mit den Worten: er ist ein tüchtiger Obstructionist. Die Obstruction blieb seither das drohende Gespenst des 
+            <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_1_3707">Hauses</orgName>. 
+            </add>
+          </p>
+          <p xml:id="Bae_MF_1_3708">
+            <add xml:id="Bae_MF_1_3709">Und doch muss man gerechterweise sagen, dass Badeni eine Verständigung zwischen Deutschen und Czechen ehrlich wollte. Aber er musste an seiner totalen Unkenntnis der Verhältnisse scheitern</add>. 
+            <app from="#Bae_TB_2_3009" type="missing" xml:id="Bae_MF_1_3710">
+              <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_3711"/>
+            </app>
+          </p>
+          <anchor/><!-- anchor für addspan xxx99v -->
             <pb facs="#F_K-11_Bae_MF_1_206" n="100" xml:id="Bae_MF_1_3650"/>richtig beurteilend, aber charakteristischer Weise noch in diesem Stadium willens 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3651">Badeni</persName> zu helfen. Geradezu komisch war es aber, daß 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3652">Badeni</persName> selbst nichts mehr 
@@ -4539,25 +4557,7 @@
             <anchor xml:id="Bae_MF_1_3696"/>
             <add place="across" xml:id="Bae_MF_1_3697">Ich habe hier geschildert, wie die Dinge sich schrittweise entwickelt haben. Die Parlamentwirren unter 
               <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3698">Badeni</persName> haben das Haus für immer zurrüttet, denn die Obstruction wurde zu einem politisch selbstverständlichen Hausmittel. Die Czechen hatten zwar unter der 
-              <pb facs="#F_K-11_Bae_MF_1_205" n="99v" xml:id="Bae_MF_1_3699"/>Coalitionsregierung mit dieser Methode angefangen, aber die Deutschen haben sie unter 
-              <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3700">Badeni</persName> systematisch ausgebildet 
-              <choice xml:id="Bae_MF_1_3701">
-                <abbr xml:id="Bae_MF_1_3702">u.</abbr>
-                <expan xml:id="Bae_MF_1_3703">und</expan>
-              </choice> damit dem österreichischen Parlamentarismus das Grab gegraben. In einem Obstructionscomité das in Permanenz war wurden aus Lücken und der Unvollkommenheit der Geschäftsordnung immer neue Erfindungen geschöpft, wie die Verhandlungen des Hauses verhindert 
-              <choice xml:id="Bae_MF_1_3704">
-                <abbr xml:id="Bae_MF_1_3705">o.</abbr>
-                <expan xml:id="Bae_MF_1_3706">oder</expan>
-              </choice> verschleppt werden könnten. Einige Abgeordnete waren anerkannte Meister darin. Damals lobte mir ein deutschslowenisch Journalist einen sonst an sich unbedeutenden Abgeordneten mit den Worten: er ist ein tüchtiger Obstructionist. Die Obstruction blieb seither das drohende Gespenst des 
-              <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_1_3707">Hauses</orgName>. 
-            </add>
-          </p>
-          <p xml:id="Bae_MF_1_3708">
-            <add xml:id="Bae_MF_1_3709">Und doch muss man gerechterweise sagen, dass Badeni eine Verständigung zwischen Deutschen und Czechen ehrlich wollte. Aber er musste an seiner totalen Unkenntnis der Verhältnisse scheitern</add>. 
-            <app from="#Bae_TB_2_3009" type="missing" xml:id="Bae_MF_1_3710">
-              <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_3711"/>
-            </app>
-          </p>
+              <anchor/><app from="#xxx99v" type="insertion"><rdg>[...]</rdg></app>
         </div>
         <div xml:id="Bae_MF_1_3712">
           <pb facs="#F_K-11_Bae_MF_1_210" n="101" xml:id="Bae_MF_1_3713"/>
