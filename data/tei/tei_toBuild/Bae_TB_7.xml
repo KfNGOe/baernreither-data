@@ -370,7 +370,7 @@
           <hi rendition="#g" xml:id="Bae_TB_7_229">bestimmten Finanzplan</hi> fordert und kann er einen solchen in Aussicht stellen? 
         </p>
         <p xml:id="Bae_TB_7_230">Abg. 
-          <persName key="Steinwender" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_7_231">Dr. Steinwender</persName> bemerkt, die Sanierung der Finanzen gehöre nicht in eine 
+          <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_7_231">Dr. Steinwender</persName> bemerkt, die Sanierung der Finanzen gehöre nicht in eine 
           <index xml:id="Bae_TB_7_232">
             <term key="Reichsrat" xml:id="Bae_TB_7_233">Notstandsvorlage</term>
             <index xml:id="Bae_TB_7_4709">
@@ -858,8 +858,7 @@
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_7_518">Dr. von Derschatta</persName> bemerkt, der Jurist, welcher Kroate ist und des Slowenischen mächtig, könne trotzdem nach 
           <placeName key="Krain" ref="https://www.geonames.org/3197905/kokra.html" xml:id="Bae_TB_7_519">Krain</placeName> und 
           <placeName key="Kaernten" ref="https://www.geonames.org/2774686/kaernten.html" xml:id="Bae_TB_7_520">Kärnten</placeName> kommen, freilich nur dann, wenn er auch die deutsche Sprache kann, aber dies sei nur ein kleiner Riegel, denn sobald der Betreffende eben genug Deutsch kann, so können solche in 
-          <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_TB_7_521">Agram</placeName> ausgebildete Juristen auch nach 
-          <placeName key="InnerOesterreich" xml:id="Bae_TB_7_522">Inner-Österreich</placeName> kommen. 
+          <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_TB_7_521">Agram</placeName> ausgebildete Juristen auch nach Inner-Österreich kommen. 
         </p>
         <pb facs="#F_K-4_Bae_TB_7_026" n="13r" xml:id="Bae_TB_7_523"/>
         <p xml:id="Bae_TB_7_524">Der Herr 
@@ -925,8 +924,8 @@
             </index>
           </index> verweist 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_7_569">Dr. Baernreither</persName> zunächst darauf, daß man, wenn von Agitation in dieser Angelegenheit gesprochen werde, doch nicht vergessen dürfe, daß in den italienischen Blättern seit Monaten eine Hetze vor sich gehe und dass ganz besonders dem 
-          <orgName key="AltoAdige" xml:id="Bae_TB_7_570">"Alto Adige"</orgName> sowie dem 
-          <orgName key="Popolo" xml:id="Bae_TB_7_571">"Popolo"</orgName> eine große Schuld beigemessen 
+          <orgName key="AltoAdige" ref="https://d-nb.info/gnd/4142078-0" xml:id="Bae_TB_7_570">"Alto Adige"</orgName> sowie dem 
+          <orgName key="Popolo" ref="https://d-nb.info/gnd/4777777-1" xml:id="Bae_TB_7_571">"Popolo"</orgName> eine große Schuld beigemessen 
           <pb facs="#F_K-4_Bae_TB_7_030" n="15r" xml:id="Bae_TB_7_572"/>werden müsse. 
           <note type="editorial" xml:id="Bae_TB_7_573">Die Eröffnungsfeier für die neuerrichtete italienische Rechtsfakultät in Innsbruck am 4.11.1904 wurde durch Ausschreitungen zwischen deutschen und italienischen Studenten und Einsatz des Militärs überschattet. Wegen der Verwüstung der Fakultätsräumlichkeiten durch deutsche Studenten am folgenden Tag wurde der Betrieb der italienischen Rechtsfakultät in Innsbruck beendet.</note> Allgemein werde über die Verwilderung der italienischen Presse im 
           <placeName key="Trentino" ref="https://www.geonames.org/3165241/provincia-autonoma-di-trento.html" xml:id="Bae_TB_7_574">Trentino</placeName> geklagt. Über das Verhalten des 
@@ -1755,7 +1754,7 @@
           </app>
           <anchor xml:id="Bae_TB_7_3519"/>
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_7_872">Körber</persName> hatte nur vom 
-          <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/121098-1" xml:id="Bae_TB_7_873">Handelsressort</orgName> tüchtige Kenntnisse und Erfarungen. In der politischen Verwaltung war er wenig 
+          <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_7_873">Handelsressort</orgName> tüchtige Kenntnisse und Erfarungen. In der politischen Verwaltung war er wenig 
           <app from="#Bae_MF_6-1_1122" type="equal" xml:id="Bae_TB_7_3520">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3521">Koerber hatte im Handelsressort tüchtige Kenntnisse und Erfahrungen. In der politischen Verwaltung war er wenig</rdg>
           </app>
@@ -3067,7 +3066,7 @@
           </choice> wir waren einig nicht schriftlich mit den Czechen über die Sache zu verkehren, sondern Rückkehr 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_7_1163">Pacak's</persName> der bis 
           <date when="1905-08-15" xml:id="Bae_TB_7_1164">15.8.</date> in 
-          <placeName key="Misdroy" xml:id="Bae_TB_7_1165">Misdroy</placeName> war – abzuwarten. Inzwischen nochmaliger Schriftenwechsel zw. 
+          <placeName key="Misdroy" ref="https://www.geonames.org/3091961/miedzyzdroje.html" xml:id="Bae_TB_7_1165">Misdroy</placeName> war – abzuwarten. Inzwischen nochmaliger Schriftenwechsel zw. 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_7_1166">
             <choice xml:id="Bae_TB_7_2630">
               <abbr xml:id="Bae_TB_7_2631">D</abbr>
@@ -3157,7 +3156,7 @@
               <expan xml:id="Bae_TB_7_2647">Abrahamowicz</expan>
             </choice>
           </persName> an 
-          <persName key="GroßGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_7_1175">Dr. Gross</persName> den in Abschrift inliegenden Brief aus 
+          <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_7_1175">Dr. Gross</persName> den in Abschrift inliegenden Brief aus 
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_7_1176">Carlsbad</placeName>, den mir 
           <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_7_1177">Dr. Gross</persName> einschickte. 
           <note type="editorial" xml:id="Bae_TB_7_1178">Der Brief liegt nicht bei.</note>
@@ -4730,9 +4729,9 @@
         <pb facs="#F_K-4_Bae_TB_7_140" n="70r" xml:id="Bae_TB_7_1522"/>
         <p xml:id="Bae_TB_7_1523">
           <anchor xml:id="Bae_TB_7_4154"/>Wenn ich sonst Eindrücke fixiren soll, die ich hier gewonnen habe, so ist es zunächst von einer Fahrt die ich im Wagen nach 
-          <placeName key="RakosPalota" xml:id="Bae_TB_7_1524">Rakos-Palota</placeName> machte, wo ich eine Mädchenbesserungsanstalt besuchte. 
+          <placeName key="RakosPalota" ref="https://www.geonames.org/3045965/rakospalota.html" xml:id="Bae_TB_7_1524">Rakos-Palota</placeName> machte, wo ich eine Mädchenbesserungsanstalt besuchte. 
           <note type="editorial" xml:id="Bae_TB_7_1525">Baernreither beschäftige sich seit den 1880er Jahren mit Fürsorgeeinrichtungen und Strafanstalten für Jugendliche im internationalen Vergleich.</note> Man kommt auf dem Wege durch 
-          <placeName key="Neupest" xml:id="Bae_TB_7_1526">Neupest</placeName>, wo ich seit 8 Jahren nicht gewesen war. Auffallend ist die grosse Vermehrung der industriellen Etablissements in diesem Stadtteil. Sie scheinen alle im lebhaften Betriebe 
+          <placeName key="Neupest" ref="https://www.geonames.org/12059759/budapest-iv.html" xml:id="Bae_TB_7_1526">Neupest</placeName>, wo ich seit 8 Jahren nicht gewesen war. Auffallend ist die grosse Vermehrung der industriellen Etablissements in diesem Stadtteil. Sie scheinen alle im lebhaften Betriebe 
           <choice xml:id="Bae_TB_7_2954">
             <abbr xml:id="Bae_TB_7_2955">u.</abbr>
             <expan xml:id="Bae_TB_7_2956">und</expan>
@@ -4911,7 +4910,7 @@
             <abbr xml:id="Bae_TB_7_3000">u.</abbr>
             <expan xml:id="Bae_TB_7_3001">und</expan>
           </choice> Decennien die Bahn 
-          <placeName key="NoviGrad" xml:id="Bae_TB_7_1560">Novi</placeName>– 
+          <placeName key="NoviGrad" ref="https://www.geonames.org/8988622/novi-grad.html" xml:id="Bae_TB_7_1560">Novi</placeName>– 
           <placeName key="Knin" ref="https://www.geonames.org/3197986/knin.html" xml:id="Bae_TB_7_1561">Knin</placeName> hintertreiben. So regierungsfreundlich er ist schimmert bei ihm doch das Ideal der Kroaten durch. Auf Schritt 
           <choice xml:id="Bae_TB_7_3002">
             <abbr xml:id="Bae_TB_7_3003">u.</abbr>
@@ -5368,7 +5367,7 @@
             <abbr xml:id="Bae_TB_7_3132">u.</abbr>
             <expan xml:id="Bae_TB_7_3133">und</expan>
           </choice> den Regierungsleuten des andern. Wenn es nicht gelingt, einen andern Ton, andere Art der Beurteilung, andere Methode der Behandlung aller dieser Fragen herzustellen wird jede Ausseinandersetzung zwischen den beiden Staaten unmöglich sein. Das 
-          <orgName key="WienerRathaus" ref="https://d-nb.info/gnd/1087284635" xml:id="Bae_TB_7_1651">Wiener Rathaus</orgName> habe in dieser Hinsicht sehr viel auf dem Gewissen. 
+          <orgName key="RathausWien" ref="https://d-nb.info/gnd/1087284635" xml:id="Bae_TB_7_1651">Wiener Rathaus</orgName> habe in dieser Hinsicht sehr viel auf dem Gewissen. 
         </p>
         <p xml:id="Bae_TB_7_1652">Was die Compensation betrifft, so liege ja dieselbe in der Begünstigung die 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_7_1653">Österreich</placeName> allen Zweigen der Landwirtschaft angedeihen lasse. Dagegen können die Ungarn ebenso wenig etwas einwenden als die Österreicher gegen die Industrieförderung 
@@ -5643,7 +5642,7 @@
             </index>
           </index> ist gar nicht durchzufüren, wenn es bezüglich der Wählerlisten mit rechten Dingen zugehen soll. In 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1739">Ungarn</placeName> ist die Gemeindeangehörigkeit noch gar nicht geregelt; die Aufstellung von Wählerlisten des allgem. Stimmrechtes eine Unmöglichkeit. Bei den letzten Wahlen hat ohnedies die ganze Bevölkerung mitgewählt. Die 
-          <placeName key="Theresienstadt" xml:id="Bae_TB_7_1740">Theresienstadt</placeName> in 
+          <placeName key="Theresienstadt" ref="https://www.geonames.org/12059772/budapest-vi.html" xml:id="Bae_TB_7_1740">Theresienstadt</placeName> in 
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1741">Budapest</placeName> hat 6000 Wähler 
           <choice xml:id="Bae_TB_7_3194">
             <abbr xml:id="Bae_TB_7_3195">u.</abbr>

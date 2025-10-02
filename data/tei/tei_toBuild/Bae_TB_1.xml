@@ -2364,7 +2364,7 @@
           <hi rendition="#ul" xml:id="Bae_TB_1_1760">gegen</hi>
           <hi rendition="#ul" xml:id="Bae_TB_1_1761">jede</hi> Regierung sind. Dagegen 147 Abgeordnete ( 
           <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_1_1762">Polen</orgName>, 
-          <orgName key="KonservativerGroßgrundbesitz" xml:id="Bae_TB_1_1763">
+          <orgName key="KonservativerGrossgrundbesitz" xml:id="Bae_TB_1_1763">
             <choice xml:id="Bae_TB_1_1764">
               <abbr xml:id="Bae_TB_1_1765">conserv.</abbr>
               <expan xml:id="Bae_TB_1_1766">conservativer</expan>
@@ -2971,7 +2971,7 @@
             <abbr xml:id="Bae_TB_1_2149">u.</abbr>
             <expan xml:id="Bae_TB_1_2150">und</expan>
           </choice> diese waren von der Furcht erfüllt, ausgeschlossen, isolirt zu werden. Aber auch die 
-          <orgName key="KonservativerGroßgrundbesitz" xml:id="Bae_TB_1_2151">conservativen Grossgrundbesitzer</orgName> hatte 
+          <orgName key="KonservativerGrossgrundbesitz" xml:id="Bae_TB_1_2151">conservativen Grossgrundbesitzer</orgName> hatte 
           <pb facs="#F_K-6_Bae_TB_1_063" n="31r" xml:id="Bae_TB_1_2152"/>
           <note type="editorial" xml:id="Bae_TB_1_5795">Diese Seite ist leer.</note>
           <pb facs="#F_K-6_Bae_TB_1_064" n="32r" xml:id="Bae_TB_1_5727"/>
@@ -3069,7 +3069,7 @@
             <abbr xml:id="Bae_TB_1_2225">u.</abbr>
             <expan xml:id="Bae_TB_1_2226">und</expan>
           </choice> da Redensarten zu machen, steckten aber mit den 
-          <orgName key="KonservativerGroßgrundbesitz" xml:id="Bae_TB_1_2227">conservativen Grossgrundbesitzern</orgName>, vor allem mit 
+          <orgName key="KonservativerGrossgrundbesitz" xml:id="Bae_TB_1_2227">conservativen Grossgrundbesitzern</orgName>, vor allem mit 
           <persName key="SchwarzenbergFriedrich" ref="https://d-nb.info/gnd/1229872299" xml:id="Bae_TB_1_2228">
             <hi rendition="#ul" xml:id="Bae_TB_1_2229">Fido</hi> Schwarzenberg 
           </persName> fortwährend zusammen. Ihre freisinnige, moderne, socialpolitische Vergangenheit warfen sie leicht über Bord. 
@@ -3619,7 +3619,7 @@
             <abbr xml:id="Bae_TB_1_2633">u.</abbr>
             <expan xml:id="Bae_TB_1_2634">und</expan>
           </choice> vielleicht noch 
-          <orgName key="SantAmbrogio" xml:id="Bae_TB_1_2635">St. Ambrogio</orgName>
+          <orgName key="SantAmbrogio" ref="https://d-nb.info/gnd/4271516-7" xml:id="Bae_TB_1_2635">St. Ambrogio</orgName>
           <add place="across" xml:id="Bae_TB_1_2636">
             <choice xml:id="Bae_TB_1_2637">
               <abbr xml:id="Bae_TB_1_2638">u.</abbr>
@@ -3680,7 +3680,7 @@
               <term key="SprachenverordnungTaaffeStremayr" xml:id="Bae_TB_1_2754"/>
             </index>
           </index> acceptirten. Abgesehen davon, daß man weiß, wie kurz solche "derzeit" in der Aera 
-          <persName key="BadeniKasismir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2755">Badeni</persName> bemessen sind, wirft diese Mitteilung auch ein Licht auf die bekannte Erklärung, daß die 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2755">Badeni</persName> bemessen sind, wirft diese Mitteilung auch ein Licht auf die bekannte Erklärung, daß die 
           <index xml:id="Bae_TB_1_2756">
             <term key="Reichsrat" xml:id="Bae_TB_1_2757">Sprachenverordnung</term>
             <index xml:id="Bae_TB_1_2758">
@@ -5868,7 +5868,7 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_4249">fortwährend Fäden spinnt. Weil sich seine ganze Tätigkeit nicht in einem amtlichen Rahmen abspielt, kommt er aber auch in Verdacht, seine Hände dort im Spiel zu haben, wo dies nicht der Fall ist.</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_4250"/>Er ist mehr als ein politischer Leporello, als was ihn Viele taxieren, aber gewiss auch weniger als ein 
-          <persName key="PéreJoseph" ref="https://d-nb.info/gnd/118639994" xml:id="Bae_TB_1_4251">père Joseph</persName> unserer 
+          <persName key="PereJoseph" ref="https://d-nb.info/gnd/118639994" xml:id="Bae_TB_1_4251">père Joseph</persName> unserer 
           <persName key="RichelieuArmand" ref="https://d-nb.info/gnd/118600354" xml:id="Bae_TB_1_4252">Richelieu's</persName>, für was 
           <hi rendition="#ul" xml:id="Bae_TB_1_4253">er</hi> sich hält. 
           <app from="#Bae_MF_1_1997" type="missing" xml:id="Bae_TB_1_4254">
@@ -6167,7 +6167,7 @@
           </index> soll – wie von unterrichteter Seite behauptet wird – 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4491">Graf Badeni</persName> den Führer des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4492">verfassungstreuen Großgrundbesitzes</orgName>, Herrn 
-          <persName key="BaernreutherErnst" ref="https://d-nb.info/gnd/143886002" xml:id="Bae_TB_1_4493">Dr. Bärenreuther</persName> zu sich bitten gelassen und ihm den Wortlaut der 
+          <persName key="BareutherErnst" ref="https://d-nb.info/gnd/143886002" xml:id="Bae_TB_1_4493">Dr. Bärenreuther</persName> zu sich bitten gelassen und ihm den Wortlaut der 
           <index xml:id="Bae_TB_1_4494">
             <term key="Reichsrat" xml:id="Bae_TB_1_4495">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_1_4496">
@@ -6422,7 +6422,7 @@
           <persName key="AttemsFranz" xml:id="Bae_TB_1_4661">Franz Graf Attems</persName>, 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_1_4662">Dr. Baernreither</persName>, 
           <persName key="ColloredoFranz" ref="https://d-nb.info/gnd/1253102716" xml:id="Bae_TB_1_4663">Graf Franz Colloredo-Mannsfeld</persName>, 
-          <persName key="DoblhoffHeinreich" ref="https://d-nb.info/gnd/117645796" xml:id="Bae_TB_1_4664">Baron Heinrich Doblhoff</persName>, 
+          <persName key="DoblhoffHeinrich" ref="https://d-nb.info/gnd/117645796" xml:id="Bae_TB_1_4664">Baron Heinrich Doblhoff</persName>, 
           <persName key="EhrenfelsBernhard" ref="https://d-nb.info/gnd/117645796" xml:id="Bae_TB_1_4665">Baron Ehrenfels</persName>, 
           <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_1_4666">Dr. v. Grabmayr</persName>, 
           <persName key="KielmanseggErich" ref="https://d-nb.info/gnd/107511584" xml:id="Bae_TB_1_4667">Baron Kielmansegg</persName>, 
@@ -7108,7 +7108,7 @@
           <placeName key="Galizien" ref="https://www.geonames.org/562153/galicia.html" xml:id="Bae_TB_1_5150">Galiziens</placeName>? Ist der warscheinlich ohne internationale Verwicklungen? Sind ernste Verwicklungen dieser Art in Aussicht, in der nächsten Zeit warscheinlich? 
         </p>
         <p xml:id="Bae_TB_1_5151">Und somit wäre ich zum Ausgangspunkt meiner Betrachtung zurückgelangt. Die Wirren in 
-          <placeName key="Oesterreich" xml:id="Bae_TB_1_5152">Österreich</placeName> werden auf unsere internationalen Beziehungen zurückwirken, aber nicht zu Gunsten des von uns hochgehaltenen 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_5152">Österreich</placeName> werden auf unsere internationalen Beziehungen zurückwirken, aber nicht zu Gunsten des von uns hochgehaltenen 
           <orgName key="Dreibund" ref="https://d-nb.info/gnd/4150632-7" xml:id="Bae_TB_1_5153">Dreibundes</orgName>
           <choice xml:id="Bae_TB_1_5154">
             <abbr xml:id="Bae_TB_1_5155">u.</abbr>

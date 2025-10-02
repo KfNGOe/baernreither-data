@@ -168,7 +168,7 @@
             <index xml:id="Bae_MF_6-2_97">
               <term key="Liberalismus" xml:id="Bae_MF_6-2_98">Liberalismus</term>
             </index> in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_99">Oesterreich</placeName> hat keinen größern Feind gehabt als 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_99">Oesterreich</placeName> hat keinen größern Feind gehabt als 
             <persName key="SteinbachEmil" ref="https://d-nb.info/gnd/129263958" xml:id="Bae_MF_6-2_100">Steinbach</persName>. Die Re 
             <pb facs="#F_K-11_Bae_MF_6-2_005" n="1v" xml:id="Bae_MF_6-2_101"/>
             <note type="editorial" xml:id="Bae_MF_6-2_102">Diese Seite ist leer.</note>
@@ -181,7 +181,7 @@
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_106">ins Maßlose die von ihr begangenen Fehler</rdg>
             </app>
             <anchor xml:id="Bae_MF_6-2_1763"/> und ließ kein gutes Haar an ihr. Sein Rezept für die Heilung 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_107">Oesterreichs</placeName> war daher sehr einfach 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_107">Oesterreichs</placeName> war daher sehr einfach 
             <app from="#Bae_TB_8_2013" type="equal" xml:id="Bae_MF_6-2_1764">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1765">und ließ kein gutes Haar an ihr. Sein Rezept für die Heilung Österreichs war daher sehr einfach</rdg>
             </app>
@@ -444,7 +444,7 @@
             <anchor xml:id="Bae_MF_6-2_1832"/>Wenigen Herrschern und Staatsmännern ist es gegönnt gewesen, positiv im großen Stil zu sein. 
             <add place="across" xml:id="Bae_MF_6-2_243">
               <persName key="BismarckOtto" ref="https://d-nb.info/gnd/11851136X" xml:id="Bae_MF_6-2_244">Bismarck</persName> war es und 
-              <persName key="KaiserWilhelmII." ref="https://d-nb.info/gnd/118632892" xml:id="Bae_MF_6-2_245">Wilhelm II.</persName> suchte es zu sein. 
+              <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_MF_6-2_245">Wilhelm II.</persName> suchte es zu sein. 
             </add>
             <app from="#Bae_TB_8_1785" type="equal" xml:id="Bae_MF_6-2_1833">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1834">Wenigen Herrschern und Staatsmännern ist es gegönnt gewesen, positiv im großen Stil zu sein. Bismarck war es und Kaiser Wilhelm II. sucht es zu sein.</rdg>
@@ -465,7 +465,7 @@
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1840">ausgeschaltet. Nur noch Laviren, Zurückstellen, Ausweichen, Verkleistern.</rdg>
             </app>
             <anchor xml:id="Bae_MF_6-2_255"/>Es mußte sich bei der Wahlreform zeigen, ob sie als Grundstein einer Neuordnung in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_256">Oesterreich</placeName> in unser Staatswesen eingefügt werden würde, oder ob sie schließlich auch nichts anderes war, als eine Verlegenheitsmaßregel, ein bloßes Nachgeben, der Versuch, sich aus unmöglich gewordenen parlamentarischen Verhältnisse in andere zu retten, das Kapitulieren vor einem Wort, dessen tiefer sozialer Sinn ohne gehörige Vorbereitung und ohne innern Zusammenhang mit dem Aufbau des Staates zu einem Schlagwort herabsinkt. 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_256">Oesterreich</placeName> in unser Staatswesen eingefügt werden würde, oder ob sie schließlich auch nichts anderes war, als eine Verlegenheitsmaßregel, ein bloßes Nachgeben, der Versuch, sich aus unmöglich gewordenen parlamentarischen Verhältnisse in andere zu retten, das Kapitulieren vor einem Wort, dessen tiefer sozialer Sinn ohne gehörige Vorbereitung und ohne innern Zusammenhang mit dem Aufbau des Staates zu einem Schlagwort herabsinkt. 
             <app from="#Bae_TB_8_777" type="notEqual" xml:id="Bae_MF_6-2_257">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_258">Wird Hohenlohe, dem der Ruf eines „Idealisten“ vorangeht darin eine Aenderung herbeifüren? Wird er es klar wollen u. können? Das ist jetzt die Frage. Montag den 7. habe ich eine Unterredung mit ihm. Ich werde sehen. Lünz 4.5.06</rdg>
             </app>
@@ -756,7 +756,7 @@
               </index>
             </index> der Koalitionsführer (<persName xml:id="Bae_MF_6-2_427">Apponyi</persName>, 
             <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_MF_6-2_428">Andrássy</persName>, 
-            <persName key="BanffyDeszo" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_6-2_429">Bánffy</persName> , 
+            <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_6-2_429">Bánffy</persName> , 
             <persName key="KossuthFerenc" ref="https://d-nb.info/gnd/138888744" xml:id="Bae_MF_6-2_430">Kossuth</persName>, 
             <persName key="ZichyAladar" ref="https://d-nb.info/gnd/171366980" xml:id="Bae_MF_6-2_431">Aladár Zichy</persName>) am 
             <date when="1905-09-23" xml:id="Bae_MF_6-2_432">23. September</date> verlief zwar ebenso kurz als resultatlos, aber es war immer noch nichts definitiv entschieden. 
@@ -785,7 +785,7 @@
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_450">Kaiser</persName> unterbreitet hatte, die Wendung zu Gunsten 
             <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-2_451">Fejérvárys</persName> ein, der mit Handschreiben vom 
             <date when="1905-10-18" xml:id="Bae_MF_6-2_452">18. Oktober</date> abermals zum Ministerpräsidenten ernannt wurde. Diese Tatsache wirkte natürlich elementar zurück auf die Stimmung in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_453">Oesterreich</placeName> und die Parteien des allgemeinen Stimmrechts in Oesterreich setzten umso energischer und rücksichtsloser mit der Wahlrechtsagitation ein. 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_453">Oesterreich</placeName> und die Parteien des allgemeinen Stimmrechts in Oesterreich setzten umso energischer und rücksichtsloser mit der Wahlrechtsagitation ein. 
             <app from="#Bae_TB_1463" type="missing" xml:id="Bae_MF_6-2_1902">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1903"/>
             </app>
@@ -802,7 +802,7 @@
               <add place="across" xml:id="Bae_MF_6-2_459">1905</add>
             </date>abermals zu 
             <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_460">Gautsch</persName> kam, hatte ich der Wind völlig gedreht. Er war ganz umgewandelt und vertrat geradezu herausfordernd das Gegenteil von dem, was er mir vor zwei Monaten gesagt hatte. Er berief sich auf 
-            <placeName key="Russland" xml:id="Bae_MF_6-2_462">Russland</placeName> und die Abstimmung vom 
+            <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_MF_6-2_462">Russland</placeName> und die Abstimmung vom 
             <date when="1905-10-08" xml:id="Bae_MF_6-2_463">8. Oktober</date> im 
             <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_6-2_464"> Abgeordnetenhaus</orgName>. Gegen alle meine Einwendungen und Bedenken war er taub. Auf eine Reihe von Fragen, die ich aufwarf, ging er gar nicht ein. Er erklärte sich für das allgemeine 
             <add place="across" xml:id="Bae_MF_6-2_465">gleiche und direkte</add> Stimmrecht in derartigen Ausdrücken, daß ich entnehmen musste, er plane es so gut wie ohne Einschränkungen. Auf meine Warnung, daß so etwas nicht am grünen Tisch ohne genaue Kenntnis und Berücksichtigung der Verhältnisse in den einzelnen Kronländern ausgearbeitet werden könne – meinte er: die Parteien sollen an mich mit Wünschen herantreten. Die Regierung werde beim Wiederzusammentritt des 
@@ -843,7 +843,7 @@
                 <term key="Wahlkampf" xml:id="Bae_MF_6-2_1913"></term>
               </index>
             </index> in 
-            <placeName key="Russland" xml:id="Bae_MF_6-2_484">Russland</placeName>. Der 
+            <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_MF_6-2_484">Russland</placeName>. Der 
             <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_MF_6-2_485">Statthalter</persName> habe alle nötigen Vollmachten, um die notwendigen Maßregeln zu ergreifen. Sie seien in seiner Hand. Was er beantragen wird, dem wird in 
             <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-2_486">Wien</placeName> zugestimmt. Die Verhängung des Ausnahmezustandes muß vor dem 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_487">Reichsrat</orgName> begründet werde und würde eine grosse Debatte entfesseln. Trotzdem werde die Regierung nicht zögern, wenn die Notwendigkeit vom 
@@ -894,8 +894,8 @@
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_509">Parlamentes</orgName>
             <del rendition="#s" xml:id="Bae_MF_6-2_510">waren</del>
             <add place="across" xml:id="Bae_MF_6-2_511">lagen</add>, benützte ich zu einem eingehenden Studium der Wahlrechtsfrage. Ich habe damals die Wahlordnungen fast aller europäischer Staaten durchgelesen. Die englische Wahlrechtsgeschichte kannte ich genau und betrachtete ihre stufenweise Entwicklung als ein Vorbild. Allerdings hatte man bei uns jede stufenweise Reform versäumt, gezögert und geflickt und war jetzt durch die Ereignisse überholt. Wie immer: aufschieben, nichts tun und dann mit grossen überstürzten Sprüngen nachholen wollen. Je mehr ich mich in den Gegenstand vertiefte, desto klarer wurde mir, daß die ganze Wahlrechtsfrage in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_512">Oesterreich</placeName> und ganz besonders aber für uns Deutsche in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_513">Oesterreich</placeName> ganz anders liege, als in irgendeinem Lande. 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_512">Oesterreich</placeName> und ganz besonders aber für uns Deutsche in 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_513">Oesterreich</placeName> ganz anders liege, als in irgendeinem Lande. 
             <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_514">Gautsch</persName> hat in seiner ersten Rede am 
             <date when="1905-09-26" xml:id="Bae_MF_6-2_515">26. 
               <del rendition="#s" xml:id="Bae_MF_6-2_516">Dezember</del>
@@ -904,13 +904,13 @@
             <pb facs="#F_K-11_Bae_MF_6-2_029" n="13v" xml:id="Bae_MF_6-2_518"/>
             <note type="editorial" xml:id="Bae_MF_6-2_519">Diese Seite ist leer.</note>
             <pb facs="#F_K-11_Bae_MF_6-2_030" n="14r" xml:id="Bae_MF_6-2_520"/>eine sehr richtige Bemerkung gemacht: „Das allgemeine Stimmrecht, wenn es die Gewähr seines Bestandes in sich tragen soll, kann nur auf der festen und dauernden Unterlage einer Ordnung unserer nationalen Verhältnisse beruhen.“ Er begründete diesen Satz allerdings nur mit der eigentümlichen ethnographischen Gestaltung unseres Staates, mit den verschiedenen Siedlungs- und Sprachenverhältnissen, über die das mechanische Gesetz der Zahl ihrer Natur nach nicht entscheiden könne. Die Wahrheit seines Satzes liegt aber tiefer. Das Deutschtum in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_521">Oesterreich</placeName> ist untrennbar verbunden mit dem innern Aufbau des Staates. Der obrigkeitliche Staat in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_522">Oesterreich</placeName> beruht auf dem deutschen 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_521">Oesterreich</placeName> ist untrennbar verbunden mit dem innern Aufbau des Staates. Der obrigkeitliche Staat in 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_522">Oesterreich</placeName> beruht auf dem deutschen 
             <index xml:id="Bae_MF_6-2_523">
               <term key="Zentralismus" xml:id="Bae_MF_6-2_524">Zentralismus</term>
             </index>. Ueberall wo dieser hinreicht, hat auch das Deutschtum seine Ausläufer und Stützpunkte. Daher die oft behauptete künstliche Stellung der Deutschen in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_525">Oesterreich</placeName>. Man muß sie zugeben, aber der obrigkeitliche Staat und seine deutschen Organe, wie sie sich durch Jahrhunderte entwickelt haben, sind untrennbare Dinge. Das allgemeine Stimmrecht lockert, das deutsche Element schwächend, diese historische Klammer unseres Staates, ohne etwas neues an die Stelle des Bestehenden zu setzen. Um das handelt es sich aber, denn der obrigkeitliche Staat in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_526">Oesterreich</placeName> ist ebenso reformbedürftig wie das Wahlrecht, eins bedingt jedoch das andere. Deswegen befestigte sich bei mir immer mehr die Ueberzeugung, daß eine grundlegende breite 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_525">Oesterreich</placeName>. Man muß sie zugeben, aber der obrigkeitliche Staat und seine deutschen Organe, wie sie sich durch Jahrhunderte entwickelt haben, sind untrennbare Dinge. Das allgemeine Stimmrecht lockert, das deutsche Element schwächend, diese historische Klammer unseres Staates, ohne etwas neues an die Stelle des Bestehenden zu setzen. Um das handelt es sich aber, denn der obrigkeitliche Staat in 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_526">Oesterreich</placeName> ist ebenso reformbedürftig wie das Wahlrecht, eins bedingt jedoch das andere. Deswegen befestigte sich bei mir immer mehr die Ueberzeugung, daß eine grundlegende breite 
             <index xml:id="Bae_MF_6-2_527">
               <term key="Wahlrechtsreform" xml:id="Bae_MF_6-2_528">Wahlreform</term>
             </index>, wie sie durch die Zeitverhältnisse notwendig geworden war, nur Hand in Hand mit einer Reform unserer Verfassung und 
@@ -925,18 +925,18 @@
             <pb facs="#F_K-11_Bae_MF_6-2_031" n="14v" xml:id="Bae_MF_6-2_532"/>
             <note type="editorial" xml:id="Bae_MF_6-2_533">Diese Seite ist leer.</note>
             <pb facs="#F_K-11_Bae_MF_6-2_032" n="15r" xml:id="Bae_MF_6-2_534"/>Weise modifiziert – als Triebkraft für die Herstellung einer nationalen Ordnung in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_535">Oesterreich</placeName> verwenden müßte, was ich insbesondere in 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_535">Oesterreich</placeName> verwenden müßte, was ich insbesondere in 
             <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_MF_6-2_536">Böhmen</placeName> für möglich halte. Das allgemeine Stimmrecht der deutschen Reichsverfassung hat nach der Absicht 
             <persName key="BismarckOtto" ref="https://d-nb.info/gnd/11851136X" xml:id="Bae_MF_6-2_537">Bismarcks</persName> in 
-            <placeName key="Deutschland" xml:id="Bae_MF_6-2_538">Deutschland</placeName> die Einheit gefördert, aber doch nur weil das Reichs- und Bundesrecht auf gemeinsamer nationaler Grundlage feststand. Mit solchen Gedanken hatte ich aber nirgends Glück und als ich sie zuletzt, bei der zweiten Lesung der Wahlrechtsvorlage, ausführlich erörterte, wurde ich teilweise gar nicht verstanden, teilweise – so insbesondere von der 
-            <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/1123578060" xml:id="Bae_MF_6-2_539">„Neuen Freien Presse“</orgName> – verhöhnt. 
+            <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_MF_6-2_538">Deutschland</placeName> die Einheit gefördert, aber doch nur weil das Reichs- und Bundesrecht auf gemeinsamer nationaler Grundlage feststand. Mit solchen Gedanken hatte ich aber nirgends Glück und als ich sie zuletzt, bei der zweiten Lesung der Wahlrechtsvorlage, ausführlich erörterte, wurde ich teilweise gar nicht verstanden, teilweise – so insbesondere von der 
+            <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_MF_6-2_539">„Neuen Freien Presse“</orgName> – verhöhnt. 
           </p>
           <p xml:id="Bae_MF_6-2_540">Am 
             <date when="1905-11-28" xml:id="Bae_MF_6-2_541">28. November</date> wurde das 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_542">Parlament</orgName> unter lärmenden Kundgebungen für das allgemeine Stimmrecht, Umzügen und dem ganzen Demonstrationsapparat über den die 
             <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_MF_6-2_543">Sozialdemokratie</orgName> verfügt, eröffnet. Die Rede 
             <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_544">Gautsch</persName>', mit der er die Wahlreform ankündigte, lautete natürlich ganz anders als die vor acht Wochen gehaltene. Der schöne Satz von dem Zusammenhang der Wahlreform mit der Ordnung der nationalen Verhältnisse in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_545">Oesterreich</placeName> war vergessen; er half sich mit Phrasen über den heiklichen Punkt hinweg. Im Übrigen maskierte er seinen Umfall nicht ohne Geschick. In seiner selbstgefälligen Stimmung war er sich freilich der Selbstironie nicht bewusst, wenn er sagte, das 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_545">Oesterreich</placeName> war vergessen; er half sich mit Phrasen über den heiklichen Punkt hinweg. Im Übrigen maskierte er seinen Umfall nicht ohne Geschick. In seiner selbstgefälligen Stimmung war er sich freilich der Selbstironie nicht bewusst, wenn er sagte, das 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-2_546">Parlament</orgName> müsse die Photographie des Staates sein, ein möglichst treues Abbild 
             <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_547">Oesterreichs</placeName> – jenes Österreich, das in seiner heutigen Form 
             <del rendition="#s" xml:id="Bae_MF_6-2_548">eben</del>
@@ -1061,7 +1061,7 @@
             </app>
             <anchor xml:id="Bae_MF_6-2_601"/>
             <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_MF_6-2_602">Prade</persName>, den ich in dieser Zeit einmal zur Rede stellte, sagte mir: Was wollen Sie, die Deutschen in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_603">Oesterreich</placeName> sind so zermürbt, daß sie an einen planmäßigen Widerstand gar nicht denken. 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_603">Oesterreich</placeName> sind so zermürbt, daß sie an einen planmäßigen Widerstand gar nicht denken. 
             <app from="#Bae_TB_8_107" type="missing" xml:id="Bae_MF_6-2_604">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_605"/>
             </app>
@@ -1206,7 +1206,7 @@
               <index xml:id="Bae_MF_6-2_2008">
                 <term xml:id="Bae_MF_6-2_2009">Viererausschuss</term>
               </index>
-            </index> (<persName key="Gross Gustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_MF_6-2_667">Gross</persName> , 
+            </index> (<persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_MF_6-2_667">Gross</persName> , 
             <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_MF_6-2_668">Derschatta</persName>, 
             <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_MF_6-2_669">Lueger</persName> und ich) bestand und funktionierte noch. 
             <note type="editorial" xml:id="Bae_MF_6-2_670">Im Viererausschuss der deutschen Parteien verbanden sich seit Juni 1903 mit Julius von Derschatta, Gustav Groß, Joseph M. Baernreither und Karl Lueger die führenden Abgeordneten der Deutschen Fortschrittspartei, der Deutschen Volkspartei, des Verfassungstreuen Großgrundbesitzes und der Christlichsoziale Partei zu einem Ausschuss, mit dem Ziel, die deutschen nationalen Interessen gemeinsam zu vertreten.</note>Aber nicht einmal in diesem Kreis hatte 
@@ -1377,7 +1377,7 @@
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_2046">„Ja, das weiß ich, aber gerade nach diesen Reden, die gehalten wurden, das waren ja geradezu hochverräterische Reden, nach solchen Reden stimmt man doch nicht mit den Alldeutschen.“</rdg>
             </app>
             <anchor xml:id="Bae_MF_6-2_767"/>Als ich dann ausführlicher die Folgen des allgemeinen Stimmrechts auf den Parlamentarismus und die Führung der Staatsgeschäfte in 
-            <placeName key="Oesterreich" xml:id="Bae_MF_6-2_768">Oesterreich</placeName> nach meiner Ueberzeugung auseinandersetzte, unterbrach mich der 
+            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-2_768">Oesterreich</placeName> nach meiner Ueberzeugung auseinandersetzte, unterbrach mich der 
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_769">Kaiser</persName> abermals: 
             <app from="#Bae_TB_8_415" type="notEqual" xml:id="Bae_MF_6-2_770">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_771">Wir sind in diese Situation durch die Regierung gedrängt worden u. stehen in einem unbedingten Gegensatz zur Regierung. Wir sind der festen Ueberzeugung, dass die Politik der Regierung zum Unglück Österreichs ausschlagen muss. Wir sind nicht gegen eine Wahlreform, aber die Regierung ist viel zu weit gegangen u. arbeitet im Haus Hand in Hand mit den Socialdemokraten. Die socialdemokratische Agitation breitet sich besonders auch am flachen Lande immer weiter aus; heute sind schon in entlegenen Dörfern socialdemokratische Agitatoren tätig u. es wird in dem neuen Haus, wenn nach der neuen Wahlordnung gewählt wird der Parlamentarismus einfach ad absurdum gefürt werden.</rdg>

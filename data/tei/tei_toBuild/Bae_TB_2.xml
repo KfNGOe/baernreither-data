@@ -1966,7 +1966,7 @@
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1383">Vereinigung</orgName>, der ich angehöre, erlaube ich mir, zu der Angelegenheit, welche hier in Verhandlung steht, nachstehenden Antrag vorzulegen: "Indem das Haus der Regierung bezüglich ihres Verhaltens gegenüber dem am 
           <date when="1897-07-11" xml:id="Bae_TB_2_1384">11. Juli l. J.</date> in 
           <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1385">Eger</placeName> geplanten Volkstage den entschiedenen Tadel ausspricht (Hört! Hört! links), geht es über die Anträge der Abgeordneten 
-          <persName key="SchückerZdenko" ref="https://d-nb.info/gnd/1033079294" xml:id="Bae_TB_2_1386">Dr. Schücker</persName> und Genossen sowie 
+          <persName key="SchueckerZdenko" ref="https://d-nb.info/gnd/1033079294" xml:id="Bae_TB_2_1386">Dr. Schücker</persName> und Genossen sowie 
           <persName key="IroKarl" ref="https://d-nb.info/gnd/101886573X" xml:id="Bae_TB_2_1387">Iro</persName> und Genossen auf Erhebung der 
           <index xml:id="Bae_TB_2_1388">
             <term key="Reichsrat" xml:id="Bae_TB_2_1389">Anklage</term>
@@ -2319,7 +2319,7 @@
         </p>
         <pb facs="#F_K-4_Bae_TB_2_058" n="29r" xml:id="Bae_TB_2_1657"/>
         <p xml:id="Bae_TB_2_6223">war die Temperatur im 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_1658">Hause</orgName> noch höher gestiegen. Zur allgemeinen Ueberraschung griff 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_1658">Hause</orgName> noch höher gestiegen. Zur allgemeinen Ueberraschung griff 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1659">Badeni</persName>
           <add place="across" xml:id="Bae_TB_2_1660">( 
             <date when="1897-11-12" xml:id="Bae_TB_2_1661">12. Novbr</date>) 
@@ -3013,7 +3013,7 @@
         <p xml:id="Bae_TB_2_6235">so wichtige Verfassungsfrage der Gefar auszusetzen im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2102">Hause</orgName> aus reiner Parteileidenschaft in ungünstigem Sinne entschieden zu werden. Allerdings hatte 
           <persName key="BilinskiLeon" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2103">Bilinski</persName> sehr ungeschickt gesprochen, aber darauf kam es in dieser Situation wirklich nicht mehr an. Glücklicherweise kam die Frage im 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_2104">Hause</orgName> nicht zur Abstimmung. Staatsrechtlich aber glaube ich allerdings im Rechte zu sein, aber es war offenbar eher ein Stoff für eine Dissertation als für eine praktische politische Aktion. 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2104">Hause</orgName> nicht zur Abstimmung. Staatsrechtlich aber glaube ich allerdings im Rechte zu sein, aber es war offenbar eher ein Stoff für eine Dissertation als für eine praktische politische Aktion. 
           <app from="#Bae_MF_1_3218" type="missing" xml:id="Bae_TB_2_2105">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2106"/>
           </app>
@@ -6695,7 +6695,7 @@
           <persName key="WolfHugo" xml:id="Bae_TB_2_4785">Ministerial-Secretär Dr. Wolf</persName>, 
           <persName key="BachRobert" xml:id="Bae_TB_2_4786">Ministerial-Secretär Dr. Bach</persName> und 
           <persName key="KautzkyHeinrich" xml:id="Bae_TB_2_4787">Ministerial-Secretär Dr. Kautsky</persName> vom 
-          <persName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_2_4788">Handelsministerium</persName>. 
+          <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_2_4788">Handelsministerium</orgName>. 
         </p>
         <p xml:id="Bae_TB_2_4789">
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_2_4790">Handelsminister Dr. Baernreither</persName> richtete nach Constatirung der Beschlußfähigkeit des 
@@ -8258,7 +8258,7 @@
         </p>
         <p xml:id="Bae_TB_2_5867">In 
           <placeName key="Aquileia" ref="https://www.geonames.org/6539930/aquileia.html" xml:id="Bae_TB_2_5868">Aquileja</placeName> haben wir das Museum unter der Führung des sachkundigen 
-          <persName key="MaionicaEnrico" xml:id="Bae_TB_2_5869">Majonica</persName> eingehend besichtigt. In Münzen, kleinen Bronzen, Glas, Terracotten ist es sehr bedeutend, sehr gut geordnet. Ein illustrirter Catalog im Werk. Von Wert sind auch die zahlreichen Inschriften, sehr 
+          <persName key="MaionicaEnrico" ref="https://d-nb.info/gnd/116689773" xml:id="Bae_TB_2_5869">Majonica</persName> eingehend besichtigt. In Münzen, kleinen Bronzen, Glas, Terracotten ist es sehr bedeutend, sehr gut geordnet. Ein illustrirter Catalog im Werk. Von Wert sind auch die zahlreichen Inschriften, sehr 
           <pb facs="#F_K-4_Bae_TB_2_207" n="103v" xml:id="Bae_TB_2_6181"/>
           <note type="editorial" xml:id="Bae_TB_2_6182">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_2_208" n="104r" xml:id="Bae_TB_2_5870"/>wohl erhalten, meist in den Stein von 
@@ -8291,7 +8291,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5891">seinem großen Territorium</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_5892"/>gefunden wird, sondern er arbeitet dem 
-          <persName key="MaionicaEnrico" xml:id="Bae_TB_2_5893">Direktor</persName> in jeder Hinsicht in die Hände, verhindert die Verschleppung zufällig gefundener Dinge 
+          <persName key="MaionicaEnrico" ref="https://d-nb.info/gnd/116689773" xml:id="Bae_TB_2_5893">Direktor</persName> in jeder Hinsicht in die Hände, verhindert die Verschleppung zufällig gefundener Dinge 
           <choice xml:id="Bae_TB_2_5894">
             <abbr xml:id="Bae_TB_2_5895">u.</abbr>
             <expan xml:id="Bae_TB_2_5896">und</expan>
@@ -8307,7 +8307,7 @@
           </choice> auch Menschen, die 
           <app from="#Bae_MF_2_1241" type="equal" xml:id="Bae_TB_2_5904">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5905">gefunden wird, sondern er arbeitet dem 
-              <persName key="MaionicaEnrico" xml:id="Bae_TB_2_5906">Direktor</persName> in jeder Hinsicht in die Hände, verhindert die Verschleppung zufällig gefundener Dinge und hat – das ist Voraussetzung und Hauptsache – großes Verständnis. Ueberall wohin man in Oesterreich kommt, findet man günstige Verhältnisse, die sich entwickeln ließen und auch Menschen, die 
+              <persName key="MaionicaEnrico" ref="https://d-nb.info/gnd/116689773" xml:id="Bae_TB_2_5906">Direktor</persName> in jeder Hinsicht in die Hände, verhindert die Verschleppung zufällig gefundener Dinge und hat – das ist Voraussetzung und Hauptsache – großes Verständnis. Ueberall wohin man in Oesterreich kommt, findet man günstige Verhältnisse, die sich entwickeln ließen und auch Menschen, die 
             </rdg>
           </app>
           <anchor xml:id="Bae_TB_2_5907"/>das Zeug 

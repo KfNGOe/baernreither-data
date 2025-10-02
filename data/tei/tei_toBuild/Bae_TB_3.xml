@@ -241,7 +241,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_274"/>
           </app>
           <anchor xml:id="Bae_TB_3_275"/>zersplittert in eine Menge von kleinen Etablissements, nicht notwendig wegen des Erzeugnisses, das bei 
-          <persName key="BoehlerAlbert" xml:id="Bae_TB_3_276">Böhler</persName> im großen Styl 
+          <persName key="BoehlerAlbert" ref="https://d-nb.info/gnd/143619993" xml:id="Bae_TB_3_276">Böhler</persName> im großen Styl 
           <del rendition="#s" xml:id="Bae_TB_3_277">erzeugt</del>
           <add place="across" xml:id="Bae_TB_3_278">hergestellt</add> wird. Wir waren in einer Werkstätte, wo ein Meister mit 2 Buben aus dem Eisen, das er sich vom Eisenhändler im Orte kauft 
           <choice xml:id="Bae_TB_3_279">
@@ -285,7 +285,7 @@
             <abbr xml:id="Bae_TB_3_153">u.Co.</abbr>
             <expan xml:id="Bae_TB_3_154">und Compagnie</expan>
           </choice> und die Drahtwarenfabrik von 
-          <persName key="SchröckenfuchsFranz" xml:id="Bae_TB_3_155">Franz Schröckenfuchs</persName>besichtigt, in welch letzterer eine höchst ingeniöse amerikanischeStacheldrahtmaschine das besondere Interesse 
+          <persName key="SchroeckenfuchsFranz" xml:id="Bae_TB_3_155">Franz Schröckenfuchs</persName>besichtigt, in welch letzterer eine höchst ingeniöse amerikanischeStacheldrahtmaschine das besondere Interesse 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_156">
             <choice xml:id="Bae_TB_3_157">
               <abbr xml:id="Bae_TB_3_158">Sr.</abbr>
@@ -485,8 +485,8 @@
             <expan xml:id="Bae_TB_3_340">und</expan>
           </choice> Wohlhabendsten der 
           <hi rendition="#ul" xml:id="Bae_TB_3_341">alten</hi> Schule ist das neue Werk von 
-          <persName key="BoehlerAlbert" xml:id="Bae_TB_3_342">Böhler</persName> eben durch das Maschinenzeitalter getrennt. Die Turbine als Motor hat das Wasserrad verdrängt, die Arbeitsmaschine das Hantieren, die Arbeitsteilung die alten Methoden. Es war schon Abend als wir in das 
-          <persName key="BoehlerAlbert" xml:id="Bae_TB_3_343">Böhler'sche</persName> Werk kamen; es war elektrisch beleuchtet, grosse Arbeitsräume, Motoren, Transmissionen, mit einem Wort die 
+          <persName key="BoehlerAlbert" ref="https://d-nb.info/gnd/143619993" xml:id="Bae_TB_3_342">Böhler</persName> eben durch das Maschinenzeitalter getrennt. Die Turbine als Motor hat das Wasserrad verdrängt, die Arbeitsmaschine das Hantieren, die Arbeitsteilung die alten Methoden. Es war schon Abend als wir in das 
+          <persName key="BoehlerAlbert" ref="https://d-nb.info/gnd/143619993" xml:id="Bae_TB_3_343">Böhler'sche</persName> Werk kamen; es war elektrisch beleuchtet, grosse Arbeitsräume, Motoren, Transmissionen, mit einem Wort die 
           <hi rendition="#ul" xml:id="Bae_TB_3_344">neue</hi> Schule, die Fabrik an Stelle der Werkstätte. Wir standen alle unter dem Eindruck dieses Gegensatzes 
           <choice xml:id="Bae_TB_3_345">
             <abbr xml:id="Bae_TB_3_346">u.</abbr>
@@ -907,7 +907,7 @@
           <note type="editorial" xml:id="Bae_TB_3_5341">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_022" n="10r" xml:id="Bae_TB_3_650"/>Im Kanal von 
           <placeName key="Zara" ref="https://www.geonames.org/11055010/zadar.html" xml:id="Bae_TB_3_651">Zara</placeName> gingen wir dann noch einmal ans Land. Auf einer kleinen Insel 
-          <placeName key="SvetaKatarina" xml:id="Bae_TB_3_652">S. Katarina</placeName> eine Seeleuchte geringerer Ordnung, die darin besteht dass der Assistent eine grosse Lampe auf einem Gestell aus einem Fenster herausrückt. Hier sah es schon heimlicher aus. Die Insel ziemlich geräumig. Die Familie hatte gerodet 
+          <placeName key="SvetaKatarina" ref="https://www.geonames.org/3204121/biograd-na-moru.html" xml:id="Bae_TB_3_652">S. Katarina</placeName> eine Seeleuchte geringerer Ordnung, die darin besteht dass der Assistent eine grosse Lampe auf einem Gestell aus einem Fenster herausrückt. Hier sah es schon heimlicher aus. Die Insel ziemlich geräumig. Die Familie hatte gerodet 
           <choice xml:id="Bae_TB_3_653">
             <abbr xml:id="Bae_TB_3_654">u.</abbr>
             <expan xml:id="Bae_TB_3_655">und</expan>
@@ -1055,7 +1055,7 @@
           <pb facs="#F_K-4_Bae_TB_3_027" n="12v" xml:id="Bae_TB_3_5346"/>
           <note type="editorial" xml:id="Bae_TB_3_5347">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_028" n="13r" xml:id="Bae_TB_3_762"/>
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_763">Ministerrat</orgName> fertig 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_763">Ministerrat</orgName> fertig 
           <choice xml:id="Bae_TB_3_764">
             <abbr xml:id="Bae_TB_3_765">u.</abbr>
             <expan xml:id="Bae_TB_3_766">und</expan>
@@ -1459,7 +1459,7 @@
           <anchor xml:id="Bae_TB_3_1057"/>Es war Mitte 
           <date when="1898-05" xml:id="Bae_TB_3_1058">Mai</date>, als 
           <persName key="RuberIgnaz" ref="https://d-nb.info/gnd/1028692110" xml:id="Bae_TB_3_1059">Ruber</persName> in einem 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_1060">Ministerrat</orgName> mit dem Antrage kam 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_1060">Ministerrat</orgName> mit dem Antrage kam 
           <persName key="GleispachJohann" ref="https://d-nb.info/gnd/136541127" xml:id="Bae_TB_3_1061">Gleispach</persName> zum Oberlandesgerichtspräsidenten in 
           <placeName key="Graz" ref="https://www.geonames.org/2778058/graz-stadt.html" xml:id="Bae_TB_3_1062">Graz</placeName> zu ernennen. Er berief sich auf den 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_1063">Kaiser</persName>. Es sei dessen Wunsch 
@@ -1530,7 +1530,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_1115"/>
           <orgName key="GemeinderatGraz" ref="https://d-nb.info/gnd/7725681-5" xml:id="Bae_TB_3_1116">Gemeinderat</orgName> fasste eine scharfe Resolution, allerdings absichtlich scharf. Im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_1117">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_1117">
             <choice xml:id="Bae_TB_3_1118">
               <abbr xml:id="Bae_TB_3_1119">M.</abbr>
               <expan xml:id="Bae_TB_3_1120">Minister</expan>
@@ -1613,7 +1613,7 @@
             <abbr xml:id="Bae_TB_3_1177">u.</abbr>
             <expan xml:id="Bae_TB_3_1178">und</expan>
           </choice> die Discussion endete damit dass der 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_1179">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_1179">
             <choice xml:id="Bae_TB_3_1180">
               <abbr xml:id="Bae_TB_3_1181">M.R.</abbr>
               <expan xml:id="Bae_TB_3_1182">Ministerrat</expan>
@@ -1810,7 +1810,7 @@
             <abbr xml:id="Bae_TB_3_1323">u.</abbr>
             <expan xml:id="Bae_TB_3_1324">und</expan>
           </choice> im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_1325">Ministerrat</orgName> nichts als beschönigende Redensarten für die Čechen, Entschuldigungen für 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_1325">Ministerrat</orgName> nichts als beschönigende Redensarten für die Čechen, Entschuldigungen für 
           <persName key="KomarowVissarion" ref="https://d-nb.info/gnd/1279235772" xml:id="Bae_TB_3_1326">Komarow</persName>. Im Allgemeinen war es gewiss vernünftig nicht viel aus der Sache zu machen, 
           <pb facs="#F_K-4_Bae_TB_3_047" n="24v" xml:id="Bae_TB_3_5370"/>
           <note type="editorial" xml:id="Bae_TB_3_5371">Diese Seite ist leer.</note>
@@ -2151,7 +2151,7 @@
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1571">meiner Partei</orgName>, bei 
           <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_3_1572">Chlumetzky</persName> sowohl wie bei 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_3_1573">Beck</persName>, dass ich diesem Plane meine Zustimmung unbedingt zu verweigern habe. In einem 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_1574">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_1574">
             <choice xml:id="Bae_TB_3_1575">
               <abbr xml:id="Bae_TB_3_1576">M.R</abbr>
               <expan xml:id="Bae_TB_3_1577">Ministerrat</expan>
@@ -2215,7 +2215,7 @@
           <index xml:id="Bae_TB_3_1619">
             <term key="Budget" xml:id="Bae_TB_3_1620">Budgets</term>
           </index> nicht acceptiren würde. Die nächsten Tage vergingen mit Hin- und Herreden über die Frage; auch der nächste 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_1621">Ministerrat</orgName> am 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_1621">Ministerrat</orgName> am 
           <date when="1898-06-18" xml:id="Bae_TB_3_1622">18.</date> brachte keine Entscheidung, endlich erklärte ich dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_1623">Kaiser</persName> den Fall vorlegen zu wollen, nahm eine 
           <index xml:id="Bae_TB_3_1624">
@@ -2402,7 +2402,7 @@
           </index> leistete mir 
           <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_3_1757">Welsersheimb</persName> energische Hilfe. Als Anfang 
           <date when="1898-07" xml:id="Bae_TB_3_1758">Juli</date> im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_1759">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_1759">
             <choice xml:id="Bae_TB_3_1760">
               <abbr xml:id="Bae_TB_3_1761">M.R.</abbr>
               <expan xml:id="Bae_TB_3_1762">Ministerrat</expan>
@@ -2975,7 +2975,7 @@
             <abbr xml:id="Bae_TB_3_2174">u.</abbr>
             <expan xml:id="Bae_TB_3_2175">und</expan>
           </choice> meinen Reisen nach dem 
-          <placeName key="Kuestenland" xml:id="Bae_TB_3_2176">Küstenland</placeName>, nach 
+          <placeName key="Kuestenland" ref="https://www.geonames.org/3175397/istria.html" xml:id="Bae_TB_3_2176">Küstenland</placeName>, nach 
           <placeName key="BadIschl" ref="https://www.geonames.org/2782052/bad-ischl.html" xml:id="Bae_TB_3_2177">Ischl</placeName>, 
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_3_2178">Budapest</placeName>
           <choice xml:id="Bae_TB_3_2179">
@@ -2994,7 +2994,7 @@
             <abbr xml:id="Bae_TB_3_2190">u.</abbr>
             <expan xml:id="Bae_TB_3_2191">und</expan>
           </choice> im 
-          <placeName key="Kuestenland" xml:id="Bae_TB_3_2192">Küstenland</placeName>, den 
+          <placeName key="Kuestenland" ref="https://www.geonames.org/3175397/istria.html" xml:id="Bae_TB_3_2192">Küstenland</placeName>, den 
           <date when="1898-08-06" xml:id="Bae_TB_3_2193">6.</date> und 
           <date when="1898-08-07" xml:id="Bae_TB_3_2194">7.</date> scharfe 
           <index xml:id="Bae_TB_3_2195">
@@ -3089,7 +3089,7 @@
           <del rendition="#s" xml:id="Bae_TB_3_2247">das</del>
           <add place="across" xml:id="Bae_TB_3_2248">welches</add> ich mir bei der ganzen Sache zuschreiben kann, ist, dass ich ihn beständig aneiferte, so oft ich konnte mit ihm über die Arbeit sprach, mein Interesse zeigte, seine bureaucratischen Bedenken zerstreute. In einem Punkte war sowol er als 
           <persName key="WeigelspergBela" ref="https://d-nb.info/gnd/133808947" xml:id="Bae_TB_3_2249">Weigelsperg</persName> anfangs bedenklich, nämlich wegen der deutschen Verhandlungssprache die in einer Verordnung als ausnamslose Regel statuirt war. Die Herren meinten ich solle die Sache doch in den 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_2250">Ministerrat</orgName> bringen, da aber alle Verordnungen den beteiligten Ministerien zur Einsicht geschickt 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2250">Ministerrat</orgName> bringen, da aber alle Verordnungen den beteiligten Ministerien zur Einsicht geschickt 
           <choice xml:id="Bae_TB_3_2251">
             <abbr xml:id="Bae_TB_3_2252">u.</abbr>
             <expan xml:id="Bae_TB_3_2253">und</expan>
@@ -3305,7 +3305,7 @@
               <expan xml:id="Bae_TB_3_2402">September</expan>
             </choice>
           </date> als wir Nachmittags einen 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_2403">Ministerrat</orgName> hatten, wurde 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2403">Ministerrat</orgName> hatten, wurde 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2404">Thun</persName> etwa um 5¼ Uhr hinausgerufen 
           <choice xml:id="Bae_TB_3_2405">
             <abbr xml:id="Bae_TB_3_2406">u.</abbr>
@@ -3475,7 +3475,7 @@
         <pb facs="#F_K-4_Bae_TB_3_078" n="44r" xml:id="Bae_TB_3_2503"/>
         <p xml:id="Bae_TB_3_5566">bezeichnend in dieser Richtung war es jedenfalls, dass der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_2504">Kaiser</persName> in einem 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_2505">Ministerrat</orgName>, der unter seinem Vorsitze am 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2505">Ministerrat</orgName>, der unter seinem Vorsitze am 
           <date when="1898-09-19" xml:id="Bae_TB_3_2506">19. 
             <choice xml:id="Bae_TB_3_2507">
               <abbr xml:id="Bae_TB_3_2508">Septbr.</abbr>
@@ -4018,7 +4018,7 @@
           <pb facs="#F_K-4_Bae_TB_3_092" n="51r" xml:id="Bae_TB_3_2899"/>Es ist jetzt wohl am Platze, wenn ich meine eigenen Bedenken gegen die 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2900">Thun'schen</persName> "Grundzüge" kurz zusammenfasse. 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2901">Thun</persName> hatte dieselben nie formell in den 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_2902">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2902">
             <choice xml:id="Bae_TB_3_2903">
               <abbr xml:id="Bae_TB_3_2904">M.</abbr>
               <expan xml:id="Bae_TB_3_2905">Minister</expan>
@@ -4035,7 +4035,7 @@
             <expan xml:id="Bae_TB_3_2913">und</expan>
           </choice> mir einer der andern Minister dieselben genau gekannt haben, vielleicht 
           <persName key="RuberIgnaz" ref="https://d-nb.info/gnd/1028692110" xml:id="Bae_TB_3_2914">Ruber</persName> was die Justiz betrifft. Vom 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_2915">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2915">
             <choice xml:id="Bae_TB_3_2916">
               <abbr xml:id="Bae_TB_3_2917">M.</abbr>
               <expan xml:id="Bae_TB_3_2918">Minister</expan>
@@ -4047,7 +4047,7 @@
             <expan xml:id="Bae_TB_3_2922">und</expan>
           </choice> nimmermehr geeinigt. Aber 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2923">Thun</persName> sah doch ein, wiewol ich mich vorläufig zurückhielt, dass der Tag kommen werde an dem auch der 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_2924">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_2924">
             <choice xml:id="Bae_TB_3_2925">
               <abbr xml:id="Bae_TB_3_2926">M.</abbr>
               <expan xml:id="Bae_TB_3_2927">Minister</expan>
@@ -4381,10 +4381,10 @@
         </p>
         <p xml:id="Bae_TB_3_3164">
           <anchor xml:id="Bae_TB_3_3165"/>Im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_3166">Ministerrate</orgName> verfolgte 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_3166">Ministerrate</orgName> verfolgte 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3167">Thun</persName> die Sache noch einige Zeit weiter; ob wirklich inder Absicht sie weiter zu gestalten oder ob nur um seinen Misserfolg zu masciren, das weis ich nicht. Am 
           <date when="1898-07-16" xml:id="Bae_TB_3_3168">16. Juli</date> referirte er im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_3169">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_3169">
             <choice xml:id="Bae_TB_3_3170">
               <abbr xml:id="Bae_TB_3_3171">M.R.</abbr>
               <expan xml:id="Bae_TB_3_3172">Ministerrat</expan>
@@ -4429,7 +4429,7 @@
             </index>
           </index> ohne Einwilligung der Parteien anzuwenden wurde fallen gelassen, aber 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3199">Thun</persName> verlangte diese Ausarbeitungen von uns "für eine spätere Aktion". Damals dachte er sich eine Octroyirung des Sprachengesetzes in Verbindung mit noch viel weitergehenderen Dingen. Auf diese Weise hatte er es auch umgangen, im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_3200">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_3200">
             <choice xml:id="Bae_TB_3_3201">
               <abbr xml:id="Bae_TB_3_3202">M.</abbr>
               <expan xml:id="Bae_TB_3_3203">Minister</expan>
@@ -4440,7 +4440,7 @@
             <abbr xml:id="Bae_TB_3_3206">insbes.</abbr>
             <expan xml:id="Bae_TB_3_3207">insbesondere</expan>
           </choice> auf dem Gebiete der Justiz, wenn die Sache im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_3208">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_3208">
             <choice xml:id="Bae_TB_3_3209">
               <abbr xml:id="Bae_TB_3_3210">M.</abbr>
               <expan xml:id="Bae_TB_3_3211">Minister</expan>
@@ -5137,7 +5137,7 @@
             <abbr xml:id="Bae_TB_3_3697">u.</abbr>
             <expan xml:id="Bae_TB_3_3698">und</expan>
           </choice> negirte ebenfalls. Die Herren waren nur so höflich, zu erklären, sie würden die Sache ihrem 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_3699">Ministerrate</orgName> vorlegen 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_3699">Ministerrate</orgName> vorlegen 
           <choice xml:id="Bae_TB_3_3700">
             <abbr xml:id="Bae_TB_3_3701">u.</abbr>
             <expan xml:id="Bae_TB_3_3702">und</expan>
@@ -5463,7 +5463,7 @@
             <expan xml:id="Bae_TB_3_3926">und</expan>
           </choice> alle Modalitäten, besonders auch jene, dass bei uns parlamentarisch nichts zu Stande kommen würde, erwägend, mit 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_3927">Ungarn</placeName> in einen Meinungsaustausch zu treten. Mehrmals urgirte ich im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_3928">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_3928">
             <choice xml:id="Bae_TB_3_3929">
               <abbr xml:id="Bae_TB_3_3930">M.</abbr>
               <expan xml:id="Bae_TB_3_3931">Minister</expan>
@@ -5489,7 +5489,7 @@
           <anchor xml:id="Bae_TB_3_3944"/>wurde 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3945">Thun</persName>, dass er knapp vor meiner beabsichtigten ersten Reise nach 
           <placeName key="Triest" ref="https://www.geonames.org/3165185/trieste.html" xml:id="Bae_TB_3_3946">Triest</placeName> einen 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_3947">Ministerrat</orgName> ansagte ( 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_3947">Ministerrat</orgName> ansagte ( 
           <date when="1898-05-22" xml:id="Bae_TB_3_3948">22.5.</date>) 
           <del rendition="#s" xml:id="Bae_TB_3_3949">wo</del> um mir Gelegenheit zu geben meinen Vortrag über die 
           <index xml:id="Bae_TB_3_3950">
@@ -5513,7 +5513,7 @@
           <pb facs="#F_K-4_Bae_TB_3_128a" n="72v" xml:id="Bae_TB_3_5448"/>
           <note type="editorial" xml:id="Bae_TB_3_5449">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_3_128b" n="73r" xml:id="Bae_TB_3_3962"/>Ich versuchte meinen Collegen ein vollständiges Bild der Situation zu entwerfen. Zum ersten Mal warscheinlich im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_3963">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_3963">
             <choice xml:id="Bae_TB_3_3964">
               <abbr xml:id="Bae_TB_3_3965">öster.</abbr>
               <expan xml:id="Bae_TB_3_3966">österreichischen</expan>
@@ -5711,7 +5711,7 @@
               <term key="Ausgleich" xml:id="Bae_TB_3_4107"/>
             </index>
           </index>. Damit hatte ich einerseits den gewünschten festen Boden für meine weitern Pläne. Andrerseits war aber gerade in diesen Tagen die Regierungspolitik so unglücklich, dass mein Ziel: Entgegenkommen gegen die Deutschen aus den ungarischen Verlegenheiten zu schöpfen - ganz in den Hintergrund trat. In demselben 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4108">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4108">
             <choice xml:id="Bae_TB_3_4109">
               <abbr xml:id="Bae_TB_3_4110">M.</abbr>
               <expan xml:id="Bae_TB_3_4111">Minister</expan>
@@ -6018,7 +6018,7 @@
             <abbr xml:id="Bae_TB_3_4332">u.</abbr>
             <expan xml:id="Bae_TB_3_4333">und</expan>
           </choice> verwertete dieselben in einem ausfürlichen Votum, das ich im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4334">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4334">
             <choice xml:id="Bae_TB_3_4335">
               <abbr xml:id="Bae_TB_3_4336">M.</abbr>
               <expan xml:id="Bae_TB_3_4337">Minister</expan>
@@ -6035,7 +6035,7 @@
             <abbr xml:id="Bae_TB_3_4344">u.</abbr>
             <expan xml:id="Bae_TB_3_4345">und</expan>
           </choice> verlangte, dass sobald dieselben irgendwie aus dem reinen Stadium der Erwägungen in das Stadium der Vorbereitung treten würden, sich der 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4346">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4346">
             <choice xml:id="Bae_TB_3_4347">
               <abbr xml:id="Bae_TB_3_4348">M.</abbr>
               <expan xml:id="Bae_TB_3_4349">Minister</expan>
@@ -6050,13 +6050,13 @@
             <abbr xml:id="Bae_TB_3_4355">o.</abbr>
             <expan xml:id="Bae_TB_3_4356">oder</expan>
           </choice> Präjudicirungen des 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4357">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4357">
             <choice xml:id="Bae_TB_3_4358">
               <abbr xml:id="Bae_TB_3_4359">M.</abbr>
               <expan xml:id="Bae_TB_3_4360">Minister</expan>
             </choice>Rathes 
           </orgName> vorkommen fand ich aber bei keinem meiner Collegen. In demselben 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4361">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4361">
             <choice xml:id="Bae_TB_3_4362">
               <abbr xml:id="Bae_TB_3_4363">M.R.</abbr>
               <expan xml:id="Bae_TB_3_4364">Ministerrat</expan>
@@ -6093,7 +6093,7 @@
               <expan xml:id="Bae_TB_3_4385">Neuen freien</expan>
             </choice>Presse freien Presse" 
           </orgName> verdankten, teilte ich nun im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4386">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4386">
             <choice xml:id="Bae_TB_3_4387">
               <abbr xml:id="Bae_TB_3_4388">M.</abbr>
               <expan xml:id="Bae_TB_3_4389">Minister</expan>
@@ -6261,7 +6261,7 @@
               <term key="Schließung" xml:id="Bae_TB_3_4501"/>
             </index>
           </index> ein Akt des Impulses, gegen den im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4502">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4502">
             <choice xml:id="Bae_TB_3_4503">
               <abbr xml:id="Bae_TB_3_4504">M.R.</abbr>
               <expan xml:id="Bae_TB_3_4505">Ministerrat</expan>
@@ -6407,7 +6407,7 @@
             <abbr xml:id="Bae_TB_3_4604">u.</abbr>
             <expan xml:id="Bae_TB_3_4605">und</expan>
           </choice> dem 
-          <placeName key="Kuestenland" xml:id="Bae_TB_3_4606">Küstenland</placeName> angetreten; am 
+          <placeName key="Kuestenland" ref="https://www.geonames.org/3175397/istria.html" xml:id="Bae_TB_3_4606">Küstenland</placeName> angetreten; am 
           <date when="1898-08-05" xml:id="Bae_TB_3_4607">5. August</date> erhielt ich in 
           <placeName key="Goerz" ref="https://www.geonames.org/3175986/gorizia.html" xml:id="Bae_TB_3_4608">Görz</placeName> Nachricht von neuen Verhandlungen mit den Ungarn 
           <choice xml:id="Bae_TB_3_4609">
@@ -6589,7 +6589,7 @@
         </p>
         <p xml:id="Bae_TB_3_4744">Am Tage des Einlangens der Note ( 
           <date when="1898-08-11" xml:id="Bae_TB_3_4745">11. August</date>) war 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4746">Ministerrat</orgName>. Im Allgemeinen grosse Ratlosigkeit, besonders die Ministersectionschefs waren mit ihrem Latein ganz fertig. 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4746">Ministerrat</orgName>. Im Allgemeinen grosse Ratlosigkeit, besonders die Ministersectionschefs waren mit ihrem Latein ganz fertig. 
           <persName key="RuberIgnaz" ref="https://d-nb.info/gnd/1028692110" xml:id="Bae_TB_3_4747">Ruber</persName> meinte, die Note sei unerhört, 
           <persName key="WittekHeinrich" ref="https://d-nb.info/gnd/117582808" xml:id="Bae_TB_3_4748">Wittek</persName> beschränkte sich ebenfalls auf Ausrufe des Erstaunens 
           <choice xml:id="Bae_TB_3_4749">
@@ -6882,7 +6882,7 @@
             <expan xml:id="Bae_TB_3_4956">und</expan>
           </choice> eine Masregel zu ihren Gunsten aufgegeben. Bezüglich der Beurteilung des 
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_3_4957">Banffy'schen</persName> Antrags jedoch behielt ich in diesem 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_4958">Ministerrat</orgName> Recht. Es wurde beschlossen alles zu versuchen um eine Verlängerung des Status quo zu erreichen 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_4958">Ministerrat</orgName> Recht. Es wurde beschlossen alles zu versuchen um eine Verlängerung des Status quo zu erreichen 
           <choice xml:id="Bae_TB_3_4959">
             <abbr xml:id="Bae_TB_3_4960">u.</abbr>
             <expan xml:id="Bae_TB_3_4961">und</expan>
@@ -6982,7 +6982,7 @@
             <abbr xml:id="Bae_TB_3_5035">u.</abbr>
             <expan xml:id="Bae_TB_3_5036">und</expan>
           </choice>
-          <placeName key="Kuestenland" xml:id="Bae_TB_3_5037">Küstenland</placeName> an, von der er ganz genau unterrichtet war. Dann kamen nacheinander die anderen Minister, alle in Frack 
+          <placeName key="Kuestenland" ref="https://www.geonames.org/3175397/istria.html" xml:id="Bae_TB_3_5037">Küstenland</placeName> an, von der er ganz genau unterrichtet war. Dann kamen nacheinander die anderen Minister, alle in Frack 
           <choice xml:id="Bae_TB_3_5038">
             <abbr xml:id="Bae_TB_3_5039">u.</abbr>
             <expan xml:id="Bae_TB_3_5040">und</expan>
@@ -7267,7 +7267,7 @@
             <abbr xml:id="Bae_TB_3_5242">u.</abbr>
             <expan xml:id="Bae_TB_3_5243">und</expan>
           </choice> wir auf dem unseres 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_3_5244">Ministerrathes</orgName> vom 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_3_5244">Ministerrathes</orgName> vom 
           <date when="1898-08-11" xml:id="Bae_TB_3_5245">11. August</date>
           <choice xml:id="Bae_TB_3_5246">
             <abbr xml:id="Bae_TB_3_5247">d.h.</abbr>
