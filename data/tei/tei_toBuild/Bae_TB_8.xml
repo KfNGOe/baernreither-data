@@ -1932,32 +1932,33 @@
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_882">Als Beck anfangs Juni 1906 die Geschäfte übernahm, wurde von verschiedenen Seiten behauptet, daß in den obersten Kreisen bezüglich der Wahlreform eine Sinnesänderung eingetreten sei. Es wäre erklärlich gewesen, daß, wenn der Plan des allgemeinen Stimmrechts in Ungarn aufgegeben wird, man auch in Oesterreich darauf verzichtet. Czernin schrieb mir am 5. Juni 1906 von einer Audienz , die der Statthalter Coudenhove beim Kaiser gehabt hatte, folgendermaßen:</rdg>
           </app>
         </p>
+        <!-- CA: im folgenden der ab fol. 41 eingelegte Brief -->
         <anchor xml:id="Bae_TB_8_2444"/>
         <app from="#Bae_TB_8_931" type="insert" xml:id="Bae_TB_8_2445">
           <rdg xml:id="Bae_TB_8_2446">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2447"/>
-        <app from="#xxx_079" type="insert" xml:id="Bae_TB_8_2448">
+        <app from="#Bae_TB_8_2473" type="insert" xml:id="Bae_TB_8_2448">
           <rdg xml:id="Bae_TB_8_2449">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2450"/>
-        <app from="#xxx_084" type="insert" xml:id="Bae_TB_8_2451">
+        <app from="#Bae_TB_8_2468" type="insert" xml:id="Bae_TB_8_2451">
           <rdg xml:id="Bae_TB_8_2452">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2453"/>
-        <app from="#xxx_080" type="insert" xml:id="Bae_TB_8_2454">
+        <app from="#Bae_TB_8_2475" type="insert" xml:id="Bae_TB_8_2454">
           <rdg xml:id="Bae_TB_8_2455">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2456"/>
-        <app from="#xxx_081" type="insert" xml:id="Bae_TB_8_2457">
+        <app from="#Bae_TB_8_2477" type="insert" xml:id="Bae_TB_8_2457">
           <rdg xml:id="Bae_TB_8_2458">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2459"/>
-        <app from="#xxx_082" type="insert" xml:id="Bae_TB_8_2460">
+        <app from="#Bae_TB_8_2479" type="insert" xml:id="Bae_TB_8_2460">
           <rdg xml:id="Bae_TB_8_2461">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2462"/>
-        <app from="#xxx_083" type="insert" xml:id="Bae_TB_8_2463">
+        <app from="#Bae_TB_8_2481" type="insert" xml:id="Bae_TB_8_2463">
           <rdg xml:id="Bae_TB_8_2464">[...]</rdg>
         </app>
       </div>
@@ -2981,7 +2982,7 @@
           </app>
           <anchor xml:id="Bae_TB_8_2060"/> wieder auf. Wer sie dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_1389">Kaiser</persName> in Erinnerung gebracht hat, ist nicht bekannt, aber gleichgültig. Keinesfalls sagte man dem 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_1390">Kaiser</persName> etwas Neues, und gewiss wurde es ihm nicht 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_1390">Kaiser</persName> etwas Neues, und gewiss wurde es ihm nicht</p> 
           <pb facs="#F_K-5_Bae_TB_8_078" n="40a" xml:id="Bae_TB_8_885"/>
           <addSpan spanTo="#Bae_TB_8_931" type="insert" xml:id="Bae_TB_8_886"/>
           <anchor xml:id="Bae_TB_8_884"/>
@@ -2996,7 +2997,7 @@
             <anchor xml:id="Bae_TB_8_931"/>
             <!-- anchor für den addspan 40a -->
             <pb facs="#F_K-5_Bae_TB_8_084" n="40b" xml:id="Bae_TB_8_906"/>
-            <addSpan spanTo="#xxx_084" xml:id="Bae_TB_8_2467"/>der 
+            <addSpan spanTo="#Bae_TB_8_2468" xml:id="Bae_TB_8_2467"/>der 
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_907">Kaiser</persName> (quasi deshalb) neue ganz andere Reformvorschläge acceptiren – der 
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_908">Kaiser</persName>
             <hi rendition="#ul" xml:id="Bae_TB_8_909">hat auch keiner Silbe</hi> widersprochen und qui tacet consentire videtur. 
@@ -3005,7 +3006,7 @@
             <anchor xml:id="Bae_TB_8_2468"/>
             <!-- anchor für addspan 40b -->
             <pb facs="#F_K-5_Bae_TB_8_085" n="40bv" xml:id="Bae_TB_8_2469"/>
-            <addSpan spanTo="#xxx_085" xml:id="Bae_TB_8_2470"/> daran denkt, die Sache zu Ende zu führen. Es soll eben dem 
+            <addSpan spanTo="#xxx_085" xml:id="Bae_TB_8_2470"/>daran denkt, die Sache zu Ende zu führen. Es soll eben dem 
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_912">Kaiser</persName> aus dem Engpass, in den er sich verrannt hat, herausgeholfen werden, und ihm der peinliche Moment eines eingestandenen Meinungswechsels erspart bleiben. 
             <app from="#Bae_MF_6-2_1227" type="notEqual" xml:id="Bae_TB_8_913">
               <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_914">Coudenhove hat dem Kaiser gesagt: es dürfe unter keiner Bedingung so aussehen, als ob er, der Kaiser von der Wahlreform abgekommen sei, sie müsse daher im Parlamente stecken bleiben und erst bis es dort eben nicht mehr weiter gehe, müsse der Kaiser (quasi deshalb) neue ganz andere Reformvorschläge akzeptieren. Der Kaiser hat mit keiner Silbe widersprochen und qui tacet consentire videtur. Coudenhove glaubt bestimmt, daß auch Beck nur dergleichen machen wird, die Kompromissverhandlungen fortzusetzen, und nicht daran denkt, die Sache zu Ende zu führen. Es soll eben dem Kaiser aus dem Engpass, in den er sich verrannt hat, herausgeholfen werden und ihm der peinliche Moment eines eingestandenen Meinungswechsels erspart bleiben.</rdg>
@@ -3014,7 +3015,7 @@
             <!-- anchor für addspan 40bv -->
           </p>
           <pb facs="#F_K-5_Bae_TB_8_079" n="40c" xml:id="Bae_TB_8_894"/>
-          <addSpan spanTo="#xxx_079" xml:id="Bae_TB_8_2472"/>praktisch verwerthen kannst, weder mich noch 
+        <addSpan spanTo="#Bae_TB_8_2473" xml:id="Bae_TB_8_2472"/><p>praktisch verwerthen kannst, weder mich noch 
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_8_895">Coudenhove</persName> zu nennen. 
           <app from="#Bae_MF_6-2_1221" type="missing" xml:id="Bae_TB_8_896">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_897"/>
@@ -3028,30 +3029,30 @@
           <index xml:id="Bae_TB_8_903">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_8_904">Wahlreform</term>
           </index> abgekommen sei – es müsse daher im 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_8_905">Parlamente</orgName> stecken bleiben und erst bis es dort eben nicht mehr weitergeht, müsse 
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_8_905">Parlamente</orgName> stecken bleiben und erst bis es dort eben nicht mehr weitergeht, müsse </p>
           <anchor xml:id="Bae_TB_8_2473"/>
           <!-- anchor für addspan 40c -->
           <p xml:id="Bae_TB_8_915">
             <pb facs="#F_K-5_Bae_TB_8_080" n="40c" xml:id="Bae_TB_8_916"/>
-            <addSpan spanTo="#xxx_080" xml:id="Bae_TB_8_2474"/>
+            <addSpan spanTo="#Bae_TB_8_2475" xml:id="Bae_TB_8_2474"/>
             <anchor xml:id="Bae_TB_8_917"/>Das Ganze ist wieder einmal ein typisches manöver österreichischer Politik – voll Lüge und Falschheit – ich glaube aber, dass die Feiglinge aller Fractionen des Parlamentes mehr Courage bekommen werden, wenn man ihnen steckt, dass man wisse, dass 
             <hi rendition="#ul" xml:id="Bae_TB_8_918">oben</hi> der Wind bereits 
             <anchor xml:id="Bae_TB_8_2475"/>
             <!-- anchor für addspan 080 -->
             <pb facs="#F_K-5_Bae_TB_8_081" n="40cv" xml:id="Bae_TB_8_919"/>
-            <addSpan spanTo="#xxx_081" xml:id="Bae_TB_8_2476"/>umgeschlagen hat und meiner unmaßgeblichen Ansicht wäre dieses Material in diesem Sinne discret zu verwerten! 
+            <addSpan spanTo="#Bae_TB_8_2477" xml:id="Bae_TB_8_2476"/>umgeschlagen hat und meiner unmaßgeblichen Ansicht wäre dieses Material in diesem Sinne discret zu verwerten! 
           </p>
           <p xml:id="Bae_TB_8_920">Ist der Blödsinn des gleichen W.Rechtes einmal abgethan, dann wird – glaube ich – der Moment für jene vernünftigen Menschen 
             <anchor xml:id="Bae_TB_8_2477"/>
             <!-- anchor für addspan 081 -->
             <pb facs="#F_K-5_Bae_TB_8_082" n="40d" xml:id="Bae_TB_8_921"/>
-            <addSpan spanTo="#xxx_082" xml:id="Bae_TB_8_2478"/>kommen, die andere Propositionen machen können – wozu ich Dich in erster Linie zähle. 
+            <addSpan spanTo="#Bae_TB_8_2479" xml:id="Bae_TB_8_2478"/>kommen, die andere Propositionen machen können – wozu ich Dich in erster Linie zähle. 
           </p>
           <p xml:id="Bae_TB_8_922">Man scheint momentan die löblichsten Absichten zu haben, gegen die Gasse energisch vorzugehen – nachdem man die armen Teufeln erst aufgehetzt hat, wird man jetzt 
             <anchor xml:id="Bae_TB_8_2479"/>
             <!-- anchor für addspan 082 -->
             <pb facs="#F_K-5_Bae_TB_8_083" n="40dv" xml:id="Bae_TB_8_923"/>
-            <addSpan spanTo="#xxx_083" xml:id="Bae_TB_8_2480"/>auf sie schießen – ebenso logisch wie hübsch! – 
+            <addSpan spanTo="#Bae_TB_8_2481" xml:id="Bae_TB_8_2480"/>auf sie schießen – ebenso logisch wie hübsch! – 
           </p>
           <p xml:id="Bae_TB_8_924">Hast du meinen Brief wegen 
             <persName key="DaszynskiIgnacy" ref="https://d-nb.info/gnd/118934481" xml:id="Bae_TB_8_925">Daszyński</persName> bekommen? 
@@ -3072,7 +3073,7 @@
           </p>
           <pb facs="#F_K-5_Bae_TB_8_086" n="41v" xml:id="Bae_TB_8_1391"/>
           <note type="editorial" xml:id="Bae_TB_8_1392">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
-          <pb facs="#F_K-5_Bae_TB_8_087" n="42r" xml:id="Bae_TB_8_1393"/>besser und verführerischer dargestellt, als es seinerzeit 
+          <pb facs="#F_K-5_Bae_TB_8_087" n="42r" xml:id="Bae_TB_8_1393"/><p>besser und verführerischer dargestellt, als es seinerzeit 
           <persName key="SteinbachEmil" ref="https://d-nb.info/gnd/129263958" xml:id="Bae_TB_8_1394">Steinbach</persName> getan hatte. Aber es kam ein anderer Impuls hinzu, der wahrscheinlich stärker war als 
           <app from="#Bae_MF_6-2_1781" type="equal" xml:id="Bae_TB_8_2061">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_2062">wieder auf. Wer sie dem Kaiser in Erinnerung gebracht hat, ist nicht bekannt, aber gleichgültig. Keinesfalls sagte man dem Kaiser etwas Neues, und gewiss wurde es ihm nicht besser und verführerischer dargestellt, als es seinerzeit Steinbach getan hatte. Aber es kam ein anderer Impuls hinzu, der wahrscheinlich stärker war als</rdg>
