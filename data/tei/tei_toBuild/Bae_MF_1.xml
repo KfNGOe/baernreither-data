@@ -278,7 +278,7 @@
           <persName key="SchlesingerLudwig" ref="https://d-nb.info/gnd/138214379" xml:id="Bae_MF_1_195">Schlesinger</persName> hatte mir das oft wiederholt und 
           <persName key="RichterAlexander" ref="https://d-nb.info/gnd/130134538" xml:id="Bae_MF_1_196">Alexander Richter</persName>, sonst ein Heißsporn, hatte geäußert: ich möchte mir den nordböhmischen Abgeordneten ansehen, der gegen den 
           <index xml:id="Bae_MF_1_197">
-            <term key="OesterreichUngarn" xml:id="Bae_MF_1_198">ungaricschen Ausgleich</term>
+            <term key="OesterreichUngarn" xml:id="Bae_MF_1_198">ungarischen Ausgleich</term>
             <index xml:id="Bae_MF_1_199">
               <term key="Ausgleich" xml:id="Bae_MF_1_200"/>
             </index>
@@ -1126,7 +1126,7 @@
           <orgName key="MaehrischeMittelpartei" xml:id="Bae_MF_1_824">Mährische Mittelpartei</orgName>, 
           <orgName key="Slowenenklub" xml:id="Bae_MF_1_825">Slovenen</orgName>, 
           <orgName key="ItalienischerKlub" xml:id="Bae_MF_1_826">Italiener</orgName>, 
-          <orgName xml:id="Bae_MF_1_827">Rumänen</orgName>), die 
+          <orgName key="Rumaenenklub" xml:id="Bae_MF_1_827">Rumänen</orgName>), die 
           <hi rendition="#ul" xml:id="Bae_MF_1_828">für jede</hi> Regierung zu haben sind. Nun ist eine Kombination mit und ohne den freisinnigen Deutschen möglich. 
         </p>
         <p xml:id="Bae_MF_1_829">I. Kombination 
@@ -1157,10 +1157,7 @@
             <choice xml:id="Bae_MF_1_845">
               <abbr xml:id="Bae_MF_1_846">u.</abbr>
               <expan xml:id="Bae_MF_1_847">und</expan>
-            </choice>
-            <orgName xml:id="Bae_MF_1_848">
-              <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_MF_1_849">Mauthner</persName>gruppe 
-            </orgName> 50 
+            </choice> <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_MF_1_849">Mauthner</persName>gruppe 
           </hi>
         </p>
         <p xml:id="Bae_MF_1_850">
@@ -1237,7 +1234,7 @@
               <term key="SprachenverordnungenBadeni" xml:id="Bae_MF_1_899"/>
             </index>
           </index> keine Rede sein könne. Ich hatte es nicht anders erwartet und konnte daher nur dafür danken, daß mein Entschluß nein zu sagen durch ein so einhelliges Urteil meiner engsten Gesinnungsgenossen und Freunde getragen sei. 
-          <app from="#Bae_TB_1_1718" type="equak" xml:id="Bae_MF_1_900">
+          <app from="#Bae_TB_1_1718" type="equal" xml:id="Bae_MF_1_900">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_901">auszuscheiden, wenn ich nicht eintrete, las schliesslich die Verordnungen vor u. zergliederte sie u. gab sie auch den Herren, die eifrig darnach griffen zum Lesen. Die Personenfrage war sehr bald abgethan. Die Deutschböhmen erklärten jedem Ministerium u. jedem Minister, der sich irgendwie mit diesen S.V. identificiren würde die allerschärfste Opposition zu machen u. selbst die Coniventesten, Promber u. Oppenheimer erklärten dass von dem Eintritt irgend eines von uns nach Publicirung der S.V. keine Rede sein könne. Ich hatte es nicht anders erwartet u. konnte daher nur dafür danken, dass mein Entschluss nein zu sagen durch ein so einhelliges Urteil meiner engsten Gesinnungsgenossen u. Freunde getragen sei.</rdg>
           </app>
         </p>
@@ -1504,8 +1501,7 @@
           <anchor xml:id="Bae_MF_1_1104"/>"Der 
           <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_MF_1_1105">Polenclub</orgName> erachtet die Bildung einer parlamentarischen Majorität für eine Notwendigkeit und hat sich zu diesem Zwecke mit der 
           <orgName key="KatholischeVolkspartei" xml:id="Bae_MF_1_1106">katholischen Volkspartei</orgName>, dem 
-          <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_MF_1_1107">Jungčechenklub</orgName> und der 
-          <orgName xml:id="Bae_MF_1_1108">slavisch-christlich-nationalen Vereinigung</orgName> geeinigt, um eine gemeinsame parlamentarische Kommission einzusetzten. Ferner erachtet der 
+          <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_MF_1_1107">Jungčechenklub</orgName> und der slavisch-christlich-nationalen Vereinigung geeinigt, um eine gemeinsame parlamentarische Kommission einzusetzten. Ferner erachtet der 
           <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_MF_1_1109">Polenklub</orgName> den Anschluß der liberalen Großgrundbesitzer an diese Regierungsmajorität für wünschenswerth." 
         </p>
         <p xml:id="Bae_MF_1_1110">
@@ -3229,14 +3225,13 @@
           <persName key="Caligula" ref="https://d-nb.info/gnd/118518410" xml:id="Bae_MF_1_2403">Caligulas</persName>, 
           <persName key="Domitian" ref="https://d-nb.info/gnd/118672231" xml:id="Bae_MF_1_2404">Domitians</persName> und so vielen anderen, die uns mit Recht so verwerflich scheinen, erhielt sich nicht nur in den ersten Jahrhunderten unserer Zeitrechnung der römische Staat, sondern er erweiterte sich, führte – wie uns 
           <persName key="MommsenTheodor" ref="https://d-nb.info/gnd/118583425" xml:id="Bae_MF_1_2405">Momsen</persName> in seinem 5. Bande so wunderbar beschreibt – in den entlegensten Teilen der römischen Monarchie eine musterhafte 
-          <!-- CA: hier kontrollieren, ob das im TB aucch tatsächlich meisterhaft heißt und dann entsprechend noch korrigieren für den Textvergleich -->
           <index xml:id="Bae_MF_1_2406">
             <term key="Verwaltung" xml:id="Bae_MF_1_2407">Verwaltung</term>
           </index> ein und erschloß halbe Weltteile der menschlichen Kultur. Es bedurfte Ereignisse, 
           <del rendition="#s" xml:id="Bae_MF_1_2408">d</del>
           <add place="across" xml:id="Bae_MF_1_2409">w</add>ie die Verbreitung des Christentums und die Völkerwanderung, um das mit tausend Klammern zusammengehaltene Gebäude zu zerstören. Die Entwicklung, Durchführung und konsequente Verfolgung gewisser Grundsätze des öffentlichen und privaten Rechtes: – das was wir manchmal recht unklar "die Staatsidee" nennen – nicht nur in platonischen Regierungserklärungen, sondern vom Zentrum des Reiches lebendig und 
           <app from="#Bae_TB_1_5574" type="equal" xml:id="Bae_MF_1_2410">
-            <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_2411">dem Geist ihrer Zeit darstellen würde. Mein neuerlicher Hinweis: wie sehr so ein Werk notwendig u. wie geeignet gerade er, Dumreicher, wäre, es zu schreiben, – begegnete zu meiner Freude nicht mehr jener resignirten Ablehnung wie früher. Vielleicht entschliesst er sich doch. An jenem Abend gab er eine sehr schöne Rapsodie über die Entwicklung der griechischen Sculptur, ihre drei Höhepunkte, die er sehr geistreich mit der Früh-, Hochrenaissance u. dem Barock verglich. Dabei kamen wir darauf zu sprechen, dass in einer grossen Kunstepoche neben den Grossen auch eine Menge Mittlerer u. Kleiner streben u. arbeiten, ja dass in manchen Arbeiten dieser Grössen zweiten, ja dritten Rangs das Höchste erreicht wird u. dadurch die Zeit den Charakter einer grossen, zusammenhängenden Kunstepoche von einer bestimmten Richtung annimmt. Ich machte die Nutzanwendung auf das staatliche Leben. Was wir eine grosse Epoche nennen, ist der Zusammenhang führender politischer Geister mit kleinern Grössen, die lokal wirken, modifiziert u. doch im gleichen Sinne. Moltke allein hätte den großen Feldzug nie gewonnen, ohne dass die Armeecomandanten, Divisionäre u. herunter bis zum Compagniechef u. noch tiefer, jeder nicht nur tüchtig gewesen wäre, sondern auch auf seine Tüchtigkeit vertraut hätte. So ist es auch in der Staatsverwaltung im höhern Sinne des Wortes. Durch die Reden im Parlament u. durch die Zeitungen wird ein grosser Staat nicht zusammengehalten. Selbst die Verwerflichkeit eines Monarchen, meinte Dumreicher (diesmal wie schon öfter) entscheidet nicht ausschlaggebend über den Staat, denn trotz den Nero's, Caligula's, Domitian's u. so vielen andren, die uns mit Recht so verwerflich scheinen, erhielt sich nicht nur in den ersten Jahrhunderten unserer Zeitrechnung der römische Staat, sondern er erweiterte sich, führte – wie uns Momsen in seinem 5. Bande so wunderbar beschreibt – in den entlegensten Teilen der röm. Monarchie eine meisterhafte Verwaltung ein u. erschloss halbe Weltteile der menschlichen Cultur. Es bedurfte Ereignisse wie die Verbreitung des Christentums u. die Völkerwanderung, um das mit tausend Klammern zusammengehaltene Gebäude zu zerstören. Die Entwicklung, Durchfürung u. consequente Verfolgung gewisser Grundsätze des öffentlichen u. privaten Rechtes: – das was wir manchmal recht unklar "die Staatsidee" nennen – nicht nur in platonischen Regierungserklärungen, sondern vom Centrum des Reiches lebendig u.</rdg>
+            <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_2411">dem Geist ihrer Zeit darstellen würde. Mein neuerlicher Hinweis: wie sehr so ein Werk notwendig u. wie geeignet gerade er, Dumreicher, wäre, es zu schreiben, – begegnete zu meiner Freude nicht mehr jener resignirten Ablehnung wie früher. Vielleicht entschliesst er sich doch. An jenem Abend gab er eine sehr schöne Rapsodie über die Entwicklung der griechischen Sculptur, ihre drei Höhepunkte, die er sehr geistreich mit der Früh-, Hochrenaissance u. dem Barock verglich. Dabei kamen wir darauf zu sprechen, dass in einer grossen Kunstepoche neben den Grossen auch eine Menge Mittlerer u. Kleiner streben u. arbeiten, ja dass in manchen Arbeiten dieser Grössen zweiten, ja dritten Rangs das Höchste erreicht wird u. dadurch die Zeit den Charakter einer grossen, zusammenhängenden Kunstepoche von einer bestimmten Richtung annimmt. Ich machte die Nutzanwendung auf das staatliche Leben. Was wir eine grosse Epoche nennen, ist der Zusammenhang führender politischer Geister mit kleinern Grössen, die lokal wirken, modifiziert u. doch im gleichen Sinne. Moltke allein hätte den großen Feldzug nie gewonnen, ohne dass die Armeecomandanten, Divisionäre u. herunter bis zum Compagniechef u. noch tiefer, jeder nicht nur tüchtig gewesen wäre, sondern auch auf seine Tüchtigkeit vertraut hätte. So ist es auch in der Staatsverwaltung im höhern Sinne des Wortes. Durch die Reden im Parlament u. durch die Zeitungen wird ein grosser Staat nicht zusammengehalten. Selbst die Verwerflichkeit eines Monarchen, meinte Dumreicher (diesmal wie schon öfter) entscheidet nicht ausschlaggebend über den Staat, denn trotz den Nero's, Caligula's, Domitian's u. so vielen andren, die uns mit Recht so verwerflich scheinen, erhielt sich nicht nur in den ersten Jahrhunderten unserer Zeitrechnung der römische Staat, sondern er erweiterte sich, führte – wie uns Momsen in seinem 5. Bande so wunderbar beschreibt – in den entlegensten Teilen der röm. Monarchie eine musterhafte Verwaltung ein u. erschloss halbe Weltteile der menschlichen Cultur. Es bedurfte Ereignisse wie die Verbreitung des Christentums u. die Völkerwanderung, um das mit tausend Klammern zusammengehaltene Gebäude zu zerstören. Die Entwicklung, Durchfürung u. consequente Verfolgung gewisser Grundsätze des öffentlichen u. privaten Rechtes: – das was wir manchmal recht unklar "die Staatsidee" nennen – nicht nur in platonischen Regierungserklärungen, sondern vom Centrum des Reiches lebendig u.</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_3831"/>stark 
           <app from="#Bae_TB_1_5638" type="notEqual" xml:id="Bae_MF_1_2412">
