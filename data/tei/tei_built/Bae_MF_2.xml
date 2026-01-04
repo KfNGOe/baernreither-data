@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_MF_2_1">
   <teiHeader xml:id="Bae_MF_2_2">
     <fileDesc xml:id="Bae_MF_2_3">
@@ -2279,7 +2280,7 @@
               <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_2_1711">Gautsch 
                 <del rendition="#s" xml:id="Bae_MF_2_1712">en</del>
                 <add place="across" xml:id="Bae_MF_2_1713">'sch</add>
-              </persName> Verordnung
+              </persName> Verordnung 
             </term>
             <index xml:id="Bae_MF_2_1714">
               <term key="SprachenverordnungenGautsch" xml:id="Bae_MF_2_1715"/>
@@ -5566,7 +5567,7 @@
         <p xml:id="Bae_MF_2_4409">
           <anchor xml:id="Bae_MF_2_4410"/>
           <hi rend="ul" xml:id="Bae_MF_2_4411">6. Die 
-            <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_2_4412">Budapester</placeName> Augustkonferenzen.
+            <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_2_4412">Budapester</placeName> Augustkonferenzen. 
           </hi>Am Tage nach unserer Rückkehr von 
           <placeName key="BadIschl" ref="https://www.geonames.org/2782052/bad-ischl.html" xml:id="Bae_MF_2_4413">Ischl</placeName> war 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_MF_2_4414">Ministerrat</orgName>. 
@@ -5586,7 +5587,7 @@
             </index>
           </index> zu 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_2_4428">Ungarn</placeName> zu ihrem Inhalt gemacht würde. In einem ausführlichen Votum 
-          <app from="#" type="equal" xml:id="Bae_MF_2_4429">6. Die Budapester Augustkonferenzen.Am Tage nach unserer Rückkehr von Ischl war Ministerrat. Thun referirte wie gewönlich über den stattgefundenen Gang der Dinge u. es knüpfte sich eine Debatte daran, um festzustellen, welche Haltung wir am 24. in Budapest einzunehmen hätten. So gefärlich mir die (zuerst von Chlumetzky u. Lukacz signalisirte) Form eines blosen Reciprocitätsverhältnisses immer erschienen ist, war jetzt gegen dieselbe nicht mehr anzukämpfen, auch wäre ihr die Spitze teilweise abgebrochen worden, wenn die Verlängerung des bestehenden Verhältnisses zu Ungarn zu ihrem Inhalt gemacht würde. In einem ausfürlichen Votum
+          <app from="#" type="equal" xml:id="Bae_MF_2_4429">6. Die Budapester Augustkonferenzen.Am Tage nach unserer Rückkehr von Ischl war Ministerrat. Thun referirte wie gewönlich über den stattgefundenen Gang der Dinge u. es knüpfte sich eine Debatte daran, um festzustellen, welche Haltung wir am 24. in Budapest einzunehmen hätten. So gefärlich mir die (zuerst von Chlumetzky u. Lukacz signalisirte) Form eines blosen Reciprocitätsverhältnisses immer erschienen ist, war jetzt gegen dieselbe nicht mehr anzukämpfen, auch wäre ihr die Spitze teilweise abgebrochen worden, wenn die Verlängerung des bestehenden Verhältnisses zu Ungarn zu ihrem Inhalt gemacht würde. In einem ausfürlichen Votum 
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_4430"/>
           </app>
           <anchor xml:id="Bae_MF_2_4431"/>
@@ -5640,7 +5641,7 @@
           <date when="1906" xml:id="Bae_MF_2_4467">1906</date> gesehen. Viel ausführlicher natürlich als in dem beiliegenden Votum verfocht ich im 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_MF_2_4468">Ministerrat</orgName> die Meinung, daß der ungarische Vorschlag vom 
           <date when="1898-08-10" xml:id="Bae_MF_2_4469">10. August</date> gefährlich, ungerecht und unannehmbar sei. Lebhaft wurde ich damals wie später von 
-          <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_MF_2_4470">Welsersheimb</persName> unterstützt. So wirkte mein sehr lebhaftes Eintreten für Festigkeit gegenüber den
+          <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_MF_2_4470">Welsersheimb</persName> unterstützt. So wirkte mein sehr lebhaftes Eintreten für Festigkeit gegenüber den 
           <pb facs="_215" n="206v" xml:id="Bae_MF_2_4471"/>
           <note type="editorial" xml:id="Bae_MF_2_4472">Diese Seite ist leer.</note>
           <pb facs="_216" n="207r" xml:id="Bae_MF_2_4473"/>Ungarn diesmal doch noch so stark, daß beschlossen wurde, 
@@ -5670,7 +5671,7 @@
           <anchor xml:id="Bae_MF_2_4493"/>wurde etwas abgeändert als definitive Antwort auf die ungarische Note vom 
           <app from="#" type="equal" xml:id="Bae_MF_2_4494">
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_4495">wurde etwas abgeändert als definitive Antwort auf die ungar. Note vom</rdg>
-          </app>18.
+          </app>18. 
           <app from="#" type="notEqual" xml:id="Bae_MF_2_4496">
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_4497">10.</rdg>
           </app>
@@ -5689,7 +5690,7 @@
           <app from="#" type="missing" xml:id="Bae_MF_2_4507">
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_4508">(A. XX.)</rdg>
           </app>
-          <anchor xml:id="Bae_MF_2_4509"/>. Taktisch war in derselben primo loco unser ursprünglicher Antrag auf Verlängerung des bestehenden Zustandes, dann secundo loco unsere neue Position verteitigt.
+          <anchor xml:id="Bae_MF_2_4509"/>. Taktisch war in derselben primo loco unser ursprünglicher Antrag auf Verlängerung des bestehenden Zustandes, dann secundo loco unsere neue Position verteitigt. 
         </p>
         <p xml:id="Bae_MF_2_4510">In der Zwischenzeit machte ich die bereits erwähnte kleine 
           <index xml:id="Bae_MF_2_4511">
@@ -5705,36 +5706,36 @@
           <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_MF_2_4519">Ministerium</orgName> nicht länger sein werde und ich wollte daher die Zeit noch so sehr ausnützen als möglich. Am Morgen des 
           <date when="1898-08-23" xml:id="Bae_MF_2_4520">23.</date> war ich wieder in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_MF_2_4521">Wien</placeName>, Nachmittag fuhr ich nach 
-          <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_2_4522">Budapest</placeName>.
+          <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_2_4522">Budapest</placeName>. 
         </p>
         <p xml:id="Bae_MF_2_4523">Am 
           <date when="1898-08-24" xml:id="Bae_MF_2_4524">24.</date> begann die Konferenz um 11 Uhr im ungarischen 
           <orgName key="Ministerratspraesidium" ref="https://d-nb.info/gnd/1129291480" xml:id="Bae_MF_2_4525">Ministerratspräsidium</orgName>. Es wurde in Anwesenheit 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_2_4526">Thuns</persName>, 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_MF_2_4527">Kaizls</persName> und mir, ferner 
-          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_2_4528">Ban
+          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_2_4528">Ban 
             <del rendition="#s" xml:id="Bae_MF_2_4529">dd</del>
-            <add place="across" xml:id="Bae_MF_2_4530">ff</add>yss
+            <add place="across" xml:id="Bae_MF_2_4530">ff</add>yss 
           </persName>, 
-          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4531">Lukac
+          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4531">Lukac 
             <del rendition="#s" xml:id="Bae_MF_2_4532">z</del>
             <add place="across" xml:id="Bae_MF_2_4533">s</add>
           </persName> und 
-          <persName key="DaranyiIgnac" ref="https://d-nb.info/gnd/143948474" xml:id="Bae_MF_2_4534">Dar
-            <add place="across" xml:id="Bae_MF_2_4535">á</add>nyis
-          </persName> intensiv bis 2 Uhr verhandelt. Dann war Diner bei
+          <persName key="DaranyiIgnac" ref="https://d-nb.info/gnd/143948474" xml:id="Bae_MF_2_4534">Dar 
+            <add place="across" xml:id="Bae_MF_2_4535">á</add>nyis 
+          </persName> intensiv bis 2 Uhr verhandelt. Dann war Diner bei 
           <pb facs="_217" n="207v" xml:id="Bae_MF_2_4536"/>
           <note type="editorial" xml:id="Bae_MF_2_4537">Diese Seite ist leer.</note>
           <pb facs="_218" n="208r" xml:id="Bae_MF_2_4538"/>
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_2_4539">Banffy</persName>, dessen 
-          <persName key="BanffyIlona" xml:id="Bae_MF_2_4540">Gattin</persName> präsidierte. Ausgesprochen ungarisches Mittagessen mit Krebsen, Paprika und Melonen gewürzt. Dann wurde weiter verhandelt bis 6 Uhr. Abends waren wir in einem Restaurant im Stadtwäldchen. Die Hitze war enorm, die Abkühlung am Abend gering. Andern Tags (
+          <persName key="BanffyIlona" xml:id="Bae_MF_2_4540">Gattin</persName> präsidierte. Ausgesprochen ungarisches Mittagessen mit Krebsen, Paprika und Melonen gewürzt. Dann wurde weiter verhandelt bis 6 Uhr. Abends waren wir in einem Restaurant im Stadtwäldchen. Die Hitze war enorm, die Abkühlung am Abend gering. Andern Tags ( 
           <date when="1898-08-25" xml:id="Bae_MF_2_4541">25.</date>) war noch eine Konferenz von 11-3 durch ein kleines Frühstück unterbrochen, Abends Diner bei 
           <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_2_4542">Féjervary</persName> wo ausser den Genannten auch der 
           <persName key="ErdelySandor" xml:id="Bae_MF_2_4543">ungarische Justiz</persName> und der 
           <persName key="WlassicsGyula" ref="https://d-nb.info/gnd/117613789" xml:id="Bae_MF_2_4544">ungarische Unterrichtsminister</persName> anwesend waren. Vorher machte ich mit 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_MF_2_4545">Kaizl</persName> eine Spazierfahrt auf der 
           <placeName key="Ofen" ref="https://www.geonames.org/3054667/buda.html" xml:id="Bae_MF_2_4546">Ofner</placeName> Seite. Die Hitze war womöglich noch größer als am Tage vorher, beim Diner geradezu unerträglich. Abends fuhren wir nach 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_MF_2_4547">Wien</placeName> zurück.
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_MF_2_4547">Wien</placeName> zurück. 
         </p>
         <p xml:id="Bae_MF_2_4548">In der Konferenz wurde zunächst beschlossen, unsere letzte Note zur Grundlage der Diskussion zu nehmen. Dieselbe wurde absatzweise verlesen und darüber gesprochen. 
           <app from="#" type="equal" xml:id="Bae_MF_2_4549">
@@ -5766,7 +5767,7 @@
           <app from="#" type="missing" xml:id="Bae_MF_2_4568">
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_4569">(oder Ansicht)</rdg>
           </app>
-          <anchor xml:id="Bae_MF_2_4570"/>wiedergeben.
+          <anchor xml:id="Bae_MF_2_4570"/>wiedergeben. 
         </p>
         <p xml:id="Bae_MF_2_4571">
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_2_4572">Thun</persName> griff ein paar Mal sehr gut in die Debatte ein. Insbesondere machte er von dem Argument wirksamen Gebrauch, daß wenn bei uns der neue 
@@ -5798,7 +5799,7 @@
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_4591">auf alle Fälle</rdg>
           </app>
           <anchor xml:id="Bae_MF_2_4592"/>noch verschlimmere und für alle Zukunft der Abschluß von Uebereinkommen mit 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_2_4593">Ungarn</placeName> dadurch in Frage gestellt werden könne.
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_2_4593">Ungarn</placeName> dadurch in Frage gestellt werden könne. 
         </p>
         <pb facs="_219" n="208v" xml:id="Bae_MF_2_4594"/>
         <note type="editorial" xml:id="Bae_MF_2_4595">Diese Seite ist leer.</note>
@@ -5825,7 +5826,7 @@
             </index>
           </index> haben und am 
           <date when="1899-01-01" xml:id="Bae_MF_2_4614">1. Jänner</date> nicht fertig werden. Es ist nicht ausgeschlossen, daß wenn dieser Weg nicht gegangen werden kann, daß am 
-          <date when="1899-01-01" xml:id="Bae_MF_2_4615">1. Jänner</date> ein Nichts dastehen wird. Das ist das Höchste
+          <date when="1899-01-01" xml:id="Bae_MF_2_4615">1. Jänner</date> ein Nichts dastehen wird. Das ist das Höchste 
           <add place="across" xml:id="Bae_MF_2_4616">,</add> was ich befürchte und nur desswegen bin ich bereit diese Propositionen zu vertreten. 
           <index xml:id="Bae_MF_2_4617">
             <term key="OesterreichUngarn" xml:id="Bae_MF_2_4618">Handelsvertrag</term>
@@ -5846,12 +5847,12 @@
               <term key="Quote" xml:id="Bae_MF_2_4629"/>
             </index>
           </index> erhöht werden, aber nur mäßig; aber taktisch halte ich es für diesen Moment nicht vorteilhaft und dieses eine Jahr 
-          <date when="1899" xml:id="Bae_MF_2_4630">1899</date> muß sie bleiben (
+          <date when="1899" xml:id="Bae_MF_2_4630">1899</date> muß sie bleiben ( 
           <choice xml:id="Bae_MF_2_4631">
             <abbr xml:id="Bae_MF_2_4632">scit.</abbr>
             <expan xml:id="Bae_MF_2_4633">scilicet</expan>
           </choice> wie sie ist) und geopfert werden, denn um die ganze Sache zustande zu bringen, ist es viel wichtiger als diese paar Millionen die 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_2_4634">Oesterreich</placeName> even-
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_2_4634">Oesterreich</placeName> even- 
           <pb facs="_221" n="209v" xml:id="Bae_MF_2_4635"/>
           <note type="editorial" xml:id="Bae_MF_2_4636">Diese Seite ist leer.</note>
           <pb facs="_222" n="210r" xml:id="Bae_MF_2_4637"/>tuell pro 
@@ -5862,10 +5863,10 @@
             <index xml:id="Bae_MF_2_4642">
               <term key="Quote" xml:id="Bae_MF_2_4643"/>
             </index>
-          </index>, da wird es leichter gehen."
+          </index>, da wird es leichter gehen." 
         </p>
         <p xml:id="Bae_MF_2_4644">Ich habe diesen Passus in der unveränderten Diktion 
-          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_2_4645">Banffys</persName> aufgenommen, weil ich nicht imstande war drastischer zu beweisen, daß ein Hauptbestreben bei dem ungarischen Beutezug das Bestreben war, das junctim in die Luft zu sprengen.
+          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_2_4645">Banffys</persName> aufgenommen, weil ich nicht imstande war drastischer zu beweisen, daß ein Hauptbestreben bei dem ungarischen Beutezug das Bestreben war, das junctim in die Luft zu sprengen. 
         </p>
         <p xml:id="Bae_MF_2_4646">Auch 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_MF_2_4647">Kaizl</persName> hielt sich in der Konferenz sehr tapfer. Er versuchte insbesondere die Bankparität, die unglücklicherweise von 
@@ -5876,7 +5877,7 @@
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_2_4652">Ungarn</placeName> gewählt würden und die übrigen von den Aktionären. Diese Versuche fanden aber entschieden Ablehnung und wenn 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_MF_2_4653">Kaizl</persName> uns auch später im 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_MF_2_4654">Ministerrat</orgName> erzählte 
-          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4655">Lukac
+          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4655">Lukac 
             <del rendition="#s" xml:id="Bae_MF_2_4656">z</del>
             <add place="across" xml:id="Bae_MF_2_4657">s</add>
           </persName> habe im Privatgespräch sich nicht ganz ablehnend verhalten, so bezeichnete ich derlei Dinge wol mit Recht als fata morgana angesichts der wiederholten offiziellen Erklärungen in der Konferenz. Auch das Fallenlassen der Erhöhungen der Bier- und Branntweinsteuer wurde erörtert. Die Ungarn traten dem nicht entgegen. Am ersten Tage hatte ich mich mehr zurückgehalten. Am zweiten jedoch rückte ich 
@@ -5903,7 +5904,7 @@
           <pb facs="_223" n="210v" xml:id="Bae_MF_2_4672"/>
           <note type="editorial" xml:id="Bae_MF_2_4673">Diese Seite ist leer.</note>
           <pb facs="_224" n="211r" xml:id="Bae_MF_2_4674"/> die 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_2_4675">Ungarn</placeName> betreibt
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_2_4675">Ungarn</placeName> betreibt 
           <add place="across" xml:id="Bae_MF_2_4676">,</add> nicht feindlich, verlangte aber für unsere 
           <index xml:id="Bae_MF_2_4677">
             <term key="Oesterreich" xml:id="Bae_MF_2_4678">Industrie</term>
@@ -5948,7 +5949,7 @@
             <index xml:id="Bae_MF_2_4705">
               <term key="Ausgleich" xml:id="Bae_MF_2_4706"/>
             </index>
-          </index> zu verhandeln
+          </index> zu verhandeln 
           <add place="across" xml:id="Bae_MF_2_4707">,</add> malte ich in seinen Details aus und weder 
           <persName key="DanielErno" xml:id="Bae_MF_2_4708">Daniel</persName> noch 
           <persName key="DaranyiIgnac" ref="https://d-nb.info/gnd/143948474" xml:id="Bae_MF_2_4709">Daranyi</persName>, die sofort und sehr lebhaft nach mir das Wort ergriffen, konnten eigentlich irgend etwas greifbares darauf antworten. Eingehend erörterte ich auch die Frage des Donauverkehrs und der Eisenbahnanschlüsse, besonders die 
@@ -5998,11 +5999,11 @@
               <term key="Regierung" xml:id="Bae_MF_2_4745"/>
             </index>
           </index> gegenüber dem Projekt 
-          <placeName key="Spalato" ref="https://www.geonames.org/3190261/split.html" xml:id="Bae_MF_2_4746">Spalato</placeName>-
-          <placeName key="Bugojno" ref="https://www.geonames.org/3203099/bugojno.html" xml:id="Bae_MF_2_4747">Bugojno</placeName>.
+          <placeName key="Spalato" ref="https://www.geonames.org/3190261/split.html" xml:id="Bae_MF_2_4746">Spalato</placeName>- 
+          <placeName key="Bugojno" ref="https://www.geonames.org/3203099/bugojno.html" xml:id="Bae_MF_2_4747">Bugojno</placeName>. 
         </p>
         <p xml:id="Bae_MF_2_4748">
-          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4749">Lukac
+          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4749">Lukac 
             <del rendition="#s" xml:id="Bae_MF_2_4750">z</del>
             <add place="across" xml:id="Bae_MF_2_4751">s</add>
           </persName> machte es sich zur besonderen Aufgabe den 
@@ -6047,7 +6048,7 @@
             <index xml:id="Bae_MF_2_4782">
               <term key="Industrie" xml:id="Bae_MF_2_4783"/>
             </index>
-          </index> zugrunde ge-
+          </index> zugrunde ge- 
           <pb facs="_227" n="212v" xml:id="Bae_MF_2_4784"/>
           <note type="editorial" xml:id="Bae_MF_2_4785">Diese Seite ist leer.</note>
           <pb facs="_228" n="213r" xml:id="Bae_MF_2_4786"/>hen. Ferner die Aufhebung des Mahlverkehrs, endlich die Erhöhung des Branntweinkontingentes. Vergleicht man diese beiden Gruppen, "so sieht man, daß die ungarischen Forderungen auf Gerechtigkeit (sic!) beruhen, während die österreichischen Spezialforderungen 
@@ -6057,7 +6058,7 @@
             <index xml:id="Bae_MF_2_4790">
               <term key="Ausgleich" xml:id="Bae_MF_2_4791"/>
             </index>
-          </index> bezeichnete er die Fortsetzung der Valutaregulierung, die Erhöhung des staatlichen Einflußes auf die Bank, die Erhöhung der staatlichen Partizipation am Erträgnisse der Bank, das Recht zur Uebernahme des Bankgeschäftes, die neue Regelung des indirekten Steuerwesens, endlich – der freie Verkehr zwischen den beiden Staaten der Monarchie!
+          </index> bezeichnete er die Fortsetzung der Valutaregulierung, die Erhöhung des staatlichen Einflußes auf die Bank, die Erhöhung der staatlichen Partizipation am Erträgnisse der Bank, das Recht zur Uebernahme des Bankgeschäftes, die neue Regelung des indirekten Steuerwesens, endlich – der freie Verkehr zwischen den beiden Staaten der Monarchie! 
         </p>
         <p xml:id="Bae_MF_2_4792">Ich habe diese 
           <app from="#" type="equal" xml:id="Bae_MF_2_4793">
@@ -6068,7 +6069,7 @@
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_4797">Expectoration</rdg>
           </app>
           <anchor xml:id="Bae_MF_2_4798"/>von 
-          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4799">Lukac
+          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4799">Lukac 
             <del rendition="#s" xml:id="Bae_MF_2_4800">z</del>
             <add place="across" xml:id="Bae_MF_2_4801">s</add>
           </persName>, die mit dem verhandelten Gegenstande nur indirekt zusammenhieng und nur eine Antwort auf meine und 
@@ -6093,7 +6094,7 @@
               <term key="Ausgleich" xml:id="Bae_MF_2_4816"/>
             </index>
           </index> ist eine wirtschaftliche Machtfrage geworden. Von einer Verfolgung gemeinschaftlicher wirtschaftlicher Ziele ist keine Rede mehr und gerade die Aufzählung 
-          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4817">Lukac
+          <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_MF_2_4817">Lukac 
             <del rendition="#s" xml:id="Bae_MF_2_4818">z</del>
             <add place="across" xml:id="Bae_MF_2_4819">s</add>
           </persName>, was er als gemeinsame Vorteile noch ansieht, zeigt am besten, daß der Gedanke eines gemeinsamen Wirtschaftsgebietes dahin ist. Daher wird in der Zukunft die bisherige Form des 
@@ -6102,9 +6103,9 @@
             <index xml:id="Bae_MF_2_4822">
               <term key="Ausgleich" xml:id="Bae_MF_2_4823"/>
             </index>
-          </index> auch nicht mehr möglich sein.
+          </index> auch nicht mehr möglich sein. 
         </p>
-        <p xml:id="Bae_MF_2_4824">Schon am Ende des ersten Tages unserer Konferenz war klar, daß es zu einer Einigung nicht kommen
+        <p xml:id="Bae_MF_2_4824">Schon am Ende des ersten Tages unserer Konferenz war klar, daß es zu einer Einigung nicht kommen 
           <pb facs="_229" n="213v" xml:id="Bae_MF_2_4825"/>
           <note type="editorial" xml:id="Bae_MF_2_4826">Diese Seite ist leer.</note>
           <pb facs="_230" n="214r" xml:id="Bae_MF_2_4827"/>werde. Die Ungarn beharren auf dem bezüglich des 
@@ -6182,7 +6183,7 @@
             <index xml:id="Bae_MF_2_4882">
               <term key="Ausgleichsverhandlungen" xml:id="Bae_MF_2_4883"/>
             </index>
-          </index> gezogen werden – ein Drittes gäbe es nicht für ihn, da er sonst erklären müsse, er sei nichts imstande zu machen.
+          </index> gezogen werden – ein Drittes gäbe es nicht für ihn, da er sonst erklären müsse, er sei nichts imstande zu machen. 
         </p>
         <p xml:id="Bae_MF_2_4884">Der Ton der 
           <index xml:id="Bae_MF_2_4885">
@@ -6222,7 +6223,7 @@
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_4912">zu meinem grossen Vergnügen</rdg>
           </app>
           <!-- CA: hier weiter für Textvergleich -->
-          <anchor xml:id="Bae_MF_2_4913"/>in sein-
+          <anchor xml:id="Bae_MF_2_4913"/>in sein- 
           <pb facs="_231" n="214v" xml:id="Bae_MF_2_4914"/>
           <note type="editorial" xml:id="Bae_MF_2_4915">Diese Seite ist leer.</note>
           <pb facs="_232" n="215r" xml:id="Bae_MF_2_4916"/>ner dreist lächelnden Weise indem er sagte, 
@@ -6259,7 +6260,7 @@
             <abbr xml:id="Bae_MF_2_4942">u.</abbr>
             <expan xml:id="Bae_MF_2_4943">und</expan>
           </choice>
-          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_MF_2_4944">Kaizl</persName> schwiegen, was noch das Vernünftigste war.
+          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_MF_2_4944">Kaizl</persName> schwiegen, was noch das Vernünftigste war. 
         </p>
       </div>
     </body>

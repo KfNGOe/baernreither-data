@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_MF_1_1">
   <teiHeader xml:id="Bae_MF_1_2">
     <fileDesc xml:id="Bae_MF_1_3">
@@ -645,9 +646,9 @@
           <date when="1897-02" xml:id="Bae_MF_1_467">Februar</date> und die erste Hälfte 
           <date when="1897-03" xml:id="Bae_MF_1_468">März</date> waren von einer Reihe von Konferenzen ausgefüllt die 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_469">Badeni</persName> mit Gruppen unserer Partei über die Frage der Spra- 
-              <pb facs="#F_K-11_Bae_MF_1_029" n="11v" xml:id="Bae_MF_1_3888"/>
-              <note type="editorial" xml:id="Bae_MF_1_3889">Diese Seite ist leer.</note>
-              <pb facs="#F_K-11_Bae_MF_1_030" n="12r" xml:id="Bae_MF_1_472"/>chenverordnung und seine Zukunftspolitik hatte. Es waren immer 4-6 Herren, die zu ihm gebeten wurden, denen er seine Absichten auseinander setzte und die ihm ihre Ansichten darüber mitteilten. Bei dieser Gelegenheit wiederholte 
+          <pb facs="#F_K-11_Bae_MF_1_029" n="11v" xml:id="Bae_MF_1_3888"/>
+          <note type="editorial" xml:id="Bae_MF_1_3889">Diese Seite ist leer.</note>
+          <pb facs="#F_K-11_Bae_MF_1_030" n="12r" xml:id="Bae_MF_1_472"/>chenverordnung und seine Zukunftspolitik hatte. Es waren immer 4-6 Herren, die zu ihm gebeten wurden, denen er seine Absichten auseinander setzte und die ihm ihre Ansichten darüber mitteilten. Bei dieser Gelegenheit wiederholte 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_475">Graf Badeni</persName> immer dasselbe. Es sei sein aufrichtiges Bestreben mit den Deutschen zu regieren, doch müsse er die 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_MF_1_476">Jungčechen</orgName> gewinnen. Er habe sich dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_1_477">Kaiser</persName> gegenüber verpflichtet den 
@@ -1157,7 +1158,8 @@
             <choice xml:id="Bae_MF_1_845">
               <abbr xml:id="Bae_MF_1_846">u.</abbr>
               <expan xml:id="Bae_MF_1_847">und</expan>
-            </choice> <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_MF_1_849">Mauthner</persName>gruppe 
+            </choice>
+            <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_MF_1_849">Mauthner</persName>gruppe 
           </hi>
         </p>
         <p xml:id="Bae_MF_1_850">
@@ -4324,7 +4326,11 @@
             <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_1_3189">Haus</orgName>, so hat die so viele gewerbliche und industrielle Interessen vertretende 
             <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_MF_1_3190">deutsche Fortschrittspartei</orgName> alle Ursache für einen möglichen 
             <index xml:id="Bae_MF_1_3191">
-              <term key="OesterreichUngarn" xml:id="Bae_MF_1_3192">Ausgleich mit Ungarn</term><index xml:id="Bae_MF_1_3194"><term key="Ausgleich" xml:id="Bae_MF_1_3195"/></index></index> einzutreten. Und gerade sie war es, die 
+              <term key="OesterreichUngarn" xml:id="Bae_MF_1_3192">Ausgleich mit Ungarn</term>
+              <index xml:id="Bae_MF_1_3194">
+                <term key="Ausgleich" xml:id="Bae_MF_1_3195"/>
+              </index>
+            </index> einzutreten. Und gerade sie war es, die 
             <app from="#Bae_TB_2_2021" type="equal" xml:id="Bae_MF_1_3196">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_3197">Wer die so u. so vielen Minoritätsvoten durchliest, die schliesslich angemeldet wurden, darf nichts suchen, was einer staatsmännischen,halbwegs objectiven, sachlich begründeten Auffassung des schwierigen wirtschaftlichen Verhältnisses auch nur ähnlich sehen würde. Der Parlamentarismus ist ohne einer starken, wirklich führenden Regierung u. Parteien, die, wenn auch rücksichtslos, aber offen und ehrlich nach dem Kern ihrer Ueberzeugungen reden u. handeln, eine unerträgliche Comödie. Wenn irgend eine Partei im ganzen Haus, so hat die so viele gewerbliche u. industrielle Interessen vertretende deutsche Fortschrittspartei alle Ursache für einen möglichen Ausgleich mit Ungarn einzutreten. Und gerade sie war es, die</rdg>
             </app>

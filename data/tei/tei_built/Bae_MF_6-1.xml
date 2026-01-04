@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_MF_6-1_1">
   <teiHeader xml:id="Bae_MF_6-1_2">
     <fileDesc xml:id="Bae_MF_6-1_3">
@@ -960,7 +961,7 @@
           <index xml:id="Bae_MF_6-1_309">
             <term key="OesterreichUngarn" xml:id="Bae_MF_6-1_310">Ausgleiches</term>
             <index xml:id="Bae_MF_6-1_2069">
-              <term key="Ausgleich" xml:id="Bae_MF_6-1_2070"></term>
+              <term key="Ausgleich" xml:id="Bae_MF_6-1_2070"/>
             </index>
           </index>, des Zolltarifs und des Handelsvertrages mit 
           <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_MF_6-1_311">Deutschland</placeName> und den andern Staaten, mit dem die Verträge im 
@@ -997,7 +998,8 @@
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_335">Koerber</persName>
           <add xml:id="Bae_MF_6-1_336">, die den Tarif mit 
             <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_337">Ungarn</placeName> verhandelte 
-          </add>. Besonders bei den Eisenzöllen war dies greifbar. Das Verhältnis zwischen Cis und Trans war damals sehr gespannt. In den Verhandlungen spielte die Möglichkeit einer wirtschaftlichen Trennung einer <index xml:id="Bae_MF_6-1_338">
+          </add>. Besonders bei den Eisenzöllen war dies greifbar. Das Verhältnis zwischen Cis und Trans war damals sehr gespannt. In den Verhandlungen spielte die Möglichkeit einer wirtschaftlichen Trennung einer 
+          <index xml:id="Bae_MF_6-1_338">
             <term key="OesterreichUngarn" xml:id="Bae_MF_6-1_339">Zwischenzolllinie</term>
             <index xml:id="Bae_MF_6-1_2073">
               <term key="Zwischenzoll" xml:id="Bae_MF_6-1_2074"/>
@@ -1201,7 +1203,8 @@
           <anchor xml:id="Bae_MF_6-1_1392"/>Sehr interessant waren 
           <persName key="KornfeldSigmund" ref="https://d-nb.info/gnd/136423078" xml:id="Bae_MF_6-1_423">Kornfeld</persName>'s Äußerungen bezüglich der wirtschaftlichen Verhältnisse zwischen 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-1_424">Oesterreich</placeName> und 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_425">Ungarn</placeName>. Sie laufen auf die Idee einer <index xml:id="Bae_MF_6-1_426">
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_425">Ungarn</placeName>. Sie laufen auf die Idee einer 
+          <index xml:id="Bae_MF_6-1_426">
             <term key="OesterreichUngarn" xml:id="Bae_MF_6-1_427">Zwischenzolllinie</term>
             <index xml:id="Bae_MF_6-1_2079">
               <term key="Zwischenzoll" xml:id="Bae_MF_6-1_2080"/>
@@ -1289,7 +1292,8 @@
           <app from="#Bae_TB_7_3812" type="equal" xml:id="Bae_MF_6-1_1417">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1418">indem er meinte, dass eine längere Dauer des Ausgleichs eine Compensation bilden würde für vieles andere.) Apponyi kann sich nicht denken dass von einer Seite ein Zollkrieg gewünscht wird. Eine Vereinbarung in wirtschaftlicher Hinsicht stellt er sich nicht schwer vor. Ungarn werde loyal die Interessen Österreichs berücksichtigen. Beide Staaten könnten dann immer dem Ausland gegenüber eine Einheit bilden.</rdg>
           </app>
-          <anchor xml:id="Bae_MF_6-1_1419"/><index xml:id="Bae_MF_6-1_452">
+          <anchor xml:id="Bae_MF_6-1_1419"/>
+          <index xml:id="Bae_MF_6-1_452">
             <term key="OesterreichUngarn" xml:id="Bae_MF_6-1_453">Zwischenzolllinie</term>
             <index xml:id="Bae_MF_6-1_2091">
               <term key="Zwischenzoll" xml:id="Bae_MF_6-1_2092"/>
@@ -1686,7 +1690,8 @@
           </app>
           <anchor xml:id="Bae_MF_6-1_1569"/>nicht belasten sollte. 
         </p>
-        <p xml:id="Bae_MF_6-1_556">Immer wieder kam er auf die Idee zurück, daß die Kompensation für die teilweise Einführung der ungarischen <index xml:id="Bae_MF_6-1_557">
+        <p xml:id="Bae_MF_6-1_556">Immer wieder kam er auf die Idee zurück, daß die Kompensation für die teilweise Einführung der ungarischen 
+          <index xml:id="Bae_MF_6-1_557">
             <term key="OesterreichUngarn" xml:id="Bae_MF_6-1_558">Kommandosprache</term>
             <index xml:id="Bae_MF_6-1_2123">
               <term key="Kommandosprache" xml:id="Bae_MF_6-1_2124"/>
@@ -1703,7 +1708,8 @@
           <note type="editorial" xml:id="Bae_MF_6-1_2248">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-1_058" n="22r" xml:id="Bae_MF_6-1_562"/>sicht, daß diese Verständigung zwischen 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_6-1_563"> Oesterreich</placeName> und 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_564"> Ungarn</placeName> nicht durch Besprechungen zwischen österreichischen und ungarischen Parlamentariern zu erzielen sei. Bei solchen Besprechungen würden beide Teile, um keine Verantwortung auf sich zu laden, das Meiste fordern und man würde bei der <index xml:id="Bae_MF_6-1_565">
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_564"> Ungarn</placeName> nicht durch Besprechungen zwischen österreichischen und ungarischen Parlamentariern zu erzielen sei. Bei solchen Besprechungen würden beide Teile, um keine Verantwortung auf sich zu laden, das Meiste fordern und man würde bei der 
+          <index xml:id="Bae_MF_6-1_565">
             <term key="OesterreichUngarn" xml:id="Bae_MF_6-1_566">Personalunion</term>
             <index xml:id="Bae_MF_6-1_2127">
               <term key="Personalunion" xml:id="Bae_MF_6-1_2128"/>
@@ -2230,7 +2236,8 @@
             <index xml:id="Bae_MF_6-1_2067">
               <term key="Enqueten" xml:id="Bae_MF_6-1_2068"/>
             </index>
-          </index> vertreten sind, aber das hat wohl kaum politische Gründe. In der Leitung und dem Arrangement des Kongresses prävaliert das ungarische sehr. Die Verhandlungssprache ist ausschließlich französisch. Auf dem Bankett vorgestern war die französisch-italienisch-ungarische Verbrüderung in den Reden sehr markant. Sie wurde nach dem Bankett, als die Köpfe vom Champagner erhitzt waren, unter den Klängen der Marseillaise nur gar lärmend. Der offizielle Vertreter Italiens feierte in überschwänglichen Worten Ungarn und rühmte sich, daß sein Vaterland dem großen Patrioten <persName key="KossuthLajos" ref="https://d-nb.info/gnd/118565702" xml:id="Bae_MF_6-1_700">Kossuth</persName> so lange Gastfreundschaft gewährt habe. Da aber das Bankett von der Regierung gegeben war, war keiner der gewesenen Minister oder Abgeordneten erschienen. Einige Abgeordnete erschienen als Zuseher für kurze Zeit auf der Galerie. 
+          </index> vertreten sind, aber das hat wohl kaum politische Gründe. In der Leitung und dem Arrangement des Kongresses prävaliert das ungarische sehr. Die Verhandlungssprache ist ausschließlich französisch. Auf dem Bankett vorgestern war die französisch-italienisch-ungarische Verbrüderung in den Reden sehr markant. Sie wurde nach dem Bankett, als die Köpfe vom Champagner erhitzt waren, unter den Klängen der Marseillaise nur gar lärmend. Der offizielle Vertreter Italiens feierte in überschwänglichen Worten Ungarn und rühmte sich, daß sein Vaterland dem großen Patrioten 
+          <persName key="KossuthLajos" ref="https://d-nb.info/gnd/118565702" xml:id="Bae_MF_6-1_700">Kossuth</persName> so lange Gastfreundschaft gewährt habe. Da aber das Bankett von der Regierung gegeben war, war keiner der gewesenen Minister oder Abgeordneten erschienen. Einige Abgeordnete erschienen als Zuseher für kurze Zeit auf der Galerie. 
           <app from="#Bae_TB_7_4172" type="equal" xml:id="Bae_MF_6-1_1785">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1786">weder offiziell noch sonst beim Congress vertreten sind, aber das hat wohl kaum politische Gründe. In der Leitung und dem Arrangement des Congresses prävaliert das Ungarische sehr. Die Verhandlungssprache ist ausschliesslich französisch. Auf dem Bankett vorgestern war die französisch-italienisch-ungarische Verbrüderung in den Reden sehr markant. Sie wurde nach dem Bankett, als die Köpfe vom Champagner erhitzt waren, unter den Klängen der Marseillaise sogar sehr lärmend. Der offizielle Vertreter Italiens feierte in überschwänglichen Worten Ungarn und rühmte sich dass sein Vaterland dem grossen Patrioten Kossuth so lange Gastfreundschaft gewährt habe. Da aber das Bankett von der Regierung gegeben war, war keiner der gewesenen Minister o. Abgeordneten erschienen. Einige Abgeordnete erschienen als Zuseher für kurze Zeit auf der Gallerie.</rdg>
           </app>
@@ -2685,7 +2692,8 @@
         <p xml:id="Bae_MF_6-1_859">
           <anchor xml:id="Bae_MF_6-1_1944"/>
           <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-1_860">Wekerle</persName> ist nicht für eine gewaltsame Magyarisierung der anderen Nationalitäten. Die Städte werden ohnehin mehr und mehr magyarisch, mit Ausnahme der rein deutschen Städte 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_861"> Ungarns</placeName>, aber der Gegensatz müsse sich abschwächen. Jetzt gelte es als patriotisch, wenn ein junger Mann nicht Deutsch lernen will. Das wird aufhören, wenn gewisse Einräumungen in der Armeesprache gemacht werden. Schon jetzt werden auch die Honvedoffiziere gezwungen, deutsch zu lernen, das wird sich alles viel natürlicher gestalten, wenn man nicht ganz abweisend in der <index xml:id="Bae_MF_6-1_862">
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-1_861"> Ungarns</placeName>, aber der Gegensatz müsse sich abschwächen. Jetzt gelte es als patriotisch, wenn ein junger Mann nicht Deutsch lernen will. Das wird aufhören, wenn gewisse Einräumungen in der Armeesprache gemacht werden. Schon jetzt werden auch die Honvedoffiziere gezwungen, deutsch zu lernen, das wird sich alles viel natürlicher gestalten, wenn man nicht ganz abweisend in der 
+          <index xml:id="Bae_MF_6-1_862">
             <term key="OesterreichUngarn" xml:id="Bae_MF_6-1_863">Armeesprache</term>
             <index xml:id="Bae_MF_6-1_2181">
               <term key="Kommandosprache" xml:id="Bae_MF_6-1_2182"/>
@@ -2837,7 +2845,8 @@
           <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-1_912">Fejervary</persName> hat 
           <persName key="SzellKalman" ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_MF_6-1_913">Szell</persName> gestürzt oder doch wesentlich zu seinem Sturze beigetragen. 
           <persName key="SzellKalman" ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_MF_6-1_914">Szell</persName> erzählt, solange 
-          <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-1_915">Fejervary</persName> in seinem Ministerium war, er sich um Politik nicht gekümmert habe; im Ministerrate habe er entweder geschlafen oder Pferdchen gezeichnet. Die letzte Torheit, welche zu tun übrig bleibt, wäre die Auflösung des Hauses. Sie würde eine unzweifelhafte Majorität für die Unabhängigkeitspartei ergeben und mit diesem Resultat wäre die <index xml:id="Bae_MF_6-1_916">
+          <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-1_915">Fejervary</persName> in seinem Ministerium war, er sich um Politik nicht gekümmert habe; im Ministerrate habe er entweder geschlafen oder Pferdchen gezeichnet. Die letzte Torheit, welche zu tun übrig bleibt, wäre die Auflösung des Hauses. Sie würde eine unzweifelhafte Majorität für die Unabhängigkeitspartei ergeben und mit diesem Resultat wäre die 
+          <index xml:id="Bae_MF_6-1_916">
             <term key="OesterreichUngarn" xml:id="Bae_MF_6-1_917">Personalunion</term>
             <index xml:id="Bae_MF_6-1_2187">
               <term key="Personalunion" xml:id="Bae_MF_6-1_2188"/>
@@ -2846,7 +2855,8 @@
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-1_918">Kaiser</persName> scheint 
           <persName key="SzellKalman" ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_MF_6-1_919">Szell</persName> wiederholt aufgefordert zu haben, die Entwirrung in die Hand zu nehmen. 
           <persName key="SzellKalman" ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_MF_6-1_920">Szell</persName> sagt aber, ihn trenne ein Ozean von den jetzigen ungarischen Bestrebungen und den könne er nicht überbrücken. Den Kampf der ungarischen Regierung mit den Komitaten erklärte er für aussichtslos. Die Subventionen, die sie den renitenten Komitaten entziehen will, sind budgetmässig festgestellt und die Komitate haben jetzt die Regierung beim 
-          <orgName key="Verwaltungsgerichtshof" ref="https://d-nb.info/gnd/35887-3" xml:id="Bae_MF_6-1_921">Verwaltungsgerichtshofe</orgName> geklagt, der ihnen zweifelsohne rechtgeben wird. Das <index xml:id="Bae_MF_6-1_922">
+          <orgName key="Verwaltungsgerichtshof" ref="https://d-nb.info/gnd/35887-3" xml:id="Bae_MF_6-1_921">Verwaltungsgerichtshofe</orgName> geklagt, der ihnen zweifelsohne rechtgeben wird. Das 
+          <index xml:id="Bae_MF_6-1_922">
             <term key="Wahlrechtsreform" xml:id="Bae_MF_6-1_923">allgemeine gleiche Wahlrecht</term>
             <index xml:id="Bae_MF_6-1_2189">
               <term key="Maennerwahlrecht" xml:id="Bae_MF_6-1_2190"/>
