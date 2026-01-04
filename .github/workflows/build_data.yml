@@ -30,13 +30,21 @@ jobs:
           git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git                    
           mkdir -p baernreither-app/data/img
           mkdir -p baernreither-app/data/tei/text
-          mkdir -p baernreither-app/data/xlsx          
+          mkdir -p baernreither-app/data/xlsx
+          cd baernreither-app
+          git config --global user.email "baernreither-app@github.io"
+          git config --global user.name "KfNGOe"
+          if [ -d "data/tei/text" ] && [ -n "$(ls -A data/tei/text/*.xml 2>/dev/null)" ]; then
+            rm -f data/tei/text/*.xml
+            git add ./data
+            git commit -m "Remove old TEI files" || echo "No old files to remove"
+            git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main
+          fi
+          cd ..
           if find data/tei/tei_toBuild -maxdepth 1 -type f -name "*.xml" | grep -q .; then cp -r data/tei/tei_toBuild/*.xml baernreither-app/data/tei/text/; fi          
           if [ -d "data/xlsx" ]; then cp -r data/xlsx/* baernreither-app/data/xlsx/; fi
           if [ -d "data/img" ]; then cp -r data/img/* baernreither-app/data/img/; fi          
           cd baernreither-app
-          git config --global user.email "baernreither-app@github.io"
-          git config --global user.name "KfNGOe"
           git add ./data
           git commit -am "Deploy data to app repo" || echo "No changes to commit"
           git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main
