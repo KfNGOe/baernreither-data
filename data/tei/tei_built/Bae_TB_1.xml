@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_1_1">
   <teiHeader xml:id="Bae_TB_1_2">
     <fileDesc xml:id="Bae_TB_1_3">
@@ -1823,17 +1822,13 @@
             </abbr>
             <expan xml:id="Bae_TB_1_1315">Badeni</expan>
           </choice> über den Inhalt der 
-          <index xml:id="Bae_TB_1_5981">
-            <term key="Reichsrat" xml:id="Bae_TB_1_5982">
-              <choice xml:id="Bae_TB_1_1316">
-                <abbr xml:id="Bae_TB_1_1317">S.V. </abbr>
-                <expan xml:id="Bae_TB_1_1320">Sprachenverordnungen</expan>
-              </choice>
-            </term>
-            <index xml:id="Bae_TB_1_1321">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1322"/>
-            </index>
-          </index> (deren Text er uns ja immer noch nicht gezeigt hatte) wurde ihm klarzumachen versucht dass ein grosser Unterschied darin bestehe ob der Zwang der Zweisprachigkeit 
+          <index><term key="Reichsrat">
+            <choice xml:id="Bae_TB_1_1316"><abbr xml:id="Bae_TB_1_1317">S.V.
+            </abbr>
+            <expan xml:id="Bae_TB_1_1320">Sprachenverordnungen</expan></choice></term>
+          <index xml:id="Bae_TB_1_1321">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1322"/>
+          </index></index> (deren Text er uns ja immer noch nicht gezeigt hatte) wurde ihm klarzumachen versucht dass ein grosser Unterschied darin bestehe ob der Zwang der Zweisprachigkeit 
           <pb facs="#F_K-6_Bae_TB_1_042" n="21r" xml:id="Bae_TB_1_1324"/>(für den er ja Ausnamen concediren wollte) bloß 
           <app from="#Bae_MF_1_667" type="equal" xml:id="Bae_TB_1_1325">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1326">Sehr bezeichnend für die Badeni’sche Politik ist es aber, dass gerade dieser Artikel die Quelle von Missverständnissen geworden ist, welche die sich entwickelnde unheilvolle Situation nur noch mehr verschärften. Bei allen Verhandlungen mit Badeni über den Inhalt der Sprachenverordnungen (deren Text er uns ja immer noch nicht gezeigt hatte) wurde ihm klarzumachen versucht, daß ein großer Unterschied darin bestehe, ob der Zwang der Zweisprachigkeit (für den er ja Ausnamen konzedieren wollte) bloß</rdg>
@@ -2526,17 +2521,15 @@
             <abbr xml:id="Bae_TB_1_1726">u.</abbr>
             <expan xml:id="Bae_TB_1_1727">und</expan>
           </choice> jedem Minister, der sich irgendwie mit diesen 
-          <index xml:id="Bae_TB_1_1730">
-            <term key="Reichsrat" xml:id="Bae_TB_1_1731">
-              <choice xml:id="Bae_TB_1_1728">
-                <abbr xml:id="Bae_TB_1_1729">S.V. </abbr>
-                <expan xml:id="Bae_TB_1_1732">Sprachenverordnungen</expan>
-              </choice>
-            </term>
-            <index xml:id="Bae_TB_1_1733">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1734"/>
-            </index>
-          </index> identificiren würde die allerschärfste Opposition zu machen 
+              <index xml:id="Bae_TB_1_1730">
+                <term key="Reichsrat" xml:id="Bae_TB_1_1731"><choice xml:id="Bae_TB_1_1728">
+            <abbr xml:id="Bae_TB_1_1729">S.V.
+            </abbr>
+            <expan xml:id="Bae_TB_1_1732">Sprachenverordnungen</expan>
+          </choice></term>
+          <index xml:id="Bae_TB_1_1733">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1734"/>
+          </index></index> identificiren würde die allerschärfste Opposition zu machen 
           <choice xml:id="Bae_TB_1_1735">
             <abbr xml:id="Bae_TB_1_1736">u.</abbr>
             <expan xml:id="Bae_TB_1_1737">und</expan>
@@ -2547,17 +2540,15 @@
             <expan xml:id="Bae_TB_1_1741">und</expan>
           </choice>
           <persName key="OppenheimerLudwig" ref="https://d-nb.info/gnd/117138487" xml:id="Bae_TB_1_1742">Oppenheimer</persName> erklärten dass von dem Eintritt irgend eines von uns nach Publicirung der 
-          <index xml:id="Bae_TB_1_1745">
-            <term key="Reichsrat" xml:id="Bae_TB_1_1746">
-              <choice xml:id="Bae_TB_1_1743">
-                <abbr xml:id="Bae_TB_1_1744">S.V. </abbr>
-                <expan xml:id="Bae_TB_1_1747">Sprachenverordnungen</expan>
-              </choice>
-            </term>
-            <index xml:id="Bae_TB_1_1748">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1749"/>
-            </index>
-          </index> keine Rede sein könne. Ich hatte es nicht anders erwartet 
+              <index xml:id="Bae_TB_1_1745">
+                <term key="Reichsrat" xml:id="Bae_TB_1_1746"><choice xml:id="Bae_TB_1_1743">
+            <abbr xml:id="Bae_TB_1_1744">S.V.
+            </abbr>
+            <expan xml:id="Bae_TB_1_1747">Sprachenverordnungen</expan>
+          </choice></term>
+          <index xml:id="Bae_TB_1_1748">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1749"/>
+          </index></index> keine Rede sein könne. Ich hatte es nicht anders erwartet 
           <choice xml:id="Bae_TB_1_1750">
             <abbr xml:id="Bae_TB_1_1751">u.</abbr>
             <expan xml:id="Bae_TB_1_1752">und</expan>
@@ -2593,17 +2584,10 @@
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1874"/>
             </index>
           </index> bisher nicht gesehen haben, dass, wenn man auch die Zweisprachigkeit des Amtes concediren könnte, doch die Zweisprachigkeit jedes Beamten weit über das Bedürfniss hinausgehe, dass die 
-          <index xml:id="Bae_TB_1_1877">
-            <term key="Reichsrat" xml:id="Bae_TB_1_1878">
-              <choice xml:id="Bae_TB_1_1875">
-                <abbr xml:id="Bae_TB_1_1876">S.V.</abbr>
-                <expan xml:id="Bae_TB_1_1879">Sprachenverordnung</expan>
-              </choice>
-            </term>
-            <index xml:id="Bae_TB_1_1880">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1881"/>
-            </index>
-          </index> ganz anders aussehe als wie sie 
+              <index xml:id="Bae_TB_1_1877"><term key="Reichsrat" xml:id="Bae_TB_1_1878"><choice xml:id="Bae_TB_1_1875"><abbr xml:id="Bae_TB_1_1876">S.V.</abbr><expan xml:id="Bae_TB_1_1879">Sprachenverordnung</expan></choice></term>
+          <index xml:id="Bae_TB_1_1880">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1881"/>
+          </index></index> ganz anders aussehe als wie sie 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1882">Badeni</persName> skizziert habe 
           <choice xml:id="Bae_TB_1_1883">
             <abbr xml:id="Bae_TB_1_1884">u.</abbr>
@@ -2684,10 +2668,9 @@
                 <expan xml:id="Bae_TB_1_1918">Sprachenverordnungen</expan>
               </choice>
             </term>
-            <index xml:id="Bae_TB_1_1919">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1920"/>
-            </index>
-          </index> hintan zu halten. 
+          <index xml:id="Bae_TB_1_1919">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1920"/>
+          </index></index> hintan zu halten. 
         </p>
         <p xml:id="Bae_TB_1_1921">Der Wortführer am 
           <date when="1897-04-01" xml:id="Bae_TB_1_1922">andern Morgen</date> war 
@@ -2744,10 +2727,9 @@
                 <expan xml:id="Bae_TB_1_1979">Sprachenverordnungen</expan>
               </choice>
             </term>
-            <index xml:id="Bae_TB_1_1980">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1981"/>
-            </index>
-          </index> noch nicht annähernd überblickten 
+          <index xml:id="Bae_TB_1_1980">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1981"/>
+          </index></index> noch nicht annähernd überblickten 
           <choice xml:id="Bae_TB_1_1982">
             <abbr xml:id="Bae_TB_1_1983">u.</abbr>
             <expan xml:id="Bae_TB_1_1984">und</expan>
@@ -2853,10 +2835,9 @@
           </choice> ich teilte beiden die 
           <index xml:id="Bae_TB_1_2059">
             <term key="Reichsrat" xml:id="Bae_TB_1_2060">Sprachenverordnungen</term>
-            <index xml:id="Bae_TB_1_2061">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_2062"/>
-            </index>
-          </index> im Text mit. 
+          <index xml:id="Bae_TB_1_2061">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_2062"/>
+          </index></index> im Text mit. 
           <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_1_2063">Prade</persName> hatte Bedenken, 
           <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_1_2064">Steinwender</persName> eigentlich nicht. Ich bin überzeugt, dass er am liebsten über die Verordnungen hinweg dem 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2065">Badeni</persName> die Hand, wenn auch nicht offiziell gereicht hätte. Gewiss hat er auch in diesem Sinne mit ihm gesprochen und in dem 
@@ -3794,10 +3775,9 @@
                 <expan xml:id="Bae_TB_1_2715">Sprachenverordnungen</expan>
               </choice>
             </term>
-            <index xml:id="Bae_TB_1_2716">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_2717"/>
-            </index>
-          </index> zu Stande kamen 
+          <index xml:id="Bae_TB_1_2716">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_2717"/>
+          </index></index> zu Stande kamen 
           <choice xml:id="Bae_TB_1_2718">
             <abbr xml:id="Bae_TB_1_2719">u.</abbr>
             <expan xml:id="Bae_TB_1_2720">und</expan>
@@ -3823,16 +3803,13 @@
           </choice> erwiesen zur Evidenz, dass, während 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2826">Badeni</persName> uns immer nur schwankende, lückenhafte Andeutungen über die 
           <index xml:id="Bae_TB_1_2829">
-            <term key="Reichsrat" xml:id="Bae_TB_1_2830">
-              <choice xml:id="Bae_TB_1_2827">
-                <abbr xml:id="Bae_TB_1_2828">S.V.</abbr>
-                <expan xml:id="Bae_TB_1_2831">Sprachenverordnungen</expan>
-              </choice>
-            </term>
-            <index xml:id="Bae_TB_1_2832">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_2833"/>
-            </index>
-          </index> gemacht hatte, er mit den 
+                <term key="Reichsrat" xml:id="Bae_TB_1_2830"><choice xml:id="Bae_TB_1_2827">
+            <abbr xml:id="Bae_TB_1_2828">S.V.</abbr>
+            <expan xml:id="Bae_TB_1_2831">Sprachenverordnungen</expan>
+          </choice></term>
+          <index xml:id="Bae_TB_1_2832">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_2833"/>
+          </index></index> gemacht hatte, er mit den 
           <orgName key="TschechenKlub" xml:id="Bae_TB_1_2834">Čechen</orgName> über jeden Satz, ja jedes Wort tagelang discutiert 
           <choice xml:id="Bae_TB_1_2835">
             <abbr xml:id="Bae_TB_1_2836">u.</abbr>
@@ -5715,28 +5692,19 @@
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_1_4136">Kaiser</persName> solle sich mit einem Manifest an seine Völker wenden, 
           <del rendition="#s" xml:id="Bae_TB_1_4137">die 
             <index xml:id="Bae_TB_1_4140">
-              <term key="Reichsrat" xml:id="Bae_TB_1_4141">
-                <choice xml:id="Bae_TB_1_4138">
-                  <abbr xml:id="Bae_TB_1_4139">S.V.</abbr>
-                  <expan xml:id="Bae_TB_1_4142">Sprachenverordnung</expan>
-                </choice>
-              </term>
-              <index xml:id="Bae_TB_1_4143">
-                <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_4144"/>
-              </index>
-            </index> sistiren 
-          </del> einen Congress zusammenrufen, die 
-          <index xml:id="Bae_TB_1_4147">
-            <term key="Reichsrat" xml:id="Bae_TB_1_4148">
-              <choice xml:id="Bae_TB_1_4145">
-                <abbr xml:id="Bae_TB_1_4146">S.V.</abbr>
-                <expan xml:id="Bae_TB_1_4149">Sprachenverordnung</expan>
-              </choice>
-            </term>
-            <index xml:id="Bae_TB_1_4150">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_4151"/>
-            </index>
-          </index> während der Dauer desselben sistiren, in demselben durch seine Regierung den Versuch machen, die nationalen Verhältnisse aber nicht nur in 
+                  <term key="Reichsrat" xml:id="Bae_TB_1_4141"><choice xml:id="Bae_TB_1_4138">
+              <abbr xml:id="Bae_TB_1_4139">S.V.</abbr>
+              <expan xml:id="Bae_TB_1_4142">Sprachenverordnung</expan>
+            </choice></term>
+            <index xml:id="Bae_TB_1_4143">
+              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_4144"/>
+            </index></index> sistiren 
+          </del> einen Congress zusammenrufen, die <index xml:id="Bae_TB_1_4147">
+                <term key="Reichsrat" xml:id="Bae_TB_1_4148"><choice xml:id="Bae_TB_1_4145">
+            <abbr xml:id="Bae_TB_1_4146">S.V.</abbr><expan xml:id="Bae_TB_1_4149">Sprachenverordnung</expan></choice></term>
+          <index xml:id="Bae_TB_1_4150">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_4151"/>
+          </index></index> während der Dauer desselben sistiren, in demselben durch seine Regierung den Versuch machen, die nationalen Verhältnisse aber nicht nur in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_4152">Böhmen</placeName>, sondern in ganz 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_4153">Österreich</placeName> zu ordnen. Dieser Congress hätte aus Vertrauensmännern zu bestehen gehabt, seine Verhandlungen hätten vielleicht lange gedauert, auch 
           <add place="across" xml:id="Bae_TB_1_4154">hätte er</add> parallel mit dem im Herbst zu 
@@ -7540,17 +7508,11 @@
             <expan xml:id="Bae_TB_1_5461">und</expan>
           </choice> das war sehr unpolitisch. 
           <persName key="SchlesingerLudwig" ref="https://d-nb.info/gnd/138214379" xml:id="Bae_TB_1_5462">Schlesinger</persName> selbst kam aber eigentlich nicht in Betracht, er konnte einfach gar nicht. Er meinte: "mir hat man in meinem Wahlbezirk, den ich mehr als 20 Jahre vertrete gesagt, dass so sehr sie an mir hängen, sie mich nicht mehr wählen werden, wenn ich die Conferenzeinladungen annehme." Das Schlagwort nicht zu verhandeln bevor die 
-          <index xml:id="Bae_TB_1_5465">
-            <term key="Reichsrat" xml:id="Bae_TB_1_5466">
-              <choice xml:id="Bae_TB_1_5463">
-                <abbr xml:id="Bae_TB_1_5464">S.V.</abbr>
-                <expan xml:id="Bae_TB_1_5467">Sprachenverordnung</expan>
-              </choice>
-            </term>
-            <index xml:id="Bae_TB_1_5468">
-              <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_5469"/>
-            </index>
-          </index> nicht aufgehoben sei, verrennt jeden Ausweg; denn jeder sagt sich, dass die glatte Aufhebung wieder auf čechischer Seite die gleiche Obstruktionstaktik zur Folge hätte. Aber auf diese Einwendung kommt natürlich die stereotype Antwort: "das geht uns nichts an, mag da kommen, was da wolle". 
+              <index xml:id="Bae_TB_1_5465"><term key="Reichsrat" xml:id="Bae_TB_1_5466"><choice xml:id="Bae_TB_1_5463">
+            <abbr xml:id="Bae_TB_1_5464">S.V.</abbr><expan xml:id="Bae_TB_1_5467">Sprachenverordnung</expan>
+          </choice></term><index xml:id="Bae_TB_1_5468">
+            <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_5469"/>
+          </index></index> nicht aufgehoben sei, verrennt jeden Ausweg; denn jeder sagt sich, dass die glatte Aufhebung wieder auf čechischer Seite die gleiche Obstruktionstaktik zur Folge hätte. Aber auf diese Einwendung kommt natürlich die stereotype Antwort: "das geht uns nichts an, mag da kommen, was da wolle". 
         </p>
         <p xml:id="Bae_TB_1_5470">Nachdem aber die Deutschen einmal entschlossen waren nicht zu verhandeln, blieb uns natürlich nichts anderes übrig als für diesen Fall auch abzusagen. Ich nahm also die eine durch 
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_1_5471">Thun</persName> vermittelte Einladung zur Conferenz zwar an, doch sagten wir beide – 
