@@ -47,15 +47,4 @@ jobs:
           cd baernreither-app
           git add ./data
           git commit -am "Deploy data to app repo" || echo "No changes to commit"
-          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main
-      - name: Cleanup
-        run: |                              
-          rm data/tei/tei_toBuild/*.xml
-      - name: Redeploy to data repo
-        run: |
-          git config --global user.email "baernreither-data@github.io"
-          git config --global user.name "KfNGOe"
-          git add data/tei/tei_toBuild         
-          git commit -m "Cleanup tei_toBuild" || echo "No changes to commit"
-          git pull --rebase
-          git push
+          git push https://${{ secrets.ACCESS_TOKEN }}@github.com/KfNGOe/baernreither-app.git main      
