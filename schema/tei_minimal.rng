@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0"
+         xmlns:tei="http://www.tei-c.org/ns/1.0"
+         datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+         ns="http://www.tei-c.org/ns/1.0"><!--
+Minimal TEI Schema - contains only TEI element and its attributes
+Generated from tei_all.rng
+-->
+   
+   <!-- Global attributes -->
+   <define name="att.global.rendition.attributes">
+      <ref name="att.global.rendition.attribute.rend"/>
+      <ref name="att.global.rendition.attribute.style"/>
+      <ref name="att.global.rendition.attribute.rendition"/>
+   </define>
+   <define name="att.global.rendition.attribute.rend">
+      <optional>
+         <attribute name="rend">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(rendition) indicates how the element in question was rendered or presented in the source text.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="token">
+                     <param name="pattern">[^\p{C}\p{Z}]+</param>
+                  </data>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.rendition.attribute.style">
+      <optional>
+         <attribute name="style">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains an expression in some formal style definition language which defines the rendering or presentation used for this element in the source text</a:documentation>
+            <data type="string"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.rendition.attribute.rendition">
+      <optional>
+         <attribute name="rendition">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to a description of the rendering or presentation used for this element in the source text.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.global.linking.attributes">
+      <ref name="att.global.linking.attribute.corresp"/>
+      <ref name="att.global.linking.attribute.synch"/>
+      <ref name="att.global.linking.attribute.sameAs"/>
+      <ref name="att.global.linking.attribute.copyOf"/>
+      <ref name="att.global.linking.attribute.next"/>
+      <ref name="att.global.linking.attribute.prev"/>
+      <ref name="att.global.linking.attribute.exclude"/>
+      <ref name="att.global.linking.attribute.select"/>
+   </define>
+   <define name="att.global.linking.attribute.corresp">
+      <optional>
+         <attribute name="corresp">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(corresponds) points to elements that correspond to the current element in some way.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.linking.attribute.synch">
+      <optional>
+         <attribute name="synch">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(synchronous) points to elements that are synchronous with the current element.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.linking.attribute.sameAs">
+      <optional>
+         <attribute name="sameAs">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to an element that is the same as the current element.</a:documentation>
+            <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.linking.attribute.copyOf">
+      <optional>
+         <attribute name="copyOf">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to an element of which the current element is a copy.</a:documentation>
+            <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.linking.attribute.next">
+      <optional>
+         <attribute name="next">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to the next element of a virtual aggregate of which the current element is part.</a:documentation>
+            <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.linking.attribute.prev">
+      <optional>
+         <attribute name="prev">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(previous) points to the previous element of a virtual aggregate of which the current element is part.</a:documentation>
+            <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.linking.attribute.exclude">
+      <optional>
+         <attribute name="exclude">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to elements that are in exclusive alternation with the current element.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.linking.attribute.select">
+      <optional>
+         <attribute name="select">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">selects one or more alternants; if one alternant is selected, the ambiguity or uncertainty is marked as resolved. If more than one alternant is selected, the degree of ambiguity or uncertainty is marked as reduced by the number of alternants not selected.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.global.analytic.attributes">
+      <ref name="att.global.analytic.attribute.ana"/>
+   </define>
+   <define name="att.global.analytic.attribute.ana">
+      <optional>
+         <attribute name="ana">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(analysis) indicates one or more elements containing interpretations of the element on which the ana attribute appears.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.global.facs.attributes">
+      <ref name="att.global.facs.attribute.facs"/>
+   </define>
+   <define name="att.global.facs.attribute.facs">
+      <optional>
+         <attribute name="facs">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(facsimile) points to one or more images, portions of an image, or surfaces which correspond to the current element.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.global.change.attributes">
+      <ref name="att.global.change.attribute.change"/>
+   </define>
+   <define name="att.global.change.attribute.change">
+      <optional>
+         <attribute name="change">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to one or more <code xmlns="http://www.w3.org/1999/xhtml">&lt;change&gt;</code> elements documenting a state or revision campaign to which the element bearing this attribute and its children have been assigned by the encoder.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.global.responsibility.attributes">
+      <ref name="att.global.responsibility.attribute.cert"/>
+      <ref name="att.global.responsibility.attribute.resp"/>
+   </define>
+   <define name="att.global.responsibility.attribute.cert">
+      <optional>
+         <attribute name="cert">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(certainty) signifies the degree of certainty associated with the intervention or interpretation.</a:documentation>
+            <choice>
+               <data type="double"/>
+               <choice>
+                  <value>high</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>medium</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>low</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>unknown</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               </choice>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.responsibility.attribute.resp">
+      <optional>
+         <attribute name="resp">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(responsible party) indicates the agency responsible for the intervention or interpretation, for example an editor or transcriber.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.global.source.attributes">
+      <ref name="att.global.source.attribute.source"/>
+   </define>
+   <define name="att.global.source.attribute.source">
+      <optional>
+         <attribute name="source">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the source from which some aspect of this element is drawn.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.global.attributes">
+      <ref name="att.global.rendition.attributes"/>
+      <ref name="att.global.linking.attributes"/>
+      <ref name="att.global.analytic.attributes"/>
+      <ref name="att.global.facs.attributes"/>
+      <ref name="att.global.change.attributes"/>
+      <ref name="att.global.responsibility.attributes"/>
+      <ref name="att.global.source.attributes"/>
+      <ref name="att.global.attribute.xmlid"/>
+      <ref name="att.global.attribute.n"/>
+      <ref name="att.global.attribute.xmllang"/>
+      <ref name="att.global.attribute.xmlbase"/>
+      <ref name="att.global.attribute.xmlspace"/>
+   </define>
+   <define name="att.global.attribute.xmlid">
+      <optional>
+         <attribute name="xml:id">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(identifier) provides a unique identifier for the element bearing the attribute.</a:documentation>
+            <data type="ID"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.attribute.n">
+      <optional>
+         <attribute name="n">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(number) gives a number (or other label) for an element, which is not necessarily unique within the document.</a:documentation>
+            <data type="string"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.attribute.xmllang">
+      <optional>
+         <attribute name="xml:lang">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(language) indicates the language of the element content using a tag generated according to <a xmlns="http://www.w3.org/1999/xhtml"
+                  href="http://www.rfc-editor.org/rfc/bcp/bcp47.txt">BCP 47</a>.</a:documentation>
+            <choice>
+               <data type="language"/>
+               <choice>
+                  <value/>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               </choice>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.attribute.xmlbase">
+      <optional>
+         <attribute name="xml:base">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides a base URI reference with which applications can resolve relative URI references into absolute URI references.</a:documentation>
+            <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.global.attribute.xmlspace">
+      <optional>
+         <attribute name="xml:space">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">signals an intention about how white space should be managed by applications.</a:documentation>
+            <choice>
+               <value>default</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">signals that the application's default white-space processing modes are acceptable</a:documentation>
+               <value>preserve</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates the intent that applications preserve all white space</a:documentation>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   
+   <!-- Additional attribute classes needed -->
+   <define name="att.declaring.attributes">
+      <ref name="att.declaring.attribute.decls"/>
+   </define>
+   <define name="att.declaring.attribute.decls">
+      <optional>
+         <attribute name="decls">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">identifies one or more declarable elements within the header, which are understood to apply to the element bearing this attribute and its content.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.written.attributes">
+      <ref name="att.written.attribute.hand"/>
+   </define>
+   <define name="att.written.attribute.hand">
+      <optional>
+         <attribute name="hand">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to a handNote element describing the hand considered responsible for the content of the element concerned.</a:documentation>
+            <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.canonical.attributes">
+      <ref name="att.canonical.attribute.key"/>
+      <ref name="att.canonical.attribute.ref"/>
+   </define>
+   <define name="att.canonical.attribute.key">
+      <optional>
+         <attribute name="key">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides an externally-defined means of identifying the entity (or entities) being named, using a coded value of some kind.</a:documentation>
+            <data type="string"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.canonical.attribute.ref">
+      <optional>
+         <attribute name="ref">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.datable.w3c.attributes">
+      <ref name="att.datable.w3c.attribute.when"/>
+      <ref name="att.datable.w3c.attribute.notBefore"/>
+      <ref name="att.datable.w3c.attribute.notAfter"/>
+      <ref name="att.datable.w3c.attribute.from"/>
+      <ref name="att.datable.w3c.attribute.to"/>
+   </define>
+   <define name="att.datable.w3c.attribute.when">
+      <optional>
+         <attribute name="when">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">supplies the value of the date or time in a standard form, e.g. yyyy-mm-dd.</a:documentation>
+            <choice>
+               <data type="date"/>
+               <data type="gYear"/>
+               <data type="gMonth"/>
+               <data type="gDay"/>
+               <data type="gYearMonth"/>
+               <data type="gMonthDay"/>
+               <data type="time"/>
+               <data type="dateTime"/>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.datable.w3c.attribute.notBefore">
+      <optional>
+         <attribute name="notBefore">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the earliest possible date for the event in standard form, e.g. yyyy-mm-dd.</a:documentation>
+            <choice>
+               <data type="date"/>
+               <data type="gYear"/>
+               <data type="gMonth"/>
+               <data type="gDay"/>
+               <data type="gYearMonth"/>
+               <data type="gMonthDay"/>
+               <data type="time"/>
+               <data type="dateTime"/>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.datable.w3c.attribute.notAfter">
+      <optional>
+         <attribute name="notAfter">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the latest possible date for the event in standard form, e.g. yyyy-mm-dd.</a:documentation>
+            <choice>
+               <data type="date"/>
+               <data type="gYear"/>
+               <data type="gMonth"/>
+               <data type="gDay"/>
+               <data type="gYearMonth"/>
+               <data type="gMonthDay"/>
+               <data type="time"/>
+               <data type="dateTime"/>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.datable.w3c.attribute.from">
+      <optional>
+         <attribute name="from">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates the starting point of the period in standard form, e.g. yyyy-mm-dd.</a:documentation>
+            <choice>
+               <data type="date"/>
+               <data type="gYear"/>
+               <data type="gMonth"/>
+               <data type="gDay"/>
+               <data type="gYearMonth"/>
+               <data type="gMonthDay"/>
+               <data type="time"/>
+               <data type="dateTime"/>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.datable.w3c.attribute.to">
+      <optional>
+         <attribute name="to">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates the ending point of the period in standard form, e.g. yyyy-mm-dd.</a:documentation>
+            <choice>
+               <data type="date"/>
+               <data type="gYear"/>
+               <data type="gMonth"/>
+               <data type="gDay"/>
+               <data type="gYearMonth"/>
+               <data type="gMonthDay"/>
+               <data type="time"/>
+               <data type="dateTime"/>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.placement.attributes">
+      <ref name="att.placement.attribute.place"/>
+   </define>
+   <define name="att.placement.attribute.place">
+      <optional>
+         <attribute name="place">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies where this item is placed.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <choice>
+                     <value>below</value>
+                     <value>bottom</value>
+                     <value>margin</value>
+                     <value>top</value>
+                     <value>opposite</value>
+                     <value>overleaf</value>
+                     <value>above</value>
+                     <value>end</value>
+                     <value>inline</value>
+                     <value>inspace</value>
+                     <data type="token">
+                        <param name="pattern">[^\p{C}\p{Z}]+</param>
+                     </data>
+                  </choice>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.spanning.attributes">
+      <ref name="att.spanning.attribute.spanTo"/>
+   </define>
+   <define name="att.spanning.attribute.spanTo">
+      <optional>
+         <attribute name="spanTo">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates the end of a span initiated by the element bearing this attribute.</a:documentation>
+            <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.pointing.attributes">
+      <ref name="att.pointing.attribute.target"/>
+   </define>
+   <define name="att.pointing.attribute.target">
+      <optional>
+         <attribute name="target">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the destination of the reference by supplying one or more URI References</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <!-- Additional attributes -->
+   <define name="att.wit.attributes">
+      <optional>
+         <attribute name="wit">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a space-delimited list of one or more pointers indicating the witnesses which attest to a given reading.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.ident.attributes">
+      <optional>
+         <attribute name="ident">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides a language tag.</a:documentation>
+            <choice>
+               <data type="language"/>
+               <choice>
+                  <value/>
+               </choice>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   
+   <define name="att.scheme.attributes">
+      <optional>
+         <attribute name="scheme">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">identifies the classification scheme.</a:documentation>
+            <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+
+   <!-- Typed attributes -->
+   <define name="att.typed.attributes">
+      <ref name="att.typed.attribute.type"/>
+      <ref name="att.typed.attribute.subtype"/>
+   </define>
+   <define name="att.typed.attribute.type">
+      <optional>
+         <attribute name="type">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
+            <data type="token">
+               <param name="pattern">[^\p{C}\p{Z}]+</param>
+            </data>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.typed.attribute.subtype">
+      <optional>
+         <attribute name="subtype">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides a sub-categorization of the element, if needed</a:documentation>
+            <data type="token">
+               <param name="pattern">[^\p{C}\p{Z}]+</param>
+            </data>
+         </attribute>
+      </optional>
+   </define>
+   
+   <!-- TEI Header and Document Structure Elements -->
+   <define name="teiHeader">
+      <element name="teiHeader">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(TEI header) supplies descriptive and declarative metadata associated with a digital resource or set of resources.</a:documentation>
+         <group>
+            <ref name="fileDesc"/>
+            <zeroOrMore>
+               <choice>
+                  <ref name="encodingDesc"/>
+                  <ref name="profileDesc"/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="fileDesc">
+      <element name="fileDesc">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(file description) contains a full bibliographic description of an electronic file.</a:documentation>
+         <group>
+            <ref name="titleStmt"/>
+            <optional>
+               <ref name="editionStmt"/>
+            </optional>
+            <optional>
+               <ref name="extent"/>
+            </optional>
+            <ref name="publicationStmt"/>
+            <oneOrMore>
+               <ref name="sourceDesc"/>
+            </oneOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="titleStmt">
+      <element name="titleStmt">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(title statement) groups information about the title of a work and those responsible for its content.</a:documentation>
+         <group>
+            <oneOrMore>
+               <ref name="title"/>
+            </oneOrMore>
+            <zeroOrMore>
+               <choice>
+                  <ref name="author"/>
+                  <ref name="editor"/>
+                  <ref name="respStmt"/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="title">
+      <element name="title">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a title for any kind of work.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="note"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="ref"/>
+               <ref name="date"/>
+               <ref name="measure"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="choice"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.typed.attribute.type"/>
+      </element>
+   </define>
+   
+   <define name="author">
+      <element name="author">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">in a bibliographic reference, contains the name(s) of an author, personal or corporate, of a work.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="note"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="editor">
+      <element name="editor">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a secondary statement of responsibility for a bibliographic item.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="note"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="respStmt">
+      <element name="respStmt">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(statement of responsibility) supplies a statement of responsibility for the intellectual content of a text, edition, recording, or series.</a:documentation>
+         <choice>
+            <group>
+               <oneOrMore>
+                  <ref name="resp"/>
+               </oneOrMore>
+               <oneOrMore>
+                  <choice>
+                     <ref name="persName"/>
+                     <ref name="orgName"/>
+                  </choice>
+               </oneOrMore>
+            </group>
+            <group>
+               <oneOrMore>
+                  <choice>
+                     <ref name="persName"/>
+                     <ref name="orgName"/>
+                  </choice>
+               </oneOrMore>
+               <oneOrMore>
+                  <ref name="resp"/>
+               </oneOrMore>
+            </group>
+         </choice>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="resp">
+      <element name="resp">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(responsibility) contains a phrase describing the nature of a person's intellectual responsibility.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="editionStmt">
+      <element name="editionStmt">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(edition statement) groups information relating to one edition of a text.</a:documentation>
+         <choice>
+            <ref name="edition"/>
+            <text/>
+         </choice>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="edition">
+      <element name="edition">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">describes the particularities of one edition of a text.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="date"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="extent">
+      <element name="extent">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">describes the approximate size of a text stored on some carrier medium.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="measure"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="publicationStmt">
+      <element name="publicationStmt">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(publication statement) groups information concerning the publication or distribution of an electronic or other text.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="publisher"/>
+                  <ref name="pubPlace"/>
+                  <ref name="date"/>
+                  <ref name="idno"/>
+                  <ref name="availability"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="publisher">
+      <element name="publisher">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides the name of the organization responsible for the publication or distribution of a bibliographic item.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="orgName"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="address"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="pubPlace">
+      <element name="pubPlace">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(publication place) contains the name of the place where a bibliographic item was published.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="placeName"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="date">
+      <element name="date">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a date in any format.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="index"/>
+               <ref name="term"/>
+               <ref name="note"/>
+               <ref name="choice"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="ref"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="measure"/>
+               <ref name="addSpan"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.datable.w3c.attribute.when"/>
+         <ref name="att.datable.w3c.attribute.from"/>
+         <ref name="att.datable.w3c.attribute.to"/>
+         <ref name="att.typed.attributes"/>
+      </element>
+   </define>
+   
+   <define name="idno">
+      <element name="idno">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(identifier) supplies any form of identifier used to identify some object.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.typed.attributes"/>
+      </element>
+   </define>
+   
+   <define name="availability">
+      <element name="availability">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">supplies information about the availability of a text.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="p"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="ref"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="sourceDesc">
+      <element name="sourceDesc">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(source description) describes the source from which an electronic text was derived or generated.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="msDesc"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="msDesc">
+      <element name="msDesc">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(manuscript description) contains a description of a single identifiable manuscript or other text-bearing object.</a:documentation>
+         <group>
+            <ref name="msIdentifier"/>
+            <optional>
+               <ref name="physDesc"/>
+            </optional>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="msIdentifier">
+      <element name="msIdentifier">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(manuscript identifier) contains the information required to identify the manuscript being described.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="repository"/>
+                  <ref name="idno"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="repository">
+      <element name="repository">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the name of a repository within which manuscripts are stored.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="orgName"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="physDesc">
+      <element name="physDesc">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(physical description) contains a full physical description of a manuscript or manuscript part.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="typeDesc"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="typeDesc">
+      <element name="typeDesc">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(description of type) contains a description of the typeface, printing style, or writing style of a text.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="p"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="encodingDesc">
+      <element name="encodingDesc">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(encoding description) documents the relationship between an electronic text and the source or sources from which it was derived.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="editorialDecl"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="editorialDecl">
+      <element name="editorialDecl">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(editorial practice declaration) provides details of editorial principles and practices applied during the encoding of a text.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="p"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="profileDesc">
+      <element name="profileDesc">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(text-profile description) provides a detailed description of non-bibliographic aspects of a text.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="creation"/>
+                  <ref name="langUsage"/>
+                  <ref name="textClass"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="creation">
+      <element name="creation">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains information about the creation of a text.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="date"/>
+               <ref name="placeName"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="langUsage">
+      <element name="langUsage">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(language usage) describes the languages, sublanguages, registers, dialects, etc. represented within a text.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="language"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="language">
+      <element name="language">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes a single language or sublanguage used within a text.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.ident.attributes"/>
+      </element>
+   </define>
+   
+   <define name="textClass">
+      <element name="textClass">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(text classification) groups information which describes the nature or topic of a text.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="classCode"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="classCode">
+      <element name="classCode">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(classification code) contains the classification code used for this text in some standard classification system.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.scheme.attributes"/>
+      </element>
+   </define>
+   
+   <!-- Content Elements -->
+   <define name="text">
+      <element name="text">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a single text of any kind, whether unitary or composite, for example a poem or drama, a collection of essays, a novel, a dictionary, or a corpus sample. [4. Default Text Structure 15.1. Varieties of Composite Text]</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="pb"/>
+                  <ref name="anchor"/>
+                  <ref name="note"/>
+                  <ref name="hi"/>
+                  <ref name="choice"/>
+                  <ref name="add"/>
+                  <ref name="del"/>
+                  <ref name="addSpan"/>
+                  <ref name="app"/>
+                  <ref name="rdg"/>
+                  <ref name="ref"/>
+                  <ref name="persName"/>
+                  <ref name="orgName"/>
+                  <ref name="placeName"/>
+                  <ref name="term"/>
+                  <ref name="abbr"/>
+                  <ref name="expan"/>
+                  <ref name="measure"/>
+                  <ref name="index"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+            <optional>
+               <ref name="body"/>
+            </optional>
+            <zeroOrMore>
+               <choice>
+                  <ref name="pb"/>
+                  <ref name="anchor"/>
+                  <ref name="note"/>
+                  <ref name="hi"/>
+                  <ref name="choice"/>
+                  <ref name="add"/>
+                  <ref name="del"/>
+                  <ref name="addSpan"/>
+                  <ref name="app"/>
+                  <ref name="rdg"/>
+                  <ref name="ref"/>
+                  <ref name="persName"/>
+                  <ref name="orgName"/>
+                  <ref name="placeName"/>
+                  <ref name="term"/>
+                  <ref name="abbr"/>
+                  <ref name="expan"/>
+                  <ref name="measure"/>
+                  <ref name="index"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.declaring.attributes"/>
+         <ref name="att.typed.attributes"/>
+         <ref name="att.written.attributes"/>
+      </element>
+   </define>
+   
+   <define name="body">
+      <element name="body">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(text body) contains the whole body of a single unitary text, excluding any front or back matter. [4. Default Text Structure]</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="pb"/>
+                  <ref name="anchor"/>
+                  <ref name="note"/>
+                  <ref name="index"/>
+                  <ref name="addSpan"/>
+               </choice>
+            </zeroOrMore>
+            <optional>
+               <group>
+                  <ref name="head"/>
+                  <zeroOrMore>
+                     <choice>
+                        <ref name="pb"/>
+                        <ref name="anchor"/>
+                        <ref name="note"/>
+                        <ref name="index"/>
+                        <ref name="addSpan"/>
+                        <ref name="head"/>
+                     </choice>
+                  </zeroOrMore>
+               </group>
+            </optional>
+            <choice>
+               <oneOrMore>
+                  <group>
+                     <ref name="div"/>
+                     <zeroOrMore>
+                        <choice>
+                           <ref name="pb"/>
+                           <ref name="anchor"/>
+                           <ref name="note"/>
+                           <ref name="index"/>
+                           <ref name="addSpan"/>
+                        </choice>
+                     </zeroOrMore>
+                  </group>
+               </oneOrMore>
+               <group>
+                  <oneOrMore>
+                     <choice>
+                        <ref name="p"/>
+                        <ref name="pb"/>
+                        <ref name="anchor"/>
+                        <ref name="note"/>
+                        <ref name="hi"/>
+                        <ref name="choice"/>
+                        <ref name="add"/>
+                        <ref name="del"/>
+                        <ref name="addSpan"/>
+                        <ref name="app"/>
+                        <ref name="rdg"/>
+                        <ref name="ref"/>
+                        <ref name="persName"/>
+                        <ref name="orgName"/>
+                        <ref name="placeName"/>
+                        <ref name="term"/>
+                        <ref name="abbr"/>
+                        <ref name="expan"/>
+                        <ref name="measure"/>
+                        <ref name="index"/>
+                     </choice>
+                  </oneOrMore>
+                  <zeroOrMore>
+                     <choice>
+                        <ref name="pb"/>
+                        <ref name="anchor"/>
+                        <ref name="note"/>
+                        <ref name="hi"/>
+                        <ref name="choice"/>
+                        <ref name="add"/>
+                        <ref name="del"/>
+                        <ref name="addSpan"/>
+                        <ref name="app"/>
+                        <ref name="rdg"/>
+                        <ref name="ref"/>
+                        <ref name="persName"/>
+                        <ref name="orgName"/>
+                        <ref name="placeName"/>
+                        <ref name="term"/>
+                        <ref name="abbr"/>
+                        <ref name="expan"/>
+                        <ref name="measure"/>
+                        <ref name="index"/>
+                        <text/>
+                     </choice>
+                  </zeroOrMore>
+               </group>
+            </choice>
+            <zeroOrMore>
+               <choice>
+                  <ref name="pb"/>
+                  <ref name="anchor"/>
+                  <ref name="note"/>
+                  <ref name="hi"/>
+                  <ref name="choice"/>
+                  <ref name="add"/>
+                  <ref name="del"/>
+                  <ref name="addSpan"/>
+                  <ref name="app"/>
+                  <ref name="rdg"/>
+                  <ref name="ref"/>
+                  <ref name="persName"/>
+                  <ref name="orgName"/>
+                  <ref name="placeName"/>
+                  <ref name="term"/>
+                  <ref name="abbr"/>
+                  <ref name="expan"/>
+                  <ref name="measure"/>
+                  <ref name="index"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.declaring.attributes"/>
+      </element>
+   </define>
+   
+   <!-- Common Elements -->
+   <define name="persName">
+      <element name="persName">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(personal name) contains a proper noun or proper-noun phrase referring to a person.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="forename"/>
+               <ref name="surname"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="note"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="index"/>
+               <ref name="term"/>
+               <ref name="date"/>
+               <ref name="choice"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="addSpan"/>
+               <ref name="ref"/>
+               <ref name="measure"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.canonical.attribute.key"/>
+         <ref name="att.canonical.attribute.ref"/>
+      </element>
+   </define>
+   
+   <define name="forename">
+      <element name="forename">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a forename, given or baptismal name.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="surname">
+      <element name="surname">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a family (inherited) name.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="orgName">
+      <element name="orgName">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(organization name) contains an organizational name.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="index"/>
+               <ref name="term"/>
+               <ref name="date"/>
+               <ref name="choice"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="addSpan"/>
+               <ref name="ref"/>
+               <ref name="measure"/>
+               <ref name="placeName"/>
+               <ref name="persName"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.canonical.attribute.key"/>
+         <ref name="att.canonical.attribute.ref"/>
+      </element>
+   </define>
+   
+   <define name="placeName">
+      <element name="placeName">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(place name) contains an absolute or relative place name.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="index"/>
+               <ref name="term"/>
+               <ref name="date"/>
+               <ref name="choice"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="addSpan"/>
+               <ref name="ref"/>
+               <ref name="measure"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.canonical.attribute.key"/>
+         <ref name="att.canonical.attribute.ref"/>
+      </element>
+   </define>
+   
+   <define name="term">
+      <element name="term">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a single-word, multi-word, or symbolic designation which is regarded as a technical term.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="index"/>
+               <ref name="date"/>
+               <ref name="choice"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="addSpan"/>
+               <ref name="ref"/>
+               <ref name="measure"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.canonical.attribute.key"/>
+      </element>
+   </define>
+   
+   <define name="div">
+      <element name="div">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(text division) contains a subdivision of the front, body, or back of a text.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="pb"/>
+                  <ref name="anchor"/>
+                  <ref name="note"/>
+                  <ref name="index"/>
+                  <ref name="addSpan"/>
+               </choice>
+            </zeroOrMore>
+            <optional>
+               <group>
+                  <ref name="head"/>
+                  <zeroOrMore>
+                     <choice>
+                        <ref name="pb"/>
+                        <ref name="anchor"/>
+                        <ref name="note"/>
+                        <ref name="index"/>
+                        <ref name="addSpan"/>
+                        <ref name="head"/>
+                     </choice>
+                  </zeroOrMore>
+               </group>
+            </optional>
+            <choice>
+               <oneOrMore>
+                  <group>
+                     <ref name="div"/>
+                     <zeroOrMore>
+                        <choice>
+                           <ref name="pb"/>
+                           <ref name="anchor"/>
+                           <ref name="note"/>
+                           <ref name="index"/>
+                           <ref name="addSpan"/>
+                        </choice>
+                     </zeroOrMore>
+                  </group>
+               </oneOrMore>
+               <group>
+                  <oneOrMore>
+                     <group>
+                        <choice>
+                           <ref name="p"/>
+                           <ref name="pb"/>
+                           <ref name="anchor"/>
+                           <ref name="note"/>
+                           <ref name="hi"/>
+                           <ref name="choice"/>
+                           <ref name="add"/>
+                           <ref name="del"/>
+                           <ref name="addSpan"/>
+                           <ref name="app"/>
+                           <ref name="rdg"/>
+                           <ref name="ref"/>
+                           <ref name="persName"/>
+                           <ref name="orgName"/>
+                           <ref name="placeName"/>
+                           <ref name="term"/>
+                           <ref name="abbr"/>
+                           <ref name="expan"/>
+                           <ref name="measure"/>
+                           <ref name="index"/>
+                           <ref name="date"/>
+                           <text/>
+                        </choice>
+                        <zeroOrMore>
+                           <choice>
+                              <ref name="pb"/>
+                              <ref name="anchor"/>
+                              <ref name="note"/>
+                           </choice>
+                        </zeroOrMore>
+                     </group>
+                  </oneOrMore>
+                  <zeroOrMore>
+                     <group>
+                        <ref name="div"/>
+                        <zeroOrMore>
+                           <choice>
+                              <ref name="pb"/>
+                              <ref name="anchor"/>
+                              <ref name="note"/>
+                           </choice>
+                        </zeroOrMore>
+                     </group>
+                  </zeroOrMore>
+               </group>
+            </choice>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.attribute.n"/>
+         <ref name="att.typed.attribute.type"/>
+      </element>
+   </define>
+   
+   <define name="p">
+      <element name="p">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(paragraph) marks paragraphs in prose.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="hi"/>
+               <ref name="choice"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="addSpan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="ref"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="measure"/>
+               <ref name="index"/>
+               <ref name="date"/>
+               <text/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="head">
+      <element name="head">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(heading) contains any type of heading.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="hi"/>
+               <ref name="choice"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="addSpan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="ref"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="measure"/>
+               <ref name="index"/>
+               <ref name="date"/>
+               <text/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="pb">
+      <element name="pb">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(page beginning) marks the beginning of a new page in a paginated document.</a:documentation>
+         <empty/>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.attribute.n"/>
+         <ref name="att.global.facs.attribute.facs"/>
+      </element>
+   </define>
+   
+   <define name="anchor">
+      <element name="anchor">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">attaches an identifier to a point within a text.</a:documentation>
+         <empty/>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.linking.attribute.corresp"/>
+      </element>
+   </define>
+   
+   <define name="note">
+      <element name="note">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a note or annotation.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="p"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="ref"/>
+               <ref name="date"/>
+               <ref name="measure"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="choice"/>
+               <ref name="index"/>
+               <ref name="addSpan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.linking.attribute.corresp"/>
+         <ref name="att.placement.attribute.place"/>
+         <ref name="att.typed.attribute.type"/>
+      </element>
+   </define>
+   
+   <define name="hi">
+      <element name="hi">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(highlighted) marks a word or phrase as graphically distinct from the surrounding text.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="choice"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="addSpan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="ref"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="measure"/>
+               <ref name="index"/>
+               <ref name="date"/>
+               <text/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.rendition.attribute.rend"/>
+         <ref name="att.global.rendition.attribute.rendition"/>
+      </element>
+   </define>
+   
+   <define name="choice">
+      <element name="choice">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">groups a number of alternative encodings for the same point in a text.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="abbr"/>
+                  <ref name="expan"/>
+                  <text/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="abbr">
+      <element name="abbr">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(abbreviation) contains an abbreviation of any sort.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="expan">
+      <element name="expan">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(expansion) contains the expansion of an abbreviation.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="add">
+      <element name="add">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(addition) contains letters, words, or phrases inserted in the source text by an author, scribe, or a previous annotator or corrector.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="hi"/>
+               <ref name="choice"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="addSpan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="ref"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="measure"/>
+               <ref name="index"/>
+               <ref name="date"/>
+               <ref name="div"/>
+               <ref name="head"/>
+               <ref name="p"/>
+               <text/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.placement.attribute.place"/>
+         <empty/>
+      </element>
+   </define>
+   
+   <define name="del">
+      <element name="del">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(deletion) contains a letter, word, or passage deleted, marked as deleted, or otherwise indicated as superfluous or spurious in the copy text by an author, scribe, or a previous annotator or corrector.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="hi"/>
+               <ref name="choice"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="addSpan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="ref"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="measure"/>
+               <ref name="index"/>
+               <ref name="date"/>
+               <text/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.rendition.attribute.rend"/>
+         <ref name="att.global.rendition.attribute.rendition"/>
+      </element>
+   </define>
+   
+   <define name="addSpan">
+      <element name="addSpan">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(added span of text) marks the beginning of a longer sequence of text added by an author, scribe, annotator or corrector.</a:documentation>
+         <empty/>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.spanning.attribute.spanTo"/>
+         <ref name="att.typed.attribute.type"/>
+      </element>
+   </define>
+   
+   <define name="app">
+      <element name="app">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(apparatus entry) contains one entry in a critical apparatus.</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="rdg"/>
+                  <ref name="note"/>
+               </choice>
+            </zeroOrMore>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.rendition.attribute.rend"/>
+         <ref name="att.typed.attribute.type"/>
+         <optional>
+            <attribute name="from">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to the starting point of the span to which the apparatus entry applies.</a:documentation>
+               <data type="anyURI"/>
+            </attribute>
+         </optional>
+         <empty/>
+      </element>
+   </define>
+   
+   <define name="rdg">
+      <element name="rdg">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reading) contains a single reading within a textual variation.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="ref"/>
+               <ref name="date"/>
+               <ref name="measure"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="choice"/>
+               <ref name="index"/>
+               <ref name="addSpan"/>
+               <ref name="app"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.typed.attribute.type"/>
+         <ref name="att.wit.attributes"/>
+      </element>
+   </define>
+   
+   <define name="ref">
+      <element name="ref">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) defines a reference to another location.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="choice"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="addSpan"/>
+               <ref name="app"/>
+               <ref name="rdg"/>
+               <ref name="ref"/>
+               <ref name="persName"/>
+               <ref name="orgName"/>
+               <ref name="placeName"/>
+               <ref name="term"/>
+               <ref name="abbr"/>
+               <ref name="expan"/>
+               <ref name="measure"/>
+               <ref name="date"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+               <ref name="note"/>
+               <ref name="index"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.linking.attribute.corresp"/>
+         <ref name="att.pointing.attribute.target"/>
+         <ref name="att.typed.attribute.type"/>
+      </element>
+   </define>
+   
+   <define name="measure">
+      <element name="measure">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a word or phrase referring to some quantity of an object or commodity.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="index">
+      <element name="index">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(index entry) marks a location to be indexed for whatever purpose.</a:documentation>
+         <zeroOrMore>
+            <group>
+               <ref name="term"/>
+               <optional>
+                  <ref name="index"/>
+               </optional>
+            </group>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+         <empty/>
+      </element>
+   </define>
+   
+   <define name="address">
+      <element name="address">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a postal or other address.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="addrLine"/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+   
+   <define name="addrLine">
+      <element name="addrLine">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(address line) contains one line of a postal or other address.</a:documentation>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="hi"/>
+               <ref name="add"/>
+               <ref name="del"/>
+               <ref name="pb"/>
+               <ref name="anchor"/>
+            </choice>
+         </zeroOrMore>
+         <ref name="att.global.attribute.xmlid"/>
+      </element>
+   </define>
+
+   <!-- TEI element definition -->
+   <define name="TEI">
+      <element name="TEI">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(TEI document) contains a single TEI-conformant document, combining a single TEI header with one or more members of the model.resource class. Multiple <code xmlns="http://www.w3.org/1999/xhtml">&lt;TEI&gt;</code> elements may be combined within a <code xmlns="http://www.w3.org/1999/xhtml">&lt;TEI&gt;</code> (or <code xmlns="http://www.w3.org/1999/xhtml">&lt;teiCorpus&gt;</code>) element. [4. Default Text Structure 15.1. Varieties of Composite Text]</a:documentation>
+         <group>
+            <ref name="teiHeader"/>
+            <optional>
+               <ref name="text"/>
+            </optional>
+         </group>
+         <ref name="att.global.attribute.xmlid"/>
+         <optional>
+            <attribute name="version">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the version number of the TEI Guidelines against which this document is valid.</a:documentation>
+               <data type="token">
+                  <param name="pattern">[\d]+(\.[\d]+){0,2}</param>
+               </data>
+            </attribute>
+         </optional>
+      </element>
+   </define>
+   
+   <start>
+      <ref name="TEI"/>
+   </start>
+</grammar>
