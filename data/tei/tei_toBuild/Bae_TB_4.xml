@@ -77,7 +77,7 @@
     <body xml:id="Bae_TB_4_51">
       <div n="1898-10" type="diaryEntry" xml:id="Bae_TB_4_52">
         <pb facs="#F_K-4_Bae_TB_4_002" n="1r" xml:id="Bae_TB_4_53"/>
-        <p xml:id="Bae_TB_4_54">
+        <anchor/><p xml:id="Bae_TB_4_54">
           <hi rend="ul" xml:id="Bae_TB_4_55">6. Die 
             <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_4_56">Budapester</placeName> Augustkonferenzen.
           </hi>Am Tage nach unserer Rückkehr von 
@@ -103,7 +103,7 @@
               <term key="Verhaeltnis" xml:id="Bae_TB_4_74"/>
             </index>
           </index> zu 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_4_75">Ungarn</placeName> zu ihrem Inhalt gemacht würde. In einem ausfürlichen Votum (A.XVIII.) vertrat ich diesen Standpunkt. Wenn schon die von 
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_4_75">Ungarn</placeName> zu ihrem Inhalt gemacht würde. In einem ausfürlichen Votum <app from="#Bae_MF_2_4410" type="equal"><rdg wit="Bae_MF_2">6. Die Budapester Augustkonferenzen. Am Tage nach unserer Rückkehr von Ischl war Ministerrat. Thun referierte wie gewöhnlich über den stattgefundenen Gang der Dinge und es knüpfte sich eine Debatte daran, um festzustellen, welche Haltung wir am 24. in Budapest einzunehmen hätten. So gefährlich mir die (zuerst von Chlumetzky und Lukacz signalisierte) Form eines bloßen Reziprozitätsverhältnisses immer erschienen ist, war jetzt gegen dieselbe nicht mehr anzukämpfen, auch wäre ihr die Spitze teilweise abgebrochen worden, wenn die Verlängerung des bestehenden  Verhältnisses zu Ungarn zu ihrem Inhalt gemacht würde. In einem ausführlichen Votum</rdg></app><anchor/>(A.XVIII.) <app from="#Bae_MF_2_4431" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>vertrat ich diesen Standpunkt. Wenn schon die von 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_4_76">Ungarn</placeName> vorgeschlagene Form acceptirt werden muss, so müssen wir umso fester darauf beharren, dass nur der jetzt bestehende 
           <index xml:id="Bae_TB_4_77">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_78">Ausgleich</term>
@@ -216,7 +216,7 @@
             <expan xml:id="Bae_TB_4_160">und</expan>
           </choice> Branntweinsteuer fallen zu lassen. 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_161">Kaizl</persName> erhielt den Auftrag nach diesen Beschlüssen eine Note an 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_4_162">Ungarn</placeName> zu entwerfen, was er teilweise schon gethan hatte 
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_4_162">Ungarn</placeName> zu entwerfen<app from="#Bae_MF_2_4434" type="equal"><rdg wit="Bae_MF_2">vertrat ich diesen Standpunkt. Wenn schon die von Ungarn vorgeschlagene Form akzeptiert werden muß, so müssen wir umso fester darauf beharren, daß nur der jetzt bestehende Ausgleich verlängert wird, u.z. bis auf irgend ein Jahr, nur nicht 1903. Zugleich wiederholte ich abermals meinen schon so oft an den Ministerrat und jüngst in Ischl an den Kaiser gerichteten Appell, die Sprachenverordnung aufzuheben, um durch einen Umschwung in der innern Politik eine neue Situation zu schaffen. Das letztere fand, wie ich jetzt schon gar nicht anders erwartete kein Gehör; mein Standpunkt bezüglich der ungarischen Sache drang jedoch durch. Freilich mehr theoretisch als praktisch. Thun und die übrigen waren zwar entschlossen in Budapest den status quo als für Oesterreich einzig möglicher Basis der Verlängerung des Ausgleichs zu vertreten, aber ausser der ungarischen Form wurde das Jahr 1902 vorgeschlagen, worin ich keine genügende Garantie gegen eine von den Ungarn 1903 eventuell gewünschte Trennung erblickte. Ich hätte diese Garantie in der Verlegung des Endtermines der zu treffenden Vereinbarung in dem Jahr 1905 oder 1906 gesehen. Viel ausführlicher natürlich als in dem beiliegenden Votum verfocht ich im Ministerrat die Meinung, daß der ungarische Vorschlag vom 10. August gefährlich, ungerecht und unannehmbar sei. Lebhaft wurde ich damals wie später von Welsersheimb unterstützt. So wirkte mein sehr lebhaftes Eintreten für Festigkeit gegenüber den Ungarn diesmal doch noch so stark, daß beschlossen wurde, nicht nachzugeben und den Versuch zu machen in Budapest ein Arrangement durch Verlängerung des status quo auf der ganzen Linie zu erzielen. Kaizl regte an, die Vereinbarungen auf ein Minimum zu beschränken und zum ersten Mal war auch ernstlich davon die Rede, die Erhöhung der Bier- und Branntweinsteuer fallen zu lassen. Kaizl erhielt den Auftrag nach diesen Beschlüssen eine Note an Ungarn zu entwerfen</rdg></app><anchor/>, was er teilweise schon gethan hatte <app from="#Bae_MF_2_4481" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>
           <choice xml:id="Bae_TB_4_163">
             <abbr xml:id="Bae_TB_4_164">u.</abbr>
             <expan xml:id="Bae_TB_4_165">und</expan>
@@ -227,12 +227,11 @@
             <abbr xml:id="Bae_TB_4_169">u.</abbr>
             <expan xml:id="Bae_TB_4_170">und</expan>
           </choice> der Entwurf 
-          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_171">Kaizl's</persName> (A. XIX.) wurde etwas abgeändert als definitive Antwort auf die 
+          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_171">Kaizl's</persName> <app from="#Bae_MF_2_4484" type="equal"><rdg wit="Bae_MF_2">und dieselbe in Abschrift den beteiligten Ministern mitzuteilen, damit in einer Besprechung andern Tags definitiv über die Antwort an Ungarn Beschluß gefaßt werden könne. Dies geschah auch am 18. August und der Entwurf Kaizls</rdg></app><anchor/>(A. XIX.) <app from="#Bae_MF_2_4490" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>wurde etwas abgeändert als definitive Antwort auf die 
           <choice xml:id="Bae_TB_4_172">
             <abbr xml:id="Bae_TB_4_173">ungar.</abbr>
             <expan xml:id="Bae_TB_4_174">ungarische</expan>
-          </choice> Note vom 
-          <date when="1898-08-10" xml:id="Bae_TB_4_175">10.8.</date>
+          </choice> Note vom <app from="#Bae_MF_2_4493" type="equal"><rdg wit="Bae_MF_2">wurde etwas abgeändert als definitive Antwort auf die ungarische Note vom</rdg></app><anchor/><date when="1898-08-10" xml:id="Bae_TB_4_175">10.<app from="#" type="notEqual"><rdg wit="Bae_MF_2">18.</rdg></app><anchor/>8.</date>
           <choice xml:id="Bae_TB_4_176">
             <abbr xml:id="Bae_TB_4_177">u.</abbr>
             <expan xml:id="Bae_TB_4_178">und</expan>
@@ -243,7 +242,7 @@
               <term key="Ausgleichsverhandlungen" xml:id="Bae_TB_4_182"/>
             </index>
           </index> in 
-          <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_4_183">Budapest</placeName> abgeschickt (A. XX.). Taktisch war in derselben primo loco unser ursprünglicher Antrag auf Verlängerung des bestehenden Zustandes, dann secundo loco unsere neue Position verteitigt.
+          <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_4_183">Budapest</placeName> abgeschickt <app from="#Bae_MF_2_4498" type="equal"><rdg wit="Bae_MF_2">8. u. als Vorläufer unserer bevorstehenden Verhandlungen in Budapest abgeschickt</rdg></app><anchor/>(A. XX.)<app from="#Bae_MF_2_4506" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>. Taktisch war in derselben primo loco unser ursprünglicher Antrag auf Verlängerung des bestehenden Zustandes, dann secundo loco unsere neue Position verteitigt.
         </p>
         <p xml:id="Bae_TB_4_184">In der Zwischenzeit machte ich die bereits erwähnte kleine 
           <index xml:id="Bae_TB_4_185">
@@ -320,17 +319,18 @@
           <choice xml:id="Bae_TB_4_242">
             <abbr xml:id="Bae_TB_4_243">u.</abbr>
             <expan xml:id="Bae_TB_4_244">und</expan>
-          </choice> darüber gesprochen. (Ein von mir verfasstes Resumé (A. XXI.) gibt den
+          </choice> darüber gesprochen. <app from="#Bae_MF_2_4509" type="equal"><rdg wit="Bae_MF_2">. Taktisch war in derselben primo loco unser ursprünglicher Antrag auf Verlängerung des bestehenden Zustandes, dann secundo loco unsere neue Position verteitigt. In der Zwischenzeit machte ich die bereits erwähnte kleine  Rundreise in Böhmen, besuchte das Škoda’sche Etablissement in Pilsen und die Brüxer Ausstellung und hatte mehrfache Besprechungen mit deutsch-böhmischen Vertrauensmännern, um in Fühlung zu bleiben. Es war mir ja klar, dass meines Bleibens im Ministerium nicht länger sein werde und ich wollte daher die Zeit noch so sehr ausnützen als möglich. Am Morgen des 23. war ich wieder in Wien, Nachmittag fuhr ich nach Budapest. Am 24. begann die Konferenz um 11 Uhr im ungarischen Ministerratspräsidium. Es wurde in Anwesenheit Thuns, Kaizls und mir, ferner Banffyss , Lukacs und Darányis intensiv bis 2 Uhr verhandelt. Dann war Diner bei Banffy, dessen Gattin präsidierte. Ausgesprochen ungarisches Mittagessen mit Krebsen, Paprika und Melonen gewürzt. Dann wurde weiter verhandelt bis 6 Uhr. Abends waren wir in einem Restaurant im Stadtwäldchen. Die Hitze war enorm, die Abkühlung am Abend gering. Andern Tags ( 25.) war noch eine Konferenz von 11-3 durch ein kleines Frühstück unterbrochen, Abends Diner bei Féjervary wo ausser den Genannten auch der ungarische Justiz und der ungarische Unterrichtsminister anwesend waren. Vorher machte ich mit Kaizl eine Spazierfahrt auf der Ofner Seite. Die Hitze war womöglich noch größer als am Tage vorher, beim Diner geradezu unerträglich. Abends fuhren wir nach Wien zurück. In der Konferenz wurde zunächst beschlossen, unsere letzte Note zur Grundlage der Diskussion zu nehmen. Dieselbe wurde absatzweise verlesen und darüber gesprochen.</rdg></app><anchor/>(Ein von mir verfasstes Resumé (A. XXI.) gibt den
           <pb facs="#F_K-4_Bae_TB_4_009" n="4v" xml:id="Bae_TB_4_245"/>
           <note type="editorial" xml:id="Bae_TB_4_246">Diese Seite ist leer.</note>
           <note type="editorial" xml:id="Bae_TB_4_247">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_4_010" n="5r" xml:id="Bae_TB_4_248"/> Hauptinhalt wieder. Nach den stenographischen Aufzeichnungen, die ich, freilich nur flüchtig, machen konnte ((A. XXII.)), (möchte ich ergänzend) nachstehende Skizze der 
+          <pb facs="#F_K-4_Bae_TB_4_010" n="5r" xml:id="Bae_TB_4_248"/> Hauptinhalt wieder. <app from="#Bae_MF_2_4551" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>Nach den stenographischen Aufzeichnungen, die ich, freilich nur flüchtig, machen konnte <app from="#Bae_MF_2_4554" type="equal"><rdg>Nach den stenografischen Aufzeichnungen, die
+            ich, freilich nur flüchtig, machen konnte,</rdg></app>((A. XXII.)), (möchte ich ergänzend) <app from="#Bae_MF_2_4557" type="notEqual"><rdg wit="Bae_MF_2"></rdg></app><anchor/>nachstehende Skizze der 
           <index xml:id="Bae_TB_4_249">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_250">Verhandlungen</term>
             <index xml:id="Bae_TB_4_251">
               <term key="Ausgleichsverhandlungen" xml:id="Bae_TB_4_252"/>
             </index>
-          </index> und manche charakteristischen Äußerung (oder Ansicht) wiedergeben.
+          </index> und manche charakteristischen Äußerung <app from="#Bae_MF_2_4560" type="equal"><rdg wit="Bae_MF_2">nachstehende Skizze der Verhandlungen und manche charakteristischen Äußerung</rdg></app><anchor/>(oder Ansicht) <app from="#Bae_MF_2_4567" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>wiedergeben.
         </p>
         <p xml:id="Bae_TB_4_253">
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_254">Thun</persName> griff ein paar Mal sehr gut in die Debatte ein. Insbesondere machte er von dem Argument wirksamen Gebrauch, dass wenn bei uns der neue 
@@ -361,7 +361,7 @@
               <term key="Ausgleich" xml:id="Bae_TB_4_273"/>
             </index>
           </index> die schlechte Stimmung in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_274">Österreich</placeName> auf alle Fälle noch verschlimmere 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_274">Österreich</placeName> <app from="#Bae_MF_2_4570" type="equal"><rdg wit="Bae_MF_2">wiedergeben. Thun griff ein paar Mal sehr gut in die Debatte ein. Insbesondere machte er von dem Argument wirksamen Gebrauch, daß wenn bei uns der neue Ausgleich mit § 14 gemacht würde, das Ganze ja dann der Ratihabition durch das Parlament unterworfen sei und daß, wenn dieses diese nachträgliche Zustimmung nicht erteile ein vacuum also der schlimmste Zustand eintreten würde. Auch hob er sehr mit Recht hervor, daß eine Octroyierung des Ausgleiches die schlechte Stimmung in Oesterreich</rdg></app><anchor/>auf alle Fälle <app from="#Bae_MF_2_4589" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>noch verschlimmere 
           <choice xml:id="Bae_TB_4_275">
             <abbr xml:id="Bae_TB_4_276">u.</abbr>
             <expan xml:id="Bae_TB_4_277">und</expan>
@@ -508,8 +508,7 @@
             <expan xml:id="Bae_TB_4_385">und</expan>
           </choice> Branntweinsteuer wurde erörtert. Die Ungarn traten dem nicht entgegen.
         </p>
-        <p xml:id="Bae_TB_4_386">Am ersten Tage hatte ich mich mehr zurückgehalten. Am zweiten jedoch rückte ich zur Unterstützung 
-          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_387">Kaizl's</persName> mit allen meinen Argumenten vor. Ich suchte den Ungarn klar zu machen warum der 
+        <p xml:id="Bae_TB_4_386">Am ersten Tage hatte ich mich mehr zurückgehalten. Am zweiten jedoch rückte ich <app from="#Bae_MF_2_4592" type="equal"><rdg wit="Bae_MF_2">noch verschlimmere und für alle Zukunft der Abschluß von Uebereinkommen mit Ungarn dadurch in Frage gestellt werden könne. Auf diese und die übrigen Ausführungen Thuns antwortete Banffy unter Berufung auf eine Konferenz im November 1897 mit Badeni in Gegenwart Goluchowskis und Kallays, wo ersterer erklärt habe, die Ausgleichsgesetze durchzubringen "koste was es wolle". Auch Gautsch hat das zugesagt. "Ich bitte nicht zu verstehen – fuhr Banffy in seinem ungarisch-deutsch fort – "daß wir hier zu verhandeln haben, sondern das Verhandelte durchzuführen. Es handelt sich nur um die Form, wenn Sie konstitutionell regieren wollen oder wenn Sie die Konstitution ändern müssen. Es ist sehr unbarmherzig wie ich rede und nicht sehr sittlich (sic!), aber es ist umsonst, daß sie uns einen Weg weisen wollen, den wir nicht gehen können. Es ist nicht ausgeschlossen, daß wir wieder Obstruktion haben und am 1. Jänner nicht fertig werden. Es ist nicht ausgeschlossen, daß wenn dieser Weg nicht gegangen werden kann, daß am 1. Jänner ein Nichts dastehen wird. Das ist das Höchste , was ich befürchte und nur desswegen bin ich bereit diese Propositionen zu vertreten. Handelsvertrag ist viel schlechter als die selbständige Regelung, denn das ist das Verhältniss von zwei fremden Ländern. Ich akzeptiere, daß die Quote mäßig erhöht werden könnte. Die Schwierigkeit liegt darin, daß Oesterreich große Forderungen macht. Da die Verzehrungssteuern nicht erhöht werden, so hat das Ueberweisungsverfahren für uns ein geringeres Interesse. Daher könnte die Quote erhöht werden, aber nur mäßig; aber taktisch halte ich es für diesen Moment nicht vorteilhaft und dieses eine Jahr 1899 muß sie bleiben ( scit. scilicet wie sie ist) und geopfert werden, denn um die ganze Sache zustande zu bringen, ist es viel wichtiger als diese paar Millionen die Oesterreich eventuell pro 1899 verliert, daß es uns zu Gute kommt. Die Sache wird im Jahr 1899 leichter zustande kommen; da muß wieder der Versuch gemacht werden auf dem Wege der Quotendeputation , da wird es leichter gehen." Ich habe diesen Passus in der unveränderten Diktion Banffys aufgenommen, weil ich nicht imstande war drastischer zu beweisen, daß ein Hauptbestreben bei dem ungarischen Beutezug das Bestreben war, das junctim in die Luft zu sprengen. Auch Kaizl hielt sich in der Konferenz sehr tapfer. Er versuchte insbesondere die Bankparität, die unglücklicherweise von Bilinski konzediert worden war, zu kritisieren, um irgend eine plausible Remedur zu schaffen. Er wies darauf hin, dass 60.000 Bankaktien in österreichischen Händen seien, dagegen nur 3000 Stück in Ungarn und daß es eine wesentliche Erleichterung für unsere Verhandlungen im österreichischen Parlament wäre, wenn irgend eine andere Form der Bankvertretung gefunden werden könnte, wenn vielleicht 4 Generalräte von Oesterreich und 4 von Ungarn gewählt würden und die übrigen von den Aktionären. Diese Versuche fanden aber entschieden Ablehnung und wenn Kaizl uns auch später im Ministerrat erzählte Lukac z s habe im Privatgespräch sich nicht ganz ablehnend verhalten, so bezeichnete ich derlei Dinge wohl mit Recht als fata morgana angesichts der wiederholten offiziellen Erklärungen in der Konferenz. Auch das Fallenlassen der Erhöhungen der Bier- und Branntweinsteuer wurde erörtert. Die Ungarn traten dem nicht entgegen. Am ersten Tage hatte ich mich mehr zurückgehalten. Am zweiten jedoch rückte ich</rdg></app><anchor/>zur Unterstützung <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_387">Kaizl's</persName> <app from="#Bae_MF_2_4660" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>mit allen meinen Argumenten vor. Ich suchte den Ungarn klar zu machen warum der 
           <index xml:id="Bae_TB_4_388">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_389">Ausgleich</term>
             <index xml:id="Bae_TB_4_390">
@@ -650,7 +649,7 @@
               <term key="Regierung" xml:id="Bae_TB_4_489"/>
             </index>
           </index> an 
-          <persName key="KallayBeni" ref="https://d-nb.info/gnd/119001993" xml:id="Bae_TB_4_490">Kallay</persName> (A. III., IV.). Der 
+          <persName key="KallayBeni" ref="https://d-nb.info/gnd/119001993" xml:id="Bae_TB_4_490">Kallay</persName> <app from="#Bae_MF_2_4663" type="equal"><rdg wit="Bae_MF_2">mit allen meinen Argumenten vor. Ich suchte den Ungarn klar zu machen warum der Ausgleich bei uns so sehr unpopulär sei. Ich stellte mich bezüglich der Industriepolitik. die Ungarn betreibt , nicht feindlich, verlangte aber für unsere Industrie Kompensationen, vor allem in der Stabilität des Ausgleichs auf mindestens 10 Jahre. Ich schilderte sehr eingehend wie schlecht unsere Industrie mit einem Uebereinkommen bis 1903 daran wäre und wie es faktisch unmöglich wäre, bis zu diesem Termin einen autonomen Zolltarif zu vereinbaren, auf Grund desselben die Handelsverträge zu schließen und zugleich einen neuen Ausgleich zu verhandeln. Für die Verträge mit den fremden Staaten würde ja der gemeinsame Kompasziszent fehlen und für die Bewältigung aller dieser gleichzeitigen Aufgaben Kraft und Zeit. Dieses Zusammentreffen 1903 der Aufgabe Handelsverträge mit Dritten zu schließen und zugleich den Ausgleich zu verhandeln , malte ich in seinen Details aus und weder Daniel noch Daranyi, die sofort und sehr lebhaft nach mir das Wort ergriffen, konnten eigentlich irgend etwas greifbares darauf antworten. Eingehend erörterte ich auch die Frage des Donauverkehrs und der Eisenbahnanschlüsse, besonders die dalmatinischen. Es gehöre dies zu den Lücken des Ausgleiches , die ein Hauptgrund seiner Anfechtung in Österreich sei. Daniel erwiderte mir, auch Ungarn habe jahrelange Gravamina, die es auf dem Gebiete der Eisenbahnen nicht durchsetzen könne, so den Anschluß der Kaschau-Oderberger-Bahn und die Verbindung mit den preußischen Bahnen sowie das zweite Geleise. Bosnien sollte ein Absatzgebiet auch für Ungarn werden und darnach müsse die ungarische Regierung die Anschlußfragen beurteilen. Hier bewegte er sich ganz in den Argumenten der bereits oben zitierten Note der ungarischen Regierung an Kallay</rdg></app><anchor/>(A. III., IV.)<app from="#Bae_MF_2_4733" type="missing"><rdg wit="Bae_MF_2"></rdg></app>. Der 
           <choice xml:id="Bae_TB_4_491">
             <abbr xml:id="Bae_TB_4_492">ungar.</abbr>
             <expan xml:id="Bae_TB_4_493">ungarische</expan>
@@ -716,7 +715,7 @@
           <choice xml:id="Bae_TB_4_538">
             <abbr xml:id="Bae_TB_4_539">u.</abbr>
             <expan xml:id="Bae_TB_4_540">und</expan>
-          </choice> die Verteilung der Ausfuhrsbonificationen besteht darin, dass jeder Staat nur so viel Bonification bezieht als er exportirt. Die Aufhebung des 
+          </choice> die Verteilung der Ausfuhrsbonificationen <app from="#Bae_MF_2_4736" type="equal"><rdg wit="Bae_MF_2">. Der ungarische Antrag wäre, meinte er im Verlaufe seiner Auseinandersetzungen eine Eisenbahn erster Ordnung über Sarajevo nach Saloniki. Natürlich Privatbahn. Die Vorkonzession könnten beide Regierungen geben, von der bosnischen Regierung wurde das jedoch verhindert, weil die österreichische Regierung die Vorkonzession nicht erteilen wollte. Daher die Zurückhaltung der ungarischen Regierung gegenüber dem Projekt Spalato-Bugojno. Lukacs machte es sich zur besonderen Aufgabe den Ausgleich in seiner Gänze einer – wie er meinte – unparteiischen Beurteilung zu unterziehen. Er untersuchte, was in dem Ausgleich zu Gunsten Ungarns, was zu Gunsten Oesterreichs und was endlich zu Gunsten beider enthalten sei. Zu Gunsten Ungarns sei die Bankparität, wobei er bemerkte, daß Ungarn hätte die Bankaktien zusammenkaufen können und dann wäre die Parität ganz natürlich erschienen, bezüglich der ebenfalls Ungarn zu Gute kommenden Ueberweisung der Verzehrungssteuern handle es sich nur darum, daß die von ungarischen Staatsbürgern gezahlten Steuerbeträge in die ungarischen Staatskassen kommen, also um eine der primitivsten Forderungen eines Staates und die Verteilung der Ausfuhrsbonifikationen</rdg></app><anchor/>besteht <app from="#Bae_MF_2_4767" type="notEqual"><rdg wit="Bae_MF_2">bestehe</rdg></app><anchor/>darin, dass jeder Staat nur so viel Bonification bezieht als er exportirt. Die Aufhebung des 
           <placeName key="Tirol" ref="https://www.geonames.org/2763587/tyrol.html" xml:id="Bae_TB_4_541">Tyroler</placeName> Getreideaufschlages, 
           <pb facs="#F_K-4_Bae_TB_4_021" n="10v" xml:id="Bae_TB_4_542"/>
           <note type="editorial" xml:id="Bae_TB_4_543">Diese Seite ist leer.</note>
@@ -776,7 +775,7 @@
         <pb facs="#F_K-4_Bae_TB_4_023" n="11v" xml:id="Bae_TB_4_583"/>
         <note type="editorial" xml:id="Bae_TB_4_584">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_4_024" n="12r" xml:id="Bae_TB_4_585"/>
-        <p xml:id="Bae_TB_4_586">Ich habe diese Expectoration von 
+        <p xml:id="Bae_TB_4_586">Ich habe diese <app from="#Bae_MF_2_4770" type="equal"><rdg wit="Bae_MF_2">darin, daß jeder Staat nur so viel Bonifikation bezieht als er exportiert. Die Aufhebung des Tiroler Getreideaufschlages, ebenfalls zu Gunsten Ungarns, sei aber nur die einfache Forderung der Idee des gemeinsamen Zollgebietes . Die Veterinärbestimmungen endlich seien nur das Corollar des freien Verkehrs und eine schwache Selbstverteidigung gegen Ungerechtigkeiten, die gegen den ungarischen Export vorgekommen sind. Zu Gunsten Oesterreichs sei die Abschreibung der 16 Millionen, freilich zahlt Oesterreich 30 Millionen, aber es ist eine österreichische Schuld und die Abzahlung ist notwendig wegen der Valuta. Ferner die Erhöhung des Petroleumzolles; in Ungarn wird die Petroleumindustrie zugrunde gehen. Ferner die Aufhebung des Mahlverkehrs, endlich die Erhöhung des Branntweinkontingentes. Vergleicht man diese beiden Gruppen, "so sieht man, daß die ungarischen Forderungen auf Gerechtigkeit (sic!) beruhen, während die österreichischen Spezialforderungen Ungarn schädigen". Als gemeinsame Vorteile beider Staaten am neuen Ausgleich bezeichnete er die Fortsetzung der Valutaregulierung, die Erhöhung des staatlichen Einflußes auf die Bank, die Erhöhung der staatlichen Partizipation am Erträgnisse der Bank, das Recht zur Uebernahme des Bankgeschäftes, die neue Regelung des indirekten Steuerwesens, endlich – der freie Verkehr zwischen den beiden Staaten der Monarchie! Ich habe diese</rdg></app><anchor/>Expectoration <app from="#Bae_MF_2_4795" type="notEqual"><rdg wit="Bae_MF_2">Ausführungen</rdg></app><anchor/>von 
           <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_TB_4_587">Lukacz</persName>, die mit dem verhandelten Gegenstande nur indirekt zusammenhing 
           <choice xml:id="Bae_TB_4_588">
             <abbr xml:id="Bae_TB_4_589">u.</abbr>
@@ -866,8 +865,8 @@
             <abbr xml:id="Bae_TB_4_650">u.</abbr>
             <expan xml:id="Bae_TB_4_651">und</expan>
           </choice> zwar mit der Geltungsdauer bis 
-          <date when="1903" xml:id="Bae_TB_4_652">1903</date> zu machen wäre, während wir in derselben legistischen Form für die Verlängerung des heute bestehenden Zustandes bis 
-          <date when="1902" xml:id="Bae_TB_4_653">1902</date> eintraten. Am zweiten Tage wurde noch heftig debattirt, da aber kein Theil nachgab, war bald die Ansicht etablirt, die 
+          <date when="1903" xml:id="Bae_TB_4_652">1903</date> zu machen wäre, während wir <app from="#Bae_MF_2_4798" type="equal"><rdg wit="Bae_MF_2">von Lukacs , die mit dem verhandelten Gegenstande nur indirekt zusammenhieng und nur eine Antwort auf meine und Kaizls mehrfache Andeutungen, daß der Ausgleich für Oesterreich schlecht sei, war nur desswegen aus meinen während der Verhandlung gemachten stenografischen Notizen hier reproduziert, weil sie mehr als vieles andere mir immer klarer gemacht haben, daß die Idee einer wirtschaftlichen Gemeinschaft, die doch 1867 gewiß geplant war, auf ungarischer Seite ganz entschwunden ist. Der Ausgleich ist eine wirtschaftliche Machtfrage geworden. Von einer Verfolgung gemeinschaftlicher wirtschaftlicher Ziele ist keine Rede mehr und gerade die Aufzählung Lukac z s , was er als gemeinsame Vorteile noch ansieht, zeigt am besten, daß der Gedanke eines gemeinsamen Wirtschaftsgebietes dahin ist. Daher wird in der Zukunft die bisherige Form des Ausgleiches auch nicht mehr möglich sein. Schon am Ende des ersten Tages unserer Konferenz war klar, daß es zu einer Einigung nicht kommen werde. Die Ungarn beharren auf dem bezüglich des Zoll- und Handels-Bündnisses in der angegebenen Weise modifizierten Antrag, wornach materiell der ganze neue Ausgleich zum Gegenstand einer parallelen, auf Reziprozität begründeten Regelung, in Ungarn durch Gesetz, in Oesterreich auf Grund des § 14 und zwar mit der Geltungsdauer bis 1903 zu machen wäre, während wir</rdg></app><anchor/>in derselben legistischen Form <app from="#Bae_MF_2_4845" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>für die Verlängerung des heute bestehenden Zustandes bis 
+          <date when="1902" xml:id="Bae_TB_4_653">1902</date> eintraten. Am zweiten Tage wurde noch heftig debattirt, da aber kein Theil nachgab, <app from="#Bae_MF_2_4848" type="equal"><rdg wit="Bae_MF_2">für die Verlängerung des heute bestehenden Zustandes bis 1902 eintraten. Am zweiten Tage wurde noch heftig debattiert, da aber kein Teil nachgab,</rdg></app><anchor/>war bald die Ansicht etablirt, <app from="#Bae_MF_2_4852" type="notEqual"><rdg wit="Bae_MF_2">drang bald die Ansicht durch,</rdg></app><anchor/>die 
           <index xml:id="Bae_TB_4_654">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_655">Verhandlungen</term>
             <index xml:id="Bae_TB_4_656">
@@ -907,7 +906,7 @@
               <abbr xml:id="Bae_TB_4_682">R.T.</abbr>
               <expan xml:id="Bae_TB_4_683">Reichstages</expan>
             </choice>
-          </orgName> wissen, woran er ist. Entweder müsse hüben 
+          </orgName> wissen, woran er <app from="#Bae_MF_2_4855" type="equal"><rdg wit="Bae_MF_2">die Verhandlungen abzubrechen, insbesondere als – gegen meinen Willen – Kaizl einige entgegenkommende ballon d’essais losliess, die auf ein Kompromiß hinzielten, das aber von den Ungarn vollständig ignoriert wurde. Thun resumierte geschickt die Verhandlung , bedauerte die Resultatlosigkeit, ließ durchblicken, daß, wenn in etwas von der einen Seite nachgegeben würde, die andere dann auch etwas tun könnte, bezeichnete den Termin 1903 als das Gefährlichste und meinte, daß dieser Termin in Ungarn selbst den Trennungsgelüsten nur Vorschub leisten werde. Banffy antwortet wie immer crûment, er müsse am 5. September, dem Tage des Zusammentrittes des ungarischen Reichstages wissen, woran er</rdg></app><anchor/>ist. <app from="#Bae_MF_2_4873" type="notEqual"><rdg wit="Bae_MF_2">sei.</rdg></app><anchor/>Entweder müsse hüben 
           <choice xml:id="Bae_TB_4_684">
             <abbr xml:id="Bae_TB_4_685">u.</abbr>
             <expan xml:id="Bae_TB_4_686">und</expan>
@@ -951,7 +950,7 @@
           <choice xml:id="Bae_TB_4_712">
             <abbr xml:id="Bae_TB_4_713">u.</abbr>
             <expan xml:id="Bae_TB_4_714">und</expan>
-          </choice> die rücksichtslosesten Worte gebraucht hatte, bewegte sich hier alles in den höflichsten Formen. Es wäre dies gewiss auch der Fall gewesen, vielleicht noch mehr wenn unsere Antwortnote nicht gar so zahm über die Kraftstellen der 
+          </choice> die rücksichtslosesten Worte gebraucht hatte, bewegte sich hier alles in den höflichsten Formen. <app from="#Bae_MF_2_4875" type="equal"><rdg wit="Bae_MF_2">Entweder müsse hüben und drüben der Ausgleich in wirksamer Beratung stehen oder es müsse der von ihm vorgeschlagene Ausweg in Verhandlung gezogen werden – ein Drittes gäbe es nicht für ihn, da er sonst erklären müsse, er sei nichts imstande zu machen. Der Ton der Verhandlungen und die ganze Atmosphäre war in Budapest besser als in Wien. Während Banffy in Wien aufbegehrt hatte und die rücksichtslosesten Worte gebraucht hatte, bewegte sich hier alles in den höflichsten Formen.</rdg></app><anchor/>Es wäre dies gewiss auch der Fall gewesen, vielleicht noch mehr wenn unsere Antwortnote nicht gar so zahm über die Kraftstellen der 
           <choice xml:id="Bae_TB_4_715">
             <abbr xml:id="Bae_TB_4_716">ungar.</abbr>
             <expan xml:id="Bae_TB_4_717">ungarischen</expan>
@@ -960,8 +959,8 @@
           <choice xml:id="Bae_TB_4_719">
             <abbr xml:id="Bae_TB_4_720">ungar.</abbr>
             <expan xml:id="Bae_TB_4_721">ungarischen</expan>
-          </choice> Anwürfen entgegenzutreten. Nur einmal brach 
-          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_722">Banffy</persName> durch die sachlichen Schranken der Debatte durch und 
+          </choice> Anwürfen entgegenzutreten. <app from="#Bae_MF_2_4895" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>Nur einmal <app from="#Bae_MF_2_4898" type="equal"><rdg wit="Bae_MF_2">Nur einmal</rdg></app><anchor/>brach 
+          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_722">Banffy</persName> durch die sachlichen Schranken der Debatte durch <app from="#Bae_MF_2_4901" type="notEqual"><rdg wit="Bae_MF_2">durchbrach Banffy die sachlichen Schranken der Debatte</rdg></app><anchor/>und 
           <pb facs="#F_K-4_Bae_TB_4_029" n="14v" xml:id="Bae_TB_4_723"/>
           <note type="editorial" xml:id="Bae_TB_4_724">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_4_030" n="15r" xml:id="Bae_TB_4_725"/> apostrophierte 
@@ -970,7 +969,7 @@
             <abbr xml:id="Bae_TB_4_728">u.</abbr>
             <expan xml:id="Bae_TB_4_729">und</expan>
           </choice>
-          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_730">Kaizl</persName> zu meinem grossen Vergnügen in seiner dreist lächelnden Weise indem er sagte, 
+          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_730">Kaizl</persName> <app from="#Bae_MF_2_4905" type="equal"><rdg wit="Bae_MF_2">und apostrophierte Thun und Kaizl</rdg></app><anchor/>zu meinem grossen Vergnügen <app from="#Bae_MF_2_4910" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>in seiner dreist lächelnden Weise indem er sagte, 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_4_731">Ungarn</placeName> hätte sich 
           <add place="across" xml:id="Bae_TB_4_732">bei Etablierung des Dualismus im 
             <choice xml:id="Bae_TB_4_733">
@@ -1093,13 +1092,9 @@
           </choice> deutschnationalen 
           <index xml:id="Bae_TB_4_825">
             <term key="Presse" xml:id="Bae_TB_4_826">Presse</term>
-          </index> mache es ganz unmöglich in dieser Hinsicht etwas zu thun.
+          </index> mache es ganz unmöglich in dieser Hinsicht etwas zu thun.<app from="#Bae_MF_2_4913" type="equal"><rdg wit="Bae_MF_2">in seiner dreist lächelnden Weise indem er sagte, Ungarn hätte sich bei Etablierung des Dualismus im Jahre 1867 die Verhältnisse überhaupt anders gedacht, hüben die ausgesprochene Vorherrschaft der Ungarn, drüben dieselbe Vorherrschaft der Deutschen; das sei aber in Oesterreich leider anders geworden, nur müsse er erklären, daß Ungarn sich gegen die Verpflanzung österreichischer Verhältnisse auf das entschiedenste wehren werde. Was von solchen Velleitäten als "Volkspartei" in Ungarn auftrete, sei ohnehin nur Ansteckung von Österreich, wofür der beste Beweis sei, daß Vertreter dieser Richtung in Ungarn fast nur an der österreichischen und steierischen Grenze gewählt werden. In Ungarn werde man die Nationalitäten nicht aufkommen lassen, sondern unbedingt niederhalten. Ungarn werde darin keine Schwäche zeigen, sondern rücksichtslos auftreten. Thun und Kaizl schwiegen, was noch das Vernünftigste war. Eine Konsequenz dieser seiner Anschauungen sprach Banffy allerdings nicht aus, daß Ungarn nämlich angesichts der österreichischen Verwirrungen sich auf die Trennung vorbereite. Daß die vernünftigen maßgebenden Kreise die Trennung eigentlich nicht wollen, wurde mir in dieser sowie schon in früheren Verhandlungen ebenso klar, als daß sie vor einer Trennung nicht zurückscheuen, wenn die Verwirrung in Österreich permanent werden und ein klares, stabiles Verhältniss nicht mehr herzustellen sein werde. Abends, nach dem Diner bei Féjerváry, war noch lebhafte Konversation zwischen uns und den ungarischen Ministern. Ich sprach lange mit Daranyi, der von allen ungarischen Ministern der ruhigste, schärfste und bewußteste ist und frug ihn , wieso es komme, daß in Ungarn, wie es scheine jeder Anklang an den Gedanken verschwunden sei, daß die Deutschen in Oesterreich politisch analoge Interessen verfechten wie die Magyaren in Ungarn und warum nie mehr in Ungarn der Wunsch, geschweige denn eine Aktion hervortrete zu Gunsten der Deutschen sich zu erklären oder einzuwirken. Daranyi antwortete mir darauf, mit dieser Idee sei in Ungarn nichts mehr zu machen; das fortwährende Schimpfen der Antisemiten sowie die ununterbrochenen rohen Angriffe der antisemitischen und deutschnationalen Presse mache es ganz unmöglich in dieser Hinsicht etwas zu tun.</rdg></app>
         </p>
-        <p xml:id="Bae_TB_4_827">
-          <hi rendition="#ul" xml:id="Bae_TB_4_828">7. Die Wendung in 
-            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_4_829">Wien</placeName>
-          </hi>
-        </p>
+        <p xml:id="Bae_TB_4_827"><anchor/><hi rendition="#ul" xml:id="Bae_TB_4_828">7. Die Wendung in <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_4_829">Wien</placeName></hi></p>
         <p xml:id="Bae_TB_4_830">Ueberblickt man den bisherigen Gang der 
           <index xml:id="Bae_TB_4_831">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_832">Verhandlungen</term>
@@ -1125,7 +1120,7 @@
             <abbr xml:id="Bae_TB_4_848">u.</abbr>
             <expan xml:id="Bae_TB_4_849">und</expan>
           </choice> da die 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_850">Krone</persName> nicht nur keine Pression in dieser Richtung auf sie übte, im Gegenteil den 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_850">Krone</persName> nicht nur keine Pression in dieser Richtung auf <app from="#Bae_MF_2_4991" type="equal"><rdg wit="Bae_MF_2">7. Die Wendung in Wien . – Ueberblickt man den bisherigen Gang der Verhandlungen , so ist zu konstatieren, daß die österreichische Regierung anfangs den Standpunkt einnahm , die provisorische Verlängerung des status quo als das einzig Mögliche zu verlangen und alle Anstrengungen darauf richtete, eine diesbezügliche Zusage von Ungarn zu erlangen. Ungarn verweigerte dies und da die Krone nicht nur keine Pression in dieser Richtung auf</rdg></app><anchor/>sie <app from="#Bae_MF_2_5004" type="notEqual"><rdg wit="Bae_MF_2">Ungarn</rdg></app><anchor/>übte, im Gegenteil den 
           <choice xml:id="Bae_TB_4_851">
             <abbr xml:id="Bae_TB_4_852">ungar.</abbr>
             <expan xml:id="Bae_TB_4_853">ungarischen</expan>
@@ -1232,7 +1227,7 @@
             <abbr xml:id="Bae_TB_4_926">u.</abbr>
             <expan xml:id="Bae_TB_4_927">und</expan>
           </choice> auch meiner Meinung 
-          <add rendition="across" xml:id="Bae_TB_4_928">nach</add> den dies certus an, vorläufig noch incertus quando meines Austrittes aus dem Cabinett bezeichnet. In dem Stadium der 
+          <add place="across" xml:id="Bae_TB_4_928">nach</add> den dies certus an, vorläufig noch incertus quando meines Austrittes aus dem Cabinett bezeichnet. In dem Stadium der 
           <index xml:id="Bae_TB_4_929">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_930">Verhandlungen</term>
             <index xml:id="Bae_TB_4_931">
@@ -1241,7 +1236,7 @@
           </index>, von dem ich jetzt rede, kämpfte ich so 
           <pb facs="#F_K-4_Bae_TB_4_037" n="18v" xml:id="Bae_TB_4_933"/>
           <note type="editorial" xml:id="Bae_TB_4_934">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
-          <pb facs="#F_K-4_Bae_TB_4_038" n="19r" xml:id="Bae_TB_4_935"/> gut ich konnte, von keinem anderen als von 
+          <pb facs="#F_K-4_Bae_TB_4_038" n="19r" xml:id="Bae_TB_4_935"/> gut ich konnte, von <app from="#Bae_MF_2_5007" type="equal"><rdg wit="Bae_MF_2">übte, im Gegenteil den ungarischen Standpunkt geradezu plausibel und durch die dortigen Verhältnisse gerechtfertigt fand, war die österreichische Regierung, ohne Rückhalt eines Parlamentes, gezwungen die von Ungarn vorgeschlagene Form der wirtschaftlichen Vereinbarung anzunehmen, zuzustimmen, daß in Oesterreich die Sache eventuell mit § 14 gemacht werde und selbst den Termin 1902 vorzuschlagen, um nur das Jahr 1903 nicht annehmen zu müssen. Eigentlich hielt die österreichische Regierung gegenüber den Ungarn nur noch zwei Positionen: das Verlangen nicht den neuen Ausgleich, sondern den status quo zum Inhalt der Vereinbarungen zu machen und die Möglichkeit, wenn das österreichische Parlament arbeiten würde den Ausgleich und wenn nötig ein Ausgleichsprovisorium auf parlamentarischem Wege zu machen. Die letztere Eventualität brachte ich nochmals in Erinnerung, sie wurde stets von beiden Seiten als vereinbart bezeichnet, niemand glaubte aber an den Eintritt dieses Falles. Bevor ich in meiner Erzählung weitergehe, muß ich aber andeuten, wie ich mich persönlich zu dieser Peripetie der Beschlüsse der österreichischen Regierung stellte. Sofort als die Idee auftauchte, im Notfall den Ausgleich mittelst § 14 zu machen, erklärte ich Thun, meinen Ministerkollegen und im Ministerrat, daß meine Unterschrift unter den bezüglichen Verordnungen nicht stehen werde. Anfangs etwas ungläubig aufgenommen, galt jedoch dieser mein Entschluß bald bei Allen als etwas Unabänderliches. Damit hatte ich nach der Meinung meiner Kollegen und auch meiner Meinung nach den dies certus an, vorläufig noch incertus quando meines Austrittes aus dem Kabinett bezeichnet. In dem Stadium der Verhandlungen , von dem ich jetzt rede, kämpfte ich so gut ich konnte, von</rdg></app>keinem anderen <app from="#Bae_MF_2_5055" type="notEqual"><rdg wit="Bae_MF_2">niemandem</rdg></app><anchor/>als von 
           <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_936">Welsersheimb</persName> unterstützt, für Festigkeit gegenüber den Ungarn 
           <choice xml:id="Bae_TB_4_937">
             <abbr xml:id="Bae_TB_4_938">u.</abbr>
@@ -1266,9 +1261,9 @@
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_953">Thun</persName> gegenüber so sprach, hatte er immer eine stereotype Antwort: "das kann ich dem armen 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_954">Kaiser</persName> nicht anthun, ich kann ihn in dieser schweren Zeit nicht verlassen." Dass aber umgekehrt der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_955">Kaiser</persName> bei uns deswegen zum armen 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_956">Kaiser</persName> geworden war, dass in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_957">Österreich</placeName> so selten ihm Männer mit klarer Ueberzeugung gegenübergetreten waren, bereit die Consequenzen ihrer Ueberzeugung zu ziehen, wie es die Ungarn tagtäglich machen – das liegt ganz ausserhalb des Ideenkreises jener feudalen Herren, die 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_958">Österreichs</placeName> Geschicke schon so oft bis ins Äusserste verwirrt haben, aus Dünkel 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_956">Kaiser</persName> geworden <app from="#Bae_MF_2_5058" type="equal"><rdg wit="Bae_MF_2">als von Welsersheimb unterstützt, für Festigkeit gegenüber den Ungarn und für etwas, was allerdings Thun, Kaizl und den Ministersektionschefs ganz unfaßbar war, dafür, daß auch wir wie Banffy der Krone gegenüber zu erklären hätten: wir können es so und nicht anders machen und wenn es anders gemacht werden soll, so muß es jemand anderer machen. So oft ich Thun gegenüber so sprach, hatte er immer eine stereotype Antwort: "das kann ich dem armen Kaiser nicht antun, ich kann ihn in dieser schweren Zeit nicht verlassen." Daß aber umgekehrt der Kaiser bei uns deswegen zum armen Kaiser geworden</rdg></app><anchor/>war, dass <app from="#Bae_MF_2_5069" type="notEqual"><rdg wit="Bae_MF_2">ist, weil</rdg></app><anchor/>in 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_957">Österreich</placeName> so selten ihm Männer mit klarer Ueberzeugung gegenübergetreten <app from="#Bae_MF_2_5072" type="equal"><rdg wit="Bae_MF_2">in Oesterreich so selten ihm Männer mit klarer Ueberzeugung gegenübergetreten</rdg></app><anchor/>waren, <app from="#Bae_MF_2_5076" type="notEqual"><rdg wit="Bae_MF_2">sind, </rdg></app><anchor/>bereit die Consequenzen ihrer Ueberzeugung zu ziehen, wie es die Ungarn tagtäglich machen – das liegt ganz ausserhalb des Ideenkreises jener feudalen Herren, die 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_958">Österreichs</placeName> Geschicke schon so oft bis ins Äusserste verwirrt haben, <app from="#Bae_MF_2_5079" type="equal"><rdg wit="Bae_MF_2">bereit die Konsequenzen ihrer Ueberzeugung zu ziehen, wie es die Ungarn tagtäglich machen – das liegt ganz ausserhalb des Ideenkreises jener feudalen Herren, die Oesterreichs Geschicke schon so oft bis ins Aeusserste verwirrt haben,</rdg></app>aus Dünkel 
           <choice xml:id="Bae_TB_4_959">
             <abbr xml:id="Bae_TB_4_960">u.</abbr>
             <expan xml:id="Bae_TB_4_961">und</expan>
@@ -1308,9 +1303,9 @@
             </index>
           </index>
           <hi rendition="#ul" xml:id="Bae_TB_4_988">nötige</hi> Uebergangszustand gewährt worden, den sie mit Eintritt dieses Termins weiter gestaltet hätten, wie es ihnen passt. Das wollte ich bis zum letzten Moment verhindern, dafür kämpfte ich jetzt noch in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_4_989">Wien</placeName>, leider vergebens.
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_4_989">Wien</placeName>, leider vergebens.<app from="#Bae_MF_2_5086" type="notEqual"><rdg wit="Bae_MF_2">aus Mangel an Verständnis nach unten und an Rückgrat nach oben.</rdg></app>
         </p>
-        <p xml:id="Bae_TB_4_990">Gleich nach unserer Rückkehr war 
+        <p xml:id="Bae_TB_4_990"><anchor/>Gleich nach unserer Rückkehr war 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_991">Ministerrath</orgName> am 
           <date when="1898-08-26" xml:id="Bae_TB_4_992">26.8.</date> Ich bekämpfte die 
           <choice xml:id="Bae_TB_4_993">
@@ -1324,7 +1319,7 @@
           <choice xml:id="Bae_TB_4_999">
             <abbr xml:id="Bae_TB_4_1000">M.R.</abbr>
             <expan xml:id="Bae_TB_4_1001">Ministerrats</expan>
-          </choice>Protokoll (A. XXIV). Energisch 
+          </choice>Protokoll <app from="#Bae_MF_2_5090" type="equal"><rdg wit="Bae_MF_2">Gleich nach unserer Rückkehr war Ministerrat am 26.8. Ich bekämpfte die ungarischen Propositionen auf das heftigste und formulierte auch ein ausführliches Votum für das Ministerratsprotokoll</rdg></app><anchor/>(A. XXIV)<app from="#Bae_MF_2_5095" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>. Energisch 
           <choice xml:id="Bae_TB_4_1002">
             <abbr xml:id="Bae_TB_4_1003">u.</abbr>
             <expan xml:id="Bae_TB_4_1004">und</expan>
@@ -1338,7 +1333,7 @@
           <choice xml:id="Bae_TB_4_1010">
             <abbr xml:id="Bae_TB_4_1011">u.</abbr>
             <expan xml:id="Bae_TB_4_1012">und</expan>
-          </choice> seine blinden followers noch immer nicht umzufallen sich getrauten, wiewol in ihrer Haltung schon ganz wahrnehmbar 
+          </choice> seine blinden <app from="#Bae_MF_2_5098" type="equal"><rdg wit="Bae_MF_2">Energisch und mit viel Emphase, ja Pathos unterstützte mich der allzeit brave und gerade Welsersheimb. Das machte doch soweit Eindruck, daß Thun und seine blinden</rdg></app><anchor/>followers <app from="#Bae_MF_2_5103" type="notEqual"><rdg wit="Bae_MF_2">Nachbeter</rdg></app><anchor/>noch immer nicht umzufallen sich getrauten, wiewol in ihrer Haltung schon ganz wahrnehmbar 
           <pb facs="#F_K-4_Bae_TB_4_041" n="20v" xml:id="Bae_TB_4_1013"/>
           <note type="editorial" xml:id="Bae_TB_4_1014">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_4_042" n="21r" xml:id="Bae_TB_4_1015"/> die kommende Katastrophe ihre Schatten vorauswarf. 
@@ -1357,14 +1352,7 @@
             <expan xml:id="Bae_TB_4_1027">und</expan>
           </choice>
           <persName key="LukacsLaszlo" ref="https://d-nb.info/gnd/101976869X" xml:id="Bae_TB_4_1028">Lukacs</persName>. Daneben täglich 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_1029">Ministerrath</orgName>. Wiederholt machte ich noch den Versuch meine Collegen von unheilvoller Nachgiebigkeit abzuhalten (A. XXV). Ich suchte ihnen klar zu machen, dass der für 
-          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_1030">Banffy</persName> drohende 
-          <date when="1898-09-05" xml:id="Bae_TB_4_1031">5. 
-            <choice xml:id="Bae_TB_4_1032">
-              <abbr xml:id="Bae_TB_4_1033">Septbr.</abbr>
-              <expan xml:id="Bae_TB_4_1034">September</expan>
-            </choice>
-          </date> uns ja noch nicht nötigt nachzugeben, um ihm eine glatte Situation zu machen, dass selbst wenn wir nachgeben wollen, wir Zeit dazu haben, dass wenn man verhandelt 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_1029">Ministerrath</orgName>. Wiederholt machte ich noch den Versuch meine Collegen von unheilvoller Nachgiebigkeit abzuhalten <app from="#Bae_MF_2_5106" type="equal"><rdg wit="Bae_MF_2">noch immer nicht umzufallen sich getrauten, wiewohl in ihrer Haltung schon ganz wahrnehmbar die kommende Katastrophe ihre Schatten vorauswarf. Banffy war mit Lukacs nach Wien gekommen und nun waren die Besprechungen in Permanenz, bald bei Thun zwischen Kaizl und mir, bald im Beisein von Banffy und Lukacs. Daneben täglich Ministerrat. Wiederholt machte ich noch den Versuch, meine Kollegen von unheilvoller Nachgibigkeit abzuhalten</rdg></app><anchor/>(A. XXV)<app from="#Bae_MF_2_5117" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>. Ich suchte ihnen klar zu machen, dass der <app from="#Bae_MF_2_5120" type="equal"><rdg wit="Bae_MF_2">. Ich suchte ihnen klar zu machen, daß der</rdg></app><anchor/>für <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_1030">Banffy</persName> drohende <date when="1898-09-05" xml:id="Bae_TB_4_1031">5. <choice xml:id="Bae_TB_4_1032"><abbr xml:id="Bae_TB_4_1033">Septbr.</abbr><expan xml:id="Bae_TB_4_1034">September</expan></choice></date> <app from="#Bae_MF_2_5123" type="equal"><rdg wit="Bae_MF_2">drohende 5. September für Banffy</rdg></app><anchor/>uns ja noch nicht <app from="#Bae_MF_2_5128" type="equal"><rdg wit="Bae_MF_2">uns ja noch nicht</rdg></app><anchor/>nötigt <app from="#Bae_MF_2_5131" type="noeEqual"><rdg wit="Bae_MF_2">nötige</rdg></app><anchor/>nachzugeben, um ihm eine glatte Situation zu machen, dass selbst wenn wir nachgeben wollen, wir Zeit dazu haben, dass wenn man verhandelt 
           <choice xml:id="Bae_TB_4_1035">
             <abbr xml:id="Bae_TB_4_1036">u.</abbr>
             <expan xml:id="Bae_TB_4_1037">und</expan>
@@ -1484,11 +1472,11 @@
             <index xml:id="Bae_TB_4_1122">
               <term key="Quote" xml:id="Bae_TB_4_1123"/>
             </index>
-          </index>. Äusserlich hätte sich die Sache so abzuspielen, dass – die Arbeitsunfähigkeit 
+          </index>. Äusserlich hätte sich die Sache so abzuspielen, dass – die Arbeitsunfähigkeit <app from="#Bae_MF_2_5136" type="equal"><rdg wit="Bae_MF_2">nachzugeben, um ihm eine glatte Situation zu machen, daß selbst wenn wir nachgeben wollen, wir Zeit dazu haben, daß, wenn man verhandelt und immer nachgibt, keine Resultierende herauskommt, wie es billig ist, sondern eine Kapitulation. Wieder und wieder setzte ich die Gefahr des Termins 1903 auseinander, entrollte ein vollständiges Bild der 1903 neu abzuschließenden Verträge, ließ es als fraglich erscheinen ob das Ausland sich überhaupt auf Verhandlungen wie bisher einlassen werde, wenn hier bei uns das einheitliche Zollgebiet nicht fest steht, verscheuchte die törichte, von irgend wem in die Debatte geworfene Parallelle mit den Vertrags- und Ausgleichsverhandlungen des Jahres 1878, wiederholte, daß der Termin 1903 die "freie Hand" bedeute, den Sprengstoff in unserem zukünftigen Verhältnis zu Ungarn, in dem keine Schwierigkeit mehr überwunden werden könne, wenn jeder heil die Türklinke in der Hand habe. 1903 sei nichts anderes als der Liquidationstermin und werde von niemandem als etwas anderes aufgefasst werden. Die österreichische Regierung kann nicht submittieren, weil sie die österreichischen Interessen nicht preis geben darf. Nichts verfing, trotzdem Welsersheimb wieder einsprang. Dafür hatte eine neue zersetzende Idee Eingang gefunden, die schon in Budapest gespukt hatte: die etappenweise Beratung und Sanktionierung der Ausgleichsgesetze . Da Banffy pro 1899 keinesfalls eine höhere als die bestehende Quote bewilligen wollte, so lag allerdings der Gedanke nahe, wenigstens das Hauptkompensationsobjekt, die Ueberweisungen auch so lange hinauszuschieben, bis eine höhere Quote in Wirksamkeit treten würde. Diese Zerstückelung des Ausgleiches war so gedacht, daß im Jahre 1898 nur Zoll- und Handelsbündnis (beziehungsweise sein Inhalt in der neuen Form), dann Bank und Valuta gemacht werden solle, 1899 dann die Verzehrungssteuer samt Ueberweisung unter gleichzeitiger Erhöhung der Quote . Äusserlich hätte sich die Sache so abzuspielen, daß – die Arbeitsunfähigkeit</rdg></app><anchor/>
           <choice xml:id="Bae_TB_4_1124">
             <abbr xml:id="Bae_TB_4_1125">u.</abbr>
             <expan xml:id="Bae_TB_4_1126">und</expan>
-          </choice> Verabschiedung des 
+          </choice> Verabschiedung <app from="#Bae_MF_2_5189" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>des 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1127">
             <choice xml:id="Bae_TB_4_1128">
               <abbr xml:id="Bae_TB_4_1129">öster.</abbr>
@@ -1551,7 +1539,7 @@
             <abbr xml:id="Bae_TB_4_1171">u.</abbr>
             <expan xml:id="Bae_TB_4_1172">und</expan>
           </choice>
-          <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_1173">Welsersheimb</persName> Votum – ein Beschluss zu Stande (A. XXVI.) der den 
+          <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_1173">Welsersheimb</persName> Votum – ein Beschluss zu Stande <app from="#Bae_MF_2_5192" type="equal"><rdg wit="Bae_MF_2">des österreichischen Parlamentes immer vorausgesetzt – Ungarn die Gesetze berät und beschließt und die österreichische Regierung etappenweise mit dem § 14 nachfolgt. Ich konnte mein en Kollegen nicht klar machen, in was für eine schmähliche Situation die diesseitige Regierung dabei kommen müsse, wie sie rein als die Vollzieherin der ungarischen Beschlüsse erscheinen werde. Ich brauchte den drastischen Vergleich, daß es nicht anders aussehen werde, als wenn uns von Fall zu Fall die ungarische Regierung den Stock vorhalten würde mit der Aufforderung darüberzuspringen. Thun gingen zwar nicht meine Argumente, aber doch dieser Vergleich im Kopfe herum, er suchte einen Ausweg, den er dann darin gefunden zu haben glaubte, daß die Sanktionierung der Gesetze in Ungarn am Ende des Jahres 1898 zugleich und gleichzeitig mit der Anwendung des § 14 in Oesterreich zu erfolgen hätte. Das wurde schließlich die Rückzugslinie Thuns und es kam – natürlich gegen mein und Welsersheimb Votum – ein Beschluß zustande</rdg></app><anchor/>(A. XXVI.) <app from="#Bae_MF_2_5217" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>der den 
           <choice xml:id="Bae_TB_4_1174">
             <abbr xml:id="Bae_TB_4_1175">ungar.</abbr>
             <expan xml:id="Bae_TB_4_1176">ungarischen</expan>
@@ -1628,7 +1616,7 @@
           </choice> die letztere scheint 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_1229">Thun</persName> mehr weniger bindende Zusagen gemacht zu haben 35 zu bestimmen, falls es ihrer Entscheidung anheimgestellt sein werde. Der Hinweis auf eine Umarbeitung des Bankstatuts in dem eben erwähnten Beschluss war wohl nicht mehr als ein Feigenblatt, das nur zu bald fallen sollte. 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_1230">Kaizl</persName> erzählte immer im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_1231">Ministerrat</orgName> von misterieusen Unterhandlungen zwischen ihm 
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_1231">Ministerrat</orgName> von <app from="#Bae_MF_2_5220" type="equal"><rdg wit="Bae_MF_2">, der den ungarischen Vorschlag, d.h. das heißt die Inkraftsetzung der neuen Ausgleichsvorlagen akzeptiert, aber immer noch gewisse Vorbehalte macht. In diesem Beschluß war die Zerstückelung des Ausgleichs vorgesehen, um die heutige Quote pro 1899 konzedieren zu können, es wurde pro futuro eine Quote von 35% resp. respektive 65% vorausgesetzt, es wurde eine "Umarbeitung bezüglich der Bank und mit der Bank unter billiger Bedachtnahme auf die Interessen beider Staaten" als Bedingung gesetzt und in bianco jeder Termin akzeptiert nur nicht das Jahr 1903. Immer also noch Spuren eines Widerstandes und des Bewusstseins, daß der ungarische Vorschlag einfach Unannehmbares enthalte. Die Quote mit 35% entsprach den zwischen Thun- Kaizl und den Ungarn öfter gepflogenen Unterredungen. Banffy erklärte zwar immer wieder, daß er 35% nie akzeptieren werde, ließ aber durchleuchten, daß er sich einer Entscheidung der Krone fügen werde und die letztere scheint Thun mehr weniger bindende Zusagen gemacht zu haben 35 zu bestimmen, falls es ihrer Entscheidung anheimgestellt sein werde. Der Hinweis auf eine Umarbeitung des Bankstatuts in dem eben erwähnten Beschluß war wohl nicht mehr als ein Feigenblatt, das nur zu bald fallen sollte. Kaizl erzählte immer im Ministerrat von</rdg></app><anchor/>misterieusen <app from="#Bae_MF_2_5262" type="notEqual"><rdg wit="Bae_MF_2">geheimnisvollen</rdg></app><anchor/>Unterhandlungen zwischen ihm 
           <choice xml:id="Bae_TB_4_1232">
             <abbr xml:id="Bae_TB_4_1233">u.</abbr>
             <expan xml:id="Bae_TB_4_1234">und</expan>
@@ -1679,7 +1667,7 @@
               <expan xml:id="Bae_TB_4_1271">Ministerrat</expan>
             </choice>
           </orgName> unter dem Vorsitze des 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1272">Kaisers</persName> , der über 2 Stunden dauerte 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1272">Kaisers</persName>, der über 2 Stunden dauerte 
           <choice xml:id="Bae_TB_4_1273">
             <abbr xml:id="Bae_TB_4_1274">u.</abbr>
             <expan xml:id="Bae_TB_4_1275">und</expan>
@@ -1723,7 +1711,7 @@
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1305">Kaiser</persName> lebhaft wünschte, kam es aber nicht, da 
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_1306">Banffy</persName> wieder einmal eine nicht ungeschickte Diversion machte, die ihm leider vollständig gelang. Offenbar hatten auch die Ungarn gemerkt, dass die 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1307">Krone</persName> den Termin 
-          <date when="1903" xml:id="Bae_TB_4_1308">1903</date> nicht glatt acceptiren werde, sie hatten deshalb einen § zurechtgemacht (A. XVII.), den 
+          <date when="1903" xml:id="Bae_TB_4_1308">1903</date> nicht glatt acceptiren werde, sie hatten deshalb einen § zurechtgemacht <app from="#" type="equal"><rdg wit="Bae_MF_2">Unterhandlungen zwischen ihm und Lukacz, als sei der letztere hinter dem Rücken Banffys bereit Konzessionen zu machen – immer erwies sich die Sache als fata morgana, wie ich es stets bezeichnete, denn sobald die betreffenden Dinge offiziell zur Sprache kamen, war bei Lukacs keine Spur von Nachgiebigkeit ebenso wenig wie bei Banffy. Auch bezüglich des Bankstatuts erzählte Kaizl von geheimnisvoller Geneigtheit Lukacs' und daher der Passus in dem Beschluß, mit dem sich die Regierung Ungarn gegenüber nur eine neue Niederlage holte. Nur die Bestimmung bezüglich des Termins war in dem Beschluß etwas Essentielles. Meine unablässigen Kritiken und Welsersheimbs energische Unterstützung hatten endlich beim Kaiser doch Eindruck gemacht und als Thun das merkte, wurde er in diesem Punkte stark und sprach davon, daß man nicht nachgeben dürfe, da der Kaiser auch von der Gefährlichkeit des Termins 1903 überzeugt sei u.s.w. Am 28. August trat die Krise in ihren prägnantesten Moment. Um ½1 Uhr war Ministerrat unter dem Vorsitze des Kaisers, der über 2 Stunden dauerte und dem am 30. abermals ein solcher folgte. Der Kaiser zeigte große Gewandtheit in der Leitung der Verhandlung , das Bemerkenswerteste war aber die Verschiedenheit der Haltung der beiden Ministerpräsidenten. Banffy war ganz unbefangen, sprach alles in untertänigen Ausdrücken, blieb aber in der Sache fest und wiederholte mehr als einmal, er könne es nicht anders machen, sei aber bereit , jedem anderen Platz zu machen, der es an seiner Stelle versuchen wolle. Thun dagegen war befangen, brachte nichts Gescheites heraus, als hätte ihm die Gegenwart des Kaisers Stimme und Gedanken verschlagen. Es kam mir vor, als ob der Kaiser den Ungarn gegenüber trotz ihrer freimütigen Sprache freundlicher sei als zu Thun. Nach meinem Geschmack wäre die Behandlung nicht gewesen, die er ihm angedeihen ließ. Die Debatte drehte sich um unsern letzten Ministerratsbeschluß. Kaizl und ich führten sie abwechselnd den Ungarn gegenüber. Zu einer abermaligen Diskussion des Termins 1903, auf die ich ganz besonders gefasst war und die ich vor dem Kaiser lebhaft wünschte, kam es aber nicht, da Banffy wieder einmal eine nicht ungeschickte Diversion machte, die ihm leider vollständig gelang. Offenbar hatten auch die Ungarn gemerkt, daß die Krone den Termin 1903 nicht glatt akzeptieren werde, sie hatten deshalb einen § zurechtgemacht</rdg></app><anchor/>(A. XVII.)<app from="#Bae_MF_2_5312" type="missing"><rdg wit="Bae_MF_2"></rdg></app><anchor/>, den 
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_1309">Banffy</persName> als Vermittlungsvorschlag 
           <choice xml:id="Bae_TB_4_1310">
             <abbr xml:id="Bae_TB_4_1311">u.z.</abbr>
@@ -1854,8 +1842,7 @@
             <index xml:id="Bae_TB_4_1404">
               <term key="Zollbuendnis" xml:id="Bae_TB_4_1405"/>
             </index>
-          </index> erst durch den übereinstimmenden Willen beider Staaten sistirt werden könne. 
-          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_1406">Banffy</persName> war durch diese Frage etwas verstimmt 
+          </index> erst durch den übereinstimmenden Willen beider Staaten <app from="#Bae_MF_2_5315" type="equal"><rdg wit="Bae_MF_2">den Banffy als Vermittlungsvorschlag u.z. bezeichnenderweise zuerst ungarisch mit der lächelnden Bemerkung verlas, dass Se. Seine Majestät der König ihn ja ausgezeichnet verstehen werde. Der Kaiser konversierte auch einige kurze Zeit mit den Ungarn darüber ungarisch, bis Banffy uns die ganze Idee in herzlich schlechtem Deutsch wiedergab. Die Regierungen sollten späterhin bis 1901 wegen Abschluß eines Zoll- und Handelsbündnisses und der Handelsverträge "in Verhandlung treten" – und falls bis 31.12.1903 eine definitive Regelung eines Zoll- und Handelsbündnisses nicht erzielt wäre, "bleiben in Bezug auf diese Angelegenheiten die im § 1 enthaltenen Bestimmungen bis zur weiteren Verfügung der Gesetzgebung in Kraft". Dieser § sollte in das Gesetz aufgenommen werden, dessen § 1 das Zoll- und Handelsbündnis inhaltlich bis 1903 aufrechtzuerhalten bestimmt war. Sofort erklärten wir Oesterreicher, daß dies ein novum sei, das wir nur ad referendum nehmen können und das uns auch in einer fertigen Form vorliegen müsse, um darüber urteilen zu können. Die Absicht dieses neuen ungarischen Vorschlages war übrigens sofort klar. Er sollte bei der Krone die Bedenken zerstreuen, die bezüglich des Termins 1903 vorwalteten – ohne aber die Ungarn irgendwie zu binden. Damit war der Ministerrat vorläufig zu Ende und wir kamen am folgenden Tage ( 29. August) schon um 9 Uhr bei Thun zusammen, d.h. Kaizl und ich um über die uns von den Ungarn inzwischen übergebene Formulierung der neuen Idee zu berathen. Sofort merkte ich, daß sowohl Thun als Kaizl diese Brücke benützen würden, um jeden weiteren Widerstand aufzugeben. Beide suchten mich zu kaptivieren, u.a. unter anderem damit, daß sie es als mein Verdienst anerkannten, daß die Ungarn doch Konzessionen gemacht hatten. Wir wurden durch die Ankunft Banffys und Lukac z s unterbrochen, denen gegenüber ich sofort zunächst die Tragweite der von ihnen vorgeschlagenen neuen Bestimmung festzustellen unternahm. Ich frug nämlich Banffy ob die Worte "bis zu einer weitern Verfügung der Gesetzgebung" so zu verstehen seien, daß dies eine übereinstimmende, in beiden Staaten zustande gekommene Verfügung sein müsse, so daß die Fortdauer des Zoll- und Handelsbündnisses erst durch den übereinstimmenden Willen beider Staaten</rdg></app><anchor/>sistirt werden könne. <app from="#Bae_MF_2_5371"><rdg wit="Bae_MF_2">aufhören könne.</rdg></app><anchor/><persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_1406">Banffy</persName> war durch diese Frage etwas verstimmt 
           <choice xml:id="Bae_TB_4_1407">
             <abbr xml:id="Bae_TB_4_1408">u.</abbr>
             <expan xml:id="Bae_TB_4_1409">und</expan>
