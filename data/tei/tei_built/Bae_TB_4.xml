@@ -2464,7 +2464,8 @@
           <anchor xml:id="Bae_TB_4_8303"/>Ministersektionschefs 
           <app from="#Bae_MF_2_5534" type="notEqual" xml:id="Bae_TB_4_8304">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8305">andern Minister</rdg>
-          </app><anchor/>schwiegen teils, teils machten sie 
+          </app>
+          <anchor xml:id="Bae_TB_4_8511"/>schwiegen teils, teils machten sie 
           <add place="across" xml:id="Bae_TB_4_1614">wie 
             <choice xml:id="Bae_TB_4_1615">
               <abbr xml:id="Bae_TB_4_1616">z.B.</abbr>
@@ -2500,7 +2501,10 @@
         <p xml:id="Bae_TB_4_1631">Tags darauf, am 
           <date when="1898-08-30" xml:id="Bae_TB_4_1632">30. August</date> war um 2 Uhr 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_1633">Ministerrat</orgName> unter dem Vorsitz des 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1634">Kaisers</persName>. Es galt nur <app from="#Bae_MF_2_5549" type="equal"><rdg wit="Bae_MF_2">In demselben erörterte ich auch meine persönliche Stellung im Kabinett. Mein Austritt war nach der Abstimmung nur eine Frage der Zeit geworden. Tags darauf, am 30. August war um 2 Uhr Ministerrat unter dem Vorsitz des Kaisers. Es galt nur</rdg></app> 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1634">Kaisers</persName>. Es galt nur 
+          <app from="#Bae_MF_2_5549" type="equal" xml:id="Bae_TB_4_8512">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8513">In demselben erörterte ich auch meine persönliche Stellung im Kabinett. Mein Austritt war nach der Abstimmung nur eine Frage der Zeit geworden. Tags darauf, am 30. August war um 2 Uhr Ministerrat unter dem Vorsitz des Kaisers. Es galt nur</rdg>
+          </app>
         </p>
         <anchor xml:id="Bae_TB_4_1635"/>
         <app from="#Bae_TB_4_1644" type="insertion" xml:id="Bae_TB_4_1636">
@@ -2516,7 +2520,8 @@
         </app>
         <!-- DC: hier her Zeitungsausschnitt fol. fol. 35v, 36v, 37v -->
         <pb facs="#F_K-4_Bae_TB_4_071" n="35v" xml:id="Bae_TB_4_1645"/>
-         <anchor/><addSpan spanTo="#Bae_TB_4_1769" xml:id="Bae_TB_4_1644"/>
+        <anchor xml:id="Bae_TB_4_8514"/>
+        <addSpan spanTo="#Bae_TB_4_1769" xml:id="Bae_TB_4_1644"/>
         <p xml:id="Bae_TB_4_1646">Die 
           <index xml:id="Bae_TB_4_1647">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_1648">Ausgleichsverhandlungen</term>
@@ -2692,10 +2697,14 @@
             </index>
           </index> als einer bilateralen, vertragsartigen und für eine genau bestimmte längere Zeit giltigen Regelung aufrechtzuerhalten, veranlaßte die österreichische Regierung zu dem Entschlusse, an den 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1768">Reichsrath</orgName> noch einmal zu appell- 
-        <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app></p>
+          <app from="#" type="missing" xml:id="Bae_TB_4_8515">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8516"/>
+          </app>
+        </p>
         <anchor xml:id="Bae_TB_4_1769"/>
         <!-- CA: anchor für den addspan fol. _35v -->
-        <anchor/><p xml:id="Bae_TB_4_1770">
+        <anchor xml:id="Bae_TB_4_8517"/>
+        <p xml:id="Bae_TB_4_1770">
           <pb facs="#F_K-4_Bae_TB_4_072" n="36r" xml:id="Bae_TB_4_1771"/>noch der Constatierung des geschlossenen Uebereinkommens 
           <choice xml:id="Bae_TB_4_1772">
             <abbr xml:id="Bae_TB_4_1773">u.</abbr>
@@ -2758,11 +2767,15 @@
           <choice xml:id="Bae_TB_4_1813">
             <abbr xml:id="Bae_TB_4_1814">u.</abbr>
             <expan xml:id="Bae_TB_4_1815">und</expan>
-          </choice> Finalisirung <app from="#" type="equal"><rdg wit="Bae_MF_2">noch der Konstatierung des geschlossenen Uebereinkommens und gewissen Nebenpunkten. Ich hielt mich selbstverständlich ganz reserviert, da ich vor den Ungarn meinen Dissens doch nicht hervortreten lassen konnte, doch wohnte ich dem Ministerrat bei und zwar auf ausdrücklichen Wunsch des Kaisers. Kaizl verlas eine Art Protokoll über die vereinbarten Punkte, was zu einiger Besprechung Anlaß gab. Eine Differenz der Anschauungen trat nicht hervor. Eine längere Debatte wurde über den Einberufungstermin des Reichsrates gefürt. Ungarn wollte einen frühern Termin als den 26. September, Thun erklärte jedoch, ein früherer sei untunlich und so blieb es beim 26. September. Kaizl hatte auch schon ein Communiqué mit den Ungarn besprochen und verfasst, in welchem die Tatsache des geschlossenen Uebereinkommens nicht nur angedeutet war, sondern in welchem die beiden Regierungen verlockt ihre starke Position zu zeigen, sich in die Karten sehen ließen. Es wurde verkündet, daß die Regierungen für die Fortdauer des wirtschaftlichen Verhältnisses auch für den Fall Vorsorge getroffen hätten, als die rechtzeitige parlamentarische Verhandlung und Finalisierung</rdg></app>
+          </choice> Finalisirung 
+          <app from="#" type="equal" xml:id="Bae_TB_4_8518">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8519">noch der Konstatierung des geschlossenen Uebereinkommens und gewissen Nebenpunkten. Ich hielt mich selbstverständlich ganz reserviert, da ich vor den Ungarn meinen Dissens doch nicht hervortreten lassen konnte, doch wohnte ich dem Ministerrat bei und zwar auf ausdrücklichen Wunsch des Kaisers. Kaizl verlas eine Art Protokoll über die vereinbarten Punkte, was zu einiger Besprechung Anlaß gab. Eine Differenz der Anschauungen trat nicht hervor. Eine längere Debatte wurde über den Einberufungstermin des Reichsrates gefürt. Ungarn wollte einen frühern Termin als den 26. September, Thun erklärte jedoch, ein früherer sei untunlich und so blieb es beim 26. September. Kaizl hatte auch schon ein Communiqué mit den Ungarn besprochen und verfasst, in welchem die Tatsache des geschlossenen Uebereinkommens nicht nur angedeutet war, sondern in welchem die beiden Regierungen verlockt ihre starke Position zu zeigen, sich in die Karten sehen ließen. Es wurde verkündet, daß die Regierungen für die Fortdauer des wirtschaftlichen Verhältnisses auch für den Fall Vorsorge getroffen hätten, als die rechtzeitige parlamentarische Verhandlung und Finalisierung</rdg>
+          </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_073" n="36v" xml:id="Bae_TB_4_1816"/>
         <addSpan spanTo="#Bae_TB_4_1907" xml:id="Bae_TB_4_1817"/>
-        <anchor/><p xml:id="Bae_TB_4_1818">iren und ihn zu einer beschleunigten Inangriffnahme der parlamentarischen Behandlung des 
+        <anchor xml:id="Bae_TB_4_8520"/>
+        <p xml:id="Bae_TB_4_1818">iren und ihn zu einer beschleunigten Inangriffnahme der parlamentarischen Behandlung des 
           <index xml:id="Bae_TB_4_1819">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_1820">Ausgleiches</term>
             <index xml:id="Bae_TB_4_1821">
@@ -2894,12 +2907,16 @@
             <index xml:id="Bae_TB_4_1905">
               <term key="Regierung" xml:id="Bae_TB_4_1906"/>
             </index>
-          </index> schon vorher jene Principien vereinbart, nach welchen sie dann vorzugehen gesonnen ist.<app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app> 
+          </index> schon vorher jene Principien vereinbart, nach welchen sie dann vorzugehen gesonnen ist.
+          <app from="#" type="missing" xml:id="Bae_TB_4_8521">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8522"/>
+          </app>
         </p>
         <anchor xml:id="Bae_TB_4_1907"/>
         <!-- CA: anchor für addspan 36v -->
         <pb facs="#F_K-4_Bae_TB_4_074" n="37r" xml:id="Bae_TB_4_1908"/>
-        <anchor/><p xml:id="Bae_TB_4_1909">auf Schwierigkeiten stossen würde. Dabei hatte man damals natürlich nur das 
+        <anchor xml:id="Bae_TB_4_8523"/>
+        <p xml:id="Bae_TB_4_1909">auf Schwierigkeiten stossen würde. Dabei hatte man damals natürlich nur das 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1910">
             <choice xml:id="Bae_TB_4_1911">
               <abbr xml:id="Bae_TB_4_1912">öster.</abbr>
@@ -2935,10 +2952,15 @@
           <date when="1866" xml:id="Bae_TB_4_1931">1866</date> in 
           <placeName key="Heidelberg" ref="https://www.geonames.org/2907911/heidelberg.html" xml:id="Bae_TB_4_1932">Heidelberg</placeName> war, machte das süddeutsche Corps, das unter 
           <persName key="HessenAlexander" ref="https://d-nb.info/gnd/117760951" xml:id="Bae_TB_4_1933">Alexander von Hessen</persName> gegen die Preussen 
-          <add place="across" xml:id="Bae_TB_4_1934">stand</add> auch ein Umgehungsmanöver. Damals kam ein Theil der Corpsartillerie <app from="#Bae_MF_2_5585" type="missing"><rdg wit="Bae_MF_2"></rdg></app>        </p>
+          <add place="across" xml:id="Bae_TB_4_1934">stand</add> auch ein Umgehungsmanöver. Damals kam ein Theil der Corpsartillerie 
+          <app from="#Bae_MF_2_5585" type="missing" xml:id="Bae_TB_4_8524">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8525"/>
+          </app>
+        </p>
         <pb facs="#F_K-4_Bae_TB_4_075" n="37v" xml:id="Bae_TB_4_1935"/>
         <addSpan spanTo="#Bae_TB_4_1992" xml:id="Bae_TB_4_1936"/>
-        <anchor/><p xml:id="Bae_TB_4_1937">Die 
+        <anchor xml:id="Bae_TB_4_8526"/>
+        <p xml:id="Bae_TB_4_1937">Die 
           <orgName key="BudapesterCorrespondenz" xml:id="Bae_TB_4_1938">"Budapester Correspondenz"</orgName> meldet aus 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_4_1939">Wien</placeName>: Wie verlautet, wird die 
           <index xml:id="Bae_TB_4_1940">
@@ -3013,12 +3035,16 @@
           </index> bringen das officielle Communiqué ohne jede Bemerkung. 
         </p>
         <p xml:id="Bae_TB_4_1990">Wie aus dem oppositionellen Lager verlautet, wird sich die Opposition mit diesem Resultate nicht zufrieden geben, sondern zu Beginn der parlamentarischen Berathungen von der Regierung energisch ein Actionsprogramm fordern. Die Regierung wird, wie bestimmt angenommen wird, dieses Programm nicht entwickeln, sondern darauf hinweisen, daß man nun erst das Vorgehen des 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1991">österreichischen Parlamentes</orgName> abwarten müsse, und eine weitere Erklärung für spätere Zeit in Aussicht stellen.<app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1991">österreichischen Parlamentes</orgName> abwarten müsse, und eine weitere Erklärung für spätere Zeit in Aussicht stellen.
+          <app from="#" type="missing" xml:id="Bae_TB_4_8527">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8528"/>
+          </app>
         </p>
         <anchor xml:id="Bae_TB_4_1992"/>
         <!-- CA: anchor für addspan 37v -->
         <pb facs="#F_K-4_Bae_TB_4_076" n="38r" xml:id="Bae_TB_4_1993"/>
-        <anchor/><p xml:id="Bae_TB_4_1994">durch 
+        <anchor xml:id="Bae_TB_4_8529"/>
+        <p xml:id="Bae_TB_4_1994">durch 
           <placeName key="Heidelberg" ref="https://www.geonames.org/2907911/heidelberg.html" xml:id="Bae_TB_4_1995">Heidelberg</placeName>
           <choice xml:id="Bae_TB_4_1996">
             <abbr xml:id="Bae_TB_4_1997">u.</abbr>
@@ -3378,10 +3404,16 @@
           <choice xml:id="Bae_TB_4_2226">
             <abbr xml:id="Bae_TB_4_2227">u.</abbr>
             <expan xml:id="Bae_TB_4_2228">und</expan>
-          </choice> da ein solches Votum natürlich sehr nebensächlich ausfiel, so schlossen sie ihre Reden mit der stereotypen Redensart: "was die hochpolitische Seite der Frage anbelangt, will ich als Laie nicht urteilen", <app from="#Bae_MF_2_5729" type="equal"><rdg wit="Bae_MF_2">erklärte sich offen in politischen Dingen als Laie. Er u. Ruber votierten öfters im M.R. über die wichtigsten polit. Fragen "vom Standpunkt des Ressorts" u. da ein solches Votum natürlich sehr nebensächlich ausfiel, so schlossen sie ihre Reden mit der stereotypen Redensart: "was die hochpolitische Seite der Frage anbelangt, will ich als Laie nicht urteilen",</rdg></app></p>
+          </choice> da ein solches Votum natürlich sehr nebensächlich ausfiel, so schlossen sie ihre Reden mit der stereotypen Redensart: "was die hochpolitische Seite der Frage anbelangt, will ich als Laie nicht urteilen", 
+          <app from="#Bae_MF_2_5729" type="equal" xml:id="Bae_TB_4_8530">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8531">erklärte sich offen in politischen Dingen als Laie. Er u. Ruber votierten öfters im M.R. über die wichtigsten polit. Fragen "vom Standpunkt des Ressorts" u. da ein solches Votum natürlich sehr nebensächlich ausfiel, so schlossen sie ihre Reden mit der stereotypen Redensart: "was die hochpolitische Seite der Frage anbelangt, will ich als Laie nicht urteilen",</rdg>
+          </app>
+        </p>
         <pb facs="#F_K-4_Bae_TB_4_083" n="41v" xml:id="Bae_TB_4_2229"/>
         <addSpan spanTo="#Bae_TB_4_2253" type="insertion" xml:id="Bae_TB_4_2230"/>
-        <anchor/><p xml:id="Bae_TB_4_2231"><anchor/>Votum des 
+        <anchor xml:id="Bae_TB_4_8532"/>
+        <p xml:id="Bae_TB_4_2231">
+          <anchor xml:id="Bae_TB_4_8533"/>Votum des 
           <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_2232">Landesverteidigungsministers Grafen Welsersheim</persName> im 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_2233">Ministerrat</orgName>
         </p>
@@ -3410,12 +3442,16 @@
           <choice xml:id="Bae_TB_4_2250">
             <abbr xml:id="Bae_TB_4_2251">u.</abbr>
             <expan xml:id="Bae_TB_4_2252">und</expan>
-          </choice> das Anzeichen schon erkennbar geworden sind, dass die Belastungsprobe für die Gefühle der Deutschen nicht nur vom <app from="#Bae_MF_2_5787" type="equal"><rdg>Votum des Landesverteidigungsministers Grafen Welsersheimb im Ministerrate vom 20. Februar 1897.Votum des Landesverteidigungsministers Grafen Welsersheim im Ministerrat vom 20. Februar 1897. "Das Zurückgehen der Pflege der deutschen Sprache im öffentlichen Leben, in Amt und Schule, hat schon vor mehr als einem Jahrzehnt den damaligen Kriegsminister veranlasst, patriotischen Besorgnissen öffentlichen Ausdruck zu geben, wo dieser Rückgang noch nicht annähernd so weitgehend sich äusserte, wie dies nun inszeniert werden soll. Durch die Verordnungen, wie sie entworfen sind, wird möglicherweise den Deutschen in Böhmen, welche sich in den Schutz des Sprachgebietes zurückgezogen haben, dieses letzte Retranchement definitiv zerstört und der Krieg aufs Messer erklärt. Man darf nicht ausser Acht lassen, dass seit 37 Jahren alle sogenannten Ausgleiche, Vergleiche, Kompromisse – allerdings wesentlich unter Mitwirkung der Deutschen selbst – auf Kosten des Deutschtums in der Monarchie erfolgt sind und dass Anzeichen schon erkennbar geworden sind, daß die Belastungsprobe für die Gefühle der Deutschen nicht nur vom</rdg></app>
+          </choice> das Anzeichen schon erkennbar geworden sind, dass die Belastungsprobe für die Gefühle der Deutschen nicht nur vom 
+          <app from="#Bae_MF_2_5787" type="equal" xml:id="Bae_TB_4_8534">
+            <rdg xml:id="Bae_TB_4_8535">Votum des Landesverteidigungsministers Grafen Welsersheimb im Ministerrate vom 20. Februar 1897.Votum des Landesverteidigungsministers Grafen Welsersheim im Ministerrat vom 20. Februar 1897. "Das Zurückgehen der Pflege der deutschen Sprache im öffentlichen Leben, in Amt und Schule, hat schon vor mehr als einem Jahrzehnt den damaligen Kriegsminister veranlasst, patriotischen Besorgnissen öffentlichen Ausdruck zu geben, wo dieser Rückgang noch nicht annähernd so weitgehend sich äusserte, wie dies nun inszeniert werden soll. Durch die Verordnungen, wie sie entworfen sind, wird möglicherweise den Deutschen in Böhmen, welche sich in den Schutz des Sprachgebietes zurückgezogen haben, dieses letzte Retranchement definitiv zerstört und der Krieg aufs Messer erklärt. Man darf nicht ausser Acht lassen, dass seit 37 Jahren alle sogenannten Ausgleiche, Vergleiche, Kompromisse – allerdings wesentlich unter Mitwirkung der Deutschen selbst – auf Kosten des Deutschtums in der Monarchie erfolgt sind und dass Anzeichen schon erkennbar geworden sind, daß die Belastungsprobe für die Gefühle der Deutschen nicht nur vom</rdg>
+          </app>
         </p>
         <anchor xml:id="Bae_TB_4_2253"/>
         <!-- CA: anchor für den addspan 41v -->
         <pb facs="#F_K-4_Bae_TB_4_084" n="42r" xml:id="Bae_TB_4_2254"/>
-       <anchor/><p xml:id="Bae_TB_4_2255">oder "will ich den Herrn Politikern in unserem Kreise nicht vorgreifen" oder dergleichen. 
+        <anchor xml:id="Bae_TB_4_8536"/>
+        <p xml:id="Bae_TB_4_2255">oder "will ich den Herrn Politikern in unserem Kreise nicht vorgreifen" oder dergleichen. 
           <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_TB_4_2256">Bylant</persName> war in den ersten Wochen des Ministeriums im 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_2257">
             <choice xml:id="Bae_TB_4_2258">
@@ -3507,11 +3543,15 @@
             <abbr xml:id="Bae_TB_4_2312">Septbr.</abbr>
             <expan xml:id="Bae_TB_4_2313">September</expan>
           </choice> unhaltbar geworden wäre, wenn nicht in den wichtigsten Fragen 
-          <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_2314">Welsersheim</persName>, <app from="#Bae_MF_2_5759" type="equal"><rdg wit="Bae_MF_2">Ich bemühte mich Bylant, Wittek, Ruber durch Besuche und Besprechungen der politischen Lage wenn nicht zu meinen Ansichten zu bekehren, so doch zu einer selbständigen politischen Haltung zu bewegen, die mir im Ministerrat wenigstens einige Chancen geboten hätte. Vergebens. Gegen das Ende meiner Ministerschaft war es, als Wittek einem meiner Freunde – ich weiß mich nicht mehr zu erinnern wem – die Frage stellte: "nicht wahr der Baernreither ist doch unter uns der staatsmännische Kopf?" – es aber selbst zu sein, war gar nicht die Ambition dieses Herrn. Eine einzige Ausnahme machte Welsersheimb, freilich eine solche die mir praktisch nichts nützte. Sein Standpunkt war: jederzeit seine politische Meinung sagen, aber als General und vom Kaiser bestellt, die Landwehr unter allen Verhältnissen treu zu verwalten - nie eine Konsequenz aus dieser Meinung zu ziehen. So wertlos mir daher seine mit den meinen übereinstimmenden Ansichten für die praktische Entscheidung der politischen Fragen waren, so unschätzbar war mir seine Unterstützung und stets bewiesene Freundschaft für meine moralische Stellung im Kabinett, die schon vor Ende September unhaltbar geworden wäre, wenn nicht in den wichtigsten Fragen Welsersheimb,</rdg></app>
+          <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_2314">Welsersheim</persName>, 
+          <app from="#Bae_MF_2_5759" type="equal" xml:id="Bae_TB_4_8537">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8538">Ich bemühte mich Bylant, Wittek, Ruber durch Besuche und Besprechungen der politischen Lage wenn nicht zu meinen Ansichten zu bekehren, so doch zu einer selbständigen politischen Haltung zu bewegen, die mir im Ministerrat wenigstens einige Chancen geboten hätte. Vergebens. Gegen das Ende meiner Ministerschaft war es, als Wittek einem meiner Freunde – ich weiß mich nicht mehr zu erinnern wem – die Frage stellte: "nicht wahr der Baernreither ist doch unter uns der staatsmännische Kopf?" – es aber selbst zu sein, war gar nicht die Ambition dieses Herrn. Eine einzige Ausnahme machte Welsersheimb, freilich eine solche die mir praktisch nichts nützte. Sein Standpunkt war: jederzeit seine politische Meinung sagen, aber als General und vom Kaiser bestellt, die Landwehr unter allen Verhältnissen treu zu verwalten - nie eine Konsequenz aus dieser Meinung zu ziehen. So wertlos mir daher seine mit den meinen übereinstimmenden Ansichten für die praktische Entscheidung der politischen Fragen waren, so unschätzbar war mir seine Unterstützung und stets bewiesene Freundschaft für meine moralische Stellung im Kabinett, die schon vor Ende September unhaltbar geworden wäre, wenn nicht in den wichtigsten Fragen Welsersheimb,</rdg>
+          </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_085" n="42v" xml:id="Bae_TB_4_2315"/>
         <addSpan spanTo="#Bae_TB_4_2333" type="insertion" xml:id="Bae_TB_4_2316"/>
-        <anchor/><p xml:id="Bae_TB_4_2317">specifisch deutsch-nationalen, sondern vom Standpunkte des gesamten Österreichertums an die Grenze der Tragfähigkeit 
+        <anchor xml:id="Bae_TB_4_8539"/>
+        <p xml:id="Bae_TB_4_2317">specifisch deutsch-nationalen, sondern vom Standpunkte des gesamten Österreichertums an die Grenze der Tragfähigkeit 
           <choice xml:id="Bae_TB_4_2318">
             <abbr xml:id="Bae_TB_4_2319">u.</abbr>
             <expan xml:id="Bae_TB_4_2320">und</expan>
@@ -3531,12 +3571,16 @@
           <choice xml:id="Bae_TB_4_2330">
             <abbr xml:id="Bae_TB_4_2331">u.</abbr>
             <expan xml:id="Bae_TB_4_2332">und</expan>
-          </choice> die Wirksamkeit der Armee nicht ohne Rückwirkung bleiben würde. <app from="#" type="equal"><rdg wit="Bae_MF_2">spezifisch deutsch-nationalen, sondern vom Standpunkte des gesamten Oesterreichertums an die Grenze der Tragfähigkeit und Willigkeit angelangt ist. Die Armee bildet wie die gesamte Monarchie ein Konglomerat von vielen Nationalitäten, deren Kitt einmal historisch durch die Deutschen gebildet worden ist. Es mag der politischen Erwägung von anderer Seite überlassen werden, ob es riskiert werden soll, das mehr oder weniger wesentliche Deutschtum in Oesterreich zur äussersten Opposition zu provozieren, ob die damit verbundenen Schäden und Gefahren nicht den möglichen Gewinn weit übersteigen, ob dieser Gewinn ein so hoher ist, uns mit unwiderbringlichen Preisgebungen zu debutieren, ob solche auch zur Erreichung des konkreten Zieles wirklich notwendig wären. Das Bedenken darf aber vom militärischen Standpunkt nicht unterdrückt werden, daß eine Austreibung des deutschen Elementes aus der willigen Mitwirkung an der Regierung Oesterreichs auch auf den Zusammenhalt, den Geist und die Wirksamkeit der Armee nicht ohne Rückwirkung bleiben würde."</rdg></app>
+          </choice> die Wirksamkeit der Armee nicht ohne Rückwirkung bleiben würde. 
+          <app from="#" type="equal" xml:id="Bae_TB_4_8540">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8541">spezifisch deutsch-nationalen, sondern vom Standpunkte des gesamten Oesterreichertums an die Grenze der Tragfähigkeit und Willigkeit angelangt ist. Die Armee bildet wie die gesamte Monarchie ein Konglomerat von vielen Nationalitäten, deren Kitt einmal historisch durch die Deutschen gebildet worden ist. Es mag der politischen Erwägung von anderer Seite überlassen werden, ob es riskiert werden soll, das mehr oder weniger wesentliche Deutschtum in Oesterreich zur äussersten Opposition zu provozieren, ob die damit verbundenen Schäden und Gefahren nicht den möglichen Gewinn weit übersteigen, ob dieser Gewinn ein so hoher ist, uns mit unwiderbringlichen Preisgebungen zu debutieren, ob solche auch zur Erreichung des konkreten Zieles wirklich notwendig wären. Das Bedenken darf aber vom militärischen Standpunkt nicht unterdrückt werden, daß eine Austreibung des deutschen Elementes aus der willigen Mitwirkung an der Regierung Oesterreichs auch auf den Zusammenhalt, den Geist und die Wirksamkeit der Armee nicht ohne Rückwirkung bleiben würde."</rdg>
+          </app>
         </p>
         <anchor xml:id="Bae_TB_4_2333"/>
         <!-- CA: anchor für den addspan 42v -->
         <pb facs="#F_K-4_Bae_TB_4_086" n="43r" xml:id="Bae_TB_4_2334"/>
-        <anchor/><p xml:id="Bae_TB_4_2335">der Vertreter der Armee 
+        <anchor xml:id="Bae_TB_4_8542"/>
+        <p xml:id="Bae_TB_4_2335">der Vertreter der Armee 
           <choice xml:id="Bae_TB_4_2336">
             <abbr xml:id="Bae_TB_4_2337">u.</abbr>
             <expan xml:id="Bae_TB_4_2338">und</expan>
@@ -3640,11 +3684,16 @@
             <abbr xml:id="Bae_TB_4_2395">u.</abbr>
             <expan xml:id="Bae_TB_4_2396">und</expan>
           </choice> wenn kein anderer Grund angegeben wurde, so war es der Schutz eines grossen Ressorts im deutschen Interesse. Die Politiker im 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_2397">Parlament</orgName> hatten dafür gar keinen Sinn, ja sie suchten nicht einmal durch mich Informationen zu erhalten, was dafür sprechen könnte, dass sie von meiner Capacität sehr wenig hielten, was aber seinen letzten Grund <app from="#" type="equal"><rdg wit="Bae_TB_4">sich und entschlüpften mehr oder weniger höflich. Wenn ich auf meinen vielen Informationsreisen mit deutschen Politikern zusammenkam, wurde meine Stellung noch eher verstanden, immer als äusserst schwierig bezeichnet, aber immer wurde ich aufgefordert, so lange es irgend gehe zu bleiben und wenn kein anderer Grund angegeben wurde, so war es der Schutz eines grossen Ressorts im deutschen Interesse. Die Politiker im Parlament hatten dafür gar keinen Sinn, ja sie suchten nicht einmal durch mich Informationen zu erhalten, was dafür sprechen könnte, dass sie von meiner Kapazität sehr wenig hielten, was aber seinen letzten Grund</rdg></app>
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_2397">Parlament</orgName> hatten dafür gar keinen Sinn, ja sie suchten nicht einmal durch mich Informationen zu erhalten, was dafür sprechen könnte, dass sie von meiner Capacität sehr wenig hielten, was aber seinen letzten Grund 
+          <app from="#" type="equal" xml:id="Bae_TB_4_8543">
+            <rdg wit="Bae_TB_4" xml:id="Bae_TB_4_8544">sich und entschlüpften mehr oder weniger höflich. Wenn ich auf meinen vielen Informationsreisen mit deutschen Politikern zusammenkam, wurde meine Stellung noch eher verstanden, immer als äusserst schwierig bezeichnet, aber immer wurde ich aufgefordert, so lange es irgend gehe zu bleiben und wenn kein anderer Grund angegeben wurde, so war es der Schutz eines grossen Ressorts im deutschen Interesse. Die Politiker im Parlament hatten dafür gar keinen Sinn, ja sie suchten nicht einmal durch mich Informationen zu erhalten, was dafür sprechen könnte, dass sie von meiner Kapazität sehr wenig hielten, was aber seinen letzten Grund</rdg>
+          </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_087" n="43v" xml:id="Bae_TB_4_2398"/>
         <addSpan spanTo="#Bae_TB_4_2430" type="insertion" xml:id="Bae_TB_4_2399"/>
-        <anchor xml:id="Bae_TB_4_8380"/><p xml:id="Bae_TB_4_2400">Unter Fürung <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_4_2401">Schwegel's</persName> und 
+        <anchor xml:id="Bae_TB_4_8380"/>
+        <p xml:id="Bae_TB_4_2400">Unter Fürung 
+          <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_4_2401">Schwegel's</persName> und 
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_4_2402">Stürgkh's</persName> schickten sich nämlich die 
           <index xml:id="Bae_TB_4_2403">
             <term key="Parteien" xml:id="Bae_TB_4_2404">deutschen Parteien</term>
@@ -3708,7 +3757,8 @@
         <anchor xml:id="Bae_TB_4_2430"/>
         <!-- CA: anchor für addspan fol 43v -->
         <pb facs="#F_K-4_Bae_TB_4_088" n="44r" xml:id="Bae_TB_4_2431"/>
-        <anchor/><p xml:id="Bae_TB_4_2432">in dem in den 
+        <anchor xml:id="Bae_TB_4_8545"/>
+        <p xml:id="Bae_TB_4_2432">in dem in den 
           <index xml:id="Bae_TB_4_2433">
             <term key="Parteien" xml:id="Bae_TB_4_2434">deutschen Parteien</term>
             <index xml:id="Bae_TB_4_2435">
@@ -4301,7 +4351,10 @@
           <app from="#Bae_MF_2_5999" type="notEqual" xml:id="Bae_TB_4_8425">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8426">sei es gegangen</rdg>
           </app>
-          <anchor xml:id="Bae_TB_4_8427"/>jetzt würde entweder <app from="#Bae_MF_2_6002" type="equal"><rdg wit="Bae_MF_2">jetzt würde entweder</rdg></app>
+          <anchor xml:id="Bae_TB_4_8427"/>jetzt würde entweder 
+          <app from="#Bae_MF_2_6002" type="equal" xml:id="Bae_TB_4_8546">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8547">jetzt würde entweder</rdg>
+          </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_095" n="47v" xml:id="Bae_TB_4_2829"/>
         <addSpan spanTo="#Bae_TB_4_2903" type="insertion" xml:id="Bae_TB_4_2830"/>
@@ -4415,7 +4468,8 @@
         <anchor xml:id="Bae_TB_4_2903"/>
         <!-- CA: anchor für den addspan 47v -->
         <pb facs="#F_K-4_Bae_TB_4_096" n="48r" xml:id="Bae_TB_4_2904"/>
-        <anchor/><p xml:id="Bae_TB_4_2905">aus diesem Vermittler ein Zwischenträger werden, 
+        <anchor xml:id="Bae_TB_4_8548"/>
+        <p xml:id="Bae_TB_4_2905">aus diesem Vermittler ein Zwischenträger werden, 
           <app from="#" type="equal" xml:id="Bae_TB_4_8431">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8432">aus diesem Vermittler ein Zwischenträger werden</rdg>
           </app>
@@ -4791,7 +4845,10 @@
           <choice xml:id="Bae_TB_4_3151">
             <abbr xml:id="Bae_TB_4_3152">u.</abbr>
             <expan xml:id="Bae_TB_4_3153">und</expan>
-          </choice> unaufrichtigsten Höflichkeiten sagte. <app from="#Bae_MF_2_6096" type="equal"><rdg wit="Bae_MF_2">die in Kürze zwingend werden musste, nicht Zeit ließ, sich zu entwickeln, sondern das Praevenire spielte. Auch der Kaiser wollte anfangs nicht einsehen, warum ich gehe. Bevor meine Demission nicht angenommen war, suchte ich keine Audienz beim Kaiser an, kaum hatte ich sie erhalten, so meldete ich mich und bekam sofort eine Stunde. Ich sagte meinen Dank für die Enthebung, die allerdings in sehr kühlen Ausdrücken abgefasst war und bat um die Erlaubnis, die Gründe meiner Demission auseinandersetzen zu dürfen. Ich tat es so kurz und prägnant, als die Sache erlaubte, worauf der Kaiser erwiderte: "das ist etwas anderes, jetzt begreife ich es" – sofort wendete er sich aber mit der Frage an mich, die er im Laufe des längeren Gespräches noch zweimal an mich richtete: "der Großgrundbesitz hat eine große Verantwortung auf sich geladen, meint er es mit der Verhandlung des Ausgleiches auch aufrichtig?" – was ich bejahte, nicht ohne hinzuzufügen, daß für die andern deutschen Fraktionen die Verantwortung zu übernehmen ich nicht imstande sei. Einige Tage später erfuhr ich, daß der Kaiser zuerst sehr ungehalten über meine Demission gewesen sei und sich geäussert habe: er ist mein Minister und hat sich nicht nach seinen Parteifreunden zu richten – nach meiner Audienz aber gesagt habe: er hat es mir erklärt und er ist sehr loyal vorgegangen. Von Thun und meinen Kollegen schied ich im besten Einvernehmen. Am 4. Oktober war ich noch mit ihnen in der Stephanskirche im Hochamt, da meine Demission damals noch nicht angenommen war. Thun gab mir zu Ehren ein Abschiedsdiner, bei dem ich seine Gattin zu Tisch führte, also Ehrengast war. Er trank sogar auf mich und wir – d.h. alle ehemaligen Kollegen von mir – blieben bis spät bei ihm, als ob nichts vorgefallen wäre. Damals war ich geneigt, seine chevalereske Haltung aber zu überschätzen. Später, im Hause, begegnete er mir so kühl, daß ich es vermied mit ihm zusammenzukommen. Jetzt, im Dezember, geht er noch einen Schritt weiter und sagt, ich hätte ihm und seinen guten Absichten gegen über den Deutschen durch meinen Austritt so sehr geschadet! In jenen Demissionstagen war zwischen mir und Thun nicht die Rede von meinem Nachfolger; doch entnahm ich aus Aeusserungen, daß er erwäge Weigelsperg eventuell mit der Leitung betrauen zu lassen. Aber sofort war auch schon der Name Dipauli im Vordergrund. Ich begegnete seinem Träger auch schon auf der Treppe des Ministeriums des Innern, wo er mir die schönsten und unaufrichtigsten Höflichkeiten sagte.</rdg></app> 
+          </choice> unaufrichtigsten Höflichkeiten sagte. 
+          <app from="#Bae_MF_2_6096" type="equal" xml:id="Bae_TB_4_8549">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8550">die in Kürze zwingend werden musste, nicht Zeit ließ, sich zu entwickeln, sondern das Praevenire spielte. Auch der Kaiser wollte anfangs nicht einsehen, warum ich gehe. Bevor meine Demission nicht angenommen war, suchte ich keine Audienz beim Kaiser an, kaum hatte ich sie erhalten, so meldete ich mich und bekam sofort eine Stunde. Ich sagte meinen Dank für die Enthebung, die allerdings in sehr kühlen Ausdrücken abgefasst war und bat um die Erlaubnis, die Gründe meiner Demission auseinandersetzen zu dürfen. Ich tat es so kurz und prägnant, als die Sache erlaubte, worauf der Kaiser erwiderte: "das ist etwas anderes, jetzt begreife ich es" – sofort wendete er sich aber mit der Frage an mich, die er im Laufe des längeren Gespräches noch zweimal an mich richtete: "der Großgrundbesitz hat eine große Verantwortung auf sich geladen, meint er es mit der Verhandlung des Ausgleiches auch aufrichtig?" – was ich bejahte, nicht ohne hinzuzufügen, daß für die andern deutschen Fraktionen die Verantwortung zu übernehmen ich nicht imstande sei. Einige Tage später erfuhr ich, daß der Kaiser zuerst sehr ungehalten über meine Demission gewesen sei und sich geäussert habe: er ist mein Minister und hat sich nicht nach seinen Parteifreunden zu richten – nach meiner Audienz aber gesagt habe: er hat es mir erklärt und er ist sehr loyal vorgegangen. Von Thun und meinen Kollegen schied ich im besten Einvernehmen. Am 4. Oktober war ich noch mit ihnen in der Stephanskirche im Hochamt, da meine Demission damals noch nicht angenommen war. Thun gab mir zu Ehren ein Abschiedsdiner, bei dem ich seine Gattin zu Tisch führte, also Ehrengast war. Er trank sogar auf mich und wir – d.h. alle ehemaligen Kollegen von mir – blieben bis spät bei ihm, als ob nichts vorgefallen wäre. Damals war ich geneigt, seine chevalereske Haltung aber zu überschätzen. Später, im Hause, begegnete er mir so kühl, daß ich es vermied mit ihm zusammenzukommen. Jetzt, im Dezember, geht er noch einen Schritt weiter und sagt, ich hätte ihm und seinen guten Absichten gegen über den Deutschen durch meinen Austritt so sehr geschadet! In jenen Demissionstagen war zwischen mir und Thun nicht die Rede von meinem Nachfolger; doch entnahm ich aus Aeusserungen, daß er erwäge Weigelsperg eventuell mit der Leitung betrauen zu lassen. Aber sofort war auch schon der Name Dipauli im Vordergrund. Ich begegnete seinem Träger auch schon auf der Treppe des Ministeriums des Innern, wo er mir die schönsten und unaufrichtigsten Höflichkeiten sagte.</rdg>
+          </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_101" n="50v" xml:id="Bae_TB_4_3154"/>
         <addSpan spanTo="#Bae_TB_4_3159" type="insertion" xml:id="Bae_TB_4_3155"/>
@@ -4801,11 +4858,16 @@
           <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_4_3158">Macchiavelli</persName>, Il Principe c. XXIII. 
           <app from="#Bae_MF_2_6204" type="missing" xml:id="Bae_TB_4_8461">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8462"/>
-          </app></p>
+          </app>
+        </p>
         <anchor xml:id="Bae_TB_4_3159"/>
         <!-- CA. anchor für den addspan 50v -->
         <pb facs="#F_K-4_Bae_TB_4_102" n="51r" xml:id="Bae_TB_4_3160"/>
-        <anchor/><p xml:id="Bae_TB_4_3161">Die letzte Episode war meine Beeidigung als geheimer Rath, welche Würde uns Vieren (<persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_3162">Kaizl</persName>, <persName key="JedrzejowiczAdam" ref="https://d-nb.info/gnd/101288158X" xml:id="Bae_TB_4_3163">Jędrzejowicz</persName>, <persName key="KastMichael" ref="https://d-nb.info/gnd/1013102916" xml:id="Bae_TB_4_3164">Kast</persName>
+        <anchor xml:id="Bae_TB_4_8551"/>
+        <p xml:id="Bae_TB_4_3161">Die letzte Episode war meine Beeidigung als geheimer Rath, welche Würde uns Vieren (
+          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_3162">Kaizl</persName>, 
+          <persName key="JedrzejowiczAdam" ref="https://d-nb.info/gnd/101288158X" xml:id="Bae_TB_4_3163">Jędrzejowicz</persName>, 
+          <persName key="KastMichael" ref="https://d-nb.info/gnd/1013102916" xml:id="Bae_TB_4_3164">Kast</persName>
           <choice xml:id="Bae_TB_4_3165">
             <abbr xml:id="Bae_TB_4_3166">u.</abbr>
             <expan xml:id="Bae_TB_4_3167">und</expan>
@@ -4843,7 +4905,8 @@
           <persName key="AbenspergTraunHugo" ref="https://d-nb.info/gnd/143410067" xml:id="Bae_TB_4_3190">Hugo Traun</persName>. Auf seinen Ausdruck des Bedauerns wegen meines Ausscheidens meinte ich: es sei nicht anders möglich gewesen, worauf er 
           <app from="#" type="equal" xml:id="Bae_TB_4_8463">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8464">Die letzte Episode war meine Beeidigung als Geheimer Rath, welche Würde uns vieren (Kaizl, Jędrzcejowicz, Kasl und mir) vom Kaiser knapp vor Eröffnung des Reichsrates verliehen worden war. Nachher hatten wir einer nach dem andern Audienz. Abermals sprach der Kaiser vom Ausgleich und der Notwendigkeit, demselben keine Schwierigkeiten zu machen. Daß ich abends nach Italien fahren wollte, wußte er bereits und frug mich wohin nach Italien. In der antecamera sprach ich noch mit Hugo Traun. Auf seinen Ausdruck des Bedauerns wegen meines Ausscheidens meinte ich: es sei nicht anders möglich gewesen, worauf er</rdg>
-          </app><anchor/>wieder: 
+          </app>
+          <anchor xml:id="Bae_TB_4_8552"/>wieder: 
           <app from="#Bae_MF_2_6187" type="notEqual" xml:id="Bae_TB_4_8465">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8466">erwiderte:</rdg>
           </app>
@@ -5993,8 +6056,8 @@
           <choice xml:id="Bae_TB_4_4054">
             <abbr xml:id="Bae_TB_4_4055">u.</abbr>
             <expan xml:id="Bae_TB_4_4056">und</expan>
-          </choice> Arbeit der gemässigten unter uns erschwere.
-        </p>  
+          </choice> Arbeit der gemässigten unter uns erschwere. 
+        </p>
         <pb facs="#F_K-4_Bae_TB_4_127" n="63v" xml:id="Bae_TB_4_4057"/>
         <addSpan spanTo="#Bae_TB_4_4106" type="insertion" xml:id="Bae_TB_4_4058"/>
         <p xml:id="Bae_TB_4_4059">
