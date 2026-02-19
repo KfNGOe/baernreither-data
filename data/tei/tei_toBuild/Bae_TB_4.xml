@@ -261,7 +261,7 @@
           </app>
           <anchor xml:id="Bae_TB_4_8076"/>
           <date when="1898-08-10" xml:id="Bae_TB_4_175">10. 
-            <app from="#" type="notEqual" xml:id="Bae_TB_4_8077">
+            <app from="#Bae_MF_2_5601" type="notEqual" xml:id="Bae_TB_4_8077">
               <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8078">18.</rdg>
             </app>
             <anchor xml:id="Bae_TB_4_8079"/>8. 
@@ -1985,7 +1985,7 @@
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_4_1306">Banffy</persName> wieder einmal eine nicht ungeschickte Diversion machte, die ihm leider vollständig gelang. Offenbar hatten auch die Ungarn gemerkt, dass die 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1307">Krone</persName> den Termin 
           <date when="1903" xml:id="Bae_TB_4_1308">1903</date> nicht glatt acceptiren werde, sie hatten deshalb einen § zurechtgemacht 
-          <app from="#" type="equal" xml:id="Bae_TB_4_8247">
+          <app from="#Bae_MF_2_5603" type="equal" xml:id="Bae_TB_4_8247">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8248">Unterhandlungen zwischen ihm und Lukacz, als sei der letztere hinter dem Rücken Banffys bereit Konzessionen zu machen – immer erwies sich die Sache als fata morgana, wie ich es stets bezeichnete, denn sobald die betreffenden Dinge offiziell zur Sprache kamen, war bei Lukacs keine Spur von Nachgiebigkeit ebenso wenig wie bei Banffy. Auch bezüglich des Bankstatuts erzählte Kaizl von geheimnisvoller Geneigtheit Lukacs' und daher der Passus in dem Beschluß, mit dem sich die Regierung Ungarn gegenüber nur eine neue Niederlage holte. Nur die Bestimmung bezüglich des Termins war in dem Beschluß etwas Essentielles. Meine unablässigen Kritiken und Welsersheimbs energische Unterstützung hatten endlich beim Kaiser doch Eindruck gemacht und als Thun das merkte, wurde er in diesem Punkte stark und sprach davon, daß man nicht nachgeben dürfe, da der Kaiser auch von der Gefährlichkeit des Termins 1903 überzeugt sei u.s.w. Am 28. August trat die Krise in ihren prägnantesten Moment. Um ½1 Uhr war Ministerrat unter dem Vorsitze des Kaisers, der über 2 Stunden dauerte und dem am 30. abermals ein solcher folgte. Der Kaiser zeigte große Gewandtheit in der Leitung der Verhandlung , das Bemerkenswerteste war aber die Verschiedenheit der Haltung der beiden Ministerpräsidenten. Banffy war ganz unbefangen, sprach alles in untertänigen Ausdrücken, blieb aber in der Sache fest und wiederholte mehr als einmal, er könne es nicht anders machen, sei aber bereit , jedem anderen Platz zu machen, der es an seiner Stelle versuchen wolle. Thun dagegen war befangen, brachte nichts Gescheites heraus, als hätte ihm die Gegenwart des Kaisers Stimme und Gedanken verschlagen. Es kam mir vor, als ob der Kaiser den Ungarn gegenüber trotz ihrer freimütigen Sprache freundlicher sei als zu Thun. Nach meinem Geschmack wäre die Behandlung nicht gewesen, die er ihm angedeihen ließ. Die Debatte drehte sich um unsern letzten Ministerratsbeschluß. Kaizl und ich führten sie abwechselnd den Ungarn gegenüber. Zu einer abermaligen Diskussion des Termins 1903, auf die ich ganz besonders gefasst war und die ich vor dem Kaiser lebhaft wünschte, kam es aber nicht, da Banffy wieder einmal eine nicht ungeschickte Diversion machte, die ihm leider vollständig gelang. Offenbar hatten auch die Ungarn gemerkt, daß die Krone den Termin 1903 nicht glatt akzeptieren werde, sie hatten deshalb einen § zurechtgemacht</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8249"/>(A. XVII.) 
@@ -2464,7 +2464,7 @@
           <anchor xml:id="Bae_TB_4_8303"/>Ministersektionschefs 
           <app from="#Bae_MF_2_5534" type="notEqual" xml:id="Bae_TB_4_8304">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8305">andern Minister</rdg>
-          </app>schwiegen teils, teils machten sie 
+          </app><anchor/>schwiegen teils, teils machten sie 
           <add place="across" xml:id="Bae_TB_4_1614">wie 
             <choice xml:id="Bae_TB_4_1615">
               <abbr xml:id="Bae_TB_4_1616">z.B.</abbr>
@@ -2500,23 +2500,23 @@
         <p xml:id="Bae_TB_4_1631">Tags darauf, am 
           <date when="1898-08-30" xml:id="Bae_TB_4_1632">30. August</date> war um 2 Uhr 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_1633">Ministerrat</orgName> unter dem Vorsitz des 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1634">Kaisers</persName>. Es galt nur 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1634">Kaisers</persName>. Es galt nur <app from="#Bae_MF_2_5549" type="equal"><rdg wit="Bae_MF_2">In demselben erörterte ich auch meine persönliche Stellung im Kabinett. Mein Austritt war nach der Abstimmung nur eine Frage der Zeit geworden. Tags darauf, am 30. August war um 2 Uhr Ministerrat unter dem Vorsitz des Kaisers. Es galt nur</rdg></app> 
         </p>
         <anchor xml:id="Bae_TB_4_1635"/>
-        <app from="_35v" type="insertion" xml:id="Bae_TB_4_1636">
+        <app from="#Bae_TB_4_1644" type="insertion" xml:id="Bae_TB_4_1636">
           <rdg xml:id="Bae_TB_4_1637">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_1638"/>
-        <app from="_36v" type="insertion" xml:id="Bae_TB_4_1639">
+        <app from="#Bae_TB_4_1817" type="insertion" xml:id="Bae_TB_4_1639">
           <rdg xml:id="Bae_TB_4_1640">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_1641"/>
-        <app from="_37v" type="insertion" xml:id="Bae_TB_4_1642">
+        <app from="Bae_TB_4_1936" type="insertion" xml:id="Bae_TB_4_1642">
           <rdg xml:id="Bae_TB_4_1643">[...]</rdg>
         </app>
         <!-- DC: hier her Zeitungsausschnitt fol. fol. 35v, 36v, 37v -->
-        <addSpan spanTo="#35v" xml:id="Bae_TB_4_1644"/>
         <pb facs="#F_K-4_Bae_TB_4_071" n="35v" xml:id="Bae_TB_4_1645"/>
+         <anchor/><addSpan spanTo="#Bae_TB_4_1769" xml:id="Bae_TB_4_1644"/>
         <p xml:id="Bae_TB_4_1646">Die 
           <index xml:id="Bae_TB_4_1647">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_1648">Ausgleichsverhandlungen</term>
@@ -2692,10 +2692,10 @@
             </index>
           </index> als einer bilateralen, vertragsartigen und für eine genau bestimmte längere Zeit giltigen Regelung aufrechtzuerhalten, veranlaßte die österreichische Regierung zu dem Entschlusse, an den 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1768">Reichsrath</orgName> noch einmal zu appell- 
-        </p>
+        <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app></p>
         <anchor xml:id="Bae_TB_4_1769"/>
         <!-- CA: anchor für den addspan fol. _35v -->
-        <p xml:id="Bae_TB_4_1770">
+        <anchor/><p xml:id="Bae_TB_4_1770">
           <pb facs="#F_K-4_Bae_TB_4_072" n="36r" xml:id="Bae_TB_4_1771"/>noch der Constatierung des geschlossenen Uebereinkommens 
           <choice xml:id="Bae_TB_4_1772">
             <abbr xml:id="Bae_TB_4_1773">u.</abbr>
@@ -2758,11 +2758,11 @@
           <choice xml:id="Bae_TB_4_1813">
             <abbr xml:id="Bae_TB_4_1814">u.</abbr>
             <expan xml:id="Bae_TB_4_1815">und</expan>
-          </choice> Finalisirung 
+          </choice> Finalisirung <app from="#" type="equal"><rdg wit="Bae_MF_2">noch der Konstatierung des geschlossenen Uebereinkommens und gewissen Nebenpunkten. Ich hielt mich selbstverständlich ganz reserviert, da ich vor den Ungarn meinen Dissens doch nicht hervortreten lassen konnte, doch wohnte ich dem Ministerrat bei und zwar auf ausdrücklichen Wunsch des Kaisers. Kaizl verlas eine Art Protokoll über die vereinbarten Punkte, was zu einiger Besprechung Anlaß gab. Eine Differenz der Anschauungen trat nicht hervor. Eine längere Debatte wurde über den Einberufungstermin des Reichsrates gefürt. Ungarn wollte einen frühern Termin als den 26. September, Thun erklärte jedoch, ein früherer sei untunlich und so blieb es beim 26. September. Kaizl hatte auch schon ein Communiqué mit den Ungarn besprochen und verfasst, in welchem die Tatsache des geschlossenen Uebereinkommens nicht nur angedeutet war, sondern in welchem die beiden Regierungen verlockt ihre starke Position zu zeigen, sich in die Karten sehen ließen. Es wurde verkündet, daß die Regierungen für die Fortdauer des wirtschaftlichen Verhältnisses auch für den Fall Vorsorge getroffen hätten, als die rechtzeitige parlamentarische Verhandlung und Finalisierung</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_073" n="36v" xml:id="Bae_TB_4_1816"/>
-        <addSpan spanTo="#_036v" xml:id="Bae_TB_4_1817"/>
-        <p xml:id="Bae_TB_4_1818">iren und ihn zu einer beschleunigten Inangriffnahme der parlamentarischen Behandlung des 
+        <addSpan spanTo="#Bae_TB_4_1907" xml:id="Bae_TB_4_1817"/>
+        <anchor/><p xml:id="Bae_TB_4_1818">iren und ihn zu einer beschleunigten Inangriffnahme der parlamentarischen Behandlung des 
           <index xml:id="Bae_TB_4_1819">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_1820">Ausgleiches</term>
             <index xml:id="Bae_TB_4_1821">
@@ -2894,12 +2894,12 @@
             <index xml:id="Bae_TB_4_1905">
               <term key="Regierung" xml:id="Bae_TB_4_1906"/>
             </index>
-          </index> schon vorher jene Principien vereinbart, nach welchen sie dann vorzugehen gesonnen ist. 
+          </index> schon vorher jene Principien vereinbart, nach welchen sie dann vorzugehen gesonnen ist.<app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app> 
         </p>
         <anchor xml:id="Bae_TB_4_1907"/>
         <!-- CA: anchor für addspan 36v -->
         <pb facs="#F_K-4_Bae_TB_4_074" n="37r" xml:id="Bae_TB_4_1908"/>
-        <p xml:id="Bae_TB_4_1909">auf Schwierigkeiten stossen würde. Dabei hatte man damals natürlich nur das 
+        <anchor/><p xml:id="Bae_TB_4_1909">auf Schwierigkeiten stossen würde. Dabei hatte man damals natürlich nur das 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1910">
             <choice xml:id="Bae_TB_4_1911">
               <abbr xml:id="Bae_TB_4_1912">öster.</abbr>
@@ -2924,8 +2924,8 @@
               <expan xml:id="Bae_TB_4_1926">österreichischen</expan>
             </choice> Parlamente 
           </orgName> zu umgehen, man dies doch nicht signalisire – aber ich fühlte mich nicht verpflichtet an der Ausfürung eines Beschlusses mitzuwirken, den ich für ein Unglück hielt. 
-          <app from="#Bae_MF_2_5549" type="equal" xml:id="Bae_TB_4_8312">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8313">In demselben erörterte ich auch meine persönliche Stellung im Kabinett. Mein Austritt war nach der Abstimmung nur eine Frage der Zeit geworden. Tags darauf, am 30. August war um 2 Uhr Ministerrat unter dem Vorsitz des Kaisers. Es galt nur noch der Konstatierung des geschlossenen Uebereinkommens und gewissen Nebenpunkten. Ich hielt mich selbstverständlich ganz reserviert, da ich vor den Ungarn meinen Dissens doch nicht hervortreten lassen konnte, doch wohnte ich dem Ministerrat bei und zwar auf ausdrücklichen Wunsch des Kaisers. Kaizl verlas eine Art Protokoll über die vereinbarten Punkte, was zu einiger Besprechung Anlaß gab. Eine Differenz der Anschauungen trat nicht hervor. Eine längere Debatte wurde über den Einberufungstermin des Reichsrates gefürt. Ungarn wollte einen frühern Termin als den 26. September, Thun erklärte jedoch, ein früherer sei untunlich und so blieb es beim 26. September. Kaizl hatte auch schon ein Communiqué mit den Ungarn besprochen und verfasst, in welchem die Tatsache des geschlossenen Uebereinkommens nicht nur angedeutet war, sondern in welchem die beiden Regierungen verlockt ihre starke Position zu zeigen, sich in die Karten sehen ließen. Es wurde verkündet, daß die Regierungen für die Fortdauer des wirtschaftlichen Verhältnisses auch für den Fall Vorsorge getroffen hätten, als die rechtzeitige parlamentarische Verhandlung und Finalisierung auf Schwierigkeiten stoßen würde. Dabei hatte man damals natürlich nur das österreichische Parlament im Auge. Besonders pointirt wurde diese Erklärung durch den Satz: "Für alle Fälle sind die Regierungen gerüstet." Besonders über den letzten Satz drückte der Kaiser seine Befriedigung aus, das punctum saliens aber, die Frage ob es politisch sei, sich derartig in die Karten sehen zu lassen, erörterte niemand. Mir brannte das Wort auf der Zunge, daß, wenn man schon im Begriff sei, eine feindliche Position, d.h. das heißt die Obstruktion im österreichischen Parlamente zu umgehen, man dies doch nicht signalisiere – aber ich fühlte mich nicht verpflichtet an der Ausführung eines Beschlusses mitzuwirken, den ich für ein Unglück hielt.</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_4_8312">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8313">auf Schwierigkeiten stoßen würde. Dabei hatte man damals natürlich nur das österreichische Parlament im Auge. Besonders pointirt wurde diese Erklärung durch den Satz: "Für alle Fälle sind die Regierungen gerüstet." Besonders über den letzten Satz drückte der Kaiser seine Befriedigung aus, das punctum saliens aber, die Frage ob es politisch sei, sich derartig in die Karten sehen zu lassen, erörterte niemand. Mir brannte das Wort auf der Zunge, daß, wenn man schon im Begriff sei, eine feindliche Position, d.h. das heißt die Obstruktion im österreichischen Parlamente zu umgehen, man dies doch nicht signalisiere – aber ich fühlte mich nicht verpflichtet an der Ausführung eines Beschlusses mitzuwirken, den ich für ein Unglück hielt.</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8314"/>Gerade vor mir hing in dem Beratungszimmer des 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1927">Kaisers</persName> das prachtvolle Bild von 
@@ -2935,11 +2935,10 @@
           <date when="1866" xml:id="Bae_TB_4_1931">1866</date> in 
           <placeName key="Heidelberg" ref="https://www.geonames.org/2907911/heidelberg.html" xml:id="Bae_TB_4_1932">Heidelberg</placeName> war, machte das süddeutsche Corps, das unter 
           <persName key="HessenAlexander" ref="https://d-nb.info/gnd/117760951" xml:id="Bae_TB_4_1933">Alexander von Hessen</persName> gegen die Preussen 
-          <add place="across" xml:id="Bae_TB_4_1934">stand</add> auch ein Umgehungsmanöver. Damals kam ein Theil der Corpsartillerie 
-        </p>
+          <add place="across" xml:id="Bae_TB_4_1934">stand</add> auch ein Umgehungsmanöver. Damals kam ein Theil der Corpsartillerie <app from="#Bae_MF_2_5585" type="missing"><rdg wit="Bae_MF_2"></rdg></app>        </p>
         <pb facs="#F_K-4_Bae_TB_4_075" n="37v" xml:id="Bae_TB_4_1935"/>
         <addSpan spanTo="#Bae_TB_4_1992" xml:id="Bae_TB_4_1936"/>
-        <p xml:id="Bae_TB_4_1937">Die 
+        <anchor/><p xml:id="Bae_TB_4_1937">Die 
           <orgName key="BudapesterCorrespondenz" xml:id="Bae_TB_4_1938">"Budapester Correspondenz"</orgName> meldet aus 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_4_1939">Wien</placeName>: Wie verlautet, wird die 
           <index xml:id="Bae_TB_4_1940">
@@ -3014,12 +3013,12 @@
           </index> bringen das officielle Communiqué ohne jede Bemerkung. 
         </p>
         <p xml:id="Bae_TB_4_1990">Wie aus dem oppositionellen Lager verlautet, wird sich die Opposition mit diesem Resultate nicht zufrieden geben, sondern zu Beginn der parlamentarischen Berathungen von der Regierung energisch ein Actionsprogramm fordern. Die Regierung wird, wie bestimmt angenommen wird, dieses Programm nicht entwickeln, sondern darauf hinweisen, daß man nun erst das Vorgehen des 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1991">österreichischen Parlamentes</orgName> abwarten müsse, und eine weitere Erklärung für spätere Zeit in Aussicht stellen. 
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_1991">österreichischen Parlamentes</orgName> abwarten müsse, und eine weitere Erklärung für spätere Zeit in Aussicht stellen.<app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_4_1992"/>
         <!-- CA: anchor für addspan 37v -->
         <pb facs="#F_K-4_Bae_TB_4_076" n="38r" xml:id="Bae_TB_4_1993"/>
-        <p xml:id="Bae_TB_4_1994">durch 
+        <anchor/><p xml:id="Bae_TB_4_1994">durch 
           <placeName key="Heidelberg" ref="https://www.geonames.org/2907911/heidelberg.html" xml:id="Bae_TB_4_1995">Heidelberg</placeName>
           <choice xml:id="Bae_TB_4_1996">
             <abbr xml:id="Bae_TB_4_1997">u.</abbr>
@@ -3032,7 +3031,7 @@
             <expan xml:id="Bae_TB_4_2003">und</expan>
           </choice>
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_2004">Kaizl</persName> mit zur Schau getragenem Siegesgefül. 
-          <app from="Bae_MF_2_5585" type="missing" xml:id="Bae_TB_4_8315">
+          <app from="#" type="missing" xml:id="Bae_TB_4_8315">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8316"/>
           </app>
         </p>
@@ -3063,7 +3062,7 @@
             <abbr xml:id="Bae_TB_4_2021">öster.</abbr>
             <expan xml:id="Bae_TB_4_2022">österreichischen</expan>
           </choice> Regierung fixirt 
-          <app from="#" type="equal" xml:id="Bae_TB_4_8318">
+          <app from="#Bae_MF_2_6318" type="equal" xml:id="Bae_TB_4_8318">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8319">Das Ergebnis der Verhandlungen wurde durch einen Notenwechsel zwischen der ungarischen und österreichischen Regierung fixiert.</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8320"/>(A. XXIX. A. XXX). 
@@ -3379,11 +3378,10 @@
           <choice xml:id="Bae_TB_4_2226">
             <abbr xml:id="Bae_TB_4_2227">u.</abbr>
             <expan xml:id="Bae_TB_4_2228">und</expan>
-          </choice> da ein solches Votum natürlich sehr nebensächlich ausfiel, so schlossen sie ihre Reden mit der stereotypen Redensart: "was die hochpolitische Seite der Frage anbelangt, will ich als Laie nicht urteilen", 
-        </p>
+          </choice> da ein solches Votum natürlich sehr nebensächlich ausfiel, so schlossen sie ihre Reden mit der stereotypen Redensart: "was die hochpolitische Seite der Frage anbelangt, will ich als Laie nicht urteilen", <app from="#Bae_MF_2_5729" type="equal"><rdg wit="Bae_MF_2">erklärte sich offen in politischen Dingen als Laie. Er u. Ruber votierten öfters im M.R. über die wichtigsten polit. Fragen "vom Standpunkt des Ressorts" u. da ein solches Votum natürlich sehr nebensächlich ausfiel, so schlossen sie ihre Reden mit der stereotypen Redensart: "was die hochpolitische Seite der Frage anbelangt, will ich als Laie nicht urteilen",</rdg></app></p>
         <pb facs="#F_K-4_Bae_TB_4_083" n="41v" xml:id="Bae_TB_4_2229"/>
         <addSpan spanTo="#Bae_TB_4_2253" type="insertion" xml:id="Bae_TB_4_2230"/>
-        <p xml:id="Bae_TB_4_2231">Votum des 
+        <anchor/><p xml:id="Bae_TB_4_2231"><anchor/>Votum des 
           <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_2232">Landesverteidigungsministers Grafen Welsersheim</persName> im 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_2233">Ministerrat</orgName>
         </p>
@@ -3412,12 +3410,12 @@
           <choice xml:id="Bae_TB_4_2250">
             <abbr xml:id="Bae_TB_4_2251">u.</abbr>
             <expan xml:id="Bae_TB_4_2252">und</expan>
-          </choice> das Anzeichen schon erkennbar geworden sind, dass die Belastungsprobe für die Gefühle der Deutschen nicht nur vom 
+          </choice> das Anzeichen schon erkennbar geworden sind, dass die Belastungsprobe für die Gefühle der Deutschen nicht nur vom <app from="#Bae_MF_2_5787" type="equal"><rdg>Votum des Landesverteidigungsministers Grafen Welsersheimb im Ministerrate vom 20. Februar 1897.Votum des Landesverteidigungsministers Grafen Welsersheim im Ministerrat vom 20. Februar 1897. "Das Zurückgehen der Pflege der deutschen Sprache im öffentlichen Leben, in Amt und Schule, hat schon vor mehr als einem Jahrzehnt den damaligen Kriegsminister veranlasst, patriotischen Besorgnissen öffentlichen Ausdruck zu geben, wo dieser Rückgang noch nicht annähernd so weitgehend sich äusserte, wie dies nun inszeniert werden soll. Durch die Verordnungen, wie sie entworfen sind, wird möglicherweise den Deutschen in Böhmen, welche sich in den Schutz des Sprachgebietes zurückgezogen haben, dieses letzte Retranchement definitiv zerstört und der Krieg aufs Messer erklärt. Man darf nicht ausser Acht lassen, dass seit 37 Jahren alle sogenannten Ausgleiche, Vergleiche, Kompromisse – allerdings wesentlich unter Mitwirkung der Deutschen selbst – auf Kosten des Deutschtums in der Monarchie erfolgt sind und dass Anzeichen schon erkennbar geworden sind, daß die Belastungsprobe für die Gefühle der Deutschen nicht nur vom</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_4_2253"/>
         <!-- CA: anchor für den addspan 41v -->
         <pb facs="#F_K-4_Bae_TB_4_084" n="42r" xml:id="Bae_TB_4_2254"/>
-        <p xml:id="Bae_TB_4_2255">oder "will ich den Herrn Politikern in unserem Kreise nicht vorgreifen" oder dergleichen. 
+       <anchor/><p xml:id="Bae_TB_4_2255">oder "will ich den Herrn Politikern in unserem Kreise nicht vorgreifen" oder dergleichen. 
           <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_TB_4_2256">Bylant</persName> war in den ersten Wochen des Ministeriums im 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_2257">
             <choice xml:id="Bae_TB_4_2258">
@@ -3428,8 +3426,8 @@
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_2261">Thun</persName>, was 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_2262">Kaizl</persName> einmal mir gegenüber zu der Äusserung veranlasste: "der 
           <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_TB_4_2263">Bylant</persName> stimmt immer gegen seine Ueberzeugung." Von 
-          <app from="#Bae_MF_2_5729" type="equal" xml:id="Bae_TB_4_8354">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8355">erklärte sich offen in politischen Dingen als Laie. Er und Ruber votierten öfters im Ministerrat über die wichtigsten politischen Fragen "vom Standpunkt des Ressorts" und da ein solches Votum natürlich sehr nebensächlich ausfiel, so schlossen sie ihre Reden mit der stereotypen Redensart: "was die hochpolitische Seite der Frage anbelangt, will ich als Laie nicht urteilen", oder "will ich den Herren Politikern in unserem Kreise nicht vorgreifen" oder dergleichen. Bylandt war in den ersten Wochen des Ministeriums im Ministerrat sehr gesprächig, dozierend, besonders mir gegenüber. Als aber die schweren politischen Fragen kamen, schwieg er. Manchmal kam er aber noch mit seiner Meinung heraus, die wenn auch sehr konservativ, im ganzen altösterreichisch war, - aber wenn es zur Abstimmung kam, stimmte er blind mit Thun, was Kaizl einmal mir gegenüber zu der Aeusserung veranlasste: "der Bylandt stimmt immer gegen seine Ueberzeugung." Von</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_4_8354">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8355">oder "will ich den Herren Politikern in unserem Kreise nicht vorgreifen" oder dergleichen. Bylandt war in den ersten Wochen des Ministeriums im Ministerrat sehr gesprächig, dozierend, besonders mir gegenüber. Als aber die schweren politischen Fragen kamen, schwieg er. Manchmal kam er aber noch mit seiner Meinung heraus, die wenn auch sehr konservativ, im ganzen altösterreichisch war, - aber wenn es zur Abstimmung kam, stimmte er blind mit Thun, was Kaizl einmal mir gegenüber zu der Aeusserung veranlasste: "der Bylandt stimmt immer gegen seine Ueberzeugung." Von</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8508"/>
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_2264">Kaizl</persName>
@@ -3509,11 +3507,11 @@
             <abbr xml:id="Bae_TB_4_2312">Septbr.</abbr>
             <expan xml:id="Bae_TB_4_2313">September</expan>
           </choice> unhaltbar geworden wäre, wenn nicht in den wichtigsten Fragen 
-          <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_2314">Welsersheim</persName>, 
+          <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_4_2314">Welsersheim</persName>, <app from="#Bae_MF_2_5759" type="equal"><rdg wit="Bae_MF_2">Ich bemühte mich Bylant, Wittek, Ruber durch Besuche und Besprechungen der politischen Lage wenn nicht zu meinen Ansichten zu bekehren, so doch zu einer selbständigen politischen Haltung zu bewegen, die mir im Ministerrat wenigstens einige Chancen geboten hätte. Vergebens. Gegen das Ende meiner Ministerschaft war es, als Wittek einem meiner Freunde – ich weiß mich nicht mehr zu erinnern wem – die Frage stellte: "nicht wahr der Baernreither ist doch unter uns der staatsmännische Kopf?" – es aber selbst zu sein, war gar nicht die Ambition dieses Herrn. Eine einzige Ausnahme machte Welsersheimb, freilich eine solche die mir praktisch nichts nützte. Sein Standpunkt war: jederzeit seine politische Meinung sagen, aber als General und vom Kaiser bestellt, die Landwehr unter allen Verhältnissen treu zu verwalten - nie eine Konsequenz aus dieser Meinung zu ziehen. So wertlos mir daher seine mit den meinen übereinstimmenden Ansichten für die praktische Entscheidung der politischen Fragen waren, so unschätzbar war mir seine Unterstützung und stets bewiesene Freundschaft für meine moralische Stellung im Kabinett, die schon vor Ende September unhaltbar geworden wäre, wenn nicht in den wichtigsten Fragen Welsersheimb,</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_085" n="42v" xml:id="Bae_TB_4_2315"/>
         <addSpan spanTo="#Bae_TB_4_2333" type="insertion" xml:id="Bae_TB_4_2316"/>
-        <p xml:id="Bae_TB_4_2317">specifisch deutsch-nationalen, sondern vom Standpunkte des gesamten Österreichertums an die Grenze der Tragfähigkeit 
+        <anchor/><p xml:id="Bae_TB_4_2317">specifisch deutsch-nationalen, sondern vom Standpunkte des gesamten Österreichertums an die Grenze der Tragfähigkeit 
           <choice xml:id="Bae_TB_4_2318">
             <abbr xml:id="Bae_TB_4_2319">u.</abbr>
             <expan xml:id="Bae_TB_4_2320">und</expan>
@@ -3533,12 +3531,12 @@
           <choice xml:id="Bae_TB_4_2330">
             <abbr xml:id="Bae_TB_4_2331">u.</abbr>
             <expan xml:id="Bae_TB_4_2332">und</expan>
-          </choice> die Wirksamkeit der Armee nicht ohne Rückwirkung bleiben würde. 
+          </choice> die Wirksamkeit der Armee nicht ohne Rückwirkung bleiben würde. <app from="#" type="equal"><rdg wit="Bae_MF_2">spezifisch deutsch-nationalen, sondern vom Standpunkte des gesamten Oesterreichertums an die Grenze der Tragfähigkeit und Willigkeit angelangt ist. Die Armee bildet wie die gesamte Monarchie ein Konglomerat von vielen Nationalitäten, deren Kitt einmal historisch durch die Deutschen gebildet worden ist. Es mag der politischen Erwägung von anderer Seite überlassen werden, ob es riskiert werden soll, das mehr oder weniger wesentliche Deutschtum in Oesterreich zur äussersten Opposition zu provozieren, ob die damit verbundenen Schäden und Gefahren nicht den möglichen Gewinn weit übersteigen, ob dieser Gewinn ein so hoher ist, uns mit unwiderbringlichen Preisgebungen zu debutieren, ob solche auch zur Erreichung des konkreten Zieles wirklich notwendig wären. Das Bedenken darf aber vom militärischen Standpunkt nicht unterdrückt werden, daß eine Austreibung des deutschen Elementes aus der willigen Mitwirkung an der Regierung Oesterreichs auch auf den Zusammenhalt, den Geist und die Wirksamkeit der Armee nicht ohne Rückwirkung bleiben würde."</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_4_2333"/>
         <!-- CA: anchor für den addspan 42v -->
         <pb facs="#F_K-4_Bae_TB_4_086" n="43r" xml:id="Bae_TB_4_2334"/>
-        <p xml:id="Bae_TB_4_2335">der Vertreter der Armee 
+        <anchor/><p xml:id="Bae_TB_4_2335">der Vertreter der Armee 
           <choice xml:id="Bae_TB_4_2336">
             <abbr xml:id="Bae_TB_4_2337">u.</abbr>
             <expan xml:id="Bae_TB_4_2338">und</expan>
@@ -3562,8 +3560,8 @@
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_4_2352"/>
             </index>
           </index> oder vielmehr gegen Erlassung derselben nahm ich mir Abschrift, weil es seine Redeweise besonders gut charakterisirt. 
-          <app from="Bae_MF_2_5759" xml:id="Bae_TB_4_8365">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8366">Ich bemühte mich Bylandt, Wittek, Ruber durch Besuche und Besprechungen der politischen Lage wenn nicht zu meinen Ansichten zu bekehren, so doch zu einer selbständigen politischen Haltung zu bewegen, die mir im Ministerrat wenigstens einige Chancen geboten hätte. Vergebens. Gegen das Ende meiner Ministerschaft war es, als Wittek einem meiner Freunde – ich weiß mich nicht mehr zu erinnern wem – die Frage stellte: "nicht wahr der Baernreither ist doch unter uns der staatsmännische Kopf?" – es aber selbst zu sein, war gar nicht die Ambition dieses Herrn. Eine einzige Ausnahme machte Welsersheimb, freilich eine solche die mir praktisch nichts nützte. Sein Standpunkt war: jederzeit seine politische Meinung sagen, aber als General und vom Kaiser bestellt, die Landwehr unter allen Verhältnissen treu zu verwalten - nie eine Konsequenz aus dieser Meinung zu ziehen. So wertlos mir daher seine mit den meinen übereinstimmenden Ansichten für die praktische Entscheidung der politischen Fragen waren, so unschätzbar war mir seine Unterstützung und stets bewiesene Freundschaft für meine moralische Stellung im Kabinett, die schon vor Ende September unhaltbar geworden wäre, wenn nicht in den wichtigsten Fragen Welsersheimb, der Vertreter der Armee und der dynastischen Interessen kat exochen, mit mir gestimmt hätte. Mehrmals hatten wir lange Unterredungen über die politische Lage, die wir im großen ganzen gleich beurteilten. Manche seiner Voten aus den früheren Jahren ließ er mich lesen und von dem einen, unter Badeni über die Sprachenverordnung, oder vielmehr gegen Erlassung derselben, nahm ich mir Abschrift, weil es seine Redeweise besonders gut charakterisiert.</rdg>
+          <app from="" xml:id="Bae_TB_4_8365">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8366">der Vertreter der Armee und der dynastischen Interessen kat exochen, mit mir gestimmt hätte. Mehrmals hatten wir lange Unterredungen über die politische Lage, die wir im großen ganzen gleich beurteilten. Manche seiner Voten aus den früheren Jahren ließ er mich lesen und von dem einen, unter Badeni über die Sprachenverordnung, oder vielmehr gegen Erlassung derselben, nahm ich mir Abschrift, weil es seine Redeweise besonders gut charakterisiert.</rdg>
           </app>
         </p>
         <anchor xml:id="Bae_TB_4_2353"/>
@@ -3642,13 +3640,11 @@
             <abbr xml:id="Bae_TB_4_2395">u.</abbr>
             <expan xml:id="Bae_TB_4_2396">und</expan>
           </choice> wenn kein anderer Grund angegeben wurde, so war es der Schutz eines grossen Ressorts im deutschen Interesse. Die Politiker im 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_2397">Parlament</orgName> hatten dafür gar keinen Sinn, ja sie suchten nicht einmal durch mich Informationen zu erhalten, was dafür sprechen könnte, dass sie von meiner Capacität sehr wenig hielten, was aber seinen letzten Grund 
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_2397">Parlament</orgName> hatten dafür gar keinen Sinn, ja sie suchten nicht einmal durch mich Informationen zu erhalten, was dafür sprechen könnte, dass sie von meiner Capacität sehr wenig hielten, was aber seinen letzten Grund <app from="#" type="equal"><rdg wit="Bae_TB_4">sich und entschlüpften mehr oder weniger höflich. Wenn ich auf meinen vielen Informationsreisen mit deutschen Politikern zusammenkam, wurde meine Stellung noch eher verstanden, immer als äusserst schwierig bezeichnet, aber immer wurde ich aufgefordert, so lange es irgend gehe zu bleiben und wenn kein anderer Grund angegeben wurde, so war es der Schutz eines grossen Ressorts im deutschen Interesse. Die Politiker im Parlament hatten dafür gar keinen Sinn, ja sie suchten nicht einmal durch mich Informationen zu erhalten, was dafür sprechen könnte, dass sie von meiner Kapazität sehr wenig hielten, was aber seinen letzten Grund</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_087" n="43v" xml:id="Bae_TB_4_2398"/>
         <addSpan spanTo="#Bae_TB_4_2430" type="insertion" xml:id="Bae_TB_4_2399"/>
-        <p xml:id="Bae_TB_4_2400">
-          <anchor xml:id="Bae_TB_4_8380"/>Unter Fürung 
-          <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_4_2401">Schwegel's</persName> und 
+        <anchor xml:id="Bae_TB_4_8380"/><p xml:id="Bae_TB_4_2400">Unter Fürung <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_4_2401">Schwegel's</persName> und 
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_4_2402">Stürgkh's</persName> schickten sich nämlich die 
           <index xml:id="Bae_TB_4_2403">
             <term key="Parteien" xml:id="Bae_TB_4_2404">deutschen Parteien</term>
@@ -3669,7 +3665,7 @@
             </index>
           </index> zu verhandeln, nicht aber in der Absicht ihn mit 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_2415">Thun</persName> zu machen, sondern die Verhandlung zu benützen 
-          <app from="#" type="equal" xml:id="Bae_TB_4_8381">
+          <app from="#Bae_MF_2_6321" type="equal" xml:id="Bae_TB_4_8381">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8382">Unter Führung Schwegels und Stürgkhs schickten sich nämlich die deutschen Parteien an, die technische Obstruktion aufzugeben und den Ausgleich zu verhandeln, nicht aber in der Absicht ihn mit Thun zu machen, sondern die Verhandlung zu benützen,</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8383"/>
@@ -3712,7 +3708,7 @@
         <anchor xml:id="Bae_TB_4_2430"/>
         <!-- CA: anchor für addspan fol 43v -->
         <pb facs="#F_K-4_Bae_TB_4_088" n="44r" xml:id="Bae_TB_4_2431"/>
-        <p xml:id="Bae_TB_4_2432">in dem in den 
+        <anchor/><p xml:id="Bae_TB_4_2432">in dem in den 
           <index xml:id="Bae_TB_4_2433">
             <term key="Parteien" xml:id="Bae_TB_4_2434">deutschen Parteien</term>
             <index xml:id="Bae_TB_4_2435">
@@ -3834,8 +3830,8 @@
               <expan xml:id="Bae_TB_4_2517">Oktober</expan>
             </choice>
           </date>. Ich gedachte daher, was mir noch an Zeit blieb, für mein Ressort so viel 
-          <app from="#Bae_MF_2_5848" type="equal" xml:id="Bae_TB_4_8395">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8396">sich und entschlüpften mehr oder weniger höflich. Wenn ich auf meinen vielen Informationsreisen mit deutschen Politikern zusammenkam, wurde meine Stellung noch eher verstanden, immer als äusserst schwierig bezeichnet, aber immer wurde ich aufgefordert, so lange es irgend gehe zu bleiben und wenn kein anderer Grund angegeben wurde, so war es der Schutz eines grossen Ressorts im deutschen Interesse. Die Politiker im Parlament hatten dafür gar keinen Sinn, ja sie suchten nicht einmal durch mich Informationen zu erhalten, was dafür sprechen könnte, dass sie von meiner Kapazität sehr wenig hielten, was aber seinen letzten Grund in dem in den deutschen Parteien hereditären Mißtrauen gegen Leute der eigenen Partei hatte, besonders wenn diese sich, wie ich, Unabhängigkeit gegenüber der Parteischablone bewahrt hatten. Lange vor dem entscheidenden Tage sah ich mein Ausscheiden voraus. In den ersten Tagen September erzählte ich einmal dem Sektionschef Stibral, daß ich zwischen dem 10.-12. Oktober demissionieren werde, was ihn natürlich sehr in Erstaunen setzte, was ich ihm aber ganz genau ausrechnen konnte. Der Pakt zwischen den beiden Regierungen war geschlossen. Die Durchführung basierte auf der Annahme, die Obstruktion werde im österreichischen Parlamente wieder einsetzen. Thun und Bánffy rechneten nun mit dem Kalender in der Hand folgendermaßen: Der österreichische Reichsrat tritt am 26. September zusammen, es wird alles verhindert, womöglich auch die Wahl der Quotendeputation, die Regierung läßt einige Sitzungen hingehen, um die Obstruktion zu konstatieren und am 8. Oktober circa erfolgt die abermalige Vertagung. Damit ist der Moment in Ungarn gegeben. Banffy legt die vereinbarten selbständigen Gesetze – zunächst Zoll- und Handelsbündnis, sowie Bank und Valuta – vor und Thun wartet die Votierung ab, um den § 14 anwenden zu können. Es war mir klar, daß ich die Vorlage der Gesetze in Ungarn nicht abwarten konnte, sondern hätte früher demissionieren müssen, so etwa am 10. Oktober. Ich dachte daher, was mir noch an Zeit blieb, für mein Ressort so viel</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_4_8395">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8396">in dem in den deutschen Parteien hereditären Mißtrauen gegen Leute der eigenen Partei hatte, besonders wenn diese sich, wie ich, Unabhängigkeit gegenüber der Parteischablone bewahrt hatten. Lange vor dem entscheidenden Tage sah ich mein Ausscheiden voraus. In den ersten Tagen September erzählte ich einmal dem Sektionschef Stibral, daß ich zwischen dem 10.-12. Oktober demissionieren werde, was ihn natürlich sehr in Erstaunen setzte, was ich ihm aber ganz genau ausrechnen konnte. Der Pakt zwischen den beiden Regierungen war geschlossen. Die Durchführung basierte auf der Annahme, die Obstruktion werde im österreichischen Parlamente wieder einsetzen. Thun und Bánffy rechneten nun mit dem Kalender in der Hand folgendermaßen: Der österreichische Reichsrat tritt am 26. September zusammen, es wird alles verhindert, womöglich auch die Wahl der Quotendeputation, die Regierung läßt einige Sitzungen hingehen, um die Obstruktion zu konstatieren und am 8. Oktober circa erfolgt die abermalige Vertagung. Damit ist der Moment in Ungarn gegeben. Banffy legt die vereinbarten selbständigen Gesetze – zunächst Zoll- und Handelsbündnis, sowie Bank und Valuta – vor und Thun wartet die Votierung ab, um den § 14 anwenden zu können. Es war mir klar, daß ich die Vorlage der Gesetze in Ungarn nicht abwarten konnte, sondern hätte früher demissionieren müssen, so etwa am 10. Oktober. Ich dachte daher, was mir noch an Zeit blieb, für mein Ressort so viel</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8397"/>auszunützen als möglich. 
           <app from="#Bae_MF_2_5907" type="notEqual" xml:id="Bae_TB_4_8398">
@@ -4305,7 +4301,7 @@
           <app from="#Bae_MF_2_5999" type="notEqual" xml:id="Bae_TB_4_8425">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8426">sei es gegangen</rdg>
           </app>
-          <anchor xml:id="Bae_TB_4_8427"/>jetzt würde entweder 
+          <anchor xml:id="Bae_TB_4_8427"/>jetzt würde entweder <app from="#Bae_MF_2_6002" type="equal"><rdg wit="Bae_MF_2">jetzt würde entweder</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_095" n="47v" xml:id="Bae_TB_4_2829"/>
         <addSpan spanTo="#Bae_TB_4_2903" type="insertion" xml:id="Bae_TB_4_2830"/>
@@ -4419,9 +4415,9 @@
         <anchor xml:id="Bae_TB_4_2903"/>
         <!-- CA: anchor für den addspan 47v -->
         <pb facs="#F_K-4_Bae_TB_4_096" n="48r" xml:id="Bae_TB_4_2904"/>
-        <p xml:id="Bae_TB_4_2905">aus diesem Vermittler ein Zwischenträger werden, 
-          <app from="#Bae_MF_2_6002" type="equal" xml:id="Bae_TB_4_8431">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8432">jetzt würde entweder aus diesem Vermittler ein Zwischenträger werden</rdg>
+        <anchor/><p xml:id="Bae_TB_4_2905">aus diesem Vermittler ein Zwischenträger werden, 
+          <app from="#" type="equal" xml:id="Bae_TB_4_8431">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8432">aus diesem Vermittler ein Zwischenträger werden</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8433"/>eine Rolle die er mir zu übernehmen gar nicht zutrauen würde 
           <app from="#Bae_MF_2_6005" type="missing" xml:id="Bae_TB_4_8434">
@@ -4795,26 +4791,21 @@
           <choice xml:id="Bae_TB_4_3151">
             <abbr xml:id="Bae_TB_4_3152">u.</abbr>
             <expan xml:id="Bae_TB_4_3153">und</expan>
-          </choice> unaufrichtigsten Höflichkeiten sagte. 
+          </choice> unaufrichtigsten Höflichkeiten sagte. <app from="#Bae_MF_2_6096" type="equal"><rdg wit="Bae_MF_2">die in Kürze zwingend werden musste, nicht Zeit ließ, sich zu entwickeln, sondern das Praevenire spielte. Auch der Kaiser wollte anfangs nicht einsehen, warum ich gehe. Bevor meine Demission nicht angenommen war, suchte ich keine Audienz beim Kaiser an, kaum hatte ich sie erhalten, so meldete ich mich und bekam sofort eine Stunde. Ich sagte meinen Dank für die Enthebung, die allerdings in sehr kühlen Ausdrücken abgefasst war und bat um die Erlaubnis, die Gründe meiner Demission auseinandersetzen zu dürfen. Ich tat es so kurz und prägnant, als die Sache erlaubte, worauf der Kaiser erwiderte: "das ist etwas anderes, jetzt begreife ich es" – sofort wendete er sich aber mit der Frage an mich, die er im Laufe des längeren Gespräches noch zweimal an mich richtete: "der Großgrundbesitz hat eine große Verantwortung auf sich geladen, meint er es mit der Verhandlung des Ausgleiches auch aufrichtig?" – was ich bejahte, nicht ohne hinzuzufügen, daß für die andern deutschen Fraktionen die Verantwortung zu übernehmen ich nicht imstande sei. Einige Tage später erfuhr ich, daß der Kaiser zuerst sehr ungehalten über meine Demission gewesen sei und sich geäussert habe: er ist mein Minister und hat sich nicht nach seinen Parteifreunden zu richten – nach meiner Audienz aber gesagt habe: er hat es mir erklärt und er ist sehr loyal vorgegangen. Von Thun und meinen Kollegen schied ich im besten Einvernehmen. Am 4. Oktober war ich noch mit ihnen in der Stephanskirche im Hochamt, da meine Demission damals noch nicht angenommen war. Thun gab mir zu Ehren ein Abschiedsdiner, bei dem ich seine Gattin zu Tisch führte, also Ehrengast war. Er trank sogar auf mich und wir – d.h. alle ehemaligen Kollegen von mir – blieben bis spät bei ihm, als ob nichts vorgefallen wäre. Damals war ich geneigt, seine chevalereske Haltung aber zu überschätzen. Später, im Hause, begegnete er mir so kühl, daß ich es vermied mit ihm zusammenzukommen. Jetzt, im Dezember, geht er noch einen Schritt weiter und sagt, ich hätte ihm und seinen guten Absichten gegen über den Deutschen durch meinen Austritt so sehr geschadet! In jenen Demissionstagen war zwischen mir und Thun nicht die Rede von meinem Nachfolger; doch entnahm ich aus Aeusserungen, daß er erwäge Weigelsperg eventuell mit der Leitung betrauen zu lassen. Aber sofort war auch schon der Name Dipauli im Vordergrund. Ich begegnete seinem Träger auch schon auf der Treppe des Ministeriums des Innern, wo er mir die schönsten und unaufrichtigsten Höflichkeiten sagte.</rdg></app> 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_101" n="50v" xml:id="Bae_TB_4_3154"/>
         <addSpan spanTo="#Bae_TB_4_3159" type="insertion" xml:id="Bae_TB_4_3155"/>
         <anchor xml:id="Bae_TB_4_8460"/>
-        <p xml:id="Bae_TB_4_3156">Pré Luca, uomo di Massimiliano presente Imperatore, parlando di sua Maestà disse, come non si consigliava con persona, e non faceva mai d’alcuna cosa a suo modo; il che nasceva dal tenere contrario termine al sopradetto; perchè l’Imperatore e uomo segreto, non comunica le suoi segreti con persona, non ne piglia parere. Ma come nel mettergli ad effetto s’incominciano a conoscere e scuoprire, gl’incominciano ad esser contradetti da coloro che egli ha d’intorno, e quello come facile se ne stoglie. Di qui nasce che quelle cose che fa l’un giorno distrugge l’altro ... e che sopra le sue deliberazioni non si può fondarsi. Un Principe pertanto debbe consigliarsi sempre .. 
-          <app from="#Bae_MF_2_6204" type="missing" xml:id="Bae_TB_4_8461">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8462"/>
-          </app>
-        </p>
+        <p xml:id="Bae_TB_4_3156">Pré Luca, uomo di Massimiliano presente Imperatore, parlando di sua Maestà disse, come non si consigliava con persona, e non faceva mai d’alcuna cosa a suo modo; il che nasceva dal tenere contrario termine al sopradetto; perchè l’Imperatore e uomo segreto, non comunica le suoi segreti con persona, non ne piglia parere. Ma come nel mettergli ad effetto s’incominciano a conoscere e scuoprire, gl’incominciano ad esser contradetti da coloro che egli ha d’intorno, e quello come facile se ne stoglie. Di qui nasce che quelle cose che fa l’un giorno distrugge l’altro ... e che sopra le sue deliberazioni non si può fondarsi. Un Principe pertanto debbe consigliarsi sempre ..</p>
         <p xml:id="Bae_TB_4_3157">
           <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_4_3158">Macchiavelli</persName>, Il Principe c. XXIII. 
-        </p>
+          <app from="#Bae_MF_2_6204" type="missing" xml:id="Bae_TB_4_8461">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8462"/>
+          </app></p>
         <anchor xml:id="Bae_TB_4_3159"/>
         <!-- CA. anchor für den addspan 50v -->
-        <pb facs="#F_K-4_Bae_TB_4_357" n="51r" xml:id="Bae_TB_4_3160"/>
-        <p xml:id="Bae_TB_4_3161">Die letzte Episode war meine Beeidigung als geheimer Rath, welche Würde uns Vieren ( 
-          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_3162">Kaizl</persName>, 
-          <persName key="JedrzejowiczAdam" ref="https://d-nb.info/gnd/101288158X" xml:id="Bae_TB_4_3163">Jędrzejowicz</persName>, 
-          <persName key="KastMichael" ref="https://d-nb.info/gnd/1013102916" xml:id="Bae_TB_4_3164">Kast</persName>
+        <pb facs="#F_K-4_Bae_TB_4_102" n="51r" xml:id="Bae_TB_4_3160"/>
+        <anchor/><p xml:id="Bae_TB_4_3161">Die letzte Episode war meine Beeidigung als geheimer Rath, welche Würde uns Vieren (<persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_4_3162">Kaizl</persName>, <persName key="JedrzejowiczAdam" ref="https://d-nb.info/gnd/101288158X" xml:id="Bae_TB_4_3163">Jędrzejowicz</persName>, <persName key="KastMichael" ref="https://d-nb.info/gnd/1013102916" xml:id="Bae_TB_4_3164">Kast</persName>
           <choice xml:id="Bae_TB_4_3165">
             <abbr xml:id="Bae_TB_4_3166">u.</abbr>
             <expan xml:id="Bae_TB_4_3167">und</expan>
@@ -4850,9 +4841,9 @@
           </choice> frug mich wohin nach 
           <placeName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_4_3189">Italien</placeName>. In der antecamera sprach ich noch mit 
           <persName key="AbenspergTraunHugo" ref="https://d-nb.info/gnd/143410067" xml:id="Bae_TB_4_3190">Hugo Traun</persName>. Auf seinen Ausdruck des Bedauerns wegen meines Ausscheidens meinte ich: es sei nicht anders möglich gewesen, worauf er 
-          <app from="Bae_MF_2_6096" type="equal" xml:id="Bae_TB_4_8463">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8464">die in Kürze zwingend werden musste, nicht Zeit ließ, sich zu entwickeln, sondern das Praevenire spielte. Auch der Kaiser wollte anfangs nicht einsehen, warum ich gehe. Bevor meine Demission nicht angenommen war, suchte ich keine Audienz beim Kaiser an, kaum hatte ich sie erhalten, so meldete ich mich und bekam sofort eine Stunde. Ich sagte meinen Dank für die Enthebung, die allerdings in sehr kühlen Ausdrücken abgefasst war und bat um die Erlaubnis, die Gründe meiner Demission auseinandersetzen zu dürfen. Ich tat es so kurz und prägnant, als die Sache erlaubte, worauf der Kaiser erwiderte: "das ist etwas anderes, jetzt begreife ich es" – sofort wendete er sich aber mit der Frage an mich, die er im Laufe des längeren Gespräches noch zweimal an mich richtete: "der Großgrundbesitz hat eine große Verantwortung auf sich geladen, meint er es mit der Verhandlung des Ausgleiches auch aufrichtig?" – was ich bejahte, nicht ohne hinzuzufügen, daß für die andern deutschen Fraktionen die Verantwortung zu übernehmen ich nicht imstande sei. Einige Tage später erfuhr ich, daß der Kaiser zuerst sehr ungehalten über meine Demission gewesen sei und sich geäussert habe: er ist mein Minister und hat sich nicht nach seinen Parteifreunden zu richten – nach meiner Audienz aber gesagt habe: er hat es mir erklärt und er ist sehr loyal vorgegangen. Von Thun und meinen Kollegen schied ich im besten Einvernehmen. Am 4. Oktober war ich noch mit ihnen in der Stephanskirche im Hochamt, da meine Demission damals noch nicht angenommen war. Thun gab mir zu Ehren ein Abschiedsdiner, bei dem ich seine Gattin zu Tisch führte, also Ehrengast war. Er trank sogar auf mich und wir – d.h. alle ehemaligen Kollegen von mir – blieben bis spät bei ihm, als ob nichts vorgefallen wäre. Damals war ich geneigt, seine chevalereske Haltung aber zu überschätzen. Später, im Hause, begegnete er mir so kühl, daß ich es vermied mit ihm zusammenzukommen. Jetzt, im Dezember, geht er noch einen Schritt weiter und sagt, ich hätte ihm und seinen guten Absichten gegen über den Deutschen durch meinen Austritt so sehr geschadet! In jenen Demissionstagen war zwischen mir und Thun nicht die Rede von meinem Nachfolger; doch entnahm ich aus Aeusserungen, daß er erwäge Weigelsperg eventuell mit der Leitung betrauen zu lassen. Aber sofort war auch schon der Name Dipauli im Vordergrund. Ich begegnete seinem Träger auch schon auf der Treppe des Ministeriums des Innern, wo er mir die schönsten und unaufrichtigsten Höflichkeiten sagte. Die letzte Episode war meine Beeidigung als Geheimer Rath, welche Würde uns vieren (Kaizl, Jędrzcejowicz, Kasl und mir) vom Kaiser knapp vor Eröffnung des Reichsrates verliehen worden war. Nachher hatten wir einer nach dem andern Audienz. Abermals sprach der Kaiser vom Ausgleich und der Notwendigkeit, demselben keine Schwierigkeiten zu machen. Daß ich abends nach Italien fahren wollte, wußte er bereits und frug mich wohin nach Italien. In der antecamera sprach ich noch mit Hugo Traun. Auf seinen Ausdruck des Bedauerns wegen meines Ausscheidens meinte ich: es sei nicht anders möglich gewesen, worauf er</rdg>
-          </app>wieder: 
+          <app from="#" type="equal" xml:id="Bae_TB_4_8463">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8464">Die letzte Episode war meine Beeidigung als Geheimer Rath, welche Würde uns vieren (Kaizl, Jędrzcejowicz, Kasl und mir) vom Kaiser knapp vor Eröffnung des Reichsrates verliehen worden war. Nachher hatten wir einer nach dem andern Audienz. Abermals sprach der Kaiser vom Ausgleich und der Notwendigkeit, demselben keine Schwierigkeiten zu machen. Daß ich abends nach Italien fahren wollte, wußte er bereits und frug mich wohin nach Italien. In der antecamera sprach ich noch mit Hugo Traun. Auf seinen Ausdruck des Bedauerns wegen meines Ausscheidens meinte ich: es sei nicht anders möglich gewesen, worauf er</rdg>
+          </app><anchor/>wieder: 
           <app from="#Bae_MF_2_6187" type="notEqual" xml:id="Bae_TB_4_8465">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8466">erwiderte:</rdg>
           </app>
@@ -4992,7 +4983,7 @@
             <abbr xml:id="Bae_TB_4_3276">u.</abbr>
             <expan xml:id="Bae_TB_4_3277">und</expan>
           </choice> woher ich direkt 
-          <app from="#" type="equal" xml:id="Bae_TB_4_8487">
+          <app from="#Bae_MF_2_6324" type="equal" xml:id="Bae_TB_4_8487">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8488">Gleich am Tage als ich meine Demission gegeben hatte schrieb ich an Dumreicher, um ihn zu fragen, ob er mit mir auf einige Zeit nach Italien wolle, wozu er sofort bereit war. Anfangs wollte ich auf länger weggehen, aber der Kaiser meinte in der letzten Audienz ich solle nur bald wiederkommen, damit die Partei bei der Stange bleibe. Auch von anderer Seite wurde mir nahegelegt nicht auf allzulange wegzubleiben. Ich war daher nur etwa 8 Tage mit Dumreicher in Rom, wohin ich direkt ging und woher ich direkt </rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8489"/>zurückkehrte. 
@@ -6002,8 +5993,8 @@
           <choice xml:id="Bae_TB_4_4054">
             <abbr xml:id="Bae_TB_4_4055">u.</abbr>
             <expan xml:id="Bae_TB_4_4056">und</expan>
-          </choice> Arbeit der gemässigten unter uns erschwere. 
-        </p>
+          </choice> Arbeit der gemässigten unter uns erschwere.
+        </p>  
         <pb facs="#F_K-4_Bae_TB_4_127" n="63v" xml:id="Bae_TB_4_4057"/>
         <addSpan spanTo="#Bae_TB_4_4106" type="insertion" xml:id="Bae_TB_4_4058"/>
         <p xml:id="Bae_TB_4_4059">
@@ -9401,7 +9392,7 @@
           </index>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_183" n="87v" xml:id="Bae_TB_4_6652"/>
-        <addSpan spanTo="#_87v" type="insertion" xml:id="Bae_TB_4_6653"/>
+        <addSpan spanTo="#Bae_TB_4_8510" type="insertion" xml:id="Bae_TB_4_6653"/>
         <p xml:id="Bae_TB_4_6654">
           <orgName key="Fremdenblatt" ref="https://d-nb.info/gnd/1086227905" xml:id="Bae_TB_4_6655">Fremdenblatt</orgName>
           <date when="1899-05-21" xml:id="Bae_TB_4_6656">21.5.99</date>. 
@@ -9640,7 +9631,7 @@
           <placeName key="Bruenn" ref="https://www.geonames.org/3078609/mesto-brno.html" xml:id="Bae_TB_4_6828">Brünn</placeName>, die ich eigens mit ihm machte. 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_185" n="88v" xml:id="Bae_TB_4_6829"/>
-        <addSpan spanTo="#_88v" xml:id="Bae_TB_4_6830"/>
+        <addSpan spanTo="#Bae_TB_4_6882" xml:id="Bae_TB_4_6830"/>
         <p xml:id="Bae_TB_4_6831">langen jedoch, ausdrücklich, das endlich das Geltungsgebiet der deutschen Sprache als einer allgemeinen Vermittlungssprache gesetzlich begrenzt und gesichert werde. Schon in der Vermeidung des Ausdruckes "Staatssprache" darf das Streben erkannt werden, die Empfindlichkeit der slavischen Völker zu schonen — da die "Vermittlungssprache" nur die thatsächlich vorhandene Eigenschaft der deutschen Sprache in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_6832">Oesterreich</placeName> versinnlicht. Die Grenzen, die der Vermittlungssprache gezogen werden, entsprechen genau denjenigen, welche die deutsche Sprache bisher als gemeinsames sprachliches Band besitzt. Sie tritt nicht erobernd auf, sie will nur in jenen Sphären geschützt werden, in denen sie gelten muß, wenn die Einheit der Verwaltung und die Einheit des Staates behauptet werden sollen. Und wenn für jeden Staatsbeamten die Kenntniß der deutschen Sprache begehrt und diese zur Voraussetzung einer staatlichen Anstellung gesetzlich erhoben wird – wer vermöchte einem Wünsche entgegenzutreten, der eigentlich selbstverständlich ist? Verlangen die einzelnen Stämme von den Beamten die Kenntniß der Landessprache, so muß doch der Staat umso mehr darauf bestehen, daß sie jene Vermittlungssprache beherrschen, die stets die Sprache des 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_6833">Parlaments</orgName> und aller Zentralbehörden bleiben muß. Es ist nahezu unmöglich, in flüchtigen Worten all jenen Bestimmungen zu folgen, welche nach dem Wünsche der 
@@ -9864,7 +9855,7 @@
           <placeName key="Kaernten" ref="https://www.geonames.org/2774686/kaernten.html" xml:id="Bae_TB_4_6994">Kärnthen</placeName> teilweise der status quo 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_187" n="89v" xml:id="Bae_TB_4_6995"/>
-        <addSpan spanTo="#_89v" type="insertion" xml:id="Bae_TB_4_6996"/>
+        <addSpan spanTo="#Bae_TB_4_7039" type="insertion" xml:id="Bae_TB_4_6996"/>
         <p xml:id="Bae_TB_4_6997">gramm selbst einer auf die Staatsinteressen bedachten Partei von den Bedüfnissen und Geboten der staatlichen Verwaltung sondern. Ohne vorherige Anpassung ist noch kein Parteiprogramm zu einer Staatsverfassung geworden, und Vieles hat die Partei schon erreicht, wenn die wesentlichen Grundsätze ihres Glaubensbekenntnisses verwirklicht worden sind. Das 
           <index xml:id="Bae_TB_4_6998">
             <term key="Parteien" xml:id="Bae_TB_4_6999">Pfingstprogramm der Deutschen</term>
@@ -9997,7 +9988,7 @@
           <placeName key="Edlach" ref="https://www.geonames.org/2780428/edlach-an-der-rax.html" xml:id="Bae_TB_4_7094">Edlach in der Prein</placeName> zugebrachten Tage 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_403" n="90v" xml:id="Bae_TB_4_7095"/>
-        <addSpan spanTo="#_90v" type="insertion" xml:id="Bae_TB_4_7096"/>
+        <addSpan spanTo="#Bae_TB_4_7142" type="insertion" xml:id="Bae_TB_4_7096"/>
         <p xml:id="Bae_TB_4_7097">6. Angesichts der autonomen Sonderstellung, welche 
           <placeName key="Galizien" ref="https://www.geonames.org/562153/galicia.html" xml:id="Bae_TB_4_7098">Galizien</placeName> bezüglich seiner nationalen Angelegenheiten thatsächlich einnimmt, befestigt und verbreitet sich die Ueberzeugung von der Nothwendigkeit, daß der Grundsatz der Gegenseitigkeit zur Durchführung komme und verlangen wir, daß die Deutschen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_7099">Oesterreich</placeName> vor ungerechtfertigter Beeinflussung ihres nationalen Lebens sichergestellt werden. 
@@ -10181,7 +10172,7 @@
           <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_4_7235">Auersperg</persName>, mit dem ich einen langen Abend im Stephanskeller zubrachte ging 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_191" n="91v" xml:id="Bae_TB_4_7236"/>
-        <addSpan spanTo="#_91v" type="insertion" xml:id="Bae_TB_4_7237"/>
+        <addSpan spanTo="#Bae_TB_4_7276" type="insertion" xml:id="Bae_TB_4_7237"/>
         <p xml:id="Bae_TB_4_7238">Die öffentlichen mündlichen Verhandlungen bei den Obersten Gerichtshöfen werden in der deutschen Vermittlungssprache geführt. Dieser Sprache nicht mächtige Parteien sind durch Dolmetscher zu vernehmen.</p>
         <p xml:id="Bae_TB_4_7239">Der Amtsverkehr zwischen den genannten Zentralstellen und allen staatlichen Behörden geschieht in der deutschen Vermittlungssprache. Die Erledigungen und Ausfertigungen derselben sind in dieser Sprache herauszugeben. Der gesetzlich festgesetzte sprachliche Geschäftsgang des Obersten Gerichtshofes bleibt unberührt.</p>
         <p xml:id="Bae_TB_4_7240">Die Geltung der allgemeinen Vermittlungessprache ist ferner für gewisse Verwaltungszweige, wie die Agenden der Behörden in Militärangelegenheiten, für das Rechnungswesen, für den Post, Telegraphen- und Eisenbahndienst - der Natur dieser Verwaltungszweige entsprechend - durchgreifend festzustellen.</p>
@@ -10265,55 +10256,55 @@
         </p>
         <!-- DC: hierher Einklebung Zeitungsausschnitt von 87v, 88v, 89v, 90v, 91v, 92v, 93v, 94v, 95v, 96v, 97v, 98v und 99v -->
         <anchor xml:id="Bae_TB_4_7305"/>
-        <app from="#_87v" type="insertion" xml:id="Bae_TB_4_7306">
+        <app from="#Bae_TB_4_6653" type="insertion" xml:id="Bae_TB_4_7306">
           <rdg xml:id="Bae_TB_4_7307">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7308"/>
-        <app from="#_88v" type="insertion" xml:id="Bae_TB_4_7309">
+        <app from="#Bae_TB_4_6830" type="insertion" xml:id="Bae_TB_4_7309">
           <rdg xml:id="Bae_TB_4_7310">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7311"/>
-        <app from="#_89v" type="insertion" xml:id="Bae_TB_4_7312">
+        <app from="#Bae_TB_4_6996" type="insertion" xml:id="Bae_TB_4_7312">
           <rdg xml:id="Bae_TB_4_7313">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7314"/>
-        <app from="#_90v" type="insertion" xml:id="Bae_TB_4_7315">
+        <app from="#Bae_TB_4_7096" type="insertion" xml:id="Bae_TB_4_7315">
           <rdg xml:id="Bae_TB_4_7316">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7317"/>
-        <app from="#_91v" type="insertion" xml:id="Bae_TB_4_7318">
+        <app from="#Bae_TB_4_7237" type="insertion" xml:id="Bae_TB_4_7318">
           <rdg xml:id="Bae_TB_4_7319">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7320"/>
-        <app from="#_92v" type="insertion" xml:id="Bae_TB_4_7321">
+        <app from="#Bae_TB_4_7372" type="insertion" xml:id="Bae_TB_4_7321">
           <rdg xml:id="Bae_TB_4_7322">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7323"/>
-        <app from="#_93v" type="insertion" xml:id="Bae_TB_4_7324">
+        <app from="#Bae_TB_4_7456" type="insertion" xml:id="Bae_TB_4_7324">
           <rdg xml:id="Bae_TB_4_7325">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7326"/>
-        <app from="#_94v" type="insertion" xml:id="Bae_TB_4_7327">
+        <app from="#Bae_TB_4_7538" type="insertion" xml:id="Bae_TB_4_7327">
           <rdg xml:id="Bae_TB_4_7328">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7329"/>
-        <app from="#_95v" type="insertion" xml:id="Bae_TB_4_7330">
+        <app from="#Bae_TB_4_7606" type="insertion" xml:id="Bae_TB_4_7330">
           <rdg xml:id="Bae_TB_4_7331">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7332"/>
-        <app from="#_96v" type="insertion" xml:id="Bae_TB_4_7333">
+        <app from="#Bae_TB_4_7671" type="insertion" xml:id="Bae_TB_4_7333">
           <rdg xml:id="Bae_TB_4_7334">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7335"/>
-        <app from="#_97v" type="insertion" xml:id="Bae_TB_4_7336">
+        <app from="#Bae_TB_4_7693" type="insertion" xml:id="Bae_TB_4_7336">
           <rdg xml:id="Bae_TB_4_7337">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7338"/>
-        <app from="#_98v" type="insertion" xml:id="Bae_TB_4_7339">
+        <app from="#Bae_TB_4_7748" type="insertion" xml:id="Bae_TB_4_7339">
           <rdg xml:id="Bae_TB_4_7340">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7341"/>
-        <app from="#_99v" type="insertion" xml:id="Bae_TB_4_7342">
+        <app from="#Bae_TB_4_7799" type="insertion" xml:id="Bae_TB_4_7342">
           <rdg xml:id="Bae_TB_4_7343">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_4_7344">Entscheidend für das Gelingen war der gute Wille aller Betheiligten 
@@ -10356,7 +10347,7 @@
           </choice> es ist mir zweifelhaft ob die Herren aus diesen Ländern recht gethan haben, diese schroffe Stellung einzunehmen, aber das sind Details – im Allgemeinen markiert die Arbeit doch nur eine Defensivstellung der Deutschen. 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_193" n="92v" xml:id="Bae_TB_4_7372"/>
-        <addSpan spanTo="#_92v" type="insertion" xml:id="Bae_TB_4_7373"/>
+        <addSpan spanTo="#Bae_TB_4_7405" type="insertion" xml:id="Bae_TB_4_7373"/>
         <p xml:id="Bae_TB_4_7374">6. Der Unfug, der durch Slavisirung deutscher Ortsnamen unter Anderem dadurch geübt wird, daß gar nicht im Gebrauch stehende, theilweise ganz erfundene und unverständliche Doppelbezeichnungen angewendet werden, ist abzustellen. Bei den Matrikenführungen sind sprachliche Willkürlichkeiten unbedingt hintanzuhalten.</p>
         <p xml:id="Bae_TB_4_7375">III. Besondere Grundsätze für die einzelnen Länder.</p>
         <p xml:id="Bae_TB_4_7376">A. 
@@ -10461,7 +10452,7 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_7454">Österreich</placeName> gewiss grosse Fehler begangen. Ihre Unduldsamkeit gegen ihre Stammesgenossen, wenn sie anderer Ansicht waren, ihre 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_406" n="93v" xml:id="Bae_TB_4_7455"/>
-        <addSpan spanTo="#_93v" type="insertion" xml:id="Bae_TB_4_7456"/>
+        <addSpan spanTo="#Bae_TB_4_7495" type="insertion" xml:id="Bae_TB_4_7456"/>
         <p xml:id="Bae_TB_4_7457">5. Die Bedeckung der Schulauslagen ist in der Art zu trennen, daß für jede Nationalität ein selbstständiges Budget zur Bestreitung der Unterrichtszwecke aufgestellt wird.</p>
         <p xml:id="Bae_TB_4_7458">6. Der Verkehr der staatlichen Behörden untereinander geschieht in der Regel in der allgemeinen Vermittlungssprache. Inwieweit innerhalb des czechischen Sprachgebietes dieser Verkehr in der czechischen Sprache stattfinden kann, wird festzusetzen sein.</p>
         <p xml:id="Bae_TB_4_7459">7. Die Frage des Gebrauches der Landessprachen bei den autonomen Behörden ist nach folgenden Grundsätzen zu ordnen:</p>
@@ -10563,7 +10554,7 @@
           </choice> Gymnasiums gefordert, anscheinend ein unbilliges Verlangen; aber instinctiv haben die Deutschen da einen Punkt getroffen, auf dem sie von der Regierung in unwürdiger Weise hintergangen wurden. 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_197" n="94v" xml:id="Bae_TB_4_7537"/>
-        <addSpan spanTo="#_94v" type="insertion" xml:id="Bae_TB_4_7538"/>
+        <addSpan spanTo="#Bae_TB_4_7552" type="insertion" xml:id="Bae_TB_4_7538"/>
         <p xml:id="Bae_TB_4_7539">haupt soll die seit Jahren übliche Begünstigung der Italiener im tirolischen Justizdienste aufhören. Dem deutschen Nachwuchse in der tirolischen Justiz soll die Möglichkeit geboten werden, durch praktische Verwendung bei italienischen Gerichten sich die wünschenswerthe Kenntniß der zweiten Landessprache anzueignen.</p>
         <p xml:id="Bae_TB_4_7540">4. Schule. Als Grundsatz auf dem Gebiete des Schulwesens soll gelten: der status quo ist zu erhalten: ein administrativer Zwang zur Errichtung sogenannter Minoritätsschulen findet nicht statt. So wie es bisher in 
           <placeName key="Tirol" ref="https://www.geonames.org/2763587/tyrol.html" xml:id="Bae_TB_4_7541">Deutschtirol</placeName> italienische Schulen nicht gegeben hat, so soll es solche auch in Zukunft nicht geben. Was die deutschen Schulen im italienischen Landestheile betrifft, so verlangen wir gleichfalls nur, daß das Bestehende erhalten werde. 
@@ -10652,7 +10643,7 @@
           <placeName key="Goldegg" ref="https://www.geonames.org/7872223/goldegg.html" xml:id="Bae_TB_4_7604">Goldegg</placeName>, 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_199" n="95v" xml:id="Bae_TB_4_7605"/>
-        <addSpan spanTo="#_95v" type="insertion" xml:id="Bae_TB_4_7606"/>
+        <addSpan spanTo="#Bae_TB_4_7630" type="insertion" xml:id="Bae_TB_4_7606"/>
         <p xml:id="Bae_TB_4_7607">anderen Nationalität in der betreffenden Wählerklasse zu wählenden Abgeordneten vorher festgestellt, auf das Land aufgetheilt und für jede Nationalität eine selbstständige Eintheilung des Landes in Wahlbezirke vorgenommen wird, so daß eine deutsche und eine czechische Wahlbezirkseintheilung, und zwar jede für sich alle Orte des Landes umfassend, nebeneinander zu bestehen haben wird und beide Nationalitäten das Wahlrecht vollständig getrennt ansüben werden.</p>
         <p xml:id="Bae_TB_4_7608">Diesen Kurien wird ein Vetorecht bei Aenderung der Landesordnung, der Landtagswahlordnung und der Gemeindeordnung, sowie in allen ein wichtiges nationales Interesse eines der beiden Volksstämme betreffenden Angelegenheiten in der Weise eingeräumt, daß in diesen Angelegenheiten gegen das Veto einer Kurie ein giltiger Landtagsbeschluß nicht zustande kommen kann.</p>
         <p xml:id="Bae_TB_4_7609">6. Die Amtssprache der staatlichen Behörden ist auf dem Wege der Reichsgesetzgebung in folgender Weise zu regeln: a) Bei allen staatlichen Behörden mit Ausnahme der Behörden in den mährischen Enklaven 
@@ -10723,7 +10714,7 @@
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_7659">Lünz</placeName>, am 
           <date when="1899-05-27" xml:id="Bae_TB_4_7660">27. Mai 1899</date>. 
         </p>
-        <addSpan spanTo="#_96r" xml:id="Bae_TB_4_7661"/>
+        <addSpan spanTo="#Bae_TB_4_7669" xml:id="Bae_TB_4_7661"/>
         <p xml:id="Bae_TB_4_7662">Der zuletzt erwähnte Artikel der 
           <orgName key="KoelnischeZeitung" ref="https://d-nb.info/gnd/16298128-4" xml:id="Bae_TB_4_7663">Kölnischen</orgName> erschien in der Abend Ausgabe vom 
           <date when="1899-01-24" xml:id="Bae_TB_4_7664">24. Januar 1899</date>. 
@@ -10737,7 +10728,7 @@
         <anchor xml:id="Bae_TB_4_7669"/>
         <!-- CA: anchor für addspan 96r -->
         <pb facs="#F_K-4_Bae_TB_4_201" n="96v" xml:id="Bae_TB_4_7670"/>
-        <addSpan spanTo="#_96v" type="insertion" xml:id="Bae_TB_4_7671"/>
+        <addSpan spanTo="#Bae_TB_4_7691" type="insertion" xml:id="Bae_TB_4_7671"/>
         <p xml:id="Bae_TB_4_7672">bleiben und daß diesen an der Schule unter allen Umständen die Erzielung eines günstigen Lehrerfolges ermöglicht wird. Wenn die Lehrer-, und Lehrerinnenbildungsanstalt in 
           <placeName key="Laibach" ref="https://www.geonames.org/3239318/mestna-obcina-ljubljana.html" xml:id="Bae_TB_4_7673">Laibach</placeName> nicht jene Einrichtung sollte erhalten können, wie sie für Mittelschulen bestimmt ist, so wäre eine entsprechende Anzahl von Stipendien für deutsche Lehramtskandidaten und Kandidatinnen 
           <placeName key="Krain" ref="https://www.geonames.org/3197905/kokra.html" xml:id="Bae_TB_4_7674">Krains</placeName> zu errichten, damit sie in einer deutschen Lehrer- und Lehrerinnenbildungsanstalt außerhalb 
@@ -10766,7 +10757,7 @@
         <anchor xml:id="Bae_TB_4_7691"/>
         <!-- CA anchor für addspan 96v -->
         <pb facs="#F_K-4_Bae_TB_4_202" n="97r" xml:id="Bae_TB_4_7692"/>
-        <addSpan spanTo="#_97r" type="insertion" xml:id="Bae_TB_4_7693"/>
+        <addSpan spanTo="#Bae_TB_4_7701" type="insertion" xml:id="Bae_TB_4_7693"/>
         <p xml:id="Bae_TB_4_7694">treten läßt, scheint den unrühmlichen Niedergang des deutschen Stammes in Nachbarländern besiegeln zu wollen, die ihm ihre ganze bisherige Culturentwicklung verdanken. Dem reichsdeutschen Beobachter, der sich des sichern Besitzes nationalstaatlicher Einigung erfreut, liegt es nahe, in einer Zeit, die das bitter-ernste Wort von den sterbenden Völkern zur Geltung gebracht hat, mit besorgter Teilnahme auf den Herzschlag zu lauschen, der in dem politischen Leben des österreichischen Bruderstammes erkennbar ist, und der längst nicht mehr den Ton der Gesundheit trägt. Es ist bald ein mattes Klopfen, bald ein heftiges überreiztes Pochen. Die Jähigkeit zur Beherrschung des politischen Blutumlaufs im cisleithanischen Staatskörper scheint dem österreichischen Deutschtum verloren gegangen zu sein. Manche schwere Stunde unserer eignen Geschichte hat uns die Wahrheit gelehrt, daß der Deutsche nur durch Deutsche niedergezwungen wird. An dem Schicksal unserer Stammesgenossen unter dem Doppeladler droht dieser Satz sich besonders tragisch zu erfüllen. Der schlimmste Feind des österreichischen Deutschtums ist seine Zersplitterung, der Sondergeist, mit dem es gegen sich selber wütet. Die Clericalen, vielleicht die politisch einflußreichste Gruppe, haben sich in einseitiger Ausbildung ihres Parteistandpunctes dem Bewußtsein entfremdet, daß ihre deutsche Nationalität eine verpflichtende Würde ist, kraft deren sie staatliche Aufgaben an 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_7695">Oesterreich</placeName> zu erfüllen und die Zukunft ihres Volkstums zu sichern haben. Ihre Gegenfüßler, die Liberalen, gefallen sich umgekehrt in einer ohne Not verletzenden Schaustellung unkatholischer oder selbst antikatholischer Anwandlungen von der Art, die dem festen Bau der römischen Kirche nie geschadet, der Sache der politischen Freiheit aber kaum jemals genützt hat. Die neuerdings lebhaft gewordene Agitation für den Massenübertritt zum Protestantismus setzt in den Gemütern, auf die sie innerhalb wie außerhalb der schwarzgelben Grenzpfähle berechnet ist, ein ungewöhliches Maß von Naivität voraus. Für das nüchterne Urteil bedeutet diese Bewegung nur zu allen sonsigen Gegensätzen den Hinzutritt des confessionellen, der unliebsame Erinnerungen aus der Zeit des dreißigjährigen Krieges wachruft. Nur in einem Punct herrscht zwischen Liberalen und Clericalen Einigleit, nämlich in der kurzsichtigen Auflehnung gegen das wohlbegründete und für die Zukunft der Gesamtmonarchie unentbehrliche Uebergewicht des Magyarentums in den Ländern jenseits der Leitha. Was endlich die ihr Volkstum mit mehr Wärme als Geschick vertretenden Deutschnationalen 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_7696">Oesterreichs</placeName> betrifft, so sind sie in der Erregung des politischen Kampfes 
@@ -10778,7 +10769,7 @@
         <anchor xml:id="Bae_TB_4_7701"/>
         <!-- CA: anchor für addspan 97r -->
         <pb facs="#F_K-4_Bae_TB_4_410" n="97v" xml:id="Bae_TB_4_7702"/>
-        <addSpan spanTo="#_97v" type="insertion" xml:id="Bae_TB_4_7703"/>
+        <addSpan spanTo="#Bae_TB_4_7733" type="insertion" xml:id="Bae_TB_4_7703"/>
         <p xml:id="Bae_TB_4_7704">4. Die innere und äußere Amtssprache der staatlichen Behörden, deren Wirkungskreis des ganze Land umfaßt, ist die deutsche; insbesondere sind auch beim Oberlandesgerichte in 
           <placeName key="Graz" ref="https://www.geonames.org/2778058/graz-stadt.html" xml:id="Bae_TB_4_7705">Graz</placeName> bezüglich aller aus 
           <placeName key="Steiermark" ref="https://www.geonames.org/2764581/steiermark.html" xml:id="Bae_TB_4_7706">Steiermark</placeName> an dasselbe gelangenden Rechtssachen im Rechtsmittelverfahren nur Schriftsätze in deutscher Sprache zulässig. 
@@ -10816,7 +10807,7 @@
         <anchor xml:id="Bae_TB_4_7733"/>
         <!-- CA: anchor für 97v -->
         <pb facs="#F_K-4_Bae_TB_4_204" n="98r" xml:id="Bae_TB_4_7734"/>
-        <addSpan spanTo="#_98r" type="insertion" xml:id="Bae_TB_4_7735"/>
+        <addSpan spanTo="#Bae_TB_4_7746" type="insertion" xml:id="Bae_TB_4_7735"/>
         <p xml:id="Bae_TB_4_7736">der Gesundung ist, daß im Schoße des Deutschtums selbst die 
           <hi rendition="#ul" xml:id="Bae_TB_4_7737">Pflege der gemeinsamen Volksinteressen</hi> nen belebt wird. Das ist keine leere Redensart, sondern der Hinweis auf die bestimmt umschriebene und sehr wohl durchführbare Aufgabe, durch schonende Behandlung kirchlicher Dinge die in der breiten Masse der deutschen Bevölkerung 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_7738">Oesterreichs</placeName> wirksamen katholischen Empfindungen zur politischen Bundesgenossenschaft für die Sache des nationalen Volkstums heranzuziehen. Auf dem Wege dieser Versöhnungspolitik muß es auch gelingen, das in Parteikämpfen erschütterte Bewußtsein der engen Zusammengehörigkeit grade des deutschen Stammes mit dem Träger der Krone wiederherzustellen. Die Treue gegen den österreichischen Staatsgedanken ist nicht möglich ohne Treue gegen die Dynastie, in deren Oberhaupt er sich verkörpert. Umgekehrt kann auch die 
@@ -10831,7 +10822,7 @@
         <anchor xml:id="Bae_TB_4_7746"/>
         <!-- CA: anchor für 98r -->
         <pb facs="#F_K-4_Bae_TB_4_401" n="98v" xml:id="Bae_TB_4_7747"/>
-        <addSpan spanTo="#_98v" type="insertion" xml:id="Bae_TB_4_7748"/>
+        <addSpan spanTo="#Bae_TB_4_7795" type="insertion" xml:id="Bae_TB_4_7748"/>
         <p xml:id="Bae_TB_4_7749">4. Bei den gemischtsprachigen Bezirksgerichten braucht nur ein richterlicher Beamter der slovenischen Sprache, beziehungsweise des landesüblichen slovenischen Dialekts mächtig zu sein. Von den Notaren kann der Nachweis, daß sie der slovenischen Sprache in Schrift und Wort mächtig sind, nicht gefordert werden.</p>
         <p xml:id="Bae_TB_4_7750">5. Die innere und äußere Amtssprache aller Selbstverwaltungsstellen, insbesondere der Landesvertretung, des Landes-Ausschusses, der Handels- und Gewerbekammer, der Orts- und Schulgemeinden ist die deutsche. Es haben sich daher auch die Gemeinden und öffentlichen Körperschaften im Verkehre mit den Staatsbehörden, den Landesbehörden und sonstigen Selbstverwaltungsstellen ausschließlich der deutschen Sprache zu bedienen. Nur im Verkehre zwischen slovenischen Gemeinden untereinander kann auch die slovenische Sprache angewendet werden. Im Bedarfsfalle ist bei der zuständigen Bezirkshauptmannschaft eine deutsche Uebersetzung der slovenischen Urschrift anzusprechen.</p>
         <p xml:id="Bae_TB_4_7751">6. Die Unterrichtssprache an der Volks- und Bürgerschulen ist in der Regel die deutsche. In den doppelsprachigen Gemeinden kann der Unterricht wie bisher utraquistisch ertheilt werden. In rein slovenischen Gemeinden können auf Verlangen des Gemeinde-Ausschusses, sowie der Zweidrittelmehrheit der Steuerträger auch einsprachig slovenische Volksschulen errichtet werden. Die Landeshauptstadt 
@@ -10939,23 +10930,23 @@
         <note type="editorial" xml:id="Bae_TB_4_7836">Diese Seite ist leer.</note>
         <!-- Einklebung hier fol. 96r, 97r und 98 hier einfügen!! -->
         <anchor xml:id="Bae_TB_4_7837"/>
-        <app from="#_96r" type="insertion" xml:id="Bae_TB_4_7838">
+        <app from="#Bae_TB_4_7661" type="insertion" xml:id="Bae_TB_4_7838">
           <rdg xml:id="Bae_TB_4_7839">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7840"/>
-        <app from="#_97r" type="insertion" xml:id="Bae_TB_4_7841">
+        <app from="#Bae_TB_4_7693" type="insertion" xml:id="Bae_TB_4_7841">
           <rdg xml:id="Bae_TB_4_7842">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7843"/>
-        <app from="#_98r" type="insertion" xml:id="Bae_TB_4_7844">
+        <app from="#Bae_TB_4_7735" type="insertion" xml:id="Bae_TB_4_7844">
           <rdg xml:id="Bae_TB_4_7845">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7846"/>
-        <app from="#_100v" type="insertion" xml:id="Bae_TB_4_7847">
+        <app from="#Bae_TB_4_7850" type="insertion" xml:id="Bae_TB_4_7847">
           <rdg xml:id="Bae_TB_4_7848">[...]</rdg>
         </app>
         <pb facs="#F_K-4_Bae_TB_4_209" n="100v" xml:id="Bae_TB_4_7849"/>
-        <addSpan spanTo="#_100v" type="insertion" xml:id="Bae_TB_4_7850"/>
+        <addSpan spanTo="#Bae_TB_4_7895" type="insertion" xml:id="Bae_TB_4_7850"/>
         <p xml:id="Bae_TB_4_7851">Parteikonferenzen.</p>
         <p xml:id="Bae_TB_4_7852">Wir erhalten folgende Mittheilungen über die Parteikonferenzen der letzten Tage:</p>
         <p xml:id="Bae_TB_4_7853">In den Sitzungen des Verbandes der 
