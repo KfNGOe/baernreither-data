@@ -3832,7 +3832,7 @@
             <app from="#Bae_TB_2_772" type="missing" xml:id="Bae_MF_1_2840">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_2841">Das waren die Hauptpunkte der Verhandlungen, die Dipauli mit einer seltenen Geschicklichkeit u. Unermüdlichkeit, stets auf neue Auswege bedacht, vor keinen Schwierigkeiten zurückschreckend – führte. Wir waren so weit, dass ich am 21. October den Entwurf eines Uebereinkommens zwischen Dipauli u. den deutschen Parteien vorzulegen in der Lage war, welcher die einzelnen Punkte des abschliessenden Paktes</rdg>
             </app>
-            <anchor xml:id="Bae_MF_1_4075"/>Wir kamen soweit, daß ich am 21. Oktober den Entwurf eines Uebereinkommens zwischen Dipauli und den deutschen Parteien vorzulegen in der Lage war, welcher die einzelnen Punkte des abzuschließenden Paktes zusammenfasste.
+            <anchor xml:id="Bae_MF_1_4075"/>Wir kamen soweit, daß ich am 21. Oktober den Entwurf eines Uebereinkommens zwischen Dipauli und den deutschen Parteien vorzulegen in der Lage war, welcher die einzelnen Punkte des abzuschließenden Paktes zusammenfasste. 
             <app from="#Bae_TB_2_6376" type="notEqual" xml:id="Bae_MF_1_4076">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_4077">zusammenfasste. Man ersieht aus demselben, wie detaillirt die Abmachungen waren. </rdg>
             </app>
@@ -4190,14 +4190,15 @@
               <index xml:id="Bae_MF_1_3067">
                 <term key="Ausgleichsprovisorium" xml:id="Bae_MF_1_3068"/>
               </index>
-            </index> 
+            </index>
             <app from="#Bae_TB_2_6396" type="equal" xml:id="Bae_MF_1_3072">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_3073">Unsere Erklärung die ich abgab, wurde als sehr scharf bezeichnet, was sie doch eigentlich nicht ist, weil sie den Schwerpunkt des Tadels darin findet, dass die Egerer verfehlte Politik der Regierung die Verständigung so sehr erschwert. Immer argumentire ich auf eine Verständigung hinaus, freilich ganz aussichtslos in einer Zeit, in der aus jeder Kundgebung von Freund u. Feind nur das polemische, kritische, nie das mildernde herausgehört wird. Auch die Zeitungen tragen das ihrige zu dieser alles zurückdrängenden Kampfesstimmung bei, indem sie bezeichnenderweise die Schärfen eine Rede durchschossen drucken, was bei der grossen Oberflächlichkeit, mit der heute gelesen wird, seine Wirkung nicht verfehlt. Durch eine Sandwüste von namentlichen Abstimmungen wateten wir weiter. Es kam zur parallelen Behandlung des Ausgleichsprovisoriums u. der noch ausstehenden Dinge. Endlich kam auch die meritorische Debatte über die Anklage wegen der Sprachenverordnungen daran, während im Budgetausschuss das Provisorium behandelt wurde. Durch die Ereignisse bei der ersten Lesung des Provisoriums</rdg>
             </app>
-            <anchor/>war die Temperatur im 
+            <anchor xml:id="Bae_MF_1_4184"/>war die Temperatur im 
             <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_1_3069">Hause</orgName> noch höher gestiegen. Zur allgemeinen Ueberraschung griff 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3070">Badeni</persName> ( 
-            <date when="1897-11-12" xml:id="Bae_MF_1_3071">12. November</date>) gleich zu Beginn der Debatte mit dem Versuche ein, zu besänftigen und wiewohl er noch sehr stolz darauf pochte, er werde seinen Platz nicht räumen, so klang doch seine <anchor xml:id="Bae_MF_1_4102"/>
+            <date when="1897-11-12" xml:id="Bae_MF_1_3071">12. November</date>) gleich zu Beginn der Debatte mit dem Versuche ein, zu besänftigen und wiewohl er noch sehr stolz darauf pochte, er werde seinen Platz nicht räumen, so klang doch seine 
+            <anchor xml:id="Bae_MF_1_4102"/>
             <app from="#Bae_TB_2_6402" type="equal" xml:id="Bae_MF_1_4103">
               <rdg xml:id="Bae_MF_1_4104">war die Temperatur im Hause noch höher gestiegen. Zur allgemeinen Ueberraschung griff Badeni (12. Novbr) gleich zu Beginn der Debatte mit dem Versuche ein, zu besänftigen u. wiewol er noch sehr stolz darauf pochte, er werde seinen Platz nicht räumen, so klang doch seine</rdg>
             </app>
@@ -4223,7 +4224,7 @@
             <note type="editorial" xml:id="Bae_MF_1_4035">Diese Seite ist leer.</note>
             <pb facs="F_K-11_Bae_MF_1_176" n="85r" xml:id="Bae_MF_1_3089"/>und stimmte das Ganze auf den Tenor der 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3090">Badenischen</persName> Erklärung. Es gelang mir, wie es scheint vollkommen, alles unversönliche zu vermeiden, trotzdem aber in meiner Kritik der ganzen gefährlichen politischen Situation den entschiedenen Ton zu treffen, den ich treffen wollte. Meine Rede wurde mit großer Aufmerksamkeit angehört und selbst 
-            <persName key="HalbanHeinrich" ref="https://d-nb.info/gnd/116208848" xml:id="Bae_MF_1_3091">Halban</persName>, der damals schon sehr nervös und besorgt um das Schicksal seines Herrn und Meisters herumging, sagte mir, ich hätte sehr klug gesprochen.
+            <persName key="HalbanHeinrich" ref="https://d-nb.info/gnd/116208848" xml:id="Bae_MF_1_3091">Halban</persName>, der damals schon sehr nervös und besorgt um das Schicksal seines Herrn und Meisters herumging, sagte mir, ich hätte sehr klug gesprochen. 
             <app from="#Bae_TB_2_1692" type="equal" xml:id="Bae_MF_1_4105">
               <rdg xml:id="Bae_MF_1_4106">Notizen die notwendigen Einschaltungen, lies einiges aus u. stimmte das Ganze auf den Tenor der Badeni'schen Erklärung. Es gelang mir, wie es scheint vollkommen, Alles unversönliche zu vermeiden, trotzdem aber in meiner Kritik der ganzen gefärlichen politischen Situation den entschiedenen Ton zu treffen, den ich treffen wollte. Meine Rede wurde mit grosser Aufmerksamkeit angehört u. selbst Halban, der damals schon sehr nervös u. besorgt um das Schicksal seines Herrn u. Meisters herumging, sagte mir, ich hätte sehr klug gesprochen.</rdg>
             </app>
@@ -5116,7 +5117,7 @@
           <p xml:id="Bae_MF_1_3695">
             <anchor xml:id="Bae_MF_1_3696"/>
             <addSpan spanTo="#Bae_MF_1_4138" type="insertion" xml:id="Bae_MF_1_3697"/>Ich habe hier geschildert, wie die Dinge sich schrittweise entwickelt haben. Die Parlamentwirren unter 
-            <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3698">Badeni</persName> haben das Haus für immer zerrüttet, denn die Obstruction wurde zu einem politisch selbstverständlichen Hausmittel. Die Czechen hatten zwar unter der
+            <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3698">Badeni</persName> haben das Haus für immer zerrüttet, denn die Obstruction wurde zu einem politisch selbstverständlichen Hausmittel. Die Czechen hatten zwar unter der 
             <app from="#Bae_TB_2_3009" type="missing" xml:id="Bae_MF_1_4136">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_4137"/>
             </app>
