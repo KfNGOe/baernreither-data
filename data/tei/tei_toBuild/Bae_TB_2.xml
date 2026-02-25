@@ -412,7 +412,7 @@
               <term key="Obstruktion" xml:id="Bae_TB_2_326"/>
             </index>
           </index> sich der Abstimmung zu enthalten, um nicht gegen die eigenen Stammesgenossen zu stimmen, hat in den deutschen Oppositionsgruppen große Verstimmung hervorgerufen. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_327">
+          <app from="#Bae_MF_1_4072" type="missing" xml:id="Bae_TB_2_327">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_328"/>
           </app>
         </p>
@@ -1242,7 +1242,7 @@
             <expan xml:id="Bae_TB_2_875">und</expan>
           </choice> des Meritums in erster Lesung) eine Woche (siebenstündige Sitzungen, keine Abendsitzungen, keine Unterbrechung der Sitzung) gewärt werden. Dagegen geben die 
           <anchor xml:id="Bae_TB_2_6193"/>
-          <app from="#" type="missing" xml:id="Bae_TB_2_6374">
+          <app from="#Bae_MF_1_4078" type="missing" xml:id="Bae_TB_2_6374">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6375"/>
           </app>
           <!-- CA: anchor für das vorherige addspan -->
@@ -1250,7 +1250,7 @@
         <pb facs="#F_K-4_Bae_TB_2_115" n="20r" xml:id="Bae_TB_2_783"/>
         <anchor xml:id="Bae_TB_2_6376"/>
         <p xml:id="Bae_TB_2_6194">zusammenfasste. Man ersieht aus demselben, wie detaillirt die Abmachungen waren.
-          <app from="#" type="notEqual" xml:id="Bae_TB_2_6377">
+          <app from="#Bae_MF_1_4075" type="notEqual" xml:id="Bae_TB_2_6377">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6378">Wir kamen soweit, daß ich am 21. Oktober den Entwurf eines Uebereinkommens zwischen Dipauli und den deutschen Parteien vorzulegen in der Lage war, welcher die einzelnen Punkte des abzuschließenden Paktes zusammenfasste.</rdg>
           </app>
         </p>
@@ -1342,7 +1342,7 @@
               <term key="Sprachenantrag" xml:id="Bae_TB_2_885"/>
             </index>
           </index> frei stehe. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_886">
+          <app from="#Bae_MF_1_4081" type="missing" xml:id="Bae_TB_2_886">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_887"/>
           </app>
         </p>
@@ -1468,7 +1468,7 @@
               <term key="Ausgleichsprovisorium" xml:id="Bae_TB_2_1051"/>
             </index>
           </index> in Verbindung gebracht worden ist, haben die Verhandlungen zu keinem Resultat geführt." 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6383">
+          <app from="#Bae_MF_1_4087" type="missing" xml:id="Bae_TB_2_6383">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6384"/>
           </app>
         </p>
@@ -1478,7 +1478,7 @@
         <p xml:id="Bae_TB_2_6203">
           <anchor xml:id="Bae_TB_2_6385"/>
           <persName key="EbenhochAlfred" ref="https://d-nb.info/gnd/132867745" xml:id="Bae_TB_2_994">Ebenhoch</persName>
-          <app from="#" type="equal" xml:id="Bae_TB_2_995">
+          <app from="#Bae_MF_1_4086" type="equal" xml:id="Bae_TB_2_995">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_996">Ebenhoch</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_997"/>durch ihn 
@@ -1757,8 +1757,7 @@
               <abbr xml:id="Bae_TB_2_1254">Abg.</abbr>
               <expan xml:id="Bae_TB_2_1255">Abgeordneter</expan>
             </choice> Graf Dubsky 
-          </persName> (
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1256">verfassungstreuer Großgrundbesitz</orgName>): Ich habe die Ehre, in meinem Namen und in dem meiner engeren Gesinnungsgenossen nachstehende Erklärung abzugeben: Bereits die am 
+          </persName> (<orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1256">verfassungstreuer Großgrundbesitz</orgName>): Ich habe die Ehre, in meinem Namen und in dem meiner engeren Gesinnungsgenossen nachstehende Erklärung abzugeben: Bereits die am 
           <date when="1897-07-11" xml:id="Bae_TB_2_1257">11. Juli l. J.</date> in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_2_1258">Wien</placeName> stattgehabte Conferenz der Vertrauensmänner des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1259">verfassungstreuen Großgrundbesitzes</orgName> aus den verschiedenen Kronländern hat sich mit den von der Regierung nach Schluß der Reichsrathssession getroffenen, wenig glücklichen 
@@ -1788,7 +1787,7 @@
           <persName key="HochenburgerViktor" ref="https://d-nb.info/gnd/117525596" xml:id="Bae_TB_2_1279">Dr. Hochenburger</persName> und Genossen, 
           <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_TB_2_1280">Schönerer</persName> und Genossen auf Versetzung bes 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1281">Herrn Minister-Präsidenten Grafen Badeni</persName> in den Anklagestand zur Tagesordnung über." (Beifall links.) 
-          <app from="#" type="missing" xml:id="Bae_TB_2_1282">
+          <app from="#Bae_MF_1_4093" type="missing" xml:id="Bae_TB_2_1282">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1283"/>
           </app>
         </p>
@@ -1867,7 +1866,7 @@
           <hi rendition="#ul" xml:id="Bae_TB_2_1245">nicht</hi> abgeben. Schliesslich tat es 
           <persName key="DubskyGuido" xml:id="Bae_TB_2_1246">Dubsky</persName> in einer durch die Erklärung 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1247">Badeni's</persName> zur Sache beeinflussten etwas veränderten, nämlich bezüglich der Authenticität des Textes der Verordnung hypothetischen Form. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6391">
+          <app from="#Bae_MF_1_4090" type="missing" xml:id="Bae_TB_2_6391">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6392"/>
           </app>
         </p>
@@ -1997,8 +1996,7 @@
               <abbr xml:id="Bae_TB_2_1380">Abg.</abbr>
               <expan xml:id="Bae_TB_2_1381">Abgeordneter</expan>
             </choice> Dr. Bärnreither 
-          </persName> (
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1382">verfassungstreuer Großgrundbesitz</orgName>): Im Auftrage der 
+          </persName> (<orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1382">verfassungstreuer Großgrundbesitz</orgName>): Im Auftrage der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1383">Vereinigung</orgName>, der ich angehöre, erlaube ich mir, zu der Angelegenheit, welche hier in Verhandlung steht, nachstehenden Antrag vorzulegen: "Indem das Haus der Regierung bezüglich ihres Verhaltens gegenüber dem am 
           <date when="1897-07-11" xml:id="Bae_TB_2_1384">11. Juli l. J.</date> in 
           <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1385">Eger</placeName> geplanten Volkstage den entschiedenen Tadel ausspricht (Hört! Hört! links), geht es über die Anträge der Abgeordneten 
@@ -2052,7 +2050,7 @@
         <p xml:id="Bae_TB_2_1419">Lebhaft bringen wir unser österreichisches, aber zugleich deutsches Empfinden zum Ausdrucke und leihen ihm die Worte, daß bei der hohen Bildungsstufe des deutschen Volkes in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_2_1420">Böhmen</placeName> und bei dem bewährten und unerschütterlichen Sinne für strenge Gesetzlichkeit, die Niemand in Frage zu stellen oder zu bezweifeln ein Recht hat, die Regierung an dem unglücklichen Tage von 
           <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_2_1421">Eger</placeName> Mittel in Anwendung gebracht hat, die den schärfsten Tadel verdienen (Beifall links.) 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6394">
+          <app from="#Bae_MF_1_3041" type="missing" xml:id="Bae_TB_2_6394">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6395"/>
           </app>
           <anchor xml:id="Bae_TB_2_6211"/>
@@ -2142,8 +2140,7 @@
               <abbr xml:id="Bae_TB_2_1425">Abg.</abbr>
               <expan xml:id="Bae_TB_2_1426">Abgeordneter</expan>
             </choice> Dr. Bärnreither 
-          </persName> (
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1427">verfassungstreuer Grobgrundbesitz</orgName>) erklärt, daß sich seit der Zeit, in welcher ein analoger Antrag, wie der jetzt in Verhandlung stehende, gestellt wurde, in der Sache selbst, insbesondere in Bezug auf die juristische Seite der Frage nichts geändert habe und daß daher die Stellung seiner Gesinnungsgenossen auch heute einen Antrag auf motivirte Tagesordnung, in welcher sie die Erlassung der 
+          </persName> (<orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1427">verfassungstreuer Grobgrundbesitz</orgName>) erklärt, daß sich seit der Zeit, in welcher ein analoger Antrag, wie der jetzt in Verhandlung stehende, gestellt wurde, in der Sache selbst, insbesondere in Bezug auf die juristische Seite der Frage nichts geändert habe und daß daher die Stellung seiner Gesinnungsgenossen auch heute einen Antrag auf motivirte Tagesordnung, in welcher sie die Erlassung der 
           <index xml:id="Bae_TB_2_1428">
             <term key="Reichsrat" xml:id="Bae_TB_2_1429">Sprachenverordnungen</term>
             <index xml:id="Bae_TB_2_1430">
@@ -2358,7 +2355,7 @@
               <term key="Paragraph14" xml:id="Bae_TB_2_1578"/>
             </index>
           </index> begegnen kann? Da muß man sich billig fragen, wie stellt sich die Regierung die Zukunft vor, und wie will sie diesen Staat und wohin will sie diesen Staat eigentlich führen?
-          <app from="#" type="missing" xml:id="Bae_TB_2_6400">
+          <app from="#Bae_MF_1_4096" type="missing" xml:id="Bae_TB_2_6400">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6401"/>
           </app>
           <anchor xml:id="Bae_TB_2_6365"/>
@@ -2494,7 +2491,7 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_2_1620">Oesterreichs</placeName> um eine bestimmte Forderung zu schaaren. Der erbitterte und unabsehbare Kampf in dem Slaventhum kann ja doch nicht das Ziel und Ende unserer Politik sein; andererseits ist ein dauernder nationaler Friedensschluß zwischen zwei Parteien nur möglich, wenn sich zwei selbstbewußte einige nationale Parteien gegenüberstehen. Deßhalb sollen wir ruhig und ohne uns ablenken zu lassen, das Ziel verfolgen, allen maßgebenden Kreisen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_2_1621">Oesterreich</placeName> die Ueberzeugung beizubringen, daß ohne einen klaren, entschiedenen Schritt des Entgegenkommens gegen die Deutschen kein Ausweg aus der heutigen Situation möglich ist. Wir sagen das ohne jede Feindseligkeit gegen die anderen Nationalitäten, wir sagen es nicht nur im pflichtgemäßen Ausdrucke unseres eigenen nationalen Fühlens, sondern weil wir glauben, daß auf diesem Wege allein auch dem Gedeihen, der Größe und der Einheit unseres 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_2_1622">österreichischen Vaterlandes</placeName> gedient wäre. (Lebhafter Beifall und Händeklatschen links. Redner wird beglückwünscht.) 
-          <app from="#" type="missing" xml:id="Bae_TB_2_1623">
+          <app from="#Bae_MF_1_4099" type="missing" xml:id="Bae_TB_2_1623">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1624"/>
           </app>
         </p>
@@ -2549,7 +2546,7 @@
           </choice> in den Wählerschaften. Das war bei 
           <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_1743">Dipauli</persName>, 
           <persName key="HuynRudolf" xml:id="Bae_TB_2_1744">Huyn</persName>, 
-          <app from="#" type="equal" xml:id="Bae_TB_2_1745">
+          <app from="#Bae_MF_1_4107" type="equal" xml:id="Bae_TB_2_1745">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_1746">Die Abstimmung über diese Ministeranklage gestaltete sich sehr spannend. In der katholischen Volkspartei lag die Entscheidung. Die Erkrankung Dipaulis machte unsere wochenlange Arbeit zunichte. Die Bauern brachen aus. Nur der alte Rammer blieb fest, ausser ihm die Tiroler. Karlon stimmte mit der Regierung und die oberösterreichischen und steirischen Bauern saßen beim Bier in der Restauration und lachten jeden höhnisch an, der sie erinnerte, daß drin für die deutsche Sache in Österreich abgestimmt werde. Vererbter und klubmässig entwickelter Parteihass ist doch das stärkste Element im öffentlichen Leben. Darin eine Änderung herbeizufüren, bedarf es entweder grosser politischer Umwälzungen oder greifbare, aber starke Vorteile für die Partei und den Einzelnen. Nur Weiterblickende wittern den möglichen Umschwung in der öffentlichen Meinung und in den Wählerschaften. Das war bei Dipauli, Huyn,</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_1747"/>
@@ -2920,7 +2917,7 @@
               <term key="Ausgleich" xml:id="Bae_TB_2_2042"/>
             </index>
           </index> einzutreten. Und gerade sie war es, die 
-          <app from="#" type="equal" xml:id="Bae_TB_2_2043">
+          <app from="#Bae_MF_1_4113" type="equal" xml:id="Bae_TB_2_2043">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2044">nach dem Kern ihrer Ueberzeugungen reden und handeln, eine unerträgliche Komödie. Wenn irgend eine Partei im ganzen Haus, so hat die so viele gewerbliche und industrielle Interessen vertretende deutsche Fortschrittspartei alle Ursache für einen möglichen Ausgleich mit Ungarn einzutreten. Und gerade sie war es, die</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_2045"/>diese Frage dem 
@@ -3067,7 +3064,7 @@
               <term key="Staatsgrundgesetz" xml:id="Bae_TB_2_2017"/>
             </index>
           </index> geregelt werden können." 
-          <app from="#" type="missing" xml:id="Bae_TB_2_2018">
+          <app from="#Bae_MF_1_4108" type="missing" xml:id="Bae_TB_2_2018">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2019"/>
           </app>
         </p>
@@ -3079,7 +3076,7 @@
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2102">Hause</orgName> aus reiner Parteileidenschaft in ungünstigem Sinne entschieden zu werden. Allerdings hatte 
           <persName key="BilinskiLeon" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2103">Bilinski</persName> sehr ungeschickt gesprochen, aber darauf kam es in dieser Situation wirklich nicht mehr an. Glücklicherweise kam die Frage im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2104">Hause</orgName> nicht zur Abstimmung. Staatsrechtlich aber glaube ich allerdings im Rechte zu sein, aber es war offenbar eher ein Stoff für eine Dissertation als für eine praktische politische Aktion. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_2105">
+          <app from="#Bae_MF_1_4114" type="missing" xml:id="Bae_TB_2_2105">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2106"/>
           </app>
         </p>
@@ -3367,7 +3364,7 @@
           <anchor xml:id="Bae_TB_2_2313"/>mit Anschuldigungen herum. Am 
           <date when="1897-11-17" xml:id="Bae_TB_2_2314">17. Novbr</date> frug er 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_2_2315">Schwegel</persName>, ob wir uns nicht an vertraulichen Besprechungen beteiligen wollten. Wir fanden es für gut ihm darauf eine schriftliche Antwort zu geben, 
-          <app from="#" type="equal" xml:id="Bae_TB_2_6416">
+          <app from="#Bae_MF_1_3342" type="equal" xml:id="Bae_TB_2_6416">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6417">mit Anschuldigungen herum. Am 17. November frug er Schwegel, ob wir uns nicht an vertraulichen Besprechungen beteiligen wollten. Wir fanden es für gut ihm darauf eine schriftliche Antwort zu geben,</rdg>
           </app>
         </p>
@@ -3453,7 +3450,7 @@
             <abbr xml:id="Bae_TB_2_2333">l.J.</abbr>
             <expan xml:id="Bae_TB_2_2334">laufenden Jahres</expan>
           </choice> ausgedrückten Bereitwilligkeit, erklären wir jedem Verständigungsversuche unsere Mitwirkung leihen zu wollen, unter der Voraussetzung dass eine solche Besprechung oder Fühlungnahme von Seite der Regierung auch mit den beteiligten deutschen Parteien thatsächlich zu Stande gebracht 
-          <app from="#" type="equal" xml:id="Bae_TB_2_2335">
+          <app from="#Bae_MF_1_4119" type="equal" xml:id="Bae_TB_2_2335">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2336">um vor Rekriminationen sicher zu sein. Unsere note verbale lautete: "Auf die Frage: ob unsere Vereinigung sich an vertraulichen Besprechungen beteiligen würde, welche den Zweck verfolgen sollen, eine Beilegung des böhmischen Sprachenstreites anzubahnen, erteilen wir nachstehende Antwort: In Uebereinstimmung mit der Kundgebung des gesamten verfassungstreuen Grossgrundbesitzes vom 11. Juli l.J. sowie in Uebereinstimmung mit unserer auch aus Anlaß der Konferenzeinladung für den 26. August l.J. ausgedrückten Bereitwilligkeit, erklären wir jedem Verständigungsversuche unsere Mitwirkung leihen zu wollen, unter der Voraussetzung, daß eine solche Besprechung oder Fühlungnahme von Seite der Regierung auch mit den beteiligten deutschen Parteien tatsächlich zustande gebracht</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_2337"/>wird 
@@ -3518,7 +3515,7 @@
         </p>
         <p xml:id="Bae_TB_2_2469">Die Erregung unter der deutschen Bevölkerung sowol in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_2_2470">Böhmen</placeName> als in den Alpenländern ist sehr gross. Die Abgeordneten folgen nur den Antrieben derselben, und ihr heftiges Auftreten ist den unmittelbaren Einflüssen aus den Wählerschaften zuzuschreiben. Wenn die Situation fortdauert, kann die Bewegung in diesen Theilen des Reiches Formen annehmen, die eine spätere Aussöhnung fast unmöglich machen wird. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6424">
+          <app from="#Bae_MF_1_4123" type="missing" xml:id="Bae_TB_2_6424">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6425"/>
           </app>
           <anchor xml:id="Bae_TB_2_6240"/>
@@ -3559,7 +3556,7 @@
               <expan xml:id="Bae_TB_2_2389">November</expan>
             </choice>
           </date> genau vorausgesagt wie die Dinge sich 
-          <app from="#" type="equal" xml:id="Bae_TB_2_2390">
+          <app from="#Bae_MF_1_4122" type="equal" xml:id="Bae_TB_2_2390">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2391">verwenden wollte. Diese Art der Dinge und wohl auch der Weg mahnen zur Vorsicht. Nach eingehender Besprechung der Sache mit Schwegel und Stürgkh entschieden wir uns, doch diese Gelegenheit nicht ungenützt vorbeigehen zu lassen. Das Ganze war ein sehr bemerkenswertes Symptom. Offenbar war an maßgebender Stelle das unbedingte Vertrauen auf Badeni längst erschüttert und man wollte Nachrichten "von Aussen". Uns war klar, daß es leider unmöglich sei ganz offen zu sprechen und Badeni direkt als das Hindernis jeder Verständigung hinzustellen, denn ganz wasserdicht sind die Wege der Ministerien doch nicht und leicht hätte die ganze Sache in die Hände Badenis fallen können, der uns rücksichtslos bloßgestellt hätte. Auch die Schilderung der Stimmung in der Bevölkerung durfte nicht wie eine Denunziation erscheinen. Wir haben aber in knappen, nach keiner Seite übertreibenden Sätzen damals am 17. November genau vorausgesagt wie die Dinge sich</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_2392"/>8 Tage 
@@ -3624,7 +3621,7 @@
         </p>
         <p xml:id="Bae_TB_2_2481">Je länger die Situation dauert, desto schwerer wird es werden diese 
           <orgName key="SchoenererAlldeutsche" ref="https://d-nb.info/gnd/3039149-0" xml:id="Bae_TB_2_2482">nationalradicale Partei</orgName> zu isoliren und die Fortschritte dieser Richtung aufzuhalten. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_2483">
+          <app from="#Bae_MF_1_4126" type="missing" xml:id="Bae_TB_2_2483">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2484"/>
           </app>
         </p>
@@ -4148,7 +4145,7 @@
           <anchor xml:id="Bae_TB_2_6430"/>richtig beurteilend, aber charakteristischer Weise noch in diesem Stadium willens 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_2864">Badeni</persName> zu helfen. Geradezu komisch war es aber, dass 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_2865">Badeni</persName> selbst nichts mehr 
-          <app from="#" type="equal" xml:id="Bae_TB_2_2866">
+          <app from="#Bae_MF_1_4132" type="equal" xml:id="Bae_TB_2_2866">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2867">richtig beurteilend, aber charakteristischer Weise noch in diesem Stadium willens Badeni zu helfen. Geradezu komisch war es aber, daß Badeni selbst nichts mehr</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_2868"/>
@@ -4319,7 +4316,7 @@
         </p>
         <p xml:id="Bae_TB_2_3005">Wir protestiren gegen diese Rechtsverletzung, welche ohne Beispiel in irgendeinem Parlamente dastehen dürfte, wir protestiren gegen ein Verfahren, das auf diesem Boden jede gesetzliche Schranke ins Wanken zu bringen droht. Wir protestiren gegen die gesetzwidrige Verwendung der Sicherheitswache im 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_3006">Parlamente</orgName>; wir machen für die unabsehbaren Consequenzen alle Jene verantwortlich, die an diesem Vorgange mitgewirkt haben." 
-          <app from="#" type="missing" xml:id="Bae_TB_2_3007">
+          <app from="#Bae_MF_1_3692" type="missing" xml:id="Bae_TB_2_3007">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3008"/>
           </app>
         </p>
@@ -4354,7 +4351,7 @@
             <abbr xml:id="Bae_TB_2_2927">u.</abbr>
             <expan xml:id="Bae_TB_2_2928">und</expan>
           </choice> wie ich erfuhr auf die an diesem Vormittage gefassten Entschlüsse nicht ohne Einfluss war. 
-          <app from="#" type="equal" xml:id="Bae_TB_2_2929">
+          <app from="#Bae_MF_1_4135" type="equal" xml:id="Bae_TB_2_2929">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2930">auftraten und in der halb gewonnenen Schlacht der Obstruktion als die schwere Kavallerie durch einen Chok den Sieg entschieden. Gegen die lex Falkenhayn hatten wir einen Protest vorbereitet, den Stürgkh vortragen sollte. Es kam nicht dazu, weil überhaupt niemand mehr zu Worte kam. Ich beantragte die Veröffentlichung, die an jenem denkwürdigen ersten Adventsonntage erfolgte und wie ich erfuhr auf die an diesem Vormittage gefassten Entschlüsse nicht ohne Einfluß war.</rdg>
           </app>
         </p>
@@ -4363,7 +4360,7 @@
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3011">Ich habe hier geschildert, wie die Dinge sich schrittweise entwickelt haben. Die Parlamentwirren unter Badeni haben das Haus für immer zerrüttet, denn die Obstruction wurde zu einem politisch selbstverständlichen Hausmittel. Die Czechen hatten zwar unter der</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6435"/>
-        <app from="#" type="missing" xml:id="Bae_TB_2_6436">
+        <app from="#Bae_MF_1_4131" type="missing" xml:id="Bae_TB_2_6436">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6437">Coalitionsregierung mit dieser Methode angefangen, aber die Deutschen haben sie unter Badeni systematisch ausgebildet u. damit dem österreichischen Parlamentarismus das Grab gegraben. In einem Obstructionscomité das in Permanenz war wurden aus Lücken und der Unvollkommenheit der Geschäftsordnung immer neue Erfindungen geschöpft, wie die Verhandlungen des Hauses verhindert o. verschleppt werden könnten. Einige Abgeordnete waren anerkannte Meister darin. Damals lobte mir ein deutschslowenisch Journalist einen sonst an sich unbedeutenden Abgeordneten mit den Worten: er ist ein tüchtiger Obstructionist. Die Obstruction blieb seither das drohende Gespenst des Hauses. Und doch muss man gerechterweise sagen, dass Badeni eine Verständigung zwischen Deutschen und Czechen ehrlich wollte. Aber er musste an seiner totalen Unkenntnis der Verhältnisse scheitern</rdg>
         </app>
         <anchor xml:id="Bae_TB_2_6255"/>
@@ -4505,7 +4502,7 @@
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_2_3051"/>
             </index>
           </index>
-          <app from="#" type="equal" xml:id="Bae_TB_2_3052">
+          <app from="#Bae_MF_1_4144" type="equal" xml:id="Bae_TB_2_3052">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3053">die Sprachenverordnungen</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_3054"/>sistiren 
@@ -4647,7 +4644,7 @@
         </p>
         <p xml:id="Bae_TB_2_3250">Unter der Voraussetzung der auf den bezeichneten Grundlagen hergestellten Ordnung 
           <add place="across" xml:id="Bae_TB_2_3251">nehmen die Parteien </add>nachstehende Stellung ein: 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6447">
+          <app from="#Bae_MF_1_4148" type="missing" xml:id="Bae_TB_2_6447">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6448"/>
           </app>
           <anchor xml:id="Bae_TB_2_6262"/>
@@ -4670,7 +4667,7 @@
           <del rendition="#s" xml:id="Bae_TB_2_3129">eine</del>
           <add place="across" xml:id="Bae_TB_2_3130">wenigstens eine entschiedene</add> Annäherung. Es wurde ein gemeinsames Comité eingesetzt, das öfter zusammenkam. Ich verfasste eine Art Protokoll – von 
           <persName key="FunkeAlois" ref="https://d-nb.info/gnd/1072507609" xml:id="Bae_TB_2_3131">Funke</persName>
-          <app from="#" type="equal" xml:id="Bae_TB_2_3132">
+          <app from="#Bae_MF_1_4145" type="equal" xml:id="Bae_TB_2_3132">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3133">eine Idee aufgestellt und durchgefürt hätte. Vergebens natürlich machten wir diese Argumente geltend, vergebens predigten wir, die Situation doch politisch aufzufassen – es war umsonst. So versumpfte die ganze Situation in Verhandlungen, bei denen hin und hergeredet wurde, ohne Ziel, Sicherheit und Aufrichtigkeit. Unter den deutschen Parteien vollzog sich über unsere Anregung wenigstens eine entschiedene Annäherung. Es wurde ein gemeinsames Komitee eingesetzt, das öfter zusammenkam. Ich verfasste eine Art Protokoll – von Funke</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_3134"/>
@@ -4809,7 +4806,7 @@
               <term key="Rekrutenkontingent" xml:id="Bae_TB_2_3284"/>
             </index>
           </index>. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6454">
+          <app from="#Bae_MF_1_4151" type="missing" xml:id="Bae_TB_2_6454">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6455"/>
           </app>
           <anchor xml:id="Bae_TB_2_6280"/>
@@ -4857,7 +4854,7 @@
             <abbr xml:id="Bae_TB_2_3419">u.</abbr>
             <expan xml:id="Bae_TB_2_3420">und</expan>
           </choice> besonders dieser Satz war zu viel. So gemässigt das erstere war, so sehr verstimmend wirkte das letztere, weil darunter vom Kampf uneingeschränkt gesprochen wurde.
-          <app from="#" type="missing" xml:id="Bae_TB_2_6459">
+          <app from="#Bae_MF_1_4172" type="missing" xml:id="Bae_TB_2_6459">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6460"/>
           </app>
         </p>
@@ -4877,7 +4874,7 @@
         <p xml:id="Bae_TB_2_3294">V. Formelle Vereinbarung</p>
         <p xml:id="Bae_TB_2_3295">Die deutschen Parteien erklären es als wünschenswert, dass auch in Zukunft in der eingeleiteten Form gemeinsame Besprechungen 
           <del rendition="#s" xml:id="Bae_TB_2_3296">der Vorstände</del> stattfinden. Die deutschen Parteien warten ab bis die Regierung an sie herantritt. Diese Parteien delegiren eine Abordnung von Vertrauensmännern, welche die eventuellen Verhandlungen mit der Re-
-          <app from="#" type="missing" xml:id="Bae_TB_2_6462">
+          <app from="#Bae_MF_1_4154" type="missing" xml:id="Bae_TB_2_6462">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6463"/>
           </app>
         </p>
@@ -4899,7 +4896,7 @@
             <expan xml:id="Bae_TB_2_3432">und</expan>
           </choice> Wegen nicht herauskommen. Wo wie im 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_3433">Großgrundbesitz</orgName> die Meinungen weniger schon eine Wirkung auf das 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6465">
+          <app from="#Bae_MF_1_4175" type="missing" xml:id="Bae_TB_2_6465">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6466"/>
           </app>
         </p>
@@ -4911,7 +4908,7 @@
         </p>
         <p xml:id="Bae_TB_2_3299">Jede derselben verpflichtet sich, falls die Regierung mit ihr in eine Verhandlung einzutreten versuchen sollte, die vorstehende Vereinbarung als Grundlage der Verhandlungen zu bezeichnen und zu erklären, dass sie bei denselben nur in der angegebenen Weise vorgehen wird.</p>
         <p xml:id="Bae_TB_2_3300">Die Parteien behalten sich auch vor, mit andern befreundeten Gruppen eine Fühlung herzustellen.
-          <app from="#" type="missing" xml:id="Bae_TB_2_6468">
+          <app from="#Bae_MF_1_4157" type="missing" xml:id="Bae_TB_2_6468">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6469"/>
           </app>
         </p>
@@ -4930,7 +4927,7 @@
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_3342">verfassungstreuen Großgrundbesitzer</orgName> im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_3343">Abgeordnetenhause</orgName> des 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_3344">Reichsrathes</orgName> erachtet es als ihre Pflicht, ihren Wählern am Schlusse einer ereignißreichen Session durch ein Rundschreiben, wenn auch nur in kurzen Zügen, ihr Verhalten in Erinnerung zu bringen und Rechenschaft zu geben über die wichtigsten Schritte, zu denen sie sich in dieser Zeit entschlossen hat. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6471">
+          <app from="#Bae_MF_1_4163" type="missing" xml:id="Bae_TB_2_6471">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6472"/>
           </app>
         </p>
@@ -4962,7 +4959,7 @@
             <expan xml:id="Bae_TB_2_3321">und</expan>
           </choice> ist die offizielle Ausfertigung im Besitze des 
           <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_2_3322">Dr. Gross</persName>. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_3323">
+          <app from="#Bae_MF_1_4160" type="missing" xml:id="Bae_TB_2_3323">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3324"/>
           </app>
         </p>
@@ -5035,7 +5032,7 @@
           <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_TB_2_3389">christlich-socialen Vereinigung</orgName> und der 
           <orgName key="FreiedeutscheVereinigung" xml:id="Bae_TB_2_3390">freien Vereinigung</orgName> ( 
           <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_2_3391">Mauthner</persName>-Gruppe) in diesen Tagen untereinander und mit der Regierung Besprechungen gepflogen.
-          <app from="#" type="missing" xml:id="Bae_TB_2_6475">
+          <app from="#Bae_MF_1_4166" type="missing" xml:id="Bae_TB_2_6475">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6476"/>
           </app>
         </p>
@@ -5093,7 +5090,7 @@
             <expan xml:id="Bae_TB_2_3473">und</expan>
           </choice>
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_2_3474">Fürstenberg</persName> hatte, überzeugten mich, dass auch 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6478">
+          <app from="#Bae_MF_1_4178" type="missing" xml:id="Bae_TB_2_6478">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6479"/>
           </app>
         </p>
@@ -5122,7 +5119,7 @@
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_3407">Vereinigung des verfassungstreuen Großgrundbesitzes</orgName> im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_3408">Abgeordnetenhause</orgName> des 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_3409">Reichsrathes</orgName>. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6481">
+          <app from="#Bae_MF_1_4169" type="missing" xml:id="Bae_TB_2_6481">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_6482"/>
           </app>
         </p>
@@ -5138,7 +5135,7 @@
               <expan xml:id="Bae_TB_2_3481">Fürstenberg</expan>
             </choice>
           </persName> verlangte dies besonders energisch selbst auf die Gefar eines Bruches mit den exclusiv nationalen Mitgliedern unserer Curie. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_3482">
+          <app from="#Bae_MF_1_4181" type="missing" xml:id="Bae_TB_2_3482">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3483"/>
           </app>
         </p>
