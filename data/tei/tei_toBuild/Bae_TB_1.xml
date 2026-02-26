@@ -223,6 +223,7 @@
           </app>
         </p>
         <pb facs="#F_K-6_Bae_TB_1_005" n="2v" xml:id="Bae_TB_1_205"/>
+        <anchor/>
         <addSpan spanTo="#Bae_TB_1_5680" type="insertion" xml:id="Bae_TB_1_209"/>
         <p xml:id="Bae_TB_1_206">Erklärung des 
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_207">Statthalters</persName> vom 
@@ -347,12 +348,12 @@
               <abbr xml:id="Bae_TB_1_203">böhm.</abbr>
               <expan xml:id="Bae_TB_1_204">böhmischen</expan>
             </choice> Landtag 
-          </orgName> abgegeben, die sehr böses Blut gemacht hatte. 
+          </orgName> abgegeben, die sehr böses Blut gemacht hatte. <app from="#Bae_MF_1_114" type="missing"><rdg wit="Bae_MF_1"></rdg></app>
         </p>
         <!-- DC Eingeklebung fol. 2v-->
         <anchor xml:id="Bae_TB_1_5838"/>
-        <app from="#Bae_TB_1_5680" type="insertion" xml:id="Bae_TB_1_5839">
-          <rdg xml:id="Bae_TB_1_5840">[...]</rdg>
+        <app from="#Bae_TB_1_209" type="insertion" xml:id="Bae_TB_1_5839">
+          <rdg xml:id="Bae_TB_1_5840">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_258">
           <anchor xml:id="Bae_TB_1_259"/>
@@ -626,17 +627,14 @@
             <abbr xml:id="Bae_TB_1_457">u.</abbr>
             <expan xml:id="Bae_TB_1_458">und</expan>
           </choice> das Versprechen gegeben werden in 
-          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_459">Böhmen</placeName> nichts zu unternehmen, ohne vorher 
+          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_459">Böhmen</placeName> nichts zu unternehmen, ohne vorher <app from="#Bae_MF_1_126" type="equal"><rdg>Ich war über Wunsch Schlesingers zu Badeni gegangen, um von ihm eine Rektifikation dieser Regierungserklärung zu erwirken. In dieser Besprechung entwickelte er in nachstehender Weise seine Pläne. Mir blutet das Herz, sagte er, wenn ich bedenke was kommt. Er meinte damit eine slavisch-klerikale Richtung. Wenn er könnte, er ginge am liebsten gleich, aber der Kaiser lasse ihn nicht – er müsse den Ausgleich machen. Dazu bedürfe es einer festen Majorität. Von den drei Gruppen: Čechen, Konservativen und Deutsch-Fortschrittlichen brauche er – immer mit den Polen – zwei, sonst könne er den Ausgleich mit Ungarn nicht machen. Er wolle die Čechen mit den Deutschen vereinigen u. zw. auf folgender Basis. Zunächst eine Sprachenverordnung mit dem Prinzip, daß alle staatlichen Beamten in Verwaltung, Justiz, Post, Telegraf und Steuerämtern beider Landessprachen mächtig sein müssten. Davon gewisse Ausnahmen für eine Uebergangszeit, so daß bei bestimmt bezeichneten Stellen vorläufig nur ein Beamter sein solle, der beiden Landessprachen mächtig sein solle. Die erste Eingabe solle entscheiden, wie der ganze Fall sprachlich geführt sein wird. Alle Zirkulare und Kundmachungen der Statthalterei zweisprachig. Ferner ein Curiengesetz, welches sofort eingebracht würde. Die innere Amtssprache der Verordnung vorbehalten. Er sei geneigt in dieser Hinsicht Koncessionen an die Čechen zu machen, jedoch sehr begrenzt; z.B. alle Eingaben der Beamten um Avancement, Urlaub etc. bleiben deutsch; alle Berichte der Unterbehörden an die Oberbehörden bleiben deutsch, auch die Requisitionen der Gerichte untereinander. Von einer Ausdehnung der Aktion auf Mähren oder die Wiener Behörden keine Rede. Die nationale Abgrenzung der Bezirksgerichte wolle er unbedingt durchfüren, der Kreisgerichte so weit es mit den anforderungen der Justiz zusammengeht. Bezüglich Trautenauer Kreisgericht entwickelte er den etwas komplizierten Plan dieses deutsche Kreisgericht dem Landtag ohne dem čechischen Bezirk Politz, jedoch mit dem gleichfalls čechischen Bezirk Eipel vorzulegen, aber wenn auch der Landtag die Einbeziehung von Eipel beschließt zu sorgen, daß aus dem dortigen Bezirk selbst die Zuweisung zu dem čechischen Kreisgericht Königgrätz verlangt wird. Dieses an sich unbedeutende Beispiel zeigt, wie Badeni für alle Schwierigkeiten in seiner Phantasie sofort einen Ausweg fand. Führte man dagegen reale Bedenken ins Feld wurde er ungeduldig. Weiter gehörte zu seinem Plan eine Wahlordnungsreform in Böhmen, die er nicht näher definiert und von der er auch offenbar keine klare Vorstellung hatte. Den Deutschen wollte er in Prag eine Akademie der Wissenschaften kreieren! Das sollte eine Art Kompensation sein. Zur Durchfürung dieser Ideen wollte er noch während der Tagung des Landtags den Minister Rittner nach Prag schicken. Er würde Entwürfe des Kuriengesetzes und der Sprachenverordnung mitbringen und mit Vertretern beider Nationalitäten und beider Parteien im Großgrundbesitz verhandeln. Gelänge der Ausgleich so werde er sein Ministerium rekonstruieren, wobei er sich über die Ausschiffung des einen oder andern seiner Ministerkollegen mit größter Ungeniertheit aussprach. Nach Prag wollte er selbst erst zur Perfektionierung des Ganzen kommen. Damals wie später oft war es mein Bestreben ihn zu überzeugen, daß er zum ungarischen Ausgleich eine feste Majorität im Reichsrate nicht bedürfe, weil er sicher sein könne, daß die Deutsch-Böhmen für den Ausgleich eintreten werden, wenn er halbwegs annehmbar sein werde. Schlesinger hatte mir das oft wiederholt und Alexander Richter, sonst ein Heißsporn, hatte geäußert: ich möchte mir den nordböhmischen Abgeordneten ansehen, der gegen den ungaricschen Ausgleich wäre! Das Interesse der Industrie hätte alle deutschen Abgeordneten aus Böhmens Städten dem Ausgleich geneigt gemacht. Nach Prag zurückgekehrt, legte ich diese Badeni'schen Ideen einer kleinen Konferenz vor, die aus Schlesinger, Lippert und Kiemann bestand. Die Herren lehnten es ab, sich in Verhandlungen einzulassen. Das Mißtrauen gegen Badeni sei sehr groß, die Zeit während der Reichsratswahlen sei nicht geeignet zu Konzessionen an die Čechen, die sofort von den Nationalen gegen die Fortschrittlichen würden ausgebeutet werden. Ein Kuriengesetz könne nicht Gegenstand irgend einer Kompensation sein gegenüber einer Sprachenverordnung. Bloße Wahlkurien könnte man vor den Wählern nicht rechtfertigen. Bezüglich der Sprachenverordnung hatte Schlesinger einige Zeit vorher mit Badeni eine Besprechung gehabt, die Sache aber ganz anders aufgefasst als ich, nämlich daß die Ausnahme für die Deutschen in Böhmen darin bestehen werde, daß der deutsche Beamte, der nicht čechisch kann, in deutschen Bezirken wo der Perzentsatz der Čechen nicht ein größerer ist auch ohne Kenntnis der čechischen Sprache Anstellung finden kann, daß aber immer ein Beamte im Amte sein müsse, der mit čechischen Parteien schriftlich und mündlich verkehren könne. Das sollte nach Schlesingers Auffassung nicht bloß für eine Uebergangszeit, sondern als territoriale Ausnahme gelten. In dieser Form sei die Sache diskutabel, aber nicht vor den Wahlen. Schlesinger war ganz von der Furcht vor den Wahlen beherrscht. Der Vorteil den Minister Rittner mit dem Text der geplanten Gesetze und Verordnungen in Prag zu haben und in die ganze Sache dadurch vollen Einblick zu gewinnen, leuchtete ihm nicht ein. Schon damals (Ende Jänner) erklärte ich sowohl Badeni als Schlesinger wie notwendig es wäre den Text der geplanten Verordnung mitzuteilen, beziehungsweise zu erfahren. Schlesinger war aber von einer unüberwindlichen Scheu beherrscht, sich überhaupt in Verhandlungen einzulassen. Ich ging nach Wien zurück mit der Bitte an B. jetzt nichts zu unternehmen und alles bis nach den Wahlen zu vertagen. Er ging auf diesen Vorschlag ein, versprach die Sprachenverordnung vorläufig nicht zu erlassen und behielt sich vor, nach den Wahlen die ganze Aktion wieder aufzunehmen. Glücklicher war meine Intervention bezüglich der Remedur, welche die Deutschen bezüglich der ersten Regierungserklärung im Landtage verlangten. Schlesinger verlangte eine Interpretation oder Rektifizierung nach doppelter Richtung. Der Konnex zwischen Kuriengesetz und Wahlreform sollte beseitigt und das Versprechen gegeben werden, in Böhmen nichts zu unternehmen, ohne vorher</rdg></app>
         </p>
         <pb facs="#F_K-6_Bae_TB_1_015" n="7v" xml:id="Bae_TB_1_471"/>
         <p xml:id="Bae_TB_1_472">
-          <anchor xml:id="Bae_TB_1_473"/>Erklärung des 
-          <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_474">Statthalters</persName> vom 
-          <date when="1897-02-05" xml:id="Bae_TB_1_475">5. Feburar 1897</date>
+          <anchor xml:id="Bae_TB_1_473"/>
+          <addSpan spanTo="#Bae_TB_1_5681" type="insertion" xml:id="Bae_TB_1_476"/>Erklärung des <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_474">Statthalters</persName> vom <date when="1897-02-05" xml:id="Bae_TB_1_475">5. Feburar 1897</date>
         </p>
-        <addSpan spanTo="#Bae_TB_1_5681" type="insertion" xml:id="Bae_TB_1_476"/>
-        <p xml:id="Bae_TB_1_477">Statthalter 
-          <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_478">Graf Coudenhove</persName>: Ich bin gern bereit demjenigen Theil der Ausführungen des verehrten Herrn Vorredners, in welchem er sich mit der Regierungserklärung beschäftigt hat, Rechnung zu tragen und mich an der Discussion über diese Erklärung zu betheiligen, und da habe ich zunächst im Namen der Regierung die Erklärung abzugeben, daß dieselbe gegen die Annahme dieses Antrages von ihrem Standpuncte aus keinerlei Einwendung zu erheben hat (Heiterkeit bei den Deutschen), und dies umso weniger, weil seit der Abgabe dieser Erklärung dieselbe in der Oeffentlichkeit vielfach eine nach Meinung der Regierung etwas tendenziöse Behandlung erfahren hat (Oho!) und als vielfach der Versuch gemacht worden ist, diese Erklärung als Waffe im nationalen Kampfe zu benützen. Der Regierung kann daher eine objective und ruhige Besprechung ihrer Erklärung im Schoße eines Ausschußes nur erwünscht sein. Die Regierung hätte zwar gemeint, daß die offene Sprache, die sie geführt hat, und daß die Intentionen, die sie zum Ausdrucke gebracht hat, es weniger nothwendig gemacht hätten, ihre Erklärung zum Gegenstande commissioneller Erörterungen zu machen, als wenn sie es vorgezogen hätte, sich in diplomatisches Schweigen zu hüllen, allein mit derselben Offenheit und Loyalität, mit welcher die Regierung gleich bei Beginn der Verhandlungen dieses hohen 
+        <p xml:id="Bae_TB_1_477">Statthalter <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_478">Graf Coudenhove</persName>: Ich bin gern bereit demjenigen Theil der Ausführungen des verehrten Herrn Vorredners, in welchem er sich mit der Regierungserklärung beschäftigt hat, Rechnung zu tragen und mich an der Discussion über diese Erklärung zu betheiligen, und da habe ich zunächst im Namen der Regierung die Erklärung abzugeben, daß dieselbe gegen die Annahme dieses Antrages von ihrem Standpuncte aus keinerlei Einwendung zu erheben hat (Heiterkeit bei den Deutschen), und dies umso weniger, weil seit der Abgabe dieser Erklärung dieselbe in der Oeffentlichkeit vielfach eine nach Meinung der Regierung etwas tendenziöse Behandlung erfahren hat (Oho!) und als vielfach der Versuch gemacht worden ist, diese Erklärung als Waffe im nationalen Kampfe zu benützen. Der Regierung kann daher eine objective und ruhige Besprechung ihrer Erklärung im Schoße eines Ausschußes nur erwünscht sein. Die Regierung hätte zwar gemeint, daß die offene Sprache, die sie geführt hat, und daß die Intentionen, die sie zum Ausdrucke gebracht hat, es weniger nothwendig gemacht hätten, ihre Erklärung zum Gegenstande commissioneller Erörterungen zu machen, als wenn sie es vorgezogen hätte, sich in diplomatisches Schweigen zu hüllen, allein mit derselben Offenheit und Loyalität, mit welcher die Regierung gleich bei Beginn der Verhandlungen dieses hohen 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_479">Landtages</orgName> mit ihrer Erklärung hervorgetreten ist, mit derselben Offenheit und Loyalität nimmt sie auch den Antrag des Abg. 
           <persName key="RussViktor" ref="https://d-nb.info/gnd/1028849435" xml:id="Bae_TB_1_480">Dr. Ruß</persName> und Genossen an. Sie erwartet von der commissionellen Berathung vor allem anderen schon die Klarstellung jener Behauptung, welche sofort nach Abgabe der Erklärung in die Oeffentlichkeit gesetzt worden ist, und sie sieht Enthüllungen in dieser Beziehung mit vollster Beruhigung entgegen. Mit der gleichen Zuversicht wird die Regierung auch daran gehen, auch die Zweifel und Bedenken zu beseitigen, die rücksichtlich des Inhaltes der Regierungserklärung laut geworden sind und jene Versuche zurückweisen, die in der Oeffentlichkeit vielfach gemacht worden sind, in meritorischer Beziehung dem Inhalte dieser Regierungserklärung eine Auslegung zu geben, die den Thatsachen nicht entspricht. Ich möchte nur nebenbei erwähnen, daß gerade der in der öffentlichen Discussion gemachte Versuch, die Regierungserklärung in eine Kampfesparole umzuwandeln, nicht anders als durch eine gewaltsame Auslegung geschehen konnte (lauter Widerspruch und Oho-Rufe seitens der deutschen Abgeordneten). Ich bitte, meine Herren, ich spreche von der 
           <index xml:id="Bae_TB_1_481">
@@ -691,7 +689,7 @@
         <anchor xml:id="Bae_TB_1_5681"/>
         <!-- CA. anchor für addspan Bae_TB_1_476 -->
         <!-- DC Ende der Einklebung -->
-        <pb facs="#F_K-6_Bae_TB_1_016" n="8r" xml:id="Bae_TB_1_460"/>
+        <pb facs="#F_K-6_Bae_TB_1_016" n="8r" xml:id="Bae_TB_1_460"/><anchor/>
         <p xml:id="Bae_TB_1_5841">die Vertreter beider Nationalitäten gefragt zu haben. 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_461">Badeni</persName> ging auf dieses Verlangen ohne Weiteres ein 
           <choice xml:id="Bae_TB_1_462">
@@ -702,13 +700,13 @@
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_466">Statthalter</persName> vor, die dieser am 
           <date when="1897-02-05" xml:id="Bae_TB_1_467">5.</date> im 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_468">Landtage</orgName>, wenn auch correkt, so doch nicht glücklich benützte. 
-          <app from="#Bae_MF_1_126" type="equal" xml:id="Bae_TB_1_469">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_470">Ich war über Wunsch Schlesingers zu Badeni gegangen, um von ihm eine Rektifikation dieser Regierungserklärung zu erwirken. In dieser Besprechung entwickelte er in nachstehender Weise seine Pläne. Mir blutet das Herz, sagte er, wenn ich bedenke was kommt. Er meinte damit eine slavisch-klerikale Richtung. Wenn er könnte, er ginge am liebsten gleich, aber der Kaiser lasse ihn nicht – er müsse den Ausgleich machen. Dazu bedürfe es einer festen Majorität. Von den drei Gruppen: Čechen, Konservativen und Deutsch-Fortschrittlichen brauche er – immer mit den Polen – zwei, sonst könne er den Ausgleich mit Ungarn nicht machen. Er wolle die Čechen mit den Deutschen vereinigen u. zw. auf folgender Basis. Zunächst eine Sprachenverordnung mit dem Prinzip, daß alle staatlichen Beamten in Verwaltung, Justiz, Post, Telegraf und Steuerämtern beider Landessprachen mächtig sein müssten. Davon gewisse Ausnahmen für eine Uebergangszeit, so daß bei bestimmt bezeichneten Stellen vorläufig nur ein Beamter sein solle, der beiden Landessprachen mächtig sein solle. Die erste Eingabe solle entscheiden, wie der ganze Fall sprachlich geführt sein wird. Alle Zirkulare und Kundmachungen der Statthalterei zweisprachig. Ferner ein Curiengesetz, welches sofort eingebracht würde. Die innere Amtssprache der Verordnung vorbehalten. Er sei geneigt in dieser Hinsicht Koncessionen an die Čechen zu machen, jedoch sehr begrenzt; z.B. alle Eingaben der Beamten um Avancement, Urlaub etc. bleiben deutsch; alle Berichte der Unterbehörden an die Oberbehörden bleiben deutsch, auch die Requisitionen der Gerichte untereinander. Von einer Ausdehnung der Aktion auf Mähren oder die Wiener Behörden keine Rede. Die nationale Abgrenzung der Bezirksgerichte wolle er unbedingt durchfüren, der Kreisgerichte so weit es mit den anforderungen der Justiz zusammengeht. Bezüglich Trautenauer Kreisgericht entwickelte er den etwas komplizierten Plan dieses deutsche Kreisgericht dem Landtag ohne dem čechischen Bezirk Politz, jedoch mit dem gleichfalls čechischen Bezirk Eipel vorzulegen, aber wenn auch der Landtag die Einbeziehung von Eipel beschließt zu sorgen, daß aus dem dortigen Bezirk selbst die Zuweisung zu dem čechischen Kreisgericht Königgrätz verlangt wird. Dieses an sich unbedeutende Beispiel zeigt, wie Badeni für alle Schwierigkeiten in seiner Phantasie sofort einen Ausweg fand. Führte man dagegen reale Bedenken ins Feld wurde er ungeduldig. Weiter gehörte zu seinem Plan eine Wahlordnungsreform in Böhmen, die er nicht näher definiert und von der er auch offenbar keine klare Vorstellung hatte. Den Deutschen wollte er in Prag eine Akademie der Wissenschaften kreieren! Das sollte eine Art Kompensation sein. Zur Durchfürung dieser Ideen wollte er noch während der Tagung des Landtags den Minister Rittner nach Prag schicken. Er würde Entwürfe des Kuriengesetzes und der Sprachenverordnung mitbringen und mit Vertretern beider Nationalitäten und beider Parteien im Großgrundbesitz verhandeln. Gelänge der Ausgleich so werde er sein Ministerium rekonstruieren, wobei er sich über die Ausschiffung des einen oder andern seiner Ministerkollegen mit größter Ungeniertheit aussprach. Nach Prag wollte er selbst erst zur Perfektionierung des Ganzen kommen. Damals wie später oft war es mein Bestreben ihn zu überzeugen, daß er zum ungarischen Ausgleich eine feste Majorität im Reichsrate nicht bedürfe, weil er sicher sein könne, daß die Deutsch-Böhmen für den Ausgleich eintreten werden, wenn er halbwegs annehmbar sein werde. Schlesinger hatte mir das oft wiederholt und Alexander Richter, sonst ein Heißsporn, hatte geäußert: ich möchte mir den nordböhmischen Abgeordneten ansehen, der gegen den ungaricschen Ausgleich wäre! Das Interesse der Industrie hätte alle deutschen Abgeordneten aus Böhmens Städten dem Ausgleich geneigt gemacht. Nach Prag zurückgekehrt, legte ich diese Badeni'schen Ideen einer kleinen Konferenz vor, die aus Schlesinger, Lippert und Kiemann bestand. Die Herren lehnten es ab, sich in Verhandlungen einzulassen. Das Mißtrauen gegen Badeni sei sehr groß, die Zeit während der Reichsratswahlen sei nicht geeignet zu Konzessionen an die Čechen, die sofort von den Nationalen gegen die Fortschrittlichen würden ausgebeutet werden. Ein Kuriengesetz könne nicht Gegenstand irgend einer Kompensation sein gegenüber einer Sprachenverordnung. Bloße Wahlkurien könnte man vor den Wählern nicht rechtfertigen. Bezüglich der Sprachenverordnung hatte Schlesinger einige Zeit vorher mit Badeni eine Besprechung gehabt, die Sache aber ganz anders aufgefasst als ich, nämlich daß die Ausnahme für die Deutschen in Böhmen darin bestehen werde, daß der deutsche Beamte, der nicht čechisch kann, in deutschen Bezirken wo der Perzentsatz der Čechen nicht ein größerer ist auch ohne Kenntnis der čechischen Sprache Anstellung finden kann, daß aber immer ein Beamte im Amte sein müsse, der mit čechischen Parteien schriftlich und mündlich verkehren könne. Das sollte nach Schlesingers Auffassung nicht bloß für eine Uebergangszeit, sondern als territoriale Ausnahme gelten. In dieser Form sei die Sache diskutabel, aber nicht vor den Wahlen. Schlesinger war ganz von der Furcht vor den Wahlen beherrscht. Der Vorteil den Minister Rittner mit dem Text der geplanten Gesetze und Verordnungen in Prag zu haben und in die ganze Sache dadurch vollen Einblick zu gewinnen, leuchtete ihm nicht ein. Schon damals (Ende Jänner) erklärte ich sowohl Badeni als Schlesinger wie notwendig es wäre den Text der geplanten Verordnung mitzuteilen, beziehungsweise zu erfahren. Schlesinger war aber von einer unüberwindlichen Scheu beherrscht, sich überhaupt in Verhandlungen einzulassen. Ich ging nach Wien zurück mit der Bitte an B. jetzt nichts zu unternehmen und alles bis nach den Wahlen zu vertagen. Er ging auf diesen Vorschlag ein, versprach die Sprachenverordnung vorläufig nicht zu erlassen und behielt sich vor, nach den Wahlen die ganze Aktion wieder aufzunehmen. Glücklicher war meine Intervention bezüglich der Remedur, welche die Deutschen bezüglich der ersten Regierungserklärung im Landtage verlangten. Schlesinger verlangte eine Interpretation oder Rektifizierung nach doppelter Richtung. Der Konnex zwischen Kuriengesetz und Wahlreform sollte beseitigt und das Versprechen gegeben werden, in Böhmen nichts zu unternehmen, ohne vorher die Vertreter beider Nationalitäten gefragt zu haben. Badeni ging auf dieses Verlangen ohne weiteres ein und las mir am 4. Februar Nachmittag die Instruktion an den Statthalter vor, die dieser am 5. im Landtage, wenn auch korrekt, so doch nicht glücklich benützte.</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_1_469">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_470">die Vertreter beider Nationalitäten gefragt zu haben. Badeni ging auf dieses Verlangen ohne weiteres ein und las mir am 4. Februar Nachmittag die Instruktion an den Statthalter vor, die dieser am 5. im Landtage, wenn auch korrekt, so doch nicht glücklich benützte.</rdg>
           </app>
         </p>
         <anchor xml:id="Bae_TB_1_5842"/>
-        <app from="#Bae_TB_1_5681" type="insertion" xml:id="Bae_TB_1_5843">
-          <rdg xml:id="Bae_TB_1_5844">[...]</rdg>
+        <app from="#Bae_TB_1_476" type="insertion" xml:id="Bae_TB_1_5843">
+          <rdg xml:id="Bae_TB_1_5844">&#8230;</rdg>
         </app>
         <!-- DC Einklebung fol. 7v -->
         <p xml:id="Bae_TB_1_517">
@@ -934,13 +932,12 @@
         <p xml:id="Bae_TB_1_682">Die Versammlung der Vertrauensmänner der Deutschen in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_683">Böhmen</placeName> am 
           <date when="1896-06-29" xml:id="Bae_TB_1_684">29. Juni 1896</date> in 
-          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_1_685">Prag</placeName>, noch mehr aber die dieser Versammlung vorausgehenden Beratungen des Exekutivcomité's und 
+          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_1_685">Prag</placeName>, noch mehr aber die dieser Versammlung vorausgehenden Beratungen des Exekutivcomité's und <app from="#" type="equal"><rdg wit="Bae_MF_1">Im Februar 1897 war ich auch sehr intensiv mit den Vorbereitungen zur Wahl im Großgrundbesitz sowie seiner Raillierung beschäftigt. Ich muß auf Ereignisse des Vorjahres zurückgreifen, um unser Vorgehen zu erklären. Die Versammlung der Vertrauensmänner der Deutschen in Böhmen am 29. Juni 1896 in Prag, noch mehr aber die dieser Versammlung vorausgehenden Beratungen des Exekutivkomitees und</rdg></app>
         </p>
-        <p xml:id="Bae_TB_1_714">
+          <anchor xml:id="Bae_TB_1_715"/>
+          <addSpan spanTo="#Bae_TB_1_5682" type="insertion" xml:id="Bae_TB_1_716"/>
           <pb facs="#F_K-6_Bae_TB_1_023" n="11v" xml:id="Bae_TB_1_5710"/>
-          <anchor xml:id="Bae_TB_1_715"/>Unser Circular 
-        </p>
-        <addSpan spanTo="#Bae_TB_1_5682" type="insertion" xml:id="Bae_TB_1_716"/>
+        <p xml:id="Bae_TB_1_714">Unser Circular</p>
         <p xml:id="Bae_TB_1_717">Das unterzeichnete Wahlcomité beehrt sich hiemit an die Parteileitungen des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_718">verfassungstreuen Grossgrundbesitzes</orgName> in 
           <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_1_719">Mähren</placeName>, 
@@ -1046,9 +1043,8 @@
         <anchor xml:id="Bae_TB_1_5682"/>
         <!-- CA: anchor für addspan Bae_TB_1_716 -->
         <pb facs="#F_K-6_Bae_TB_1_024" n="12r" xml:id="Bae_TB_1_687"/>
-        <p xml:id="Bae_TB_1_5845">einer Abgesandtenconferenz zeigten zur Evidenz, dass die Volksabgeordneten die feste Absicht hatten, sich vom Grossgrundbesitz zu trennen, nicht so sehr weil sie selbst glaubten dass 
-          <app from="#Bae_MF_1_378" type="equal" xml:id="Bae_TB_1_688">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_689">Im Februar 1897 war ich auch sehr intensiv mit den Vorbereitungen zur Wahl im Großgrundbesitz sowie seiner Raillierung beschäftigt. Ich muß auf Ereignisse des Vorjahres zurückgreifen, um unser Vorgehen zu erklären. Die Versammlung der Vertrauensmänner der Deutschen in Böhmen am 29. Juni 1896 in Prag, noch mehr aber die dieser Versammlung vorausgehenden Beratungen des Exekutivkomitees und einer Abgesandtenkonferenz zeigten zur Evidenz, daß die Volksabgeordneten die feste Absicht hatten, sich vom Großgrundbesitz zu trennen, nicht so sehr weil sie selbst glaubten, daß</rdg>
+        <anchor/><p xml:id="Bae_TB_1_5845">einer Abgesandtenconferenz zeigten zur Evidenz, dass die Volksabgeordneten die feste Absicht hatten, sich vom Grossgrundbesitz zu trennen, nicht so sehr weil sie selbst glaubten dass <app from="#" type="equal" xml:id="Bae_TB_1_688">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_689">einer Abgesandtenkonferenz zeigten zur Evidenz, daß die Volksabgeordneten die feste Absicht hatten, sich vom Großgrundbesitz zu trennen, nicht so sehr weil sie selbst glaubten, daß</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_690"/>diese 
           <app from="#Bae_MF_1_387" type="notEqual" xml:id="Bae_TB_1_691">
@@ -1083,8 +1079,8 @@
         </p>
         <!-- DC Einklebung fol. 11v-->
         <anchor xml:id="Bae_TB_1_5846"/>
-        <app from="#Bae_TB_1_5682" type="insertion" xml:id="Bae_TB_1_5847">
-          <rdg xml:id="Bae_TB_1_5848">[...]</rdg>
+        <app from="#Bae_TB_1_716" type="insertion" xml:id="Bae_TB_1_5847">
+          <rdg xml:id="Bae_TB_1_5848">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_791">
           <anchor xml:id="Bae_TB_1_792"/>
@@ -1597,10 +1593,11 @@
           <app from="#Bae_MF_1_629" type="missing" xml:id="Bae_TB_1_1160">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1161"/>
           </app>
-          <anchor xml:id="Bae_TB_1_1162"/>, dass bei einer namhaften Gruppe deutscher Abgeordneter die grösste Lust bestehe sich mit dem Grossgrundbesitz zu vereinigen. Die Rücksicht auf die Wählerschaften verhinderte 
+          <anchor xml:id="Bae_TB_1_1162"/>, dass bei einer namhaften Gruppe deutscher Abgeordneter die grösste Lust bestehe sich mit dem Grossgrundbesitz zu vereinigen. Die Rücksicht auf die Wählerschaften verhinderte <app from="#Bae_MF_1_632" type="equal"><rdg wit="Bae_MF_1">, daß bei einer namhaften Gruppe deutscher Abgeordneter die größte Lust bestehe sich mit dem Großgrundbesitz zu vereinigen. Die Rücksicht auf die Wählerschaften verhinderte</rdg></app>
         </p>
         <!-- Einklebung Zeitungsartikel -->
         <pb facs="#F_K-6_Bae_TB_1_039" n="19v" xml:id="Bae_TB_1_1163"/>
+        <anchor/>
         <addSpan spanTo="#Bae_TB_1_5926" type="insertion" xml:id="Bae_TB_1_1202"/>
         <p xml:id="Bae_TB_1_1203">
           <anchor xml:id="Bae_TB_1_1204"/>[handschriftlich]: 
@@ -1696,11 +1693,11 @@
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_1271">Böhmen</placeName> bestimmte Verordnung setzt in § 1 zwar fest, daß alle Beamten bei allen landesfürstlichen Behörden in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_1272">Böhmen</placeName> beider Landessprachen mächtig sein müssen, aber fast jeder folgende Paragraph bedeutet eine Milderung dieser principiellen Feststellung. 
         </p>
-        <p xml:id="Bae_TB_1_1273">Vor Allem sind die bereits angestellten Beamten von der Verpflichtung, die Kenntniß der čechischen Sprache, nachzuweisen, für immer befreit; ferner ist der Eintritt von Beamten in den Staatsdienst auch für eine mehrjährige Uibergangsperiode nicht an diesen Nachweis gebunden, die Beamten werden aber verpflichtet, binnen einer Frist von sechs Jahren, und wenn eine Aenderung, die noch in Verhandlung steht,</p>
+        <p xml:id="Bae_TB_1_1273">Vor Allem sind die bereits angestellten Beamten von der Verpflichtung, die Kenntniß der čechischen Sprache, nachzuweisen, für immer befreit; ferner ist der Eintritt von Beamten in den Staatsdienst auch für eine mehrjährige Uibergangsperiode nicht an diesen Nachweis gebunden, die Beamten werden aber verpflichtet, binnen einer Frist von sechs Jahren, und wenn eine Aenderung, die noch in Verhandlung steht,<app from="#Bae_MF_1_664" type="missing"><rdg wit="Bae_TB_1"></rdg></app></p>
         <anchor xml:id="Bae_TB_1_5926"/>
-        <!-- CA: anchor für das vorherige addspan 1202-->
+        <!-- CA: anchor für das vorherige addspan 19v-->
         <pb facs="#F_K-6_Bae_TB_1_040" n="20r" xml:id="Bae_TB_1_1164"/>
-        <p xml:id="Bae_TB_1_5849">dies jedoch. Auch waren wir 30 Abgeordnete des 
+        <p xml:id="Bae_TB_1_5849"><anchor/>dies jedoch. Auch waren wir 30 Abgeordnete des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_1165">Grossgrundbesitzes</orgName> gegenüber den 12 - 15 Abgeordneten, die zu einer Vereinigung eigentlich bereit waren, zu stark 
           <choice xml:id="Bae_TB_1_1166">
             <abbr xml:id="Bae_TB_1_1167">u.</abbr>
@@ -1709,8 +1706,8 @@
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_1_1169">Vereinigten Linken</orgName>" war durch die Wahlen eben sehr geschwächt, selbst 
           <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_1_1170">Marchet</persName>, auf den ich sehr als vermittelndes Element gerechnet hatte, war in 
           <placeName key="Baden" ref="https://www.geonames.org/2782067/baden.html" xml:id="Bae_TB_1_1171">Baden</placeName> trotz der grossen Verdienste, die er sich um die durch die Philoxera verwüsteten Weingebiete erworben hatte – durchgefallen, das eclatanteste Beispiel von Wählerundank. Auf diese Weise wurde die an sich richtige Idee eines "linken Centrums" zu nichte. 
-          <app from="#Bae_MF_1_632" type="equal" xml:id="Bae_TB_1_1172">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1173">, daß bei einer namhaften Gruppe deutscher Abgeordneter die größte Lust bestehe sich mit dem Großgrundbesitz zu vereinigen. Die Rücksicht auf die Wählerschaften verhinderte dies jedoch. Auch waren wir 30 Abgeordnete des Großgrundbesitzes gegenüber den 12-15 Abgeordneten, die zu einer Vereinigung eigentlich bereit waren, zu stark und hätten in einem gemeinsamen Verband zu sehr überwogen. Gerade der gemäßigte Flügel der ehemaligen "Vereinigten Linken" war durch die Wahlen eben sehr geschwächt, selbst Marchet, auf den ich sehr als vermittelndes Element gerechnet hatte, war in Baden trotz der grossen Verdienste, die er sich um die durch die Phylloxera verwüsteten Weingebiete erworben hatte – durchgefallen, das eklatanteste Beispiel von Wählerundank. Auf diese Weise wurde die an sich richtige Idee eines "linken Zentrums" zu nichte.</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_1_1172">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1173">dies jedoch. Auch waren wir 30 Abgeordnete des Großgrundbesitzes gegenüber den 12-15 Abgeordneten, die zu einer Vereinigung eigentlich bereit waren, zu stark und hätten in einem gemeinsamen Verband zu sehr überwogen. Gerade der gemäßigte Flügel der ehemaligen "Vereinigten Linken" war durch die Wahlen eben sehr geschwächt, selbst Marchet, auf den ich sehr als vermittelndes Element gerechnet hatte, war in Baden trotz der grossen Verdienste, die er sich um die durch die Phylloxera verwüsteten Weingebiete erworben hatte – durchgefallen, das eklatanteste Beispiel von Wählerundank. Auf diese Weise wurde die an sich richtige Idee eines "linken Zentrums" zu nichte.</rdg>
           </app>
         </p>
       </div>
@@ -1754,7 +1751,7 @@
         </p>
         <!-- DC Einklebung Zeitungsartikel -->
         <pb facs="#F_K-6_Bae_TB_1_041" n="20v" xml:id="Bae_TB_1_1274"/>
-        <addSpan spanTo="#Bae_TB_1_5684" type="insertion" xml:id="Bae_TB_1_5850"/>
+        <anchor/><addSpan spanTo="#Bae_TB_1_5684" type="insertion" xml:id="Bae_TB_1_5850"/>
         <p xml:id="Bae_TB_1_5851">Platz greift, in sieben Jahren die Prüfung aus der čechischen Sprache abzulegen. Eigene Prüfungscommissionen, in welchen den Deutschen eine ausreichende Vertretung eingeräumt wird, um die Prüfungscandidaten vor überflüssiger Strenge zu schützen, werden eingesetzt. </p>
         <p xml:id="Bae_TB_1_1275">Insbesondere müssen die Manipulationsbeamten vor jeder Härte verschont bleiben und es dürfen an sie nicht Anforderungen gestellt werden wie an die Conceptsbeamten. In jenen Bezirken, wo das sachliche Bedürfniß für die Kenntniß des Čechischen seitens aller Beamten nicht besteht (damit ist das geschlossene deutsche Sprachgebiet gemeint) genügt es, wenn in jedem Amte nur ein Beamter der čechischen Sprache mächtig ist. Die Verordnung tritt am 
           <date when="1897-07-01" xml:id="Bae_TB_1_1276">1. Juli 1897</date> in Kraft, aber erst vom 
@@ -1799,19 +1796,20 @@
             </index>
           </index> auch nichts weniger als befriedigt, aber sollen denn die Deutschen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_1306">Oesterreich</placeName> die einzige, ich sage die einzige Nation sein, die den Verhältnissen, ich sage den zwingenden Verhältnissen niemals Rechnung tragen will? Viel steht auf dem Spiele. Es ist der aufrichtigste Wunsch der Regierung, daß das Spiel für die liberalen Deutschen nicht verloren gehe; sie können und sollen es gewinnen, wenn sie den großen Moment richtig erfassen. 
-          <app from="#Bae_MF_1_664" type="missing" xml:id="Bae_TB_1_1307">
+          <app from="#" type="missing" xml:id="Bae_TB_1_1307">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1308"/>
           </app>
         </p>
         <anchor xml:id="Bae_TB_1_5684"/>
         <!-- CA: anchor für addspan -->
+        <!-- CA: hierher 19v und 20v -->
         <anchor xml:id="Bae_TB_1_5852"/>
-        <app from="#Bae_TB_1_5926" type="insertion" xml:id="Bae_TB_1_5853">
-          <rdg xml:id="Bae_TB_1_5854">[...]</rdg>
+        <app from="#Bae_TB_1_1202" type="insertion" xml:id="Bae_TB_1_5853">
+          <rdg xml:id="Bae_TB_1_5854">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_1_5855"/>
-        <app from="#Bae_TB_1_5684" type="insertion" xml:id="Bae_TB_1_5856">
-          <rdg xml:id="Bae_TB_1_5857">[...]</rdg>
+        <app from="#Bae_TB_1_5850" type="insertion" xml:id="Bae_TB_1_5856">
+          <rdg xml:id="Bae_TB_1_5857">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_1309">
           <anchor xml:id="Bae_TB_1_1310"/>Sehr bezeichnend für die 
@@ -2351,7 +2349,7 @@
             <expan xml:id="Bae_TB_1_1703">und</expan>
           </choice>
           <persName key="HaaseTheodor" ref="https://d-nb.info/gnd/126563233" xml:id="Bae_TB_1_1704">Haase</persName>, endlich auch 
-          <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_1_1705">Mauthner</persName>, dessen gesunder Menschenverstand gewönlich ein durchschlagender ist. 
+          <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_1_1705">Mauthner</persName>, dessen gesunder Menschenverstand gewönlich ein durchschlagender ist.<app from="#Bae_MF_1_782" type="equal"><rdg wit="Bae_MF_1">Denselben Tag, an dem ich Vormittag mit Gleispach die erzählte Unterredung hatte, wurde unter dem Vorsitz Carl Auersperg's und in seinem Präsidialbüro die Konferenz abgehalten, welche über meine Ministerschaft sowie über die Sprachenverordnung die Entscheidung zu fällen hatte. Ich lud zu derselben Auersperg und Rohan, weil ich diesen Beiden vor so vielen Herrenhausmitgliedern ein ruhiges, unabhängiges Urteil zutraue. Oppenheimer kam mehr zufällig dazu, weil er Tags vorher zu mir gekommen war und in seiner bekannten geheimniskrämerischen Weise mich wieder einmal versicherte, ich stehe vor einer wichtigen Entscheidung und sei zu weiß Gott was bestimmt. Es ist selbstverständlich, daß Ludwigstorff und Stürgkh dabei waren; Fürstl bat ich, weil er mit meinen Wählern im engsten Kontakt ist. Von den Deutschböhmen waren Funke, Pergelt, Nitsche und Fournier anwesend, von den Mährern Götz und Promber, von den Schlesiern Demel und Haase, endlich auch Mauthner, dessen gesunder Menschenverstand gewönlich ein durchschlagender ist.</rdg></app> 
         </p>
         <pb facs="#F_K-6_Bae_TB_1_053" n="26v" xml:id="Bae_TB_1_1755"/>
         <!-- Ergänzung S. 26v: Layout: die Zahlen der Abgeordnetengruppen stehen untereinander wegen Addition -->
@@ -2500,8 +2498,9 @@
           <anchor xml:id="Bae_TB_1_5859"/>
           <!-- CA: anchor für den vorherigen addspan -->
         </p>
+        <pb facs="#F_K-6_Bae_TB_1_054" n="27r" xml:id="Bae_TB_1_1709"/>
         <p xml:id="Bae_TB_1_1708">
-          <pb facs="#F_K-6_Bae_TB_1_054" n="27r" xml:id="Bae_TB_1_1709"/>Ich trug die ganze Sache vor*), beleuchtete die von 
+          <anchor/>Ich trug die ganze Sache vor*), beleuchtete die von 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1710">Badeni</persName> geplante parlamentarische Combination, 
           <choice xml:id="Bae_TB_1_1711">
             <abbr xml:id="Bae_TB_1_1712">d.h.</abbr>
@@ -2509,8 +2508,8 @@
           </choice> das Zusammengehen der Deutschen mit den 
           <orgName key="TschechenKlub" xml:id="Bae_TB_1_1714">Čechen</orgName>, berichtete über 
           <persName key="GleispachJohann" ref="https://d-nb.info/gnd/136541127" xml:id="Bae_TB_1_1715">Gleispach's</persName> Entschluss 
-          <app from="#Bae_MF_1_782" type="equal" xml:id="Bae_TB_1_1716">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1717">Denselben Tag, an dem ich Vormittag mit Gleispach die erzählte Unterredung hatte, wurde unter dem Vorsitz Carl Auersperg's und in seinem Präsidialbüro die Konferenz abgehalten, welche über meine Ministerschaft sowie über die Sprachenverordnung die Entscheidung zu fällen hatte. Ich lud zu derselben Auersperg und Rohan, weil ich diesen Beiden vor so vielen Herrenhausmitgliedern ein ruhiges, unabhängiges Urteil zutraue. Oppenheimer kam mehr zufällig dazu, weil er Tags vorher zu mir gekommen war und in seiner bekannten geheimniskrämerischen Weise mich wieder einmal versicherte, ich stehe vor einer wichtigen Entscheidung und sei zu weiß Gott was bestimmt. Es ist selbstverständlich, daß Ludwigstorff und Stürgkh dabei waren; Fürstl bat ich, weil er mit meinen Wählern im engsten Kontakt ist. Von den Deutschböhmen waren Funke, Pergelt, Nitsche und Fournier anwesend, von den Mährern Götz und Promber, von den Schlesiern Demel und Haase, endlich auch Mauthner, dessen gesunder Menschenverstand gewönlich ein durchschlagender ist. Ich trug die ganze Sache vor*), beleuchtete die von Badeni geplante parlamentarische Kombination, d.h. das Zusammengehen der Deutschen mit den Čechen, berichtete über Gleispach's Entschluß</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_1_1716">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1717">Ich trug die ganze Sache vor*), beleuchtete die von Badeni geplante parlamentarische Kombination, d.h. das Zusammengehen der Deutschen mit den Čechen, berichtete über Gleispach's Entschluß</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_1718"/>auszuscheiden, wenn ich nicht eintrete, las schliesslich die Verordnungen vor 
           <choice xml:id="Bae_TB_1_1719">
@@ -2566,8 +2565,8 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_1_5860"/>
-        <app from="#Bae_TB_1_5859" xml:id="Bae_TB_1_5861">
-          <rdg xml:id="Bae_TB_1_5862">[...]</rdg>
+        <app from="#Bae_TB_1_5858" xml:id="Bae_TB_1_5861">
+          <rdg xml:id="Bae_TB_1_5862">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_1858">
           <anchor xml:id="Bae_TB_1_1859"/>Von den Deutschböhmen war es vor allem 
@@ -2620,11 +2619,10 @@
             <expan xml:id="Bae_TB_1_1893">und</expan>
           </choice> den 
           <orgName key="TschechenKlub" xml:id="Bae_TB_1_1894">Čechen</orgName>, was ich so oft die Schlacht mit den drei Fronten genannt habe – stand drohend vor aller Augen. Trotzdem war im Urteil kein Schwanken, der einzige 
-          <persName key="FournierAugust" ref="https://d-nb.info/gnd/119034735" xml:id="Bae_TB_1_1895">Fournier</persName> war es, der eine Art Verzweiflungsstimmung zur Schau trug. Spät am Abend trennten wir uns, nachdem beschlossen worden war, dass am andern Morgen eine Deputation bestehend aus 
+          <persName key="FournierAugust" ref="https://d-nb.info/gnd/119034735" xml:id="Bae_TB_1_1895">Fournier</persName> war es, der eine Art Verzweiflungsstimmung zur Schau trug. Spät am Abend trennten wir uns, nachdem beschlossen worden war, dass am andern Morgen eine Deputation bestehend aus <app from="#Bae_MF_1_903" type="equal"><rdg wit="Bae_MF_1">Von den Deutschböhmen war es vor allem Funke, der einen Sturm in Deutschböhmen voraussagte, falls die Verordnungen publiziert würden. Er schilderte – u. darin hatte er sehr recht – die Stimmung in Deutschböhmen ohnehin schon als eine erbitterte, die gar keine Belastung mehr vertrage und die zu einer Explosion führen müsse. Er beklagte sich darüber, daß die Deutschen die Verordnung bisher nicht gesehen haben, daß, wenn man auch die Zweisprachigkeit des Amtes konzedieren könnte, doch die Zweisprachigkeit jedes Beamten weit über das Bedürfniss hinausgehe, daß die Sprachenverordnung ganz anders aussehe als wie sie Badeni skizziert habe und insbesondere ganz anders als im Bohemia-Artikel. Die Stimmung in der Konferenz war eine gedrückte. Der Kampf mit der Regierung, den Extrem-Nationalen und den Čechen, was ich so oft die Schlacht mit den drei Fronten genannt habe – stand drohend vor aller Augen. Trotzdem war im Urteil kein Schwanken, der einzige Fournier war es, der eine Art Verzweiflungsstimmung zur Schau trug. Spät am Abend trennten wir uns, nachdem beschlossen worden war, daß am andern Morgen eine Deputation bestehend aus</rdg></app>
         </p>
-        <!-- Einklebung Zeitungsausschnitt -->
         <pb facs="#F_K-6_Bae_TB_1_055" n="27v" xml:id="Bae_TB_1_5724"/>
-        <addSpan spanTo="#Bae_TB_1_5686" type="insertion" xml:id="Bae_TB_1_1953"/>
+        <anchor/><addSpan spanTo="#Bae_TB_1_5686" type="insertion" xml:id="Bae_TB_1_1953"/>
         <p xml:id="Bae_TB_1_1954">[handschriftlich]: Communiqué vom 
           <date when="1897-04-02" xml:id="Bae_TB_1_1955">2. April 1897</date>
         </p>
@@ -2657,7 +2655,7 @@
         <!-- DC Ende der Einklebung -->
         <pb facs="#F_K-6_Bae_TB_1_056" n="28r" xml:id="Bae_TB_1_1897"/>
         <p xml:id="Bae_TB_1_5863">
-          <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_1_1898">Carl Auersperg</persName>, 
+          <anchor/><persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_1_1898">Carl Auersperg</persName>, 
           <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_1899">Rohan</persName>, 
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_1900">Stürgkh</persName>, 
           <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_1901">Ludwigstorff</persName>, 
@@ -2667,8 +2665,8 @@
             <expan xml:id="Bae_TB_1_1905">und</expan>
           </choice> mir dem 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1906">Grafen Badeni</persName> Bescheid 
-          <app from="#Bae_MF_1_903" type="equal" xml:id="Bae_TB_1_1907">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1908">Von den Deutschböhmen war es vor allem Funke, der einen Sturm in Deutschböhmen voraussagte, falls die Verordnungen publiziert würden. Er schilderte – u. darin hatte er sehr recht – die Stimmung in Deutschböhmen ohnehin schon als eine erbitterte, die gar keine Belastung mehr vertrage und die zu einer Explosion führen müsse. Er beklagte sich darüber, daß die Deutschen die Verordnung bisher nicht gesehen haben, daß, wenn man auch die Zweisprachigkeit des Amtes konzedieren könnte, doch die Zweisprachigkeit jedes Beamten weit über das Bedürfniss hinausgehe, daß die Sprachenverordnung ganz anders aussehe als wie sie Badeni skizziert habe und insbesondere ganz anders als im Bohemia-Artikel. Die Stimmung in der Konferenz war eine gedrückte. Der Kampf mit der Regierung, den Extrem-Nationalen und den Čechen, was ich so oft die Schlacht mit den drei Fronten genannt habe – stand drohend vor aller Augen. Trotzdem war im Urteil kein Schwanken, der einzige Fournier war es, der eine Art Verzweiflungsstimmung zur Schau trug. Spät am Abend trennten wir uns, nachdem beschlossen worden war, daß am andern Morgen eine Deputation bestehend aus Carl Auersperg, Rohan, Stürgkh, Ludwigstorff, Promber und mir dem Grafen Badeni Bescheid</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_1_1907">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1908">Carl Auersperg, Rohan, Stürgkh, Ludwigstorff, Promber und mir dem Grafen Badeni Bescheid</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_1909"/>sagen 
           <app from="#Bae_MF_1_934" type="notEqual" xml:id="Bae_TB_1_1910">
@@ -2731,8 +2729,8 @@
         </p>
         <!-- DC Einklebung von fol. 27v -->
         <anchor xml:id="Bae_TB_1_5864"/>
-        <app from="#Bae_TB_1_5686" type="insertion" xml:id="Bae_TB_1_5865">
-          <rdg xml:id="Bae_TB_1_5866">[...]</rdg>
+        <app from="#Bae_TB_1_1953" type="insertion" xml:id="Bae_TB_1_5865">
+          <rdg xml:id="Bae_TB_1_5866">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_1973">
           <anchor xml:id="Bae_TB_1_1974"/>Man wird vielleicht der Meinung sein, die Antwort sei nicht ablehnend, sondern lavirend gewesen – ich war eben bei allen diesen Conzeptionen auf die grösste Vorsicht angewiesen. Einmal wollte ich unsere Gruppe nicht ins Unrecht setzen lassen, andrerseits hatten wir so viele Elemente unter uns, welche damals die Tragweite der 
@@ -3111,21 +3109,19 @@
           <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_1_2259">Polenclubs</orgName> mit, die auf nichts anderes als die Wiederherstellung des 
           <orgName key="EisernerRing" ref="https://d-nb.info/gnd/5248775-1" xml:id="Bae_TB_1_2260">eisernen Ringes</orgName> abzielte. 
           <app from="#Bae_MF_1_1089" type="equal" xml:id="Bae_TB_1_2261">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2262">Die Polen vollendeten die Kombination. In enger Fühlung mit den böhmischen Konservativen, mit Schwarzenberg und Dipauli betätigten sie wieder einmal glänzend das Bismarksche Wort von der "besondern Befähigung der Polen zur politischen Intrigue". Uns gegenüber benahmen sie sich jedoch nicht nur falsch, sondern auch plump. Am Montag den 5. April mittags teilte Abrahamovicz David Ludwigstorff und mir eine Resolution des Polenklubs mit, die auf nichts anderes als die Wiederherstellung des eisernen Ringes abzielte.</rdg>
-          </app>
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2262">Die Polen vollendeten die Kombination. In enger Fühlung mit den böhmischen Konservativen, mit Schwarzenberg und Dipauli betätigten sie wieder einmal glänzend das Bismarksche Wort von der "besondern Befähigung der Polen zur politischen Intrigue". Uns gegenüber benahmen sie sich jedoch nicht nur falsch, sondern auch plump. Am Montag den 5. April mittags teilte Abrahamovicz David Ludwigstorff und mir eine Resolution des Polenklubs mit, die auf nichts anderes als die Wiederherstellung des eisernen Ringes abzielte.</rdg></app>
           <!-- DC Einklebung fol. 33v -->
           <anchor xml:id="Bae_TB_1_5867"/>
-          <app from="#Bae_TB_1_5687" type="insertion" xml:id="Bae_TB_1_5868">
-            <rdg xml:id="Bae_TB_1_5869">[...]</rdg>
+          <app from="#Bae_TB_1_2263" type="insertion" xml:id="Bae_TB_1_5868">
+            <rdg xml:id="Bae_TB_1_5869">&#8230;</rdg>
           </app>
-          <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_TB_1_2276">Dzieduszycki</persName> war zugegen, 
+          <anchor/><persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_TB_1_2276">Dzieduszycki</persName> war zugegen, 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2277">Badeni</persName> kam später hinzu 
           <choice xml:id="Bae_TB_1_2278">
             <abbr xml:id="Bae_TB_1_2279">u.</abbr>
             <expan xml:id="Bae_TB_1_2280">und</expan>
-          </choice> konnte sein Erstaunen nicht verbergen. Ich habe die Ueberzeugung, dass er vorher von der ganzen Sache nichts wusste. Die Resolution war geschrieben. Mit Bleistift war von einer 
-        </p>
-        <pb facs="#F_K-6_Bae_TB_1_067" n="33v" xml:id="Bae_TB_1_5729"/>
+          </choice> konnte sein Erstaunen nicht verbergen. Ich habe die Ueberzeugung, dass er vorher von der ganzen Sache nichts wusste. Die Resolution war geschrieben. Mit Bleistift war von einer <app from="#" type="equal"><rdg wit="Bae_MF_1">Dziedusycki war zugegen, Badeni kam später hinzu und konnte sein Erstaunen nicht verbergen. Ich habe die Ueberzeugung, daß er vorher von der ganzen Sache nichts wußte. Die Resolution war geschrieben. Mit Bleistift war von einer</rdg></app></p>
+        <pb facs="#F_K-6_Bae_TB_1_067" n="33v" xml:id="Bae_TB_1_5729"/><anchor/>
         <addSpan spanTo="#Bae_TB_1_5687" type="insertion" xml:id="Bae_TB_1_2263"/>
         <p xml:id="Bae_TB_1_2264">
           <anchor xml:id="Bae_TB_1_2265"/>[handschriftlich:] Resolution des Polenclubs 
@@ -3139,11 +3135,10 @@
           <orgName key="KatholischeVolkspartei" xml:id="Bae_TB_1_2271">katholischen Volkspartei</orgName>, dem 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_2272">Jungčechenclub</orgName> und der 
           <orgName xml:id="Bae_TB_1_2273">slavisch-christlich-nationalen Vereinigung</orgName> geeinigt, um eine gemeinsame parlamentarische Commission einzusetzten. Ferner erachtet der 
-          <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_1_2274">Polenclub</orgName> den Anschluß der liberalen Großgrundbesitzer an diese Regierungsmajorität für wünschenswerth." 
+          <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_1_2274">Polenclub</orgName> den Anschluß der liberalen Großgrundbesitzer an diese Regierungsmajorität für wünschenswerth." <app from="#" type="equal"><rdg wit="Bae_MF_1">"Der Polenclub erachtet die Bildung einer parlamentarischen Majorität für eine Notwendigkeit und hat sich zu diesem Zwecke mit der katholischen Volkspartei, dem Jungčechenklub und der slavisch-christlich-nationalen Vereinigung geeinigt, um eine gemeinsame parlamentarische Kommission einzusetzten. Ferner erachtet der Polenklub den Anschluß der liberalen Großgrundbesitzer an diese Regierungsmajorität für wünschenswerth."</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_1_5687"/>
         <!-- CA. anchor für addspann Bae_TB_1_2263 -->
-        <!-- DC Einklebung Zeitungsausschnitt von fol. 33v -->
         <addSpan spanTo="#Bae_TB_1_5688" type="insertion" xml:id="Bae_TB_1_2295"/>
         <p xml:id="Bae_TB_1_2296">
           <anchor xml:id="Bae_TB_1_2297"/>[handschriftlich:] Communiqué der conservativen böhmischen Grossgrundbesitzer 
@@ -3164,7 +3159,7 @@
         <anchor xml:id="Bae_TB_1_5688"/>
         <!-- CA. anchor für addspan Bae_TB_1_2295 -->
         <pb facs="#F_K-6_Bae_TB_1_068" n="34r" xml:id="Bae_TB_1_2282"/>
-        <p xml:id="Bae_TB_1_5870">andren Hand dazu geschrieben: "es wird als wünschenswert erklärt, dass der 
+        <anchor/><p xml:id="Bae_TB_1_5870">andren Hand dazu geschrieben: "es wird als wünschenswert erklärt, dass der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2283">verfassungstreue Grossgrundbesitz</orgName> beitritt". Wir drückten unser lebhaftes Erstaunen über den Vorgang aus 
           <choice xml:id="Bae_TB_1_2284">
             <abbr xml:id="Bae_TB_1_2285">u.</abbr>
@@ -3177,8 +3172,8 @@
             <expan xml:id="Bae_TB_1_2291">und</expan>
           </choice> entfernten uns. Die Sache war klar. Bald darauf wurde auch das Communiqué der böhmischen Feudalen bekannt, dem das des 
           <orgName key="TschechenKlub" xml:id="Bae_TB_1_2292">Čechenclubs</orgName> folgte. 
-          <app from="#Bae_MF_1_1104" type="equal" xml:id="Bae_TB_1_2293">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2294">"Der Polenclub erachtet die Bildung einer parlamentarischen Majorität für eine Notwendigkeit und hat sich zu diesem Zwecke mit der katholischen Volkspartei, dem Jungčechenklub und der slavisch-christlich-nationalen Vereinigung geeinigt, um eine gemeinsame parlamentarische Kommission einzusetzten. Ferner erachtet der Polenklub den Anschluß der liberalen Großgrundbesitzer an diese Regierungsmajorität für wünschenswerth." Dziedusycki war zugegen, Badeni kam später hinzu und konnte sein Erstaunen nicht verbergen. Ich habe die Ueberzeugung, daß er vorher von der ganzen Sache nichts wußte. Die Resolution war geschrieben. Mit Bleistift war von einer andren Hand dazu geschrieben: "es wird als wünschenswert erklärt, daß der verfassungstreue Großgrundbesitz beitritt". Wir drückten unser lebhaftes Erstaunen über den Vorgang aus und wendeten uns fragend an Badeni, der mit Abrahamovicz und den andern in erregter Weise polnisch sprach. Ich verstand so viel, daß er sie fragte ob diese Resolution schon veröffentlicht sei, was sie verneinten. Natürlich stand sie am andern Tage in der Zeitung. Wir behielten uns alle weiteren Entschließungen vor und entfernten uns. Die Sache war klar. Bald darauf wurde auch das Communiqué der böhmischen Feudalen bekannt, dem das des Čechenclubs folgte.</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_1_2293">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2294">andren Hand dazu geschrieben: "es wird als wünschenswert erklärt, daß der verfassungstreue Großgrundbesitz beitritt". Wir drückten unser lebhaftes Erstaunen über den Vorgang aus und wendeten uns fragend an Badeni, der mit Abrahamovicz und den andern in erregter Weise polnisch sprach. Ich verstand so viel, daß er sie fragte ob diese Resolution schon veröffentlicht sei, was sie verneinten. Natürlich stand sie am andern Tage in der Zeitung. Wir behielten uns alle weiteren Entschließungen vor und entfernten uns. Die Sache war klar. Bald darauf wurde auch das Communiqué der böhmischen Feudalen bekannt, dem das des Čechenclubs folgte.</rdg>
           </app>
         </p>
         <p xml:id="Bae_TB_1_2309">
@@ -3217,15 +3212,15 @@
           <app from="#Bae_MF_1_1148" type="notEqual" xml:id="Bae_TB_1_2334">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2335">geistreicher</rdg>
           </app>
-          <anchor xml:id="Bae_TB_1_2336"/>Reactionär, als der Rädelsführer der Intrigue genannt. Ich glaube, dass sich zu diesem Beginnen 
+          <anchor xml:id="Bae_TB_1_2336"/>Reactionär, als der Rädelsführer der Intrigue genannt. Ich glaube, dass sich zu diesem Beginnen <app from="#Bae_MF_1_1151" type="equal"><rdg wit="Bae_MF_1">Reaktionär, als der Rädelsführer der Intrigue genannt. Ich glaube, daß sich zu diesem Beginnen</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_1_5871"/>
-        <app from="#Bae_TB_1_5688" type="insertion" xml:id="Bae_TB_1_5872">
-          <rdg xml:id="Bae_TB_1_5873">[...]</rdg>
+        <app from="#Bae_TB_1_2295" type="insertion" xml:id="Bae_TB_1_5872">
+          <rdg xml:id="Bae_TB_1_5873">&#8230;</rdg>
         </app>
         <!-- DC Einklebung Zeitungsausschnitt -->
         <pb facs="#F_K-6_Bae_TB_1_069" n="34v" xml:id="Bae_TB_1_5730"/>
-        <addSpan spanTo="#Bae_TB_1_5689" type="insertion" xml:id="Bae_TB_1_2389"/>
+        <anchor/><addSpan spanTo="#Bae_TB_1_5689" type="insertion" xml:id="Bae_TB_1_2389"/>
         <p xml:id="Bae_TB_1_2390">
           <anchor xml:id="Bae_TB_1_2391"/>[handschriftlich:] Erklärung unserer Vereingigung vom 
           <date when="1897-04-06" xml:id="Bae_TB_1_2392">6. April</date>. 
@@ -3235,11 +3230,11 @@
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2396">verfassungstreue Großgrundbesitz</orgName> hat es für seine Pflicht gehalten, seine guten Dienste unbeirrt und unermüdlich für die Bildung einer parlamentarischen Majorität einzusetzen, in welcher außer dem 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2397">verfassungstreuen Großgrundbesitze</orgName> auch noch andere Vertreter, denen er nach seinen politischen und wirthschaftlichen Ansichten nahesteht, hätten Platz finden und für die ihnen von den Wählern anvertrauten Interessen hätten wirken können. Seither hat die Regierung ihr weiteres Verbleiben im Amte mit der Erklärung verbunden, auf die Bildung einer bstimmten Majorität vorläufig zu verzichten. Bedeutsam für die Entwicklung unserer parlamentarischen Verhätltnisse und entscheidend für unser weiteres Verhalten ist aber zugleich der Umstand geworden, daß sich nach den vorliegenden Anzeichen eine Majorität zusammenzufinden scheint, welcher der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2398">verfassungstreue Großgrundbesitz</orgName> selbstverständlich nicht angehören kann. Dieser politischen Situation gegenüber haben wir unzweideutig zu erklären, daß wir, unsere Stellung nach allen Seiten wahrend, den kommenden Ereignissen gegenüber unser Verhalten nach jenen Erklärungen, die wir in unserem Wahlaufrufe kundgegeben haben, einrichten und uns hiebei stets von den Pflichten gegenüber den staatlichen Interessen werden leiten lassen. 
-        </p>
+          <app from="#Bae_MF_1_1189" type="notEqual"><rdg wit="Bae_MF_1">und in der wir sagten, daß sich nach den vorliegenden Anzeichen eine Majorität zusammenzufinden scheine, welcher der verfassungstreue Großgrundbesitz selbstverständlich nicht angehören könne.</rdg></app></p>
         <anchor xml:id="Bae_TB_1_5689"/>
         <!-- CA. anchor für addspan Bae_TB_1_2389 -->
         <pb facs="#F_K-6_Bae_TB_1_070" n="35r" xml:id="Bae_TB_1_2338"/>
-        <p xml:id="Bae_TB_1_5874">mehrere edle Polen die Hand gereicht haben dürften. 
+        <p xml:id="Bae_TB_1_5874"><anchor/>mehrere edle Polen die Hand gereicht haben dürften. 
           <persName key="MadeyskiStanislaw" ref="https://d-nb.info/gnd/118576038" xml:id="Bae_TB_1_2339">Madeyski</persName>, der verunglückte Unterrichtsminister der Coalition, trug seit seinem Fall Hass gegen jede nachfolgende Regierung im Busen 
           <choice xml:id="Bae_TB_1_2340">
             <abbr xml:id="Bae_TB_1_2341">u.</abbr>
@@ -3252,8 +3247,8 @@
           </choice> als Vicepräsident des früheren 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_2347">Hauses</orgName> ambitionirt geheimer Rat zu werden. Es war vielleicht unklug von 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2348">Badeni</persName> ihm die Sache nicht zu gewähren. Er hatte sich 
-          <app from="#Bae_MF_1_1151" type="equal" xml:id="Bae_TB_1_2349">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2350">Reaktionär, als der Rädelsführer der Intrigue genannt. Ich glaube, daß sich zu diesem Beginnen mehrere edle Polen die Hand gereicht haben dürften. Madeyski, der verunglückte Unterrichtsminister der Coalition, trug seit seinem Fall Hass gegen jede nachfolgende Regierung im Busen und wenn er sich auch durch Verwaltungsratstellen getröstet hatte, konnte er keinen fremden Erfolg verwinden. Abrahamowicz David hatte als Belohnung für seine wirklich eifrige Thätigkeit zu Gunsten der Steuerreform und als Vizepräsident des früheren Hauses ambitioniert, geheimer Rat zu werden. Es war vielleicht unklug von Badeni, ihm die Sache nicht zu gewähren. Er hatte sich</rdg>
+          <app from="#" type="equal" xml:id="Bae_TB_1_2349">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2350">mehrere edle Polen die Hand gereicht haben dürften. Madeyski, der verunglückte Unterrichtsminister der Coalition, trug seit seinem Fall Hass gegen jede nachfolgende Regierung im Busen und wenn er sich auch durch Verwaltungsratstellen getröstet hatte, konnte er keinen fremden Erfolg verwinden. Abrahamowicz David hatte als Belohnung für seine wirklich eifrige Thätigkeit zu Gunsten der Steuerreform und als Vizepräsident des früheren Hauses ambitioniert, geheimer Rat zu werden. Es war vielleicht unklug von Badeni, ihm die Sache nicht zu gewähren. Er hatte sich</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_2351"/>ihm 
           <app from="#Bae_MF_1_1161" type="notEqual" xml:id="Bae_TB_1_2352">
@@ -3308,14 +3303,14 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_1_5875"/>
-        <app from="#Bae_TB_1_5689" type="insertion" xml:id="Bae_TB_1_5876">
-          <rdg xml:id="Bae_TB_1_5877">[...]</rdg>
+        <app from="#Bae_TB_1_2389" type="insertion" xml:id="Bae_TB_1_5876">
+          <rdg xml:id="Bae_TB_1_5877">&#8230;</rdg>
         </app>
         <!-- DC Einklebung Zeitungsausschnitt fol. 34v -->
         <p xml:id="Bae_TB_1_2399">Am Schlusse derselben hatten wir den Hinweis auf "die staatlichen Interessen" dem an 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2400">Badeni</persName> erlassenen kaiserlichen Handschreiben entnommen. 
-          <app from="#Bae_MF_1_1189" type="notEqual" xml:id="Bae_TB_1_2401">
-            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2402">und in der wir sagten, daß sich nach den vorliegenden Anzeichen eine Majorität zusammenzufinden scheine, welcher der verfassungstreue Großgrundbesitz selbstverständlich nicht angehören könne.</rdg>
+          <app from="#" type="missing" xml:id="Bae_TB_1_2401">
+            <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2402"></rdg>
           </app>
         </p>
         <p xml:id="Bae_TB_1_2403">
@@ -3807,12 +3802,12 @@
         </p>
         <!-- DC Einklebung Zeitungsausschnitt fol. 39v und 40v-->
         <anchor xml:id="Bae_TB_1_5880"/>
-        <app from="#Bae_TB_1_5878" type="insertion" xml:id="Bae_TB_1_5881">
-          <rdg xml:id="Bae_TB_1_5882">[...]</rdg>
+        <app from="#Bae_TB_1_2724" type="insertion" xml:id="Bae_TB_1_5881">
+          <rdg xml:id="Bae_TB_1_5882">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_1_5883"/>
-        <app from="#Bae_TB_1_5690" type="insertion" xml:id="Bae_TB_1_5884">
-          <rdg xml:id="Bae_TB_1_5885">[...]</rdg>
+        <app from="#Bae_TB_1_5886" type="insertion" xml:id="Bae_TB_1_5884">
+          <rdg xml:id="Bae_TB_1_5885">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_2821">
           <anchor xml:id="Bae_TB_1_2822"/>Diese Angaben blieben unwidersprochen 
@@ -4593,8 +4588,8 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_1_5889"/>
-        <app from="#Bae_TB_1_5691" type="insertion" xml:id="Bae_TB_1_5890">
-          <rdg xml:id="Bae_TB_1_5891">[...]</rdg>
+        <app from="#Bae_TB_1_3270" type="insertion" xml:id="Bae_TB_1_5890">
+          <rdg xml:id="Bae_TB_1_5891">&#8230;</rdg>
         </app>
         <!-- Einklebung Zeitungsausschnitt fol. 48v -->
         <p xml:id="Bae_TB_1_3331">
@@ -4906,16 +4901,16 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_3493">Die Majoritätsparteien hatten einen Antrag auf Erlassung einer Adresse eingebracht. Im Ausschuß war Dzieduszycki als Berichterstatter der Majorität gewählt worden, uns andern oblag es Minoritätsadressen einzubringen. Die Deutschnationalen verhielten sich gegen die Votierung einer Adresse überhaupt ablehnend. Die Christlichsozialen kündigten anfangs die Einbringung eines Entwurfes an und Scheicher las dem Ausschuß auch einmal ein Bruchstück vor. Der gemütliche und dummdreiste Ton, der in demselben angeschlagen war, ließ es aber den leitenden Größen dieser Partei doch rathsam erscheinen, von weitern Stilübungen abzusehen. Es wäre nun naheliegend gewesen wenn wir zusammen mit den Fortschrittlern und der Mauthnergruppe einen Entwurf vereinbart hätten. Eine Besprechung, die ich zu diesem Zwecke einleitete ergab jedoch, daß die Fortschrittler mit dem Großgrundbesitz zusammen keine Adresse machen wollten und wir konnten daher – was ich von Vornherein hatte kommen sehen und was mir erwünscht war – selbständig vorgehen. Wir standen also vor der Notwendigkeit eine eigenen Adresse zu verfassen und einzubringen.</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_5896"/>
-          <app from="#Bae_TB_1_5892" type="insertion" xml:id="Bae_TB_1_5897">
-            <rdg xml:id="Bae_TB_1_5898">[...]</rdg>
+          <app from="#Bae_TB_1_3494" type="insertion" xml:id="Bae_TB_1_5897">
+            <rdg xml:id="Bae_TB_1_5898">&#8230;</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_5899"/>
-          <app from="#Bae_TB_1_3486" type="insertion" xml:id="Bae_TB_1_5900">
-            <rdg xml:id="Bae_TB_1_5901">[...]</rdg>
+          <app from="#Bae_TB_1_5894" type="insertion" xml:id="Bae_TB_1_5900">
+            <rdg xml:id="Bae_TB_1_5901">&#8230;</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_5902"/>
-          <app from="#Bae_TB_1_5692" type="insertion" xml:id="Bae_TB_1_5903">
-            <rdg xml:id="Bae_TB_1_5904">[...]</rdg>
+          <app from="#Bae_TB_1_5905" type="insertion" xml:id="Bae_TB_1_5903">
+            <rdg xml:id="Bae_TB_1_5904">&#8230;</rdg>
           </app>
           <!-- DC Einklebung fol. 50v, 51v, 52v -->
           <anchor xml:id="Bae_TB_1_3605"/>Es war gegeben sich im Wesentlichen an die Absätze der Thronrede zu halten. Ich bat 
@@ -5396,8 +5391,8 @@
         </p>
         <!-- DC Einklebung von fol. 56v -->
         <anchor xml:id="Bae_TB_1_5908"/>
-        <app from="#Bae_TB_1_5693" type="insertion" xml:id="Bae_TB_1_5909">
-          <rdg xml:id="Bae_TB_1_5910">[...]</rdg>
+        <app from="#Bae_TB_1_3854" type="insertion" xml:id="Bae_TB_1_5909">
+          <rdg xml:id="Bae_TB_1_5910">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_3911">
           <anchor xml:id="Bae_TB_1_3912"/>Im 
@@ -5667,8 +5662,8 @@
         </p>
         <!-- DC Einklebung fol. 61v -->
         <anchor xml:id="Bae_TB_1_5912"/>
-        <app from="#Bae_TB_1_5694" type="insertion" xml:id="Bae_TB_1_5913">
-          <rdg xml:id="Bae_TB_1_5914">[...]</rdg>
+        <app from="#Bae_TB_1_4079" type="insertion" xml:id="Bae_TB_1_5913">
+          <rdg xml:id="Bae_TB_1_5914">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_4103">Die von ihm angekündigte Erklärung blieb aber bis jetzt ( 
           <date when="1897-09-08" xml:id="Bae_TB_1_4104">8.9.</date>) aus 
@@ -6053,8 +6048,8 @@
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 67v -->
         <anchor xml:id="Bae_TB_1_5915"/>
-        <app from="#Bae_TB_1_5695" type="insertion" xml:id="Bae_TB_1_5916">
-          <rdg xml:id="Bae_TB_1_5917">[...]</rdg>
+        <app from="#Bae_TB_1_4377" type="insertion" xml:id="Bae_TB_1_5916">
+          <rdg xml:id="Bae_TB_1_5917">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_4393">Allgemein wurde er als unmoralisch bezeichnet 
           <choice xml:id="Bae_TB_1_4394">
@@ -6206,8 +6201,8 @@
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 68v -->
         <anchor xml:id="Bae_TB_1_5919"/>
-        <app from="#Bae_TB_1_5696" type="insertion" xml:id="Bae_TB_1_5920">
-          <rdg xml:id="Bae_TB_1_5921">[...]</rdg>
+        <app from="#Bae_TB_1_4461" type="insertion" xml:id="Bae_TB_1_5920">
+          <rdg xml:id="Bae_TB_1_5921">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_4507">Ob er aus dem 
           <orgName key="Pressbuero" xml:id="Bae_TB_1_4508">Pressbureau</orgName>
@@ -6355,8 +6350,8 @@
         </p>
         <!-- DC Einklebung Zeitungsausschnitt fol. 69v -->
         <anchor xml:id="Bae_TB_1_5923"/>
-        <app from="#Bae_TB_1_5697" type="insertion" xml:id="Bae_TB_1_5924">
-          <rdg xml:id="Bae_TB_1_5925">[...]</rdg>
+        <app from="#Bae_TB_1_4548" type="insertion" xml:id="Bae_TB_1_5924">
+          <rdg xml:id="Bae_TB_1_5925">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_4619">Vor der Publication teilte ich es – vielleicht aus übertriebener Höflichkeit – 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4620">Badeni</persName> mit, der mir sofort auf das entschiedenste antwortete, dass er der Publication des 
@@ -6390,12 +6385,12 @@
           </choice> wir schrieben selbst die Einladungstelegramme. 
         </p>
         <anchor xml:id="Bae_TB_1_5927"/>
-        <app from="#Bae_TB_1_5933" type="insertion" xml:id="Bae_TB_1_5928">
-          <rdg xml:id="Bae_TB_1_5929">[...]</rdg>
+        <app from="#Bae_TB_1_4641" type="insertion" xml:id="Bae_TB_1_5928">
+          <rdg xml:id="Bae_TB_1_5929">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_1_5930"/>
-        <app from="#Bae_TB_1_5698" type="insertion" xml:id="Bae_TB_1_5931">
-          <rdg xml:id="Bae_TB_1_5932">[...]</rdg>
+        <app from="#Bae_TB_1_5934" type="insertion" xml:id="Bae_TB_1_5931">
+          <rdg xml:id="Bae_TB_1_5932">&#8230;</rdg>
         </app>
         <!-- DC Einklebung Zeitungsausschnitt von fol. 70v und 71v -->
         <pb facs="#F_K-6_Bae_TB_1_141" n="70v" xml:id="Bae_TB_1_4642"/>
@@ -6743,13 +6738,14 @@
           <add place="across" xml:id="Bae_TB_1_4889">Ich motivirte, warum</add> ich meine Ansicht versucht habe in ein paar Sätzen niederzuschreiben, die ich vorlas. 
         </p>
         <p xml:id="Bae_TB_1_4890">Von jetzt an drehte sich die Debatte um dieses Resümé.</p>
+        <!-- CA: hier 72v und 73v einfügen -->
         <anchor xml:id="Bae_TB_1_5937"/>
-        <app from="#Bae_TB_1_5943" type="insertion" xml:id="Bae_TB_1_5938">
-          <rdg xml:id="Bae_TB_1_5939">[...]</rdg>
+        <app from="#Bae_TB_1_4892" type="insertion" xml:id="Bae_TB_1_5938">
+          <rdg xml:id="Bae_TB_1_5939">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_1_5940"/>
-        <app from="#Bae_TB_1_5699" type="insertion" xml:id="Bae_TB_1_5941">
-          <rdg xml:id="Bae_TB_1_5942">[...]</rdg>
+        <app from="#Bae_TB_1_5944" type="insertion" xml:id="Bae_TB_1_5941">
+          <rdg xml:id="Bae_TB_1_5942">&#8230;</rdg>
         </app>
         <pb facs="#F_K-6_Bae_TB_1_145" n="72v" xml:id="Bae_TB_1_4891"/>
         <addSpan spanTo="#Bae_TB_1_5943" type="insertion" xml:id="Bae_TB_1_4892"/>
@@ -7406,8 +7402,8 @@
         </p>
         <!-- Einfügung mit Tinte fol. 85v -->
         <anchor xml:id="Bae_TB_1_5949"/>
-        <app from="#Bae_TB_1_5947" type="insertion" xml:id="Bae_TB_1_5950">
-          <rdg xml:id="Bae_TB_1_5951">[...]</rdg>
+        <app from="#Bae_TB_1_5946" type="insertion" xml:id="Bae_TB_1_5950">
+          <rdg xml:id="Bae_TB_1_5951">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_1_5327">
           <anchor xml:id="Bae_TB_1_5328"/>Von 
@@ -7428,12 +7424,12 @@
         </p>
         <!-- DC Einklebung Zeitungsartikel fol. 86v -->
         <anchor xml:id="Bae_TB_1_5952"/>
-        <app from="#Bae_TB_1_5700" type="insertion" xml:id="Bae_TB_1_5953">
-          <rdg xml:id="Bae_TB_1_5954">[...]</rdg>
+        <app from="#Bae_TB_1_5335" type="insertion" xml:id="Bae_TB_1_5953">
+          <rdg xml:id="Bae_TB_1_5954">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_1_5955"/>
-        <app from="#Bae_TB_1_5701" type="insertion" xml:id="Bae_TB_1_5956">
-          <rdg xml:id="Bae_TB_1_5957">[...]</rdg>
+        <app from="#Bae_TB_1_5385" type="insertion" xml:id="Bae_TB_1_5956">
+          <rdg xml:id="Bae_TB_1_5957">&#8230;</rdg>
         </app>
         <pb facs="#F_K-6_Bae_TB_1_169" n="86v" xml:id="Bae_TB_1_5767"/>
         <addSpan spanTo="#Bae_TB_1_5701" type="insertion" xml:id="Bae_TB_1_5385"/>
