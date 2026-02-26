@@ -2508,20 +2508,20 @@
         </p>
         <anchor xml:id="Bae_TB_4_1635"/>
         <app from="#Bae_TB_4_1644" type="insertion" xml:id="Bae_TB_4_1636">
-          <rdg xml:id="Bae_TB_4_1637">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_1637">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_1638"/>
         <app from="#Bae_TB_4_1817" type="insertion" xml:id="Bae_TB_4_1639">
-          <rdg xml:id="Bae_TB_4_1640">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_1640">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_1641"/>
         <app from="Bae_TB_4_1936" type="insertion" xml:id="Bae_TB_4_1642">
-          <rdg xml:id="Bae_TB_4_1643">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_1643">&#8230;</rdg>
         </app>
         <!-- DC: hier her Zeitungsausschnitt fol. fol. 35v, 36v, 37v -->
         <pb facs="#F_K-4_Bae_TB_4_071" n="35v" xml:id="Bae_TB_4_1645"/>
         <anchor xml:id="Bae_TB_4_8514"/>
-        <addSpan spanTo="#Bae_TB_4_1769" xml:id="Bae_TB_4_1644"/>
+        <addSpan spanTo="#Bae_TB_4_1769" type="insertion" xml:id="Bae_TB_4_1644"/>
         <p xml:id="Bae_TB_4_1646">Die 
           <index xml:id="Bae_TB_4_1647">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_1648">Ausgleichsverhandlungen</term>
@@ -2958,7 +2958,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_075" n="37v" xml:id="Bae_TB_4_1935"/>
-        <addSpan spanTo="#Bae_TB_4_1992" xml:id="Bae_TB_4_1936"/>
+        <addSpan spanTo="#Bae_TB_4_1992" type="insertion" xml:id="Bae_TB_4_1936"/>
         <anchor xml:id="Bae_TB_4_8526"/>
         <p xml:id="Bae_TB_4_1937">Die 
           <orgName key="BudapesterCorrespondenz" xml:id="Bae_TB_4_1938">"Budapester Correspondenz"</orgName> meldet aus 
@@ -3610,11 +3610,11 @@
         </p>
         <anchor xml:id="Bae_TB_4_2353"/>
         <app from="#Bae_TB_4_2230" type="insertion" xml:id="Bae_TB_4_2354">
-          <rdg xml:id="Bae_TB_4_2355">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_2355">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_2356"/>
         <app from="#Bae_TB_4_2316" type="insertion" xml:id="Bae_TB_4_2357">
-          <rdg xml:id="Bae_TB_4_2358">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_2358">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_4_2359">
           <anchor xml:id="Bae_TB_4_8367"/>Das Spiel war also für mich zu ungleich. Vielleicht wäre manches anders geworden, wenn die 
@@ -3954,7 +3954,7 @@
         </p>
         <anchor xml:id="Bae_TB_4_2548"/>
         <app from="#Bae_TB_4_2399" type="insertion" xml:id="Bae_TB_4_2549">
-          <rdg xml:id="Bae_TB_4_8414">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_8414">&#8230;</rdg>
         </app>
         <!-- DC: Hier ist Verweiszeichen auf Einklebung von fol. 43v -->
         <pb facs="#F_K-4_Bae_TB_4_089" n="44v" xml:id="Bae_TB_4_2550"/>
@@ -4603,10 +4603,10 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8441">Meine Demission lautete:</rdg>
           </app>
         </p>
-        <!-- DC: Einklebung Abschrift des Demissionsgesuchs Baernreithers -->
+        <!-- DC: Einklebung Abschrift des Demissionsgesuchs Baernreithers 47v -->
         <anchor xml:id="Bae_TB_4_2993"/>
         <app from="#Bae_TB_4_2830" type="insertion" xml:id="Bae_TB_4_2994">
-          <rdg xml:id="Bae_TB_4_2995">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_2995">&#8230;</rdg>
         </app>
         <pb facs="#F_K-4_Bae_TB_4_097" n="48v" xml:id="Bae_TB_4_2996"/>
         <note type="editorial" xml:id="Bae_TB_4_2997">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
@@ -4944,7 +4944,7 @@
           </hi>
           <anchor xml:id="Bae_TB_4_3205"/>
           <app from="#Bae_TB_4_3155" type="insertion" xml:id="Bae_TB_4_3206">
-            <rdg xml:id="Bae_TB_4_3207">[...]</rdg>
+            <rdg xml:id="Bae_TB_4_3207">&#8230;</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8477"/>Gerade in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_3208">Österreich</placeName> müsste ein Monarch vielfältige Informationen einziehen. Die 
@@ -7074,15 +7074,15 @@
         <!-- DC Einklebung Zeitungsartikel von fol. 63v, 64v und 65v -->
         <anchor xml:id="Bae_TB_4_4825"/>
         <app from="#Bae_TB_4_4058" type="insertion" xml:id="Bae_TB_4_4826">
-          <rdg xml:id="Bae_TB_4_4827">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_4827">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_4828"/>
         <app from="#Bae_TB_4_4160" type="insertion" xml:id="Bae_TB_4_4829">
-          <rdg xml:id="Bae_TB_4_4830">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_4830">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_4831"/>
         <app from="#Bae_TB_4_4269" type="insertion" xml:id="Bae_TB_4_4832">
-          <rdg xml:id="Bae_TB_4_4833">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_4833">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_4_4834">Mein 
           <placeName key="Muenchen" ref="http://www.geonames.org/2867714/munich.html" xml:id="Bae_TB_4_4835">München</placeName> Aufenthalt war 
@@ -7129,12 +7129,12 @@
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_4_4865">Pleners</persName> bis zum Zusammenbruch der Coalition. 
         </p>
         <anchor xml:id="Bae_TB_4_4866"/>
-        <app from="#65ar" type="insert" xml:id="Bae_TB_4_4867">
-          <rdg xml:id="Bae_TB_4_4868">[...]</rdg>
+        <app from="#Bae_TB_4_4311" type="insert" xml:id="Bae_TB_4_4867">
+          <rdg xml:id="Bae_TB_4_4868">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_4869"/>
         <app from="#Bae_TB_4_5048" type="insertion" xml:id="Bae_TB_4_4870">
-          <rdg xml:id="Bae_TB_4_4871">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_4871">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_4_4872">Heute glaube ich, kann ich ruhig 
           <choice xml:id="Bae_TB_4_4873">
@@ -7877,15 +7877,15 @@
         <!-- hierher Zeitungsausschnitt fol. 72v und 73v -->
         <anchor xml:id="Bae_TB_4_5440"/>
         <app from="#Bae_TB_4_5293" type="insertion" xml:id="Bae_TB_4_5441">
-          <rdg xml:id="Bae_TB_4_5442">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_5442">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_5443"/>
         <app from="#Bae_TB_4_5456" type="insertion" xml:id="Bae_TB_4_5444">
-          <rdg xml:id="Bae_TB_4_5445">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_5445">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_5446"/>
         <app from="#Bae_TB_4_5571" type="insertion" xml:id="Bae_TB_4_5447">
-          <rdg xml:id="Bae_TB_4_5448">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_5448">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_4_5449">Von einiger Tragweite kann der Beschluss werden die national- 
           <choice xml:id="Bae_TB_4_5450">
@@ -8947,7 +8947,7 @@
         </p>
         <anchor xml:id="Bae_TB_4_6272"/>
         <app from="#Bae_TB_4_6096" type="insertion" xml:id="Bae_TB_4_6273">
-          <rdg xml:id="Bae_TB_4_6274">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_6274">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_4_6275">
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_6276">Thun</persName> erwiderte "es liege so etwas in der Luft. Es werden die Čechen nicht zufrieden sein 
@@ -9027,7 +9027,7 @@
         </p>
         <anchor xml:id="Bae_TB_4_6331"/>
         <app from="#Bae_TB_4_6343" type="insertion" xml:id="Bae_TB_4_6332">
-          <rdg xml:id="Bae_TB_4_6333">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_6333">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_4_6334">Die oppositionelle Haltung gegen 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_6335">Thun</persName> war selbst bei den conservativsten Mitgliedern wie 
@@ -9368,11 +9368,11 @@
         <!-- DC: hierher Zeitungsausschnitt von fol. 85v und 86v -->
         <anchor xml:id="Bae_TB_4_6587"/>
         <app from="#Bae_TB_4_6434" type="insertion" xml:id="Bae_TB_4_6588">
-          <rdg xml:id="Bae_TB_4_6589">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_6589">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_6590"/>
         <app from="#Bae_TB_4_6521" type="insertion" xml:id="Bae_TB_4_6591">
-          <rdg xml:id="Bae_TB_4_6592">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_6592">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_4_6593">Zugleich setzte ich mich aber, da 
           <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_4_6594">
@@ -9695,7 +9695,7 @@
           <placeName key="Bruenn" ref="https://www.geonames.org/3078609/mesto-brno.html" xml:id="Bae_TB_4_6828">Brünn</placeName>, die ich eigens mit ihm machte. 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_185" n="88v" xml:id="Bae_TB_4_6829"/>
-        <addSpan spanTo="#Bae_TB_4_6882" xml:id="Bae_TB_4_6830"/>
+        <addSpan spanTo="#Bae_TB_4_6882" type="insertion" xml:id="Bae_TB_4_6830"/>
         <p xml:id="Bae_TB_4_6831">langen jedoch, ausdrücklich, das endlich das Geltungsgebiet der deutschen Sprache als einer allgemeinen Vermittlungssprache gesetzlich begrenzt und gesichert werde. Schon in der Vermeidung des Ausdruckes "Staatssprache" darf das Streben erkannt werden, die Empfindlichkeit der slavischen Völker zu schonen — da die "Vermittlungssprache" nur die thatsächlich vorhandene Eigenschaft der deutschen Sprache in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_6832">Oesterreich</placeName> versinnlicht. Die Grenzen, die der Vermittlungssprache gezogen werden, entsprechen genau denjenigen, welche die deutsche Sprache bisher als gemeinsames sprachliches Band besitzt. Sie tritt nicht erobernd auf, sie will nur in jenen Sphären geschützt werden, in denen sie gelten muß, wenn die Einheit der Verwaltung und die Einheit des Staates behauptet werden sollen. Und wenn für jeden Staatsbeamten die Kenntniß der deutschen Sprache begehrt und diese zur Voraussetzung einer staatlichen Anstellung gesetzlich erhoben wird – wer vermöchte einem Wünsche entgegenzutreten, der eigentlich selbstverständlich ist? Verlangen die einzelnen Stämme von den Beamten die Kenntniß der Landessprache, so muß doch der Staat umso mehr darauf bestehen, daß sie jene Vermittlungssprache beherrschen, die stets die Sprache des 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_6833">Parlaments</orgName> und aller Zentralbehörden bleiben muß. Es ist nahezu unmöglich, in flüchtigen Worten all jenen Bestimmungen zu folgen, welche nach dem Wünsche der 
@@ -10321,55 +10321,55 @@
         <!-- DC: hierher Einklebung Zeitungsausschnitt von 87v, 88v, 89v, 90v, 91v, 92v, 93v, 94v, 95v, 96v, 97v, 98v und 99v -->
         <anchor xml:id="Bae_TB_4_7305"/>
         <app from="#Bae_TB_4_6653" type="insertion" xml:id="Bae_TB_4_7306">
-          <rdg xml:id="Bae_TB_4_7307">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7307">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7308"/>
         <app from="#Bae_TB_4_6830" type="insertion" xml:id="Bae_TB_4_7309">
-          <rdg xml:id="Bae_TB_4_7310">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7310">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7311"/>
         <app from="#Bae_TB_4_6996" type="insertion" xml:id="Bae_TB_4_7312">
-          <rdg xml:id="Bae_TB_4_7313">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7313">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7314"/>
         <app from="#Bae_TB_4_7096" type="insertion" xml:id="Bae_TB_4_7315">
-          <rdg xml:id="Bae_TB_4_7316">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7316">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7317"/>
         <app from="#Bae_TB_4_7237" type="insertion" xml:id="Bae_TB_4_7318">
-          <rdg xml:id="Bae_TB_4_7319">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7319">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7320"/>
-        <app from="#Bae_TB_4_7372" type="insertion" xml:id="Bae_TB_4_7321">
-          <rdg xml:id="Bae_TB_4_7322">[...]</rdg>
+        <app from="#Bae_TB_4_7373" type="insertion" xml:id="Bae_TB_4_7321">
+          <rdg xml:id="Bae_TB_4_7322">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7323"/>
         <app from="#Bae_TB_4_7456" type="insertion" xml:id="Bae_TB_4_7324">
-          <rdg xml:id="Bae_TB_4_7325">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7325">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7326"/>
         <app from="#Bae_TB_4_7538" type="insertion" xml:id="Bae_TB_4_7327">
-          <rdg xml:id="Bae_TB_4_7328">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7328">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7329"/>
         <app from="#Bae_TB_4_7606" type="insertion" xml:id="Bae_TB_4_7330">
-          <rdg xml:id="Bae_TB_4_7331">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7331">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7332"/>
         <app from="#Bae_TB_4_7671" type="insertion" xml:id="Bae_TB_4_7333">
-          <rdg xml:id="Bae_TB_4_7334">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7334">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7335"/>
-        <app from="#Bae_TB_4_7693" type="insertion" xml:id="Bae_TB_4_7336">
-          <rdg xml:id="Bae_TB_4_7337">[...]</rdg>
+        <app from="#Bae_TB_4_7703" type="insertion" xml:id="Bae_TB_4_7336">
+          <rdg xml:id="Bae_TB_4_7337">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7338"/>
         <app from="#Bae_TB_4_7748" type="insertion" xml:id="Bae_TB_4_7339">
-          <rdg xml:id="Bae_TB_4_7340">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7340">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7341"/>
         <app from="#Bae_TB_4_7799" type="insertion" xml:id="Bae_TB_4_7342">
-          <rdg xml:id="Bae_TB_4_7343">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7343">&#8230;</rdg>
         </app>
         <p xml:id="Bae_TB_4_7344">Entscheidend für das Gelingen war der gute Wille aller Betheiligten 
           <choice xml:id="Bae_TB_4_7345">
@@ -10778,7 +10778,7 @@
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_7659">Lünz</placeName>, am 
           <date when="1899-05-27" xml:id="Bae_TB_4_7660">27. Mai 1899</date>. 
         </p>
-        <addSpan spanTo="#Bae_TB_4_7669" xml:id="Bae_TB_4_7661"/>
+        <addSpan spanTo="#Bae_TB_4_7669" type="insertion" xml:id="Bae_TB_4_7661"/>
         <p xml:id="Bae_TB_4_7662">Der zuletzt erwähnte Artikel der 
           <orgName key="KoelnischeZeitung" ref="https://d-nb.info/gnd/16298128-4" xml:id="Bae_TB_4_7663">Kölnischen</orgName> erschien in der Abend Ausgabe vom 
           <date when="1899-01-24" xml:id="Bae_TB_4_7664">24. Januar 1899</date>. 
@@ -10995,19 +10995,19 @@
         <!-- Einklebung hier fol. 96r, 97r und 98 hier einfügen!! -->
         <anchor xml:id="Bae_TB_4_7837"/>
         <app from="#Bae_TB_4_7661" type="insertion" xml:id="Bae_TB_4_7838">
-          <rdg xml:id="Bae_TB_4_7839">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7839">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7840"/>
         <app from="#Bae_TB_4_7693" type="insertion" xml:id="Bae_TB_4_7841">
-          <rdg xml:id="Bae_TB_4_7842">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7842">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7843"/>
         <app from="#Bae_TB_4_7735" type="insertion" xml:id="Bae_TB_4_7844">
-          <rdg xml:id="Bae_TB_4_7845">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7845">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7846"/>
         <app from="#Bae_TB_4_7850" type="insertion" xml:id="Bae_TB_4_7847">
-          <rdg xml:id="Bae_TB_4_7848">[...]</rdg>
+          <rdg xml:id="Bae_TB_4_7848">&#8230;</rdg>
         </app>
         <pb facs="#F_K-4_Bae_TB_4_209" n="100v" xml:id="Bae_TB_4_7849"/>
         <addSpan spanTo="#Bae_TB_4_7895" type="insertion" xml:id="Bae_TB_4_7850"/>
