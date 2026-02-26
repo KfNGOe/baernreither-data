@@ -7015,7 +7015,8 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6527">Elaborat las, zur Feder griff und den Regentag so gut benützte, daß ich die ganzen Motive umarbeitete, in die Staatsdruckerei schickte und zwei Tage darauf die Korrekturbögen dem erstaunten Mataja zur Durchsicht übergab. Auch die Ernennung der 24 Mitglieder des Arbeitsrates war mühsam. Sie hat eine grosse Korrespondenz und manche Konferenz gekostet. Bezüglich der Ernennung der Arbeiter setzte ich mich mit der Leitung der socialdemokratischen Partei in Verbindung, aber erst als ich selbständig</rdg>
           </app>
           <pb facs="#F_K-4_Bae_TB_2_163" n="81v" xml:id="Bae_TB_2_4822"/>
-          <addSpan spanTo="#Bae_TB_2_6340" type="insertion" xml:id="Bae_TB_2_6339"/><anchor/>berichtigt werden. Weiters dienen diesem Zwecke Vormerkungen und Erhebungen – allerdings bisher nur in beschränktem Umfange – durch das 
+          <addSpan spanTo="#Bae_TB_2_6340" type="insertion" xml:id="Bae_TB_2_6339"/>
+          <anchor xml:id="Bae_TB_2_6545"/>berichtigt werden. Weiters dienen diesem Zwecke Vormerkungen und Erhebungen – allerdings bisher nur in beschränktem Umfange – durch das 
           <orgName key="StatistischesDepartement" ref="https://d-nb.info/gnd/121099-3" xml:id="Bae_TB_2_4823">statistische Departement</orgName> selbst. Es werden 
           <index xml:id="Bae_TB_2_4824">
             <term key="Presse" xml:id="Bae_TB_2_4825">Zeitungen</term>
@@ -7084,7 +7085,10 @@
           </index>. 
         </p>
         <p xml:id="Bae_TB_2_4869">Ich möchte es, wie gesagt, vermeiden, weit ausgreifende Zukunftspläne für das 
-          <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4870">arbeitsstatistische Amt</orgName> zu schmieden. Doch kann ich mir nicht versagen, Ihnen, meine Herren, mitzutheilen, daß allerdings, meiner Meinung nach, eine brennende Frage <app from="#Bae_MF_2_6402" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
+          <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4870">arbeitsstatistische Amt</orgName> zu schmieden. Doch kann ich mir nicht versagen, Ihnen, meine Herren, mitzutheilen, daß allerdings, meiner Meinung nach, eine brennende Frage 
+          <app from="#Bae_MF_2_6402" type="missing" xml:id="Bae_TB_2_6546">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6547"/>
+          </app>
           <anchor xml:id="Bae_TB_2_6340"/>
           <!-- anchor für addspan 81v -->
           <pb facs="#F_K-4_Bae_TB_2_164" n="82r" xml:id="Bae_TB_2_4735"/>
@@ -8588,7 +8592,8 @@
         </p>
         <anchor xml:id="Bae_TB_2_6022"/>
         <!-- CA: anchor für addspan Bae_TB_2_5933 -->
-        <pb facs="#F_K-4_Bae_TB_2_210" n="105r" xml:id="Bae_TB_2_5915"/><anchor/>
+        <pb facs="#F_K-4_Bae_TB_2_210" n="105r" xml:id="Bae_TB_2_5915"/>
+        <anchor xml:id="Bae_TB_2_6548"/>
         <p xml:id="Bae_TB_2_6361">von diesen kleinen geschnittenen Steinen eine grosse Sammlung, darunter Stücke von 
           <del rendition="#s" xml:id="Bae_TB_2_5916">grosser</del> Feinheit 
           <choice xml:id="Bae_TB_2_5917">
