@@ -6862,7 +6862,7 @@
             <expan xml:id="Bae_TB_2_4687">und</expan>
           </choice> in den Gesetzentwurf über das 
           <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4688">arbeitsstatistische Amt</orgName> hineingebracht. Jetzt rief ich die Sache ins Leben. Zwar 
-          <app from="#" type="equal" xml:id="Bae_TB_2_6521">
+          <app from="#Bae_MF_2_639" type="equal" xml:id="Bae_TB_2_6521">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6522">, der in Verbindung mit dem arbeitsstatistischen Amt gebracht wurde. Diesen Gedanken hatte ich seinerzeit im Gewerbeausschuss vertreten und in den Gesetzentwurf über das arbeitsstatistische Amt hineingebracht. Jetzt rief ich die Sache ins Leben. Zwar</rdg>
           </app>
         </p>
@@ -6947,14 +6947,14 @@
             </index>
           </index>. Es ist den Herren bekannt, daß eine solche seit dem Jahre 
           <date when="1894" xml:id="Bae_TB_2_4821">1894</date> bearbeitet wird. Das Material hiezu wird durch Zählblätter gewonnen, welche die politischen Behörden auszufüllen haben und die dann durch den zuständigen Gewerbe-Inspector begutachtet, eventuell ergänzt oder 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6523">
+          <app from="#Bae_MF_2_688" type="missing" xml:id="Bae_TB_2_6523">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6524"/>
           </app>
           <anchor xml:id="Bae_TB_2_6338"/>
           <!-- anchor für addspan 80v -->
           <pb facs="#F_K-4_Bae_TB_2_162" n="81r" xml:id="Bae_TB_2_4690"/>
           <anchor xml:id="Bae_TB_2_6525"/>war es mir nicht möglich 
-          <app from="#" type="equal" xml:id="Bae_TB_2_4691">
+          <app from="#Bae_MF_2_6398" type="equal" xml:id="Bae_TB_2_4691">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4692">war es mir nicht möglich</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_4693"/>, ein 
@@ -7015,7 +7015,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6527">Elaborat las, zur Feder griff und den Regentag so gut benützte, daß ich die ganzen Motive umarbeitete, in die Staatsdruckerei schickte und zwei Tage darauf die Korrekturbögen dem erstaunten Mataja zur Durchsicht übergab. Auch die Ernennung der 24 Mitglieder des Arbeitsrates war mühsam. Sie hat eine grosse Korrespondenz und manche Konferenz gekostet. Bezüglich der Ernennung der Arbeiter setzte ich mich mit der Leitung der socialdemokratischen Partei in Verbindung, aber erst als ich selbständig</rdg>
           </app>
           <pb facs="#F_K-4_Bae_TB_2_163" n="81v" xml:id="Bae_TB_2_4822"/>
-          <addSpan spanTo="#Bae_TB_2_6340" type="insertion" xml:id="Bae_TB_2_6339"/>berichtigt werden. Weiters dienen diesem Zwecke Vormerkungen und Erhebungen – allerdings bisher nur in beschränktem Umfange – durch das 
+          <addSpan spanTo="#Bae_TB_2_6340" type="insertion" xml:id="Bae_TB_2_6339"/><anchor/>berichtigt werden. Weiters dienen diesem Zwecke Vormerkungen und Erhebungen – allerdings bisher nur in beschränktem Umfange – durch das 
           <orgName key="StatistischesDepartement" ref="https://d-nb.info/gnd/121099-3" xml:id="Bae_TB_2_4823">statistische Departement</orgName> selbst. Es werden 
           <index xml:id="Bae_TB_2_4824">
             <term key="Presse" xml:id="Bae_TB_2_4825">Zeitungen</term>
@@ -7084,7 +7084,7 @@
           </index>. 
         </p>
         <p xml:id="Bae_TB_2_4869">Ich möchte es, wie gesagt, vermeiden, weit ausgreifende Zukunftspläne für das 
-          <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4870">arbeitsstatistische Amt</orgName> zu schmieden. Doch kann ich mir nicht versagen, Ihnen, meine Herren, mitzutheilen, daß allerdings, meiner Meinung nach, eine brennende Frage 
+          <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4870">arbeitsstatistische Amt</orgName> zu schmieden. Doch kann ich mir nicht versagen, Ihnen, meine Herren, mitzutheilen, daß allerdings, meiner Meinung nach, eine brennende Frage <app from="#Bae_MF_2_6402" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
           <anchor xml:id="Bae_TB_2_6340"/>
           <!-- anchor für addspan 81v -->
           <pb facs="#F_K-4_Bae_TB_2_164" n="82r" xml:id="Bae_TB_2_4735"/>
@@ -7113,7 +7113,7 @@
               <term key="Eroeffnung" xml:id="Bae_TB_2_4752"/>
             </index>
           </index> wurde wurde sie so ziemlich übertönt. 
-          <app from="#" type="equal" xml:id="Bae_TB_2_4753">
+          <app from="#Bae_MF_2_6401" type="equal" xml:id="Bae_TB_2_4753">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4754">eine Liste zusammengestellt hatte, von der ich wußte, daß sie die richtigen, d.h. führenden Personen enthielt und die daher von der Parteileitung der Socialdemokratie ohne weiteres akzeptiert wurde. Die Eröffnungsrede bei Konstituierung des Arbeitsrates war meine letzte Amtshandlung vor der Oeffentlichkeit; sie fand am 25. September statt, da aber der Reichsrat tags darauf wieder eröffnet wurde, wurde sie so ziemlich übertönt.</rdg>
           </app>
         </p>
@@ -7207,7 +7207,7 @@
           </index> bei den Erhebungen sichern; durch ihn soll eine ständige Verbindung mit der wissenschaftlichen Welt hergestellt werden, welche in diesem Kreise glücklicherweise so hervorragend vertreten ist. Durch ihn soll das 
           <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4889">Amt</orgName> Anregungen empfangen und umgekehrt Probleme, die das 
           <orgName key="ArbeitsstatistischesAmt" ref="https://d-nb.info/gnd/121891-8" xml:id="Bae_TB_2_4890">Amt</orgName> in Angriff nimmt, Begutachtung und Ergänzung erfahren. Gelingt es uns, diese Wechselwirkung herzustellen, treten sich alle an diesem Werke Betheiligten in ernster und ehrlicher Arbeit näher, berücksichtigen wir stets in gleicher Weise die Beförderung und Ausdehnung unseres Gewerbefleißes, wie die Regelung der socialen Verhältnisse, sind wir in allen unseren Arbeiten stets objectiv, üben wir keine Rücksicht, aber wenn es nothwenidg ist, Nachsicht – dann haben wir heute den Grund zu einem guten Werke gelegt." (Beifall.) 
-          <app from="#" type="missing" xml:id="Bae_TB_2_4891">
+          <app from="#Bae_MF_2_6405" type="missing" xml:id="Bae_TB_2_4891">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4892"/>
           </app>
         </p>
@@ -7291,7 +7291,7 @@
           <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_2_4979">Marchet</persName> oder 
           <persName key="ScharfenGustav" xml:id="Bae_TB_2_4980">Scharfen</persName> nach einer Rundfahrt im Prater am Südbahnhof zu soupiren. Auch mit 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_2_4981">Kaizl</persName> war ich das eine 
-          <app from="#" type="equal" xml:id="Bae_TB_2_4982">
+          <app from="#Bae_MF_2_6410" type="equal" xml:id="Bae_TB_2_4982">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4983">wie einst im Justizministerium. Ich suchte deswegen selbst soviel als möglich Kontakt mit den jungen Herren und schrieb Reisestipendien aus mit der Verpflichtung sich ein Thema zum Studium zu wählen, zu reisen, zu sehen und einen Bericht zu erstatten. Mehrere Herren meldeten sich. Ich hatte mit jedem vor seiner Abreise über das Thema das er gewählt hatte, eine eingehende Konversation, gab ihm Winke und Empfehlungsbriefe und hatte die Genugtuung im Herbst vor meiner Demission schon einige Berichte zu erhalten, die davon zeugten, wie richtig meine Idee war. Daß ich viel bewältigt habe, verdanke ich einer praktischen Zeiteinteilung, bei der ich allerdings auf Alles verzichtete, was nicht des Amtes war. Um 10 Uhr, manchmal aber schon früher kam ich ins Amt empfieng Sektionschef Weigelsperg und wer von den Referenten dringend mit mir zu sprechen hatte, hielt Sitzungen ab, empfing dazwischen Besucher, sah meine Akten durch, erledigte was nicht umfangreich war, diktirte meinem unermüdlichen Dr. Krenn Briefe – alles das bis gegen 1 Uhr, zu welcher Zeit ich regelmäßig in den Stephanskeller fuhr und dort frühstückte oder vielmehr zu Mittag aß, wobei ich sehr häufig, wenn der Reichsrat beisammen war oder sonst etwas wichtiges in der Luft lag, täglich meine parlamentarischen Freunde des Herren- und Abgeordnetenhauses sah und so manche wichtige Besprechung hatte. Von 2 oder 3 Uhr an war sehr häufig Ministerrat, der manchmal bis 5, auch 6 Uhr dauerte. Wenn nicht, brachte ich nach Tisch eine Stunde zu Hause zu oder machte einen Besuch. Um 4 Uhr war ich wieder im Büro, um 5 Uhr kam Sektionschef Stibral fast regelmäßig. Sonst war dies bis 6, 7, aber selbst 8 und 9 Uhr die Zeit ruhiger Aktenarbeit oder selbständiger Aufsätze, Aufträge oder endlich Empfang von Besuchen, die ich mir bestellt hatte um ruhig und eingehend konversieren zu können. Diese Abendstunden in meinem Büro werden mir stets in der angenehmsten Erinnerung sein. Es war für mich die Zeit des Nachdenkens, der Sammlung, der Ideen und ihrer Ausfürung. Alles was reifliche Ueberlegung erforderte legte ich mir für diese Stunden bei Seite. Alles was ich aus eigener Initiative begann und ausführte, habe ich bei einer Tasse Tee in diesen stillen, der intensiven Arbeit gewidmeten Stunden ausgesonnen. Im Frühjahr unterbrach ich sie allerdings manchmal um in den Prater zu fahren und die Ausstellung zu besuchen, im Hochsommer kürzte ich sie manchmal ab, um mit Marchet oder Scharfen nach einer Rundfahrt im Prater am Südbahnhof zu soupieren. Auch mit Kaizl war ich das eine</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_4984"/>
@@ -8250,7 +8250,7 @@
           <index xml:id="Bae_TB_2_5697">
             <term key="Oesterreich" xml:id="Bae_TB_2_5698">Kleinindustrie</term>
           </index>, die nicht mehr rentirte wird verlassen, 
-          <app from="#" type="equal" xml:id="Bae_TB_2_5699">
+          <app from="#Bae_MF_2_6416" type="equal" xml:id="Bae_TB_2_5699">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5700">Nachdem wir Assling und das benachbarte Jauernigg? in Augenschein genommen hatten, fuhren wir nach Veldes. Die Gegend ist prächtig, auf der einen Seite die steile Karawankenkette, auf der anderen Waldgebirge, überragt von dem imposanten Terglou. Es war sehr warm und ein Bad in Veldes sehr erquickend. Nachmittags war Diner bei Schwegel in Grimschitzhof, dann Kaffee unter herrlichen Bäumen, endlich eine Rundfahrt um den See. Abends saß ich beim herrlichsten Mondschein noch lange am See. Anderntags zeitliche Ausfart nach Neumarktl, eine kleine deutsche Stadt knapp am Fuße der Karawanken. Ein frischer herrlicher Morgen voll Ozon in der Luft, so recht geeignet unermüdlich und unermüdet herumzusteigen. Neumarktl ist eine Blüte aus Ruinen. Die frühere Kleinindustrie, die nicht mehr rentierte, wird verlassen,</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_5701"/>neue, 
@@ -8296,7 +8296,7 @@
           <index xml:id="Bae_TB_2_5608">
             <term key="Arbeiter" xml:id="Bae_TB_2_5609">Arbeitern</term>
           </index> auch fortan nicht außer Acht zu lassen. Er werde nach Möglichkeit den erfüllbaren Wünschen der Industriellen jederzeit Rechnung tragen. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_5610">
+          <app from="#Bae_MF_2_6411" type="missing" xml:id="Bae_TB_2_5610">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5611"/>
           </app>
         </p>
@@ -8325,7 +8325,7 @@
           </choice> Parteifürer verschwenden ohne dabei den wirklichen Bedürfnissen der Bevölkerung irgendwie zu dienen. 
         </p>
         <p xml:id="Bae_TB_2_5740">Nachmittags gab ich meinen Freunden bei 
-          <app from="#" type="equal" xml:id="Bae_TB_2_5741">
+          <app from="#Bae_MF_2_6419" type="equal" xml:id="Bae_TB_2_5741">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5742">bei welchem es abermals an herzlichen Toasten nicht fehlte. In einer Gerberei wurde mir ein alter Arbeiter vorgestellt, der 50 Jahre in demselben Geschäfte als Gärber tätig war und von dem man erzählte daß er, als er vom Militär seinerzeit heimkam, noch einige Taler mitbrachte, die er sich von seiner (damaligen!) Löhnung erspart hatte. Die Genügsamkeit eines solchen Lebens ist rührend. Ich verschaffte ihm das silberne Verdienstkreuz, eigentlich ohne Hoffnung, daß es ihm einen Eindruck machen werde, erfuhr aber später von Schwegel, daß der ganze Ort eine Feier daraus gemacht habe und seine Freude groß gewesen sei. Wie leicht wäre ein solches Volk noch zu regieren, aber freilich Mühe müsste man sich geben, systematisch von Ort zu Ort auch im Detail und nicht das Beste an Parteien und Parteifürer verschwenden, ohne dabei den wirklichen Bedürfnissen der Bevölkerung irgendwie zu dienen. Nachmittags gab ich meinen Freunden bei</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_5743"/>Mallner 
@@ -8588,7 +8588,7 @@
         </p>
         <anchor xml:id="Bae_TB_2_6022"/>
         <!-- CA: anchor für addspan Bae_TB_2_5933 -->
-        <pb facs="#F_K-4_Bae_TB_2_210" n="105r" xml:id="Bae_TB_2_5915"/>
+        <pb facs="#F_K-4_Bae_TB_2_210" n="105r" xml:id="Bae_TB_2_5915"/><anchor/>
         <p xml:id="Bae_TB_2_6361">von diesen kleinen geschnittenen Steinen eine grosse Sammlung, darunter Stücke von 
           <del rendition="#s" xml:id="Bae_TB_2_5916">grosser</del> Feinheit 
           <choice xml:id="Bae_TB_2_5917">
@@ -8606,7 +8606,7 @@
         <p xml:id="Bae_TB_2_5926">Ganz andere Eindrücke empfing ich, als ich etwa 14 Tage später nach 
           <placeName key="Pilsen" ref="https://www.geonames.org/11921103/plzen.html" xml:id="Bae_TB_2_5927">Pilsen</placeName> kam und das Etablissement 
           <persName key="SkodaEmil" ref="https://d-nb.info/gnd/117424390" xml:id="Bae_TB_2_5928">Škoda's</persName> besuchte. 
-          <app from="#" type="equal" xml:id="Bae_TB_2_5929">
+          <app from="#Bae_MF_2_6422" type="equal" xml:id="Bae_TB_2_5929">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5930">von diesen kleinen geschnittenen Steinen eine große Sammlung, darunter Stücke von Feinheit und Geschmack. Sie dürften in dem alten Aquileja in Mengen erzeugt worden sein. Nachmittags heisse Fahrt nach Monfalcone wo mein Besuch dem versandeten Hafen Porto roseca galt. Eine verödete Flügelbahn, auf der meterhohe Disteln wachsen, ein kleiner Hafen, der durch Versandung ganz unbrauchbar ist, eine Bevölkerung, die mich zwar sehr freundlich, sogar mit Musik! – empfing, die aber an eine Besserung der Verhältnisse selbst nicht recht glaubt. Was wird mit meinem Auftrag, den Hafen zu baggern, die Bahn betriebsfähig zu machen, werden? – Abends fuhr ich von Görz direkt nach Wien. Ganz andere Eindrücke empfieng ich, als ich etwa 14 Tage später nach Pilsen kam und das Etablissement Skodas besuchte.</rdg>
           </app>
         </p>
