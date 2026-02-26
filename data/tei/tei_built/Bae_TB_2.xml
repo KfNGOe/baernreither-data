@@ -1757,7 +1757,7 @@
               <abbr xml:id="Bae_TB_2_1254">Abg.</abbr>
               <expan xml:id="Bae_TB_2_1255">Abgeordneter</expan>
             </choice> Graf Dubsky 
-          </persName> ( 
+          </persName> (
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1256">verfassungstreuer Großgrundbesitz</orgName>): Ich habe die Ehre, in meinem Namen und in dem meiner engeren Gesinnungsgenossen nachstehende Erklärung abzugeben: Bereits die am 
           <date when="1897-07-11" xml:id="Bae_TB_2_1257">11. Juli l. J.</date> in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_2_1258">Wien</placeName> stattgehabte Conferenz der Vertrauensmänner des 
@@ -1997,7 +1997,7 @@
               <abbr xml:id="Bae_TB_2_1380">Abg.</abbr>
               <expan xml:id="Bae_TB_2_1381">Abgeordneter</expan>
             </choice> Dr. Bärnreither 
-          </persName> ( 
+          </persName> (
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1382">verfassungstreuer Großgrundbesitz</orgName>): Im Auftrage der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1383">Vereinigung</orgName>, der ich angehöre, erlaube ich mir, zu der Angelegenheit, welche hier in Verhandlung steht, nachstehenden Antrag vorzulegen: "Indem das Haus der Regierung bezüglich ihres Verhaltens gegenüber dem am 
           <date when="1897-07-11" xml:id="Bae_TB_2_1384">11. Juli l. J.</date> in 
@@ -2142,7 +2142,7 @@
               <abbr xml:id="Bae_TB_2_1425">Abg.</abbr>
               <expan xml:id="Bae_TB_2_1426">Abgeordneter</expan>
             </choice> Dr. Bärnreither 
-          </persName> ( 
+          </persName> (
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_2_1427">verfassungstreuer Grobgrundbesitz</orgName>) erklärt, daß sich seit der Zeit, in welcher ein analoger Antrag, wie der jetzt in Verhandlung stehende, gestellt wurde, in der Sache selbst, insbesondere in Bezug auf die juristische Seite der Frage nichts geändert habe und daß daher die Stellung seiner Gesinnungsgenossen auch heute einen Antrag auf motivirte Tagesordnung, in welcher sie die Erlassung der 
           <index xml:id="Bae_TB_2_1428">
             <term key="Reichsrat" xml:id="Bae_TB_2_1429">Sprachenverordnungen</term>
@@ -5199,14 +5199,10 @@
               <expan xml:id="Bae_TB_2_3525">Fürstenberg</expan>
             </choice>
           </persName> etwas flüchtig behandelt sind, so hat das seinen Grund dass ich diese Themata hier in 
-          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_2_3526">Lünz</placeName> nach 
-          <app from="#Bae_MF_2_75" type="missing" xml:id="Bae_TB_2_6484">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6485"/>
-          </app>
+          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_2_3526">Lünz</placeName> nach <app from="#Bae_MF_2_75" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_117" n="58v" xml:id="Bae_TB_2_6108"/>
-        <anchor xml:id="Bae_TB_2_6486"/>
-        <addSpan spanTo="#Bae_TB_2_6017" type="insertion" xml:id="Bae_TB_2_3556"/>
+        <anchor/><addSpan spanTo="#Bae_TB_2_6017" type="insertion" xml:id="Bae_TB_2_3556"/>
         <p xml:id="Bae_TB_2_3557">Ich habe seither gelesen, dass 
           <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_2_3558">Macchiavell</persName> in seinen Schriften manchmal wörtlich Gedanken 
           <choice xml:id="Bae_TB_2_3559">
@@ -5227,10 +5223,7 @@
         <p xml:id="Bae_TB_2_3570">"nihil tam instable ac fluxam, quam fama potentiae non sera vi nixa."</p>
         <p xml:id="Bae_TB_2_3571">So hat selbst ein 
           <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_2_3572">Macchiavell</persName> sich mit fremden Federn geschmückt! 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6487">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6488"/>
-          </app>
-        </p>
+        <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app></p>
         <anchor xml:id="Bae_TB_2_6017"/>
         <!-- CA: anchor für addspan Bae_TB_2_3556 -->
         <pb facs="#F_K-4_Bae_TB_2_118" n="59r" xml:id="Bae_TB_2_3528"/>
@@ -5271,18 +5264,14 @@
           <placeName key="Florenz" ref="https://www.geonames.org/3176959/florence.html" xml:id="Bae_TB_2_3552">Florenz</placeName> so abgespannt, dass mir selbst kleine Dosen geistiger Arbeit schwer fielen. Erst in 
           <placeName key="Arco" ref="https://www.geonames.org/6539794/arco.html" xml:id="Bae_TB_2_3553">Arco</placeName> wurde es besser. Die leichte Wassercur und das stille, regelmässige Leben in Verbindung mit dem anregenden Umgang, den mir 
           <persName key="Kunze" xml:id="Bae_TB_2_3554">Dr. Kunze</persName> gewährte, brachten eine Besserung hervor. Ich konnte mit Hülfe eines Lehrers den principe von 
-          <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_2_3555">Macchiavell</persName> wieder einmal in Originalsprache lesen, eine unbewusste Vorbereitung für die kommenden Monate! 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6489">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6490"/>
-          </app>
+          <persName key="MachiavelliNiccolo" ref="https://d-nb.info/gnd/118575775" xml:id="Bae_TB_2_3555">Macchiavell</persName> wieder einmal in Originalsprache lesen, eine unbewusste Vorbereitung für die kommenden Monate! <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_2_6305"/>
         <app from="#Bae_TB_2_6017" type="insertion" xml:id="Bae_TB_2_6306">
           <rdg xml:id="Bae_TB_2_6307">[...]</rdg>
         </app>
         <!-- DC Ergänzung mit Tinte von 58v -->
-        <anchor xml:id="Bae_TB_2_6491"/>
-        <p xml:id="Bae_TB_2_3573">Es ist merkwürdig 
+        <anchor/><p xml:id="Bae_TB_2_3573">Es ist merkwürdig 
           <choice xml:id="Bae_TB_2_3574">
             <abbr xml:id="Bae_TB_2_3575">u.</abbr>
             <expan xml:id="Bae_TB_2_3576">und</expan>
@@ -6251,13 +6240,10 @@
           <choice xml:id="Bae_TB_2_4290">
             <abbr xml:id="Bae_TB_2_4291">u.s.w.</abbr>
             <expan xml:id="Bae_TB_2_4292">und so weiter</expan>
-          </choice> klagten machte ich zum Gegenstand sofortiger, teils mündlicher, teils schriftlicher Vorstellungen und erzielte
-          <app from="#Bae_MF_2_519" type="equal" xml:id="Bae_TB_2_6492">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6493">anhängig sei. Dies gab mir Gelegenheit mit den einzelnen Referenten und selbst den jungen Herren des Hauses zu verkehren, ihre Fähigkeiten kennen zu lernen. Vielen Wünschen konnte ich rasch entsprechen, so gleich am Anfang der Bitte des Handelsmuseums um eine Subvention von 20.000 Fl. zur Errichtung einer "Exportakademie", einvvielleicht nicht ganz glücklicher Name für eine sehr gute Sache, nämlich für eine höhere Handelsschule nach dem Muster gleicher Anstalten in Deutschland. Im Oktober konnte dieselbe bereits eröffnet werden. Eine große Zahl besonderer Fälle in denen Industrielle über Benachteiligung durch Behörden, Eisenbahnen u.s.w. klagten machte ich zum Gegenstand sofortiger, teils mündlicher, teils schriftlicher Vorstellungen und erzielte</rdg>
-          </app>
+          </choice> klagten machte ich zum Gegenstand sofortiger, teils mündlicher, teils schriftlicher Vorstellungen und erzielte<app from="#Bae_MF_2_519" type="equal"><rdg wit="Bae_MF_2">anhängig sei. Dies gab mir Gelegenheit mit den einzelnen Referenten und selbst den jungen Herren des Hauses zu verkehren, ihre Fähigkeiten kennen zu lernen. Vielen Wünschen konnte ich rasch entsprechen, so gleich am Anfang der Bitte des Handelsmuseums um eine Subvention von 20.000 Fl. zur Errichtung einer "Exportakademie", einvvielleicht nicht ganz glücklicher Name für eine sehr gute Sache, nämlich für eine höhere Handelsschule nach dem Muster gleicher Anstalten in Deutschland. Im Oktober konnte dieselbe bereits eröffnet werden. Eine große Zahl besonderer Fälle in denen Industrielle über Benachteiligung durch Behörden, Eisenbahnen u.s.w. klagten machte ich zum Gegenstand sofortiger, teils mündlicher, teils schriftlicher Vorstellungen und erzielte</rdg></app> 
         </p>
         <pb facs="#F_K-4_Bae_TB_2_151" n="75v" xml:id="Bae_TB_2_6143"/>
-        <anchor xml:id="Bae_TB_2_6494"/>
+        <anchor/>
         <addSpan spanTo="#Bae_TB_2_6308" type="insertion" xml:id="Bae_TB_2_4348"/>
         <p xml:id="Bae_TB_2_4350">
           <anchor xml:id="Bae_TB_2_4351"/>Die Eröffnung des 
@@ -6337,16 +6323,12 @@
             <index xml:id="Bae_TB_2_4409">
               <term key="Industrie" xml:id="Bae_TB_2_4410"/>
             </index>
-          </index> und den Handel beziehen soll und daß eigentliche gewerbliche Fragen etwa ausgeschlossen sein sollen, da ja das wirthschaftliche Productionsleben eine Einheit ist und hier Eins ins Andere greift. Aber ich möchte hier auf eine Arbeitstheilung aufmerksam machen, welche dadurch zur Nothwendigkeit wird, daß gewisse specifisch gewerbliche Fragen einer abgesonderten Behandlung bedürfen, und ich bitte die Herren, zur Kenntniß zu nehmen, daß ich – wenn es mir vergönnt sein sollte, mein Ressort länger zu verwalten – die Absicht habe, den Gewerbeförderungs-Beirath, welcher auf gewerblichem Gebiete sich schon manche 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6495">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6496"/>
-          </app>
+          </index> und den Handel beziehen soll und daß eigentliche gewerbliche Fragen etwa ausgeschlossen sein sollen, da ja das wirthschaftliche Productionsleben eine Einheit ist und hier Eins ins Andere greift. Aber ich möchte hier auf eine Arbeitstheilung aufmerksam machen, welche dadurch zur Nothwendigkeit wird, daß gewisse specifisch gewerbliche Fragen einer abgesonderten Behandlung bedürfen, und ich bitte die Herren, zur Kenntniß zu nehmen, daß ich – wenn es mir vergönnt sein sollte, mein Ressort länger zu verwalten – die Absicht habe, den Gewerbeförderungs-Beirath, welcher auf gewerblichem Gebiete sich schon manche <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_2_6308"/>
         <!-- anchor für addspan 75v -->
         <pb facs="#F_K-4_Bae_TB_2_152" n="76r" xml:id="Bae_TB_2_4294"/>
-        <anchor xml:id="Bae_TB_2_6497"/>
-        <p xml:id="Bae_TB_2_6309">manchmal trotz der Schwerfälligkeit unserer 
+        <anchor/><p xml:id="Bae_TB_2_6309">manchmal trotz der Schwerfälligkeit unserer 
           <index xml:id="Bae_TB_2_4295">
             <term key="Verwaltung" xml:id="Bae_TB_2_4296">Verwaltung</term>
           </index> rasche Erfolge, welche die Betreffenden gewönlich weit über das Maas meines Verdienstes in Erstaunen setzten 
@@ -6399,13 +6381,9 @@
             <abbr xml:id="Bae_TB_2_4332">u.</abbr>
             <expan xml:id="Bae_TB_2_4333">und</expan>
           </choice> darnach Statuten entworfen. Ein Gutachten, welches mir 
-          <persName key="PhilippovichEugen" ref="https://d-nb.info/gnd/116176199" xml:id="Bae_TB_2_4334">Phillipovic</persName> über das Statut erstattete, 
-          <app from="#" type="equal" xml:id="Bae_TB_2_6498">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6499">manchmal trotz der Schwerfälligkeit unserer Verwaltung rasche Erfolge, welche die Betreffenden gewöhnlich weit über das Maß meines Verdienstes in Erstaunen setzten und zu Dank verpflichteten. Auf diese Weise kam ich sehr bald in Kontakt mit vielen Industriellen und Gewerbetreibenden und war mir bald klar, in welcher Richtung sich meine Industriepolitik werde zu bewegen haben. Bei den Herren der handelspolitischen Sektion, Stibral und Rössler, fand ich sofort Verständniss und Mitwirkung bei meinen rasch reifenden Ideen. In täglichen Gesprächen mit ersterem redete ich mich über vieles klar und nahm andrerseits nach und nach die Grundzüge unserer Handelspolitik, wie sie sich dem Ausland und Ungarn gegenüber entwickelt hat, in mich auf, während Rössler mir stets bereitwillig Material beschaffte und zur Ausführung brachte was nach und nach fertig wurde. Gleich in den ersten Wochen beschäftigte mich die Idee des Industriebeirates. Anfangs hatte ich ihn mir als Volkswirtschaftsrat gedacht und darnach Statuten entworfen. Ein Gutachten, welches mir Phillipovic über das Statut erstattete,</rdg>
-          </app>
-        </p>
+          <persName key="PhilippovichEugen" ref="https://d-nb.info/gnd/116176199" xml:id="Bae_TB_2_4334">Phillipovic</persName> über das Statut erstattete, <app from="#" type="equal"><rdg wit="Bae_MF_2">manchmal trotz der Schwerfälligkeit unserer Verwaltung rasche Erfolge, welche die Betreffenden gewöhnlich weit über das Maß meines Verdienstes in Erstaunen setzten und zu Dank verpflichteten. Auf diese Weise kam ich sehr bald in Kontakt mit vielen Industriellen und Gewerbetreibenden und war mir bald klar, in welcher Richtung sich meine Industriepolitik werde zu bewegen haben. Bei den Herren der handelspolitischen Sektion, Stibral und Rössler, fand ich sofort Verständniss und Mitwirkung bei meinen rasch reifenden Ideen. In täglichen Gesprächen mit ersterem redete ich mich über vieles klar und nahm andrerseits nach und nach die Grundzüge unserer Handelspolitik, wie sie sich dem Ausland und Ungarn gegenüber entwickelt hat, in mich auf, während Rössler mir stets bereitwillig Material beschaffte und zur Ausführung brachte was nach und nach fertig wurde. Gleich in den ersten Wochen beschäftigte mich die Idee des Industriebeirates. Anfangs hatte ich ihn mir als Volkswirtschaftsrat gedacht und darnach Statuten entworfen. Ein Gutachten, welches mir Phillipovic über das Statut erstattete,</rdg></app></p>
         <pb facs="#F_K-4_Bae_TB_2_153" n="76v" xml:id="Bae_TB_2_4411"/>
-        <anchor xml:id="Bae_TB_2_6500"/>
+        <anchor/>
         <addSpan spanTo="#Bae_TB_2_6312" type="insertion" xml:id="Bae_TB_2_6310"/>
         <p xml:id="Bae_TB_2_6311">Lorbeern erworben hat, zu erweitern und umzugestalten, damit er sich zu einem Organ entwickle, welches den von mir erwähnten specifischen gewerblichen Interessen zu dienen mehr und mehr geeignet werde. </p>
         <p xml:id="Bae_TB_2_4412">Aber noch nach einer anderen Richtung muß ich eine Arbeitstheilung betonen. Unlösbar mit dem wahren Interesse der 
@@ -6443,15 +6421,12 @@
           </index> in Berathung zu ziehen sein wird, soll deßwegen auch die Vorbereitung des Materials für die Erneuerung der Handelsverträge schreiten, zumal wichtige Berührungspunkte zwischen diesen beiden Aufgaben bestehen, die zu einer harmonischen Lösung gebracht werden sollen. Da bis zur actuellen Benützung des von dem 
           <orgName key="IndustrieundLandwirtschaftsrat" ref="https://d-nb.info/gnd/301633-X" xml:id="Bae_TB_2_4435">Industrierathe</orgName> zu sammelnden und zu begutachtenden Stoffes immerhin noch einige Zeit verstreichen wird, können diese Arbeiten auf breitester Basis begonnen werden und bieten die Bestimmungen der Ihnen vorliegenden provisorischen Geschäftsordnung über die Einvernahme von Experten die wünschenswerthe Gelegenheit, alle betheiligten Kreise hiebei zum Worte kommen zu lassen, was um so werthvoller erscheint, als ungeachtet der nicht geringen Mitgliederzahl des 
           <orgName key="IndustrieundLandwirtschaftsrat" ref="https://d-nb.info/gnd/301633-X" xml:id="Bae_TB_2_4436">Industrierathes</orgName> noch immer eine vollständige Vertretung aller Branchen nicht bewerkstelligt werden konnte. Es darf daher auch als eine dankenswerthe Aufgabe der ständigen Abtheilungen bezeichnet werden, an die Zusammenstellung möglichst complexer Expertenlisten zu schreiten. Unverkennbar hat aber Alles, was auf handelspolitischem Gebiete sei es autonom, sei es auf dem Wege von Verträgen für eine nächste Zeit geschaffen oder auch nur vorbereit werden soll, eine Voraussetzung, nämlich die Klarheit über den Umfang des Zollgebietes, welches bisher stets als österreichisch-ungarisches handelnd aufgetreten ist. Diese Klarheit ist eine Vorfrage, die gelöst werden muß, weil, von anderen Rücksichten abgesehen, von dieser Lösung der ganze Zuschnitt, der Inhalt, der Zweck aller Vorbereitungen tarifarischer und handelspolitischer Art abhängt. Die Bedeutung, welche die Erneuerung der Handelsverträge für die Monarchie hat, ist daher für uns ein Ansporn mehr, unser engeres Verhältniß zu 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_2_4437">Ungarn</placeName> ins Reine zu bringen. 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6501">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6502"/>
-          </app>
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_2_4437">Ungarn</placeName> ins Reine zu bringen. <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_2_6312"/>
         <!-- anchor für addspan 76v -->
         <pb facs="#F_K-4_Bae_TB_2_154" n="77r" xml:id="Bae_TB_2_4336"/>
-        <anchor xml:id="Bae_TB_2_6503"/>
+        <anchor/>
         <p xml:id="Bae_TB_2_6313">lies mich die Idee aufgeben. Zum " 
           <hi rendition="#ul" xml:id="Bae_TB_2_4337">Volks</hi>"wirtschaftsrath gehörte nach seiner Ansicht auch die Socialpolitik 
           <choice xml:id="Bae_TB_2_4338">
@@ -6515,14 +6490,10 @@
             <abbr xml:id="Bae_TB_2_4551">u.</abbr>
             <expan xml:id="Bae_TB_2_4552">und</expan>
           </choice> ihnen Aussichten eröffnen, dann können sie sogar nützlich werden. Den ersteren muss man mit brutaler Energie begegnen. Gleich beim Zusammentritt des 
-          <orgName key="IndustrieundLandwirtschaftsrat" ref="https://d-nb.info/gnd/301633-X" xml:id="Bae_TB_2_4553">Industrierathes</orgName> hatte ich Gelegenheit 
-          <app from="#Bae_MF_2_559" type="equal" xml:id="Bae_TB_2_6504">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6505">Diese jetzt so oft in Anwendung kommenden "Räthe" sind nichts als permanente Enqueten mit allen Vor- und Nachteilen derselben. Zur Entwirrung und Feststellung einer schwierigen Materie ungeeignet, aber geschickt behandelt kann man Stimmung aus ihnen heraushören und durch sie machen. Intriganten und Streber spielen eine große Rolle darin. Die letzteren muss man beschäftigen und ihnen Aussichten eröffnen, dann können sie sogar nützlich werden. Den ersteren muss man mit brutaler Energie begegnen. Gleich beim Zusammentritt des Industrierathes hatte ich Gelegenheit </rdg>
-          </app>
+          <orgName key="IndustrieundLandwirtschaftsrat" ref="https://d-nb.info/gnd/301633-X" xml:id="Bae_TB_2_4553">Industrierathes</orgName> hatte ich Gelegenheit <app from="#Bae_MF_2_559" type="equal"><rdg wit="Bae_MF_2">Diese jetzt so oft in Anwendung kommenden "Räthe" sind nichts als permanente Enqueten mit allen Vor- und Nachteilen derselben. Zur Entwirrung und Feststellung einer schwierigen Materie ungeeignet, aber geschickt behandelt kann man Stimmung aus ihnen heraushören und durch sie machen. Intriganten und Streber spielen eine große Rolle darin. Die letzteren muss man beschäftigen und ihnen Aussichten eröffnen, dann können sie sogar nützlich werden. Den ersteren muss man mit brutaler Energie begegnen. Gleich beim Zusammentritt des Industrierathes hatte ich Gelegenheit </rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_155" n="77v" xml:id="Bae_TB_2_4438"/>
-        <anchor xml:id="Bae_TB_2_6506"/>
-        <addSpan spanTo="#Bae_TB_2_6330" type="insertion" xml:id="Bae_TB_2_6329"/>
+        <anchor/><addSpan spanTo="#Bae_TB_2_6330" type="insertion" xml:id="Bae_TB_2_6329"/>
         <p xml:id="Bae_TB_2_4439">Die im Amte befindliche Regierung hat die 
           <index xml:id="Bae_TB_2_4440">
             <term key="OesterreichUngarn" xml:id="Bae_TB_2_4441">Ausgleichsvorlagen</term>
@@ -6591,16 +6562,12 @@
             <index xml:id="Bae_TB_2_4487">
               <term key="Industrie" xml:id="Bae_TB_2_4488"/>
             </index>
-          </index> nicht unberechtigt. Aber es wäre ganz 
-          <app from="#" type="missing" xml:id="Bae_TB_2_6507">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6508"/>
-          </app>
+          </index> nicht unberechtigt. Aber es wäre ganz <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_2_6330"/>
         <!-- anchor für addspan 77v -->
         <pb facs="#F_K-4_Bae_TB_2_156" n="78r" xml:id="Bae_TB_2_4555"/>
-        <p xml:id="Bae_TB_2_6331">
-          <anchor xml:id="Bae_TB_2_6509"/>einer von meinem alten Freunde 
+        <p xml:id="Bae_TB_2_6331"><anchor/>einer von meinem alten Freunde 
           <persName key="HallwichHermann" ref="https://d-nb.info/gnd/139873708" xml:id="Bae_TB_2_4556">Hallwich</persName> gelegten Miene entgegenzuarbeiten. Er wollte nichts weniger als gleich die ganzen 
           <index xml:id="Bae_TB_2_4557">
             <term key="OesterreichUngarn" xml:id="Bae_TB_2_4558">Ausgleichsvorlagen</term>
@@ -6652,13 +6619,10 @@
           <app from="#Bae_MF_2_588" type="notEqual" xml:id="Bae_TB_2_4592">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_4593">machten</rdg>
           </app>
-          <anchor xml:id="Bae_TB_2_4594"/>mir viel Mühe, denn ich wusste, dass 
-          <app from="#Bae_MF_2_591" type="equal" xml:id="Bae_TB_2_6510">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6511">mir viel Mühe, denn ich wusste, daß</rdg>
-          </app>
+          <anchor xml:id="Bae_TB_2_4594"/>mir viel Mühe, denn ich wusste, dass <app from="#Bae_MF_2_591" type="equal"><rdg wit="Bae_MF_2">mir viel Mühe, denn ich wusste, daß</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_157" n="78v" xml:id="Bae_TB_2_4489"/>
-        <anchor xml:id="Bae_TB_2_6512"/>
+        <anchor/>
         <addSpan spanTo="#Bae_TB_2_6334" type="insertion" xml:id="Bae_TB_2_6332"/>
         <p xml:id="Bae_TB_2_6333">gefehlt, wollten wir uns auf Recriminationen verlegen. Es handelt sich nicht um einen Kampf, sondernum eine Parallel-Action mit dem gleichen Ziele der 
           <index xml:id="Bae_TB_2_4490">
@@ -6717,8 +6681,7 @@
         <anchor xml:id="Bae_TB_2_6334"/>
         <!-- anchor für addspan 78v -->
         <pb facs="#F_K-4_Bae_TB_2_158" n="79r" xml:id="Bae_TB_2_4596"/>
-        <p xml:id="Bae_TB_2_6335">
-          <anchor xml:id="Bae_TB_2_6513"/>von der richtigen Wahl, von der Berücksichtigung der entscheidenden Kreise 
+        <p xml:id="Bae_TB_2_6335"><anchor/>von der richtigen Wahl, von der Berücksichtigung der entscheidenden Kreise 
           <choice xml:id="Bae_TB_2_4597">
             <abbr xml:id="Bae_TB_2_4598">u.</abbr>
             <expan xml:id="Bae_TB_2_4599">und</expan>
@@ -6775,13 +6738,10 @@
             <expan xml:id="Bae_TB_2_4637">und zwar</expan>
           </choice> stark beschäftigt, 
           <del rendition="#s" xml:id="Bae_TB_2_4638">die</del>
-          <add place="across" xml:id="Bae_TB_2_4639">seine eigene</add> Initiative nicht verschmähend aber mit der eignen Initiative dominirend. 
-          <app from="#" type="equal" xml:id="Bae_TB_2_6514">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6515">Aufgaben u.z. stark beschäftigt, seine eigene Initiative nicht verschmähend aber mit der eigenen Initiative dominierend.</rdg>
-          </app>
+          <add place="across" xml:id="Bae_TB_2_4639">seine eigene</add> Initiative nicht verschmähend aber mit der eignen Initiative dominirend. <app from="#" type="equal"><rdg wit="Bae_MF_2">Aufgaben u.z. stark beschäftigt, seine eigene Initiative nicht verschmähend aber mit der eigenen Initiative dominierend.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_159" n="79v" xml:id="Bae_TB_2_4526"/>
-        <anchor xml:id="Bae_TB_2_6516"/>
+        <anchor/>
         <addSpan spanTo="#Bae_TB_2_6019" type="insertion" xml:id="Bae_TB_2_6336"/>
         <p xml:id="Bae_TB_2_6337">verlassen haben. Die Grundlage der von der Regierung geplanten Reform des Actienwesens wird daher die Aufhebung des Concessions-Systems und Einführung des sogenannten Normativ-Systems sein. Die Ingerenz des Staates wird sich auf die Ueberwachung der Erfüllung der gesetzlichen Bestimmungen und auf die Handhabung der Strafgewalt in den gesetzlich vorgesehenen Fällen beschränken. Die Garantien gegen die Ausbeutung des Publicums liegen in einer civil- und strafrechtlichen Haftung der Gesellschaftsorgane, sowie in der weitestgehenden Öffentlichkeit der für das große Publicum wichtigen Vorgänge im Gesellschaftsleben. Die Vorarbeiten für eine Regierungsvorlage über das Actienwesen sind bereits in vollen Zuge. Es wird ein aus Vertretern der betheiligten Ministerien zusammengesetzes Comité in diesen Tagen zusammentreten, welches zunächst einen Fragebogen behufs Einvernehmung der Fachreise ausarbeiten wird. Ich werde nicht ermangeln, schon in diesem Stadium dr Angelegenheit das Gutachten des 
           <orgName key="IndustrieundLandwirtschaftsrat" ref="https://d-nb.info/gnd/301633-X" xml:id="Bae_TB_2_4527">Industrierathes</orgName> einzuholen. (Bravo!) Da jedoch bis zum Inslebentreten des neuen Actiengesetzes wol immerhin noch eine Zeit verfließen wird, so soll dem dringenden Bedürfnisse nach Erleichterung der Kapitals-Association inzwischen durch Inaugurirung einer den geschäftlichen Verhältnissen entsprechenden freieren Praxis der Concessionirung von Actien-Gesellschaften Rechnung getragen werden (Beifall), so weit dies möglich ist, ohne die durch das Concessions-System zu sichernden öffentlichen Interessen zu schädigen. Auch wird die Form gefunden werden, daß schon unter der Herrschaft des heutigen Systems die in diesen Angelegenheiten bisher blos am grünen Tische sich vollziehenden Verwaltungs-Functionen in das Licht der Oeffentlichkeit gerückt werden. (Beifall.) 
@@ -6795,8 +6755,7 @@
         <anchor xml:id="Bae_TB_2_6019"/>
         <!-- CA: anchor für addspan 79v -->
         <pb facs="#F_K-4_Bae_TB_2_160" n="80r" xml:id="Bae_TB_2_4642"/>
-        <p xml:id="Bae_TB_2_4640">
-          <anchor xml:id="Bae_TB_2_6517"/>In den Industriellen Kreisen war meine Ernennung zum 
+        <p xml:id="Bae_TB_2_4640"><anchor/>In den Industriellen Kreisen war meine Ernennung zum 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_2_4643">
             <choice xml:id="Bae_TB_2_4644">
               <abbr xml:id="Bae_TB_2_4645">H.M.</abbr>
@@ -8574,8 +8533,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_5930">dazu hätten, aber immer fehlt das einigende Band, die zusammenfassende Leitung von oben. Ritter schenkte mir ein paar kleine Gemmen, eine Sphinx, eine Quadriga und einen Bären, mit denen ich jetzt siegle. Das Museum besitzt von diesen kleinen geschnittenen Steinen eine große Sammlung, darunter Stücke von Feinheit und Geschmack. Sie dürften in dem alten Aquileja in Mengen erzeugt worden sein. Nachmittags heisse Fahrt nach Monfalcone wo mein Besuch dem versandeten Hafen Porto roseca galt. Eine verödete Flügelbahn, auf der meterhohe Disteln wachsen, ein kleiner Hafen, der durch Versandung ganz unbrauchbar ist, eine Bevölkerung, die mich zwar sehr freundlich, sogar mit Musik! – empfing, die aber an eine Besserung der Verhältnisse selbst nicht recht glaubt. Was wird mit meinem Auftrag, den Hafen zu baggern, die Bahn betriebsfähig zu machen, werden? – Abends fuhr ich von Görz direkt nach Wien. Ganz andere Eindrücke empfieng ich, als ich etwa 14 Tage später nach Pilsen kam und das Etablissement Skodas besuchte.</rdg>
           </app>
         </p>
-        <!-- CA: nachfolgend die Einklebung von 104v -->
-        <anchor xml:id="Bae_TB_2_6362"/>
+        <!-- CA: nachfolgend die Einklebung von 104v --><anchor xml:id="Bae_TB_2_6362"/>
         <app from="#Bae_TB_2_5933" type="insertion" xml:id="Bae_TB_2_6363">
           <rdg xml:id="Bae_TB_2_6364">[...]</rdg>
         </app>
