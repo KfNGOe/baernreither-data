@@ -585,7 +585,7 @@
           <persName key="KathreinTheodor" ref="https://d-nb.info/gnd/11903235X" xml:id="Bae_TB_2_409">Kathrein</persName> machte gar kein Hehl daraus. Hier setzten wir – leider nur mit teilweisem Erfolge – unsere Hebel an. 
         </p>
       </div>
-      <div xml:id="Bae_TB_2_410">
+      <div n="1897-10-26" type="diaryEntry" xml:id="Bae_TB_2_410">
         <head xml:id="Bae_TB_2_411">
           <hi rendition="#ul" xml:id="Bae_TB_2_412">II. Unsere Verhandlungen mit 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_413">Baron Dipauli</persName>. 
@@ -6867,10 +6867,9 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_161" n="80v" xml:id="Bae_TB_2_4756"/>
+         <anchor xml:id="Bae_TB_2_4758"/>
         <addSpan spanTo="#Bae_TB_2_6338" type="insertion" xml:id="Bae_TB_2_4755"/>
-        <p xml:id="Bae_TB_2_4757">
-          <anchor xml:id="Bae_TB_2_4758"/>[handschriftliche Ergänzung rechts]: 
-          <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_2_4759">N. Fr. Pr.</orgName>
+        <p xml:id="Bae_TB_2_4757">[handschriftliche Ergänzung rechts]: <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_2_4759">N. Fr. Pr.</orgName>
           <date when="1898-08-26" xml:id="Bae_TB_2_4760">26.8</date>
         </p>
         <p xml:id="Bae_TB_2_4761">
@@ -8081,7 +8080,7 @@
           </choice> das Verhältniss der Deutschen in den 
           <placeName key="Ostseeprovinzen" ref="https://d-nb.info/gnd/4004379-4" xml:id="Bae_TB_2_5677">Ostseeprovinzen</placeName> sein. 
           <app from="#Bae_MF_2_1069" type="equal" xml:id="Bae_TB_2_6533">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6534">von Kaltenegger auch Schwegel. Mein Hauptquartier schlug ich in Veldes auf und machte von da aus meine Besuche und Ausflüge. Eine größere homogene Gesellschaft war in Veldes sowie in Grimschitzhof, dem reizenden Gute Schwegels versammelt. Bei diesem war der Laibacher Dr. Schaffer auf Besuch, in Veldes Moscon und der Gutsbesitzer Lenz aus Krain. Auch Kaltenegger, dessen Vater Landeshauptmann in Krain gewesen war, der letzte deutsche! – passte sehr gut dazu. Das Landvolk und die kleine städtische Intelligenz slovenisch, was bei Wahlen dem Lande ganz den Charakter eines slavischen Landes gibt und doch ist der Kulturcharakter ein deutscher. In Tabor bin ich ganz in der slawischen Welt, dort in Oberkrain ganz das Gegenteil. Numerisch, nach Köpfen gezählt, verschwindet freilich das deutsche Element, aber doch prägt es der Gegend seinen Charakter auf. So muss die Lage und das Verhältnis der Deutschen in den Ostseeprovinzen sein. </rdg>
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_2_6534">von Kaltenegger auch Schwegel. Mein Hauptquartier schlug ich in Veldes auf und machte von da aus meine Besuche und Ausflüge. Eine größere homogene Gesellschaft war in Veldes sowie in Grimschitzhof, dem reizenden Gute Schwegels versammelt. Bei diesem war der Laibacher Dr. Schaffer auf Besuch, in Veldes Moscon und der Gutsbesitzer Lenz aus Krain. Auch Kaltenegger, dessen Vater Landeshauptmann in Krain gewesen war, der letzte deutsche! – passte sehr gut dazu. Das Landvolk und die kleine städtische Intelligenz slovenisch, was bei Wahlen dem Lande ganz den Charakter eines slavischen Landes gibt und doch ist der Kulturcharakter ein deutscher. In Tabor bin ich ganz in der slawischen Welt, dort in Oberkrain ganz das Gegenteil. Numerisch, nach Köpfen gezählt, verschwindet freilich das deutsche Element, aber doch prägt es der Gegend seinen Charakter auf. So muss die Lage und das Verhältnis der Deutschen in den Ostseeprovinzen sein.</rdg>
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_197" n="98v" xml:id="Bae_TB_2_5495"/>
