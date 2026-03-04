@@ -21,7 +21,7 @@
         </editor>
         <respStmt xml:id="Bae_TB_4_17">
           <resp xml:id="Bae_TB_4_18"/>
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_4_19">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_4_19">Kommission für Neuere Geschichte Österreichs</orgName>
         </respStmt>
       </titleStmt>
       <editionStmt xml:id="Bae_TB_4_20">
@@ -32,7 +32,7 @@
       </extent>
       <publicationStmt xml:id="Bae_TB_4_24">
         <publisher xml:id="Bae_TB_4_25">
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_4_26">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_4_26">Kommission für Neuere Geschichte Österreichs</orgName>
           <address xml:id="Bae_TB_4_27">
             <addrLine xml:id="Bae_TB_4_28">c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
           </address>
@@ -1599,7 +1599,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8224">uns ja noch nicht</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8225"/>nötigt 
-          <app from="#Bae_MF_2_5131" type="noeEqual" xml:id="Bae_TB_4_8226">
+          <app from="#Bae_MF_2_5131" type="notEqual" xml:id="Bae_TB_4_8226">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8227">nötige</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8228"/>nachzugeben, um ihm eine glatte Situation zu machen, dass selbst wenn wir nachgeben wollen, wir Zeit dazu haben, dass wenn man verhandelt 
@@ -2129,7 +2129,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8254">den Banffy als Vermittlungsvorschlag u.z. bezeichnenderweise zuerst ungarisch mit der lächelnden Bemerkung verlas, dass Se. Seine Majestät der König ihn ja ausgezeichnet verstehen werde. Der Kaiser konversierte auch einige kurze Zeit mit den Ungarn darüber ungarisch, bis Banffy uns die ganze Idee in herzlich schlechtem Deutsch wiedergab. Die Regierungen sollten späterhin bis 1901 wegen Abschluß eines Zoll- und Handelsbündnisses und der Handelsverträge "in Verhandlung treten" – und falls bis 31.12.1903 eine definitive Regelung eines Zoll- und Handelsbündnisses nicht erzielt wäre, "bleiben in Bezug auf diese Angelegenheiten die im § 1 enthaltenen Bestimmungen bis zur weiteren Verfügung der Gesetzgebung in Kraft". Dieser § sollte in das Gesetz aufgenommen werden, dessen § 1 das Zoll- und Handelsbündnis inhaltlich bis 1903 aufrechtzuerhalten bestimmt war. Sofort erklärten wir Oesterreicher, daß dies ein novum sei, das wir nur ad referendum nehmen können und das uns auch in einer fertigen Form vorliegen müsse, um darüber urteilen zu können. Die Absicht dieses neuen ungarischen Vorschlages war übrigens sofort klar. Er sollte bei der Krone die Bedenken zerstreuen, die bezüglich des Termins 1903 vorwalteten – ohne aber die Ungarn irgendwie zu binden. Damit war der Ministerrat vorläufig zu Ende und wir kamen am folgenden Tage ( 29. August) schon um 9 Uhr bei Thun zusammen, d.h. Kaizl und ich um über die uns von den Ungarn inzwischen übergebene Formulierung der neuen Idee zu berathen. Sofort merkte ich, daß sowohl Thun als Kaizl diese Brücke benützen würden, um jeden weiteren Widerstand aufzugeben. Beide suchten mich zu kaptivieren, u.a. unter anderem damit, daß sie es als mein Verdienst anerkannten, daß die Ungarn doch Konzessionen gemacht hatten. Wir wurden durch die Ankunft Banffys und Lukac z s unterbrochen, denen gegenüber ich sofort zunächst die Tragweite der von ihnen vorgeschlagenen neuen Bestimmung festzustellen unternahm. Ich frug nämlich Banffy ob die Worte "bis zu einer weitern Verfügung der Gesetzgebung" so zu verstehen seien, daß dies eine übereinstimmende, in beiden Staaten zustande gekommene Verfügung sein müsse, so daß die Fortdauer des Zoll- und Handelsbündnisses erst durch den übereinstimmenden Willen beider Staaten</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8255"/>sistirt werden könne. 
-          <app from="#Bae_MF_2_5371" xml:id="Bae_TB_4_8256">
+          <app from="#Bae_MF_2_5371" type="notEqual" xml:id="Bae_TB_4_8256">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8257">aufhören könne.</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8258"/>
@@ -2516,7 +2516,7 @@
           <rdg xml:id="Bae_TB_4_1640">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_1641"/>
-        <app from="Bae_TB_4_1936" type="insertion" xml:id="Bae_TB_4_1642">
+        <app from="#Bae_TB_4_1936" type="insertion" xml:id="Bae_TB_4_1642">
           <rdg xml:id="Bae_TB_4_1643">&#8230;</rdg>
         </app>
         <!-- DC: hier her Zeitungsausschnitt fol. fol. 35v, 36v, 37v -->
@@ -3605,7 +3605,7 @@
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_4_2352"/>
             </index>
           </index> oder vielmehr gegen Erlassung derselben nahm ich mir Abschrift, weil es seine Redeweise besonders gut charakterisirt. 
-          <app from="#Bae_MF_2_6348" xml:id="Bae_TB_4_8365">
+          <app from="#Bae_MF_2_6348" type="equal" xml:id="Bae_TB_4_8365">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8366">der Vertreter der Armee und der dynastischen Interessen kat exochen, mit mir gestimmt hätte. Mehrmals hatten wir lange Unterredungen über die politische Lage, die wir im großen ganzen gleich beurteilten. Manche seiner Voten aus den früheren Jahren ließ er mich lesen und von dem einen, unter Badeni über die Sprachenverordnung, oder vielmehr gegen Erlassung derselben, nahm ich mir Abschrift, weil es seine Redeweise besonders gut charakterisiert.</rdg>
           </app>
         </p>

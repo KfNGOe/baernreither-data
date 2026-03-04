@@ -21,7 +21,7 @@
         </editor>
         <respStmt xml:id="Bae_TB_3_17">
           <resp xml:id="Bae_TB_3_18"/>
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_3_19">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_3_19">Kommission für Neuere Geschichte Österreichs</orgName>
         </respStmt>
       </titleStmt>
       <editionStmt xml:id="Bae_TB_3_20">
@@ -32,7 +32,7 @@
       </extent>
       <publicationStmt xml:id="Bae_TB_3_24">
         <publisher xml:id="Bae_TB_3_25">
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_3_26">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_3_26">Kommission für Neuere Geschichte Österreichs</orgName>
           <address xml:id="Bae_TB_3_27">
             <addrLine xml:id="Bae_TB_3_28">c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
           </address>
@@ -195,16 +195,16 @@
           </index> zu berichten. 
           <!-- DC Einklebung Zeitungsartikel fol. 1v, 2v, 3v) -->
           <anchor xml:id="Bae_TB_3_5511"/>
-          <app from="#Bae_TB_3_5510" xml:id="Bae_TB_3_5512">
-            <rdg xml:id="Bae_TB_3_5513">[...]</rdg>
+          <app from="#Bae_TB_3_5510" type="insertion" xml:id="Bae_TB_3_5512">
+            <rdg xml:id="Bae_TB_3_5513">…</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_5517"/>
           <app from="#Bae_TB_3_5522" type="insertion" xml:id="Bae_TB_3_5606">
-            <rdg xml:id="Bae_TB_3_5607">[...]</rdg>
+            <rdg xml:id="Bae_TB_3_5607">…</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_5514"/>
-          <app from="#Bae_TB_3_5314" xml:id="Bae_TB_3_5515">
-            <rdg xml:id="Bae_TB_3_5516">[...]</rdg>
+          <app from="#Bae_TB_3_5314" type="insertion" xml:id="Bae_TB_3_5515">
+            <rdg xml:id="Bae_TB_3_5516">…</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_247"/>Am 
           <date when="1898-09-02" xml:id="Bae_TB_3_248">2. 
@@ -2004,12 +2004,12 @@
           </app>
           <!-- an dieser Stelle die Einklebung von fol. 25v und 26v -->
           <anchor xml:id="Bae_TB_3_5527"/>
-          <app from="#Bae_TB_3_5526" xml:id="Bae_TB_3_5528">
-            <rdg xml:id="Bae_TB_3_5529">[...]</rdg>
+          <app from="#Bae_TB_3_5526" type="insertion" xml:id="Bae_TB_3_5528">
+            <rdg xml:id="Bae_TB_3_5529">…</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_5530"/>
-          <app from="#Bae_TB_3_5315" xml:id="Bae_TB_3_5531">
-            <rdg xml:id="Bae_TB_3_5532">[...]</rdg>
+          <app from="#Bae_TB_3_5315" type="insertion" xml:id="Bae_TB_3_5531">
+            <rdg xml:id="Bae_TB_3_5532">…</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_1512"/>Der 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_1513">
@@ -2488,8 +2488,8 @@
         </p>
         <!-- DC: Einklebung Zeitungsartikel von fol. 31v -->
         <anchor xml:id="Bae_TB_3_5537"/>
-        <app from="#Bae_TB_3_5316" xml:id="Bae_TB_3_5538">
-          <rdg xml:id="Bae_TB_3_5539">[...]</rdg>
+        <app from="#Bae_TB_3_5316" type="insertion" xml:id="Bae_TB_3_5538">
+          <rdg xml:id="Bae_TB_3_5539">…</rdg>
         </app>
         <p xml:id="Bae_TB_3_1822">
           <anchor xml:id="Bae_TB_3_1823"/>Ich ging mit 
@@ -2961,11 +2961,11 @@
         <!-- an dieser Stelle Einklebung Zeitungsausschnitt fol. 37v und 38v -->
         <anchor xml:id="Bae_TB_3_5541"/>
         <app from="#Bae_TB_3_5540" type="insertion" xml:id="Bae_TB_3_5542">
-          <rdg xml:id="Bae_TB_3_5543">[...]</rdg>
+          <rdg xml:id="Bae_TB_3_5543">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_3_5544"/>
         <app from="#Bae_TB_3_5319" type="insertion" xml:id="Bae_TB_3_5545">
-          <rdg xml:id="Bae_TB_3_5546">[...]</rdg>
+          <rdg xml:id="Bae_TB_3_5546">…</rdg>
         </app>
         <p xml:id="Bae_TB_3_2172">
           <anchor xml:id="Bae_TB_3_5320"/>Neben meiner Anteilname an den Ausgleichsfragen 
@@ -3178,8 +3178,8 @@
           </app>
           <!-- DC Einklebung Einladung Ministerratssitzung -->
           <anchor xml:id="Bae_TB_3_5550"/>
-          <app from="#Bae_TB_3_5321" xml:id="Bae_TB_3_5551">
-            <rdg xml:id="Bae_TB_3_5552">[...]</rdg>
+          <app from="#Bae_TB_3_5321" type="insertion" xml:id="Bae_TB_3_5551">
+            <rdg xml:id="Bae_TB_3_5552">…</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_2314"/>
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_TB_3_2315">
@@ -3396,11 +3396,11 @@
         <!-- DC: an diese Stelle Telegramm fol. 41v und 42v-->
         <anchor xml:id="Bae_TB_3_5560"/>
         <app from="#Bae_TB_3_5555" type="insertion" xml:id="Bae_TB_3_5561">
-          <rdg xml:id="Bae_TB_3_5562">[...]</rdg>
+          <rdg xml:id="Bae_TB_3_5562">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_3_5563"/>
         <app from="#Bae_TB_3_5322" type="insertion" xml:id="Bae_TB_3_5564">
-          <rdg xml:id="Bae_TB_3_5565">[...]</rdg>
+          <rdg xml:id="Bae_TB_3_5565">…</rdg>
         </app>
         <p xml:id="Bae_TB_3_2467">Der Tod der 
           <persName key="KaiserinElisabeth" ref="https://d-nb.info/gnd/118529897" xml:id="Bae_TB_3_2468">Kaiserin</persName> hatte nicht unmittelbare politische Folgen, wohl aber indirekte. Anfangs hatte 
@@ -3489,8 +3489,8 @@
         </p>
         <!-- DC an dieser Stelle 43v -->
         <anchor xml:id="Bae_TB_3_5567"/>
-        <app from="#Bae_TB_3_5323" xml:id="Bae_TB_3_5568">
-          <rdg xml:id="Bae_TB_3_5569">[...]</rdg>
+        <app from="#Bae_TB_3_5323" type="insertion" xml:id="Bae_TB_3_5568">
+          <rdg xml:id="Bae_TB_3_5569">…</rdg>
         </app>
         <p xml:id="Bae_TB_3_2528">
           <anchor xml:id="Bae_TB_3_2529"/>Die geäusserten Gedanken waren nur ganz allgemein ausgedrückt, aber es gewährte diese kurze Apostrophe doch einen deutlichen Einblick in das Bewusstsein des 
@@ -3859,12 +3859,12 @@
         </p>
         <!-- DC an diese Stelle der Zeitungsartikel fol. 48v und 49v -->
         <anchor xml:id="Bae_TB_3_5571"/>
-        <app from="#Bae_TB_3_5570" xml:id="Bae_TB_3_5572">
-          <rdg xml:id="Bae_TB_3_5573">[...]</rdg>
+        <app from="#Bae_TB_3_5570" type="insertion" xml:id="Bae_TB_3_5572">
+          <rdg xml:id="Bae_TB_3_5573">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_3_5574"/>
-        <app from="#Bae_TB_3_5324" xml:id="Bae_TB_3_5575">
-          <rdg xml:id="Bae_TB_3_5576">[...]</rdg>
+        <app from="#Bae_TB_3_5324" type="insertion" xml:id="Bae_TB_3_5575">
+          <rdg xml:id="Bae_TB_3_5576">…</rdg>
         </app>
         <p xml:id="Bae_TB_3_2800">
           <anchor xml:id="Bae_TB_3_2801"/>Die erste Sitzung der 
@@ -4922,7 +4922,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_5578"/>
           <app from="#Bae_TB_3_5592" type="insertion" xml:id="Bae_TB_3_5579">
-            <rdg xml:id="Bae_TB_3_5580">[...]</rdg>
+            <rdg xml:id="Bae_TB_3_5580">…</rdg>
           </app>
           <!-- hier die Einfügung von 65v -->
           <anchor xml:id="Bae_TB_3_3553"/>Es ist egoistische Mittelstaatspolitik 
@@ -5409,7 +5409,7 @@
           </app>
           <anchor xml:id="Bae_TB_3_5603"/>
           <app from="#Bae_TB_3_5601" type="insertion" xml:id="Bae_TB_3_5604">
-            <rdg xml:id="Bae_TB_3_5605">[...]</rdg>
+            <rdg xml:id="Bae_TB_3_5605">…</rdg>
           </app>
         </p>
         <p xml:id="Bae_TB_3_3892">

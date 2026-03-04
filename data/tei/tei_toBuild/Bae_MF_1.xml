@@ -22,7 +22,7 @@
         </editor>
         <respStmt xml:id="Bae_MF_1_17">
           <resp xml:id="Bae_MF_1_18"/>
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_MF_1_19">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_MF_1_19">Kommission für Neuere Geschichte Österreichs</orgName>
         </respStmt>
       </titleStmt>
       <editionStmt xml:id="Bae_MF_1_20">
@@ -33,7 +33,7 @@
       </extent>
       <publicationStmt xml:id="Bae_MF_1_24">
         <publisher xml:id="Bae_MF_1_25">
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_MF_1_26">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_MF_1_26">Kommission für Neuere Geschichte Österreichs</orgName>
           <address xml:id="Bae_MF_1_27">
             <addrLine xml:id="Bae_MF_1_28">c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
           </address>
@@ -435,7 +435,7 @@
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_299">Zurückhaltung für die grösste Klugheit.</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_3838"/>
-          <app from="#Bae_MF_1_3836" xml:id="Bae_MF_1_3839">
+          <app from="#Bae_MF_1_3836" type="insertion" xml:id="Bae_MF_1_3839">
             <rdg xml:id="Bae_MF_1_3840">…</rdg>
           </app>
         </p>
@@ -1656,7 +1656,7 @@
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_1191">Erklärung unserer Vereingigung vom 6. April. Wien, 6. April. Der Club des verfassungstreuen Großgrundbesitzes und die Vertreter verwandter Gruppen haben heute vor der Sitzung eine Berathung abgehalten, in welcher einstimmig die nachstehende Erklärung genehmigt wurde: Der verfassungstreue Großgrundbesitz hat es für seine Pflicht gehalten, seine guten Dienste unbeirrt und unermüdlich für die Bildung einer parlamentarischen Majorität einzusetzen, in welcher außer dem verfassungstreuen Großgrundbesitze auch noch andere Vertreter, denen er nach seinen politischen und wirthschaftlichen Ansichten nahesteht, hätten Platz finden und für die ihnen von den Wählern anvertrauten Interessen hätten wirken können. Seither hat die Regierung ihr weiteres Verbleiben im Amte mit der Erklärung verbunden, auf die Bildung einer bstimmten Majorität vorläufig zu verzichten. Bedeutsam für die Entwicklung unserer parlamentarischen Verhätltnisse und entscheidend für unser weiteres Verhalten ist aber zugleich der Umstand geworden, daß sich nach den vorliegenden Anzeichen eine Majorität zusammenzufinden scheint, welcher der verfassungstreue Großgrundbesitz selbstverständlich nicht angehören kann. Dieser politischen Situation gegenüber haben wir unzweideutig zu erklären, daß wir, unsere Stellung nach allen Seiten wahrend, den kommenden Ereignissen gegenüber unser Verhalten nach jenen Erklärungen, die wir in unserem Wahlaufrufe kundgegeben haben, einrichten und uns hiebei stets von den Pflichten gegenüber den staatlichen Interessen werden leiten lassen.</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_4215"/>
-          <app from="#Bae_TB_1_6019" xml:id="Bae_MF_1_4216">
+          <app from="#Bae_TB_1_6019" type="missing" xml:id="Bae_MF_1_4216">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_4217">Am Schlusse derselben hatten wir den Hinweis auf "die staatlichen Interessen" dem an Badeni erlassenen kaiserlichen Handschreiben entnommen.</rdg>
           </app>
         </p>
@@ -2058,7 +2058,7 @@
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_MF_1_1489">Herbst</persName> und 
           <persName key="PickertKarl" ref="https://d-nb.info/gnd/1024911209" xml:id="Bae_MF_1_1490">Pickert</persName> waren Todfeinde. 
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_MF_1_1491">Plener</persName> in seiner bureaukratischen 
-          <app from="#Bae_TB_1_2882" xml:id="Bae_MF_1_1492">
+          <app from="#Bae_TB_1_2882" type="equal" xml:id="Bae_MF_1_1492">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_1493">Chlumecky empfahl, die Majoritätsbildung nicht übers Knie zu brechen, die für den ungar. Ausgleich nicht notwendig sei. Die Deutschböhmen, in dieser Hinsicht den Interessen ihrer Fabrikanten folgend, werden nicht gegen einen halbwegs plausiblen Ausgleich auftreten. Die nationalen Verhältnisse in Böhmen seien vorsichtig u. nur schrittweise zu lösen. Immer nur durch Verhandlungen mit beiden Theilen. Das war in der Denkschrift des Näheren ausgefürt, aber Badeni fand es nicht einmal der Mühe wert diese von einem ihm gewiss wohlwollenden Freunde gegebenen Ratschläge seinen Ministerkollegen vorzulegen, u. Baron Glanz, mit dem ich im Juni 1897 eine eingehende Besprechung der Lage hatte, wusste von dem Memorandum gar nichts. Aber wenn man heute die riesige Aufregung vor Augen hat, zu der die S.V. den Anstoß gegeben hat möchte man meinen, dass es nicht Aufgabe der Führer gewesen sei, Memoranden zu schreiben, mit Badeni in unendlicher Geduld zu verhandeln, immer wieder vermittelnd aufzutreten – man möchte es als einen Fehler bezeichnen, dass nicht früher, vielleicht zu einer Zeit, in der die Publicirung der S.V. verhindert werden konnte, durch energischeres Auftreten eine Wendung herbeizuführen versucht wurde. Schlägt sich doch heute die Regierung auf dieselbe Seite u. versucht sich dahin auszureden, als seien ihr die Gefahren der S.V. nicht eindringlich genug dargestellt worden! Die Erklärung liegt weit zurück. Ich habe die Dinge seit 1885 mitgemacht. Damals wurde der entscheidende Fehler begangen. Die Wahlen des Jahres 1885 brachten eine grosse Zahl neuer, junger Abgeordneter an die Oberfläche, aus der Volksströmung hervorgegangen u. mit den Volkskreisen in enger Verbindung. Es musste jedem erfahrenen Politiker klar sein – war es doch manchem unerfahrenen klar! – dass diese Elemente mit dem conservativen Flügel der Deutschen, den Grossgrundbesitzern u. ihren Gesinnungsverwandten, die damals noch sehr stark in der Partei vertreten waren, in einer u. derselben parlamentarischen Vereinigung nicht zusammenzuhalten seien. Man musste sich von vornherein klar sein, zwei getrennte politische Heerhaufen bilden u. zugleich für eine richtige Verbindung beider sorgen. Vor allem durfte man aber die neuen, gährenden Elemente sich nicht selbst überlassen. Man musste den Schwerpunkt der Partei nach links verlegen u. die Abschnürung des rechten Flügels ruhig geschehen lassen. Dieser, ungeeignet im Vordertreffen zu kämpfen, hätte doch an allen grossen Schlachten teilgenommen, langsam, aber durchaus verlässlich, wie sich dieses Elementes der Partei immer erwiesen hat. Gleich nach den Wahlen im Juli 1885 fand eine Abgeordnetenversammlung im Musikvereinssaale statt, an der noch alle, auch die spätern Deutschnationalen teilnahmen. Damals wurde ein Bruch noch verkleistert, im Herbst, vor Zusammentritt des R.R. war aber die Unmöglichkeit klar, die ganze Schar zusammenzuhalten u. damals geschah eben der verhängnissvolle Fehler. Anstatt dass Plener u. Tomaszuk ihre Anhänger mit den neuen Männern vereinigt hätten zu der überwiegend grössern Partei u. Chlumetzki mit den Grossgrundbesitzern u. Ähnlichen hätte rechts abschwenken lassen, kam es umgekehrt. Alles was Erfahrung u. Bedeutung hatte, sammelte sich unter Chlumetzky, Sturm, Herbst, Plener rechts unter der Fahne des "deutsch-österreichischen" Clubs, während die neuen, jungen Kräfte sich selbst überlassen, ohne Schulung, ohne leitende u. erfahrene Männer nach einer neuerlichen Secession der schwankenden, oft geradezu unbegreiflichen Führung Steinwenders verfielen. Der Augenblick eine mächtige, volksthümliche deutsche Partei zu gründen, welcher ein aus den conservativen Elementen zu bildendes, natürlich numerisch viel kleineres "linkes Centrum" als Bundesgenossen in allen wichtigen Fragen an der Seite hätte stehen können, war verpasst! Parlamentarisch machte ja der deutsch-österreichische Club u. später die Vereinigtee Linke durch ihr Auftreten, insbesondere durch ihre grossen Redner Staat, auch hat sie eine riesige parlamentarisch-bureaucratische Arbeit bewältigt, aber im Volk verlor sie nach u. nach alle Wurzeln. Schuld an dem Fehler von 1885 war nicht nur, wie ich damals naiver Weise glaubte, die mangelnde Einsicht in die politische Constellation, sondern vielmehr die leider in der Politik eine so grosse Rolle spielenden persönlichen Motive. Chlumetzky u. Sturm brannten vor Begierde Taaffe zu stürzen, ihr Bestreben war es eine Regierungspartei der Zukunft zu bilden, um sofort mit einer solchen am Plan sein zu können. Herbst und Pickert waren Todfeinde. Plener in seiner bureaucratischen</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_1494"/>und kleinlichen 
@@ -2378,7 +2378,7 @@
         <p xml:id="Bae_MF_1_1709">
           <anchor xml:id="Bae_MF_1_4235"/>Wir standen also vor der Notwendigkeit eine eigene 
           <del rendition="#s" xml:id="Bae_MF_1_1710">n</del> Adresse zu verfassen und einzubringen. 
-          <app from="#1" type="equal" xml:id="Bae_MF_1_1711">
+          <app from="#Bae_TB_1_6044" type="equal" xml:id="Bae_MF_1_1711">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_1712">Wir standen also vor der Notwendigkeit eine eigene Adresse zu verfassen u. einzubringen.</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_1713"/>
@@ -3017,7 +3017,7 @@
           </app>
           <anchor xml:id="Bae_MF_1_2126"/>nicht ausbleiben. Ich kann zwar an die von mancher Seite behauptete große päpstlich-französisch-russische Verschwörung nicht glauben, die den Zweck hätte 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_1_2127">Oesterreich</placeName>
-          <app from="#Bae_TB_1_5029" type="type" xml:id="Bae_MF_1_2128">
+          <app from="#Bae_TB_1_5029" type="equal" xml:id="Bae_MF_1_2128">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_2129">nicht ausbleiben. Ich kann zwar an die von mancher Seite behauptete große päpstlich-französisch-russische Verschwörung nicht glauben, die den Zweck hätte Österreich</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_2130"/>von Deutschland 
@@ -3526,7 +3526,7 @@
           </app>
           <anchor xml:id="Bae_MF_1_2503"/>
           <del rendition="#s" xml:id="Bae_MF_1_2504">Unsere Vereinigung war in diesen zwei parlamentarischen Monaten (Oktober, November) in einer sehr exponierten Stellung. Im Folgenden will ich chronologisch, aber doch nach den verschiedenen Beziehungen und Gegenständen gruppiert, den Kurs skizzieren, den wir eingehalten haben. Vielleicht werden unparteiische Beurteiler die riesige Schwierigkeit ermessen, eine Partei, die sich als gemäßigte Staatspartei nichts vergeben durfte, in diesen unerhörten Stürmen durchzusteuern, ohne ihre natürliche Verbindung mit den deutschen Parteien zu zerreissen, aber zugleich ohne in Staatsfragen in ihr Fahrwasser zu geraten, welches ein rein</del>
-          <app from="#Bae_TB_2_" type="equal" xml:id="Bae_MF_1_2505">
+          <app from="#Bae_TB_2_6003" type="equal" xml:id="Bae_MF_1_2505">
             <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_2506">Unsere Vereinigung war in diesen zwei parlamentarischen Monaten (Oktober, Novbr.) in einer sehr exponirten Stellung. Im Folgenden will ich chronologisch, aber doch nach den verschiedenen Beziehungen und Gegenständen gruppirt, den Cours skizziren, den wir eingehalten haben. Vielleicht werden unparteiische Beurteiler die riesige Schwierigkeit ermessen, eine Partei, die sich als gemässigte Staatspartei nichts vergeben durfte, in diesen unerhörten Stürmen durchzusteuern, ohne ihre natürliche Verbindung mit den deutschen Parteien zu zerreissen, aber zugleich ohne in Staatsfragen in ihr Fahrwasser zu gerathen, welches ein rein</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_2507"/>
@@ -3563,7 +3563,7 @@
             </app>
             <anchor xml:id="Bae_MF_1_2530"/>Im 
             <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_MF_1_2531">Hause</orgName> war 
-            <app from="#Bae_TB_2_" type="equal" xml:id="Bae_MF_1_2532">
+            <app from="#Bae_TB_2_6004" type="equal" xml:id="Bae_MF_1_2532">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_2533">Im Hause war</rdg>
             </app>
             <anchor xml:id="Bae_MF_1_2534"/>

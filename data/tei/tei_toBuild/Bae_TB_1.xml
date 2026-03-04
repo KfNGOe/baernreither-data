@@ -21,7 +21,7 @@
         </editor>
         <respStmt xml:id="Bae_TB_1_16">
           <resp xml:id="Bae_TB_1_17"/>
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_1_18">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_1_18">Kommission für Neuere Geschichte Österreichs</orgName>
         </respStmt>
       </titleStmt>
       <editionStmt xml:id="Bae_TB_1_19">
@@ -32,7 +32,7 @@
       </extent>
       <publicationStmt xml:id="Bae_TB_1_23">
         <publisher xml:id="Bae_TB_1_24">
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_1_25">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_1_25">Kommission für Neuere Geschichte Österreichs</orgName>
           <address xml:id="Bae_TB_1_26">
             <addrLine xml:id="Bae_TB_1_27">c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
           </address>
@@ -808,7 +808,7 @@
           </app>
           <anchor xml:id="Bae_TB_1_581"/>
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_582">Plener</persName> seinerzeit systematisch gegen mich gesät hatte, 
-          <app from="#Bae_MF_1_327" type="notequal" xml:id="Bae_TB_1_583">
+          <app from="#Bae_MF_1_327" type="notEqual" xml:id="Bae_TB_1_583">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_584">seinerzeit systematisch gegen mit gesät worden war,</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_585"/>vielleicht war es aber auch die Furcht, abhängig zu erscheinen. Hatte mich doch 
@@ -2592,7 +2592,7 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_1_5860"/>
-        <app from="#Bae_TB_1_5858" xml:id="Bae_TB_1_5861">
+        <app from="#Bae_TB_1_5858" type="insertion" xml:id="Bae_TB_1_5861">
           <rdg xml:id="Bae_TB_1_5862">…</rdg>
         </app>
         <p xml:id="Bae_TB_1_1858">

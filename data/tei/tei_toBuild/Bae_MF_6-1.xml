@@ -120,7 +120,7 @@
         </p>
         <p xml:id="Bae_MF_6-1_64">
           <anchor xml:id="Bae_MF_6-1_954"/>Es folgten noch einige wenig erbauliche Szenen 
-          <app from="#Bae_TB_3338" type="notEqual" xml:id="Bae_MF_6-1_955">
+          <app from="#Bae_TB_7_3338" type="notEqual" xml:id="Bae_MF_6-1_955">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_956">Dann folgten noch einige recht hässliche Scenen</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_957"/>in unserem durch die 
@@ -156,7 +156,7 @@
           <anchor xml:id="Bae_MF_6-1_978"/>proklamierten, daß die Abstimmung im Ausschusse auf die Stellung 
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_67">Koerber</persName>'s keinen Einfluss haben werde. Von den Differenzen im 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_6-1_68">Klub</orgName>
-          <app from="#Bae_TB_7_3361" xml:id="Bae_MF_6-1_979">
+          <app from="#Bae_TB_7_3361" type="equal" xml:id="Bae_MF_6-1_979">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_980">proklamierten, dass die Abstimmung im Ausschuss auf die Stellung Körbers keinen Einfluss haben werde. Von den Differenzen im Club</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_981"/>drang Einiges in die Oeffentlichkeit, 
@@ -269,7 +269,7 @@
           </app>
           <anchor xml:id="Bae_MF_6-1_1041"/>Das 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-1_89">Parlament</orgName> war kaltgestellt, mit den Parlamentariern verkehrte er 
-          <app from="#Bae_TB_3432" type="equal" xml:id="Bae_MF_6-1_1042">
+          <app from="#Bae_TB_7_3432" type="equal" xml:id="Bae_MF_6-1_1042">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1043">Das Parlament war kaltgestellt, mit den Parlamentariern verkehrte er</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1044"/>immer weniger und 
@@ -430,12 +430,12 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1127">erfaren, von der Justiz verstand er gar nichts und für die finanziellen Fragen hatte er keinen Sinn und unterschätzte sie.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1128"/>Zudem standen ihm echtösterreichische Beamte, wie in den 50er Jahren, nur noch 
-          <app from="#Bae_TB_3525" type="equal" xml:id="Bae_MF_6-1_1129">
+          <app from="#Bae_TB_7_3525" type="equal" xml:id="Bae_MF_6-1_1129">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1130">Zudem standen ihm echt österreichische Beamte wie in den 50er Jahren nur noch</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1131"/>
           <del xml:id="Bae_MF_6-1_122">ganz</del>
-          <app from="#Bae_TB_3528" type="missing" xml:id="Bae_MF_6-1_1132">
+          <app from="#Bae_TB_7_3528" type="missing" xml:id="Bae_MF_6-1_1132">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1133"/>
           </app>
           <anchor xml:id="Bae_MF_6-1_1134"/>vereinzelt zu Gebote. Die 
@@ -443,7 +443,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1136">vereinzelt zu Gebote. Die</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1137"/>
-          <app from="#Bae_TB_7_3534" xml:id="Bae_MF_6-1_1138">
+          <app from="#Bae_TB_7_3534" type="missing" xml:id="Bae_MF_6-1_1138">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1139">oberflächliche</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1140"/>Streberei hat er begünstigt und 
@@ -463,7 +463,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1151">Dass er wirklich Bewunderer hatte, unter den Abgeordneten,</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1152"/>besonders 
-          <app from="#Bae_TB_7_3549" xml:id="Bae_MF_6-1_1153">
+          <app from="#Bae_TB_7_3549" type="missing" xml:id="Bae_MF_6-1_1153">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1154"/>
           </app>
           <anchor xml:id="Bae_MF_6-1_1155"/>unter der Aristokratie bleibt für diese Kreise ein Armutszeugnis. Aber das Geheimnis war, daß jeder seinen Vorteil fand. Mit Adel- und Ordensauszeichnungen war er nicht karg 
@@ -621,7 +621,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1217">die beiden dem Landtage zu machenden Vorlagen (Wahlreform und Curiengesetz). Wir wurden schliesslich in allen wesentlichen Punkten einig und teilen die von uns</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1218"/>durchgearbeiteten 
-          <app from="#Bae_TB_7_3615" xml:id="Bae_MF_6-1_1219">
+          <app from="#Bae_TB_7_3615" type="notEqual" xml:id="Bae_MF_6-1_1219">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1220">gemachten</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1221"/>Entwürfe der Regierung mit. Ein großer Teil des formulierten Materials rührt von 
@@ -630,7 +630,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1223">Entwürfe der Regierung mit. Der grösste Theil des formulirten Materials rührt von Herold her, der sehr gute Gedanken über die Reform der Landesordnung entwickelte. Oft dachte ich mir bei diesen Beratungen, wie leicht es eine halbwegs staatsmännische österreichische Regierung gehabt hätte, wenn sie vor</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1224"/>Jahren 
-          <app from="#Bae_TB_7_3621" xml:id="Bae_MF_6-1_1225">
+          <app from="#Bae_TB_7_3621" type="notEqual" xml:id="Bae_MF_6-1_1225">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1226">Decennien</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1227"/>diese Fragen angepackt und Deutsche und Tschechen auf diese Art zusammengebracht 
@@ -638,7 +638,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1229">diese Fragen angepackt und Deutsche und Czechen auf diese Art zusammengebracht</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1230"/>, freilich aber mit dem Einsatz ihrer ganzen Autorität mitgearbeitet hätte! Der gute Wille war auch jetzt auf beiden Seiten vorhanden. 
-          <app from="#Bae_TB_7_3627" xml:id="Bae_MF_6-1_1231">
+          <app from="#Bae_TB_7_3627" type="notEqual" xml:id="Bae_MF_6-1_1231">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1232">hätte.</rdg>
           </app>
         </p>
@@ -660,7 +660,7 @@
           </app>
           <anchor xml:id="Bae_MF_6-1_1242"/>den ganzen 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_MF_6-1_186">Landtag</orgName>. 
-          <app from="#Bae_TB_7_3639" xml:id="Bae_MF_6-1_1243">
+          <app from="#Bae_TB_7_3639" type="equal" xml:id="Bae_MF_6-1_1243">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1244">den ganzen Landtag</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1245"/>Der Oberstlandmarschall 
@@ -721,7 +721,7 @@
           <pb facs="#F_K-11_Bae_MF_6-1_021" n="9v" xml:id="Bae_MF_6-1_2211"/>
           <note type="editorial" xml:id="Bae_MF_6-1_2212">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-1_022" n="10r" xml:id="Bae_MF_6-1_205"/>zum Bewußtsein kommen werde. Die Regierung wird nichts unversucht lassen, um diesen Plan nach Kräften zu fördern und das hiezu notwenige Einverständnis aller für die Gesetzgebung des Landes maßgebenden Faktoren zu erzielen. Sie wird aber auch durch eine nach allen Richtungen hin gerechte und wohlwollende Verwaltung jeden Anlass zu Streitigkeiten und Mißverständnissen aus dem Wege gehen und die entstandenen Reibungen zu beseitigen trachten, um dadurch das Vertrauen beiden Volksstämmen des Landes zu den Regierungshandlungen, aber auch zu einander zu stärken, da sie in einem in dieser Hinsicht gebesserten Verhältnis eine wesentliche Bürgschaft des Erfolges erblickt." 
-          <app from="#Bae_TB_7_3663" type="Equal" xml:id="Bae_MF_6-1_1267">
+          <app from="#Bae_TB_7_3663" type="equal" xml:id="Bae_MF_6-1_1267">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1268"> vom Statthalter abgeben lassen. Sie hatte folgenden Wortlaut. "Wahlreform und Kuriengesetz. Prag 6. Juni. (Priv.-Tel.) Am Schluß der heutigen Sitzung, nach Erschöpfung der Tagesordnung, gab Statthalter Graf Coudenhove eine Erklärung ab, in der er namens der Regierung die Einbringung der Wahlreformvorlage und des Kuriengesetzes für die Herbstsession ankündigte. Die Regierung erblicke hierin jedoch nur einen ersten Schritt einer Aktion zu einer zeitgemäßen Regelung des nationalen Streites in Böhmen. Auch werde sie durch die Art ihrer Verwaltung jeden Anlaß zu Reibungen zu beseitigen trachten. Die Erklärung des Statthalters, die zuerst tschechisch, dann deutsch abgegeben wurde, hat folgenden Wortlaut: Hoher Landtag! Ich bin beauftragt, namens der Regierung nachstehende Erklärung abzugeben: Die Regierung hat seit ihrem Amtsantritt unablässig ihr Augenmerk auf die Herstellung der Arbeitsfähigkeit des hohen Landtages gerichtet. Sie war ernstlich bemüht, die Voraussetzungen zu schaffen, daß es den Vertretern beider Volksstämme im Lande ermöglicht würde, an der Lösung der wichtigen und unaufschiebbar gewordenen Aufgaben der Landesvertretung teilzunehmen. Dazu gehört zunächst die dauernde, wenn auch nur Schritt für Schritt sich vollziehende Beseitigung der immer wieder auftauchenden Schwierigkeiten in diesem hohen Landtag. In dieser Richtung ergibt sich schon im Hinblick auf die Vermehrung und Verschiebung der Bevölkerung sowie auf die geänderten Verhältnisse überhaupt die Notwendigkeit der Beseitigung der Ungleichheit und einer zeitgemäßen Ausgestaltung der bestehenden Wahlordnung. Aber auch bezüglich der Landesordnung und der Landesverwaltung ist eine Neuordnung notwendig. Der Umfang, den die Landesangelegenheiten angenommen haben, verlangt eine Erweiterung und eine Organisation der Landesverwaltung. Zugleich ist auch für die Vertreter der beiden Volksstämme des Landes die Teilnahme an der Landesverwaltung an der Verwaltung der Landesinstitute und an der Vorberatung der Landesangelegenheiten in den Kommissionen kraft eigenen Rechtes unbedingt sicherzustellen. Nach beiden Richtungen sind die Arbeiten der Regierung abgeschlossen. Wenn sie gleichwohl die Einbringung ihrer Vorlagen in diesem Sessionsabschnitt nicht für angemessen gehalten hat, hat sie dabei, auf ehrfahrungsmäßige Tatsachen gestützt, die Erwägung geleitet, daß es im Interesse der Sache liege, wenn der Einbringung der Vorlage die möglichst rasche Erledigung folge. Darum beabsichtigt die Regierung sie dem hohen Landtag im Herbst zugehen und für ihre Beratung die nötige Zeit frei zu lassen Die Regierung wird jedoch in der Erledigung dieser beiden Angelegenheiten nur den ersten Schritt einer Aktion erblicken, die eine sach- und zeitgemäße Regelung der mannigfachen politischen und nationalen Streitpunkte in Böhmen überhaupt zum Ziel haben muss. Die Regierung hofft, daß, wenn einmal dieser erste Schritt gelungen sein wird, die Erkenntnis von der Notwendigkeit, die Landesgesetzgebung auf einer gerechten und unanfechtbaren Grundlage auszugestalten, sich Bahn brechen und daß dadurch auch der Vorteil eines fruchtbaren Zusammenwirkens der Vertreter beider Volksstämme zum Bewusstsein kommen werde. Die Regierung wird nichts unversucht lassen, um diesen Plan nach Kräften zu fördern und das hiezu notwenige Einverständnis aller für die Gesetzgebung des Landes maßgebenden Faktoren zu erzielen. Sie wird aber auch durch eine nach allen Richtungen hin gerechte und wohlwollende Verwaltung jeden Anlass zu Streitigkeiten und Missverständnissen aus dem Wege gehen und die entstandenen Reibungen zu beseitigen trachten, um dadurch das Vertrauen beider Volksstämme des Landes zu den Regierungshandlungen, aber auch zueinander zu stärken, da sie in einem in dieser Hinsicht gebesserten Verhältnis eine wesentliche Bürgschaft des Erfolges erblickt."</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1269"/>
@@ -1060,7 +1060,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1343"/>
           </app>
           <anchor xml:id="Bae_MF_6-1_1344"/>nur damit der Ausschuß nicht das Gefühl bekomme, er werde vom Vorsitzenden unwiderstehlich mitgerissen. Gerade deswegen war auch mein Einfluss im Ausschusse ein unbedingter, und da doch 
-          <app from="#Bae_TB_7_3740" xml:id="Bae_MF_6-1_1345">
+          <app from="#Bae_TB_7_3740" type="equal" xml:id="Bae_MF_6-1_1345">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1346">nur damit der Ausschuss nicht das Gefül bekomme, er werde vom Vorsitzenden unwiderstehlich mitgerissen. Gerade deswegen war auch mein Einfluss im Ausschusse ein unbedingter und da doch</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1347"/>zuletzt 
@@ -1231,7 +1231,7 @@
               <term key="Zwischenzoll" xml:id="Bae_MF_6-1_2082"/>
             </index>
           </index> nicht einseitig, sondern zweiseitig, also auch bezüglich gewisser ungarischer Produkte, die bisher zollfrei nach Österreich gehen, konstruiert werden müßte. 
-          <app from="#Bae_TB_7_3803" xml:id="Bae_MF_6-1_1405">
+          <app from="#Bae_TB_7_3803" type="equal" xml:id="Bae_MF_6-1_1405">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1406">dass dieser Zwischenzoll nicht einseitig, sondern zweiseitig also auch bezüglich gewisser ungar. Producte, die bisher zollfrei nach Österreich gehen, construirt werden müsste.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1407"/>
@@ -1437,7 +1437,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1469">für angemessen während meiner Anwesenheit in Budapest aus Anlass des Gefängnisscongresses</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1470"/>vor allem 
-          <app from="#Bae_TB_7_3863" xml:id="Bae_MF_6-1_1471">
+          <app from="#Bae_TB_7_3863" type="notEqual" xml:id="Bae_MF_6-1_1471">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1472">nun auch meinerseits</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1473"/>Fühlung mit 
@@ -1736,7 +1736,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1583">desto besser.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1584"/>Je länger hinausgeschoben, desto schwerer für jeden. 
-          <app from="#Bae_TB_7_3970" xml:id="Bae_MF_6-1_1585">
+          <app from="#Bae_TB_7_3970" type="notEqual" xml:id="Bae_MF_6-1_1585">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1586">Wird die ganze Sache noch weiter hinausgeschoben, dann wird die Lösung immer schwieriger.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1587"/>
@@ -2000,7 +2000,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1672">Ich habe gestern Fejervary aufgesucht, ihn aber nicht getroffen. Nachmittag sandte er mir seinen Secretär und lies mich bitten um 10 Uhr heute Vorm. zu ihm zu kommen. Er sieht sehr gut aus, ist körperlich wunderbar frisch, heiter und ganz aufgeknöpft, wie immer. Zuerst drehte sich die Conversation um den Charakter der Coalition und ihrer Elemente. Er sparte mit den stärksten Ausdrücken nicht. Mit der Coalition ist nichts zu machen. Sie hat sich vollständig verrannt. Andrassy hat keinen Einfluss und ist persönlich von all dem abgedrängt worden, was er früher selbst vertreten hat. Heute verlangt auch er eine Concession in der Commandofrage indem er behauptet, es sei heute der Wille der ganzen Nation. Unter den Neugewählten sind viele höchst zweifelhafte Elemente. Von 80 neugewählten Abgeordneten sind die Diäten gepfändet. Diese Elemente würden befriedigt werden müssen, wenn die Coalition an die Herrschaft käme. Auf meine Einwendung dass man in Österreich vielfach der Meinung sei, der Kaiser hätte gleich nach den Wahlen der Coalition die Regierung übertragen sollen - antwortete er, das sei unmöglich gewesen, der Kaiser hätte sich in eine unmögliche Situation gebracht und sein Veto gegen die Zumutungen der Coalitionsregierung wäre zu schwach gewesen. Fejervary ist, wie aus mehreren seiner Äusserungen hervorgeht, der Meinung dass man der Coalition aus diesem Grunde überhaupt – auch abgesehen von der Commandosprache – die Regierung nicht übergeben kann. Sie würde, sagt er das Land mit den hungrigen Anhängern überschwemmen, die ganze Verwaltung ruiniren und die Krone in unmögliche Situationen bringen. Er habe wiederholt Andrassy nahegelegt die Regierung zu übernehmen, die 67er Elemente zu railliren und es auf die Obstruction der 48er ankommen zu lassen, dieser habe sich aber immer geweigert, weil dieser Eventualität die Spitze zu bieten unmöglich sei. Ganz offen sprach er über seinen Plan, wenigstens gab er sich mit voller Offenheit. Er erblickt im allgem. Stimmrecht das Mittel die Situation zu retten. Das gegenwärtige Haus</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1673"/>werde 
-          <app from="#Bae_TB_7_4064" xml:id="Bae_MF_6-1_1674">
+          <app from="#Bae_TB_7_4064" type="notEqual" xml:id="Bae_MF_6-1_1674">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1675">wird – wie ich ihm sofort einwendetet –</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1676"/>das allgemeine Stimmrecht nicht votieren, dann komme aber der Oktroi und selbst wenn dann das auf Grund des 
@@ -2065,14 +2065,14 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1708">, meint er, das</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1709"/>sei 
-          <app from="#Bae_TB_7_4100" xml:id="Bae_MF_6-1_1710">
+          <app from="#Bae_TB_7_4100" type="notEqual" xml:id="Bae_MF_6-1_1710">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1711">stehe</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1712"/>außer Frage und er könne sich nur die Motive nicht erklären. Er fügte bei, das könne aber den Geistlichen teuer zu stehen kommen, denn ein 
           <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_662">Reichstag</orgName> auf Grund des allgemeinen Stimmrechtes könne auch die Säkularisierung der geistlichen Güter aussprechen. 
         </p>
         <p xml:id="Bae_MF_6-1_663">Weiter kamen wir auf die Rückwirkung 
-          <app from="#Bae_TB_4103" type="equal" xml:id="Bae_MF_6-1_1713">
+          <app from="#Bae_TB_7_4103" type="equal" xml:id="Bae_MF_6-1_1713">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1714">ausser Frage und er könne sich nur die Motive nicht erklären. Er fügte bei, das könne aber den Geistlichen theuer zu stehen kommen, denn ein Reichstag auf Grund des allgemeinen Stimmrechtes könne auch die Säkularisierung der geistlichen Güter aussprechen. Weiter kamen wir auf die Rückwirkung</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1715"/>
@@ -2159,7 +2159,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1756">, worauf ich ihm meine Befriedigung ausdrückte, dass auf diese Weise Österreich diese Angelegenheit parlamentarisch ordnen könne, ohne seine Kreise zu stören.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1757"/>Ich suchte ihm klar zu machen, 
-          <app from="#Bae_TB_7_4145" xml:id="Bae_MF_6-1_1758">
+          <app from="#Bae_TB_7_4145" type="notEqual" xml:id="Bae_MF_6-1_1758">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1759">Ich verhehlte ihm ferner nicht,</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1760"/>daß man so einen Ausweg bei uns als der staatsrechtlichen Grundlage entbehrend bezeichnen werde, worauf er aber die Achseln zuckte und meinte, er 
@@ -2419,7 +2419,7 @@
         <p xml:id="Bae_MF_6-1_742">Boden und Klima würden die Ausdehnung der Obst- und Seidenzucht erlauben. Die letztere ist aber unpopulär geworden, weil sie von Ungarn aus durch die Bemühungen des bekannten Bézerédy gefördert wurde und weil man zwar den Ankauf der Cocons in Kroatien betrieb, aber keine der neu errichteten Filanden in Kroatien errichtete, sondern alle in Ungarn.</p>
         <p xml:id="Bae_MF_6-1_743">
           <persName key="AmrusMilan" ref="https://d-nb.info/gnd/143840010" xml:id="Bae_MF_6-1_744"> Amrus</persName> teilte mir viele solche Details mit. 
-          <app from="#Bae_TB_4267" type="equal" xml:id="Bae_MF_6-1_1882">
+          <app from="#Bae_TB_7_4267" type="equal" xml:id="Bae_MF_6-1_1882">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1883">beantworten: ob denn das croatische Volk wirtschaftlich und culturell im Stande wäre selbständig, autonom, der Träger eines "Reichsdrittels" zu sein? Man müsste zu diesem Zwecke sehr eingehende Studien und Betrachtungen anstellen. Aber was ich flüchtig sah und was mir Amruš erzählte, ist eher eine Bestättigung dieser Möglichkeit als das Gegenteil. Der Croat ist lang nicht so fleissig wie der Czeche, aber sehr anstellig. Es ist jetzt eine Gewerbeausstellung in Agram – jede Ausstellung einer kleinen deutsch-böhm. Stadt schlägt sie – aber es ist doch von Allem Etwas und rein manuel geschickt gemacht. Die Neubauten in Agram sind geschmackvoll, sehr reinlich und das Aussehen der nicht unbedeutenden neuen Stadtteile geradezu überraschend nett und gut gehalten. Ausgezeichnete Wasserleitung. Elektrische Anlage wird geplant, aber Gasbeleuchtung, die der Stadt 250.000 und jährlich trägt wird nicht aufgelassen. Von Industrie allerdings erst Anfänge. Aber am heutigen Feiertag sah man in den Strassen und in den wunderschönen Anlagen in der Umgebung der Stadt, insbes. in Maximir eine wohlgebildete bürgerlich sehr gut aussehende Bevölkerung. Die Landbevölkerung allerdings noch voll äusserlicher Frömmigkeit. Landleute, blossfüssig mit Bündeln und Körben deponiren diese am Eingang des Domes und knien sich betend nach einander vor alle Altäre. Küssen den Altar, bekreuzigen zuerst das Altartuch, dann sich selbst. Boden und Klima würden die Ausdehnung der Obst und Seidenzucht erlauben. Die letztere ist aber ganz unpopulär geworden, weil sie von Ungarn aus durch die Bemühungen des bekannten Bezeredy gefördert wurde und weil man zwar den Ankauf der Cocons in Kroatien betrieb, aber keine der neu errichteten Filanden in Kroatien errichtete, sondern alle in Ungarn. Amruš teilte mir viele solche Details mit.</rdg>
           </app>
         </p>
@@ -2680,7 +2680,7 @@
           <pb facs="#F_K-11_Bae_MF_6-1_088" n="37r" xml:id="Bae_MF_6-1_856"/>Konzessionen, die bereits gemacht sind, für den Zustand der Armee viel gefährlicher sind, als es eine Konzession in der angedeuteten Richtung wäre. Er hält es für falsch, daß den Honveds Artillerie zugestanden wurde, für falsch, daß man statt wie bisher die Honvedregimenter in die taktischen Einheiten der Linie einzureihen, in selbständige Divisionen vereinigt hat. Unsere Artillerie einst unsere beste Waffe, ist rückständig. Er habe ein Gut in der Nähe eines Artillerieschießplatzes und beobachte, wie wegen der Wirkung des rauchlosen Pulvers nach jeder größeren Schießübung eine Anzahl Kanonen nach 
           <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_MF_6-1_857">Wien</placeName> ins 
           <orgName key="Arsenal" ref="https://d-nb.info/gnd/4808611-3" xml:id="Bae_MF_6-1_858">Arsenal</orgName> geschickt werden müsse. Das Bestreben in den ungarischen Regimentern Unteroffiziere anzustellen, die der deutschen Sprache mächtig sind, führe dahin, daß die Juden dabei bevorzugt werden. Diese genießen aber bei der Mannschaft keine Autorität, seien der Bestechung zugänglich, nötigen die Mannschaft, sich Begünstigungen zu erkaufen. 
-          <app from="#Bae_TB_7_4496" xml:id="Bae_MF_6-1_1939">
+          <app from="#Bae_TB_7_4496" type="equal" xml:id="Bae_MF_6-1_1939">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1940">immer mehr in den Hintergrund gedrängt werden. Das brachte uns auf die immer weiter fortschreitende Krise. Wekerle meint, dass die Lösung mit jedem Monate schwieriger wird. Ausfürlich begründete er seine Ansicht, dass die Commandosprache geregelt werden müsse u.z. im Sinne irgend einer Nachgiebigkeit der Krone. &gt;Man muss die Sache nur natürlich auffassen, aber auch historisch. Ungarn hat von jeher Anspruch erhoben auf einen besonderen Officiersstatus und insbesondere auf einem Reichstage in den 30er Jahren verlangt. Damals antwortete Kaiser Franz keineswegs ablehnend, sondern dilatorisch und als derselbe Reichstag verlangte, dass alle Erzherzoge und Erzherzoginnen, da sie auch Prinzen der ungar. Krone seien ungarisch lernen sollen – war Kaiser Franz so klug zu antworten: damit komme der ungar. Reichstag zu spät, das habe er kraft seines Rechtes als Haupt der Familie längst angeordnet. So sei es auch jetzt. Die schroffe Ablehnung schaffe einen unmöglichen Zustand. Er, Wekerle, habe dem Kaiser (Februar 05) den Vorschlag gemacht die Entscheidung über die Frage hinauszuschieben und er hätte die polit. Entwirrung auf sich genommen, wenn er nur etwas hätte in Aussicht stellen können. Der Kaiser habe aber gesagt: das ist schon ein Versprechen und das kann ich nicht geben. Trotzdem behauptet Wekerle ihn so weit überzeugt zu haben, dass er (Kaiser) beim Abschied sagte: die Sache wäre zu überlegen. In der zweiten Audienz die Wekerle gehabt (April 05), fand er den Kaiser ganz verändert und ganz ablehnend. Er könne sich diese Wandlung nur durch den Eindruck erklären, den Mitglieder der 48er Partei in den Audienzen auf den Kaiser gemacht. So habe Just vom Kaiser befragt ob, wenn er Concessionen machen würde, die Partei ihren Kampf um die vollständige Selbständigkeit der ungar. Armee fortsetzen werde einfach mit: jawohl Majestät geantwortet. Dieses Auftreten hat der Kaiser als republikanisch bezeichnet. Wekerle glaubt, dass mit einer dilatorischen Behandlung der Frage der Commandosprache , wenn nur die Möglichkeit nicht abgeschnitten wird sie einmal zu erhalten noch heute die Sache gemacht werden könnte. Er bestreitet lebhaft dass die Schlagfertigkeit der Armee unter einer solchen Concession Schaden leiden würde. Er behauptet im Gegenteil das andere Concessionen die bereits gemacht sind und für den Zustand der Armee viel gefärlicher sind als es eine Concession in der angedeuteten Richtung wäre. Er hält es für falsch, dass den Honvéd's Artillerie zugestanden wurde, für falsch, dass man statt wie bisher die Honvédregimenter in die taktischen Einheiten der Linie einzureihen in selbständige Divisionen vereinigt hat. Unsere Artillerie, einst unsere beste Waffe, ist ganz rückständig. Er habe ein Gut in der Nähe eines Artillerieschiessplatzes und beobachte wie wegen der Wirkung des rauchlosen Pulvers nach jeder grösseren Schiessübung eine Anzahl Kanonen nach Wien ins Arsenal geschickt werden müssen. Das Bestreben in den ungarischen Regimentern Unteroffiziere anzustellen, die der deutschen Sprache mächtig sind führe dahin dass die Juden dabei bevorzugt werden. Diese geniessen aber bei der Mannschaft keine Autorität, seien der Bestechung zugänglich, nötigen die Mannschaft sich Begünstigungen zu erkaufen.</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1941"/>
@@ -2725,7 +2725,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1949"/>
           </app>
           <anchor xml:id="Bae_MF_6-1_1950"/>nicht zu denken. Die Verträge halten uns notwendigerweise zusammen. 
-          <app from="#Bae_TB_7_4330" xml:id="Bae_MF_6-1_1951">
+          <app from="#Bae_TB_7_4330" type="equal" xml:id="Bae_MF_6-1_1951">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1952">nicht zu denken. Die Verträge halten uns notwendigerweise zusammen.</rdg>
           </app>
         </p>
@@ -2812,7 +2812,7 @@
           <anchor xml:id="Bae_MF_6-1_1986"/>seine Meinung aus. 
         </p>
         <p xml:id="Bae_MF_6-1_903">Voraussichtlich muß alles, was in der nächsten Zukunft geschehen wird, unter diesem Gesichtspunkt 
-          <app from="#Bae_TB_7_4370" xml:id="Bae_MF_6-1_1987">
+          <app from="#Bae_TB_7_4370" type="equal" xml:id="Bae_MF_6-1_1987">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1988">seine Meinung aus. Voraussichtlich muss Alles, was in der nächsten Zukunft geschehen wird unter diesem Gesichtspunkt</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1989"/>
@@ -2820,7 +2820,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1991">der Krone</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1992"/>beurteilt werden. 
-          <app from="#Bae_TB_7_4503" xml:id="Bae_MF_6-1_1993">
+          <app from="#Bae_TB_7_4503" type="equal" xml:id="Bae_MF_6-1_1993">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1994">beurteilt werden.</rdg>
           </app>
         </p>

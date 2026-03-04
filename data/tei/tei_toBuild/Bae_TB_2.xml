@@ -21,7 +21,7 @@
         </editor>
         <respStmt xml:id="Bae_TB_2_16">
           <resp xml:id="Bae_TB_2_17"/>
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_2_18">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_2_18">Kommission für Neuere Geschichte Österreichs</orgName>
         </respStmt>
       </titleStmt>
       <editionStmt xml:id="Bae_TB_2_19">
@@ -32,7 +32,7 @@
       </extent>
       <publicationStmt xml:id="Bae_TB_2_23">
         <publisher xml:id="Bae_TB_2_24">
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_2_25">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_2_25">Kommission für Neuere Geschichte Österreichs</orgName>
           <address xml:id="Bae_TB_2_26">
             <addrLine xml:id="Bae_TB_2_27">c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
           </address>
@@ -983,7 +983,7 @@
         <p xml:id="Bae_TB_2_699">
           <anchor xml:id="Bae_TB_2_700"/>
           <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_701">Dipauli</persName>
-          <app from="#Bae_MF_1_2772" type="notequal" xml:id="Bae_TB_2_702">
+          <app from="#Bae_MF_1_2772" type="notEqual" xml:id="Bae_TB_2_702">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_703">Er</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_704"/>wollte für seinen 
