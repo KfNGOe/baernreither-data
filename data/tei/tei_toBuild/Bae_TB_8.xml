@@ -1228,7 +1228,7 @@
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1658">Auch Lobkowitz äußerte sich ähnlich</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_536"/>Leider ergab sich, dass keine Aussicht vorhanden ist, die Herren auf ein bestimmtes Gegenprojekt einigen zu können. 
-          <app from="#Bae_MF_6-2_890" xml:id="Bae_TB_8_537">
+          <app from="#Bae_MF_6-2_890" type="notEqual" xml:id="Bae_TB_8_537">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_538">Aber leider ergab sich keine Aussicht, die Herren auf ein bestimmtes Gegenprojekt zu einigen.</rdg>
           </app>
         </p>
@@ -1539,7 +1539,7 @@
             <abbr xml:id="Bae_TB_8_2420">Septbr v J</abbr>
             <expan xml:id="Bae_TB_8_2421">September vorigen Jahres</expan>
           </choice>
-          <app from="#Bae_MF_6-2_1036" xml:id="Bae_TB_8_670">
+          <app from="#Bae_MF_6-2_1036" type="notEqual" xml:id="Bae_TB_8_670">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_671">September 1905</rdg>
           </app>
           <anchor xml:id="Bae_TB_8_1732"/> gesagt haben. Der 
@@ -2030,35 +2030,35 @@
         <!-- CA: im folgenden der ab fol. 41 eingelegte Brief -->
         <anchor xml:id="Bae_TB_8_2444"/>
         <app from="#Bae_TB_8_931" type="insert" xml:id="Bae_TB_8_2445">
-          <rdg xml:id="Bae_TB_8_2446">[...]</rdg>
+          <rdg xml:id="Bae_TB_8_2446">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2447"/>
         <app from="#Bae_TB_8_2473" type="insert" xml:id="Bae_TB_8_2448">
-          <rdg xml:id="Bae_TB_8_2449">[...]</rdg>
+          <rdg xml:id="Bae_TB_8_2449">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2450"/>
         <app from="#Bae_TB_8_2468" type="insert" xml:id="Bae_TB_8_2451">
-          <rdg xml:id="Bae_TB_8_2452">[...]</rdg>
+          <rdg xml:id="Bae_TB_8_2452">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2484"/>
         <app from="#Bae_TB_8_2471" type="insert" xml:id="Bae_TB_8_2485">
-          <rdg xml:id="Bae_TB_8_2486">[...]</rdg>
+          <rdg xml:id="Bae_TB_8_2486">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2453"/>
         <app from="#Bae_TB_8_2475" type="insert" xml:id="Bae_TB_8_2454">
-          <rdg xml:id="Bae_TB_8_2455">[...]</rdg>
+          <rdg xml:id="Bae_TB_8_2455">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2456"/>
         <app from="#Bae_TB_8_2477" type="insert" xml:id="Bae_TB_8_2457">
-          <rdg xml:id="Bae_TB_8_2458">[...]</rdg>
+          <rdg xml:id="Bae_TB_8_2458">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2459"/>
         <app from="#Bae_TB_8_2479" type="insert" xml:id="Bae_TB_8_2460">
-          <rdg xml:id="Bae_TB_8_2461">[...]</rdg>
+          <rdg xml:id="Bae_TB_8_2461">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2462"/>
         <app from="#Bae_TB_8_2481" type="insert" xml:id="Bae_TB_8_2463">
-          <rdg xml:id="Bae_TB_8_2464">[...]</rdg>
+          <rdg xml:id="Bae_TB_8_2464">&#8230;</rdg>
         </app>
       </div>
       <div n="1906-06-17" type="diaryEntry" xml:id="Bae_TB_8_932">
