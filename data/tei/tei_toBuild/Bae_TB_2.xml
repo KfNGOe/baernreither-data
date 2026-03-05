@@ -964,7 +964,7 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_686"/>
           </app>
           <anchor xml:id="Bae_TB_2_687"/>Es 
-          <app from="Bae_MF_1_2762#" type="notEqual" xml:id="Bae_TB_2_688">
+          <app from="#Bae_MF_1_2762" type="notEqual" xml:id="Bae_TB_2_688">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_689">Bei Dipauli</rdg>
           </app>
           <anchor xml:id="Bae_TB_2_690"/>war ein guter, gerechter Zug in dem was er wollte 
@@ -3077,7 +3077,7 @@
         <p xml:id="Bae_TB_2_6235">
           <anchor xml:id="Bae_TB_2_6415"/>so wichtige Verfassungsfrage der Gefar auszusetzen im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2102">Hause</orgName> aus reiner Parteileidenschaft in ungünstigem Sinne entschieden zu werden. Allerdings hatte 
-          <persName key="BilinskiLeon" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2103">Bilinski</persName> sehr ungeschickt gesprochen, aber darauf kam es in dieser Situation wirklich nicht mehr an. Glücklicherweise kam die Frage im 
+          <persName key="BilinskiLeon" ref="https://d-nb.info/gnd/11618082X" xml:id="Bae_TB_2_2103">Bilinski</persName> sehr ungeschickt gesprochen, aber darauf kam es in dieser Situation wirklich nicht mehr an. Glücklicherweise kam die Frage im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_2_2104">Hause</orgName> nicht zur Abstimmung. Staatsrechtlich aber glaube ich allerdings im Rechte zu sein, aber es war offenbar eher ein Stoff für eine Dissertation als für eine praktische politische Aktion. 
           <app from="#Bae_MF_1_4114" type="missing" xml:id="Bae_TB_2_2105">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_2106"/>
@@ -8670,7 +8670,7 @@
           <persName key="CingrosJohann" xml:id="Bae_TB_2_5990">Cingroš</persName>. Bemerkenswert wie viel schwedischer Stein dort verarbeitet wird. 
         </p>
         <p xml:id="Bae_TB_2_5991">Auf der Rückreise in 
-          <placeName key="Bruex" ref="http://www.geonames.org/3070291/most.html" xml:id="Bae_TB_2_5992">Brüx</placeName> die Ausstellung besucht. Sehr freundlich vom 
+          <placeName key="Bruex" ref="https://www.geonames.org/11922564/most.html" xml:id="Bae_TB_2_5992">Brüx</placeName> die Ausstellung besucht. Sehr freundlich vom 
           <persName key="PohnertKarl" ref="https://d-nb.info/gnd/1026274990" xml:id="Bae_TB_2_5993">Bürgermeister</persName>
           <choice xml:id="Bae_TB_2_5994">
             <abbr xml:id="Bae_TB_2_5995">u.</abbr>

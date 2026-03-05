@@ -301,7 +301,7 @@
             <abbr xml:id="Bae_TB_4_193">u.</abbr>
             <expan xml:id="Bae_TB_4_194">und</expan>
           </choice> die 
-          <placeName key="Bruex" ref="http://www.geonames.org/3070291/most.html" xml:id="Bae_TB_4_195">Brüxer</placeName> Ausstellung 
+          <placeName key="Bruex" ref="https://www.geonames.org/11922564/most.html" xml:id="Bae_TB_4_195">Brüxer</placeName> Ausstellung 
           <choice xml:id="Bae_TB_4_196">
             <abbr xml:id="Bae_TB_4_197">u.</abbr>
             <expan xml:id="Bae_TB_4_198">und</expan>
@@ -2350,7 +2350,7 @@
           </app>
           <anchor xml:id="Bae_TB_4_8285"/>, allerdings mit 35 von der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_1543">Krone</persName> selbst, unberechenbar bleibt aber was bis dahin auf ihre Entschliessungen wirken kann. 
-          <app from="Bae_MF_2_5475" type="missing" xml:id="Bae_TB_4_8286">
+          <app from="#Bae_MF_2_5475" type="missing" xml:id="Bae_TB_4_8286">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8287"/>
           </app>
           <anchor xml:id="Bae_TB_4_8288"/>
@@ -3195,7 +3195,7 @@
           <index xml:id="Bae_TB_4_2089">
             <term key="Presse" xml:id="Bae_TB_4_2090">Presse</term>
           </index> versteht er gar nicht. Alle meine Versuche seine Aufmerksamkeit auf diesen wunden Punkt seiner Amtsfürung zu lenken, misslangen. Im 
-          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/2019327-0" xml:id="Bae_TB_4_2091">
+          <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_4_2091">
             <choice xml:id="Bae_TB_4_2092">
               <abbr xml:id="Bae_TB_4_2093">M.</abbr>
               <expan xml:id="Bae_TB_4_2094">Minister</expan>
@@ -3364,7 +3364,7 @@
             <abbr xml:id="Bae_TB_4_2203">u.</abbr>
             <expan xml:id="Bae_TB_4_2204">und</expan>
           </choice> uns zu Theil wurde. 
-          <app from="Bae_MF_2_5712" type="missing" xml:id="Bae_TB_4_8345">
+          <app from="#Bae_MF_2_5712" type="missing" xml:id="Bae_TB_4_8345">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8346"/>
           </app>
           <anchor xml:id="Bae_TB_4_8347"/>Mein Einfluss auf 
@@ -3663,7 +3663,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8375">schwarz angezogen, äusserst zahm, äusserst höflich und baten um Ernennungen, Telephone, Postämter u.s.w. u.s.w. aber die Idee, mir, wenn auch inoffiziell und ohne Obligo einen Rückhalt zu geben, auch nur die entfernte Möglichkeit, irgend etwas bei ihnen durchzusetzen – davon war keine Rede. Ich wurde privatim ausgenützt, politisch nicht im Geringsten. Nicht einmal die Votierung des ganz harmlosen, aber international nicht unwichtigen japanesischen Handelsvertrages konnte ich durchsetzen. Gross, Pergelt, Hochenburger, die ich anging,</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8376"/>windeten 
-          <app from="Bae_MF_2_5843" type="notEqual" xml:id="Bae_TB_4_8377">
+          <app from="#Bae_MF_2_5843" type="notEqual" xml:id="Bae_TB_4_8377">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8378">wanden</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8379"/>sich 
@@ -3751,7 +3751,7 @@
               <term key="Ausgleich" xml:id="Bae_TB_4_2429"/>
             </index>
           </index> hätte vertreten müssen. 
-          <app from="Bae_MF_2_5979" type="equal" xml:id="Bae_TB_4_8393">
+          <app from="#Bae_MF_2_5979" type="equal" xml:id="Bae_TB_4_8393">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8394">die Priorität vor allen andern Geschäften sichern sollte. Damit war eine Situation geschaffen, die für mich unmöglich war, schon aus dem Grunde, als ich als Handelsminister den von mir nicht akzeptierten Ausgleich hätte vertreten müssen.</rdg>
           </app>
         </p>
@@ -3917,7 +3917,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8407">ins Trockene sowie den großen Erlass und die Denkschrift in Sachen der</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8408"/>Betriebserleichterungen 
-          <app from="Bae_MF_2_5925" type="notEqual" xml:id="Bae_TB_4_8409">
+          <app from="#Bae_MF_2_5925" type="notEqual" xml:id="Bae_TB_4_8409">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8410">Erleichterung der Betriebseinrichtungen</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8411"/>für die 
@@ -4331,7 +4331,7 @@
             <abbr xml:id="Bae_TB_4_2822">u.</abbr>
             <expan xml:id="Bae_TB_4_2823">und</expan>
           </choice> in 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_2824">meiner Partei</orgName> erwarte man von mir Aufschlüsse über Absichten 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_2824">meiner Partei</orgName> erwarte man von mir Aufschlüsse über Absichten 
           <choice xml:id="Bae_TB_4_2825">
             <abbr xml:id="Bae_TB_4_2826">u.</abbr>
             <expan xml:id="Bae_TB_4_2827">und</expan>
@@ -4479,7 +4479,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8435"/>
           </app>
           <anchor xml:id="Bae_TB_4_8436"/> – oder ich müsste mich von der 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_2906">Partei</orgName> ganz loslösen 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_2906">Partei</orgName> ganz loslösen 
           <choice xml:id="Bae_TB_4_2907">
             <abbr xml:id="Bae_TB_4_2908">u.</abbr>
             <expan xml:id="Bae_TB_4_2909">und</expan>
@@ -5041,7 +5041,7 @@
               <term key="Audienzen" xml:id="Bae_TB_4_3271"/>
             </index>
           </index> ich solle nur bald wiederkommen, damit die 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_3272">Partei</orgName> bei der Stange bleibe. Auch von anderer Seite wurde mir nahegelegt nicht auf allzu lange wegzubleiben. Ich war daher nur etwa 8 Tage mit 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_3272">Partei</orgName> bei der Stange bleibe. Auch von anderer Seite wurde mir nahegelegt nicht auf allzu lange wegzubleiben. Ich war daher nur etwa 8 Tage mit 
           <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_TB_4_3273">Dumreicher</persName> in 
           <placeName key="Rom" ref="https://www.geonames.org/3169071/roma.html" xml:id="Bae_TB_4_3274">Rom</placeName>, wohin ich direkt ging 
           <choice xml:id="Bae_TB_4_3275">
@@ -5314,7 +5314,7 @@
           <pb facs="#F_K-4_Bae_TB_4_109" n="54v" xml:id="Bae_TB_4_3461"/>
           <note type="editorial" xml:id="Bae_TB_4_3462">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_4_110" n="55r" xml:id="Bae_TB_4_3463"/> den Parlamentarismus gefährlicherer Zustand war nicht denkbar. Von keiner Seite irgend eine Initiative. Unsere kleine 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_3464">Partei</orgName>, durch unermüdliche Arbeit glücklicherweise fester gefügt als je, stürmte mitten durch, zu schwach, um unter den Deutschen bestimmend auftreten zu können, stark genug, die gebotenen Linien 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_3464">Partei</orgName>, durch unermüdliche Arbeit glücklicherweise fester gefügt als je, stürmte mitten durch, zu schwach, um unter den Deutschen bestimmend auftreten zu können, stark genug, die gebotenen Linien 
           <add place="across" xml:id="Bae_TB_4_3465">für sich</add> unbedingt festzuhalten. Ich suchte mit aller Kraft zu halten, was ich dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_3466">Kaiser</persName> versprochen hatte: sachliche Behandlung des 
           <index xml:id="Bae_TB_4_3467">
@@ -5351,7 +5351,7 @@
             <expan xml:id="Bae_TB_4_3491">niederösterreichischen</expan>
           </choice> Vertrauensmann 
           <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_4_3492">Carl Auersperg</persName> mit der Frage wendeten, ob sie der 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_3493">Club</orgName> zwingen könne für den 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_3493">Club</orgName> zwingen könne für den 
           <index xml:id="Bae_TB_4_3494">
             <term key="OesterreichUngarn" xml:id="Bae_TB_4_3495">Ausgleich</term>
             <index xml:id="Bae_TB_4_3496">
@@ -6190,7 +6190,7 @@
           </choice> die Renaissance, der künstlerische Ausdruck für die gesellschaftliche Thatsache des Ueberwiegens der Geldmenschen, Anglomanen über die klassisch-gesinnte Gemeinde, die mehr Geschmack aber viel weniger Geld hat und dem Bizarren das Feld – vorläufig – überlassen muss. 
         </p>
         <p xml:id="Bae_TB_4_4157">Knapp vor meiner Abreise sprach ich noch 
-          <persName key="Szoegyény-MarichLadislaus" ref="https://d-nb.info/gnd/1019704195" xml:id="Bae_TB_4_4158">Szögeni</persName>. Wir hatten uns 
+          <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195" xml:id="Bae_TB_4_4158">Szögeni</persName>. Wir hatten uns 
         </p>
         <pb facs="#F_K-4_Bae_TB_4_371" n="64v" xml:id="Bae_TB_4_4159"/>
         <addSpan spanTo="#Bae_TB_4_4209" type="insertion" xml:id="Bae_TB_4_4160"/>
@@ -6341,7 +6341,7 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_4280">Oesterreich</placeName> halten muß, um keine Empfindlichkeiten wachzurufen, so kann doch das Volksbewußtsein bei aller politischen Selbstzucht solche nationale Verluste nicht gleichgültig hinnehmen. 
         </p>
         <p xml:id="Bae_TB_4_4281">Indessen nicht gerade die Rücksicht auf die öffentliche Meinung im Nachbarreich sollte die österreichischen Staatslenker bedenklich machen, sondern die Verheerungen, welche 
-          <placeName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_TB_4_4282">Graf Taaffe</placeName> und seine gleichgesinnten Nachfolger in 
+          <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_TB_4_4282">Graf Taaffe</persName> und seine gleichgesinnten Nachfolger in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_4283">Oesterreich</placeName> selbst angerichtet haben. Die stillschweigende Voraussetzung, von der sie jedesmal ausgingen, wenn sie zu einem Schlag gegen deutsches Wesen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_4284">Oesterreich</placeName> ausholten, war immer die, daß die Deutschen ihres Staates es bei einigen Klagen und Beschwerden bewenden lassen und die Sache dann ruhig hinnehmen würden. Das war auch der später eingestandene Hintergedanke des 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_4_4285">Grafen Badeni</persName>, als er die 
@@ -6352,7 +6352,7 @@
             </index>
           </index> erließ, und eben das befürchteten auch manche deutsche Politiker, welche sich an die Spitze des Widerstandes gegen ihn gestellt hatten. Doch die Dinge kamen anders und sie kamen so, daß nur eine schleunige Umkehr der Regierung die um sich greifende Zersetzung aufhalten kann. Im 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_4_4290">österreichischen Reichsrath</orgName> gibt es eine kleine Gruppe patriotischer Politiker, die Abgeordneten des 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_4291">deutschen Großgrundbesitzes</orgName>, welche niemals müde werden, in diesem Sinn darauf hinzuweisen, daß alle Staatskunst in 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_4291">deutschen Großgrundbesitzes</orgName>, welche niemals müde werden, in diesem Sinn darauf hinzuweisen, daß alle Staatskunst in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_4292">Oesterreich</placeName> darauf gerichtet sein müsse, den Uebergang der Deutschen 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_4293">Oesterreichs</placeName> in das Lager 
           <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_TB_4_4294">Schönerers</persName> und 
@@ -6409,7 +6409,7 @@
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_4_4335">England</placeName> war zugleich eine gute Lehrzeit für eine öffentliche Laufbahn. Im Jahre 
           <date when="1873" xml:id="Bae_TB_4_4336">1873</date> erhielt ich das Mandat der 
           <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_4_4337">Egerer</placeName> Handelskammer. Die Linke bestand damals aus drei Klubs, dem 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_4338">verfassungstreuen Großgrundbesitz</orgName>, dem 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_4338">verfassungstreuen Großgrundbesitz</orgName>, dem 
           <orgName key="KlubderLiberalen" xml:id="Bae_TB_4_4339">Klub der Liberalen</orgName> und der 
           <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_4_4340">Fortschrittspartei</orgName>. Ich trat dem zweitgenannten 
           <orgName key="KlubderLiberalen" xml:id="Bae_TB_4_4341">Klub</orgName> bei, der das Gros der von städtischen und ländlichen Bezirken gewählten Mitglieder umfaßte. Die direkten Wahlen hatten eine Anzahl jüngerer Männer ins 
@@ -7678,7 +7678,7 @@
           <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_4_5297">deutschen Fortschrittspartei</orgName>, 
         </p>
         <p xml:id="Bae_TB_4_5298">der 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_5299">Vereinigung der verfassungstreuen Großgrundbesitzer</orgName>, 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_5299">Vereinigung der verfassungstreuen Großgrundbesitzer</orgName>, 
         </p>
         <p xml:id="Bae_TB_4_5300">der 
           <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_TB_4_5301">christlichsocialen Vereinigung</orgName>, 
@@ -7867,7 +7867,7 @@
             <abbr xml:id="Bae_TB_4_5432">polit.</abbr>
             <expan xml:id="Bae_TB_4_5433">politischen</expan>
           </choice> Forderungen der Deutschen 
-          <orgName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_5434">Österreichs</orgName> zu formuliren, zu welchem Zwecke jede Partei eine Anzal von Delegirten bestimmte. Ueber die "Kundgebung" wurde viel herumgeredet; sie sollte mehr als ein Communiqué, aber doch kein Manifest sein, weil man nicht glaubte, dass eine Einigung für ein solches zu erzielen sein werde. 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_5434">Österreichs</placeName> zu formuliren, zu welchem Zwecke jede Partei eine Anzal von Delegirten bestimmte. Ueber die "Kundgebung" wurde viel herumgeredet; sie sollte mehr als ein Communiqué, aber doch kein Manifest sein, weil man nicht glaubte, dass eine Einigung für ein solches zu erzielen sein werde. 
           <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_4_5435">Gross</persName>, 
           <persName key="KaiserAugust" ref="https://d-nb.info/gnd/1012942910" xml:id="Bae_TB_4_5436">Kaiser</persName>
           <choice xml:id="Bae_TB_4_5437">
@@ -8786,7 +8786,7 @@
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_6143">Kaiser</persName> ein Memoire über die innere Lage zu überreichen, dass der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_6144">Kaiser</persName> es gelesen, aber Einwendungen gemacht, was 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_4_6145">Ährenthal</persName> abgekühlt habe. Knapp vor meiner Ankunft in 
-          <persName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_4_6146">Wien</persName> war im Stephanskeller des Abends eine Zusammenkunft gewesen, bei der ausser 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_4_6146">Wien</placeName> war im Stephanskeller des Abends eine Zusammenkunft gewesen, bei der ausser 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_4_6147">
             <choice xml:id="Bae_TB_4_6148">
               <abbr xml:id="Bae_TB_4_6149">Fberg</abbr>
@@ -9399,7 +9399,7 @@
             <abbr xml:id="Bae_TB_4_6609">u.</abbr>
             <expan xml:id="Bae_TB_4_6610">und</expan>
           </choice> zog durch 
-          <persName key="Terlago" ref="https://www.geonames.org/3165790/terlago.html" xml:id="Bae_TB_4_6611">Terlago</persName>, der nach 
+          <placeName key="Terlago" ref="https://www.geonames.org/3165790/terlago.html" xml:id="Bae_TB_4_6611">Terlago</placeName>, der nach 
           <placeName key="Innsbruck" ref="https://www.geonames.org/2775220/innsbruck.html" xml:id="Bae_TB_4_6612">Innsbruck</placeName>
           <choice xml:id="Bae_TB_4_6613">
             <abbr xml:id="Bae_TB_4_6614">u.</abbr>
@@ -9621,7 +9621,7 @@
             <expan xml:id="Bae_TB_4_6769">und</expan>
           </choice> zuletzt 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_6770">Thun</persName> – ein lebhaftes Bild aus der Erinnerung hervorzurufen. Von allen Broschuren, die der Tag geboren hatte, fand ich in 
-          <persName key="MengerMax" ref="tps://d-nb.info/gnd/130115703" xml:id="Bae_TB_4_6771">Menger's</persName> Buch über den 
+          <persName key="MengerMax" ref="https://d-nb.info/gnd/130115703" xml:id="Bae_TB_4_6771">Menger's</persName> Buch über den 
           <index xml:id="Bae_TB_4_6772">
             <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_4_6773">Ausgleich von 
               <date when="1890" xml:id="Bae_TB_4_6774">1890</date>
@@ -9631,7 +9631,7 @@
             </index>
           </index>
           <note xml:id="Bae_TB_4_6777">
-            <persName key="MengerMax" ref="tps://d-nb.info/gnd/130115703" xml:id="Bae_TB_4_6778">Max Menger</persName>, Der 
+            <persName key="MengerMax" ref="https://d-nb.info/gnd/130115703" xml:id="Bae_TB_4_6778">Max Menger</persName>, Der 
             <index xml:id="Bae_TB_4_6779">
               <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_4_6780">böhmische Ausgleich</term>
               <index xml:id="Bae_TB_4_6781">
@@ -9951,7 +9951,7 @@
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_4_7017">Abgeordnetenhause</orgName>, und zwar die 
           <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_4_7018">Deutsche Volkspartei</orgName>, die 
           <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_4_7019">Deutsche Forttschrittspartei</orgName>, die 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7020">Vereinigung der verfassungstreuen Großgrundbesitzer</orgName>, die 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7020">Vereinigung der verfassungstreuen Großgrundbesitzer</orgName>, die 
           <orgName key="ChristlichsozialeVereinigung" xml:id="Bae_TB_4_7021">Christlichsoziale Vereinigung</orgName> und die 
           <orgName key="FreiedeutscheVereinigung" xml:id="Bae_TB_4_7022">freie deutsche Vereinigung</orgName>, haben sich auf nachstehende national-politische Forderungen geeinigt: 
         </p>
@@ -10559,7 +10559,7 @@
         </p>
         <p xml:id="Bae_TB_4_7490">3. Nationale Verwaltung. Als Grundsatz soll gelten: im 
           <placeName key="Tirol" ref="https://www.geonames.org/2763587/tyrol.html" xml:id="Bae_TB_4_7491">deutschen Tirol</placeName> deutsche, im 
-          <placeName key="Trentino-Südtirol" ref="https://www.geonames.org/3165244/trentino-alto-adige.html" xml:id="Bae_TB_4_7492">italienischen Tirol</placeName> italienische Beamte. Ausnahmen sollen nur insoweit stattfinden, als für einzelne Dienstposten im deutschen 
+          <placeName key="TrentinoSuedtirol" ref="https://www.geonames.org/3165244/trentino-alto-adige.html" xml:id="Bae_TB_4_7492">italienischen Tirol</placeName> italienische Beamte. Ausnahmen sollen nur insoweit stattfinden, als für einzelne Dienstposten im deutschen 
           <placeName key="Suedtirol" ref="https://www.geonames.org/3181912/bolzano.html" xml:id="Bae_TB_4_7493">Südtirol</placeName> die Doppelsprachigkeit thatsächlich geboten erscheint, und als sich geeignete sprachlich qualifizirte Beamte deutscher Nationalität für solche Posten nicht finden. Als ein Mißbrauch ist abzustellen, daß für Richterstellen bei den Gerichten in 
           <placeName key="Bozen" ref="https://www.geonames.org/6535953/bolzano-bozen.html" xml:id="Bae_TB_4_7494">Bozen</placeName> die vollkommene Kenntniß der italienischen Sprache allgemein gefordert wird. Bei den Gerichten auf dem Lande, wo die Gerichtsbeamten auch die Mundart verstehen müssen, ist die Anstellung italienischer Richter thunlichst zu vermeiden. Ueber- 
         </p>
@@ -10849,7 +10849,7 @@
         </p>
         <p xml:id="Bae_TB_4_7713">2. Das Land 
           <placeName key="Kaernten" ref="https://www.geonames.org/2774686/kaernten.html" xml:id="Bae_TB_4_7714">Kärnten</placeName> ist mit Ausnahme der Bezirksgerichtssprengel 
-          <placeName key="https://www.geonames.org/7871662/bad-bleiberg.html" ref="BadBleiberg" xml:id="Bae_TB_4_7715">Bleiberg</placeName>, 
+          <placeName key="BadBleiberg" ref="https://www.geonames.org/7871662/bad-bleiberg.html"  xml:id="Bae_TB_4_7715">Bleiberg</placeName>, 
           <placeName key="Eberndorf" ref="https://www.geonames.org/7871673/eberndorf.html" xml:id="Bae_TB_4_7716">Eberndorf</placeName>, 
           <placeName key="Eisenkappel" ref="https://www.geonames.org/7871529/eisenkappel-vellach.html" xml:id="Bae_TB_4_7717">Eisenkappl</placeName>, 
           <placeName key="Voelkermarkt" ref="https://www.geonames.org/7872806/voelkermarkt.html" xml:id="Bae_TB_4_7718">Völkermarkt</placeName>, 
@@ -10979,7 +10979,7 @@
           <placeName key="Troppau" ref="https://www.geonames.org/11920184/opava.html" xml:id="Bae_TB_4_7825">Troppau</placeName> in die staatliche Verwaltung entbehrt jeder gesetzlichen Grundlage. 
         </p>
         <p xml:id="Bae_TB_4_7826">J. 
-          <placeName key="Kuestenland" xml:id="Bae_TB_4_7827">Küstenland</placeName>. 
+          <placeName key="Kuestenland" ref="https://www.geonames.org/3175397/istria.html" xml:id="Bae_TB_4_7827">Küstenland</placeName>. 
         </p>
         <p xml:id="Bae_TB_4_7828">Die natürliche Verbindung deutscher Kultur und unserer Volkswirthschaft mit den Küstenländern an der Adria ist durch alle geeigneten Mittel zu erhalten und zu fördern.</p>
         <p xml:id="Bae_TB_4_7829">X. 
@@ -11038,8 +11038,8 @@
           </index> zuzustimmen. 
         </p>
         <p xml:id="Bae_TB_4_7870">Der 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7871">verfassungstreue Großgrundbesitz</orgName> veröffentlicht folgendes Communiqué: "Die 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7872">Vereinigung der verfassungstreuen Großgrundbesitzer</orgName> im 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7871">verfassungstreue Großgrundbesitz</orgName> veröffentlicht folgendes Communiqué: "Die 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7872">Vereinigung der verfassungstreuen Großgrundbesitzer</orgName> im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_4_7873">Abgeordnetenhause</orgName> nimmt die Feststellung der nationalpolitischen Forderungen der vereinigten oppositionellen 
           <index xml:id="Bae_TB_4_7874">
             <term key="Parteien" xml:id="Bae_TB_4_7875">deutschen Parteien</term>
@@ -11054,14 +11054,14 @@
             </index>
           </index> zu einer gemeinsamen Kundgebung bezüglich ihrer nationalen Stellung in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_7882">Oesterreich</placeName> vereinigt haben. Der 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7883">verfassungstreue Großgrundbesitz</orgName> fühlt sich veranlaßt, dem allgemeinen Theile der aufgestellten Forderungen, sowie den allgemeinen Grundsätzen über die Regelung der 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7883">verfassungstreue Großgrundbesitz</orgName> fühlt sich veranlaßt, dem allgemeinen Theile der aufgestellten Forderungen, sowie den allgemeinen Grundsätzen über die Regelung der 
           <index xml:id="Bae_TB_4_7884">
             <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_4_7885">Sprachenfrage</term>
             <index xml:id="Bae_TB_4_7886">
               <term key="Sprachenfrage" xml:id="Bae_TB_4_7887"/>
             </index>
           </index> sowohl vom staatlichen, als auch vom nationalen Standpunkte aus seine ausdrückliche Zustimmung zu geben: er spricht zugleich die Ueberzeugung aus, daß die Vorschläge bezüglich der einzelnen Länder, als von den berufenen Vertrauensmännern derselben festgestellt, sich als eine geeignete Grundlage zur Herstellung eines sprachlich und politisch haltbaren Zustandes erweisen werden. Der 
-          <orgName key="VerfassungstreuerGroßgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7888">verfassungstreue Großgrundbesitz</orgName> muß loyal darauf verweisen, daß die Frage, wie seine Stellung innerhalb der Landtage in 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_4_7888">verfassungstreue Großgrundbesitz</orgName> muß loyal darauf verweisen, daß die Frage, wie seine Stellung innerhalb der Landtage in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_4_7889">Böhmen</placeName> und 
           <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_4_7890">Mähren</placeName> sich zu den aufgestellten Forderungen bezüglich der Kurien gestalten soll, eine offene geblieben ist. Wiewohl er sich nicht für berechtigt hält, auf Rechte zu verzichten, wird er doch stets bemüht sein, die politische Situation durch seine Haltung zu erleichtern und gibt sich der Hoffnung hin, daß sich auch für diese noch offene Einzelfrage eine Lösung finden lassen wird, die dem nationalen Interesse der Deutschen in jenen beiden Ländern ohne Beeinträchtigung der verfassungsmäßigen Rechte des 
           <index xml:id="Bae_TB_4_7891">

@@ -1866,7 +1866,7 @@
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_1353">Tags darauf rief mich ein Telegramm nach Wien u. ich musste es aufgeben mit Dumreicher in</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_1354"/>
-          <placeName key="Lugano" xml:id="Bae_MF_1_1355">
+          <placeName key="Lugano" ref="https://www.geonames.org/2659836/lugano.html" xml:id="Bae_MF_1_1355">
             <del rendition="#s" xml:id="Bae_MF_1_1356">B</del>
             <add place="across" xml:id="Bae_MF_1_1357">L</add>ugano 
           </placeName>
@@ -2800,7 +2800,7 @@
           </index> zusammenzuberufen. Die 
           <orgName key="TschechenKlub" xml:id="Bae_MF_1_2012">Čechen</orgName> sollten durch 
           <persName key="LobkowitzGeorg" ref="https://d-nb.info/gnd/117074128" xml:id="Bae_MF_1_2013">Georg Lobkowitz</persName>, die Deutschen durch 
-          <persName key="ThunOswald" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_1_2014">Oswald Thun</persName> eingeladen werden. Ohne Substrat sagte 
+          <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_MF_1_2014">Oswald Thun</persName> eingeladen werden. Ohne Substrat sagte 
           <persName key="HalbanHeinrich" ref="https://d-nb.info/gnd/116208848" xml:id="Bae_MF_1_2015">Halban</persName> zuerst. Anderntags aber, da ich ein solches Beginnen als ganz aussichtslos bezeichnete, meinte er, die Regierung werde doch einen Plan vorlegen. Er berichtete über alles, was er in 
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_MF_1_2016">Karlsbad</placeName> erfuhr an 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_2017">Badeni</persName> telefonisch. Am 
@@ -5270,7 +5270,7 @@
             </index> hatten wir einen Protest vorbereitet, den 
             <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_MF_1_3688">Stürgkh</persName> vortragen sollte. Es kam nicht dazu, weil überhaupt niemand mehr zu Worte kam. Ich beantragte die Veröffentlichung, die an jenem denkwürdigen ersten 
             <date when="1897-11-28" xml:id="Bae_MF_1_3689">Adventsonntage</date> erfolgte und wie ich erfuhr auf die an diesem Vormittage gefassten Entschlüsse nicht ohne Einfluß war. 
-            <app from="Bae_TB_2_6434" type="equal" xml:id="Bae_MF_1_3690">
+            <app from="#Bae_TB_2_6434" type="equal" xml:id="Bae_MF_1_3690">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_3691">auftraten u. in der halb gewonnenen Schlacht der Obstruction als die schwere Kavallerie durch einen Choc den Sieg entschieden. Gegen die lex Falkenhayn hatten wir einen Protest vorbereitet, den Stürgkh vortragen sollte. Es kam nicht dazu, weil überhaupt niemand mehr zu Worte kam. Ich beantragte die Veröffentlichung, die an jenem denkwürdigen ersten Adventsonntage erfolgte u. wie ich erfuhr auf die an diesem Vormittage gefassten Entschlüsse nicht ohne Einfluss war.</rdg>
             </app>
             <anchor xml:id="Bae_MF_1_3692"/>
