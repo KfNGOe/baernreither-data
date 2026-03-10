@@ -78,7 +78,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_3_50">
     <body xml:id="Bae_TB_3_51">
-      <div n="1898-09" type="diaryEntry" xml:id="Bae_TB_3_52">
+      <div n="1898-09-22" type="diaryEntry" xml:id="Bae_TB_3_52">
         <anchor xml:id="Bae_TB_3_5608"/>
         <pb facs="#F_K-4_Bae_TB_3_003" n="1v" xml:id="Bae_TB_3_63"/>
         <addSpan spanTo="#Bae_TB_3_5510" type="insertion" xml:id="Bae_TB_3_61"/>
@@ -197,7 +197,7 @@
               <term key="Informationsreisen" xml:id="Bae_TB_3_60"/>
             </index>
           </index> zu berichten. 
-          <app from="#" type="missing" xml:id="Bae_TB_3_5611">
+          <app from="#Bae_MF_2_6423" type="missing" xml:id="Bae_TB_3_5611">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5612"/>
           </app>
           <!-- DC Einklebung Zeitungsartikel fol. 1v, 1av, 2v) -->
@@ -406,7 +406,7 @@
               <expan xml:id="Bae_TB_3_231">Seine</expan>
             </choice> Excellenz 
           </persName> besonders zu hören, daß an Stelle der zahlreichen Werks- und Wohngebäude, die eine ganze Ortschaft 
-          <app from="#" type="missing" xml:id="Bae_TB_3_5616">
+          <app from="#Bae_MF_2_6426" type="missing" xml:id="Bae_TB_3_5616">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5617"/>
           </app>
           <anchor xml:id="Bae_TB_3_5522"/>
@@ -425,7 +425,7 @@
             <expan xml:id="Bae_TB_3_300">und</expan>
           </choice> eine große Lehrwerkstätte, in welcher die heranwachsende Jugend des Eisenbezirks Anleitung zu etwas Besserem erhält. Das nahe 
           <placeName key="Ybbsitz" ref="https://www.geonames.org/2760770/ybbsitz.html" xml:id="Bae_TB_3_301">Ybbsitz</placeName>, wohin ein reizender Weg führt, ähnliche Verhältnisse, nur im Allgemeinen rückständiger. Fabrikation von allerhand Eisenartikel, Beile, Hämmer ... bis zu Mäusefallen. In einer Schlucht mit prachtvoller Wasserkraft hintereinander, übereinander 
-          <app from="#" type="equal" xml:id="Bae_TB_3_302">
+          <app from="#Bae_MF_2_6434" type="equal" xml:id="Bae_TB_3_302">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_303">suchen sich auf alle mögliche Weise zu helfen, schreiten aber doch technisch gar nicht oder nur langsam fort. Für diese Kategorie von Betrieben besteht eine sehr gute Gewerbeschule in Waidhofen als Franz Joseph-Stiftung, wo wir einen gut ausgestatteten Modellsaal fanden und eine grosse Lehrwerkstätte, in welcher die heranwachsende Jugend des Eisenbezirks Anleitung zu etwas Besserem erhält. Das nahe Ybbsitz, wohin ein reizender Weg führt, ähnliche Verhältnisse, nur im Allgemeinen rückständiger. Fabrikation von allerhand Eisenartikel, Beile, Hämmer ... bis zu Mäusefallen. In einer Schlucht mit prachtvoller Wasserkraft hintereinander, übereinander,</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_304"/>Schleifereien 
@@ -472,7 +472,7 @@
         </p>
         <pb facs="#F_K-4_Bae_TB_3_007" n="2v" xml:id="Bae_TB_3_232"/>
         <anchor xml:id="Bae_TB_3_5621"/>
-        <addSpan spanTo="#Bae_TB_3_5314" xml:id="Bae_TB_3_5523"/>
+        <addSpan spanTo="#Bae_TB_3_5314" type="insertion" xml:id="Bae_TB_3_5523"/>
         <p xml:id="Bae_TB_3_5524">repräsentieren, sich vor 10 Jahren nur grüne Wiesen und Felder befanden. 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_233">
             <choice xml:id="Bae_TB_3_234">
@@ -489,7 +489,7 @@
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_3_241">Se. Excellenz</persName> sprach zum Schlusse an den Leiter der Excursion, 
           <persName key="ZeitlingerMichael" xml:id="Bae_TB_3_242">Industrierath Michael Zeitlinger</persName>, seine Befriedigung und die Anerkennung für das Gesehene aus und trat noch in der Nacht die Rückreise nach 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_3_243">Wien</placeName> an. 
-          <app from="#" type="missing" xml:id="Bae_TB_3_244">
+          <app from="#Bae_MF_2_6429" type="missing" xml:id="Bae_TB_3_244">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_245"/>
           </app>
         </p>
@@ -541,8 +541,8 @@
           </choice> die absolute Unmöglichkeit in der bisherigen Weise fortzuarbeiten, die Menschen doch in die neuen Formen. 
         </p>
         <p xml:id="Bae_TB_3_366">Abends sehr 
-          <app from="#" type="equal" xml:id="Bae_TB_3_367">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_368"> reizender Muster mitgebracht hatte. In den Kreisen dieser höher strebenden Männer herrscht, soweit man aus ihren einfachen, aber behaglichen, etwas altväterlichen Wohnhäusern und Gärten schließen kann, eine gute mittlere Wohlhabenheit, die immer noch eine gesunde Basis hat. Aber selbst von diesen Besten und Wohlhabendsten der alten Schule ist das neue Werk von Böhler eben durch das Maschinenzeitalter getrennt. Die Turbine als Motor hat das Wasserrad verdrängt, die Arbeitsmaschine das Hantieren, die Arbeitsteilung die alten Methoden. Es war schon Abend als wir in das Böhler'sche Werk kamen; es war elektrisch beleuchtet, grosse Arbeitsräume, Motoren, Transmissionen, mit einem Wort die neue Schule, die Fabrik an Stelle der Werkstätte. Wir standen alle unter dem Eindruck dieses Gegensatzes und hatten alle den Gedanken, daß der durch das Wasserrad unmittelbar auf- und niederklappernde Hammer auf die Dauer solchen neuen Anlagen nicht werde standhalten, daß es aber Aufgabe einer vorausschauenden Industriepolitik wäre, rechtzeitig einen Uebergang zu schaffen, damit nicht Kapital und Menschenkraft unnötig verschwendet werden in einem aussichtslosen Kampf. Konservativ, urkonservativ sind freilich die Menschen dieser Täler, aber Schulen wie die in Waidhofen wirken doch mit der Zeit und schließlich zwingt die Not und die absolute Unmöglichkeit in der bisherigen Weise fortzuarbeiten, die Menschen doch in die neuen Formen. Abends sehr </rdg>
+          <app from="#Bae_MF_2_6437" type="equal" xml:id="Bae_TB_3_367">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_368">reizender Muster mitgebracht hatte. In den Kreisen dieser höher strebenden Männer herrscht, soweit man aus ihren einfachen, aber behaglichen, etwas altväterlichen Wohnhäusern und Gärten schließen kann, eine gute mittlere Wohlhabenheit, die immer noch eine gesunde Basis hat. Aber selbst von diesen Besten und Wohlhabendsten der alten Schule ist das neue Werk von Böhler eben durch das Maschinenzeitalter getrennt. Die Turbine als Motor hat das Wasserrad verdrängt, die Arbeitsmaschine das Hantieren, die Arbeitsteilung die alten Methoden. Es war schon Abend als wir in das Böhler'sche Werk kamen; es war elektrisch beleuchtet, grosse Arbeitsräume, Motoren, Transmissionen, mit einem Wort die neue Schule, die Fabrik an Stelle der Werkstätte. Wir standen alle unter dem Eindruck dieses Gegensatzes und hatten alle den Gedanken, daß der durch das Wasserrad unmittelbar auf- und niederklappernde Hammer auf die Dauer solchen neuen Anlagen nicht werde standhalten, daß es aber Aufgabe einer vorausschauenden Industriepolitik wäre, rechtzeitig einen Uebergang zu schaffen, damit nicht Kapital und Menschenkraft unnötig verschwendet werden in einem aussichtslosen Kampf. Konservativ, urkonservativ sind freilich die Menschen dieser Täler, aber Schulen wie die in Waidhofen wirken doch mit der Zeit und schließlich zwingt die Not und die absolute Unmöglichkeit in der bisherigen Weise fortzuarbeiten, die Menschen doch in die neuen Formen. Abends sehr </rdg>
           </app>
           <anchor xml:id="Bae_TB_3_370"/>gemütlich 
           <app from="#Bae_MF_2_1361" type="notEqual" xml:id="Bae_TB_3_371">
@@ -2025,7 +2025,7 @@
             </index>
           </index> des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_1412">Grossgrundbesitzes</orgName> statt, die eine (grösstenteils von mir selbst verfasste) Kundgebung erlies, in welche aber schon durch Anregungen von verschiedenen Seiten deutliche Anzeichen des schwindenden Vertrauens Aufnahme fanden. 
-          <app from="#" type="equal" xml:id="Bae_TB_3_1413">
+          <app from="#Bae_MF_2_6440" type="equal" xml:id="Bae_TB_3_1413">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1414">ihn vollständig lahm und unfähig gemacht seine akademischen Intentionen durch Taten praktischer Politik zu unterstützen, wobei er mit gleicher Festigkeit gegen die Čechen wie gegen die Deutschen - wenn nötig - hätte auftreten müssen. Dazu war er nicht zu bewegen und wenn er noch am Anfang der Parlamentskampagne im März und April hie und da parlamentarisch etwas für die Deutschen durchsetzte, wie z.B. den Ausschluß von Kramar vom Präsidium und von der Obmannschaft des Budgetausschusses, so kamen solche Fälle später nicht mehr vor, sondern er verlegte seinen ganzen innern Schwerpunkt in das Lager der Čechen und Feudalen. Seit der Vertagung des Reichsrates mehrten sich auch in den čechischen Zeitungen die zuversichtlichen Aeusserungen bezüglich der Nichtaufhebung der Sprachenverordnungen. Freilich mehrten sich auf der andern Seite die Zweifel in die Fähigkeiten Thuns aus dem Labyrinth einen Ausweg zu finden. Am 16. Juni fand unter dem Vorsitz Oswald Thuns eine Obmännerkonferenz des Großgrundbesitzes statt, die eine (größtenteils von mir selbst verfasste) Kundgebung erließ, in welcher aber schon durch Anregungen von verschiedenen Seiten deutliche Anzeichen des schwindenden Vertrauens Aufnahme fanden.</rdg>
           </app>
           <!-- an dieser Stelle die Einklebung von fol. 25v und 26v -->
@@ -2097,7 +2097,7 @@
           </index> zu schreiten. 
         </p>
         <p xml:id="Bae_TB_3_1508">Diese Verhandlungen werden, wie verlautet, erst in einigen Wochen stattfinden. 
-          <app from="#" type="missing" xml:id="Bae_TB_3_1509">
+          <app from="#Bae_MF_2_6441" type="missing" xml:id="Bae_TB_3_1509">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1510"/>
           </app>
         </p>
@@ -2289,7 +2289,7 @@
           <index xml:id="Bae_TB_3_1653">
             <term key="Budget" xml:id="Bae_TB_3_1654">Budgetprovisoriums</term>
           </index> zu. In dem Kampf Aergeres zu verhüten hatte ich nicht verhindern können, dass das Provisorium auf 6 Monate decretirt wurde, eine ungerechtfertigt lange Zeit, wenn man 
-          <app from="#" type="equal" xml:id="Bae_TB_3_1655">
+          <app from="#Bae_MF_2_6446" type="equal" xml:id="Bae_TB_3_1655">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1656">zu einer tatkräfigen Initiative zu schreiten". Er verübelte uns hauptsächlich das Wort "endlich". Mehr und mehr schwenkte seit dieser Zeit die gesamte deutsche Presse aus ihrer reservierten Haltung in eine Kampfstellung gegen die Regierung, von den radikalen Organen natürlich abgesehen, die ihr Feuer von Anfang an nie eingestellt hatten. Um diese Zeit tauchte abermals die Nachricht auf Thun werde Dipauli ins Ministerium nehmen. Es war auch einmal vor einer Ministerrats-Sitzung die Rede von diesem Gerücht, über das sich Thun lustig machte wobei die Ministersektionschefs (so nenne ich alle mit Ausnahme von Welsersheimb und Kaizl) pflichtschuldigst höhnische Bemerkungen machten. Zu einer sehr ernsten Ausseinandersetzung zwischen mir und meinen Kollegen kam es Mitte Juni aus Anlaß des Budgetprovisoriums. Kaizl kam eines Tages mit der Idee, mittelst des § 14 nicht mehr ein Budgetprovisorium für einen Zeitraum nach dem letzten Juni, an welchem Tage das laufende Provisorium erlöschen würde, ein neues Provisorium zu erlassen, sondern den Notparagraph sofort auf das Budget selbst anzuwenden, d.h. das übliche Finanzgesetz mit allem, was damit zusammenhängt, pro 1898 durch Verordnung zu publizieren. Dies schien mir von der Verfassungsmäßigkeit noch weiter abzuweichen als der Erlass eines Provisoriums und ich vergewisserte mich bei den ruhigsten Mitgliedern meiner Partei, bei Chlumetzky sowohl wie bei Beck, daß ich diesem Plane meine Zustimmung unbedingt zu verweigern habe. In einem Ministerrat am 15. Juni kam die Sache zur Sprache, natürlich waren alle dafür. Kaizl machte Gründe der Bequemlichkeit geltend, bei Thun und einem oder dem andren Ministersektionschef regten sich mutige absolutistische Alluren. Offenbar war auch der Kaiser für den Plan gewonnen, der ihm als ein Ausdruck des Kraftbewußtseins geschildert worden war. Sachlich war es mir sehr leicht, zu widerlegen. Ein Provisorium tut dieselben Dienste; die Anwendung des § 14 auf das Finanzgesetz tangiert die wichtigste Prärogative des Hauses; wenn man im entferntesten daran denkt, das Haus wieder zu versammeln, so muß man diese unnötige, aufreizende Form sich budgetär zu helfen, vermeiden; ein solcher Schritt wird die schlimmste Auslegung erfahren und man wird der Regierung mit Recht weitgehende Absichten gegen die parlamentarischen Gewalten zuschreiben. Das war im wesentlichen der Kern meines Plaidoyers, dem ich nicht beizufügen unterließ, daß ich nur unter der Zusage der Einhaltung strikter Verfassungsmäßigkeit ins Kabinett eingetreten sei. Trotz alledem ließ Thun abstimmen und ich blieb allein. Weder der Ministerpräsident noch die Ministersektionschefs waren sich aber, wie ich sofort merkte, darüber klar, daß die Abstimmung die Sache nicht entschieden habe. Ich machte den Herren klar, daß zur Erlassung einer Verordnung nach § 14 die physischen Unterschriften aller Minister gehören und niemand trotz aller Abstimmungen gezwungen werden könne zu unterschreiben, allerdings dann bereit sein müsse die Konsequenzen zu ziehen. Nach dieser "Aufklärung" zog Thun sofort andere Saiten auf, erklärte die Abstimmung für eine informative und schloß die Sitzung. Ich teilte ihm und meinen Kollegen sofort mit, daß ich die vorgeschlagene Form des Budgets nicht akzeptieren würde. Die nächsten Tage vergingen mit Hin- und Herreden über die Frage; auch der nächste Ministerrat am 18. brachte keine Entscheidung, endlich erklärte ich dem Kaiser den Fall vorlegen zu wollen, nahm eine Audienz und wurde sofort am 20. zu Mittag empfangen. Ich setzte dem Kaiser die ganze Sache auseinander, bewies ihm, daß praktisch genommen kein Unterschied sei, daß aber verfassungsrechtlich gegen die von Kaizl vorgeschlagene Form schwere Bedenken erhoben werden können. Der Kaiser war von Thun, wie ich entnehmen konnte, schon vollkommen von dem Streitfall unterrichtet und wie ich ebenfalls sofort merkte, entschlossen, meinem Votum diesmal stattzugeben. Am Nachmittag war Ministerrat, Thun leitete den Umschwung in seiner Meinung geschickt ein, ich sprach nicht viel und alle, die Ministersektionschefs natürlich lautlos, Kaizl nach Markierung einiges Sträubens, stimmten der Form des Budgetprovisoriums zu. In dem Kampf Aergeres zu verhüten, hatte ich nicht verhindern können, daß das Provisorium auf 6 Monate dekretiert wurde, eine ungerechtfertigt lange Zeit, wenn man</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_1657"/>
@@ -2489,7 +2489,7 @@
             <abbr xml:id="Bae_TB_3_1776">o.</abbr>
             <expan xml:id="Bae_TB_3_1777">oder</expan>
           </choice> der andere der Ministersectionschefs auch Miene machte in seiner 
-          <app from="#" type="equal" xml:id="Bae_TB_3_1778">
+          <app from="#Bae_MF_2_6449" type="equal" xml:id="Bae_TB_3_1778">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_1779">Entfaltung meiner eigenen Opposition kam; wir machten doch einen solchen Eindruck, daß einer oder der andere der Ministersektionschefs auch Miene machte in seiner</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_1780"/>nur bedingten 
@@ -2995,7 +2995,7 @@
           <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_3_2082">Steinwender</persName> hielt Anfang August ( 
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_3_2083">N. fr. Presse</orgName> vom 
           <date when="1898-08-04" xml:id="Bae_TB_3_2084">4.8</date>) eine ausgezeichnete Rede gegen diese Velleitäten. 
-          <app from="#" type="equal" xml:id="Bae_TB_3_2085">
+          <app from="#Bae_MF_2_6452" type="equal" xml:id="Bae_TB_3_2085">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2086">In den Zeitungen spukten jetzt nachträglich noch Staatsstreichgelüste, offenbar verspätet ausgekommene Töne einer Melodie, die Thun in seinen Kreisen geblasen hatte, an die er aber jetzt schon wegen der Kürze der Zeit nicht mehr dachte. Steinwender hielt Anfang August (Neue freie Presse vom 4.VIII.) eine ausgezeichnete Rede gegen diese Velleitäten.</rdg>
           </app>
         </p>
@@ -3119,7 +3119,7 @@
         <p xml:id="Bae_TB_3_2167">Man soll es nur wissen: Wie man uns behandelt, so werden wir auch den Staat behandeln. Laßt uns ungeschoren, laßt uns unser nationales Leben ausleben, laßt uns den Kampf ausfechten gegen unsere Gegner. Wir brauchen keine Protection, aber keine Regierung soll es mehr wagen, sich gegen uns zu stellen! (Großer Beifall.)</p>
         <p xml:id="Bae_TB_3_2168">In den letzten anderthalb Jahren hat der nationale Gedanke ungeahnte Fortschritte gemacht; ich denke dabei an seine Ausbreitung auf große Kreise, die bisher dem Nationalismus fremd gegenübergestanden sind. Wir Deutsche müssen so vorgehen, daß wir eine ziemliche Anzahl von deutschen Bundesgenossen erhalten. Den 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_3_2169">verfassungstreuen Großgrundbesitz</orgName> vor den Kopf stoßen, paßt nicht. Heute muß Alles, was deutlich ist, zusammengehalten werden. Es handelt sich ja nicht um eine Partei, sondern um eine große Sache! 
-          <app from="#" type="missing" xml:id="Bae_TB_3_2170">
+          <app from="#Bae_MF_2_6453" type="missing" xml:id="Bae_TB_3_2170">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2171"/>
           </app>
         </p>
@@ -3188,7 +3188,7 @@
             <expan xml:id="Bae_TB_3_2288">und</expan>
           </choice>
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_3_2289">Stürgkh</persName> zusammen. Die 
-          <app from="#" type="equal" xml:id="Bae_TB_3_5645">
+          <app from="#Bae_MF_2_6458" type="equal" xml:id="Bae_TB_3_5645">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5646">Aktivierung des Patentamtes. Ministerialrat Beck leistete in der letzten Hinsicht eine riesige Arbeit. Das einzige Verdienst, welches ich mir bei der ganzen Sache zuschreiben kann, ist, daß ich ihn beständig aneiferte, so oft ich konnte mit ihm über die Arbeit sprach, mein Interesse zeigte, seine bureaukratischen Bedenken zerstreute. In einem Punkte war sowohl er als Weigelsperg anfangs bedenklich, nämlich wegen der deutschen Verhandlungssprache, die in einer Verordnung als ausnahmslose Regel statuiert war. Die Herren meinten, ich solle die Sache doch in den Ministerrat bringen, da aber alle Verordnungen den beteiligten Ministerien zur Einsicht geschickt und nicht bemängelt worden waren, so beruhigte ich die Herren und ließ die Verordnungen Mitte September im Reichsgesetzblatt erscheinen, ohne irgend jemanden weiter zu fragen. Nach dem Abschluss der Ausgleichskonferenzen und als klar war, daß die Regierung mit der ungarischen ein Abkommen für den Fall getroffen habe, als der Ausgleich diesseitig im Parlament nicht zustande kommen würde, hielt ich eine Besprechung mit meinen allernächsten Parteifreunden für notwendig. Bei Oswald Thun kamen am 6. September Auersperg, Chlumetzky, Schwegel und Stürgkh zusammen. Die</rdg>
           </app>
         </p>
@@ -3223,7 +3223,7 @@
           <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_3_2292">Auersperg</persName> meinte ich hätte den richtigen Zeitpunkt zum Austritt aus dem Cabinet verpasst, da ich den Abmachungen mit 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_2293">Ungarn</placeName>
           <del rendition="#s" xml:id="Bae_TB_3_2294">nicht</del> beigestimmt habe, wäre dies der Zeitpunkt gewesen. 
-          <app from="#" type="equal" xml:id="Bae_TB_3_2295">
+          <app from="#Bae_MF_2_6461" type="equal" xml:id="Bae_TB_3_2295">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2296">Meinungen waren anfangs sehr geteilt. Auersperg meinte ich hätte den richtigen Zeitpunkt zum Austritt aus dem Kabinett verpasst, da ich den Abmachungen mit Ungarn nicht beigestimmt habe, wäre dies der Zeitpunkt gewesen.</rdg>
           </app>
           <!-- DC Einklebung Einladung Ministerratssitzung 39v -->
@@ -3433,7 +3433,7 @@
           <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_3_2432">Bülow</persName> der am 
           <placeName key="Semmering" ref="https://www.geonames.org/2765170/semmering.html" xml:id="Bae_TB_3_2433">Semmering</placeName> war, richtete. Es war nicht chiffrirt, daher wol darauf berechnet dass es in unseren Regierungskreisen bekannt werde. Ich teilte es deshalb 
           <persName key="GoluchowskiAgenor" ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_TB_3_2434">Goluchowski</persName> mit, der es dem 
-          <app from="#" type="equal" xml:id="Bae_TB_3_5653">
+          <app from="#Bae_MF_2_6464" type="equal" xml:id="Bae_TB_3_5653">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5654">Telegramm aus Genf belehrt. Die Vorgänge dieser traurigen Tage sind aus den Zeitungen bekannt. Interessant war nur, in der Kapuzinerkirche während der Zeremonie den deutschen Kaiser fast eine Stunde lang gerade vis à vis zu haben und ihn beobachten zu können. Er wurde mit den anderen Fürstlichkeiten von unserem Kaiser hereingeleitet, sah in der roten österreichischen Uniform sehr gut aus, stellte sich in die Bank, die eine Hand in die Seite gestemmt die andere am Säbelkorb und rührte sich während der ganzen Zeit buchstäblich nicht. Er stand wie eine Statue da, und nur als der Sarg der Kaiserin hereingetragen wurde, folgte sein Blick mit einer leisen Wendung des Kopfes. Als alles vorbei war, trat er über Aufforderung unseres Kaisers aus der Bank und machte den ihm gegenüberstehenden dicht gedrängten Würdenträgern unseres Reiches eine kurze förmliche Verbeugung. Ganz impulsiv war auch das Telegramm, das er gleich nach Erhalt der Trauernachricht vom Marmorpalais an Bülow, der am Semmering war, richtete. Es war nicht chiffriert, daher wohl darauf berechnet daß es in unseren Regierungskreisen bekannt werde. Ich teilte es deshalb Goluchowski mit, der es dem</rdg>
           </app>
         </p>
@@ -3445,7 +3445,7 @@
         </p>
         <p xml:id="Bae_TB_3_2465">
           <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_3_2466">Wilhelm J.R.</persName>
-          <app from="#" type="equal" xml:id="Bae_TB_3_5656">
+          <app from="#Bae_MF_2_6470" type="equal" xml:id="Bae_TB_3_5656">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5657">Dolche des Mörders, auf offener Straße, am hellen Mittage getroffen ward, weil sie das "Unglück" hatte, von Gottes Gnaden eine Krone tragen zu dürfen, Die Staatsoberhäupter sind ja schon lange nach vielen Ansichten gewissermaßen berechtigtes Wild für Mordbuben, aber daß dieses sich auch bereits auf die Fürstinnen erstreckt, ist über Maß und Geduld! Jeder Anfrage und Anregung Österreichs bezüglich des Schweizer Asylrechts für Hallunken, und Maßregeln gegen Anarchisten ist bereitwilligst Folge zu geben; was bei uns zu geschehen hat, werde Ich nach Ihrem Vortrag befehlen. Gehandelt soll werden. Wilhelm J.R.</rdg>
           </app>
         </p>
@@ -3455,7 +3455,7 @@
         <p xml:id="Bae_TB_3_5559">
           <anchor xml:id="Bae_TB_3_5658"/>
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_2437">Kaiser</persName> vorlegte. 
-          <app from="#" type="equal" xml:id="Bae_TB_3_2438">
+          <app from="#Bae_MF_2_6467" type="equal" xml:id="Bae_TB_3_2438">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2439">Kaiser vorlegte.</rdg>
           </app>
         </p>
@@ -3514,7 +3514,7 @@
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_2499">Kaiser</persName> habe gesagt, da alle Jubiläumsfeierlichkeiten zu entfallen haben, sei jetzt auch kein Hinderniss energisch zu regieren. Es ist ja ganz begreiflich, dass die 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_3_2500">Krone</persName> den Eindruck haben musste, dass dies bisher 
           <hi rendition="#ul" xml:id="Bae_TB_3_2501">nicht</hi> der Fall sei. Sehr 
-          <app from="#" type="equal" xml:id="Bae_TB_3_5660">
+          <app from="#Bae_MF_2_6473" type="equal" xml:id="Bae_TB_3_5660">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5661">Der Tod der Kaiserin hatte nicht unmittelbare politische Folgen, wohl aber indirekte. Anfangs hatte Thun allerdings die Idee, die Stimmung politisch zu verwerten. Er sagte mir einmal in diesen Tagen, ich solle meine Leute, Kaizl die seinigen zusammenrufen und es wäre angesichts dieses Unglücks und unter dem unmittelbaren Eindruck desselben ein Verständigungsversuch zu machen. Ich ging zwar zu Kaizl, welcher aber von vornherein die Sache gar nicht ernst nahm und als er merkte, daß ich derselben Ansicht sei, sogar schlechte Witze über die Rührung Thuns machte. Indirekt verscheuchte der Tod der Kaiserin die letzten Reste der "Jubiläumspolitik". Diese war ja am Anfang des Ministeriums bei Thun sehr ausgeprägt und ich glaube, er wollte in diesem Jahre überhaupt temporisieren. Der ungarische Ausgleichsstandpunkt verhinderte dies schon im Sommer, jetzt fielen aber alle Rücksichten und Thun berichtete uns auch einmal, der Kaiser habe gesagt, da alle Jubiläumsfeierlichkeiten zu entfallen haben, sei jetzt auch kein Hindernis, energisch zu regieren. Es ist ja ganz begreiflich, daß die Krone den Eindruck haben musste, daß dies bisher nicht der Fall sei. Sehr</rdg>
           </app>
         </p>
@@ -3554,7 +3554,7 @@
           <index xml:id="Bae_TB_3_2510">
             <term key="Verwaltung" xml:id="Bae_TB_3_2511">Verwaltung</term>
           </index> gekommen. 
-          <app from="#" type="equal" xml:id="Bae_TB_3_2512">
+          <app from="#Bae_MF_2_6476" type="equal" xml:id="Bae_TB_3_2512">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2513">bezeichnend in dieser Richtung war es jedenfalls, daß der Kaiser in einem Ministerrat, der unter seinem Vorsitze am 19. September wegen der Sanktionierung der Gesetze über die Beamtengehalte stattfand, nach Erledigung der Tagesordnung einen Appell an das Ministerium richtete, dafür zu sorgen, daß die Autorität kräftiger aufrecht erhalten werde. Es sei ein bedauerliches Schwanken in die Verwaltung gekommen.</rdg>
           </app>
         </p>
@@ -3618,7 +3618,7 @@
           </app>
         </p>
       </div>
-      <div n="1898" type="diaryEntry" xml:id="Bae_TB_3_2569">
+      <div n="1898-08" type="diaryEntry" xml:id="Bae_TB_3_2569">
         <anchor xml:id="Bae_TB_3_2570"/>
         <head xml:id="Bae_TB_3_2571">
           <hi rendition="#ul" xml:id="Bae_TB_3_2572">III. 
@@ -3914,7 +3914,7 @@
               <term key="Obmaennerkonferenz" xml:id="Bae_TB_3_2731"/>
             </index>
           </index>, Vermittler zwischen 
-          <app from="#" type="equal" xml:id="Bae_TB_3_2732">
+          <app from="#Bae_MF_2_6479" type="equal" xml:id="Bae_TB_3_2732">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2733">Anfangs wollte Thun von der Obmännerkonferenz, auf die ihn Pergelt verwies, nichts wissen, da es seine Absicht war nur mit einzelnen Vertrauensmännern zu verhandeln, doch überredete ihn Schwegel endlich dieses Forum schon für die Vorfrage, ob überhaupt verhandelt werden solle oder nicht, zu akzeptieren. In den nun folgenden Verhandlungen spielte Schwegel die Hauptrolle. Er war (da Funke sich der ganzen Sache entzog) Vorsitzender der Obmännerkonferenz, Vermittler zwischen</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_2734"/>dieser 
@@ -4039,7 +4039,7 @@
         <p xml:id="Bae_TB_3_2795">Mißlingt auch dieser Versuch, dann wird der in maßgebenden Kreisen jetzt schon vielfach vertretene und gegen den Bestand des jetztigen 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_2796">Parlaments</orgName> ausgespielte Beweis unwiderleglich gegeben sein, daß es so nicht weitergeht, und allen mehr oder minder verborgenen Plänen zur Aenderung der gegenwärtigen Verfassung ist dann Thür und Thor geöffnet. Eine Entscheidung von weittragender Bedeutung ruht also in den Händen der deutschen Vertrauensmänner, die sich am Sonntag in den Räumen des 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_3_2797">Abgeordnetenhauses</orgName> versammeln. Ein negativer Beschluß kann Alles in Frage stellen, was die Entwicklung von vier Jahrhunderten gezeigt hat. Im Interesse einer gefundenen Entwicklung der österreichischen Monarchie, im Interesse des politischen und wirthschaftlichen Gedeihens aller Völker dieses Staates kann man nur lebhaft wünschen, daß der große Moment auch ein großes Geschlecht finde." 
-          <app from="#" type="missing" xml:id="Bae_TB_3_2798">
+          <app from="#Bae_MF_2_6480" type="missing" xml:id="Bae_TB_3_2798">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2799"/>
           </app>
         </p>
@@ -4167,7 +4167,7 @@
             <abbr xml:id="Bae_TB_3_2950">u.</abbr>
             <expan xml:id="Bae_TB_3_2951">und</expan>
           </choice> fluktuierender Bevölkerung; 
-          <app from="#" type="equal" xml:id="Bae_TB_3_2952">
+          <app from="#Bae_MF_2_6485" type="equal" xml:id="Bae_TB_3_2952">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_2953">Die drei Deputieerten waren in seinem Büro, hatten ausführlich u. ganz sachlich die Grundzüge kritisiert; es wäre möglich gewesen den Faden weiterzuspinnen, aber entweder fehlte bei Thun der Wille o. die Geistesgegenwart. Hauptgravamina, wie der čechische Charakter der Prager Behörden sowie die Anwendung seiner Grundsätze auf Mähren ließ er selbst später fallen, in dieser Konferenz fand er aber kein Wort des Entgegenkommens, keinen staatsmännischen Schwung die politische Situation im großen Ganzen zu besprechen, irgend einen Eindruck auf die Herren zu machen, irgend ein Mittel, das Eis zu brechen. Die Mitglieder der Obmännerkonferenz waren in Wien geblieben – auch das war Schwegel gelungen! – um eventuell noch weiter zu beraten, Thun ließ diese letzte Gelegenheit fahren. Hier zeigte er sich als der kalte Aristokrat, der für die Gefühle eines gereizten Volkes gar kein Verständniss hat. Schwegel erzählte von seiner ersten Konferenz mit Thun, in der er ihn überredete, die Obmännerkonferenz zu akzeptieren, daß er sich als hart, unzugänglich erwiesen habe. Damals gerieten die beiden hart aneinander, aber Schwegel wollte niemals alles erzählen was Thun damals in kindischem Aerger gesagt hatte. Es ist jetzt wohl am Platze, wenn ich meine eigenen Bedenken gegen die Thun'schen "Grundzüge" kurz zusammenfasse. Thun hatte dieselben nie formell in den Ministerrat gebracht, sondern dort nur allgemein davon gesprochen und ich glaube nicht, daß ausser Kaizl, Bylandt und mir einer der andern Minister dieselben genau gekannt haben, vielleicht Ruber was die Justiz betrifft. Vom Ministerrate hatte Thun nur die Vollmacht eingeholt mit den Parteien zu verhandeln; über das Meritum hätte man sich nie und nimmermehr geeinigt. Aber Thun sah doch ein, wiewohl ich mich vorläufig zurückhielt, daß der Tag kommen werde, an dem auch der Ministerrat Stellung zu seiner Idee werde nehmen müssen und er veranstaltete daher eine "Ministerbesprechung" ohne Schriftführer, an der nur Kaizl, Bylant und ich, vielleicht auch Ruber, was ich aber nicht mehr genau weiß – teilnahmen. Es war dabei in erster Reihe auf meine Ansicht abgesehen, die ich sehr ausführlich entwickelte. Ich bezeichnete zunächst einige Punkte als prima facie ganz unannehmbar; so den ausschließlichen čechischen Charakter der Prager Behörden, in einer Stadt, wo eine deutsche Minorität ein unverhältnismäßig großes Perzent aller Steuern zahle, wo ein zahlreiches deutsches Bürgertum seit Jahrhunderten seinen Sitz hat, wo die älteste deutsche Universität besteht! Ebenso ganz unmöglich erklärte ich den Zusammenhang, den er zwischen den čechischen Behörden Böhmens und Mährens dadurch herstellen wollte, daß sie auch über die Landesgrenzen mit einander čechisch korrespondieren können, was die Herstellung einer Verbindung zwischen diesen beiden Kronländern bedeutete, die ihnen eine Sonderstellung innerhalb der Reichshälfte gegeben hätte, einen Anklang an die angestrebte Vereinigung der Nebenländer der böhmischen Krone. Die "Grundzüge" beruhten äusserlich genommen allerdings auf einem Gedanken, der von deutscher Seite propagiert worden war: deutsches, čechisches, gemischtes Gebiet, reziproke Geltung der sprachlichen Regeln in den beiden erstern, Zweisprachigkeit in dem letzteren. Thun komplizierte aber diesen Gedanken und schuf 5 Zonen: deutsch, überwiegend deutsch, gemischt, überwiegend böhmisch, böhmisch. In jeder Zone ein anderes Sprachenrecht, die Zonen nach jeder Volkszählung veränderlich. Die reine Kopfzahl entscheidend; gar kein Unterschied zwischen ansässigen und fluktuierender Bevölkerung; </rdg>
           </app>
           <anchor xml:id="Bae_TB_3_2955"/>keine Rücksicht auf die Steuerleistung. 
@@ -4637,7 +4637,7 @@
           </app>
         </p>
       </div>
-      <div n="#" type="diaryEntry" xml:id="Bae_TB_3_3292">
+      <div n="1898-09" type="diaryEntry" xml:id="Bae_TB_3_3292">
         <anchor xml:id="Bae_TB_3_5325"/>
         <head xml:id="Bae_TB_3_3293">
           <hi rendition="#ul" xml:id="Bae_TB_3_3294">IV. Der 
@@ -5190,7 +5190,7 @@
             <expan xml:id="Bae_TB_3_3675">und</expan>
           </choice> vielleicht noch nie dagewesen 
           <add place="across" xml:id="Bae_TB_3_3676">sei</add>, dass bei einer Vereinbarung das Recht auf 
-          <app from="#" type="equal" xml:id="Bae_TB_3_3677">
+          <app from="#Bae_MF_2_6488" type="equal" xml:id="Bae_TB_3_3677">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_3678">machte den Versuch den Lieferungsartikel im Zoll- und Handelsbündniss, der zuletzt in einer ganz unmöglichen Fassung vereinbart worden war zu redressieren. Glanz hatte unglaublicherweise in eine Formulierung gewilligt, die besagte, daß Personen und Produkte der beiden Staatsgebiete zwar grundsätzlich mit den einheimischen gleichgestellt sein sollten, daß aber dadurch das Recht der Zuerkennung nicht berührt und "die Ausübung dieses Rechtes keinem der beiden Teile Anlass zu Beschwerden gegen den andern geben kann". Ich machte geltend, daß es vorkomme, daß Vereinbarungen oder gesetzliche Bestimmungen ohne eine Sanktion statuiert werden, was natürlich unter Umständen ein Mangel sei, daß es aber ein unerhörter Vorgang wäre und vielleicht noch nie dagewesen sei, daß bei einer Vereinbarung das Recht auf</rdg>
           </app>
           <anchor xml:id="Bae_TB_3_3679"/>
@@ -5350,23 +5350,23 @@
         </p>
         <p xml:id="Bae_TB_3_3796">
           <anchor xml:id="Bae_TB_3_3797"/>Auf der Rückfahrt war ich lange mit 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3798">Thun</persName> zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, dass er mir damals in vielen Punkten, die ich erörterte Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maase von klaren Ideen 
+          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3798">Thun</persName> zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, dass er mir damals in vielen Punkten, die ich erörterte Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maase von klaren Ideen <app from="#Bae_MF_2_3374" type="equal"><rdg wit="Bae_MF_2">Auf der Rückfahrt war ich lange mit Thun zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, daß er mir damals in vielen Punkten, die ich erörterte, Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maße von klaren Ideen,</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_3_121" n="69v" xml:id="Bae_TB_3_5594"/>
         <addSpan spanTo="#Bae_TB_3_5601" type="insertion" xml:id="Bae_TB_3_5595"/>
         <p xml:id="Bae_TB_3_5596">bezüglich der Erneuerung des Zoll- und Handelsbündnisses fordert die ungarische Regierung in Oesterreich "vollkräftige Gesetze", widrigenfalls das Selbstbestimmungsrecht Ungarns Platz greift; ein in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_5597">Oesterreich</placeName> auf Grund des Notparagraphen beruhendes Zoll- und Handelsbündnis könne 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_3_5598">Ungarn</placeName> nicht eingehen; ebenso wenig könnte es einem Provisorium zustimmen, ausser in dem einzigen Fall als das Zoll- und Handelbündnis in aussichtsreicher parlamentarischer Verhandlung in 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_5599">Oesterreich</placeName> stände und nur ein weiterer Zeitaufwand noch nötig wäre. Damit war der österreichischen Regierung die Schling um den Hals gelegt. 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_3_5599">Oesterreich</placeName> stände und nur ein weiterer Zeitaufwand noch nötig wäre. Damit war der österreichischen Regierung die Schling um den Hals gelegt.
         </p>
         <note type="editorial" xml:id="Bae_TB_3_5600">Hier handelt es sich um eine nachträgliche Einfügung von Baernreither für das Manuskript Fragmente.</note>
         <anchor xml:id="Bae_TB_3_5601"/>
         <!-- anchor für addspan 69v -->
         <pb facs="#F_K-4_Bae_TB_3_122" n="70r" xml:id="Bae_TB_3_3800"/>
+        <anchor/>
         <p xml:id="Bae_TB_3_5602">wie dieselbe politisch zur Geltung zu bringen 
-          <app from="#Bae_MF_2_3374" type="equal" xml:id="Bae_TB_3_3801">
-            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_3802">Auf der Rückfahrt war ich lange mit 
-              <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_3803">Thun</persName> zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, daß er mir damals in vielen Punkten, die ich erörterte, Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maße von klaren Ideen, wie dieselbe politisch zur Geltung zu bringen 
+          <app from="#" type="equal" xml:id="Bae_TB_3_3801">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_3802">wie dieselbe politisch zur Geltung zu bringen 
             </rdg>
           </app>
           <anchor xml:id="Bae_TB_3_3804"/>wären. 
@@ -7440,7 +7440,7 @@
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5313">Verhandlungen zu pflegen. Hier in Ischl blieben beide Teile auf ihrem Standpunkt, Banffy auf dem seiner Note vom 10. August und wir auf dem unseres Ministerrates vom 11. August d.h. auf unserem Verlangen den status quo zur Grundlage einer provisorischen Verlängerung des Ausgleiches zu machen. Wäre ich nicht gewesen, so hätte Thun schon in Ischl mit sich handeln lassen. Kaizl sprach schon davon, man könne ja vielleicht die neuen Abmachungen zum Inhalt eines Provisoriums machen, was ich sehr entschieden verneinte, so daß Thun die Idee nicht aufnahm. Aber wie sich später herausstellte war die Schlacht doch schon damals in Ischl verloren gegangen, denn es war Banffy gelungen, den Kaiser von der Richtigkeit des ungarischen Standpunktes zu überzeugen. Das war schon in Ischl an der veränderten Haltung Goluchowskiy und Kallays zu bemerken. Die beiden waren in Wien, wie schon erwähnt, noch geneigt gewesen, uns die Stange zu halten, in Ischl waren sie auf ungarischer Seite. Goluchowski hatte sich eine Phrase zurechtgelegt, die er immer wiederholte. Die Spanier hätten auch Cuba und Portorico hergeben müssen, weil sie den Krieg verloren hätten und Kallay meinte cynisch: "wehrt Euch so lange Ihr könnt, aber schließlich werdet ihr nachgeben müssen". In Ischl mag das so sehr verschiedene Kaliber Banffys und Thuns beim Kaiser so recht zum Ausdruck gekommen sein. Wie sehr dieses Kaliber verschieden ist, das sollte ich allerdings erst aus Anlaß der in den nächsten Tagen stattfindenden Ministerkonferenzen unter dem Vorsitz des Kaisers recht anschaulich kennen lernen, aber damals in Ischl mag diese Verschiedenheit den Ausschlag gegeben haben. Noch am 15. Nachmittags oder abends verließen die Minister Ischl. Ich fuhr nach Hallstadt, wo ich ein paar Stunden bei schönstem Wetter zubrachte, ein im wahren Sinne des Wortes erfrischendes Bad im See nahm, das mir nach den heissen Tagen in Ischl doppelt wohl tat. Abends fuhr ich nach Aussee zu Chlumetzky, bei dem ich über Nacht blieb. Er billigte vollkommen mein Verhalten. Anderntags fuhr ich zu Wagen nach Goisern, wo ich den bekannten und berühmten dortigen Konsumverein besichtigte und war Abends in Wien.</rdg>
           </app>
         </p>
-        <!-- CA: bis hier korrespondiert es mit MF_2 hier das letzte Bild ist 212.tif -->
+        <!-- CA: bis hier korrespondiert es mit MF_2 hier das letzte Bild ist 212 -->
       </div>
     </body>
   </text>
