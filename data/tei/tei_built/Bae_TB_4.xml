@@ -64,7 +64,9 @@
       </editorialDecl>
     </encodingDesc>
     <profileDesc xml:id="Bae_TB_4_45">
-      <creation><date from="1898-10" to="1899-05">1898-1899</date></creation>
+      <creation xml:id="Bae_TB_4_8554">
+        <date from="1898-10" to="1899-05" xml:id="Bae_TB_4_8555">1898-1899</date>
+      </creation>
       <langUsage xml:id="Bae_TB_4_46">
         <language ident="deu" xml:id="Bae_TB_4_47">Deutsch</language>
       </langUsage>
@@ -2509,15 +2511,15 @@
         </p>
         <anchor xml:id="Bae_TB_4_1635"/>
         <app from="#Bae_TB_4_1644" type="insertion" xml:id="Bae_TB_4_1636">
-          <rdg xml:id="Bae_TB_4_1637">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_1637">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_1638"/>
         <app from="#Bae_TB_4_1817" type="insertion" xml:id="Bae_TB_4_1639">
-          <rdg xml:id="Bae_TB_4_1640">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_1640">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_1641"/>
         <app from="#Bae_TB_4_1936" type="insertion" xml:id="Bae_TB_4_1642">
-          <rdg xml:id="Bae_TB_4_1643">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_1643">…</rdg>
         </app>
         <!-- DC: hier her Zeitungsausschnitt fol. fol. 35v, 36v, 37v -->
         <pb facs="#F_K-4_Bae_TB_4_071" n="35v" xml:id="Bae_TB_4_1645"/>
@@ -3611,11 +3613,11 @@
         </p>
         <anchor xml:id="Bae_TB_4_2353"/>
         <app from="#Bae_TB_4_2230" type="insertion" xml:id="Bae_TB_4_2354">
-          <rdg xml:id="Bae_TB_4_2355">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_2355">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_2356"/>
         <app from="#Bae_TB_4_2316" type="insertion" xml:id="Bae_TB_4_2357">
-          <rdg xml:id="Bae_TB_4_2358">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_2358">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_2359">
           <anchor xml:id="Bae_TB_4_8367"/>Das Spiel war also für mich zu ungleich. Vielleicht wäre manches anders geworden, wenn die 
@@ -3955,7 +3957,7 @@
         </p>
         <anchor xml:id="Bae_TB_4_2548"/>
         <app from="#Bae_TB_4_2399" type="insertion" xml:id="Bae_TB_4_2549">
-          <rdg xml:id="Bae_TB_4_8414">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_8414">…</rdg>
         </app>
         <!-- DC: Hier ist Verweiszeichen auf Einklebung von fol. 43v -->
         <pb facs="#F_K-4_Bae_TB_4_089" n="44v" xml:id="Bae_TB_4_2550"/>
@@ -4607,7 +4609,7 @@
         <!-- DC: Einklebung Abschrift des Demissionsgesuchs Baernreithers 47v -->
         <anchor xml:id="Bae_TB_4_2993"/>
         <app from="#Bae_TB_4_2830" type="insertion" xml:id="Bae_TB_4_2994">
-          <rdg xml:id="Bae_TB_4_2995">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_2995">…</rdg>
         </app>
         <pb facs="#F_K-4_Bae_TB_4_097" n="48v" xml:id="Bae_TB_4_2996"/>
         <note type="editorial" xml:id="Bae_TB_4_2997">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
@@ -4945,7 +4947,7 @@
           </hi>
           <anchor xml:id="Bae_TB_4_3205"/>
           <app from="#Bae_TB_4_3155" type="insertion" xml:id="Bae_TB_4_3206">
-            <rdg xml:id="Bae_TB_4_3207">&#8230;</rdg>
+            <rdg xml:id="Bae_TB_4_3207">…</rdg>
           </app>
           <anchor xml:id="Bae_TB_4_8477"/>Gerade in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_3208">Österreich</placeName> müsste ein Monarch vielfältige Informationen einziehen. Die 
@@ -5187,7 +5189,8 @@
           <app from="#Bae_MF_2_6312" type="missing" xml:id="Bae_TB_4_8502">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8503">und von dessen Hinrichtung mir seinerzeit in Heidelberg ein alter Herr erzählte, daß Frauen sich herangedrängt hätten, um von dem Blute Sands einige Tropfen in ihren Taschentüchern aufzufangen.</rdg>
           </app>. 
-        </p><anchor/>
+        </p>
+        <anchor xml:id="Bae_TB_4_8556"/>
         <p xml:id="Bae_TB_4_3371">Nach 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_3372">Österreich</placeName> zurückgekehrt brachte ich die Monate 
           <date when="1898-10" xml:id="Bae_TB_4_3373">
@@ -5220,7 +5223,10 @@
           <pb facs="#F_K-4_Bae_TB_4_107" n="53v" xml:id="Bae_TB_4_3393"/>
           <note type="editorial" xml:id="Bae_TB_4_3394">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_4_108" n="54r" xml:id="Bae_TB_4_3395"/> Ministerschaft hatte ich von allen wichtigen Akten Abschriften machen lassen, aus denen die Beilagen zu den vorstehenden Aufzeichnungen bestehen. Ausserdem hatte ich eine Menge Notizen, aus denen ich in dem stillen 
-          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_3396">Lünz</placeName> die Niederschrift über meine Ministerzeit machte, die von Seite 58 des zweiten Bandes dieser Folge bis zu dieser Stelle reicht. <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
+          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_3396">Lünz</placeName> die Niederschrift über meine Ministerzeit machte, die von Seite 58 des zweiten Bandes dieser Folge bis zu dieser Stelle reicht. 
+          <app from="#" type="missing" xml:id="Bae_TB_4_8557">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8558"/>
+          </app>
           <!-- DC: Datierung von fol. 58 Bd. 2 bis hierher Lünz Dezember 1898!!!-->
         </p>
         <p xml:id="Bae_TB_4_3397">
@@ -7075,15 +7081,15 @@
         <!-- DC Einklebung Zeitungsartikel von fol. 63v, 64v und 65v -->
         <anchor xml:id="Bae_TB_4_4825"/>
         <app from="#Bae_TB_4_4058" type="insertion" xml:id="Bae_TB_4_4826">
-          <rdg xml:id="Bae_TB_4_4827">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_4827">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_4828"/>
         <app from="#Bae_TB_4_4160" type="insertion" xml:id="Bae_TB_4_4829">
-          <rdg xml:id="Bae_TB_4_4830">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_4830">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_4831"/>
         <app from="#Bae_TB_4_4269" type="insertion" xml:id="Bae_TB_4_4832">
-          <rdg xml:id="Bae_TB_4_4833">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_4833">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_4834">Mein 
           <placeName key="Muenchen" ref="http://www.geonames.org/2867714/munich.html" xml:id="Bae_TB_4_4835">München</placeName> Aufenthalt war 
@@ -7131,11 +7137,11 @@
         </p>
         <anchor xml:id="Bae_TB_4_4866"/>
         <app from="#Bae_TB_4_4311" type="insert" xml:id="Bae_TB_4_4867">
-          <rdg xml:id="Bae_TB_4_4868">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_4868">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_4869"/>
         <app from="#Bae_TB_4_5048" type="insertion" xml:id="Bae_TB_4_4870">
-          <rdg xml:id="Bae_TB_4_4871">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_4871">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_4872">Heute glaube ich, kann ich ruhig 
           <choice xml:id="Bae_TB_4_4873">
@@ -7878,15 +7884,15 @@
         <!-- hierher Zeitungsausschnitt fol. 72v und 73v -->
         <anchor xml:id="Bae_TB_4_5440"/>
         <app from="#Bae_TB_4_5293" type="insertion" xml:id="Bae_TB_4_5441">
-          <rdg xml:id="Bae_TB_4_5442">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_5442">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_5443"/>
         <app from="#Bae_TB_4_5456" type="insertion" xml:id="Bae_TB_4_5444">
-          <rdg xml:id="Bae_TB_4_5445">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_5445">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_5446"/>
         <app from="#Bae_TB_4_5571" type="insertion" xml:id="Bae_TB_4_5447">
-          <rdg xml:id="Bae_TB_4_5448">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_5448">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_5449">Von einiger Tragweite kann der Beschluss werden die national- 
           <choice xml:id="Bae_TB_4_5450">
@@ -8948,7 +8954,7 @@
         </p>
         <anchor xml:id="Bae_TB_4_6272"/>
         <app from="#Bae_TB_4_6096" type="insertion" xml:id="Bae_TB_4_6273">
-          <rdg xml:id="Bae_TB_4_6274">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_6274">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_6275">
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_6276">Thun</persName> erwiderte "es liege so etwas in der Luft. Es werden die Čechen nicht zufrieden sein 
@@ -9028,7 +9034,7 @@
         </p>
         <anchor xml:id="Bae_TB_4_6331"/>
         <app from="#Bae_TB_4_6343" type="insertion" xml:id="Bae_TB_4_6332">
-          <rdg xml:id="Bae_TB_4_6333">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_6333">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_6334">Die oppositionelle Haltung gegen 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_6335">Thun</persName> war selbst bei den conservativsten Mitgliedern wie 
@@ -9369,11 +9375,11 @@
         <!-- DC: hierher Zeitungsausschnitt von fol. 85v und 86v -->
         <anchor xml:id="Bae_TB_4_6587"/>
         <app from="#Bae_TB_4_6434" type="insertion" xml:id="Bae_TB_4_6588">
-          <rdg xml:id="Bae_TB_4_6589">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_6589">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_6590"/>
         <app from="#Bae_TB_4_6521" type="insertion" xml:id="Bae_TB_4_6591">
-          <rdg xml:id="Bae_TB_4_6592">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_6592">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_6593">Zugleich setzte ich mich aber, da 
           <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_4_6594">
@@ -10322,55 +10328,55 @@
         <!-- DC: hierher Einklebung Zeitungsausschnitt von 87v, 88v, 89v, 90v, 91v, 92v, 93v, 94v, 95v, 96v, 97v, 98v und 99v -->
         <anchor xml:id="Bae_TB_4_7305"/>
         <app from="#Bae_TB_4_6653" type="insertion" xml:id="Bae_TB_4_7306">
-          <rdg xml:id="Bae_TB_4_7307">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7307">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7308"/>
         <app from="#Bae_TB_4_6830" type="insertion" xml:id="Bae_TB_4_7309">
-          <rdg xml:id="Bae_TB_4_7310">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7310">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7311"/>
         <app from="#Bae_TB_4_6996" type="insertion" xml:id="Bae_TB_4_7312">
-          <rdg xml:id="Bae_TB_4_7313">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7313">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7314"/>
         <app from="#Bae_TB_4_7096" type="insertion" xml:id="Bae_TB_4_7315">
-          <rdg xml:id="Bae_TB_4_7316">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7316">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7317"/>
         <app from="#Bae_TB_4_7237" type="insertion" xml:id="Bae_TB_4_7318">
-          <rdg xml:id="Bae_TB_4_7319">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7319">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7320"/>
         <app from="#Bae_TB_4_7373" type="insertion" xml:id="Bae_TB_4_7321">
-          <rdg xml:id="Bae_TB_4_7322">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7322">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7323"/>
         <app from="#Bae_TB_4_7456" type="insertion" xml:id="Bae_TB_4_7324">
-          <rdg xml:id="Bae_TB_4_7325">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7325">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7326"/>
         <app from="#Bae_TB_4_7538" type="insertion" xml:id="Bae_TB_4_7327">
-          <rdg xml:id="Bae_TB_4_7328">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7328">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7329"/>
         <app from="#Bae_TB_4_7606" type="insertion" xml:id="Bae_TB_4_7330">
-          <rdg xml:id="Bae_TB_4_7331">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7331">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7332"/>
         <app from="#Bae_TB_4_7671" type="insertion" xml:id="Bae_TB_4_7333">
-          <rdg xml:id="Bae_TB_4_7334">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7334">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7335"/>
         <app from="#Bae_TB_4_7703" type="insertion" xml:id="Bae_TB_4_7336">
-          <rdg xml:id="Bae_TB_4_7337">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7337">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7338"/>
         <app from="#Bae_TB_4_7748" type="insertion" xml:id="Bae_TB_4_7339">
-          <rdg xml:id="Bae_TB_4_7340">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7340">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7341"/>
         <app from="#Bae_TB_4_7799" type="insertion" xml:id="Bae_TB_4_7342">
-          <rdg xml:id="Bae_TB_4_7343">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7343">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_7344">Entscheidend für das Gelingen war der gute Wille aller Betheiligten 
           <choice xml:id="Bae_TB_4_7345">
@@ -10849,7 +10855,7 @@
         </p>
         <p xml:id="Bae_TB_4_7713">2. Das Land 
           <placeName key="Kaernten" ref="https://www.geonames.org/2774686/kaernten.html" xml:id="Bae_TB_4_7714">Kärnten</placeName> ist mit Ausnahme der Bezirksgerichtssprengel 
-          <placeName key="BadBleiberg" ref="https://www.geonames.org/7871662/bad-bleiberg.html"  xml:id="Bae_TB_4_7715">Bleiberg</placeName>, 
+          <placeName key="BadBleiberg" ref="https://www.geonames.org/7871662/bad-bleiberg.html" xml:id="Bae_TB_4_7715">Bleiberg</placeName>, 
           <placeName key="Eberndorf" ref="https://www.geonames.org/7871673/eberndorf.html" xml:id="Bae_TB_4_7716">Eberndorf</placeName>, 
           <placeName key="Eisenkappel" ref="https://www.geonames.org/7871529/eisenkappel-vellach.html" xml:id="Bae_TB_4_7717">Eisenkappl</placeName>, 
           <placeName key="Voelkermarkt" ref="https://www.geonames.org/7872806/voelkermarkt.html" xml:id="Bae_TB_4_7718">Völkermarkt</placeName>, 
@@ -10996,19 +11002,19 @@
         <!-- Einklebung hier fol. 96r, 97r und 98 hier einfügen!! -->
         <anchor xml:id="Bae_TB_4_7837"/>
         <app from="#Bae_TB_4_7661" type="insertion" xml:id="Bae_TB_4_7838">
-          <rdg xml:id="Bae_TB_4_7839">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7839">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7840"/>
         <app from="#Bae_TB_4_7693" type="insertion" xml:id="Bae_TB_4_7841">
-          <rdg xml:id="Bae_TB_4_7842">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7842">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7843"/>
         <app from="#Bae_TB_4_7735" type="insertion" xml:id="Bae_TB_4_7844">
-          <rdg xml:id="Bae_TB_4_7845">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7845">…</rdg>
         </app>
         <anchor xml:id="Bae_TB_4_7846"/>
         <app from="#Bae_TB_4_7850" type="insertion" xml:id="Bae_TB_4_7847">
-          <rdg xml:id="Bae_TB_4_7848">&#8230;</rdg>
+          <rdg xml:id="Bae_TB_4_7848">…</rdg>
         </app>
         <pb facs="#F_K-4_Bae_TB_4_209" n="100v" xml:id="Bae_TB_4_7849"/>
         <addSpan spanTo="#Bae_TB_4_7895" type="insertion" xml:id="Bae_TB_4_7850"/>
