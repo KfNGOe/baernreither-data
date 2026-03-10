@@ -2774,7 +2774,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_4_073" n="36v" xml:id="Bae_TB_4_1816"/>
-        <addSpan spanTo="#Bae_TB_4_1907" xml:id="Bae_TB_4_1817"/>
+        <addSpan spanTo="#Bae_TB_4_1907" type="insertion" xml:id="Bae_TB_4_1817"/>
         <anchor xml:id="Bae_TB_4_8520"/>
         <p xml:id="Bae_TB_4_1818">iren und ihn zu einer beschleunigten Inangriffnahme der parlamentarischen Behandlung des 
           <index xml:id="Bae_TB_4_1819">
@@ -5187,8 +5187,7 @@
           <app from="#Bae_MF_2_6312" type="missing" xml:id="Bae_TB_4_8502">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8503">und von dessen Hinrichtung mir seinerzeit in Heidelberg ein alter Herr erzählte, daß Frauen sich herangedrängt hätten, um von dem Blute Sands einige Tropfen in ihren Taschentüchern aufzufangen.</rdg>
           </app>. 
-        </p>
-        <!-- CA: ab hier dann wohl MF_3 korrespondierend -->
+        </p><anchor/>
         <p xml:id="Bae_TB_4_3371">Nach 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_3372">Österreich</placeName> zurückgekehrt brachte ich die Monate 
           <date when="1898-10" xml:id="Bae_TB_4_3373">
@@ -5221,14 +5220,15 @@
           <pb facs="#F_K-4_Bae_TB_4_107" n="53v" xml:id="Bae_TB_4_3393"/>
           <note type="editorial" xml:id="Bae_TB_4_3394">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_4_108" n="54r" xml:id="Bae_TB_4_3395"/> Ministerschaft hatte ich von allen wichtigen Akten Abschriften machen lassen, aus denen die Beilagen zu den vorstehenden Aufzeichnungen bestehen. Ausserdem hatte ich eine Menge Notizen, aus denen ich in dem stillen 
-          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_3396">Lünz</placeName> die Niederschrift über meine Ministerzeit machte, die von Seite 58 des zweiten Bandes dieser Folge bis zu dieser Stelle reicht. 
-          <!-- DC Datierung von fol. 58 Bd. 2 bis hierher Lünz Dezember 1898!!!-->
+          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_3396">Lünz</placeName> die Niederschrift über meine Ministerzeit machte, die von Seite 58 des zweiten Bandes dieser Folge bis zu dieser Stelle reicht. <app from="#" type="missing"><rdg wit="Bae_MF_2"></rdg></app>
+          <!-- DC: Datierung von fol. 58 Bd. 2 bis hierher Lünz Dezember 1898!!!-->
         </p>
         <p xml:id="Bae_TB_4_3397">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_3398">Lünz</placeName> im 
           <date when="1898-12" xml:id="Bae_TB_4_3399">Dezember 1898</date>. 
         </p>
       </div>
+      <!-- CA: ab hier dann mit MF_3 korrespondierend -->
       <div n="1899-01" type="diaryEntry" xml:id="Bae_TB_4_3400">
         <p xml:id="Bae_TB_4_3401">
           <hi rendition="#ul" xml:id="Bae_TB_4_3402">Die Herbstsession 
