@@ -4636,10 +4636,13 @@
         </p>
         <p xml:id="Bae_MF_2_3373">
           <anchor xml:id="Bae_MF_2_3374"/>Auf der Rückfahrt war ich lange mit 
-          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_2_3375">Thun</persName> zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, daß er mir damals in vielen Punkten, die ich erörterte, Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maße von klaren Ideen, <app from="#Bae_TB_3_3797" type="equal"><rdg wit="Bae_TB_3">Auf der Rückfahrt war ich lange mit Thun zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, daß er mir damals in vielen Punkten, die ich erörterte, Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maase von klaren Ideen</rdg></app><anchor/>wie dieselbe politisch zur Geltung zu bringen 
+          <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_2_3375">Thun</persName> zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, daß er mir damals in vielen Punkten, die ich erörterte, Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maße von klaren Ideen, 
+          <app from="#Bae_TB_3_3797" type="equal" xml:id="Bae_MF_2_6489">
+            <rdg wit="Bae_TB_3" xml:id="Bae_MF_2_6490">Auf der Rückfahrt war ich lange mit Thun zusammen in seinem Wagen. Ich habe lebhaft in der Erinnerung, daß er mir damals in vielen Punkten, die ich erörterte, Recht gab. Er war damals sehr erfüllt von seiner neuen Würde, leider nicht im gleichen Maase von klaren Ideen</rdg>
+          </app>
+          <anchor xml:id="Bae_MF_2_6491"/>wie dieselbe politisch zur Geltung zu bringen 
           <app from="#" type="equal" xml:id="Bae_MF_2_3376">
-            <rdg wit="Bae_TB_3" xml:id="Bae_MF_2_3377">wie dieselbe politisch zur Geltung zu bringen 
-            </rdg>
+            <rdg wit="Bae_TB_3" xml:id="Bae_MF_2_3377">wie dieselbe politisch zur Geltung zu bringen </rdg>
           </app>
           <anchor xml:id="Bae_MF_2_3379"/>wäre. 
           <app from="#Bae_TB_3_3804" type="notEqual" xml:id="Bae_MF_2_3380">
