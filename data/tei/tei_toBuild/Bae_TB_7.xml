@@ -579,7 +579,7 @@
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_7_2072">Haus</orgName>. 
         </note>
         <anchor xml:id="Bae_TB_7_4878"/>
-        <app from="#Bae_TB_7_341" type="insertion" xml:id="Bae_TB_7_4879">
+        <app from="#Bae_TB_7_60" type="insertion" xml:id="Bae_TB_7_4879">
           <rdg xml:id="Bae_TB_7_4880">…</rdg>
         </app>
         <!--Beginn der Einklebung. 41 Seiten eingeklebtes vervielfältigtes handschriftliches Protokoll-->
@@ -1194,6 +1194,7 @@
         <p xml:id="Bae_TB_7_752">Hierauf wird die Besprechung abgebrochen.</p>
         <anchor xml:id="Bae_TB_7_2076"/>
         <!-- CA: anchor für Ende der Einklebung -->
+        <anchor/><app from="#Bae_TB_7_2075" type="insertion"><rdg>…</rdg></app>
         <p xml:id="Bae_TB_7_753">Als wir uns nach der Besprechung zusammensetzten, wir vier ( 
           <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_7_754">Lueger</persName>, 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_7_755">Derschatta</persName>, 
@@ -2346,7 +2347,7 @@
           <anchor xml:id="Bae_TB_7_3670"/>
           <!-- CA: Anchor für Addspan -->
           <anchor xml:id="Bae_TB_7_4881"/>
-          <app from="#Bae_TB_7_3670" type="insertion" xml:id="Bae_TB_7_4882">
+          <app from="#Bae_TB_7_3664" type="insertion" xml:id="Bae_TB_7_4882">
             <rdg xml:id="Bae_TB_7_4883">…</rdg>
           </app>
           <!-- CA. an dieser Stelle für die Lesefassung das addspan, ist aber ohnehin der richtigen Stelle -->
@@ -2716,7 +2717,7 @@
           <anchor xml:id="Bae_TB_7_3776"/>und hatte den Bericht zu arbeiten 
           <!-- CA: an diese Stelle die Einlage auf 42r -->
           <anchor xml:id="Bae_TB_7_4904"/>
-          <app from="#Bae_TB_7_2114" type="insert" xml:id="Bae_TB_7_4905">
+          <app from="#Bae_TB_7_2108" type="insert" xml:id="Bae_TB_7_4905">
             <rdg xml:id="Bae_TB_7_4906">…</rdg>
           </app>
           <app from="#Bae_MF_6-1_1377" type="notEqual" xml:id="Bae_TB_7_3777">
@@ -2895,7 +2896,7 @@
           </choice> gegenüber ähnliche Gedanken entwickelt zu haben wie (N. f. Presse vom 1.9.09) der Budapesti Hirlap. 
         </note>
         <anchor xml:id="Bae_TB_7_4884"/>
-        <app from="#Bae_TB_7_2122" type="insertion" xml:id="Bae_TB_7_4885">
+        <app from="#Bae_TB_7_2118" type="insertion" xml:id="Bae_TB_7_4885">
           <rdg xml:id="Bae_TB_7_4886">…</rdg>
         </app>
         <!-- CA: der eingeklebte Zeitungsartikel ist an der richtigen Stelle -->
@@ -3086,11 +3087,11 @@
           <anchor xml:id="Bae_TB_7_3821"/>
           <!-- CA: an diese Stelle kommt 44v und 45v -->
           <anchor xml:id="Bae_TB_7_4887"/>
-          <app from="#Bae_TB_7_4894" type="insertion" xml:id="Bae_TB_7_4888">
+          <app from="#Bae_TB_7_4893" type="insertion" xml:id="Bae_TB_7_4888">
             <rdg xml:id="Bae_TB_7_4889">…</rdg>
           </app>
           <anchor xml:id="Bae_TB_7_4890"/>
-          <app from="#Bae_TB_7_4896" type="insertion" xml:id="Bae_TB_7_4891">
+          <app from="#Bae_TB_7_4895" type="insertion" xml:id="Bae_TB_7_4891">
             <rdg xml:id="Bae_TB_7_4892">…</rdg>
           </app>
           <pb facs="#F_K-4_Bae_TB_7_091" n="44v" xml:id="Bae_TB_7_1181"/>
@@ -3167,7 +3168,7 @@
       </div>
       <div n="1905-10" type="diaryEntry" xml:id="Bae_TB_7_1179">
         <anchor xml:id="Bae_TB_7_4908"/>
-        <app from="#Bae_TB_7_2128" type="insertion" xml:id="Bae_TB_7_4909">
+        <app from="#Bae_TB_7_2126" type="insertion" xml:id="Bae_TB_7_4909">
           <rdg xml:id="Bae_TB_7_4910">…</rdg>
         </app>
         <addSpan spanTo="#Bae_TB_7_2128" type="insertion" xml:id="Bae_TB_7_2126"/>
@@ -3261,7 +3262,7 @@
           <anchor xml:id="Bae_TB_7_3866"/>Fühlung mit 
           <persName key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_7_1216">Andrassy</persName> zu suchen, als dessen Anhänger sich 
           <pb facs="#F_K-4_Bae_TB_7_093" n="45v" xml:id="Bae_TB_7_2130"/>
-          <addSpan spanTo="#Bae_TB_7_4896" xml:id="Bae_TB_7_4895"/>über keine Besprechung von der ich berichte, habe ich unterlassen, gleich darauf, unter dem unmittelbaren und frischen Eindruck des Gehörten, wenn möglich auf Grund meiner stenografischen Notizen die Niederschrift zu machen. Es liegt in dieser Methode eine Disziplinierung des Denkens, 
+          <addSpan spanTo="#Bae_TB_7_4896" type="insertion" xml:id="Bae_TB_7_4895"/>über keine Besprechung von der ich berichte, habe ich unterlassen, gleich darauf, unter dem unmittelbaren und frischen Eindruck des Gehörten, wenn möglich auf Grund meiner stenografischen Notizen die Niederschrift zu machen. Es liegt in dieser Methode eine Disziplinierung des Denkens, 
           <app from="#Bae_MF_6-1_1440" type="equal" xml:id="Bae_TB_7_3834">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3835">war, schärfte ich dabei meine Aufmerksamkeit und mein Gedächtnis, im Bestreben, das Gehörte so genau als möglich fixieren zu können. Wo immer es angängig war, machte ich mir während der Besprechung stenographische Notizen. Auf diese Weise erwarb ich mir eine Fertigkeit, die ich damals und später immer mehr ausbildete. Zu keiner der Besprechungen, über die ich in diesen Blättern berichte, bin ich gegangen, ohne mir einen genauen Plan für die Konversation zu machen und über keine Besprechung, von der ich berichte, habe ich unterlassen gleich darauf, unter dem unmittelbaren frischen Eindruck des Gehörten, wenn möglich auf Grund meiner stenographischen Notizen, die Niederschrift zu machen. Es liegt in dieser Methode eine Disziplinierung des Denkens,</rdg>
           </app>
@@ -6256,7 +6257,7 @@
         <note type="editorial" xml:id="Bae_TB_7_2226">Diese Seite ist leer.</note>
         <anchor xml:id="Bae_TB_7_2227"/>
         <anchor xml:id="Bae_TB_7_4911"/>
-        <app from="#Bae_TB_7_2227" type="insertion" xml:id="Bae_TB_7_4912">
+        <app from="#Bae_TB_7_2207" type="insertion" xml:id="Bae_TB_7_4912">
           <rdg xml:id="Bae_TB_7_4913">…</rdg>
         </app>
         <!-- Ende der Einklebung von fol 90r -->
@@ -6387,7 +6388,7 @@
         <note type="editorial" xml:id="Bae_TB_7_2231">Zeitungsartikel aus Neue Freie Presse, 12.4.1906.</note>
         <anchor xml:id="Bae_TB_7_2232"/>
         <anchor xml:id="Bae_TB_7_4898"/>
-        <app from="#Bae_TB_7_2232" type="insertion" xml:id="Bae_TB_7_4899">
+        <app from="#Bae_TB_7_2228" type="insertion" xml:id="Bae_TB_7_4899">
           <rdg xml:id="Bae_TB_7_4900">…</rdg>
         </app>
         <!-- Ende der Einklebung des Zeitungsartikels -->
@@ -6465,7 +6466,7 @@
         <anchor xml:id="Bae_TB_7_2236"/>
         <!-- Ende des eingeklebten Arikels -->
         <anchor xml:id="Bae_TB_7_4901"/>
-        <app from="#Bae_TB_7_2236" type="insertion" xml:id="Bae_TB_7_4902">
+        <app from="#Bae_TB_7_2234" type="insertion" xml:id="Bae_TB_7_4902">
           <rdg xml:id="Bae_TB_7_4903">…</rdg>
         </app>
       </div>

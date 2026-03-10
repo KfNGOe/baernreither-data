@@ -702,6 +702,7 @@
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_8_297"> Derschatta</persName> um ½ 11 Uhr bei 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_8_298">Gautsch</persName>, der die Combination als aufgegeben erklärt. 
           <anchor xml:id="Bae_TB_8_299"/>
+          <anchor/><app facs="#Bae_TB_8_175"><rdg>…</rdg></app>
         </p>
       </div>
       <div n="1906-02" type="diaryEntry" xml:id="Bae_TB_8_300">
@@ -745,7 +746,7 @@
           <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_8_329">Prade</persName>
           <anchor xml:id="Bae_TB_8_330"/>
           <note type="editorial" xml:id="Bae_TB_8_331">Hier ist der Artikel "Der Verlauf der Verhandlungen" aus der Neuen Freien Presse vom 23.1.1906, S. 3 eingeklebt.</note>
-        </p>
+          <anchor/><app from="#Bae_TB_8_312" type="insertion"><rdg>…</rdg></app></p>
         <p xml:id="Bae_TB_8_332">Darauf hin 
           <del rendition="#s" xml:id="Bae_TB_8_333">zwang 
             <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_8_334">Pergelt</persName> sowol 
@@ -1876,6 +1877,8 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_8_809"/>
+        <!-- CA: anchor für addspan -->
+        <anchor/><app from="#Bae_TB_8_797" type="insertion"><rdg>…</rdg></app>
         <p xml:id="Bae_TB_8_810">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_8_811">Lünz</placeName>, 
           <date when="1906-06-05" xml:id="Bae_TB_8_812"> 5.6.1906</date>
@@ -2029,36 +2032,36 @@
         </p>
         <!-- CA: im folgenden der ab fol. 41 eingelegte Brief -->
         <anchor xml:id="Bae_TB_8_2444"/>
-        <app from="#Bae_TB_8_931" type="insert" xml:id="Bae_TB_8_2445">
-          <rdg xml:id="Bae_TB_8_2446">[...]</rdg>
+        <app from="#Bae_TB_8_886" type="insert" xml:id="Bae_TB_8_2445">
+          <rdg xml:id="Bae_TB_8_2446">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2447"/>
-        <app from="#Bae_TB_8_2473" type="insert" xml:id="Bae_TB_8_2448">
-          <rdg xml:id="Bae_TB_8_2449">[...]</rdg>
+        <app from="#Bae_TB_8_2472" type="insert" xml:id="Bae_TB_8_2448">
+          <rdg xml:id="Bae_TB_8_2449">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2450"/>
-        <app from="#Bae_TB_8_2468" type="insert" xml:id="Bae_TB_8_2451">
-          <rdg xml:id="Bae_TB_8_2452">[...]</rdg>
+        <app from="#Bae_TB_8_2467" type="insert" xml:id="Bae_TB_8_2451">
+          <rdg xml:id="Bae_TB_8_2452">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2484"/>
-        <app from="#Bae_TB_8_2471" type="insert" xml:id="Bae_TB_8_2485">
-          <rdg xml:id="Bae_TB_8_2486">[...]</rdg>
+        <app from="#Bae_TB_8_2470" type="insert" xml:id="Bae_TB_8_2485">
+          <rdg xml:id="Bae_TB_8_2486">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2453"/>
-        <app from="#Bae_TB_8_2475" type="insert" xml:id="Bae_TB_8_2454">
-          <rdg xml:id="Bae_TB_8_2455">[...]</rdg>
+        <app from="#Bae_TB_8_2474" type="insert" xml:id="Bae_TB_8_2454">
+          <rdg xml:id="Bae_TB_8_2455">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2456"/>
-        <app from="#Bae_TB_8_2477" type="insert" xml:id="Bae_TB_8_2457">
-          <rdg xml:id="Bae_TB_8_2458">[...]</rdg>
+        <app from="#Bae_TB_8_2476" type="insert" xml:id="Bae_TB_8_2457">
+          <rdg xml:id="Bae_TB_8_2458">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2459"/>
-        <app from="#Bae_TB_8_2479" type="insert" xml:id="Bae_TB_8_2460">
-          <rdg xml:id="Bae_TB_8_2461">[...]</rdg>
+        <app from="#Bae_TB_8_2478" type="insert" xml:id="Bae_TB_8_2460">
+          <rdg xml:id="Bae_TB_8_2461">&#8230;</rdg>
         </app>
         <anchor xml:id="Bae_TB_8_2462"/>
-        <app from="#Bae_TB_8_2481" type="insert" xml:id="Bae_TB_8_2463">
-          <rdg xml:id="Bae_TB_8_2464">[...]</rdg>
+        <app from="#Bae_TB_8_2480" type="insert" xml:id="Bae_TB_8_2463">
+          <rdg xml:id="Bae_TB_8_2464">&#8230;</rdg>
         </app>
       </div>
       <div n="1906-06-17" type="diaryEntry" xml:id="Bae_TB_8_932">
@@ -3096,7 +3099,7 @@
           <anchor xml:id="Bae_TB_8_931"/>
           <!-- anchor für den addspan 40a -->
           <pb facs="#F_K-5_Bae_TB_8_079" n="40av" xml:id="Bae_TB_8_894"/>
-          <addSpan spanTo="#Bae_TB_8_2473" xml:id="Bae_TB_8_2472"/> praktisch verwerthen kannst, weder mich noch 
+          <addSpan spanTo="#Bae_TB_8_2473" type="insert" xml:id="Bae_TB_8_2472"/> praktisch verwerthen kannst, weder mich noch 
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_8_895">Coudenhove</persName> zu nennen. 
           <app from="#Bae_MF_6-2_1221" type="missing" xml:id="Bae_TB_8_896">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_897"/>
@@ -3112,7 +3115,7 @@
           <anchor xml:id="Bae_TB_8_2473"/>
           <!-- anchor für addspan 40av -->
           <pb facs="#F_K-5_Bae_TB_8_084" n="40b" xml:id="Bae_TB_8_906"/>
-          <addSpan spanTo="#Bae_TB_8_2468" xml:id="Bae_TB_8_2467"/>der 
+          <addSpan spanTo="#Bae_TB_8_2468" type="insert" xml:id="Bae_TB_8_2467"/>der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_907">Kaiser</persName> (quasi deshalb) neue ganz andere Reformvorschläge acceptiren – der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_908">Kaiser</persName>
           <hi rendition="#ul" xml:id="Bae_TB_8_909">hat auch keiner Silbe</hi> widersprochen und qui tacet consentire videtur. 
@@ -3121,7 +3124,7 @@
           <anchor xml:id="Bae_TB_8_2468"/>
           <!-- anchor für addspan 40b -->
           <pb facs="#F_K-5_Bae_TB_8_085" n="40bv" xml:id="Bae_TB_8_2469"/>
-          <addSpan spanTo="#Bae_TB_8_2471" xml:id="Bae_TB_8_2470"/>daran denkt, die Sache zu Ende zu führen. Es soll eben dem 
+          <addSpan spanTo="#Bae_TB_8_2471" type="insert" xml:id="Bae_TB_8_2470"/>daran denkt, die Sache zu Ende zu führen. Es soll eben dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_912">Kaiser</persName> aus dem Engpass, in den er sich verrannt hat, herausgeholfen werden, und ihm der peinliche Moment eines eingestandenen Meinungswechsels erspart bleiben. 
           <app from="#Bae_MF_6-2_1227" type="notEqual" xml:id="Bae_TB_8_913">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_914">Coudenhove hat dem Kaiser gesagt: es dürfe unter keiner Bedingung so aussehen, als ob er, der Kaiser von der Wahlreform abgekommen sei, sie müsse daher im Parlamente stecken bleiben und erst bis es dort eben nicht mehr weiter gehe, müsse der Kaiser (quasi deshalb) neue ganz andere Reformvorschläge akzeptieren. Der Kaiser hat mit keiner Silbe widersprochen und qui tacet consentire videtur. Coudenhove glaubt bestimmt, daß auch Beck nur dergleichen machen wird, die Kompromissverhandlungen fortzusetzen, und nicht daran denkt, die Sache zu Ende zu führen. Es soll eben dem Kaiser aus dem Engpass, in den er sich verrannt hat, herausgeholfen werden und ihm der peinliche Moment eines eingestandenen Meinungswechsels erspart bleiben.</rdg>
@@ -3131,25 +3134,25 @@
         </p>
         <p xml:id="Bae_TB_8_915">
           <pb facs="#F_K-5_Bae_TB_8_080" n="40c" xml:id="Bae_TB_8_916"/>
-          <addSpan spanTo="#Bae_TB_8_2475" xml:id="Bae_TB_8_2474"/>
+          <addSpan spanTo="#Bae_TB_8_2475" type="insert" xml:id="Bae_TB_8_2474"/>
           <anchor xml:id="Bae_TB_8_917"/>Das Ganze ist wieder einmal ein typisches manöver österreichischer Politik – voll Lüge und Falschheit – ich glaube aber, dass die Feiglinge aller Fractionen des Parlamentes mehr Courage bekommen werden, wenn man ihnen steckt, dass man wisse, dass 
           <hi rendition="#ul" xml:id="Bae_TB_8_918">oben</hi> der Wind bereits 
           <anchor xml:id="Bae_TB_8_2475"/>
           <!-- anchor für addspan 080 -->
           <pb facs="#F_K-5_Bae_TB_8_081" n="40cv" xml:id="Bae_TB_8_919"/>
-          <addSpan spanTo="#Bae_TB_8_2477" xml:id="Bae_TB_8_2476"/>umgeschlagen hat und meiner unmaßgeblichen Ansicht wäre dieses Material in diesem Sinne discret zu verwerten! 
+          <addSpan spanTo="#Bae_TB_8_2477" type="insert" xml:id="Bae_TB_8_2476"/>umgeschlagen hat und meiner unmaßgeblichen Ansicht wäre dieses Material in diesem Sinne discret zu verwerten! 
         </p>
         <p xml:id="Bae_TB_8_920">Ist der Blödsinn des gleichen W.Rechtes einmal abgethan, dann wird – glaube ich – der Moment für jene vernünftigen Menschen 
           <anchor xml:id="Bae_TB_8_2477"/>
           <!-- anchor für addspan 081 -->
           <pb facs="#F_K-5_Bae_TB_8_082" n="40d" xml:id="Bae_TB_8_921"/>
-          <addSpan spanTo="#Bae_TB_8_2479" xml:id="Bae_TB_8_2478"/>kommen, die andere Propositionen machen können – wozu ich Dich in erster Linie zähle. 
+          <addSpan spanTo="#Bae_TB_8_2479" type="insert" xml:id="Bae_TB_8_2478"/>kommen, die andere Propositionen machen können – wozu ich Dich in erster Linie zähle. 
         </p>
         <p xml:id="Bae_TB_8_922">Man scheint momentan die löblichsten Absichten zu haben, gegen die Gasse energisch vorzugehen – nachdem man die armen Teufeln erst aufgehetzt hat, wird man jetzt 
           <anchor xml:id="Bae_TB_8_2479"/>
           <!-- anchor für addspan 082 -->
           <pb facs="#F_K-5_Bae_TB_8_083" n="40dv" xml:id="Bae_TB_8_923"/>
-          <addSpan spanTo="#Bae_TB_8_2481" xml:id="Bae_TB_8_2480"/>auf sie schießen – ebenso logisch wie hübsch! – 
+          <addSpan spanTo="#Bae_TB_8_2481" type="insert" xml:id="Bae_TB_8_2480"/>auf sie schießen – ebenso logisch wie hübsch! – 
         </p>
         <p xml:id="Bae_TB_8_924">Hast du meinen Brief wegen 
           <persName key="DaszynskiIgnacy" ref="https://d-nb.info/gnd/118934481" xml:id="Bae_TB_8_925">Daszyński</persName> bekommen? 
@@ -3355,7 +3358,8 @@
                 <p>Wien, 28.12.1908</p>
                 <p>Heute Nachm. lange Unterredung mit Aehrenthal und Schönaich <del rendition="#s">gemacht</del><add place="across">gehabt</add>. Die türkischen Sachen stehen nicht gut. <choice><abbr>Athal</abbr><expan>Aehrenthal</expan></choice> ist <add>jetzt</add>  auf dem Standpunkt, die Zustimmung der Türkei durch ein Stück Geld zu erkaufen. Die Türkei braucht dringend <del rendition="#s">2 bis 4</del><add place="across">2 bis 3</add>  Mill. Pfund. Er frug mich, wie ich darüber denke <choice><abbr>u.</abbr><expan>und</expan></choice> wie man in Ö. darüber denken würde. Ich antwortete ihm: geradeso wie <del rendition="#s">er jemand zu einem guten Diner einladen, alle Gäste es sehr loben würden</del><add place="across">wenn eine Einladung zu einem guten Diner erfolgt wäre, die Gäste bei bester Laune wären</add>, aber beim Weggehen im Vorzimmer dafür die</p><pb facs="#F_K-5_Bae_TB_8_102" n="49v"/><note type="editorial">Diese Seite ist leer.</note>
 <!-- hier eine Einlage nach fol. 49 -->
-                <addSpan spanTo="xxx" type="insertion"/><pb facs="#F_K-5_Bae_TB_8_103" n="49ar"/>
+                <pb facs="#F_K-5_Bae_TB_8_103" n="49ar"/>
+              <addSpan spanTo="xxx" type="insertion"/>
                     <p>Wien, am 9. November 1908</p>
                     <p>Gestern war der serbische Agrarier Dr. Dimitrijevic, Redakteur des "Dan" aus Sarajewo, bei mir. Er hat mir stundenlang von den agrarischen Verhältnissen Bosniens erzählt, von der Wahlordnung, über die jetzt entschieden werden wird und über die Stimmung der Serben. Diese seien in den Städten vielfach irredentistisch, das Landvolk sei aber gut. Er hält deswegen <add place="across">für Österreich</add> ein breites Wahlrecht für besser.</p>
                     <p>(Aus Seite 1 der beiliegenden Zusammenstellung).</p>
