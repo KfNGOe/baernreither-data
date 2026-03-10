@@ -1194,10 +1194,7 @@
         <p xml:id="Bae_TB_7_752">Hierauf wird die Besprechung abgebrochen.</p>
         <anchor xml:id="Bae_TB_7_2076"/>
         <!-- CA: anchor für Ende der Einklebung -->
-        <anchor xml:id="Bae_TB_7_4914"/>
-        <app from="#Bae_TB_7_2075" type="insertion" xml:id="Bae_TB_7_4915">
-          <rdg xml:id="Bae_TB_7_4916">…</rdg>
-        </app>
+        <anchor/><app from="#Bae_TB_7_2075" type="insertion"><rdg>…</rdg></app>
         <p xml:id="Bae_TB_7_753">Als wir uns nach der Besprechung zusammensetzten, wir vier ( 
           <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_7_754">Lueger</persName>, 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_7_755">Derschatta</persName>, 
