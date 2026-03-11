@@ -153,9 +153,9 @@
             <abbr xml:id="Bae_TB_4_102">ungar.</abbr>
             <expan xml:id="Bae_TB_4_103">ungarischen</expan>
           </choice> Sache drang jedoch durch. 
-          <pb facs="#F_K-4_Bae_TB_4_002" n="1v" xml:id="Bae_TB_4_104"/>
+          <pb facs="#F_K-4_Bae_TB_4_003" n="1v" xml:id="Bae_TB_4_104"/>
           <note type="editorial" xml:id="Bae_TB_4_105">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_4_003" n="2r" xml:id="Bae_TB_4_106"/>Freilich mehr theoretisch als praktisch. 
+          <pb facs="#F_K-4_Bae_TB_4_004" n="2r" xml:id="Bae_TB_4_106"/>Freilich mehr theoretisch als praktisch. 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_107">Thun</persName>
           <choice xml:id="Bae_TB_4_108">
             <abbr xml:id="Bae_TB_4_109">u.</abbr>
@@ -5224,7 +5224,7 @@
           <note type="editorial" xml:id="Bae_TB_4_3394">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_4_108" n="54r" xml:id="Bae_TB_4_3395"/> Ministerschaft hatte ich von allen wichtigen Akten Abschriften machen lassen, aus denen die Beilagen zu den vorstehenden Aufzeichnungen bestehen. Ausserdem hatte ich eine Menge Notizen, aus denen ich in dem stillen 
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_3396">Lünz</placeName> die Niederschrift über meine Ministerzeit machte, die von Seite 58 des zweiten Bandes dieser Folge bis zu dieser Stelle reicht. 
-          <app from="#" type="missing" xml:id="Bae_TB_4_8557">
+          <app from="#Bae_MF_2_6492" type="missing" xml:id="Bae_TB_4_8557">
             <rdg wit="Bae_MF_2" xml:id="Bae_TB_4_8558"/>
           </app>
           <!-- DC: Datierung von fol. 58 Bd. 2 bis hierher Lünz Dezember 1898!!!-->
@@ -6198,7 +6198,7 @@
         <p xml:id="Bae_TB_4_4157">Knapp vor meiner Abreise sprach ich noch 
           <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195" xml:id="Bae_TB_4_4158">Szögeni</persName>. Wir hatten uns 
         </p>
-        <pb facs="#F_K-4_Bae_TB_4_371" n="64v" xml:id="Bae_TB_4_4159"/>
+        <pb facs="#F_K-4_Bae_TB_4_129" n="64v" xml:id="Bae_TB_4_4159"/>
         <addSpan spanTo="#Bae_TB_4_4209" type="insertion" xml:id="Bae_TB_4_4160"/>
         <p xml:id="Bae_TB_4_4161">Man hat in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_4162">Oesterreich</placeName> freilich alles gethan, um die Seele des ganzen Organismus zu lähmen: und diese Seele war die herzliche, freudige Hingebung der Deutschen an das Habsburgerreich, dessen Kitt sie durch Jahrhunderte gewesen waren. Was die öffentliche Meinung in 
@@ -6332,7 +6332,7 @@
           </index> in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_4267">Österreich</placeName> machen würde erwiderte: er müsse es ablehnen darauf direkt zu antworten – was wohl in der Form ausweichend in der Sache bejahend anzusehen ist. 
         </p>
-        <pb facs="#F_K-4_Bae_TB_4_130" n="65v" xml:id="Bae_TB_4_4268"/>
+        <pb facs="#F_K-4_Bae_TB_4_139" n="65v" xml:id="Bae_TB_4_4268"/>
         <addSpan spanTo="#Bae_TB_4_4310" type="insertion" xml:id="Bae_TB_4_4269"/>
         <p xml:id="Bae_TB_4_4270">den Deutschen 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_4_4271">Böhmens</placeName> die Sorge, daß sich unter diesen Umständen die 
@@ -6370,7 +6370,7 @@
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_4_4300">Ungarn</placeName> seinen Aliirten zuführt, sind stattlich und auf zahlreichen Schlachtfeldern erprobt; seine Geltung in 
           <placeName key="Europa" ref="https://www.geonames.org/6255148/europe.html" xml:id="Bae_TB_4_4301">Europa</placeName>, zumal aber im Orient, seinem natürlichen Geltungsgebiet, wird wieder steigen, wenn es sich von den Irrthümern der Herrschenden inneren Politik losgesagt hat. 
         </p>
-        <p xml:id="Bae_TB_4_4302">Darauf entwortete die 
+        <p xml:id="Bae_TB_4_4302">Darauf antwortete die 
           <orgName key="WienerAbendpost" xml:id="Bae_TB_4_4303">Wiener Abendpost</orgName> am 
           <date when="1898-10-14" xml:id="Bae_TB_4_4304">14. 
             <choice xml:id="Bae_TB_4_4305">
@@ -6385,7 +6385,7 @@
         <anchor xml:id="Bae_TB_4_4310"/>
         <!-- CA: anchor für den addspan 65v -->
         <!-- DC: Eingelegt zwischen fol. 64v und 65r ist die "Beilage zur Allgemeinen Zeitung Jahrgang 1899 München Samstag 7. Januar Nr. 5 -->
-        <addSpan spanTo="#Bae_TB_4_4804" type="insert" xml:id="Bae_TB_4_4311"/>
+        <addSpan spanTo="#" type="insert" xml:id="Bae_TB_4_4311"/>
         <pb facs="#F_K-4_Bae_TB_4_131" n="65ar" xml:id="Bae_TB_4_4312"/>
         <p xml:id="Bae_TB_4_4313">Ueber meine politische Thätigkeit. Von 
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_4_4314">Ernst v. Plener</persName>. 
@@ -6457,8 +6457,8 @@
           <placeName key="Herzegowina" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_4_4369">Herzegowina</placeName> für unsre Monarchie in Aussicht zu nehmen, der lange und blutige Aufstand dieser Länder machte es klar, daß sie nicht mehr unter türkisches Regiment zurückgebracht werden konnten, andrerseits lag es auch nicht im Interesse der Monarchie, sie an 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_4_4370">Serbien</placeName> und 
           <placeName key="Montenegro" ref="https://www.geonames.org/3194884/montenegro.html" xml:id="Bae_TB_4_4371">Montenegro</placeName> fallen zu lassen. Auf dem 
-          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_4_4372">Berliner</placeName> Kongreß erhielt dieser Plan die europäische 
-          <pb facs="#F_K-4_Bae_TB_4_132" n="65av" xml:id="Bae_TB_4_4373"/>Sanktion, und die Occupation wurde beschlossen und ausgeführt. Das Gros der 
+          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_4_4372">Berliner</placeName> Kongreß erhielt dieser Plan die europäische<anchor/><!-- anchor für addspan 65ar -->
+          <pb facs="#F_K-4_Bae_TB_4_132" n="65av" xml:id="Bae_TB_4_4373"/><addSpan type="insert"/>Sanktion, und die Occupation wurde beschlossen und ausgeführt. Das Gros der 
           <orgName key="KlubderLiberalen" xml:id="Bae_TB_4_4374">Partei</orgName> unter der alten Führung widersetzte sich diesem Unternehmen auf das allerlebhafteste und ging sogar soweit, dem 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_4_4375">Berliner</placeName> Frieden seine Zustimmung zu versagen. Ich trennte mich in dieser Frage von der 
           <orgName key="KlubderLiberalen" xml:id="Bae_TB_4_4376">Partei</orgName>, einmal, weil mir unter den damaligen Verhältnissen die Argumente für die Occupation ausschlaggebend erschienen, und dann, weil ich es überhaupt nicht billigen konnte, einem internationalen Werke von solcher Tragweite, wie es der 
@@ -6543,8 +6543,9 @@
           <orgName key="VereinigteLinke" xml:id="Bae_TB_4_4435">Partei</orgName> herbei, die ich lebhaft beklagte. Schien mir doch die Erhaltung der Einigkeit der 
           <orgName key="VereinigteLinke" xml:id="Bae_TB_4_4436">Partei</orgName> angesichts der schweren Kämpfe, in welche die Deutschen 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_4_4437">Böhmens</placeName> damals verwickelt waren, als die einzige Bürgschaft des Erfolges. 
-        </p>
+        </p><anchor/><!-- CA. anchor für addspan 65av -->
         <pb facs="#F_K-4_Bae_TB_4_133" n="65br" xml:id="Bae_TB_4_4438"/>
+        <addSpan/>
         <p xml:id="Bae_TB_4_4439">Mein Bestreben war von jeher auf die Gefahr dieser Einigkeit gerichtet, und ich erklärte mich damals ausdrücklich gegen die allzu leichte Art, womit die Wortführer der neuen Richtung den 
           <index xml:id="Bae_TB_4_4440">
             <term key="Parteien" xml:id="Bae_TB_4_4441">Großgrundbesitz</term>
@@ -6652,8 +6653,8 @@
               <term key="Wahlreform " xml:id="Bae_TB_4_4516"/>
             </index>
           </index> im 
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_4_4517">Landtag</orgName> gedacht, die aber nicht bloß Wahlkurien, sondern auch mit einem Veto in allen nationalen Fragen ausgestattet sein sollten. Man hat uns vielfach vorgeworfen, daß wir damals ein analoges Veto auch der Großgrundbesitzerkurie eingeräumt haben. Vom nationalen Standpunkt aus war dies jedoch ganz ungefährlich. Denn die 
-          <pb facs="#F_K-4_Bae_TB_4_134" n="65bv" xml:id="Bae_TB_4_4518"/> Deutschen wären mit ihrem eigenen Veto immer in der Lage, die Beschlüsse der beiden anderen Kurien nicht zustande kommen zu lassen, und der Fall, daß die Großgrundbesitzerkurie einen von den Tschechen und Deutschen übereinstimmend gefaßten Beschluß aus nationalen Gründen durch ihr Veto aufhalten könnte, ist praktisch wohl undenkbar. 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_4_4517">Landtag</orgName> gedacht, die aber nicht bloß Wahlkurien, sondern auch mit einem Veto in allen nationalen Fragen ausgestattet sein sollten. Man hat uns vielfach vorgeworfen, daß wir damals ein analoges Veto auch der Großgrundbesitzerkurie eingeräumt haben. Vom nationalen Standpunkt aus war dies jedoch ganz ungefährlich. Denn die <anchor/><!-- CA. anchor für addspan 65br -->
+          <pb facs="#F_K-4_Bae_TB_4_134" n="65bv" xml:id="Bae_TB_4_4518"/><addSpan type="insert"/>Deutschen wären mit ihrem eigenen Veto immer in der Lage, die Beschlüsse der beiden anderen Kurien nicht zustande kommen zu lassen, und der Fall, daß die Großgrundbesitzerkurie einen von den Tschechen und Deutschen übereinstimmend gefaßten Beschluß aus nationalen Gründen durch ihr Veto aufhalten könnte, ist praktisch wohl undenkbar. 
         </p>
         <p xml:id="Bae_TB_4_4519">Im Gegenhalte zu diesen Kurien wurde allerdings einer Reform zur Landtagswahlordnung zugestimmt, die entsprechend den geänderten Bevölkerungsverhältnissen seit dem Jahre 1861 den Tschechen eine Vermehrung ihrer Vertretung im 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_4_4520">Landtag</orgName> gesichert hätte. Diese rein ziffermäßige Vermehrung hätte aber eben wegen des Bestandes der nationalen Kurien niemals zu einer nationalen Majorisirung im 
@@ -6780,8 +6781,8 @@
             </index>
           </index> der 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_4_4606">Jungtschechen</orgName>. Ich war in jenen Jahren bestrebt, wenigstens einen Theil der Vereinbarungen zu verwirklichen, die Abgrenzung der Bezirke dort durchzuführen, wo alle Vorbedingungen, die nationalen, geographischen und Verkehrsvoraussetzungen, vorhanden waren; in einzelnen Theilen des östlichen 
-          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_4_4607">Böhmens</placeName> stießen wir selbst auf Hindernisse, und ich war mir klar, daß die Abgrenzung, beziehungzweise Ausscheidung der Bezirke nur dort mit allgemeiner Zustimmung durchgeführt werden kann, 
-          <pb facs="#F_K-4_Bae_TB_4_135" n="65cr" xml:id="Bae_TB_4_4608"/> wo alle praktischen Vorbedingungen gegeben waren, wie z. B. die Ausscheidung von 
+          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_4_4607">Böhmens</placeName> stießen wir selbst auf Hindernisse, und ich war mir klar, daß die Abgrenzung, beziehungzweise Ausscheidung der Bezirke nur dort mit allgemeiner Zustimmung durchgeführt werden kann, <anchor/><!-- CA. anchor für addspan 65bv -->
+          <pb facs="#F_K-4_Bae_TB_4_135" n="65cr" xml:id="Bae_TB_4_4608"/><addSpan type="insert"/>wo alle praktischen Vorbedingungen gegeben waren, wie z. B. die Ausscheidung von 
           <placeName key="Wekelsdorf" ref="https://www.geonames.org/3064285/teplice-nad-metuji.html" xml:id="Bae_TB_4_4609">Wekelsdorf</placeName>, 
           <placeName key="Raudnitz" ref="https://www.geonames.org/3066727/roudnice-nad-labem.html" xml:id="Bae_TB_4_4610">Raudnitz</placeName>, 
           <placeName key="Libochowitz" ref="https://www.geonames.org/3071911/libochovice.html" xml:id="Bae_TB_4_4611">Libochowitz</placeName> u. a. ähnliche Fälle. 
@@ -6898,8 +6899,8 @@
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_4_4694">Linke</orgName> war früher und auch bis dahin noch der Meinung, daß diesen letzteren Wünschen in einer einfachen und zugleich auch ausreichenden Weise hätte Rechnung getragen werden können, wenn nämlich die 
           <index xml:id="Bae_TB_4_4695">
             <term key="Arbeiter" xml:id="Bae_TB_4_4696">Arbeiter</term>
-          </index> im Anschlusse an das allgemeine System unsrer Interessenvertretung eine direkte Vertretung gewonnen hätten, sei es, wie wir ursprüng 
-          <pb facs="#F_K-4_Bae_TB_4_136" n="65cv" xml:id="Bae_TB_4_4697"/>lich glaubten, durch 
+          </index> im Anschlusse an das allgemeine System unsrer Interessenvertretung eine direkte Vertretung gewonnen hätten, sei es, wie wir ursprüng <anchor/><!-- CA. anchor für addspan 65cr -->
+          <pb facs="#F_K-4_Bae_TB_4_136" n="65cv" xml:id="Bae_TB_4_4697"/><addSpan type="insert"/>lich glaubten, durch 
           <index xml:id="Bae_TB_4_4698">
             <term key="Arbeiter" xml:id="Bae_TB_4_4699">Arbeiterkammern</term>
           </index>, sei es, wie wir später, um die Sache zu vereinfachen, wollten, durch unmittelbare Wahlen aus den Krankenkassen, die mehr oder minder mit der Zahl der gewerblichen 
@@ -6920,9 +6921,8 @@
             <term key="Wahlrechtsreform" xml:id="Bae_TB_4_4710">Wahlreform</term>
           </index> klüger und wirksamer gewesen wäre. 
         </p>
-        <p xml:id="Bae_TB_4_4711">Die Tage der Regierung war unhaltbar geworden, und in einer kurzen Besprechung, die ich mit dem 
-          <persName key="HohenwartKarl" ref="https://d-nb.info/gnd/11855283X" xml:id="Bae_TB_4_4712">Grafen Hohenwart</persName> hatte, waren wir balb darüber einig, daß das Ministerium zurücktreten müsse. Die Dinge entwickelten sich sehr rasch. Ein Versuch der Regierung, durch einige einlenkende Bemerkungen die geschlossene Haltung 
-          <pb facs="#F_K-4_Bae_TB_4_375" n="65dr" xml:id="Bae_TB_4_4713"/> der großen Parteien zu erschüttern, mißlang vollständig, und es handelte sich nun darum, die neue Situation parlamentarisch in Ordnung zu bringen. Wieder war es 
+        <p xml:id="Bae_TB_4_4711">Die Lage der Regierung war unhaltbar geworden, und in einer kurzen Besprechung, die ich mit dem 
+          <persName key="HohenwartKarl" ref="https://d-nb.info/gnd/11855283X" xml:id="Bae_TB_4_4712">Grafen Hohenwart</persName> hatte, waren wir balb darüber einig, daß das Ministerium zurücktreten müsse. Die Dinge entwickelten sich sehr rasch. Ein Versuch der Regierung, durch einige einlenkende Bemerkungen die geschlossene Haltung der großen Parteien zu erschüttern, mißlang vollständig, und es handelte sich nun darum, die neue Situation parlamentarisch in Ordnung zu bringen. Wieder war es 
           <persName key="KalnokyGustav" ref="https://d-nb.info/gnd/119130491" xml:id="Bae_TB_4_4714">
             <hi rendition="#ul" xml:id="Bae_TB_4_4715">Graf Kalnoky</hi>
           </persName>, der in diesem entscheidenden Augenblicke durch seinen klugen, besonnenen Rath die ungewöhnliche und kritische Situation ordnen half. 
@@ -6997,8 +6997,8 @@
             <index xml:id="Bae_TB_4_4766">
               <term key="KurieAllgemeineWaehlerklasse" xml:id="Bae_TB_4_4767"/>
             </index>
-          </index>, die an das bestehende Wahlsystem anzugliedern wäre, aufzunehmen, und dieses Projekt bildete auch den Inhalt der sogenannten Grundzüge, welche die Regierung in einer außerparlamentarischen Berathung den Vertretern 
-          <pb facs="F_K-4_Bae_TB_4_137" n="65dr" xml:id="Bae_TB_4_4768"/>der großen Parteien vorlegte. Die 
+          </index>, die an das bestehende Wahlsystem anzugliedern wäre, aufzunehmen, und dieses Projekt bildete auch den Inhalt der sogenannten Grundzüge, welche die Regierung in einer außerparlamentarischen Berathung den Vertretern<anchor/><!-- CA: anchor für addspan 65cv -->
+          <pb facs="#F_K-4_Bae_TB_4_137" n="65dr" xml:id="Bae_TB_4_4768"/><addSpan spanTo="#Bae_TB_4_4804" type="insert"/>der großen Parteien vorlegte. Die 
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_4_4769">Linke</orgName> schloß sich diesen Vorschlägen an. Leider setzte aber die Rechte diesen Grundzügen, deren Prinzip nachmals auch von ihr eingenommen wurde, so große Schwierigkeiten entgegen, daß das Projekt zunächst wieder zurückgestellt werden mußte. Nach einem mißlungenen Versuche, auf die 
           <index xml:id="Bae_TB_4_4770">
             <term key="Arbeiter" xml:id="Bae_TB_4_4771">Arbeiterkammern</term>
@@ -7051,7 +7051,7 @@
         </p>
         <note type="editorial" xml:id="Bae_TB_4_4803">Der übrige Text der eingelegten Zeitungsseiten wurde nicht hier transkribiert.</note>
         <anchor xml:id="Bae_TB_4_4804"/>
-        <!-- CA: anchor für den addspan 65ar -->
+        <!-- CA: anchor für den addspan 65dr -->
         <pb facs="#F_K-4_Bae_TB_4_140" n="66r" xml:id="Bae_TB_4_4805"/>
         <p xml:id="Bae_TB_4_4806">
           <persName key="MuehlingKarl" ref="https://d-nb.info/gnd/1109808097" xml:id="Bae_TB_4_4807">Mühling</persName> machte mich auch auf den 
@@ -7135,13 +7135,37 @@
           </choice> Thätigkeit 
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_4_4865">Pleners</persName> bis zum Zusammenbruch der Coalition. 
         </p>
-        <anchor xml:id="Bae_TB_4_4866"/>
-        <app from="#Bae_TB_4_4311" type="insert" xml:id="Bae_TB_4_4867">
-          <rdg xml:id="Bae_TB_4_4868">…</rdg>
-        </app>
         <anchor xml:id="Bae_TB_4_4869"/>
         <app from="#Bae_TB_4_5048" type="insertion" xml:id="Bae_TB_4_4870">
           <rdg xml:id="Bae_TB_4_4871">…</rdg>
+        </app>
+        <anchor/>
+        <app from="#_65ar" type="insert">
+          <rdg>…</rdg>
+        </app>
+        <anchor/>
+        <app from="#_65av" type="insert">
+          <rdg>…</rdg>
+        </app>
+        <anchor/>
+        <app from="#_65br" type="insert">
+          <rdg>…</rdg>
+        </app>
+        <anchor/>
+        <app from="#_65bv" type="insert">
+          <rdg>…</rdg>
+        </app>
+        <anchor/>
+        <app from="#_65cr" type="insert">
+          <rdg>…</rdg>
+        </app>
+        <anchor/>
+        <app from="#_65cv" type="insert">
+          <rdg>…</rdg>
+        </app>
+        <anchor/>
+        <app from="#_65dr" type="insert">
+          <rdg>…</rdg>
         </app>
         <p xml:id="Bae_TB_4_4872">Heute glaube ich, kann ich ruhig 
           <choice xml:id="Bae_TB_4_4873">
@@ -7803,7 +7827,7 @@
         </p>
         <anchor xml:id="Bae_TB_4_5381"/>
         <!-- CA: anchor für den addspan 72v -->
-        <pb facs="#F_K-4_Bae_TB_4_153" n="73r" xml:id="Bae_TB_4_5382"/>
+        <pb facs="#F_K-4_Bae_TB_4_154" n="73r" xml:id="Bae_TB_4_5382"/>
         <p xml:id="Bae_TB_4_5383">
           <hi rendition="#ul" xml:id="Bae_TB_4_5384">Die Wintermonate 
             <date when="1899" xml:id="Bae_TB_4_5385">1899</date>
@@ -8203,7 +8227,7 @@
           </index> nicht eingetreten, wäre diese Partei längst ganz klein gemacht. 
           <pb facs="#F_K-4_Bae_TB_4_161" n="76v" xml:id="Bae_TB_4_5687"/>
           <note type="editorial" xml:id="Bae_TB_4_5688">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_4_167" n="77r" xml:id="Bae_TB_4_5689"/>In der Unterredung, die ich im 
+          <pb facs="#F_K-4_Bae_TB_4_162" n="77r" xml:id="Bae_TB_4_5689"/>In der Unterredung, die ich im 
           <date when="1898-08" xml:id="Bae_TB_4_5690">August</date> in 
           <placeName key="BadIschl" ref="https://www.geonames.org/2782052/bad-ischl.html" xml:id="Bae_TB_4_5691">Ischl</placeName> mit dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_5692">Kaiser</persName> hatte, drang dieses Credo noch ganz rein durch alle Äusserungen des Monarchen. Auch die 
@@ -9047,7 +9071,7 @@
           <!-- DC: Clam-Gallas??? --> sehr bemerkbar. 
           <persName key="OppenheimerLudwig" ref="https://d-nb.info/gnd/117138487" xml:id="Bae_TB_4_6341">Oppenheimer</persName> hielt eine confuse Rede, deren Wirkung ich mit ein paar Worten eliminirte. "Compromise is 
         </p>
-        <pb facs="#F_K-4_Bae_TB_4_176" n="84v" xml:id="Bae_TB_4_6342"/>
+        <pb facs="#F_K-4_Bae_TB_4_177" n="84v" xml:id="Bae_TB_4_6342"/>
         <addSpan spanTo="#Bae_TB_4_6373" type="insertion" xml:id="Bae_TB_4_6343"/>
         <p xml:id="Bae_TB_4_6344">Unser am 
           <date when="1899-03-12" xml:id="Bae_TB_4_6345">12. März</date> in der Wahlcomitésitzung in 
@@ -9282,7 +9306,7 @@
           <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_TB_4_6518">Schönerer</persName> heute gewähren lassen oder selbst abwehren, dass man ihn hindere, sind innerlich Irredentisten, sondern der Radicalismus hat dermassen das Oberwasser, weil unsere Regierenden so vorgehen, dass die grosse Menge Vernünftiger weder zu Wort, noch zu Einfluss noch zur Geltung kommen 
           <hi rendition="#ul" xml:id="Bae_TB_4_6519">kann</hi>, 
         </p>
-        <pb facs="#F_K-4_Bae_TB_4_399" n="86v" xml:id="Bae_TB_4_6520"/>
+        <pb facs="#F_K-4_Bae_TB_4_181" n="86v" xml:id="Bae_TB_4_6520"/>
         <addSpan spanTo="#Bae_TB_4_6533" type="insertion" xml:id="Bae_TB_4_6521"/>
         <p xml:id="Bae_TB_4_6522">wir von den Pflichten gegenüber dem Vaterlande haben, von denen jeder Staatsbürger erfüllt sein soll.</p>
         <p xml:id="Bae_TB_4_6523">Wir haben unseren Standpunkt von jeher unabhängig von den Tagesströmungen eingenommen und vertheidigt. Die Kundgebung, welche unser böhmisches Wahlcomité bezüglich einer schwebenden Frage der Politik jüngst veröffentlicht und welche bewiesen hat, daß wir die Situation unter Umständen schärfer und kritischer ins Auge fassen, als andere deutsche Parteien, hat neuerlich dargethan, daß wir uns nur auf eigenes Urtheil stützen. Deßwegen haben wir aber auch ein Recht zu betonen, daß wir uns frei fühlen von jenem Terrorismus, welcher heute Tausende und Abertausende in 
@@ -10058,7 +10082,7 @@
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_4_7093">Pergelt</persName> vorgelesen, welche sich mit der principiellen Auffassung sowie mit der Anordnung einverstanden erklärt hatten. Es war das die Frucht einiger in völliger Zurückgezogenheit in 
           <placeName key="Edlach" ref="https://www.geonames.org/2780428/edlach-an-der-rax.html" xml:id="Bae_TB_4_7094">Edlach in der Prein</placeName> zugebrachten Tage 
         </p>
-        <pb facs="#F_K-4_Bae_TB_4_403" n="90v" xml:id="Bae_TB_4_7095"/>
+        <pb facs="#F_K-4_Bae_TB_4_189" n="90v" xml:id="Bae_TB_4_7095"/>
         <addSpan spanTo="#Bae_TB_4_7142" type="insertion" xml:id="Bae_TB_4_7096"/>
         <p xml:id="Bae_TB_4_7097">6. Angesichts der autonomen Sonderstellung, welche 
           <placeName key="Galizien" ref="https://www.geonames.org/562153/galicia.html" xml:id="Bae_TB_4_7098">Galizien</placeName> bezüglich seiner nationalen Angelegenheiten thatsächlich einnimmt, befestigt und verbreitet sich die Ueberzeugung von der Nothwendigkeit, daß der Grundsatz der Gegenseitigkeit zur Durchführung komme und verlangen wir, daß die Deutschen in 
@@ -10522,7 +10546,7 @@
           <date when="1866" xml:id="Bae_TB_4_7453">1866</date> in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_4_7454">Österreich</placeName> gewiss grosse Fehler begangen. Ihre Unduldsamkeit gegen ihre Stammesgenossen, wenn sie anderer Ansicht waren, ihre 
         </p>
-        <pb facs="#F_K-4_Bae_TB_4_406" n="93v" xml:id="Bae_TB_4_7455"/>
+        <pb facs="#F_K-4_Bae_TB_4_195" n="93v" xml:id="Bae_TB_4_7455"/>
         <addSpan spanTo="#Bae_TB_4_7495" type="insertion" xml:id="Bae_TB_4_7456"/>
         <p xml:id="Bae_TB_4_7457">5. Die Bedeckung der Schulauslagen ist in der Art zu trennen, daß für jede Nationalität ein selbstständiges Budget zur Bestreitung der Unterrichtszwecke aufgestellt wird.</p>
         <p xml:id="Bae_TB_4_7458">6. Der Verkehr der staatlichen Behörden untereinander geschieht in der Regel in der allgemeinen Vermittlungssprache. Inwieweit innerhalb des czechischen Sprachgebietes dieser Verkehr in der czechischen Sprache stattfinden kann, wird festzusetzen sein.</p>
@@ -10839,7 +10863,7 @@
         <p xml:id="Bae_TB_4_7700">Sollten diese letzten Folgen einer bereits verhängsnisvoll einsetzenden Entwicklung ferngehalten werden, so gilt es, entschlossen umzukehren und mit den bisherigen Fehlern zu brechen. Zunächst hat jeder Deutschösterreicher es als eine Pflicht der politischen Selbsterhaltung zu betrachten, daß er für den Dualismus eintritt und den föderalistischen Vorstellungen, durch deren Verbreitung ein Teil der russischen und die ganze polnisch-französische Presse an der Zersetzung des österreichischen Reichskörpers arbeiten, ein für alle Mal den Rücken kehrt. In Transleithanien muß die politische Führung den Magyaren verbleiben, in Cisleithanien den Deutschen zurückgewonnen werden. Diese beiden nichtslawischen Völker sind unter einem Gemisch weniger gehaltvoller und weniger culturfähiger Stämme naturgemäß aufeinander angewiesen und müssen sich in der wechselseitigen Anerkennung ihrer Stellung für das Wohl des Ganzen mehr und mehr befestigen. Ein zweites Erfordernis</p>
         <anchor xml:id="Bae_TB_4_7701"/>
         <!-- CA: anchor für addspan 97r -->
-        <pb facs="#F_K-4_Bae_TB_4_410" n="97v" xml:id="Bae_TB_4_7702"/>
+        <pb facs="#F_K-4_Bae_TB_4_203" n="97v" xml:id="Bae_TB_4_7702"/>
         <addSpan spanTo="#Bae_TB_4_7733" type="insertion" xml:id="Bae_TB_4_7703"/>
         <p xml:id="Bae_TB_4_7704">4. Die innere und äußere Amtssprache der staatlichen Behörden, deren Wirkungskreis des ganze Land umfaßt, ist die deutsche; insbesondere sind auch beim Oberlandesgerichte in 
           <placeName key="Graz" ref="https://www.geonames.org/2778058/graz-stadt.html" xml:id="Bae_TB_4_7705">Graz</placeName> bezüglich aller aus 
@@ -10892,7 +10916,7 @@
         <p xml:id="Bae_TB_4_7745">x x x</p>
         <anchor xml:id="Bae_TB_4_7746"/>
         <!-- CA: anchor für 98r -->
-        <pb facs="#F_K-4_Bae_TB_4_401" n="98v" xml:id="Bae_TB_4_7747"/>
+        <pb facs="#F_K-4_Bae_TB_4_205" n="98v" xml:id="Bae_TB_4_7747"/>
         <addSpan spanTo="#Bae_TB_4_7795" type="insertion" xml:id="Bae_TB_4_7748"/>
         <p xml:id="Bae_TB_4_7749">4. Bei den gemischtsprachigen Bezirksgerichten braucht nur ein richterlicher Beamter der slovenischen Sprache, beziehungsweise des landesüblichen slovenischen Dialekts mächtig zu sein. Von den Notaren kann der Nachweis, daß sie der slovenischen Sprache in Schrift und Wort mächtig sind, nicht gefordert werden.</p>
         <p xml:id="Bae_TB_4_7750">5. Die innere und äußere Amtssprache aller Selbstverwaltungsstellen, insbesondere der Landesvertretung, des Landes-Ausschusses, der Handels- und Gewerbekammer, der Orts- und Schulgemeinden ist die deutsche. Es haben sich daher auch die Gemeinden und öffentlichen Körperschaften im Verkehre mit den Staatsbehörden, den Landesbehörden und sonstigen Selbstverwaltungsstellen ausschließlich der deutschen Sprache zu bedienen. Nur im Verkehre zwischen slovenischen Gemeinden untereinander kann auch die slovenische Sprache angewendet werden. Im Bedarfsfalle ist bei der zuständigen Bezirkshauptmannschaft eine deutsche Uebersetzung der slovenischen Urschrift anzusprechen.</p>
@@ -10950,7 +10974,7 @@
         <!-- anchor für addspan 98v -->
         <pb facs="#F_K-4_Bae_TB_4_206" n="99r" xml:id="Bae_TB_4_7796"/>
         <note type="editorial" xml:id="Bae_TB_4_7797">Diese Seite ist leer.</note>
-        <pb facs="#F_K-4_Bae_TB_4_412" n="99v" xml:id="Bae_TB_4_7798"/>
+        <pb facs="#F_K-4_Bae_TB_4_207" n="99v" xml:id="Bae_TB_4_7798"/>
         <addSpan spanTo="#Bae_TB_4_7834" type="insertion" xml:id="Bae_TB_4_7799"/>
         <p xml:id="Bae_TB_4_7800">mit den Parteien ausschließlich der deutschen Sprache zu bedienen. c) In allen Bezirken 
           <placeName key="Schlesien" ref="https://www.geonames.org/11748058/silesian-metropolis.html" xml:id="Bae_TB_4_7801">Schlesiens</placeName> sind die Verhandlungsprotokolle in deutscher Sprache aufzunehmen; in den genannten gemischten Bezirken können in den dort für Eingaben zulässigen nichtdeutschen Sprachen Erklärungen der Parteien und Zeugen, auf deren Wortlaut es ankommt, außer in der deutschen, auch noch im Wortlaute der betreffenden slavischen Sprache, in welcher sie abgegeben wurden, zu Protokoll gebracht werden. d) Die staatlichen Behörden 
@@ -11147,9 +11171,9 @@
           <persName key="GentzFriedrich" ref="https://d-nb.info/gnd/118538489" xml:id="Bae_TB_4_7947">Gentz</persName> im Jahre 
           <date when="1822" xml:id="Bae_TB_4_7948">1822</date> gegen das 
           <orgName key="Journaldesdebats" ref="https://d-nb.info/gnd/4204682-8" xml:id="Bae_TB_4_7949">Journal des Débats</orgName> schrieb, 
-          <pb facs="#F_K-4_Bae_TB_4_210" n="101v" xml:id="Bae_TB_4_7950"/>
+          <pb facs="#F_K-4_Bae_TB_4_211" n="101v" xml:id="Bae_TB_4_7950"/>
           <note type="editorial" xml:id="Bae_TB_4_7951">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_4_211" n="102r" xml:id="Bae_TB_4_7952"/> welches bei Besprechung einer in 
+          <pb facs="#F_K-4_Bae_TB_4_212" n="102r" xml:id="Bae_TB_4_7952"/> welches bei Besprechung einer in 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_4_7953">England</placeName> erschienenen Schrift den Satz aufgestellt hatte: eine Nation, die durch Religion, Sprache und Interesse vereinigt sei, habe ein für allemal das unverlierbare Recht, einen geschlossenen Staat zu bilden. Darauf erwidert 
           <persName key="GentzFriedrich" ref="https://d-nb.info/gnd/118538489" xml:id="Bae_TB_4_7954">Gentz</persName> (Schriften 5. 85) "Die Gesetze, nach welchen in der wirklichen Welt geschlossene Staaten sich bilden und umformen 
           <choice xml:id="Bae_TB_4_7955">
