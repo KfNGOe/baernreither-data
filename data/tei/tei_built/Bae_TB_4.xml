@@ -6457,8 +6457,11 @@
           <placeName key="Herzegowina" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_4_4369">Herzegowina</placeName> für unsre Monarchie in Aussicht zu nehmen, der lange und blutige Aufstand dieser Länder machte es klar, daß sie nicht mehr unter türkisches Regiment zurückgebracht werden konnten, andrerseits lag es auch nicht im Interesse der Monarchie, sie an 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_4_4370">Serbien</placeName> und 
           <placeName key="Montenegro" ref="https://www.geonames.org/3194884/montenegro.html" xml:id="Bae_TB_4_4371">Montenegro</placeName> fallen zu lassen. Auf dem 
-          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_4_4372">Berliner</placeName> Kongreß erhielt dieser Plan die europäische<anchor/><!-- anchor für addspan 65ar -->
-          <pb facs="#F_K-4_Bae_TB_4_132" n="65av" xml:id="Bae_TB_4_4373"/><addSpan type="insert"/>Sanktion, und die Occupation wurde beschlossen und ausgeführt. Das Gros der 
+          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_4_4372">Berliner</placeName> Kongreß erhielt dieser Plan die europäische
+          <anchor xml:id="Bae_TB_4_8559"/>
+          <!-- anchor für addspan 65ar -->
+          <pb facs="#F_K-4_Bae_TB_4_132" n="65av" xml:id="Bae_TB_4_4373"/>
+          <addSpan type="insert" xml:id="Bae_TB_4_8560"/>Sanktion, und die Occupation wurde beschlossen und ausgeführt. Das Gros der 
           <orgName key="KlubderLiberalen" xml:id="Bae_TB_4_4374">Partei</orgName> unter der alten Führung widersetzte sich diesem Unternehmen auf das allerlebhafteste und ging sogar soweit, dem 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_4_4375">Berliner</placeName> Frieden seine Zustimmung zu versagen. Ich trennte mich in dieser Frage von der 
           <orgName key="KlubderLiberalen" xml:id="Bae_TB_4_4376">Partei</orgName>, einmal, weil mir unter den damaligen Verhältnissen die Argumente für die Occupation ausschlaggebend erschienen, und dann, weil ich es überhaupt nicht billigen konnte, einem internationalen Werke von solcher Tragweite, wie es der 
@@ -6543,9 +6546,11 @@
           <orgName key="VereinigteLinke" xml:id="Bae_TB_4_4435">Partei</orgName> herbei, die ich lebhaft beklagte. Schien mir doch die Erhaltung der Einigkeit der 
           <orgName key="VereinigteLinke" xml:id="Bae_TB_4_4436">Partei</orgName> angesichts der schweren Kämpfe, in welche die Deutschen 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_4_4437">Böhmens</placeName> damals verwickelt waren, als die einzige Bürgschaft des Erfolges. 
-        </p><anchor/><!-- CA. anchor für addspan 65av -->
+        </p>
+        <anchor xml:id="Bae_TB_4_8561"/>
+        <!-- CA. anchor für addspan 65av -->
         <pb facs="#F_K-4_Bae_TB_4_133" n="65br" xml:id="Bae_TB_4_4438"/>
-        <addSpan/>
+        <addSpan xml:id="Bae_TB_4_8562"/>
         <p xml:id="Bae_TB_4_4439">Mein Bestreben war von jeher auf die Gefahr dieser Einigkeit gerichtet, und ich erklärte mich damals ausdrücklich gegen die allzu leichte Art, womit die Wortführer der neuen Richtung den 
           <index xml:id="Bae_TB_4_4440">
             <term key="Parteien" xml:id="Bae_TB_4_4441">Großgrundbesitz</term>
@@ -6653,8 +6658,11 @@
               <term key="Wahlreform " xml:id="Bae_TB_4_4516"/>
             </index>
           </index> im 
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_4_4517">Landtag</orgName> gedacht, die aber nicht bloß Wahlkurien, sondern auch mit einem Veto in allen nationalen Fragen ausgestattet sein sollten. Man hat uns vielfach vorgeworfen, daß wir damals ein analoges Veto auch der Großgrundbesitzerkurie eingeräumt haben. Vom nationalen Standpunkt aus war dies jedoch ganz ungefährlich. Denn die <anchor/><!-- CA. anchor für addspan 65br -->
-          <pb facs="#F_K-4_Bae_TB_4_134" n="65bv" xml:id="Bae_TB_4_4518"/><addSpan type="insert"/>Deutschen wären mit ihrem eigenen Veto immer in der Lage, die Beschlüsse der beiden anderen Kurien nicht zustande kommen zu lassen, und der Fall, daß die Großgrundbesitzerkurie einen von den Tschechen und Deutschen übereinstimmend gefaßten Beschluß aus nationalen Gründen durch ihr Veto aufhalten könnte, ist praktisch wohl undenkbar. 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_4_4517">Landtag</orgName> gedacht, die aber nicht bloß Wahlkurien, sondern auch mit einem Veto in allen nationalen Fragen ausgestattet sein sollten. Man hat uns vielfach vorgeworfen, daß wir damals ein analoges Veto auch der Großgrundbesitzerkurie eingeräumt haben. Vom nationalen Standpunkt aus war dies jedoch ganz ungefährlich. Denn die 
+          <anchor xml:id="Bae_TB_4_8563"/>
+          <!-- CA. anchor für addspan 65br -->
+          <pb facs="#F_K-4_Bae_TB_4_134" n="65bv" xml:id="Bae_TB_4_4518"/>
+          <addSpan type="insert" xml:id="Bae_TB_4_8564"/>Deutschen wären mit ihrem eigenen Veto immer in der Lage, die Beschlüsse der beiden anderen Kurien nicht zustande kommen zu lassen, und der Fall, daß die Großgrundbesitzerkurie einen von den Tschechen und Deutschen übereinstimmend gefaßten Beschluß aus nationalen Gründen durch ihr Veto aufhalten könnte, ist praktisch wohl undenkbar. 
         </p>
         <p xml:id="Bae_TB_4_4519">Im Gegenhalte zu diesen Kurien wurde allerdings einer Reform zur Landtagswahlordnung zugestimmt, die entsprechend den geänderten Bevölkerungsverhältnissen seit dem Jahre 1861 den Tschechen eine Vermehrung ihrer Vertretung im 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_4_4520">Landtag</orgName> gesichert hätte. Diese rein ziffermäßige Vermehrung hätte aber eben wegen des Bestandes der nationalen Kurien niemals zu einer nationalen Majorisirung im 
@@ -6781,8 +6789,11 @@
             </index>
           </index> der 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_4_4606">Jungtschechen</orgName>. Ich war in jenen Jahren bestrebt, wenigstens einen Theil der Vereinbarungen zu verwirklichen, die Abgrenzung der Bezirke dort durchzuführen, wo alle Vorbedingungen, die nationalen, geographischen und Verkehrsvoraussetzungen, vorhanden waren; in einzelnen Theilen des östlichen 
-          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_4_4607">Böhmens</placeName> stießen wir selbst auf Hindernisse, und ich war mir klar, daß die Abgrenzung, beziehungzweise Ausscheidung der Bezirke nur dort mit allgemeiner Zustimmung durchgeführt werden kann, <anchor/><!-- CA. anchor für addspan 65bv -->
-          <pb facs="#F_K-4_Bae_TB_4_135" n="65cr" xml:id="Bae_TB_4_4608"/><addSpan type="insert"/>wo alle praktischen Vorbedingungen gegeben waren, wie z. B. die Ausscheidung von 
+          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_4_4607">Böhmens</placeName> stießen wir selbst auf Hindernisse, und ich war mir klar, daß die Abgrenzung, beziehungzweise Ausscheidung der Bezirke nur dort mit allgemeiner Zustimmung durchgeführt werden kann, 
+          <anchor xml:id="Bae_TB_4_8565"/>
+          <!-- CA. anchor für addspan 65bv -->
+          <pb facs="#F_K-4_Bae_TB_4_135" n="65cr" xml:id="Bae_TB_4_4608"/>
+          <addSpan type="insert" xml:id="Bae_TB_4_8566"/>wo alle praktischen Vorbedingungen gegeben waren, wie z. B. die Ausscheidung von 
           <placeName key="Wekelsdorf" ref="https://www.geonames.org/3064285/teplice-nad-metuji.html" xml:id="Bae_TB_4_4609">Wekelsdorf</placeName>, 
           <placeName key="Raudnitz" ref="https://www.geonames.org/3066727/roudnice-nad-labem.html" xml:id="Bae_TB_4_4610">Raudnitz</placeName>, 
           <placeName key="Libochowitz" ref="https://www.geonames.org/3071911/libochovice.html" xml:id="Bae_TB_4_4611">Libochowitz</placeName> u. a. ähnliche Fälle. 
@@ -6899,8 +6910,11 @@
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_4_4694">Linke</orgName> war früher und auch bis dahin noch der Meinung, daß diesen letzteren Wünschen in einer einfachen und zugleich auch ausreichenden Weise hätte Rechnung getragen werden können, wenn nämlich die 
           <index xml:id="Bae_TB_4_4695">
             <term key="Arbeiter" xml:id="Bae_TB_4_4696">Arbeiter</term>
-          </index> im Anschlusse an das allgemeine System unsrer Interessenvertretung eine direkte Vertretung gewonnen hätten, sei es, wie wir ursprüng <anchor/><!-- CA. anchor für addspan 65cr -->
-          <pb facs="#F_K-4_Bae_TB_4_136" n="65cv" xml:id="Bae_TB_4_4697"/><addSpan type="insert"/>lich glaubten, durch 
+          </index> im Anschlusse an das allgemeine System unsrer Interessenvertretung eine direkte Vertretung gewonnen hätten, sei es, wie wir ursprüng 
+          <anchor xml:id="Bae_TB_4_8567"/>
+          <!-- CA. anchor für addspan 65cr -->
+          <pb facs="#F_K-4_Bae_TB_4_136" n="65cv" xml:id="Bae_TB_4_4697"/>
+          <addSpan type="insert" xml:id="Bae_TB_4_8568"/>lich glaubten, durch 
           <index xml:id="Bae_TB_4_4698">
             <term key="Arbeiter" xml:id="Bae_TB_4_4699">Arbeiterkammern</term>
           </index>, sei es, wie wir später, um die Sache zu vereinfachen, wollten, durch unmittelbare Wahlen aus den Krankenkassen, die mehr oder minder mit der Zahl der gewerblichen 
@@ -6997,8 +7011,11 @@
             <index xml:id="Bae_TB_4_4766">
               <term key="KurieAllgemeineWaehlerklasse" xml:id="Bae_TB_4_4767"/>
             </index>
-          </index>, die an das bestehende Wahlsystem anzugliedern wäre, aufzunehmen, und dieses Projekt bildete auch den Inhalt der sogenannten Grundzüge, welche die Regierung in einer außerparlamentarischen Berathung den Vertretern<anchor/><!-- CA: anchor für addspan 65cv -->
-          <pb facs="#F_K-4_Bae_TB_4_137" n="65dr" xml:id="Bae_TB_4_4768"/><addSpan spanTo="#Bae_TB_4_4804" type="insert"/>der großen Parteien vorlegte. Die 
+          </index>, die an das bestehende Wahlsystem anzugliedern wäre, aufzunehmen, und dieses Projekt bildete auch den Inhalt der sogenannten Grundzüge, welche die Regierung in einer außerparlamentarischen Berathung den Vertretern
+          <anchor xml:id="Bae_TB_4_8569"/>
+          <!-- CA: anchor für addspan 65cv -->
+          <pb facs="#F_K-4_Bae_TB_4_137" n="65dr" xml:id="Bae_TB_4_4768"/>
+          <addSpan spanTo="#Bae_TB_4_4804" type="insert" xml:id="Bae_TB_4_8570"/>der großen Parteien vorlegte. Die 
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_4_4769">Linke</orgName> schloß sich diesen Vorschlägen an. Leider setzte aber die Rechte diesen Grundzügen, deren Prinzip nachmals auch von ihr eingenommen wurde, so große Schwierigkeiten entgegen, daß das Projekt zunächst wieder zurückgestellt werden mußte. Nach einem mißlungenen Versuche, auf die 
           <index xml:id="Bae_TB_4_4770">
             <term key="Arbeiter" xml:id="Bae_TB_4_4771">Arbeiterkammern</term>
@@ -7139,33 +7156,33 @@
         <app from="#Bae_TB_4_5048" type="insertion" xml:id="Bae_TB_4_4870">
           <rdg xml:id="Bae_TB_4_4871">…</rdg>
         </app>
-        <anchor/>
-        <app from="#_65ar" type="insert">
-          <rdg>…</rdg>
+        <anchor xml:id="Bae_TB_4_8571"/>
+        <app from="#_65ar" type="insert" xml:id="Bae_TB_4_8572">
+          <rdg xml:id="Bae_TB_4_8573">…</rdg>
         </app>
-        <anchor/>
-        <app from="#_65av" type="insert">
-          <rdg>…</rdg>
+        <anchor xml:id="Bae_TB_4_8574"/>
+        <app from="#_65av" type="insert" xml:id="Bae_TB_4_8575">
+          <rdg xml:id="Bae_TB_4_8576">…</rdg>
         </app>
-        <anchor/>
-        <app from="#_65br" type="insert">
-          <rdg>…</rdg>
+        <anchor xml:id="Bae_TB_4_8577"/>
+        <app from="#_65br" type="insert" xml:id="Bae_TB_4_8578">
+          <rdg xml:id="Bae_TB_4_8579">…</rdg>
         </app>
-        <anchor/>
-        <app from="#_65bv" type="insert">
-          <rdg>…</rdg>
+        <anchor xml:id="Bae_TB_4_8580"/>
+        <app from="#_65bv" type="insert" xml:id="Bae_TB_4_8581">
+          <rdg xml:id="Bae_TB_4_8582">…</rdg>
         </app>
-        <anchor/>
-        <app from="#_65cr" type="insert">
-          <rdg>…</rdg>
+        <anchor xml:id="Bae_TB_4_8583"/>
+        <app from="#_65cr" type="insert" xml:id="Bae_TB_4_8584">
+          <rdg xml:id="Bae_TB_4_8585">…</rdg>
         </app>
-        <anchor/>
-        <app from="#_65cv" type="insert">
-          <rdg>…</rdg>
+        <anchor xml:id="Bae_TB_4_8586"/>
+        <app from="#_65cv" type="insert" xml:id="Bae_TB_4_8587">
+          <rdg xml:id="Bae_TB_4_8588">…</rdg>
         </app>
-        <anchor/>
-        <app from="#_65dr" type="insert">
-          <rdg>…</rdg>
+        <anchor xml:id="Bae_TB_4_8589"/>
+        <app from="#_65dr" type="insert" xml:id="Bae_TB_4_8590">
+          <rdg xml:id="Bae_TB_4_8591">…</rdg>
         </app>
         <p xml:id="Bae_TB_4_4872">Heute glaube ich, kann ich ruhig 
           <choice xml:id="Bae_TB_4_4873">
