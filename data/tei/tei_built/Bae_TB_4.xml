@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_4_1">
   <teiHeader xml:id="Bae_TB_4_2">
     <fileDesc xml:id="Bae_TB_4_3">
@@ -6626,7 +6625,8 @@
           <anchor xml:id="Bae_TB_4_8559"/>
           <!-- anchor für addspan 65ar -->
           <pb facs="#F_K-4_Bae_TB_4_132" n="65av" xml:id="Bae_TB_4_4373"/>
-          <addSpan spanTo="#Bae_TB_4_8561" type="insert" xml:id="Bae_TB_4_8560"/><anchor/>Sanktion, und die Occupation wurde beschlossen und ausgeführt. Das Gros der 
+          <addSpan spanTo="#Bae_TB_4_8561" type="insert" xml:id="Bae_TB_4_8560"/>
+          <anchor xml:id="Bae_TB_4_9063"/>Sanktion, und die Occupation wurde beschlossen und ausgeführt. Das Gros der 
           <orgName key="KlubderLiberalen" xml:id="Bae_TB_4_4374">Partei</orgName> unter der alten Führung widersetzte sich diesem Unternehmen auf das allerlebhafteste und ging sogar soweit, dem 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_4_4375">Berliner</placeName> Frieden seine Zustimmung zu versagen. Ich trennte mich in dieser Frage von der 
           <orgName key="KlubderLiberalen" xml:id="Bae_TB_4_4376">Partei</orgName>, einmal, weil mir unter den damaligen Verhältnissen die Argumente für die Occupation ausschlaggebend erschienen, und dann, weil ich es überhaupt nicht billigen konnte, einem internationalen Werke von solcher Tragweite, wie es der 
@@ -7249,7 +7249,7 @@
         </p>
         <p xml:id="Bae_TB_4_4800">Das, was damals in Trümmer ging, kann vielleicht wieder aufleben, wenn aus dem Wirrsal der letzten zwei Jahre sich die klare Erkenntniß erhebt von der Nothwendigkeit des Zusammenschlusses aller Elemente, denen die Wiedergeburt des Vaterlandes am Herzen liegt.</p>
         <p xml:id="Bae_TB_4_4801">(Geschrieben im 
-          <date when="1898-04" xml:id="Bae_TB_4_4802">April 1898</date>.)
+          <date when="1898-04" xml:id="Bae_TB_4_4802">April 1898</date>.) 
           <app from="#Bae_MF_3_3948" type="missing" xml:id="Bae_TB_4_8982">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_8983"/>
           </app>
@@ -9417,7 +9417,7 @@
           <choice xml:id="Bae_TB_4_6328">
             <abbr xml:id="Bae_TB_4_6329">polit.</abbr>
             <expan xml:id="Bae_TB_4_6330">politische</expan>
-          </choice> Situation richtig und ehrlich bezeichnet war.
+          </choice> Situation richtig und ehrlich bezeichnet war. 
           <app from="#Bae_MF_3_3983" type="missing" xml:id="Bae_TB_4_8984">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_8985"/>
           </app>
@@ -11281,7 +11281,7 @@
         </p>
         <p xml:id="Bae_TB_4_7602">So 
           <hi rendition="#ul" xml:id="Bae_TB_4_7603">kann</hi> das aufgestellte Programm der Anfang jener Besserung sein, die notwendig ist, sollen wir dem Chaos entrinnen. Tags vor meiner Abreise hierher war ich noch einmal in 
-          <placeName key="Goldegg" ref="https://www.geonames.org/7872223/goldegg.html" xml:id="Bae_TB_4_7604">Goldegg</placeName>,
+          <placeName key="Goldegg" ref="https://www.geonames.org/7872223/goldegg.html" xml:id="Bae_TB_4_7604">Goldegg</placeName>, 
           <app from="#Bae_MF_3_1205" type="equal" xml:id="Bae_TB_4_9007">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_9008">Gerechtigkeit haben. Aber es ist eben die unglückliche Folge er antideutschen Richtung, daß dieser Billigkeitssinn ganz ertötet wurde. Ich will bekennen, daß er überhaupt nie stark entwickelt war und die deutschen Politiker haben nie gewußt, notwendige kulturelle und politische Einräumungen, die sie den Slaven früher oder später machen mussten, für sich durch geeignete Kompensationen wett zu machen. So kam es gewönlich, daß das lange Versagte endlich hingegeben wurde ohne irgend eine Sicherung auf der anderen Seite. Ich halte es für einen glücklichen Zug des Specialkapitels über Böhmen und des diesbezüglich auch im allgemeinen Theil über die Regelung der Sprachenfrage aufgenommenen Grundsatzes, daß man sich entschlossen hat, den Čechen selbst auf dem Gebiete der inneren Amtssprache Konzessionen zu machen, offen und ehrlich, um damit aber gewisse Forderungen in anderer Richtung um so sicherer zu verbinden. So kann das aufgestellte Programm der Anfang jener Besserung sein, die notwendig ist, sollen wir dem Chaos entrinnen. Tags vor meiner Abreise hieher war ich noch einmal in Goldegg,</rdg>
           </app>
@@ -11369,7 +11369,7 @@
             <abbr xml:id="Bae_TB_4_7655">u.</abbr>
             <expan xml:id="Bae_TB_4_7656">und</expan>
           </choice> brachte den Artikel, bestättigend dass er sein Entstehen der unmittelbaren Eingebung 
-          <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_4_7657">Bülow's</persName> verdankt.
+          <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_4_7657">Bülow's</persName> verdankt. 
           <app from="#Bae_MF_3_1227" type="missing" xml:id="Bae_TB_4_9019">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_9020"/>
           </app>
@@ -11377,7 +11377,7 @@
         <p xml:id="Bae_TB_4_7658">
           <anchor xml:id="Bae_TB_4_9021"/>
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_7659">Lünz</placeName>, am 
-          <date when="1899-05-27" xml:id="Bae_TB_4_7660">27. Mai 1899</date>.
+          <date when="1899-05-27" xml:id="Bae_TB_4_7660">27. Mai 1899</date>. 
           <app from="#Bae_MF_3_1231" type="equal" xml:id="Bae_TB_4_9022">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_9023">Lünz am 27 Mai 1899</rdg>
           </app>
@@ -11392,7 +11392,7 @@
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_4_7666">Deutschland</placeName>. Umkehren oder untergehen. 
         </p>
         <p xml:id="Bae_TB_4_7667">Dasselbe jetzt seinem Ende zuneigende Jahrzehnt, das fast in allen Weltteilen ein Erstarken des Germanentums aufweist und schon für uns Mitlebende das Bild eines überseeischen "größern 
-          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_4_7668">Deutschlands</placeName>" mit fernen, aber festen Umrissen in den Gesichtskreis
+          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_4_7668">Deutschlands</placeName>" mit fernen, aber festen Umrissen in den Gesichtskreis 
           <app from="#Bae_MF_3_4076" type="missing" xml:id="Bae_TB_4_9025">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_9026"/>
           </app>
@@ -11737,7 +11737,8 @@
             <expan xml:id="Bae_TB_4_7913">und</expan>
           </choice> dort 
           <app from="#Bae_MF_3_4098" type="equal" xml:id="Bae_TB_4_9031">
-            <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_9032">Excurs. Eine Geschichte Oesterreichs im 19. Jahrhundert wird die traurige Aufgabe haben zu zeigen, wie die Stellung die dieser Staat durch die Verträge von 1815 in Italien und Deutschland angewiesen erhalten hat, durch die Entwicklung der nationalen Idee hier und dort</rdg></app>
+            <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_9032">Excurs. Eine Geschichte Oesterreichs im 19. Jahrhundert wird die traurige Aufgabe haben zu zeigen, wie die Stellung die dieser Staat durch die Verträge von 1815 in Italien und Deutschland angewiesen erhalten hat, durch die Entwicklung der nationalen Idee hier und dort</rdg>
+          </app>
           <anchor xml:id="Bae_TB_4_9033"/>morsch 
           <app from="#Bae_MF_3_1250" type="notEqual" xml:id="Bae_TB_4_9034">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_9035">unhaltbar</rdg>
