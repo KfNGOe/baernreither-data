@@ -1991,7 +1991,7 @@
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1436">Chl. äusserte, dass nicht auch die eben hergestellte Ordnung in Ungarn aufs Spiel gesetzt werden dürfe u. dass Thun den Ausgleich machen müsse. Der Kaiser war derselben Meinung u.z. derart prononcirt, dass er für den Fall als das Cabinet Thun sich nicht prätiren [?] würde, von einem Beamtenministerium sprach. Chl. nannte verschiedene Namen, teils im Ernst, teils um die Meinung des Kaisers zu erfahren. Von Plener meinte dieser: "ja, der möchte schon". Die einzelnen Sektionschefs und Statthalter wurden unter die Loupe genommen u. ihre Ministerfähigkeit geprüft, aber die Ausbeute scheint nicht gross gewesen zu sein. Von einem unbedingten Festhalten an Thun war keine Rede mehr. Sehr eindringlich will Chl. über die Deutschen in Österreich gesprochen haben. Es verbreite sich die Meinung dass der Kaiser die Deutschen bei Seite setzen wolle – wogegen der Kaiser sehr energisch remonstrirte.</rdg>
           </app>
         </p>
-        <p xml:id="Bae_MF_3_1437">Diese 
+        <p xml:id="Bae_MF_3_1437"><anchor/>Diese 
           <index xml:id="Bae_MF_3_1438">
             <term key="KaiserFranzJoseph" xml:id="Bae_MF_3_1439">Audienz</term>
             <index xml:id="Bae_MF_3_1440">
@@ -2081,7 +2081,7 @@
           </app>
           <anchor xml:id="Bae_MF_3_1505"/>Gewissen zu beruhigen. Auf die Gesinnungswechsel beim 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_1506">Kaiser</persName> kommt Alles an, auf die Art wie 
-          <app from="#" type="equal" xml:id="Bae_MF_3_1507">
+          <app from="#" type="qual" xml:id="Bae_MF_3_1507">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1508">Gewissen zu beruhigen. Auf die Gesinnungswechsel beim Kaiser kommt Alles an, auf die Art wie ihm die Dinge dargestellt werden, auf die Art wie</rdg>
           </app>
           <anchor xml:id="Bae_MF_3_1509"/>
@@ -2101,7 +2101,7 @@
           <anchor xml:id="Bae_MF_3_1520"/>und so oft es 
           <app from="#" type="equal" xml:id="Bae_MF_3_1521">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1522">und so oft es</rdg>
-          </app>
+          </app><anchor/>
           <del rendition="#s" xml:id="Bae_MF_3_1523">ging</del>
           <add place="across" xml:id="Bae_MF_3_1524">geht</add>
           <app from="#" type="notEqual" xml:id="Bae_MF_3_1525">
@@ -2247,12 +2247,12 @@
           <app from="#" type="missing" xml:id="Bae_MF_3_1636">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1637">Dies war zwar nicht der Fall, aber seine Einwirkung in dem verabredeten Sinne sollte nur aufgeschoben sein bis zu seiner Rückkehr aus Russland im Herbste. Unsere Gasteiner Abmachungen hatten aber auch desswegen einen gewissen Wert, weil ich sie Schwegel u. andern mitteilte, die sie vollkommen billigten.</rdg>
           </app>
-          <anchor xml:id="Bae_MF_3_1638"/>Wie setzten 
+          <anchor xml:id="Bae_MF_3_1638"/>Wir setzten 
           <app from="#" type="equal" xml:id="Bae_MF_3_1639">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1640">Wir setzten</rdg>
           </app>
           <anchor xml:id="Bae_MF_3_1641"/>für alle Fälle 
-          <app from="#" type="missing" xml:id="Bae_MF_3_1642"/>
+          <app from="#" type="missing" xml:id="Bae_MF_3_1642"><rdg wit="Bae_TB_5"></rdg></app>
           <anchor xml:id="Bae_MF_3_1643"/>folgende Punkte fest: 
         </p>
         <p xml:id="Bae_MF_3_1644">1.) Die gemässigten 
@@ -2286,7 +2286,7 @@
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_1665">Krone</persName>, son- 
           <pb facs="#F_K-11_Bae_MF_3_098" n="290v" xml:id="Bae_MF_3_1666"/>
           <note type="editorial" xml:id="Bae_MF_3_1667">Diese Seite ist leer.</note>
-          <pb facs="#F_K-11_Bae_MF_3_099" n="291r" xml:id="Bae_MF_3_1668"/>dern dem Ministerium, welches durch seine fortgesetzten KOnzessionen an die Slaven alles Vertrauen verloren hat. Die 
+          <pb facs="#F_K-11_Bae_MF_3_099" n="291r" xml:id="Bae_MF_3_1668"/>dern dem Ministerium, welches durch seine fortgesetzten Konzessionen an die Slaven alles Vertrauen verloren hat. Die 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_1669">Krone</persName> soll auch von den entscheidenden Schritten der Opposition 
           <hi rendition="#ul" xml:id="Bae_MF_3_1670">vorher</hi> unterrichtet werden, um ihr den Beweis zu liefern, daß die Aktion lediglich gegen das Ministerium gerichtet ist. 
         </p>
@@ -2335,8 +2335,8 @@
         <pb facs="#F_K-11_Bae_MF_3_100" n="291v" xml:id="Bae_MF_3_1703"/>
         <note type="editorial" xml:id="Bae_MF_3_1704">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <!-- CA: hier eine Einfügung - eine Textstelle noch kontrollieren - vorerst nicht als missing verzeichnet -->
-        <addSpan xml:id="Bae_MF_3_1705"/>
-        <p xml:id="Bae_MF_3_1706">Als Anmerkung!</p>
+        <addSpan spanTo="#Bae_MF_3_1732" type="insertion" xml:id="Bae_MF_3_1705"/>
+        <anchor/><p xml:id="Bae_MF_3_1706">Als Anmerkung!</p>
         <note type="editorial" xml:id="Bae_MF_3_1707">Anmerkung Baernreithers: anderswo wiedergegeben!</note>
         <p xml:id="Bae_MF_3_1708">Damals habe ich auch mit 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_MF_3_1709">Ährenthal</persName> über unsere Balkanpolitik gesprochen. Er hat mir in diesen Tagen seine Ansichten über diesen Gegenstand ausführlich und in wiederholten Gesprächen dargelegt. Der Kern der Sache war, dass er der Meinung war auf dem 
@@ -2363,7 +2363,7 @@
             <expan xml:id="Bae_MF_3_1729">Minister</expan>
           </choice> des Äussern ist 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_MF_3_1730">Ährental</persName> andere Wege gegangen. Weder 
-          <persName key="JagicVatroslav" ref="https://explore.gnd.network/gnd/118711458" xml:id="Bae_MF_3_1731">Jagic</persName> noch ich hatten dafür eine Erklärung. 
+          <persName key="JagicVatroslav" ref="https://explore.gnd.network/gnd/118711458" xml:id="Bae_MF_3_1731">Jagic</persName> noch ich hatten dafür eine Erklärung. <app from="#" type="missing"><rdg wit="Bae_TB_5"></rdg></app>
         </p>
         <anchor xml:id="Bae_MF_3_1732"/>
         <!-- CA: anchor für den addspan -->
@@ -2424,11 +2424,10 @@
           </app>
         </p>
         <anchor xml:id="Bae_MF_3_1776"/>
-        <app from="#" type="insertion" xml:id="Bae_MF_3_1777">
+        <app from="#Bae_MF_3_1705" type="insertion" xml:id="Bae_MF_3_1777">
           <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1778">[...]</rdg>
         </app>
-        <!-- CA: hier kommt die Einfügung von Addspan oben -->
-        <!-- CA: dementsprechend hier auch dann noch das für den Textvergleich als missing einfügen -->
+        <!-- CA: hier kommt die Einfügung von Addspan fol 291v -->
         <p xml:id="Bae_MF_3_1779">
           <anchor xml:id="Bae_MF_3_1780"/>Auch über unsere äussere Politik sprachen wir viel. Ueber die Richtung der deutschen Politik konnte ich ihm Manches sagen, dagegen öffnete er mir sehr lehrreiche Ausblicke über russische und 
           <placeName key="Balkan" ref="https://www.geonames.org/685608/balkan-peninsula.html" xml:id="Bae_MF_3_1781">Balkan</placeName>-Verhältnisse. Er hält das 
@@ -2457,7 +2456,7 @@
           </app>
           <anchor xml:id="Bae_MF_3_1803"/>
           <app from="#" type="missing" xml:id="Bae_MF_3_1804">
-            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1805">grosse Einsicht u. </rdg>
+            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1805">grosse Einsicht u.</rdg>
           </app>
           <anchor xml:id="Bae_MF_3_1806"/>großen Ernst. Ueber viele Notwendigkeiten, insbesondere die Disziplinierung unserer Beamtenschaft waren wir ganz einer Meinung. Er hörte mit großer Aufmerksamkeit die Schilderungen der inneren Verhältnisse und Stimmungen und 
           <app from="#" type="equal" xml:id="Bae_MF_3_1807">
@@ -2469,7 +2468,7 @@
           </app>
           <anchor xml:id="Bae_MF_3_1812"/>er 
           <app from="#" type="missing" xml:id="Bae_MF_3_1813">
-            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1814">er</rdg>
+            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1814"></rdg>
           </app>
           <anchor xml:id="Bae_MF_3_1815"/>dachte darüber nach und kam andern Tags selbst wieder darauf zu sprechen. Es ist notwendig um alle wahrhaft österreichisch gesinnten Männer, die sich klar sein wollen über die Zukunft, ein Band zu schlingen, um gemeinsam vorzugehen. In dieser Hinsicht war meine 
           <placeName key="BadGastein" ref="https://www.geonames.org/2782058/bad-gastein.html" xml:id="Bae_MF_3_1816">Gasteiner</placeName> Reise nicht ohne Erfolg. 
@@ -2549,9 +2548,10 @@
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1877"/>
           </app>
           <anchor xml:id="Bae_MF_3_1878"/>nieder, die ich noch von dort 
-          <app from="#" type="missing" xml:id="Bae_MF_3_1879">
-            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1880">dem treuen Franzl</rdg>
+          <app from="#" type="equal" xml:id="Bae_MF_3_1879">
+            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_1880">nieder, die ich noch dort</rdg>
           </app>
+          <anchor/><app from="#" type="missing"><rdg wit="Bae_TB_5">dem treuen Franzl</rdg></app>
           <anchor xml:id="Bae_MF_3_1881"/>zum Lithographieren nach 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_MF_3_1882">Wien</placeName>
           <app from="#" type="equal" xml:id="Bae_MF_3_1883">
