@@ -137,8 +137,7 @@
             </index>
           </index> mit immer größerer 
           <del rendition="#s" xml:id="Bae_MF_3_96">Verherung</del>
-          <add place="across" xml:id="Bae_MF_3_97">Vehemenz</add> aufgetreten. Hätte 
-          <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_3_98">Banffy</persName> den mit 
+          <add place="across" xml:id="Bae_MF_3_97">Vehemenz</add> aufgetreten. Hätte <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_3_98">Banffy</persName> den mit 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_3_99">Thun</persName> abgeschlossenen Pakt vorlegen können, wäre es 
           <hi rendition="#ul" xml:id="Bae_MF_3_100">vielleicht</hi> möglich gewesen, dieselbe aufzuhalten. Das war aber wegen der geänderten Taktik in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_MF_3_101">Wien</placeName> unmöglich. Daher hüben und drüben lähmende Debatten. Entschieden eine Schattenseite der neuen Taktik waren die 
@@ -2939,8 +2938,7 @@
       </div>
       <div n="1899-10-04" type="diaryEntry" xml:id="Bae_MF_3_2161">
         <pb facs="#F_K-11_Bae_MF_3_117" n="300r" xml:id="Bae_MF_3_2162"/>
-        <p xml:id="Bae_MF_3_2163">
-          <anchor xml:id="Bae_MF_3_4109"/>
+        <p xml:id="Bae_MF_3_2163"><anchor/>
           <hi rendition="#ul" xml:id="Bae_MF_3_2164">
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_3_2165">Thuns</persName> Ende und 
             <persName key="ClaryManfred" ref="https://d-nb.info/gnd/129157198" xml:id="Bae_MF_3_2166">Clarys</persName> Anfang 
@@ -2994,8 +2992,7 @@
           </app>
           <anchor xml:id="Bae_MF_3_2203"/>dem 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_2204">Kaiser</persName> eine Liste vorlegen konnte, die genehmigt wurde. Die Peripetien dieser Ministerkrisis waren diesmal von ungewöhnlichen Schritten der 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_2205">Krone</persName> begleitet, 
-          <app from="#" type="equal" xml:id="Bae_MF_3_2206">
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_2205">Krone</persName> begleitet, <app from="#" type="equal" xml:id="Bae_MF_3_2206">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2207">dem Kaiser eine Liste vorlegen konnte, die genehmigt wurde. Die Peripetien der Ministerkrisis waren diesmal von ungewöhnlichen Schritten der Krone begleitet,</rdg>
           </app>
           <anchor xml:id="Bae_MF_3_2208"/>von Audienzen politischer Persönlichkeiten, von fortwährenden Beratungen, Erklärungen, Sondierungen, die ein sehr unerquickliches Gesamtbild darboten. 
@@ -3096,10 +3093,7 @@
           <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_MF_3_2280">
             <del rendition="#s" xml:id="Bae_MF_3_2281">Chl.</del>
             <add place="across" xml:id="Bae_MF_3_2282">Chlumecky</add>
-          </persName> ab und blieb zwei Tage bei ihm, alle Möglichkeiten und Mittel erwägend. 
-          <app from="#" type="equal" xml:id="Bae_MF_3_4110">
-            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_4111">am Abend des 17. Septbr. in Aussee an, stieg bei Chl. ab u. blieb zwei Tage bei ihm alle Möglichkeiten u. Mittel erwägend.</rdg>
-          </app>
+          </persName> ab und blieb zwei Tage bei ihm, alle Möglichkeiten und Mittel erwägend. <app from="#" type="equal"><rdg wit="Bae_TB_5">am Abend des 17. Septbr. in Aussee an, stieg bei Chl. ab u. blieb zwei Tage bei ihm alle Möglichkeiten u. Mittel erwägend.</rdg></app>
           <anchor xml:id="Bae_MF_3_2283"/>Er befreundete sich 
           <app from="#" type="notEqual" xml:id="Bae_MF_3_2284">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2285">Wir besprachen die polit. Lage im Allgemeinen eingehend u. vertieften uns auch in den Details des Pfingstprogrammes sowie in die verschlungenen Irrgänge des Ausgleiches. Die Bilinski'sche Idee: ein Cabinet der Rechten, welches die S.V. aufzuheben aber mit der bestehenden Majorität zu regieren hätte, würde als der unwarscheinlichste Fall bezeichnet, ohne dass wir wussten wie sehr die Krone gerade dieser Lösung zuneigte. Ein Ministerium der Linken verwarf Chl. wie vorauszusehen war sofort, dagegen befreundete er sich</rdg>
@@ -3214,11 +3208,8 @@
           <anchor xml:id="Bae_MF_3_2372"/>kam die Nachricht, daß 
           <persName key="LiechtensteinAlfred" ref="https://d-nb.info/gnd/129114669" xml:id="Bae_MF_3_2373">Liechtenstein</persName> in einer Audienz, die um 9 Uhr früh stattgefunden hatte, 
           <app from="#" type="notEqual" xml:id="Bae_MF_3_2374">
-            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2375">war die Obmännerconferenz, welche über die Einladung Fuchs zu berathen hatte. Inzwischen hatte das Cabinet demissionirt u. Fuchs zog sofort mittelst eines Schreibens an Funke die Einladung zurück. Trotzdem beschlossen wir eine formulirte Antwort</rdg>
-          </app>
-          <anchor xml:id="Bae_MF_3_4112"/>
-          <app from="#" type="notEqual" xml:id="Bae_MF_3_4113">
-            <rdg xml:id="Bae_MF_3_4114">für die Zeitungen. Ein Entwurf den ich mitgebracht hatte wurde amendirt u. schliesslich in der Fassung die ich vorschlug, angenommen. Mitten in die Verhandlung hinein kam die Nachricht Osw. Thun's dass Lichtenstein ihn in Kenntniss gesetzt habe, dass er in einer Audienz die um 9 Uhr früh stattfand</rdg>
+            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2375">war die Obmännerconferenz, welche über die Einladung Fuchs zu berathen hatte. Inzwischen hatte das Cabinet demissionirt u. Fuchs zog sofort mittelst eines Schreibens an Funke die Einladung zurück. Trotzdem beschlossen wir eine formulirte Antwort</rdg></app>
+          <anchor/><app from="#" type="notEqual"><rdg>für die Zeitungen. Ein Entwurf den ich mitgebracht hatte wurde amendirt u. schliesslich in der Fassung die ich vorschlug, angenommen. Mitten in die Verhandlung hinein kam die Nachricht Osw. Thun's dass Lichtenstein ihn in Kenntniss gesetzt habe, dass er in einer Audienz die um 9 Uhr früh stattfand</rdg>
           </app>
           <anchor xml:id="Bae_MF_3_2376"/>definitiv abgelehnt habe. Wir ließen nun dringende Telegramme an 
           <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_MF_3_2377">Chlumetzky</persName> abgehen. 
@@ -3285,13 +3276,10 @@
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_2429">Kaiser</persName> in einer wenig glücklichen Form beigebracht, denn er erwähnte 
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_MF_3_2430">Oswald Thun</persName> gegenüber 
           <add place="across" xml:id="Bae_MF_3_2431">:</add>
-          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_MF_3_2432">Chlumetzky</persName> habe ihm gesagt, dass die Deutschen ganz zerfahren sind. 
-          <app from="#" type="equal" xml:id="Bae_MF_3_2443">
-            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2444">er sofort nach seiner letzten Audienz nach Ratot zu Szell fuhr". Zugleich zeigte der Kaiser sein grosses Bedauern, dass die Mission Lichtenstein gescheitert sei, da dieser doch "ein guter Deutscher sei". Chlumetzky hatte in der Audienz vom 28. August offenbar den Fehler gemacht sich selbst zu disqualifiziren u. die deutsche Linke als nicht regierungsfähig hinzustellen. Das letztere ist ja gewiss momentan richtig, wurde aber dem Kaiser in einer wenig glücklichen Form beigebracht, denn er erwähnte Osw. Thun gegenüber Chl. habe ihm gesagt, dass die Deutschen ganz zerfahren sind.</rdg>
-          </app>
+          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_MF_3_2432">Chlumetzky</persName> habe ihm gesagt, dass die Deutschen ganz zerfahren sind. <app from="#" type="equal" xml:id="Bae_MF_3_2443">
+            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2444">er sofort nach seiner letzten Audienz nach Ratot zu Szell fuhr". Zugleich zeigte der Kaiser sein grosses Bedauern, dass die Mission Lichtenstein gescheitert sei, da dieser doch "ein guter Deutscher sei". Chlumetzky hatte in der Audienz vom 28. August offenbar den Fehler gemacht sich selbst zu disqualifiziren u. die deutsche Linke als nicht regierungsfähig hinzustellen. Das letztere ist ja gewiss momentan richtig, wurde aber dem Kaiser in einer wenig glücklichen Form beigebracht, denn er erwähnte Osw. Thun gegenüber Chl. habe ihm gesagt, dass die Deutschen ganz zerfahren sind.</rdg></app>
         </p>
-        <p xml:id="Bae_MF_3_2433">
-          <anchor xml:id="Bae_MF_3_4115"/>Nicht uninteressant war es mir am selben Tage von 
+        <p xml:id="Bae_MF_3_2433"><anchor/>Nicht uninteressant war es mir am selben Tage von 
           <persName key="DubskyAdolf" xml:id="Bae_MF_3_2434">Adolf Dubsky</persName>, der mit 
           <persName key="SzellKalman" ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_MF_3_2435">Szell</persName> sehr befreundet ist, zu hören, daß der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_2436">Kaiser</persName> zu diesem, als er den Besuch 
@@ -3301,9 +3289,7 @@
         </p>
         <p xml:id="Bae_MF_3_2440">Am 
           <date when="1899-09-24" xml:id="Bae_MF_3_2441">24.</date> machte ich auch 
-          <persName key="GoluchowksiAgenor" ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_MF_3_2442">Goluchowski</persName> einen Besuch. 
-          <app from="#" type="equal" xml:id="Bae_MF_3_4116">
-            <rdg xml:id="Bae_MF_3_4117">Nicht uninteressant war es mir am selben Tage von Adolf Dubsky, der mit Szell sehr befreundet ist, zu hören, dass der Kaiser zu diesem, der als er den Besuch Chl. in Ratot erklärend zur Sprache gebracht hatte brachte, geäussert habe: "ich weiß dass Chl. jedes Jahr zu Ihnen kommt u. ich finde in diesem Besuche gar nichts" – der wahre Dualismus auch in der Beurteilung untergeordneter Thatsachen. Am 24. machte ich auch Golu. einen Besuch.</rdg>
+          <persName key="GoluchowksiAgenor" ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_MF_3_2442">Goluchowski</persName> einen Besuch. <app from="#" type="equal"><rdg>Nicht uninteressant war es mir am selben Tage von Adolf Dubsky, der mit Szell sehr befreundet ist, zu hören, dass der Kaiser zu diesem, der als er den Besuch Chl. in Ratot erklärend zur Sprache gebracht hatte brachte, geäussert habe: "ich weiß dass Chl. jedes Jahr zu Ihnen kommt u. ich finde in diesem Besuche gar nichts" – der wahre Dualismus auch in der Beurteilung untergeordneter Thatsachen. Am 24. machte ich auch Golu. einen Besuch.</rdg>
           </app>
           <anchor xml:id="Bae_MF_3_2445"/>
           <app from="#" type="missing" xml:id="Bae_MF_3_2446">
@@ -3371,11 +3357,8 @@
           </app>
           <anchor xml:id="Bae_MF_3_2495"/>
           <app from="#" type="missing" xml:id="Bae_MF_3_2496">
-            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2497">Als wir auf die Schwierigkeit zu reden kamen wie das Ueberweisungsgesetz zu machen sei, meinte er das sei ein Detail u. der Verantwortung der kommenden Minister zu überlassen. Golu steht, vielleicht mehr unbewusst im Lager der Gegner der Deutschen, er hat Thun bekämpft u. mit zu Fall gebracht, weil er das deutsche Bündnis gefährdet sah, von Hohenlohe u. Bülow wohl unangenehme Dinge zu hören bekam, </rdg>
-          </app>
-          <anchor xml:id="Bae_MF_3_4118"/>
-          <app from="#" type="missing" xml:id="Bae_MF_3_4119">
-            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_4120">hätte aber andernfalls keinen Finger gerührt. Er ist eingebildet u. oberflächlich u. ergeht sich in allgemeinen Redensarten, hinter denen aber gar nichts steckt. Sobald man aber auf etwas Concretes zu sprechen kommt, sagt er es sei Detail. Diese Art Leute wollen sich vor Allem auf ihren Posten erhalten, daher seine Furcht natürlich sich in die innere Politik zu mischen o. auch nur jene Ingerenz zu nehmen, welche für einen M. des Äussern u. des kais. Hauses geboten wäre in einer Zeit wo alles am Spiele steht.</rdg>
+            <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2497">Als wir auf die Schwierigkeit zu reden kamen wie das Ueberweisungsgesetz zu machen sei, meinte er das sei ein Detail u. der Verantwortung der kommenden Minister zu überlassen. Golu steht, vielleicht mehr unbewusst im Lager der Gegner der Deutschen, er hat Thun bekämpft u. mit zu Fall gebracht, weil er das deutsche Bündnis gefährdet sah, von Hohenlohe u. Bülow wohl unangenehme Dinge zu hören bekam, </rdg></app>
+          <anchor/><app from="#" type="missing"><rdg wit="Bae_TB_5">hätte aber andernfalls keinen Finger gerührt. Er ist eingebildet u. oberflächlich u. ergeht sich in allgemeinen Redensarten, hinter denen aber gar nichts steckt. Sobald man aber auf etwas Concretes zu sprechen kommt, sagt er es sei Detail. Diese Art Leute wollen sich vor Allem auf ihren Posten erhalten, daher seine Furcht natürlich sich in die innere Politik zu mischen o. auch nur jene Ingerenz zu nehmen, welche für einen M. des Äussern u. des kais. Hauses geboten wäre in einer Zeit wo alles am Spiele steht.</rdg>
           </app>
           <anchor xml:id="Bae_MF_3_2498"/>Formell gibt ihm die unglückselige Loslösung der "gemeinsamen Angelegenheiten" von der inneren Politik 
           <app from="#" type="equal" xml:id="Bae_MF_3_2499">
