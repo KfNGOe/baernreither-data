@@ -466,7 +466,7 @@
         <note type="editorial" xml:id="Bae_TB_5_348">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_5_010" n="4r" xml:id="Bae_TB_5_349"/>
         <p xml:id="Bae_TB_5_350">Über sein Drängen kamen auch einige von uns am 
-          <date rendition="1899-07-06" xml:id="Bae_TB_5_351">6. Juli</date> in 
+          <date when="1899-07-06" xml:id="Bae_TB_5_351">6. Juli</date> in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_5_352">Wien</placeName> bei 
           <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_5_353">Chlumetzy</persName> zusammen. 
           <app from="#Bae_MF_3_1527" type="equal" xml:id="Bae_TB_5_354">
@@ -1235,7 +1235,7 @@
         <app from="#_21v" type="insertion" xml:id="Bae_TB_5_936">
           <rdg xml:id="Bae_TB_5_937">[...]</rdg>
         </app>
-        <addSpan spanTo="#_10r" type="insertion" xml:id="Bae_TB_5_938"/>
+        <addSpan spanTo="#Bae_TB_5_954" type="insertion" xml:id="Bae_TB_5_938"/>
         <p xml:id="Bae_TB_5_939">Denkschrift über die Lage in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_940">Oesterreich</placeName>.
         </p>
@@ -1260,7 +1260,7 @@
           <anchor xml:id="Bae_TB_5_954"/>
           <!-- CA anchor für addspan 10r -->
           <pb facs="#F_K-4_Bae_TB_5_023" n="10v" xml:id="Bae_TB_5_955"/>
-          <anchor xml:id="Bae_TB_5_956"/>Verbindung mit 
+          <addSpan spanTo="#Bae_TB_5_972" type="insertion"/><anchor xml:id="Bae_TB_5_956"/>Verbindung mit 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_5_957">Ungarn</placeName> zu einer Ordnung zu kommen. Denn Niemand darf sich darüber täuschen, daß wenn einmal der Weg des 
           <index xml:id="Bae_TB_5_958">
             <term key="Staatsstreich" xml:id="Bae_TB_5_959">Staatsstreiches</term>
@@ -1284,7 +1284,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_972"/>
           <!-- CA anchor für addspan -->
-          <pb facs="#F_K-4_Bae_TB_5_024" n="11r" xml:id="Bae_TB_5_973"/>
+          <pb facs="#F_K-4_Bae_TB_5_024" n="11r" xml:id="Bae_TB_5_973"/><addSpan spanTo="#Bae_TB_5_992" type="insertion"/>
           <anchor xml:id="Bae_TB_5_974"/>nur Vorfragen, denn der endliche Erfolg kann nur eintreten, wenn die bisherige Ausgleichspolitik – und zwar hüben und drüben – verlassen wird und einer neuen Methode Platz macht.
         </p>
         <p xml:id="Bae_TB_5_975">Die Vereinbarungen, die 
@@ -1311,7 +1311,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_992"/>
           <!-- CA anchor für addspan -->
-          <pb facs="#F_K-4_Bae_TB_5_025" n="11v" xml:id="Bae_TB_5_993"/>
+          <pb facs="#F_K-4_Bae_TB_5_025" n="11v" xml:id="Bae_TB_5_993"/><addSpan spanTo="#Bae_TB_5_1026" type="insertion"/>
           <anchor xml:id="Bae_TB_5_994"/>verträge und für das 
           <index xml:id="Bae_TB_5_995">
             <term key="OesterreichUngarn" xml:id="Bae_TB_5_996">Zoll- und Handelsbündnis</term>
@@ -1356,7 +1356,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1026"/>
           <!-- CA anchor für addspan -->
-          <pb facs="#F_K-4_Bae_TB_5_026" n="12r" xml:id="Bae_TB_5_1027"/>bezeichnenden ungarischen Diction 
+          <pb facs="#F_K-4_Bae_TB_5_026" n="12r" xml:id="Bae_TB_5_1027"/><addSpan spanTo="#Bae_TB_5_1063" type="insertion"/>bezeichnenden ungarischen Diction 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_1028">Oesterreich</placeName>
           <hi rendition="#ul" xml:id="Bae_TB_5_1029">und</hi>
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_5_1030">Ungarn</placeName> – in diese Verhandlungen mit einem gelockerten Solidaritätsgefühl eintreten werden, ohne die bisherige Basis des vertragsmäßig geschlossenen einheitlichen Zollgebietes, welches ja in dem Jahre, welches dem Zustandekommen der auswärtigen Verträge gewidmet sein soll, erst zustande zu bringen ist – alles Anhaltspunkte für die auswärtigen Staaten, uns und 
@@ -1404,7 +1404,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1063"/>
           <!-- CA anchor für addspan -->
-          <pb facs="#F_K-4_Bae_TB_5_027" n="12v" xml:id="Bae_TB_5_1064"/>nung gestellt werden müssen mit all ihren Consequenzen. Wir dürfen nicht immer die Geschreckten sein, dann wird die Trennung so leicht nicht erfolgen. Andererseits muss mit allen Mitteln der verhetzenden Agitation gegen 
+          <pb facs="#F_K-4_Bae_TB_5_027" n="12v" xml:id="Bae_TB_5_1064"/><addSpan spanTo="#Bae_TB_5_1089" type="insertion"/><anchor/>nung gestellt werden müssen mit all ihren Consequenzen. Wir dürfen nicht immer die Geschreckten sein, dann wird die Trennung so leicht nicht erfolgen. Andererseits muss mit allen Mitteln der verhetzenden Agitation gegen 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_5_1065">Ungarn</placeName> Einhalt gethan werden, die unser Verhältnis zur andern Reichshälfte so sehr verbittert hat. Damit soll nicht gesagt sein, daß der neue parlamentarische Vertrag mit 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_5_1066">Ungarn</placeName> in Allem und Jedem nach der bisherigen Schablone abzuschließen sein wird. Die wirtschaftlichen Verhältnisse und Bedürfnisse haben sich seit 30 Jahren derartig geändert, daß möglicherweise eine Umformung der 
           <index xml:id="Bae_TB_5_1067">
@@ -1440,7 +1440,7 @@
         </p>
         <anchor xml:id="Bae_TB_5_1089"/>
         <!-- CA anchor für addspan 12v -->
-        <pb facs="#F_K-4_Bae_TB_5_028" n="13r" xml:id="Bae_TB_5_1090"/>
+        <pb facs="#F_K-4_Bae_TB_5_028" n="13r" xml:id="Bae_TB_5_1090"/><addSpan spanTo="#Bae_TB_5_1128" type="insertion"/>
         <p xml:id="Bae_TB_5_1091">
           <anchor xml:id="Bae_TB_5_1092"/>Die Ausgleichspolitik muß allerdings von Grund aus eine andere werden. Czechen, Polen, Slovenen können nie die alleinigen Träger eines aufrichtigen, dauernden Bündnisses mit 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_5_1093">Ungarn</placeName> sein. Die wirtschaftliche Vormacht 
@@ -1494,7 +1494,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1128"/>
           <!-- CA anchor für addspan 13r-->
-          <pb facs="#F_K-4_Bae_TB_5_029" n="13v" xml:id="Bae_TB_5_1129"/>
+          <pb facs="#F_K-4_Bae_TB_5_029" n="13v" xml:id="Bae_TB_5_1129"/><addSpan spanTo="#Bae_TB_5_1144" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1130"/>ziehung der besten Kraft, welche 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_1131">Oesterreich</placeName> besitzt, verbunden mit den schwersten Folgen für seine Machtstellung.
         </p>
@@ -1517,7 +1517,7 @@
         </p>
         <anchor xml:id="Bae_TB_5_1144"/>
         <!-- CA anchor für addspan 13v-->
-        <pb facs="#F_K-4_Bae_TB_5_030" n="14r" xml:id="Bae_TB_5_1145"/>
+        <pb facs="#F_K-4_Bae_TB_5_030" n="14r" xml:id="Bae_TB_5_1145"/><addSpan spanTo="#Bae_TB_5_1164" type="insertion"/>
         <p xml:id="Bae_TB_5_1146">
           <anchor xml:id="Bae_TB_5_1147"/>Aber der bitterste Tropfen, der in die traurige Erkenntnis dieser Sachlage fällt, ist die Meinung, daß der Träger der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_5_1148">Krone</persName> mit Absicht und Bewußstsein eine slavische Politik treibt, um das deutsche Element in 
@@ -1543,7 +1543,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1164"/>
           <!-- CA anchor für addspan 14r-->
-          <pb facs="#F_K-4_Bae_TB_5_031" n="14v" xml:id="Bae_TB_5_1165"/>ten entworfen, sondern aus der Volksüberzeugung geschöpft ist.
+          <pb facs="#F_K-4_Bae_TB_5_031" n="14v" xml:id="Bae_TB_5_1165"/><addSpan spanTo="#Bae_TB_5_1185" type="insertion"/>ten entworfen, sondern aus der Volksüberzeugung geschöpft ist.
         </p>
         <p xml:id="Bae_TB_5_1166">
           <anchor xml:id="Bae_TB_5_1167"/>Es entspringt dem innersten Wesen des deutschen Volkes, welches nichts anderes verlangt, als in seinen Wohnsitzen ruhig und unbehelligt von nationalen Eingriffen Anderer zu leben, und das gegen geschlossene anderssprachige Gebiete 
@@ -1572,7 +1572,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1185"/>
           <!-- CA anchor für addspan 14v-->
-          <pb facs="#F_K-4_Bae_TB_5_032" n="15r" xml:id="Bae_TB_5_1186"/>
+          <pb facs="#F_K-4_Bae_TB_5_032" n="15r" xml:id="Bae_TB_5_1186"/><addSpan spanTo="#Bae_TB_5_1202" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1187"/>vieldeutigen und praktisch unbrauchbaren §. 19 der 
           <index xml:id="Bae_TB_5_1188">
             <term key="Verfassung" xml:id="Bae_TB_5_1189">Verfassung</term>
@@ -1596,7 +1596,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1202"/>
           <!-- CA anchor für addspan 15r-->
-          <pb facs="#F_K-4_Bae_TB_5_033" n="15v" xml:id="Bae_TB_5_1203"/>
+          <pb facs="#F_K-4_Bae_TB_5_033" n="15v" xml:id="Bae_TB_5_1203"/><addSpan spanTo="#Bae_TB_5_1220" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1204"/>gen ihnen nach, während die Polen, abgesehen von ihren ostschlesischen Wünschen, mehr abseits stehen. Den Czechen schwebt längst ein katholisch-slavisches 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_1205">Oesterreich</placeName> neben dem orthodox-slavischen 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_5_1206">Russland</placeName> vor, vorläufig als Übergang eine slavische Reichshälfte neben der ungarischen. Die Beherrschung der Deutschen in den "Ländern der böhmischen Krone, der Vorstoß der Südslaven gegen die Alpendeutschen, endlich der Vorstoß gegen 
@@ -1620,7 +1620,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1220"/>
           <!-- CA anchor für addspan 15v-->
-          <pb facs="#F_K-4_Bae_TB_5_034" n="16r" xml:id="Bae_TB_5_1221"/>
+          <pb facs="#F_K-4_Bae_TB_5_034" n="16r" xml:id="Bae_TB_5_1221"/><addSpan spanTo="#Bae_TB_5_1235" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1222"/>oder wie soll sonst der Schwerpunkt der Staatsverwaltung in die siebenzehn Landtage verlegt werden? Über diese Fragen würden Czechen, Polen und Slovenen sofort in den heftigsten Kampf untereinander gerathen, und es haben deswegen diese drei slavischen Stämme auch nicht einmal den Versuch gemacht, ein concretes Bild von dem foederalistischen 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_1223">Oesterreich</placeName> zu entwerfen, das ihren 
           <hi rendition="#ul" xml:id="Bae_TB_5_1224">gemeinsamen</hi> Absichten entsprechen würde. Und so scheint es, daß heute nach und nach eine andere Idee aufkommt, nämlich die jetzige Centralgewalt – autonomistische Verbrämungen nicht 
@@ -1640,7 +1640,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1235"/>
           <!-- CA anchor für addspan 16r-->
-          <pb facs="#F_K-4_Bae_TB_5_035" n="16v" xml:id="Bae_TB_5_1236"/>
+          <pb facs="#F_K-4_Bae_TB_5_035" n="16v" xml:id="Bae_TB_5_1236"/><addSpan spanTo="#Bae_TB_5_1253" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1237"/>sind und die Anlehnungen, die sich für uns ergeben können, von vielen außer unserem Einflusse, aber auch außer jeder Berechnung liegenden Umständen abhängen. So viel ist aber gewiß, daß die Aufrechthaltung des heute noch bestehenden aufrichtigen und engen Bündnisses mit dem deutschen Reiche nach und nach zu einer Unmöglichkeit werden würde, wenn nicht der heutigen Richtung Einhalt geschieht. Czechen und Slovenen träumen von einem Bunde mit 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_5_1238">Russland</placeName> gegen 
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_5_1239">Deutschland</placeName> und die Polen werden immer, so lange der deutsch-französische Gegensatz besteht, trotz aller Enttäuschungen, die sie von französischer Seite erfahren haben, auf dieser Seite stehen.
@@ -1662,7 +1662,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1253"/>
           <!-- CA anchor für addspan 16v-->
-          <pb facs="#F_K-4_Bae_TB_5_036" n="17r" xml:id="Bae_TB_5_1254"/>
+          <pb facs="#F_K-4_Bae_TB_5_036" n="17r" xml:id="Bae_TB_5_1254"/><addSpan spanTo="#Bae_TB_5_1287" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1255"/>ein von slavischen und clericalen Strebungen beherrschtes 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_1256">Oesterreich</placeName> keine Garantien mehr bietet. Man kennt die Aspirationen der Czechen und ihrer Bundesgenossen genau, ist aber überzeugt und arbeitet systematisch darauf hin, daß 
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_5_1257">Deutschland</placeName> und 
@@ -1710,7 +1710,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1287"/>
           <!-- CA anchor für addspan 17r-->
-          <pb facs="#F_K-4_Bae_TB_5_037" n="17v" xml:id="Bae_TB_5_1288"/>
+          <pb facs="#F_K-4_Bae_TB_5_037" n="17v" xml:id="Bae_TB_5_1288"/><addSpan spanTo="#Bae_TB_5_1323" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1289"/>reichen nicht mehr aus, das von 
           <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_TB_5_1290">Taaffe</persName> inaugirirte System des "Fortwurstelns" ist endgültig niedergebrochen.
         </p>
@@ -1762,10 +1762,8 @@
           </app>
           <anchor xml:id="Bae_TB_5_1323"/>
           <!-- CA anchor für addspan 17v-->
-          <pb facs="#F_K-4_Bae_TB_5_038" n="18r" xml:id="Bae_TB_5_1324"/>
-          <app from="#" type="missing" xml:id="Bae_TB_5_1325">
-            <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_1326"/>
-          </app>nur eine unheilbare Zerrüttung unserer Verhältnisse zur Folge haben. Zunächst eine moralische Schädigung, eine weitere Erschütterung des Rechtsgefühls, eine Verhöhnung all der Eide, die auf die 
+          <pb facs="#F_K-4_Bae_TB_5_038" n="18r" xml:id="Bae_TB_5_1324"/><addSpan spanTo="#Bae_TB_5_1339" type="insertion"/>
+          nur eine unheilbare Zerrüttung unserer Verhältnisse zur Folge haben. Zunächst eine moralische Schädigung, eine weitere Erschütterung des Rechtsgefühls, eine Verhöhnung all der Eide, die auf die 
           <index xml:id="Bae_TB_5_1327">
             <term key="Verfassung" xml:id="Bae_TB_5_1328">Verfassung</term>
           </index> geschworen worden sind. Die Slaven, vor allen aber die Czechen würden, da ihnen das böhmische Staatsrecht und die Sonderstellung der böhmischen Länder doch wahrscheinlich nicht concedirt würden, zu drängen und zu fordern erst recht nicht aufhören, die Deutschen würden darin das Signal erblicken, daß ihr anerkannt maßvolles Programm ohneweiters verworfen wird und daß die 
@@ -1786,7 +1784,7 @@
         </p>
         <anchor xml:id="Bae_TB_5_1339"/>
         <!-- CA anchor für addspan 18r -->
-        <pb facs="#F_K-4_Bae_TB_5_039" n="18v" xml:id="Bae_TB_5_1340"/>
+        <pb facs="#F_K-4_Bae_TB_5_039" n="18v" xml:id="Bae_TB_5_1340"/><addSpan spanTo="#Bae_TB_5_1368" type="insertion"/>
         <p xml:id="Bae_TB_5_1341">
           <anchor xml:id="Bae_TB_5_1342"/>Seit dem 
           <index xml:id="Bae_TB_5_1343">
@@ -1823,7 +1821,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1368"/>
           <!-- CA anchor für addspan 18v -->
-          <pb facs="#F_K-4_Bae_TB_5_040" n="19r" xml:id="Bae_TB_5_1369"/>
+          <pb facs="#F_K-4_Bae_TB_5_040" n="19r" xml:id="Bae_TB_5_1369"/><addSpan spanTo="#Bae_TB_5_1393" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1370"/>
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_5_1371">Thun</persName> eingeklammert zwischen der Erbitterung der Deutschen und der steigenden Begehrlichkeiten der Slaven. Aus diesem Eng
           <del rendition="#s" xml:id="Bae_TB_5_1372"/>
@@ -1855,7 +1853,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1393"/>
           <!-- CA anchor für addspan 19r -->
-          <pb facs="#F_K-4_Bae_TB_5_041" n="19v" xml:id="Bae_TB_5_1394"/>
+          <pb facs="#F_K-4_Bae_TB_5_041" n="19v" xml:id="Bae_TB_5_1394"/><addSpan spanTo="#Bae_TB_5_1414" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1395"/>practischer Politik.
         </p>
         <p xml:id="Bae_TB_5_1396">Es muss zunächst ein Rechtszustand in Sprachensachen geschaffen und derselbe gesetzlich festgelegt werden. Diese Arbeit setzt sich aus zwei verschiedenen Theilen zusammen: aus einer reichsgesetzlichen, soweit die Vermittlungssprache und die Amtssprachen der staatlichen Behörden in Frage kommen, und aus einer landesgesetzlichen, welche die Sprachenverhältnisse der autonomen Behörden zu regeln hätte. Es ist vorläufig nicht daran zu denken, daß das 
@@ -1883,7 +1881,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1414"/>
           <!-- CA anchor für addspan 19v -->
-          <pb facs="#F_K-4_Bae_TB_5_042" n="20r" xml:id="Bae_TB_5_1415"/>
+          <pb facs="#F_K-4_Bae_TB_5_042" n="20r" xml:id="Bae_TB_5_1415"/><addSpan spanTo="#Bae_TB_5_1436" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1416"/>ministeriums im Reichsgesetzblatt kundgemacht werden und unter gleichzeitiger Publicirung eines a.h. Handschreibens an den Ministerpraesidenten, welches den Zweck verkünden würde, in Sprachensachen eine Ordnung anzubahnen und dabei den Rechten des Staates und den thatsächlichen Verhältnissen Rechnung zu tragen.
         </p>
         <p xml:id="Bae_TB_5_1417">Dieses Handschreiben müßte ernste, aber wolwollende Worte an alle, in erster Reihe an die Deutschen enthalten. Die kaiserliche Verordnung hätte die ausdrückliche Bestimmung zu treffen, daß dieselbe in der Form eines Gesetzentwurfes dem 
@@ -1915,7 +1913,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1436"/>
           <!-- CA anchor für addspan 20r -->
-          <pb facs="#F_K-4_Bae_TB_5_043" n="20v" xml:id="Bae_TB_5_1437"/>
+          <pb facs="#F_K-4_Bae_TB_5_043" n="20v" xml:id="Bae_TB_5_1437"/><addSpan spanTo="#Bae_TB_5_1454" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1438"/>welche jede klare und energische Initiative hervorbringt. Gerade inmitten unseres Pessimismuses, der Resignation und Niedergeschlagenheit wäre diese Wirkung nicht nur eine starke, sondern auch gute, selbst dem Auslande gegenüber, das an den regierenden Kräften unseres Staates zu zweifeln beginnt. Die Deutschen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_1439">Oesterreich</placeName> würden darin ein Friedenszeichen erblicken, welches ihnen winken muß, wenn die Führung wieder den Gemäßigten zufallen soll. Polen und 
           <orgName key="KatholischeVolkspartei" xml:id="Bae_TB_5_1440">katholische Volkspartei</orgName> würden den neuen Maßregeln sich anpassen. Von den Czechen allerdings – und anfangs gewiss auch von ihrem Echo, den Südslaven – wird man sich, da ihr Chauvinismus jetzt auf das Äußerste gestiegen ist, auf einen heftigen Ausbruch gefaßt machen müssen, aber will man aus den heutigen Verhältnissen herauskommen, muss dieses Stadium so oder so überwunden werden, denn die Czechen werden sich nicht früher zu irgend welchen Verhandlungen herbeilassen, als ihnen nicht durch Thatsachen bewiesen ist, daß sie die in 
@@ -1939,7 +1937,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1454"/>
           <!-- CA anchor für addspan 20v -->
-          <pb facs="#F_K-4_Bae_TB_5_044" n="21r" xml:id="Bae_TB_5_1455"/>
+          <pb facs="#F_K-4_Bae_TB_5_044" n="21r" xml:id="Bae_TB_5_1455"/><addSpan spanTo="#Bae_TB_5_1477" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1456"/>haben kann wie die Sprachenverordnung, die einen Sprachenzwang auflegt.
         </p>
         <p xml:id="Bae_TB_5_1457">Schwieriger scheint das Problem, was mit dem arbeitsunfähigen 
@@ -1974,7 +1972,7 @@
           </app>
           <anchor xml:id="Bae_TB_5_1477"/>
           <!-- CA anchor für addspan 21r-->
-          <pb facs="#F_K-4_Bae_TB_5_045" n="21v" xml:id="Bae_TB_5_1478"/>
+          <pb facs="#F_K-4_Bae_TB_5_045" n="21v" xml:id="Bae_TB_5_1478"/><addSpan spanTo="#Bae_TB_5_1486" type="insertion"/>
           <anchor xml:id="Bae_TB_5_1479"/>der jahrelangen Zerrüttung unserer öffentlichen Verhältnisse nicht anders sein kann, unfähig, die Aufgaben einer Regierungspartei zu erfüllen. Eine feste Regierungspolitik muß ihnen erst einen Halt geben. Eine Auflösung des Hauses ist unvermeidlich. Geschieht sie planlos, lediglich als ein Experiment, dann werden jene Recht behalten, welche von eine solchen Maßregel nur die Stärkung der radicalen Elemente im Hause erwarten. Wird sie aber gehörig vorbereitet und sehen die Wählerschaften, wohin die Regierung steuert, wird dieselbe Maßregel reinigend wirken und die Arbeitsfähigkeit des Hauses vorbereiten. Erst in einem neuen Hause kann eine neue Parteigruppirung stattfinden.
         </p>
         <p xml:id="Bae_TB_5_1480">Der ganze Plan steht und fällt mit der Erwägung, ob eine Regierung mit festen, von Parteieinflüssen unabhängigen Grundsätzen noch imstande ist durchzudringen. Wir glauben heute noch daran, weil es ein Mittel ist, welches noch nicht versucht worden ist. Es müßte der Regierung allerdings Zeit gelassen werden, denn die Wirkung kann nicht so schnell eintreten, und die 
@@ -1988,8 +1986,6 @@
         <anchor xml:id="Bae_TB_5_1486"/>
         <!-- CA anchor für addspan 21v -->
         <!-- DC: Ende der Einklebung -->
-        <anchor xml:id="Bae_TB_5_1487"/>
-        <!-- anchor für addspan 10r ff. -->
         <pb facs="#F_K-4_Bae_TB_5_046" n="22r" xml:id="Bae_TB_5_1488"/>
         <p xml:id="Bae_TB_5_1489">
           <anchor xml:id="Bae_TB_5_1490"/>Als ich am 
@@ -3310,7 +3306,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_061" n="29v" xml:id="Bae_TB_5_2454"/>
-        <addSpan spanTo="_029v" type="insertion" xml:id="Bae_TB_5_2455"/>
+        <addSpan spanTo="#Bae_TB_5_2501" type="insertion" xml:id="Bae_TB_5_2455"/>
         <p xml:id="Bae_TB_5_2456">
           <anchor xml:id="Bae_TB_5_2457"/>
           <hi rendition="#ul" xml:id="Bae_TB_5_2458">Unterredung des 
@@ -3513,7 +3509,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_063" n="30v" xml:id="Bae_TB_5_2604"/>
-        <addSpan spanTo="#_30v" xml:id="Bae_TB_5_2605"/>
+        <addSpan spanTo="#Bae_TB_5_2689" type="insertion" xml:id="Bae_TB_5_2605"/>
         <p xml:id="Bae_TB_5_2606">
           <anchor xml:id="Bae_TB_5_2607"/>Dem 
           <index xml:id="Bae_TB_5_2608">
@@ -3769,7 +3765,7 @@
         </p>
         <pb facs="#F_K-4_Bae_TB_5_065" n="30av" xml:id="Bae_TB_5_2789"/>
         <p xml:id="Bae_TB_5_2790">
-          <addSpan spanTo="#" xml:id="Bae_TB_5_2791"/>
+          <addSpan spanTo="#Bae_TB_5_2839" type="insertion" xml:id="Bae_TB_5_2791"/>
           <anchor xml:id="Bae_TB_5_2792"/>gross ist, die Erinnerung an die gegenseitigen persönlichen Unbilden noch so frisch, dass ein 
           <choice xml:id="Bae_TB_5_2793">
             <abbr xml:id="Bae_TB_5_2794">parlam.</abbr>
@@ -4008,7 +4004,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_067" n="31v" xml:id="Bae_TB_5_2961"/>
-        <addSpan spanTo="#_31v" type="insertion" xml:id="Bae_TB_5_2962"/>
+        <addSpan spanTo="#Bae_TB_5_3012" type="insertion" xml:id="Bae_TB_5_2962"/>
         <p xml:id="Bae_TB_5_2963">
           <anchor xml:id="Bae_TB_5_2964"/>zu normalen Verhältnissen noch viel. Meinung bezüglich des 
           <index xml:id="Bae_TB_5_2965">
@@ -4218,7 +4214,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_069" n="32v" xml:id="Bae_TB_5_3114"/>
-        <addSpan spanTo="#_032v" type="insertion" xml:id="Bae_TB_5_3115"/>
+        <addSpan spanTo="#Bae_TB_5_3152" type="insertion" xml:id="Bae_TB_5_3115"/>
         <p xml:id="Bae_TB_5_3116">
           <anchor xml:id="Bae_TB_5_3117"/>Friede geschaffen werden muss. Selbst Vertreter eines Industriebezirkes. 
           <choice xml:id="Bae_TB_5_3118">
@@ -4333,24 +4329,27 @@
         </p>
         <!-- DC: hierher Einklebung Notiz von fol. 29v bis 33v -->
         <anchor xml:id="Bae_TB_5_3199"/>
-        <app from="#_29v" type="insertion" xml:id="Bae_TB_5_3200">
+        <app from="#Bae_TB_5_2454" type="insertion" xml:id="Bae_TB_5_3200">
           <rdg xml:id="Bae_TB_5_3201">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_5_3202"/>
-        <app from="#_30v" type="insertion" xml:id="Bae_TB_5_3203">
+        <app from="#Bae_TB_5_2605" type="insertion" xml:id="Bae_TB_5_3203">
           <rdg xml:id="Bae_TB_5_3204">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_5_3205"/>
-        <app from="#_31v" type="insertion" xml:id="Bae_TB_5_3206">
+        <app from="#Bae_TB_5_2791" type="insertion" xml:id="Bae_TB_5_3206">
           <rdg xml:id="Bae_TB_5_3207">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_5_3208"/>
-        <app from="#_32v" type="insertion" xml:id="Bae_TB_5_3209">
+        <app from="#_Bae_TB_5_2962" type="insertion" xml:id="Bae_TB_5_3209">
           <rdg xml:id="Bae_TB_5_3210">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_5_3211"/>
-        <app from="#_33v" type="insertion" xml:id="Bae_TB_5_3212">
+        <app from="#Bae_TB_5_3115" type="insertion" xml:id="Bae_TB_5_3212">
           <rdg xml:id="Bae_TB_5_3213">[...]</rdg>
+        </app>
+        <app from="#Bae_TB_5_3296" type="insertion">
+          <rdg>[...]</rdg>
         </app>
         <p xml:id="Bae_TB_5_3214">
           <anchor xml:id="Bae_TB_5_3215"/>Am selben Tage war 
@@ -4465,7 +4464,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_071" n="33v" xml:id="Bae_TB_5_3295"/>
-        <addSpan spanTo="#_33v" type="insertion" xml:id="Bae_TB_5_3296"/>
+        <addSpan spanTo="#Bae_TB_5_3331" type="insertion" xml:id="Bae_TB_5_3296"/>
         <p xml:id="Bae_TB_5_3297">
           <anchor xml:id="Bae_TB_5_3298"/>
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_5_3299">
@@ -5019,7 +5018,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_081" n="38v" xml:id="Bae_TB_5_3716"/>
-        <addSpan spanTo="#_38v" type="insertion" xml:id="Bae_TB_5_3717"/>
+        <addSpan spanTo="#Bae_TB_5_3775" type="insertion" xml:id="Bae_TB_5_3717"/>
         <p xml:id="Bae_TB_5_3718">
           <anchor xml:id="Bae_TB_5_3719"/>
           <date when="1899-12-05" xml:id="Bae_TB_5_3720">5. 
@@ -5173,7 +5172,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_083" n="39v" xml:id="Bae_TB_5_3829"/>
-        <addSpan spanTo="#_39v" type="insertion" xml:id="Bae_TB_5_3830"/>
+        <addSpan spanTo="#Bae_TB_5_3892" type="insertion" xml:id="Bae_TB_5_3830"/>
         <p xml:id="Bae_TB_5_3831">
           <anchor xml:id="Bae_TB_5_3832"/>lagen endgiltig durchberathen und durch entsprechende Beschlüsse zum Abschlusse gebracht sein werden, ein zustellen und demnach nicht zur Anwendung zu bringen.
         </p>
@@ -5289,11 +5288,11 @@
         </p>
         <!-- DC: hierher Einklebung Zeitungsauschnitt fol. 38v bis 40v -->
         <anchor xml:id="Bae_TB_5_3911"/>
-        <app from="#_38v" type="insertion" xml:id="Bae_TB_5_3912">
+        <app from="#Bae_TB_5_3717" type="insertion" xml:id="Bae_TB_5_3912">
           <rdg xml:id="Bae_TB_5_3913">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_5_3914"/>
-        <app from="#_39v" type="insertion" xml:id="Bae_TB_5_3915">
+        <app from="#Bae_TB_5_3830" type="insertion" xml:id="Bae_TB_5_3915">
           <rdg xml:id="Bae_TB_5_3916">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_5_3917"/>
@@ -5353,7 +5352,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_085" n="40v" xml:id="Bae_TB_5_3959"/>
-        <addSpan spanTo="#_40v" type="insertion" xml:id="Bae_TB_5_3960"/>
+        <addSpan spanTo="#Bae_TB_5_4034" type="insertion" xml:id="Bae_TB_5_3960"/>
         <p xml:id="Bae_TB_5_3961">
           <anchor xml:id="Bae_TB_5_3962"/>Antrag 
           <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_5_3963">Lueger</persName>.
@@ -5522,7 +5521,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_087" n="41v" xml:id="Bae_TB_5_4084"/>
-        <addSpan spanTo="#_41v" type="insertion" xml:id="Bae_TB_5_4085"/>
+        <addSpan spanTo="#Bae_TB_5_4108" type="insertion" xml:id="Bae_TB_5_4085"/>
         <p xml:id="Bae_TB_5_4086">
           <anchor xml:id="Bae_TB_5_4087"/>Der Vorsitzende 
           <persName key="JaworskiApolinary" ref="http://d-nb.info/gnd/1012814300" xml:id="Bae_TB_5_4088">R. v. Jaworski</persName> richtete in seinem Schlußworte an die Versammlung die Bitte, sie möge die Verhandlungen nicht als abgebrochen betrachten, sondern den angeknüpften Faden weiterspinnen. (Zustimmung.) Er und seine Parteigenossen bitten und flehen die 
@@ -6277,7 +6276,7 @@
             <expan xml:id="Bae_TB_5_4670">und</expan>
           </choice>
           <del rendition="#s" xml:id="Bae_TB_5_4671">wir</del>
-          <add rendition="across" xml:id="Bae_TB_5_4672">fünf von den</add> deutschen Vertretern versammelten 
+          <add place="across" xml:id="Bae_TB_5_4672">fünf von den</add> deutschen Vertretern versammelten 
           <del rendition="#s" xml:id="Bae_TB_5_4673">uns</del>
           <add place="across" xml:id="Bae_TB_5_4674">sich</add> in einem Nebenzimmer zur Beratung der Antwort. Ich setzte mich in eine Fensternische 
           <choice xml:id="Bae_TB_5_4675">
@@ -7767,7 +7766,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_131" n="64v" xml:id="Bae_TB_5_5817"/>
-        <addSpan spanTo="#_64v" type="insertion" xml:id="Bae_TB_5_5818"/>
+        <addSpan spanTo="#Bae_TB_5_5846" type="insertion" xml:id="Bae_TB_5_5818"/>
         <p xml:id="Bae_TB_5_5819">
           <anchor xml:id="Bae_TB_5_5820"/>
           <hi rendition="ul" xml:id="Bae_TB_5_5821">Als Manuscript gedruckt. 
@@ -7776,7 +7775,7 @@
           </hi>
         </p>
         <p xml:id="Bae_TB_5_5824">
-          <hi rendition="fett" xml:id="Bae_TB_5_5825">Denkschrift über die Sprachenvorlagen für 
+          <hi rendition="#b" xml:id="Bae_TB_5_5825">Denkschrift über die Sprachenvorlagen für 
             <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_5_5826">Böhmen</placeName>
           </hi>.
         </p>
@@ -7908,7 +7907,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_133" n="65v" xml:id="Bae_TB_5_5920"/>
-        <addSpan spanTo="#_65v" type="insertion" xml:id="Bae_TB_5_5921"/>
+        <addSpan spanTo="#Bae_TB_5_5934" type="insertion" xml:id="Bae_TB_5_5921"/>
         <p xml:id="Bae_TB_5_5922">
           <anchor xml:id="Bae_TB_5_5923"/>Regierungsvorlage in einer unklaren, theilweise sogar irreführenden Weise zum Ausdruck gebracht. Die in der Vorlage den Beamten extra statum eingeräumte Stellung wäre nur eine neue Auflage der alten Uebelstände. Der Beamte extra statum soll nach dem Wortlaut des § 4 der anderssprachigen Partei die Möglichkeit bieten, "sich an den Verhandlungen zu betheiligen und ihre Rechte zu wahren". Durch diese Fassung ist der Conflict mit dem die Verhandlung leitenden Beamten geradezu gegeben. Die Stellung eines solchen Uebersetzungsbeamten müßte genau präcisirt sein, und insbesondere für das gerichtliche Verfahren müßte feststehen, daß er keine besonderen processualen Rechte und Pflichten hat, sondern nur das Organ ist, welches sprachlich zwischen Partei und Gericht zu vermitteln hat. Allgemein wird in Deutschböhmen die Befürchtung laut, daß der Beamte extra statum sich als der officielle Vertreter aller nationalen Aspirationen selbst vereinzelter oder weniger Czechen im Bezirk benehmen und eine Art privilegirter Agitation betreiben würde. Deswegen müßte auch die von der Regierung geplante Einfügung eines Uebersetzungsbeamten in die bestehende Organisation der Behörden ganz anders durchgeführt werden. Der § 27 der Vorlage leidet an einer gefährlichen Unbestimmtheit. Unbedingt müßte verhütet werden, daß Standort, Anstellung, eventuell Vermehrung der Uebersetzungsorgane wieder Gegenstand nationaler Aspirationen werden kann. Für die Bedürfnißfrage müßte daher ein objectiver Maßstab gesucht werden. Ein solcher könnte durch Erhebungen gefunden werden, welche bei den betreffenden Behörden, für welche Uebersetzungsbeamte angestellt werden sollen, in der Richtung zu pflegen wären, wieviel anderssprachige Angelegenheiten in den letzten Jahren thatsächlich vorgekommen sind.
         </p>
@@ -8083,7 +8082,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_135" n="66v" xml:id="Bae_TB_5_6051"/>
-        <addSpan spanTo="#_66v" type="insertion" xml:id="Bae_TB_5_6052"/>
+        <addSpan spanTo="#Bae_TB_5_6078" type="insertion" xml:id="Bae_TB_5_6052"/>
         <p xml:id="Bae_TB_5_6053">
           <anchor xml:id="Bae_TB_5_6054"/>Das größte Bedenken aber gegen die von der Regierungsvorlage beliebte Fassung liegt in Folgendem:
         </p>
@@ -8168,7 +8167,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_137" n="67v" xml:id="Bae_TB_5_6114"/>
-        <addSpan spanTo="#_67v" type="insertion" xml:id="Bae_TB_5_6115"/>
+        <addSpan spanTo="#Bae_TB_5_6153" type="insertion" xml:id="Bae_TB_5_6115"/>
         <p xml:id="Bae_TB_5_6116">
           <anchor xml:id="Bae_TB_5_6117"/>Aber selbst dieser Vorgang kann große Schwierigkeiten in den Weg legen, so daß der Gedanke an einen Uebergangszustand, wiewohl ein solcher im Entwurfe nicht direct vorgesehen ist, naheliegt. Erfahrungsgemäß schieben aber Provisorien bei uns definitive Entscheidungen nur hinaus, und wir müssen vor einem solchen Provisorium warnen. Unseres Erachtens wäre es geradezu unmöglich, den Entwurf zum Gesetz werden zu lassen mit einer Eintheilung der Bezirke in deutsche, gemischte und czechische, wie sie in der "Anlage" des Gesetzentwurfes getroffen ist. Aus den "einsprachig böhmischen" Bezirken müßten, wenn die Abtrennung nicht durchgeführt wird, die Bezirksgerichtssprengel: 
           <placeName key="Boemisch-Aicha" ref="https://www.geonames.org/3077895/cesky-dub.html" xml:id="Bae_TB_5_6118">Böhmisch-Aicha</placeName>, 
@@ -8216,7 +8215,7 @@
         <pb facs="#F_K-4_Bae_TB_5_138" n="68r" xml:id="Bae_TB_5_6154"/>
         <note type="editorial" xml:id="Bae_TB_5_6155">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_5_139" n="68v" xml:id="Bae_TB_5_6156"/>
-        <addSpan spanTo="#_68v" type="insertion" xml:id="Bae_TB_5_6157"/>
+        <addSpan spanTo="#Bae_TB_5_6177" type="insertion" xml:id="Bae_TB_5_6157"/>
         <p xml:id="Bae_TB_5_6158">
           <anchor xml:id="Bae_TB_5_6159"/>Gemeinden oder auch nur aus einzelnen solchen Gemeinden, ja selbst aus Ortschaften bestehen und die sich bei der Festsetzung einer einsprachigen Amtsführung nicht so ohneweiters vernachlässigen lassen, dadurch eliminirt werden, daß sie national-homogenen Bezirken zugewiesen werden. In diesem Sinne macht daher die nationale Abgrenzung die Aufstellung jener 20 Percent als Grenze für die Gemischtsprachigkeit überhaupt erst möglich.
         </p>
@@ -8248,7 +8247,7 @@
         <pb facs="#F_K-4_Bae_TB_5_140" n="69r" xml:id="Bae_TB_5_6178"/>
         <note type="editorial" xml:id="Bae_TB_5_6179">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_5_141" n="69v" xml:id="Bae_TB_5_6180"/>
-        <addSpan spanTo="#_69v" type="insertion" xml:id="Bae_TB_5_6181"/>
+        <addSpan spanTo="#Bae_TB_5_6200" type="insertion" xml:id="Bae_TB_5_6181"/>
         <p xml:id="Bae_TB_5_6182">
           <anchor xml:id="Bae_TB_5_6183"/>Eine weitere Abänderung der Vorlage ist bezüglich der 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_5_6184">Prager</placeName> Vororte nothwendig. Werden dieselben als gemischtsprachig erklärt, so soll damit doch nicht die Consequenz herbeigeführt werden, daß dadurch auch der zukünftige 
@@ -8297,7 +8296,7 @@
         <app from="#_72v" type="insertion" xml:id="Bae_TB_5_6215">
           <rdg xml:id="Bae_TB_5_6216">[...]</rdg>
         </app>
-        <addSpan spanTo="#_70v" type="insertion" xml:id="Bae_TB_5_6217"/>
+        <addSpan spanTo="#Bae_TB_5_6285" type="insertion" xml:id="Bae_TB_5_6217"/>
         <p xml:id="Bae_TB_5_6218">
           <anchor xml:id="Bae_TB_5_6219"/>[handschriftlich]
           <hi rendition="#ul" xml:id="Bae_TB_5_6220">Meine Rede gehalten in 
@@ -8398,7 +8397,7 @@
         <pb facs="#F_K-4_Bae_TB_5_144" n="70ar" xml:id="Bae_TB_5_6286"/>
         <note type="editorial" xml:id="Bae_TB_5_6287">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_5_145" n="70av" xml:id="Bae_TB_5_6288"/>
-        <addSpan spanTo="#_70av" type="insertion" xml:id="Bae_TB_5_6289"/>
+        <addSpan spanTo="#Bae_TB_5_6327" type="insertion" xml:id="Bae_TB_5_6289"/>
         <p xml:id="Bae_TB_5_6290">
           <anchor xml:id="Bae_TB_5_6291"/>Wenn wir unseren Blick in die Zukunft schweifen lassen, so scheint es unmöglich, einen festen Punkt zu entdecken, und es haben in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_6292">Oesterreich</placeName> Pessimismus, Leidenschaft und Resignation in seltsamem Gemisch kaum je so allgemein geherrscht wie in den jetzigen Tagen. In der Vergangenheit 
@@ -8453,7 +8452,7 @@
         <pb facs="#F_K-4_Bae_TB_5_146" n="71r" xml:id="Bae_TB_5_6328"/>
         <note type="editorial" xml:id="Bae_TB_5_6329">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_5_147" n="71v" xml:id="Bae_TB_5_6330"/>
-        <addSpan spanTo="#_71v" type="insertion" xml:id="Bae_TB_5_6331"/>
+        <addSpan spanTo="#Bae_TB_5_6369" type="insertion" xml:id="Bae_TB_5_6331"/>
         <p xml:id="Bae_TB_5_6332">
           <anchor xml:id="Bae_TB_5_6333"/>nationalen Bedürfnisse der Czechen einzuengen, sondern nur darum, sie durch unabänderliche Thatsachen zu überzeugen, daß sie ihre nationalen Wünsche auf jenes Maß reduciren müssen, damit ein Zusammenleben mit ihnen möglich ist und der Einheitsstaat weiterbestehen kann.
         </p>
@@ -8512,7 +8511,7 @@
         <pb facs="#F_K-4_Bae_TB_5_148" n="72r" xml:id="Bae_TB_5_6370"/>
         <note type="editorial" xml:id="Bae_TB_5_6371">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_5_149" n="72v" xml:id="Bae_TB_5_6372"/>
-        <addSpan spanTo="#_72v" type="insertion" xml:id="Bae_TB_5_6373"/>
+        <addSpan spanTo="#Bae_TB_5_6418" type="insertion" xml:id="Bae_TB_5_6373"/>
         <p xml:id="Bae_TB_5_6374">
           <anchor xml:id="Bae_TB_5_6375"/>unsere wirthschaftliche Zukunft noch lange nicht entschieden. Wir leben in der Politik so von der Hand in den Mund, daß man diese wirthschaftliche Zukunft, die größeren Ereignisse, die sich in den nächsten Jahren vollziehen müssen, nicht sieht oder nicht sehen will. Eine dunkle Furcht herrscht zwar vor den kommenden Eventualitäten, aber während man in 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_5_6376">Ungarn</placeName> dieselben in einer für uns geradezu beschämenden Weise bespricht, finden wir nicht einmal eine Antwort, versunken, in unseren Parteihader.
@@ -8600,7 +8599,7 @@
         <app from="#_75v" type="insertion" xml:id="Bae_TB_5_6437">
           <rdg xml:id="Bae_TB_5_6438">[...]</rdg>
         </app>
-        <addSpan spanTo="#_73v" type="insertion" xml:id="Bae_TB_5_6439"/>
+        <addSpan spanTo="#Bae_TB_5_6487" type="insertion" xml:id="Bae_TB_5_6439"/>
         <p xml:id="Bae_TB_5_6440">
           <anchor xml:id="Bae_TB_5_6441"/>
           <persName key="BaernreitherJospehMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_5_6442">Dr. Baernreither</persName> sagte u. A.: 
@@ -8669,7 +8668,7 @@
           <pb facs="#F_K-4_Bae_TB_5_152" n="74r" xml:id="Bae_TB_5_6488"/>
           <note type="editorial" xml:id="Bae_TB_5_6489">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_5_153" n="74v" xml:id="Bae_TB_5_6490"/>
-          <addSpan spanTo="#_74v" xml:id="Bae_TB_5_6491"/>
+          <addSpan spanTo="#Bae_TB_5_6551" xml:id="Bae_TB_5_6491"/>
           <anchor xml:id="Bae_TB_5_6492"/>ausgeübt haben, aber das gewöhnliche Cui prodest sollten sich alle politischen 
           <index xml:id="Bae_TB_5_6493">
             <term key="Parteien" xml:id="Bae_TB_5_6494">Parteien</term>
@@ -8763,7 +8762,7 @@
         <pb facs="#F_K-4_Bae_TB_5_154" n="75r" xml:id="Bae_TB_5_6552"/>
         <note type="editorial" xml:id="Bae_TB_5_6553">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_5_155" n="75v" xml:id="Bae_TB_5_6554"/>
-        <addSpan spanTo="#_75v" type="insertion" xml:id="Bae_TB_5_6555"/>
+        <addSpan spanTo="#Bae_TB_5_6634" type="insertion" xml:id="Bae_TB_5_6555"/>
         <p xml:id="Bae_TB_5_6556">
           <anchor xml:id="Bae_TB_5_6557"/>Eingehender möchte ich mich über unser Verhältniß zu 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_5_6558">Ungarn</placeName> aussprechen. Auf diesem Punct zu einem parlamentarischen Resultat zu kommen, ist eine der größten Proben, welche unser 
@@ -8928,7 +8927,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_157" n="76v" xml:id="Bae_TB_5_6675"/>
-        <addSpan spanTo="#_76v" xml:id="Bae_TB_5_6676"/>
+        <addSpan spanTo="#Bae_TB_5_6733" xml:id="Bae_TB_5_6676"/>
         <p xml:id="Bae_TB_5_6677">
           <anchor xml:id="Bae_TB_5_6678"/>Kundgebung der deutschen Obmänner.
         </p>
@@ -9086,7 +9085,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_159" n="77v" xml:id="Bae_TB_5_6789"/>
-        <addSpan spanTo="#_77v" type="insertion" xml:id="Bae_TB_5_6790"/>
+        <addSpan spanTo="#Bae_TB_5_6872" type="insertion" xml:id="Bae_TB_5_6790"/>
         <p xml:id="Bae_TB_5_6791">
           <anchor xml:id="Bae_TB_5_6792"/>uns von den Weihnachtsferien. Von dieser Zeit 
           <del rendition="#s" xml:id="Bae_TB_5_6793">kann</del>
@@ -9887,7 +9886,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_179" n="87v" xml:id="Bae_TB_5_7396"/>
-        <addSpan spanTo="#_87v" type="insertion" xml:id="Bae_TB_5_7397"/>
+        <addSpan spanTo="#Bae_TB_5_7438" type="insertion" xml:id="Bae_TB_5_7397"/>
         <p xml:id="Bae_TB_5_7398">
           <anchor xml:id="Bae_TB_5_7399"/>Vorschlag den die Deutschen im 
           <date when="1902-12" xml:id="Bae_TB_5_7400">
@@ -10034,7 +10033,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_181" n="88v" xml:id="Bae_TB_5_7505"/>
-        <addSpan spanTo="#_88v" type="insertion" xml:id="Bae_TB_5_7506"/>
+        <addSpan spanTo="#Bae_TB_5_7531" type="insertion" xml:id="Bae_TB_5_7506"/>
         <p xml:id="Bae_TB_5_7507">
           <anchor xml:id="Bae_TB_5_7508"/>Die Kreisverwaltung muß eine staatliche und autonome sein. Es wäre zur Errichtung von Kreisregierungen zu schreiten, denen ein wesentlicher Theil der Competenz der Statthalterei überlassen werden müßte, und welche eine Mittelinstanz zwischen den Bezirkshauptmannschaften und der Statthalterei, beziehungsweise zwischen den Bezirkshauptmannschaften und den Ministerien zu bilden hätten.
         </p>
@@ -10190,7 +10189,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_183" n="89v" xml:id="Bae_TB_5_7618"/>
-        <addSpan spanTo="#_89v" type="insertion" xml:id="Bae_TB_5_7619"/>
+        <addSpan spanTo="#Bae_TB_5_7642" type="insertion" xml:id="Bae_TB_5_7619"/>
         <p xml:id="Bae_TB_5_7620">
           <anchor xml:id="Bae_TB_5_7621"/>Was insbesondere die sogenannte innere Amtssprache betrifft, so hängt sie mit der Frage der Staatssprache innig zusammen; eine Lösung derselben durch eine allgemeine Formel hätte ganz natürlich die Aufrollung der Frage der Staatssprache zur Folge, welche aber wieder eine Angelegenheit ist, die nicht blos für 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_5_7622">Böhmen</placeName> erledigt werden kann, sondern ein wichtiges staatliches Postulat der ganzen 
@@ -10312,7 +10311,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_5_185" n="90v" xml:id="Bae_TB_5_7710"/>
-        <addSpan spanTo="#_90v" type="insertion" xml:id="Bae_TB_5_7711"/>
+        <addSpan spanTo="#Bae_TB_5_7737" type="insertion" xml:id="Bae_TB_5_7711"/>
         <p xml:id="Bae_TB_5_7712">
           <anchor xml:id="Bae_TB_5_7713"/>Weitere Gruppen zur unverzüglichen Lösung der deutsch-czechischen Frage im 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_5_7714">Böhmen</placeName> haben die Minoritätsschulen, die sprachliche Scheidung von Handels- und Gewerbekammern, die Wahlreform und endlich die Curien zu bilden. Wie aber ohne 
