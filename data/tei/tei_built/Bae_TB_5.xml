@@ -4584,18 +4584,20 @@
             <abbr xml:id="Bae_TB_5_3364">u.</abbr>
             <expan xml:id="Bae_TB_5_3365">und</expan>
           </choice> vielleicht tritt in Folge dessen auch bei der 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_5_3366">Krone</persName> die entscheidende innere Wendung ein, die sich immer noch nicht vollzogen zu haben scheint.<app from="#Bae_MF_3_2679" type="notEqual" xml:id="Bae_TB_5_3367">
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_5_3366">Krone</persName> die entscheidende innere Wendung ein, die sich immer noch nicht vollzogen zu haben scheint.
+          <app from="#Bae_MF_3_2679" type="notEqual" xml:id="Bae_TB_5_3367">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_3368">Die Majorität kann sich jetzt zu einer Belagerung der Regierung zusammentun, da sie weiß, daß sich diese in 3 Monaten ergeben muß.</rdg>
-          </app></p>
-        <p xml:id="Bae_TB_5_3369"><anchor/>
+          </app>
+        </p>
+        <p xml:id="Bae_TB_5_3369">
+          <anchor xml:id="Bae_TB_5_7831"/>
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_5_3371">Lünz</placeName>, am 
           <date when="1899-10-04" xml:id="Bae_TB_5_3372">4. 
             <choice xml:id="Bae_TB_5_3373">
               <abbr xml:id="Bae_TB_5_3374">Octbr.</abbr>
               <expan xml:id="Bae_TB_5_3375">Oktober</expan>
-            </choice> 99
+            </choice> 99 
           </date>. 
-          
         </p>
       </div>
       <div n="1900-04" type="diaryEntry" xml:id="Bae_TB_5_3378">
