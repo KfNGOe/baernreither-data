@@ -1235,7 +1235,8 @@
           <rdg xml:id="Bae_TB_5_937">[...]</rdg>
         </app>
         <addSpan spanTo="#Bae_TB_5_954" type="insertion" xml:id="Bae_TB_5_938"/>
-        <p xml:id="Bae_TB_5_939"><anchor/>Denkschrift über die Lage in 
+        <p xml:id="Bae_TB_5_939">
+          <anchor xml:id="Bae_TB_5_7827"/>Denkschrift über die Lage in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_940">Oesterreich</placeName>. 
         </p>
         <note type="editorial" xml:id="Bae_TB_5_941">Unterhalb der Überschrift finden sich zwei eigenhändige Notizen von 
@@ -1359,7 +1360,8 @@
           <anchor xml:id="Bae_TB_5_1026"/>
           <!-- CA anchor für addspan -->
           <pb facs="#F_K-4_Bae_TB_5_026" n="12r" xml:id="Bae_TB_5_1027"/>
-          <addSpan spanTo="#Bae_TB_5_1063" type="insertion" xml:id="Bae_TB_5_7804"/><anchor/>bezeichnenden ungarischen Diction 
+          <addSpan spanTo="#Bae_TB_5_1063" type="insertion" xml:id="Bae_TB_5_7804"/>
+          <anchor xml:id="Bae_TB_5_7828"/>bezeichnenden ungarischen Diction 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_1028">Oesterreich</placeName>
           <hi rendition="#ul" xml:id="Bae_TB_5_1029">und</hi>
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_5_1030">Ungarn</placeName> – in diese Verhandlungen mit einem gelockerten Solidaritätsgefühl eintreten werden, ohne die bisherige Basis des vertragsmäßig geschlossenen einheitlichen Zollgebietes, welches ja in dem Jahre, welches dem Zustandekommen der auswärtigen Verträge gewidmet sein soll, erst zustande zu bringen ist – alles Anhaltspunkte für die auswärtigen Staaten, uns und 
@@ -1552,10 +1554,10 @@
           <anchor xml:id="Bae_TB_5_1164"/>
           <!-- CA anchor für addspan 14r-->
           <pb facs="#F_K-4_Bae_TB_5_031" n="14v" xml:id="Bae_TB_5_1165"/>
-          <addSpan spanTo="#Bae_TB_5_1185" type="insertion" xml:id="Bae_TB_5_7810"/><anchor xml:id="Bae_TB_5_1167"/>ten entworfen, sondern aus der Volksüberzeugung geschöpft ist. 
+          <addSpan spanTo="#Bae_TB_5_1185" type="insertion" xml:id="Bae_TB_5_7810"/>
+          <anchor xml:id="Bae_TB_5_1167"/>ten entworfen, sondern aus der Volksüberzeugung geschöpft ist. 
         </p>
-        <p xml:id="Bae_TB_5_1166">
-          Es entspringt dem innersten Wesen des deutschen Volkes, welches nichts anderes verlangt, als in seinen Wohnsitzen ruhig und unbehelligt von nationalen Eingriffen Anderer zu leben, und das gegen geschlossene anderssprachige Gebiete 
+        <p xml:id="Bae_TB_5_1166"> Es entspringt dem innersten Wesen des deutschen Volkes, welches nichts anderes verlangt, als in seinen Wohnsitzen ruhig und unbehelligt von nationalen Eingriffen Anderer zu leben, und das gegen geschlossene anderssprachige Gebiete 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_5_1168">Oesterreichs</placeName> nie aggressiv vorgegangen ist. Das 
           <index xml:id="Bae_TB_5_1169">
             <term key="Parteien" xml:id="Bae_TB_5_1170">Pfingstprogramm</term>
@@ -1778,7 +1780,8 @@
           <anchor xml:id="Bae_TB_5_1323"/>
           <!-- CA anchor für addspan 17v-->
           <pb facs="#F_K-4_Bae_TB_5_038" n="18r" xml:id="Bae_TB_5_1324"/>
-          <addSpan spanTo="#Bae_TB_5_1339" type="insertion" xml:id="Bae_TB_5_7817"/><anchor/>nur eine unheilbare Zerrüttung unserer Verhältnisse zur Folge haben. Zunächst eine moralische Schädigung, eine weitere Erschütterung des Rechtsgefühls, eine Verhöhnung all der Eide, die auf die 
+          <addSpan spanTo="#Bae_TB_5_1339" type="insertion" xml:id="Bae_TB_5_7817"/>
+          <anchor xml:id="Bae_TB_5_7829"/>nur eine unheilbare Zerrüttung unserer Verhältnisse zur Folge haben. Zunächst eine moralische Schädigung, eine weitere Erschütterung des Rechtsgefühls, eine Verhöhnung all der Eide, die auf die 
           <index xml:id="Bae_TB_5_1327">
             <term key="Verfassung" xml:id="Bae_TB_5_1328">Verfassung</term>
           </index> geschworen worden sind. Die Slaven, vor allen aber die Czechen würden, da ihnen das böhmische Staatsrecht und die Sonderstellung der böhmischen Länder doch wahrscheinlich nicht concedirt würden, zu drängen und zu fordern erst recht nicht aufhören, die Deutschen würden darin das Signal erblicken, daß ihr anerkannt maßvolles Programm ohneweiters verworfen wird und daß die 
@@ -3891,7 +3894,8 @@
           </choice> Hauses geboten wäre in einer Zeit wo alles am Spiele steht. 
           <app from="#Bae_MF_3_4118" type="missing" xml:id="Bae_TB_5_2861">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_2862"/>
-          </app><anchor/>Formell gibt ihm die unglückselige Loslösung der "gemeinsamen Angelegenheiten" von der inneren Politik 
+          </app>
+          <anchor xml:id="Bae_TB_5_7830"/>Formell gibt ihm die unglückselige Loslösung der "gemeinsamen Angelegenheiten" von der inneren Politik 
           <app from="#Bae_MF_3_2498" type="equal" xml:id="Bae_TB_5_2863">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_2864">Formell gibt ihm die unglückselige Loslösung der "gemeinsamen Angelegenheiten" von der inneren Politik</rdg>
           </app>
@@ -4580,13 +4584,17 @@
             <abbr xml:id="Bae_TB_5_3364">u.</abbr>
             <expan xml:id="Bae_TB_5_3365">und</expan>
           </choice> vielleicht tritt in Folge dessen auch bei der 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_5_3366">Krone</persName> die entscheidende innere Wendung ein, die sich immer noch nicht vollzogen zu haben scheint.</p>
-        <p xml:id="Bae_TB_5_3369"><placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_5_3371">Lünz</placeName>, am 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_5_3366">Krone</persName> die entscheidende innere Wendung ein, die sich immer noch nicht vollzogen zu haben scheint.
+        </p>
+        <p xml:id="Bae_TB_5_3369">
+          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_5_3371">Lünz</placeName>, am 
           <date when="1899-10-04" xml:id="Bae_TB_5_3372">4. 
             <choice xml:id="Bae_TB_5_3373">
               <abbr xml:id="Bae_TB_5_3374">Octbr.</abbr>
               <expan xml:id="Bae_TB_5_3375">Oktober</expan>
-            </choice> 99</date>. <app from="#Bae_MF_3_2679" type="notEqual" xml:id="Bae_TB_5_3367">
+            </choice> 99
+          </date>. 
+          <app from="#Bae_MF_3_2679" type="notEqual" xml:id="Bae_TB_5_3367">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_3368">Die Majorität kann sich jetzt zu einer Belagerung der Regierung zusammentun, da sie weiß, daß sich diese in 3 Monaten ergeben muß.</rdg>
           </app>
         </p>
