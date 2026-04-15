@@ -4584,7 +4584,7 @@
             <abbr xml:id="Bae_TB_5_3364">u.</abbr>
             <expan xml:id="Bae_TB_5_3365">und</expan>
           </choice> vielleicht tritt in Folge dessen auch bei der 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_5_3366">Krone</persName> die entscheidende innere Wendung ein, die sich immer noch nicht vollzogen zu haben scheint.
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_5_3366">Krone</persName> die entscheidende innere Wendung ein, die sich immer noch nicht vollzogen zu haben scheint. 
           <app from="#Bae_MF_3_2679" type="notEqual" xml:id="Bae_TB_5_3367">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_3368">Die Majorität kann sich jetzt zu einer Belagerung der Regierung zusammentun, da sie weiß, daß sich diese in 3 Monaten ergeben muß.</rdg>
           </app>
@@ -4597,7 +4597,10 @@
               <abbr xml:id="Bae_TB_5_3374">Octbr.</abbr>
               <expan xml:id="Bae_TB_5_3375">Oktober</expan>
             </choice> 99 
-          </date>.<app from="#Bae_MF_3_4187" type="equal"><rdg wit="Bae_MF_3">Lünz, am 4. Oktober 99</rdg></app>
+          </date>.
+          <app from="#Bae_MF_3_4187" type="equal" xml:id="Bae_TB_5_7832">
+            <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_7833">Lünz, am 4. Oktober 99</rdg>
+          </app>
         </p>
       </div>
       <div n="1900-04" type="diaryEntry" xml:id="Bae_TB_5_3378">
@@ -8302,7 +8305,10 @@
       <note type="editorial" xml:id="Bae_TB_5_6202">Diese Seite ist leer.</note>
       <!-- CA: ab hier geht es dann weiter für den Textvergleich mit MF_4 -->
       <div n="1901-11-24" type="diaryEntry" xml:id="Bae_TB_5_6203">
-        <anchor/><app from="#" type="missing"><rdg wit="Bae_MF_4">Koerber nach den Neuwahlen bis zu seinem Ende. Seite 334–443. Rede gehalten in Pilsen am 22 Octber 1900 S. 334. Rede gehalten in Prager im Palais Rohan 3.1.1901 S. 350. Panem et circenses S. 360. For sale S. 364. Berlin – London – Brüssel – Paris S. 373. Brief an Aehrenthal S. 398. Antwort Aehrenthal S. 402. Sommer und Herbst 1903 S. 405. Amerikafahrt Juni, July, August 1904 S. 410. Sommer und Spätherbst 1904, Körbers Ende S. 438</rdg></app>
+        <anchor xml:id="Bae_TB_5_7834"/>
+        <app from="#" type="missing" xml:id="Bae_TB_5_7835">
+          <rdg wit="Bae_MF_4" xml:id="Bae_TB_5_7836">Koerber nach den Neuwahlen bis zu seinem Ende. Seite 334–443. Rede gehalten in Pilsen am 22 Octber 1900 S. 334. Rede gehalten in Prager im Palais Rohan 3.1.1901 S. 350. Panem et circenses S. 360. For sale S. 364. Berlin – London – Brüssel – Paris S. 373. Brief an Aehrenthal S. 398. Antwort Aehrenthal S. 402. Sommer und Herbst 1903 S. 405. Amerikafahrt Juni, July, August 1904 S. 410. Sommer und Spätherbst 1904, Körbers Ende S. 438</rdg>
+        </app>
         <pb facs="#F_K-4_Bae_TB_5_143" n="70v" xml:id="Bae_TB_5_6204"/>
         <anchor xml:id="Bae_TB_5_6205"/>
         <app from="#Bae_TB_5_6217" type="insertion" xml:id="Bae_TB_5_6206">
