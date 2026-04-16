@@ -80,7 +80,7 @@
     <body xml:id="Bae_MF_4_53">
       <div xml:id="Bae_MF_4_54">
         <pb facs="#F_K-11_Bae_MF_4_005" n="333r" xml:id="Bae_MF_4_55"/>
-        <p xml:id="Bae_MF_4_56">
+        <p xml:id="Bae_MF_4_56"><anchor/>
           <hi rendition="#ul" xml:id="Bae_MF_4_57">
             <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_4_58">Koerber</persName> nach den Neuwahlen bis zu seinem Ende.
           </hi>
@@ -748,7 +748,7 @@
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_4_558">Ungarn</placeName> besprechen! Welcher Vorwitz! 
           <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_MF_4_559">Sieghart</persName>, der Sekretär und Vertraute 
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_4_560">Körbers</persName>, sagte mir ganz naiv, sein 
-          <app facs="#Bae_TB_5_6637" type="equal" xml:id="Bae_MF_4_561">
+          <app from="#Bae_TB_5_6637" type="equal" xml:id="Bae_MF_4_561">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_4_562">Panem et circenses Wer diese beiden Reden liest, wird vielleicht den Eindruck gewinnen, dass sie eine richtige polit. Diagnose stellen. Sie wurden mir trotzdem sehr verübelt. Thun drückte mir in Sehuschitz, wo ich ihn nach den Wahlen besuchte, sein Missfallen aus, Stürgkh erschien in Wien bei mir mit einer Miene als ob ich das grösste Unglück angerichtet hätte, Körber legte sein kleines Gesichtchen in die ernstesten, unfreundlichsten Falten, der Kaiser sprach sich ebenfalls anlässlich einiger Audienzen – wie mir natürlich freundschaftlich-bedauernd gemeldet wurde – abfällig über die letzte Rede aus. Das kam so. Körber hatte umgesattelt. Die Idee einer nationalen Verständigung wurde verworfen u. es sollte der Versuch gemacht werden, durch wirtschaftliche Vorlagen die Parteien zur Arbeit im Parlament zu bewegen. In diesem Sinne hatte Körber in einer Versammlung von Industriellen gesprochen, so lautete die Tronrede, so schrieben alle Zeitungen, wer an den nationalen Ausgleich erinnerte, war natürlich ein Störenfried, ein Gegner der Regierung, ein höchst unpolitischer, indiscreter, unbequemer Mensch. Und vollends das Verhältniss zu Ungarn besprechen! Welcher Vorwitz! Sieghart, der Sekretär u. Vertraute Körber's, sagte mir ganz naiv, sein</rdg>
           </app>
           <anchor xml:id="Bae_MF_4_563"/>Herr und Meister sei über diesen Passus meiner Rede desshalb so entrüstet, weil die von mir geäusserte Ansicht auch die seinige (
@@ -1067,7 +1067,7 @@
           <date when="1902-06" xml:id="Bae_MF_4_816">Juni</date>
           <app from="#Bae_TB_5_7205" type="equal" xml:id="Bae_MF_4_817">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_4_818">Dann kam das Budget ins Haus. Knapp vor Ostern war grosses Spektakel, weil ein im Ausschuss zu Gunsten der Verlegung des berüchtigten Cillier Gymnasiums angenommener Antrag im Hause fiel. Nach Ostern wurde die Sache wieder reparirt u.A. durch ein finanziell sehr weitgehendes Versprechen, den Gemeinden den übertragenen Wirkungskreis zu entschädigen. Die deutsche Volkspartei schluckte um diesen Preis u. für andere kleinere Versprechungen die unangenehme Abstimmung, trotz des Riesenlärmes, den sie unter den Rufen "Abzug Körber" in der betreffenden Sitzung gemacht hatte. Die Budgetdebatte zog sich unendlich in die Länge, bis in den Juni.</rdg>
-          </app>
+          </app><anchor/>
           <add place="across" xml:id="Bae_MF_4_819">1902</add>. 
           <app from="#Bae_TB_5_7227" type="missing" xml:id="Bae_MF_4_820">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_4_821"/>
