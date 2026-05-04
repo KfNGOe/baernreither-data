@@ -78,11 +78,9 @@
   </teiHeader>
   <text xml:id="Bae_MF_1_52">
     <body xml:id="Bae_MF_1_53">
-      <div n="1897-12" type="diaryEntry" xml:id="Bae_MF_1_54">
+      <div xml:id="Bae_MF_1_54">
         <pb facs="#F_K-11_Bae_MF_1_006" n="0r" xml:id="Bae_MF_1_3862"/>
-        <head xml:id="Bae_MF_1_3863">
           <add place="across" xml:id="Bae_MF_1_3864">Fragmente eines politischen Tagebuchs</add>
-        </head>
         <p xml:id="Bae_MF_1_3865">Badeni nach den Neuwahlen</p>
         <p xml:id="Bae_MF_1_3866">
           <add place="across" xml:id="Bae_MF_1_3867">Die Parlamentswirren unter Badeni</add>
@@ -102,19 +100,10 @@
           </app>
         </p>
       </div>
-      <div n="1897-03-27" type="diaryEntry" xml:id="Bae_MF_1_64">
-        <head xml:id="Bae_MF_1_65">
-          <anchor xml:id="Bae_MF_1_66"/>
-          <hi rendition="#ul" xml:id="Bae_MF_1_67">I. Bis zur 
-            <index xml:id="Bae_MF_1_68">
-              <term key="Reichsrat" xml:id="Bae_MF_1_69">Eröffnung</term>
-              <index xml:id="Bae_MF_1_70">
-                <term key="Eroeffnung" xml:id="Bae_MF_1_71"/>
-              </index>
-            </index> des 
-            <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_72">Reichsrates</orgName> am 
-            <date when="1897-03-27" xml:id="Bae_MF_1_73">27. März 1897</date>. 
-          </hi>
+      <div xml:id="Bae_MF_1_64">
+        <anchor xml:id="Bae_MF_1_66"/>
+        <head type="diaryEntry" xml:id="Bae_MF_1_65">
+          <hi rendition="#ul" xml:id="Bae_MF_1_67">I. Bis zur Eröffnung Reichsrates am  27. März 1897.</hi><date when="1897-03"/><title type="main">I. Bis zur Eröffnung Reichsrates am  27. März 1897</title><title type="short">Vor Eröffnung des Reichsrats</title>
         </head>
         <p xml:id="Bae_MF_1_74">In der zweiten Hälfte 
           <date when="1897-01" xml:id="Bae_MF_1_75">Januar 1897</date> kam ich von 
@@ -894,20 +883,10 @@
           </app>
         </p>
       </div>
-      <div n="1897-04" type="diaryEntry" xml:id="Bae_MF_1_641">
+      <div xml:id="Bae_MF_1_641">
         <anchor xml:id="Bae_MF_1_642"/>
-        <head xml:id="Bae_MF_1_643">
-          <hi rendition="#ul" xml:id="Bae_MF_1_644">II. Von der 
-            <index xml:id="Bae_MF_1_645">
-              <term key="Reichsrat" xml:id="Bae_MF_1_646">Eröffnung</term>
-              <index xml:id="Bae_MF_1_647">
-                <term key="Eroeffnung" xml:id="Bae_MF_1_648"/>
-              </index>
-            </index> des 
-            <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_649">Reichsrats</orgName> am 
-            <date when="1897-03-27" xml:id="Bae_MF_1_650">27. März 1897</date> bis zu den Osterferien ( 
-            <date when="1897-04" xml:id="Bae_MF_1_651">April 1897</date>) 
-          </hi>
+        <head type="diaryEntry" xml:id="Bae_MF_1_643">
+          <hi rendition="#ul" xml:id="Bae_MF_1_644">II. Von der Eröffnung  des  Reichsrats am 27. März 1897 bis zu den Osterferien (April 1897)</hi><date when="1897-04"/><title type="main">II. Von der Eröffnung  des  Reichsrats am 27. März 1897 bis zu den Osterferien (April 1897)</title><title type="short">Eröffnung des RR</title>
         </head>
         <p xml:id="Bae_MF_1_652">Es war wohl kein zufälliges Zusammentreffen, daß am Tage der 
           <index xml:id="Bae_MF_1_653">
@@ -1710,12 +1689,12 @@
           <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_MF_1_1232">Christlich-Sozialen</orgName>. 
         </p>
       </div>
-      <div n="1897-05" type="diaryEntry" xml:id="Bae_MF_1_1234">
+      <div xml:id="Bae_MF_1_1234">
         <pb facs="#F_K-11_Bae_MF_1_067" n="30v" xml:id="Bae_MF_1_3926"/>
         <note type="editorial" xml:id="Bae_MF_1_3927">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_1_068" n="31r" xml:id="Bae_MF_1_1233"/>
-        <head xml:id="Bae_MF_1_1235">
-          <hi rendition="#ul" xml:id="Bae_MF_1_1236">III. Die Osterferien 1897</hi>
+        <head type="diaryEntry" xml:id="Bae_MF_1_1235">
+          <hi rendition="#ul" xml:id="Bae_MF_1_1236">III. Die Osterferien 1897</hi><date when="1897-05"/><title type="main">III. Die Osterferien 1897</title><title type="short">Osterferien 1897</title>
         </head>
         <p xml:id="Bae_MF_1_1237">Ich war mir eine Erfrischung schuldig. Durch die Lektüre von 
           <persName key="MorelliGiovanni" ref="http://d-nb.info/gnd/1147292906" xml:id="Bae_MF_1_1238">Le 
@@ -1944,12 +1923,9 @@
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_1403">Reichsrates</orgName> erfolgte unter den denkbar ungünstigsten Stimmungen. 
         </p>
       </div>
-      <div n="1897-06-02" type="diaryEntry" xml:id="Bae_MF_1_1404">
-        <head xml:id="Bae_MF_1_1405">
-          <hi rendition="#ul" xml:id="Bae_MF_1_1406">IV. Von der Wiedereröffnung des 
-            <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_1407">Reichsrates</orgName> nach Ostern bis zum Schluß der Session am 
-            <date when="1897-06-02" xml:id="Bae_MF_1_1408">2. Juni 1897</date>
-          </hi>
+      <div xml:id="Bae_MF_1_1404">
+        <head type="diaryEntry" xml:id="Bae_MF_1_1405">
+          <hi rendition="#ul" xml:id="Bae_MF_1_1406">IV. Von der Wiedereröffnung des Reichsrates nach Ostern bis zum Schluß der Session am 2. Juni 1897</hi><date when="1897-06-02"/><title type="main">IV. Von der Wiedereröffnung des Reichsrates nach Ostern bis zum Schluß der Session am 2. Juni 1897</title><title type="short">Wiedereröffnung Reichsrat</title>
         </head>
         <p xml:id="Bae_MF_1_1409">Es kann nicht meine Absicht sein, diesen Sessionsabschnitt in allen seinen Phasen, mit seiner steigenden Leidenschaft, der Ratlosigkeit der Regierung und dem 
           <app from="#Bae_TB_1_2845" type="equal" xml:id="Bae_MF_1_1410">
@@ -2642,8 +2618,8 @@
           </app>
         </p>
       </div>
-      <div n="1897-10" type="diaryEntry" xml:id="Bae_MF_1_1897">
-        <head xml:id="Bae_MF_1_1898">
+      <div xml:id="Bae_MF_1_1897">
+        <head type="diaryEntry" xml:id="Bae_MF_1_1898">
           <anchor xml:id="Bae_MF_1_1899"/>
           <hi rendition="#ul" xml:id="Bae_MF_1_1900">V. Die Sommerferien 1897. 
             <app from="#Bae_TB_1_3986" type="equal" xml:id="Bae_MF_1_1901">
@@ -2653,7 +2629,7 @@
             <app from="#Bae_TB_1_3991" type="missing" xml:id="Bae_MF_1_1904">
               <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_1905"/>
             </app>
-          </hi>
+          </hi><date when="1897-09-18"/><title type="main">V. Die Sommerferien 1897.</title><title>Sommerferien 1897</title>
         </head>
         <p xml:id="Bae_MF_1_1906">
           <anchor xml:id="Bae_MF_1_1907"/>Die Hoffnungen jener, die erwarteten, der Sommer werde eine Beruhigung der Gemüter, Verhandlungen zwischen Deutschen und Čechen und dadurch eine mögliche Situation für den Herbst schaffen, sind vollständig enttäuscht worden. Die Regierung hat nach Schluß des 
@@ -3441,13 +3417,13 @@
         </p>
       </div>
       <!-- CA: ab hier korrespondiert es mit TB_2 -->
-      <div n="1897–11-28" type="diaryEntry" xml:id="Bae_MF_1_2442">
+      <div xml:id="Bae_MF_1_2442">
         <pb facs="#F_K-11_Bae_MF_1_145" n="69v" xml:id="Bae_MF_1_4004"/>
         <note type="editorial" xml:id="Bae_MF_1_4005">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_1_146" n="70r" xml:id="Bae_MF_1_2443"/>
-        <head xml:id="Bae_MF_1_2444">
+        <head type="diaryEntry" xml:id="Bae_MF_1_2444">
           <anchor xml:id="Bae_MF_1_2445"/>Die Herbstsession 1897 
-        </head>
+        <date when="1897-11-28"/><title type="main">Die Herbstsession 1897</title><title type="short">Herbstsession 1897</title></head>
         <app from="#Bae_TB_2_53" type="missing" xml:id="Bae_MF_1_2446">
           <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_2447"/>
         </app>
@@ -3534,14 +3510,14 @@
           <app from="#Bae_TB_2_206" type="notEqual" xml:id="Bae_MF_1_2509">
             <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_2510">nationales geworden war.</rdg>
           </app>
-        </p>
+        </p></div>
         <div xml:id="Bae_MF_1_2511">
-          <head xml:id="Bae_MF_1_2512">
+          <head type="diaryEntry" xml:id="Bae_MF_1_2512">
             <anchor xml:id="Bae_MF_1_2513"/>
             <hi rendition="#ul" xml:id="Bae_MF_1_2514">I. Anfänge der Herbstsession 1897</hi>
             <app from="#Bae_TB_2_210" type="equal" xml:id="Bae_MF_1_2515">
               <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_2516">I. Anfänge der Herbstsession 1897</rdg>
-            </app>
+            </app><title type="main">I. Anfänge der Herbstsession 1897</title><title type="short">Herbstsession 1897</title>
           </head>
           <p xml:id="Bae_MF_1_2517">
             <anchor xml:id="Bae_MF_1_2518"/>Schon am Tage vor der 
@@ -3682,10 +3658,8 @@
           </p>
         </div>
         <div xml:id="Bae_MF_1_2613">
-          <head xml:id="Bae_MF_1_2614">
-            <hi rendition="#ul" xml:id="Bae_MF_1_2615">II. Unsere Verhandlungen mit 
-              <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_MF_1_2616">Baron Dipauli</persName>. 
-            </hi>
+          <head type="diaryEntry" xml:id="Bae_MF_1_2614">
+            <hi rendition="#ul" xml:id="Bae_MF_1_2615">II. Unsere Verhandlungen mit Baron Dipauli.</hi><title type="main">II. Unsere Verhandlungen mit Baron Dipauli.</title><title type="short">Verhandlungen mit Dipauli</title>
           </head>
           <p xml:id="Bae_MF_1_2617">"Il ne faut jurer de rien" – diese Erfahrung macht man in der heutigen Politik auf Schritt und Tritt. Vor einem halben Jahre hatten wir uns – vielleicht etwas zu heftig und ostentativ – dagegen gewehrt in eine Majorität einzutreten, in der 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_MF_1_2618">Dipauli</persName> mit den Seinen auch aufgenommen wäre, jetzt knüpften wir mit demselben 
@@ -4098,15 +4072,8 @@
           <note type="editorial" xml:id="Bae_MF_1_4027">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_1_168" n="81r" xml:id="Bae_MF_1_2898"/>
           <anchor xml:id="Bae_MF_1_2900"/>
-          <head xml:id="Bae_MF_1_2901">
-            <hi rendition="#ul" xml:id="Bae_MF_1_2902">III. Die 
-              <index xml:id="Bae_MF_1_2903">
-                <term key="Reichsrat" xml:id="Bae_MF_1_2904">Ministeranklagen.</term>
-                <index xml:id="Bae_MF_1_2905">
-                  <term key="Ministeranklagen" xml:id="Bae_MF_1_2906"/>
-                </index>
-              </index>
-            </hi>
+          <head type="diaryEntry" xml:id="Bae_MF_1_2901">
+            <hi rendition="#ul" xml:id="Bae_MF_1_2902">III. Die Ministeranklagen.</hi><title type="main">III. Die Ministeranklagen.</title><title type="short">Ministeranklagen</title>
           </head>
           <p xml:id="Bae_MF_1_2907">Abgesehen von den 
             <index xml:id="Bae_MF_1_2908">
@@ -4430,15 +4397,8 @@
         </div>
         <pb facs="#F_K-11_Bae_MF_1_178" n="86r" xml:id="Bae_MF_1_3116"/>
         <div xml:id="Bae_MF_1_3117">
-          <head xml:id="Bae_MF_1_3118">
-            <hi rendition="#ul" xml:id="Bae_MF_1_3119">IV. Das 
-              <index xml:id="Bae_MF_1_3120">
-                <term key="OesterreichUngarn" xml:id="Bae_MF_1_3121">Ausgleichsprovisorium</term>
-                <index xml:id="Bae_MF_1_3122">
-                  <term key="Ausgleichsprovisorium" xml:id="Bae_MF_1_3123"/>
-                </index>
-              </index>
-            </hi>
+          <head type="diaryEntry" xml:id="Bae_MF_1_3118">
+            <hi rendition="#ul" xml:id="Bae_MF_1_3119">IV. Das Ausgleichsprovisorium</hi><title type="main">IV. Das Ausgleichsprovisorium.</title><title type="short">Ausgleichsprovisorium</title>
           </head>
           <p xml:id="Bae_MF_1_3124">Mir ist heute nicht im Geringsten zweifelhaft, daß, wenn 
             <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_MF_1_3125">Badeni</persName> – wie ich ihm im 
@@ -4642,8 +4602,8 @@
         </div>
         <div xml:id="Bae_MF_1_3253">
           <anchor xml:id="Bae_MF_1_3254"/>
-          <head xml:id="Bae_MF_1_3255">&gt; 
-            <hi rendition="#ul" xml:id="Bae_MF_1_3256">V. Angeknüpfte Verbindungen.</hi>
+          <head type="diaryEntry" xml:id="Bae_MF_1_3255"> 
+            <hi rendition="#ul" xml:id="Bae_MF_1_3256">V. Angeknüpfte Verbindungen.</hi><title type="main">V. Angeknüpfte Verbindungen</title><title type="short">Angeknüpfte Verbindungen</title>
           </head>
           <p xml:id="Bae_MF_1_3257">Gleich bei Beginn der Session wurde von verschiedenen Seiten der Wunsch geäussert, mit der 
             <orgName key="Verfassungspartei" xml:id="Bae_MF_1_3258">Verfassungsgruppe des Herrenhauses</orgName>, das heißt mit dem Exekutivkomitee desselben in Fühlung zu treten. 
@@ -4712,13 +4672,8 @@
           </p>
         </div>
         <div xml:id="Bae_MF_1_3308">
-          <p xml:id="Bae_MF_1_3309">
             <anchor xml:id="Bae_MF_1_3310"/>
-            <hi rendition="#ul" xml:id="Bae_MF_1_3311">
-              <placeName key="Nizza" ref="https://www.geonames.org/2990440/nice.html" xml:id="Bae_MF_1_3312">Nizza</placeName>, im 
-              <date when="1898-01" xml:id="Bae_MF_1_3313">Januar 1898.</date>
-            </hi>
-          </p>
+          <head type="diaryEntry"><hi rendition="#ul" xml:id="Bae_MF_1_3311">Nizza, im Januar 1898.</hi><title type="main">Nizza, im Januar 1898.</title><title type="short">Nizza</title></head>
           <p xml:id="Bae_MF_1_3314">Eine andere Verbindung, auf die ich grossen Wert legte, war die mit den 
             <orgName key="ItalienischerKlub" xml:id="Bae_MF_1_3315">Italienern</orgName>. Leider erwiesen sie sich als unverlässlich. Zwanzig Mann stark, könnten sie immerhin eine Rolle im 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_1_3316">Parlament</orgName> spielen, in Anlehnung an eine andere Partei. So hätten wir mit ihnen und den 
@@ -4857,8 +4812,8 @@
         </div>
         <div xml:id="Bae_MF_1_3406">
           <anchor xml:id="Bae_MF_1_3407"/>
-          <head xml:id="Bae_MF_1_3408">
-            <hi rendition="#ul" xml:id="Bae_MF_1_3409">VI. Die letzten Dinge der Session.</hi>
+          <head type="diaryEntry" xml:id="Bae_MF_1_3408">
+            <hi rendition="#ul" xml:id="Bae_MF_1_3409">VI. Die letzten Dinge der Session.</hi><title type="main">VI. Die letzten Dinge der Session.</title><title type="short">Sessionsende</title>
           </head>
           <p xml:id="Bae_MF_1_3410">Wer in einer späteren Zeit die 
             <index xml:id="Bae_MF_1_3411">
@@ -5305,9 +5260,9 @@
           <pb facs="#F_K-11_Bae_MF_1_209" n="100av" xml:id="Bae_MF_1_4068"/>
           <note type="editorial" xml:id="Bae_MF_1_4069">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_1_210" n="101r" xml:id="Bae_MF_1_3713"/>
-          <head xml:id="Bae_MF_1_3714">
+          <head type="diaryEntry" xml:id="Bae_MF_1_3714">
             <anchor xml:id="Bae_MF_1_3715"/>
-            <hi rendition="#ul" xml:id="Bae_MF_1_3716">Die neue Regierung</hi>
+            <hi rendition="#ul" xml:id="Bae_MF_1_3716">Die neue Regierung</hi><title type="main">Die neue Regierung</title><title type="short">Regierung Gautsch</title>
           </head>
           <app from="#Bae_TB_2_3013" type="notEqual" xml:id="Bae_MF_1_3717">
             <rdg wit="Bae_TB_2" xml:id="Bae_MF_1_3718">VII. Die neue Regierung</rdg>
@@ -5523,7 +5478,7 @@
             </app>
           </p>
         </div>
-      </div>
+      
     </body>
   </text>
 </TEI>
