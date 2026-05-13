@@ -32,7 +32,7 @@
       </extent>
       <publicationStmt xml:id="Bae_TB_5_24">
         <publisher xml:id="Bae_TB_5_25">
-          <orgName key="KommissionfürNeuereGeschichteÖsterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_5_26">Kommission für Neuere Geschichte Österreichs</orgName>
+          <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7" xml:id="Bae_TB_5_26">Kommission für Neuere Geschichte Österreichs</orgName>
           <address xml:id="Bae_TB_5_27">
             <addrLine xml:id="Bae_TB_5_28">c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
           </address>
@@ -111,7 +111,7 @@
           </index> in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_5_79">Wien</placeName> beendet waren, ging ich Anfang 
           <date when="1899-06" xml:id="Bae_TB_5_80">Juni</date> nach 
-          <placeName key="Muenchen" ref="http://www.geonames.org/2867714/munich.html" xml:id="Bae_TB_5_81">München</placeName>, wo ich etwa 8 Tage blieb, um 
+          <placeName key="Muenchen" ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html" xml:id="Bae_TB_5_81">München</placeName>, wo ich etwa 8 Tage blieb, um 
           <persName key="LenbachFranz" ref="https://d-nb.info/gnd/118571516" xml:id="Bae_TB_5_82">Lenbach</persName> zu ermöglichen mein Bild zu vollenden. Ich erhielt einen vollen Einblick in die Art 
           <choice xml:id="Bae_TB_5_83">
             <abbr xml:id="Bae_TB_5_84">u.</abbr>
@@ -190,7 +190,7 @@
             <expan xml:id="Bae_TB_5_143">und</expan>
           </choice> genossen ein paar herrliche Frühlingstage in den 
           <placeName key="Alpen" ref="https://www.geonames.org/2661786/alps.html" xml:id="Bae_TB_5_144">Alpen</placeName>. Nach 
-          <placeName key="Muenchen" ref="http://www.geonames.org/2867714/munich.html" xml:id="Bae_TB_5_145">München</placeName> zurückgekehrt, ging mein Bild so rasch der Vollendung entgegen dass ich es wenige Tage darauf mitnehmen konnte. 
+          <placeName key="Muenchen" ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html" xml:id="Bae_TB_5_145">München</placeName> zurückgekehrt, ging mein Bild so rasch der Vollendung entgegen dass ich es wenige Tage darauf mitnehmen konnte. 
         </p>
         <p xml:id="Bae_TB_5_146">Im 
           <date when="1899-06" xml:id="Bae_TB_5_147">Juni</date> war 
@@ -224,7 +224,7 @@
             <expan xml:id="Bae_TB_5_170">und andere</expan>
           </choice>. Wiewol sich alle in kurgemässer Enthaltsamkeit von jeder Aufregung fernhielten, hatte ich doch einige sehr ernste Gespräche. 
           <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_5_171">Chlumetzky</persName> hatte mir schon nach 
-          <placeName key="Muenchen" ref="http://www.geonames.org/2867714/munich.html" xml:id="Bae_TB_5_172">München</placeName> telegrafirt 
+          <placeName key="Muenchen" ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html" xml:id="Bae_TB_5_172">München</placeName> telegrafirt 
           <choice xml:id="Bae_TB_5_173">
             <abbr xml:id="Bae_TB_5_174">u.</abbr>
             <expan xml:id="Bae_TB_5_175">und</expan>
@@ -6246,8 +6246,7 @@
             <abbr xml:id="Bae_TB_5_4624">Landtagsabg.</abbr>
             <expan xml:id="Bae_TB_5_4625">Landtagsabgeordnete</expan>
           </choice>
-          <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_5_4626">
-          </persName> gewählt werde, was ich durchsetzte. Sehr gern hätte ich einen Vertreter der 
+          <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_5_4626"/> gewählt werde, was ich durchsetzte. Sehr gern hätte ich einen Vertreter der 
           <orgName key="DeutschradikalePartei" ref="https://d-nb.info/gnd/104140834X" xml:id="Bae_TB_5_4627">Radicalen</orgName> in der Conferenz gesehen. Nachträglich stellte sich heraus, dass diese auch nicht abgeneigt gewesen wären einen Delegirten zu nominiren – 
           <persName key="ReiningerKarl" ref="https://d-nb.info/gnd/1027648657" xml:id="Bae_TB_5_4628">Dr. Reininger</persName> war in Aussicht 
           <pb facs="#F_K-4_Bae_TB_5_101" n="48v" xml:id="Bae_TB_5_4629"/>
@@ -8202,7 +8201,7 @@
           <placeName key="Jaromer" ref="https://www.geonames.org/3074462/jaromer.html" xml:id="Bae_TB_5_6120">Jaromer</placeName>, 
           <placeName key="Karolinenthal" ref="https://www.geonames.org/3073838/karlin.html" xml:id="Bae_TB_5_6121">Karolinenthal</placeName>, 
           <placeName key="Klattau" ref="https://www.geonames.org/3073660/klatovy.html" xml:id="Bae_TB_5_6122">Klattau</placeName>, 
-          <placeName key="Neugedein" ref="Kdyně" xml:id="Bae_TB_5_6123">Neugedein</placeName>, 
+          <placeName key="Neugedein" xml:id="Bae_TB_5_6123">Neugedein</placeName>, 
           <placeName key="Neupaka" ref="https://www.geonames.org/3069669/nova-paka.html" xml:id="Bae_TB_5_6124">Neupaka</placeName>, 
           <placeName key="Pilsen" ref="https://www.geonames.org/11921103/plzen.html" xml:id="Bae_TB_5_6125">Pilsen</placeName>, 
           <placeName key="Rakonitz" ref="https://www.geonames.org/3067051/rakovnik.html" xml:id="Bae_TB_5_6126">Rakonitz</placeName>, 

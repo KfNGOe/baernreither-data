@@ -81,7 +81,7 @@
       <div n="1908-11-12" type="diaryEntry" xml:id="Bae_TB_9_54">
         <pb facs="#F_K-4_Bae_TB_9_002" n="1r" xml:id="Bae_TB_9_55"/>
         <p xml:id="Bae_TB_9_56">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_57">Wien</placeName> am 
+          <placeName key="Wien" xml:id="Bae_TB_9_57">Wien</placeName> am 
           <date when="1908-11-12" xml:id="Bae_TB_9_58">12.11.08</date>
         </p>
         <p xml:id="Bae_TB_9_59">Ich will wieder einmal ein Bild festhalten das sich heute bietet. Es ist die Cabinetsbildung 
@@ -117,7 +117,7 @@
             <abbr xml:id="Bae_TB_9_82">u.</abbr>
             <expan xml:id="Bae_TB_9_83">und</expan>
           </choice> Corruption durchgebracht worden. 
-          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_84">Sieghart</persName> war der Macher. Redner
+          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_84">Sieghart</persName> war der Macher. Redner 
           <!-- CA: hier wohl Pacak gemeint --> nennt ihn den Tamerlan 
           <!-- CA: das wäre auch noch eine Person, --> der Wertheimischen Kassen. Verkauf von Orden 
           <choice xml:id="Bae_TB_9_86">
@@ -220,7 +220,7 @@
       </div>
       <div n="1908-11-16" type="diaryEntry" xml:id="Bae_TB_9_151">
         <p xml:id="Bae_TB_9_152">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_153">Wien</placeName> am 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_153">Wien</placeName> am 
           <date when="1908-11-16" xml:id="Bae_TB_9_154">16.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_155">Wie 
@@ -450,7 +450,7 @@
       </div>
       <div n="1908-11-17" type="diaryEntry" xml:id="Bae_TB_9_330">
         <p xml:id="Bae_TB_9_331">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_332">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_332">Wien</placeName>
           <date when="1908-11-17" xml:id="Bae_TB_9_333">17.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_334">
@@ -500,13 +500,14 @@
           <!-- CA: hier wohl tatsächlich richtig, Fischer, Hermann Edler von Mosara -->
           <persName key="FischerHermann" ref="no_ref" xml:id="Bae_TB_9_365">Fischer</persName> in 
           <!-- identity unknown -->
-          <placeName key="Czernowitz" ref="no_ref" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara (Moses
+          <placeName key="Czernowitz" ref="no_ref" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara (Moses 
           <!-- CA: dieses Moses nicht als persName auszeichnen -->
           <choice xml:id="Bae_TB_9_368">
             <abbr xml:id="Bae_TB_9_369">u.</abbr>
             <expan xml:id="Bae_TB_9_370">und</expan>
           </choice>
-          <!-- identity unknown -->Sara<!-- CA: dieses Sara sollte mal nicht als persName auszeichnen -->, seine Eltern) annahm. 
+          <!-- identity unknown -->Sara 
+          <!-- CA: dieses Sara sollte mal nicht als persName auszeichnen -->, seine Eltern) annahm. 
           <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_9_372">Viki</persName> erzählt mir dass er jener Familien angehört die in der 
           <!-- identity unknown -->
           <placeName key="Moldau" ref="no_ref" xml:id="Bae_TB_9_373">Moldau</placeName> die grossen Pachtungen haben, auf denen die Bauernschinderei im höchsten Maase betrieben wird 
@@ -627,7 +628,7 @@
         <note type="editorial" xml:id="Bae_TB_9_455">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_016" n="8r" xml:id="Bae_TB_9_456"/>
         <p xml:id="Bae_TB_9_457">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_458">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_458">Wien</placeName>
           <date when="1908-11-18" xml:id="Bae_TB_9_459">18.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_460">
@@ -780,7 +781,7 @@
       </div>
       <div n="1908-11-22" type="diaryEntry" xml:id="Bae_TB_9_561">
         <p xml:id="Bae_TB_9_562">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_563">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_563">Wien</placeName>
           <date when="1908-11-22" xml:id="Bae_TB_9_564">22.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_565">Von 
@@ -846,7 +847,7 @@
       </div>
       <div n="1908-11-24" type="diaryEntry" xml:id="Bae_TB_9_607">
         <p xml:id="Bae_TB_9_608">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_609">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_609">Wien</placeName>
           <date when="1908-11-24" xml:id="Bae_TB_9_610">24.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_611">Abend waren 
@@ -885,7 +886,7 @@
             <abbr xml:id="Bae_TB_9_635">italen.</abbr>
             <expan xml:id="Bae_TB_9_636">italienischen</expan>
           </choice> Studenten wollen ja den "deutschen Karakter der 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_637">Wiener</placeName> Universität" 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_637">Wiener</placeName> Universität" 
           <!-- CA: hier wohl eigentlich besser das orgName UniversitaetWien --> nicht verletzen – im Gegenteil sie wollen ja 
           <hi rendition="#ul" xml:id="Bae_TB_9_638">heraus</hi> aus der deutschen Universität 
           <choice xml:id="Bae_TB_9_639">
@@ -1006,8 +1007,7 @@
             </choice>
           </add> – kam der alte 
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_9_724">Plener</persName> zu ihm in irgend einer Angelegenheit. Im Verlauf des Gesprächs frug dieser: kennen Sie meinen Sohn? worauf 
-          <persName key="PalmerEduard" ref="no_ref" xml:id="Bae_TB_9_725">Palmer</persName>
-           verneinte. "Den müssen Sie kennen lernen, so ein Mann wird in einem 
+          <persName key="PalmerEduard" ref="no_ref" xml:id="Bae_TB_9_725">Palmer</persName> verneinte. "Den müssen Sie kennen lernen, so ein Mann wird in einem 
           <choice xml:id="Bae_TB_9_726">
             <abbr xml:id="Bae_TB_9_727">Jahrh.</abbr>
             <expan xml:id="Bae_TB_9_728">Jahrhundert</expan>
@@ -1038,7 +1038,7 @@
       </div>
       <div n="1910-02-10" type="diaryEntry" xml:id="Bae_TB_9_744">
         <p xml:id="Bae_TB_9_745">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_746">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_746">Wien</placeName>
           <date when="1910-02-10" xml:id="Bae_TB_9_747">10.2.10</date>
         </p>
         <p xml:id="Bae_TB_9_748">Mit 
@@ -1171,7 +1171,7 @@
           <!-- identity unknown -->
           <persName key="CrozierPhilippe" ref="no_ref" xml:id="Bae_TB_9_826">Crozier</persName> waren um die Anbahnung der russischen Annäherung bemüht, um 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_827">Österreich</placeName> von 
-          <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_TB_9_828">
+          <placeName key="Deutschland" xml:id="Bae_TB_9_828">
             <choice xml:id="Bae_TB_9_829">
               <abbr xml:id="Bae_TB_9_830">Dland</abbr>
               <expan xml:id="Bae_TB_9_831">Deutschland</expan>
@@ -1210,7 +1210,7 @@
       </div>
       <div n="1909-11-20" type="diaryEntry" xml:id="Bae_TB_9_850">
         <p xml:id="Bae_TB_9_851">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_852">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_852">Wien</placeName>
           <date when="1909-11-20" xml:id="Bae_TB_9_853">20.11.09</date>
         </p>
         <p xml:id="Bae_TB_9_854">Gestern Abend bei Hr. 
@@ -1333,12 +1333,12 @@
             <abbr xml:id="Bae_TB_9_937">u.</abbr>
             <expan xml:id="Bae_TB_9_938">und</expan>
           </choice> Luxus wird aus 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_939">Wien</placeName> bezogen. Wenn man ein Theater 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_939">Wien</placeName> bezogen. Wenn man ein Theater 
           <choice xml:id="Bae_TB_9_940">
             <abbr xml:id="Bae_TB_9_941">o.</abbr>
             <expan xml:id="Bae_TB_9_942">oder</expan>
           </choice> ein Conzert besuchen will färt man nach 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_943">Wien</placeName>, alles trägt in 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_943">Wien</placeName>, alles trägt in 
           <placeName key="Serbien" ref="no_ref" xml:id="Bae_TB_9_944">Serbien</placeName> den 
           <choice xml:id="Bae_TB_9_945">
             <abbr xml:id="Bae_TB_9_946">öster.</abbr>
@@ -1493,7 +1493,7 @@
             <abbr xml:id="Bae_TB_9_1056">Ö.</abbr>
             <expan xml:id="Bae_TB_9_1057">Österreich</expan>
           </choice> anerkennt. Wenn es zu einer wirklichen Entente kommen soll muss auch über diesen Punkt Klarheit geschaffen werden. 
-          <placeName key="Altserbien" ref="no_ref" xml:id="Bae_TB_9_1058">Altserbien</placeName>
+          <placeName key="Serbien" ref="no_ref" xml:id="Bae_TB_9_1058">Altserbien</placeName>
           <!-- CA: hier key Serbien verwenden -->. 
           <placeName key="Amselfeld" ref="no_ref" xml:id="Bae_TB_9_1059">Amselfeld</placeName>. (dies ist mit ihm fortzusetzen. Vereinigung 
           <placeName key="Serbien" ref="no_ref" xml:id="Bae_TB_9_1060">Serbien</placeName>
@@ -1594,8 +1594,7 @@
             <abbr xml:id="Bae_TB_9_1129">dh.</abbr>
             <expan xml:id="Bae_TB_9_1130">durch</expan>
           </choice> Jahrhunderte waren die Serben dem Einfluss von 
-          <placeName key="Byzanz" ref="no_ref" xml:id="Bae_TB_9_1131">Byzanz</placeName>
-          <!-- CA: key Konstantinopel -->, die Kroaten dem von 
+          <placeName key="Konstantinopel" ref="no_ref" xml:id="Bae_TB_9_1131">Byzanz</placeName>, die Kroaten dem von 
           <placeName key="Rom" ref="no_ref" xml:id="Bae_TB_9_1132">Rom</placeName>
           <!-- CA: Rom -->
           <choice xml:id="Bae_TB_9_1133">
@@ -2016,14 +2015,14 @@
             <abbr xml:id="Bae_TB_9_1440">Ö.-U.</abbr>
             <expan xml:id="Bae_TB_9_1441">Österreich-Ungarn</expan>
           </choice>, 
-          <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_TB_9_1442">
+          <placeName key="Deutschland" xml:id="Bae_TB_9_1442">
             <choice xml:id="Bae_TB_9_1443">
               <abbr xml:id="Bae_TB_9_1444">Dland</abbr>
               <expan xml:id="Bae_TB_9_1445">Deutschland</expan>
             </choice>
           </placeName> und der 
           <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_9_1446">Türkei</placeName>. Der Fürer der letzten Türkendeputation in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1447">Wien</placeName> hat 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1447">Wien</placeName> hat 
           <!-- identity ambiguous -->
           <persName key="AehrenthalFelix" ref="no_ref" xml:id="Bae_TB_9_1448">
             <choice xml:id="Bae_TB_9_1449">
@@ -2104,7 +2103,7 @@
           <placeName key="Mesopotamien" ref="no_ref" xml:id="Bae_TB_9_1500">Mesopotamien</placeName> ein zweites 
           <!-- identity unknown -->
           <placeName key="Aegypten" ref="no_ref" xml:id="Bae_TB_9_1501">Aegypten</placeName> werden soll, englisch, oder ob die Bagdadbahnpolitik 
-          <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_TB_9_1502">
+          <placeName key="Deutschland" xml:id="Bae_TB_9_1502">
             <choice xml:id="Bae_TB_9_1503">
               <abbr xml:id="Bae_TB_9_1504">Dlands</abbr>
               <expan xml:id="Bae_TB_9_1505">Deutschlands</expan>
@@ -2139,7 +2138,7 @@
           <pb facs="#F_K-4_Bae_TB_9_053" n="25v" xml:id="Bae_TB_9_1524"/>
           <note type="editorial" xml:id="Bae_TB_9_1525">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_9_054" n="26r" xml:id="Bae_TB_9_1526"/>zwischen 
-          <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_TB_9_1527">
+          <placeName key="Deutschland" xml:id="Bae_TB_9_1527">
             <choice xml:id="Bae_TB_9_1528">
               <abbr xml:id="Bae_TB_9_1529">Dland</abbr>
               <expan xml:id="Bae_TB_9_1530">Deutschland</expan>
@@ -2159,7 +2158,7 @@
             <abbr xml:id="Bae_TB_9_1540">gg.</abbr>
             <expan xml:id="Bae_TB_9_1541">gegen</expan>
           </choice> uns. In 
-          <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_TB_9_1542">
+          <placeName key="Deutschland" xml:id="Bae_TB_9_1542">
             <choice xml:id="Bae_TB_9_1543">
               <abbr xml:id="Bae_TB_9_1544">Dland</abbr>
               <expan xml:id="Bae_TB_9_1545">Deutschland</expan>
@@ -2230,7 +2229,7 @@
             <abbr xml:id="Bae_TB_9_1586">zw.</abbr>
             <expan xml:id="Bae_TB_9_1587">zwischen</expan>
           </choice>
-          <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_TB_9_1588">
+          <placeName key="Deutschland" xml:id="Bae_TB_9_1588">
             <choice xml:id="Bae_TB_9_1589">
               <abbr xml:id="Bae_TB_9_1590">Dland</abbr>
               <expan xml:id="Bae_TB_9_1591">Deutschland</expan>
@@ -2330,7 +2329,7 @@
       </div>
       <div n="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_1651">
         <p xml:id="Bae_TB_9_1652">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1653">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1653">Wien</placeName>
           <date when="1909-12-14" xml:id="Bae_TB_9_1654">14.12.09</date>. Unter dem Eindruck des 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="no_ref" xml:id="Bae_TB_9_1655">Friedjung</persName>processes. Sowol 
@@ -2414,7 +2413,7 @@
       </div>
       <div n="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_1709">
         <p xml:id="Bae_TB_9_1710">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1711">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1711">Wien</placeName>
           <date when="1909-12-23" xml:id="Bae_TB_9_1712">23.12.09</date>. Der Process 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="no_ref" xml:id="Bae_TB_9_1713">Friedjung</persName> ist ein politisches Ereignis gewesen, der glücklicherweise zum Vorteil abschloss. 
@@ -2483,7 +2482,8 @@
           </choice>
           <persName key="PejacevicTivadar" ref="https://d-nb.info/gnd/1025703324" xml:id="Bae_TB_9_1756">Pejácsevich</persName>, Dr. 
           <!-- identity unknown -->
-          <persName key="MedakovicBogdan" ref="no_ref" xml:id="Bae_TB_9_1757">Medaković</persName> <choice xml:id="Bae_TB_9_1758">
+          <persName key="MedakovicBogdan" ref="no_ref" xml:id="Bae_TB_9_1757">Medaković</persName>
+          <choice xml:id="Bae_TB_9_1758">
             <abbr xml:id="Bae_TB_9_1759">u.</abbr>
             <expan xml:id="Bae_TB_9_1760">und</expan>
           </choice> Sektionschef 
@@ -2491,7 +2491,7 @@
           <persName key="NicolicWladimir" ref="no_ref" xml:id="Bae_TB_9_1761">Nicolić</persName> kennen. 
           <!-- identity unknown -->
           <persName key="SupiloFrano" ref="no_ref" xml:id="Bae_TB_9_1762">Supilo</persName> kannte ich schon. Sie machen den Eindruck von verbitterten Menschen, die durch die Politik der Ungarn in eine desperate Politik hineingetrieben werden. Als ich im Laufe des Gespräches fragte ob sie denn den Eklat vermeiden wollen damit nicht alle Fäden mit 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1763">Wien</placeName> abgerissen werden - antwortete mir 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1763">Wien</placeName> abgerissen werden - antwortete mir 
           <!-- identity unknown -->
           <persName key="MedakovicBogdan" ref="no_ref" xml:id="Bae_TB_9_1764">
             <choice xml:id="Bae_TB_9_1765">
@@ -2532,12 +2532,12 @@
           </choice> das 
           <hi rendition="#ul" xml:id="Bae_TB_9_1792">Geschworenen</hi>institut, denn die Geschworenen hätten freigesprochen, trotzdem sie wie alle überzeugt waren, dass die Documente falsch, der Wahrheitsbeweis misslungen war (den Geschworenen war durch den Vergleich ein Stein vom Herzen gefallen!) – ein Unglück 
           <hi rendition="#ul" xml:id="Bae_TB_9_1793">für 
-            <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1794">Wien</placeName>
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1794">Wien</placeName>
           </hi>, denn in der ganzen südslawischen Welt hätte es geheissen dass es hier keine Gerechtigkeit gibt – ein Unglück für 
           <hi rendition="#ul" xml:id="Bae_TB_9_1795">
             <placeName key="Kroatien" ref="https://www.geonames.org/3202326/republic-of-croatia.html" xml:id="Bae_TB_9_1796">Croatien</placeName>
           </hi>, weil man in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1797">Wien</placeName> gesagt hätte alle da unten sind Verschwörer. 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1797">Wien</placeName> gesagt hätte alle da unten sind Verschwörer. 
           <choice xml:id="Bae_TB_9_1798">
             <abbr xml:id="Bae_TB_9_1799">Dh.</abbr>
             <expan xml:id="Bae_TB_9_1800">durch</expan>
@@ -2697,7 +2697,7 @@
         <note type="editorial" xml:id="Bae_TB_9_1903">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_068" n="33r" xml:id="Bae_TB_9_1904"/>
         <p xml:id="Bae_TB_9_1905">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1906">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1906">Wien</placeName>
           <date when="1910-01-22" xml:id="Bae_TB_9_1907">22.1.10</date> Heute einen der stärksten Eindrücke gehabt, bei dem Vortrage 
           <!-- identity unknown -->
           <persName key="KerschensteinerGeorg" ref="no_ref" xml:id="Bae_TB_9_1908">Kerschensteiner</persName>: "die Charakterpflege durch die öffentliche Schule 
@@ -2740,7 +2740,7 @@
           <note type="editorial" xml:id="Bae_TB_9_1934">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_9_070" n="34r" xml:id="Bae_TB_9_1935"/>Oder wird nicht die Zukunft ganz andere Kräfte auslösen. Sehr nüchtern und praktisch gesprochen: wenn einmal das deutsche Volk in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_9_1936">Böhmen</placeName> sehen wird, dass in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1937">Wien</placeName> kein Schutz mehr für sie ist wird es zu einem Pakt mit den Czechen gedrängt: Erweiterung der 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1937">Wien</placeName> kein Schutz mehr für sie ist wird es zu einem Pakt mit den Czechen gedrängt: Erweiterung der 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_1938">Landtagsautonomie</orgName> – eigene nationale Autonomie – allgemeines Stimmrecht. In diesen drei Worten liegen wenn man sie ausdenkt so schwerwiegende Compensationen für beide Theile, dass so ein Programm unter Hülfe der Soci's wohl einmal das Licht der Welt erblicken 
           <choice xml:id="Bae_TB_9_1939">
             <abbr xml:id="Bae_TB_9_1940">u.</abbr>
@@ -2768,7 +2768,7 @@
         </p>
         <p xml:id="Bae_TB_9_1956">War 
           <add place="across" xml:id="Bae_TB_9_1957">vor</add>gestern in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1958">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1958">Wien</placeName>
           <choice xml:id="Bae_TB_9_1959">
             <abbr xml:id="Bae_TB_9_1960">u.</abbr>
             <expan xml:id="Bae_TB_9_1961">und</expan>
@@ -2824,7 +2824,7 @@
             <abbr xml:id="Bae_TB_9_1995">u.</abbr>
             <expan xml:id="Bae_TB_9_1996">und</expan>
           </choice> der bisher vergeblichen Hoffnung von 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1997">Wien</placeName> irgend eine Hilfe zu bekommen. 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1997">Wien</placeName> irgend eine Hilfe zu bekommen. 
         </p>
         <pb facs="#F_K-4_Bae_TB_9_073" n="35v" xml:id="Bae_TB_9_1998"/>
         <note type="editorial" xml:id="Bae_TB_9_1999">Diese Seite ist leer.</note>
@@ -2906,7 +2906,7 @@
             <abbr xml:id="Bae_TB_9_2050">d.</abbr>
             <expan xml:id="Bae_TB_9_2051">deutschen</expan>
           </choice> Botschaft in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2052">Wien</placeName> äussern sich so. Graf 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2052">Wien</placeName> äussern sich so. Graf 
           <!-- identity unknown -->
           <persName key="KageneckKarl" ref="no_ref" xml:id="Bae_TB_9_2053">Kagenegg</persName>, der Militärattaché mit dem ich vorige Woche bei 
           <!-- identity unknown -->
@@ -3003,7 +3003,7 @@
         </p>
         <p xml:id="Bae_TB_9_2112">Mit 
           <persName key="HelmerGilbert" ref="https://d-nb.info/gnd/118548921" xml:id="Bae_TB_9_2113">Helmer</persName>. Erzählt, dass in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2114">Wien</placeName> für 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2114">Wien</placeName> für 
           <!-- identity unknown -->
           <persName key="MarschallGodfried" ref="no_ref" xml:id="Bae_TB_9_2115">Marschall</persName> Demonstrationen im Zuge waren. 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_2116">Kaiser</persName> lies 
@@ -3214,14 +3214,14 @@
           </choice> in welchem Grade? Oder wird man es schlucken. Wenn letzteres geschieht, dann muss die bestehende geheime Gegnerschaft gegen 
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_2263">Schreiner</persName> sehr stark sein. Frau 
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_2264">Schreiner</persName> hatte am Morgen des fatalen Tages eine Wohnung in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2265">Wien</placeName> aufgenommen – die ehemalige Wohnung 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2265">Wien</placeName> aufgenommen – die ehemalige Wohnung 
           <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_9_2266">
             <del rendition="#ul" xml:id="Bae_TB_9_2267">Kaizl's</del>
           </persName>
           <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_9_2268">Kramář</persName>. Wie sieht es jetzt mit den Landtagsaussichten aus? 
         </p>
         <p xml:id="Bae_TB_9_2269">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2270">Wien</placeName> am 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2270">Wien</placeName> am 
           <date when="1910-02-24" xml:id="Bae_TB_9_2271">21. Februar 1910</date>
         </p>
       </div>
@@ -3249,7 +3249,7 @@
           </choice> vom Ausland. Die Fenster seiner Wohnung sind hell erleuchtet. Ärzte, Stadträte, Parteifreunde füllen die Zimmer. Wer aus dem Krankenzimmer kommt, wird mit Fragen bestürmt. Bestürzung auf allen Gesichtern. Auf einigen 
           <add place="across" xml:id="Bae_TB_9_2290">ist</add> auch zu lesen wie die Gedanken weiter schweifen. Was wird geschehen mit der 
           <orgName key="Verfassungspartei" ref="no_ref" xml:id="Bae_TB_9_2291">Partei</orgName>, mit 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2292">Wien</placeName> mit dem Amt des Bürgermeisters? Ein bekannter Fiaker fragt mich: wer wird wohl Bürgermeister? Ich antwortete: vielleicht der 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2292">Wien</placeName> mit dem Amt des Bürgermeisters? Ein bekannter Fiaker fragt mich: wer wird wohl Bürgermeister? Ich antwortete: vielleicht der 
           <persName key="GessmannAlbert" ref="https://d-nb.info/gnd/124326250" xml:id="Bae_TB_9_2293">Gessmann</persName>. Er antwortet zögernd: vielleicht der 
           <!-- identity unknown -->
           <persName key="WeiskirchnerRichard" ref="no_ref" xml:id="Bae_TB_9_2294">Weiskircher</persName>, net? Der wäre mir lieber sag ich, worauf er schnell 
@@ -3267,7 +3267,7 @@
           </choice> gehen schweigend. 
         </p>
         <p xml:id="Bae_TB_9_2304">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2305">Wien</placeName> am 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2305">Wien</placeName> am 
           <date when="1910-02-24" xml:id="Bae_TB_9_2306">24.2.10</date>
         </p>
       </div>
@@ -3290,7 +3290,7 @@
             <abbr xml:id="Bae_TB_9_2320">u.</abbr>
             <expan xml:id="Bae_TB_9_2321">und</expan>
           </choice> sandte es nach 
-          <placeName key="Winar" ref="https://www.geonames.org/11924319/vinare.html" xml:id="Bae_TB_9_2322">Vinař</placeName> an 
+          <placeName key="Winar" ref="https://www.geonames.org/3062887/vinare.html" xml:id="Bae_TB_9_2322">Vinař</placeName> an 
           <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_9_2323">Czernin</persName>, der es an 
           <persName key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005" xml:id="Bae_TB_9_2324">
             <choice xml:id="Bae_TB_9_2325">
@@ -3300,7 +3300,7 @@
           </persName>befördert hat. 
         </p>
         <p xml:id="Bae_TB_9_2328">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2329">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2329">Wien</placeName>
           <date when="1910-03-05" xml:id="Bae_TB_9_2330">5.3.10</date>
         </p>
       </div>
@@ -3313,7 +3313,7 @@
             </choice>
           </persName>
           <date when="1910-03-01" xml:id="Bae_TB_9_2337">1.3.10</date>. 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2338">Wien</placeName>. 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2338">Wien</placeName>. 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_9_2339">
             <choice xml:id="Bae_TB_9_2340">
               <abbr xml:id="Bae_TB_9_2341">Fberg</abbr>
@@ -3487,7 +3487,7 @@
         <note type="editorial" xml:id="Bae_TB_9_2453">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_110" n="54r" xml:id="Bae_TB_9_2454"/>
         <p xml:id="Bae_TB_9_2455">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2456">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2456">Wien</placeName>
           <date when="1910-03-03" xml:id="Bae_TB_9_2457">3.3.10</date>. Audienz. 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_2458">Kaiser</persName> sehr frisch 
           <choice xml:id="Bae_TB_9_2459">
@@ -3565,12 +3565,12 @@
             <expan xml:id="Bae_TB_9_2510">und</expan>
           </choice> fragen wie man wieder gut werden könnte. Auch 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_9_2511">Schwegel</persName> fällt das so auf. Ich bin begierig was man in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2512">Wien</placeName> darüber hören wird – mein Eindruck ist kein günstiger – immer wieder das alte Fingerziehen! 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2512">Wien</placeName> darüber hören wird – mein Eindruck ist kein günstiger – immer wieder das alte Fingerziehen! 
         </p>
       </div>
       <div n="1910-03-25" type="diaryEntry" xml:id="Bae_TB_9_2513">
         <p xml:id="Bae_TB_9_2514">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2515">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2515">Wien</placeName>
           <date when="1910-03-25" xml:id="Bae_TB_9_2516">25.3.10</date>. 
         </p>
         <p xml:id="Bae_TB_9_2517">Mit 
@@ -3654,7 +3654,7 @@
       </div>
       <div n="1910-03-25" type="diaryEntry" xml:id="Bae_TB_9_2577">
         <p xml:id="Bae_TB_9_2578">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2579">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2579">Wien</placeName>
           <date when="1910-03-25" xml:id="Bae_TB_9_2580">25.3.10</date>
         </p>
         <p xml:id="Bae_TB_9_2581">Man wird alle äussren Daten der 
@@ -3711,7 +3711,7 @@
       </div>
       <div n="1910-03-31" type="diaryEntry" xml:id="Bae_TB_9_2613">
         <p xml:id="Bae_TB_9_2614">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2615">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2615">Wien</placeName>
           <date when="1910-03-31" xml:id="Bae_TB_9_2616">31.3.10</date>
         </p>
         <p xml:id="Bae_TB_9_2617">Utopie, dass unsere Bureaucratie, die hohe ein Schutz des 
@@ -3750,7 +3750,7 @@
               <expan xml:id="Bae_TB_9_2642">Ministerium</expan>
             </choice>
           </orgName>) bei der Volkszälung ihre Umgangssprache als čechisch angeben. In 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2643">Wien</placeName>! Leute vom Schlage 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2643">Wien</placeName>! Leute vom Schlage 
           <persName key="KleinFranz" ref="https://d-nb.info/gnd/118562878" xml:id="Bae_TB_9_2644">Klein's</persName> paktiren von vornherein mit jeder Strömung – es ist unter dieser Sorte niemand der den Mut hat etwas offen herauszusagen. Unsere ganze Gesetzgebung zweideutig, absichtlich unklar, den verschiedensten Auslegungen offen. Der alte 
           <choice xml:id="Bae_TB_9_2645">
             <abbr xml:id="Bae_TB_9_2646">öster.</abbr>
@@ -3783,7 +3783,7 @@
       </div>
       <div n="1910-04-02" type="diaryEntry" xml:id="Bae_TB_9_2665">
         <p xml:id="Bae_TB_9_2666">
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2667">Wien</placeName>
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2667">Wien</placeName>
           <date when="1910-04-02" xml:id="Bae_TB_9_2668">2.4.10</date>
         </p>
         <p xml:id="Bae_TB_9_2669">Mit 
@@ -4120,7 +4120,7 @@
             <abbr xml:id="Bae_TB_9_2911">u.</abbr>
             <expan xml:id="Bae_TB_9_2912">und</expan>
           </choice>
-          <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_TB_9_2913">
+          <placeName key="Deutschland" xml:id="Bae_TB_9_2913">
             <choice xml:id="Bae_TB_9_2914">
               <abbr xml:id="Bae_TB_9_2915">Dland</abbr>
               <expan xml:id="Bae_TB_9_2916">Deutschland</expan>
@@ -4564,7 +4564,7 @@
             <abbr xml:id="Bae_TB_9_3239">u.</abbr>
             <expan xml:id="Bae_TB_9_3240">und</expan>
           </choice> den notwendigen und unausweichlichen Compromissen die grössten Hindernisse bereiten. Die Abgeordneten in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3241">Wien</placeName> mit fortwährenden "Packeleien" beschäftigt, durch die stets unbestimmte Lage, schwankende Haltung der Regierungen 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_3241">Wien</placeName> mit fortwährenden "Packeleien" beschäftigt, durch die stets unbestimmte Lage, schwankende Haltung der Regierungen 
           <choice xml:id="Bae_TB_9_3242">
             <abbr xml:id="Bae_TB_9_3243">u.</abbr>
             <expan xml:id="Bae_TB_9_3244">und</expan>
@@ -4836,7 +4836,7 @@
             <!-- identity unknown -->
             <placeName key="Swojetin" ref="no_ref" xml:id="Bae_TB_9_3441">Swojetin</placeName> (nach der Atrennung der böhmischen Ortschaft 
             <!-- identity unknown -->
-            <placeName key="Johannestal" ref="no_ref" xml:id="Bae_TB_9_3442">Johannestal</placeName>) von 
+            <placeName key="Johannesthal" ref="no_ref" xml:id="Bae_TB_9_3442">Johannestal</placeName>) von 
             <!-- identity unknown -->
             <placeName key="Rakonitz" ref="no_ref" xml:id="Bae_TB_9_3443">Rakonitz</placeName> nach 
             <placeName key="Saaz" ref="https://www.geonames.org/3061822/zatec.html" xml:id="Bae_TB_9_3444">Saaz</placeName> und die deutsche Gemeinde 
@@ -4848,7 +4848,7 @@
             <!-- identity unknown -->
             <placeName key="NeustadtMettau" ref="no_ref" xml:id="Bae_TB_9_3448">Neustadt an der Mettau</placeName> ein neues Bezirksgericht in 
             <!-- identity unknown -->
-            <placeName key="Giesshuebl" ref="no_ref" xml:id="Bae_TB_9_3449">Gießhübel</placeName> errichtet und diesem neuen Bezirke die Gemeinde 
+            <placeName key="Giesshuebel" ref="no_ref" xml:id="Bae_TB_9_3449">Gießhübel</placeName> errichtet und diesem neuen Bezirke die Gemeinde 
             <!-- identity unknown -->
             <placeName key="Tanndorf" ref="no_ref" xml:id="Bae_TB_9_3450">Tanndorf</placeName> des Bezirkes 
             <!-- identity unknown -->
@@ -4856,7 +4856,7 @@
             <!-- identity unknown -->
             <placeName key="Bischofteinitz" ref="no_ref" xml:id="Bae_TB_9_3452">Bischofteinitz</placeName> ein neues böhmisches Bezirksgericht in 
             <!-- identity unknown -->
-            <placeName key="MarktStankau" ref="no_ref" xml:id="Bae_TB_9_3453">Markt Stankau</placeName> errichtet werden; dem auch aus dem Bezirke 
+            <placeName key="Stankau" ref="no_ref" xml:id="Bae_TB_9_3453">Markt Stankau</placeName> errichtet werden; dem auch aus dem Bezirke 
             <!-- identity unknown -->
             <placeName key="Neugedein" ref="no_ref" xml:id="Bae_TB_9_3454">Neugedein</placeName> vier Ortschaften zuzuteilen würen. 
           </p>
@@ -4864,11 +4864,11 @@
             <!-- identity unknown -->
             <placeName key="NeustadtMettau" ref="no_ref" xml:id="Bae_TB_9_3456">Neustadt an der Mettau</placeName>, 
             <!-- identity unknown -->
-            <placeName key="Giesshuebl" ref="no_ref" xml:id="Bae_TB_9_3457">Gießhübel</placeName>, 
+            <placeName key="Giesshuebel" ref="no_ref" xml:id="Bae_TB_9_3457">Gießhübel</placeName>, 
             <!-- identity unknown -->
             <placeName key="Bischofteinitz" ref="no_ref" xml:id="Bae_TB_9_3458">Bischosteinitz</placeName>, 
             <!-- identity unknown -->
-            <placeName key="MarktStankau" ref="no_ref" xml:id="Bae_TB_9_3459">Markt Stankau</placeName>, 
+            <placeName key="Stankau" ref="no_ref" xml:id="Bae_TB_9_3459">Markt Stankau</placeName>, 
             <placeName key="Niemes" ref="https://www.geonames.org/3070622/mimon.html" xml:id="Bae_TB_9_3460">Nimes</placeName>, 
             <!-- identity unknown -->
             <placeName key="Postelberg" ref="no_ref" xml:id="Bae_TB_9_3461">Postelberg</placeName> und 
@@ -5006,7 +5006,7 @@
             </choice>
             <!-- identity unknown -->
             <persName key="Gluck" ref="no_ref" xml:id="Bae_TB_9_3554">Gluck</persName> aus 
-            <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3555">Wien</placeName>
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_3555">Wien</placeName>
             <choice xml:id="Bae_TB_9_3556">
               <abbr xml:id="Bae_TB_9_3557">u.</abbr>
               <expan xml:id="Bae_TB_9_3558">und</expan>
@@ -5023,7 +5023,7 @@
               <abbr xml:id="Bae_TB_9_3566">u.z.</abbr>
               <expan xml:id="Bae_TB_9_3567">und zwar</expan>
             </choice> parallell im 
-            <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3568">Wiener</placeName>
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_3568">Wiener</placeName>
             <choice xml:id="Bae_TB_9_3569">
               <abbr xml:id="Bae_TB_9_3570">u.</abbr>
               <expan xml:id="Bae_TB_9_3571">und</expan>
@@ -5127,7 +5127,7 @@
             </choice> dem andern Abgeordneten, besonders wenn wir von 
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3648">Prag</placeName> aus den Wunsch äusserten, aber im Allgemeinen sah er so passiv zu, dass sogar Zweifel darüber gehegt wurden, ob er eine gründliche Verständigung in 
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3649">Prag</placeName> überhaupt wolle. Denn dass eine solche seine Stellung in 
-            <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3650">Wien</placeName> verändern würde, war wohl außer Zweifel. Er machte auch merkwürdige Äusserungen. Mir sagte er zu Beginn der Verhandlungen 
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_3650">Wien</placeName> verändern würde, war wohl außer Zweifel. Er machte auch merkwürdige Äusserungen. Mir sagte er zu Beginn der Verhandlungen 
             <pb facs="#F_K-4_Bae_TB_9_167" n="79v" xml:id="Bae_TB_9_3651"/>
             <note type="editorial" xml:id="Bae_TB_9_3652">Hier findet sich ein eingeklebter Zeitungsartikel (Fortsetzung), der an der sinngemäß richtigen Stelle weiter unten eingefügt wurde.</note>
             <pb facs="#F_K-4_Bae_TB_9_168" n="80r" xml:id="Bae_TB_9_3653"/> "vor allem liegt mir daran dass der Faden der Verhandlungen nicht abreisst, ob etwas herauskommt steht für mich in zweiter Reihe." – Nach diesem Satze handelte er auch. Ich war die ganze Zeit der Meinung dass 
@@ -5294,8 +5294,8 @@
             <!-- identity unknown -->
             <persName key="EhrlichUnknown" ref="no_ref" xml:id="Bae_TB_9_3776">Ehrlich</persName> etwas verlegen, dass er 
             <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_9_3777">Körber</persName> neulich in 
-            <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3778">Wien</placeName> besucht habe. Also auch von der Seite wurde uns in die Suppe gespuckt. Ziemlich naiv gab mir in 
-            <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3779">Wien</placeName> der bekannte Polenfürer Hofrat 
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_3778">Wien</placeName> besucht habe. Also auch von der Seite wurde uns in die Suppe gespuckt. Ziemlich naiv gab mir in 
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_3779">Wien</placeName> der bekannte Polenfürer Hofrat 
             <!-- identity unknown -->
             <persName key="GermanLudomil" ref="no_ref" xml:id="Bae_TB_9_3780">German</persName> zu verstehen, dass die 
             <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_9_3781">Polen</orgName> die böhmische Annäherung doch nicht mit freundlichen Augen ansehen können! Als die Verhandlungen gut gingen und es schien es werde bald etwas Entscheidendes zu Stande kommen, wurden auch die ungarischen Blätter unruhig – die verschiedenen politischen Vögel hörten auf zu singen 
@@ -5359,7 +5359,7 @@
             <choice xml:id="Bae_TB_9_3827">
               <abbr xml:id="Bae_TB_9_3828">Dland</abbr>
               <expan xml:id="Bae_TB_9_3829">
-                <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_TB_9_3830">Deutschland</placeName>
+                <placeName key="Deutschland" xml:id="Bae_TB_9_3830">Deutschland</placeName>
               </expan>
             </choice>, in 
             <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_9_3831">England</placeName> unter allen Umständen verschmähen würde. Das ist der Sieghartismus bei uns. In 
@@ -5654,7 +5654,7 @@
               <abbr xml:id="Bae_TB_9_4050">u.</abbr>
               <expan xml:id="Bae_TB_9_4051">und</expan>
             </choice> schließlich zur bosnischen Debatte im Plenum nach 
-            <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_4052">Wien</placeName> zu kommen. Ich wurde zum Vicepräsidenten der 
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_4052">Wien</placeName> zu kommen. Ich wurde zum Vicepräsidenten der 
             <orgName key="Delegationen" ref="https://d-nb.info/gnd/35883-6" xml:id="Bae_TB_9_4053">Delegation</orgName> gewählt, musste aber dann diese Stelle niederlegen wegen der Verhandlungen in 
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_4054">Prag</placeName>. Sprach dann einmal im 
             <orgName key="Zollausschuss" ref="no_ref" xml:id="Bae_TB_9_4055">Ausschuss</orgName> über äussere Politik, insbesondere Balkanbeziehungen 
@@ -5786,13 +5786,13 @@
                 <expan xml:id="Bae_TB_9_4141">Aehrenthal</expan>
               </choice>
             </persName> hat ja viel Anschauung, Kenntniss, Erfarungen in seinem diplomatischen Schmelztiegel zusammengetan, aber es geht ihm das "Westeuropäische" ab. Er war ausser in 
-            <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_4142">Wien</placeName> nur in 
+            <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_4142">Wien</placeName> nur in 
             <placeName key="Bukarest" ref="no_ref" xml:id="Bae_TB_9_4143">Bukarest</placeName>
             <choice xml:id="Bae_TB_9_4144">
               <abbr xml:id="Bae_TB_9_4145">u.</abbr>
               <expan xml:id="Bae_TB_9_4146">und</expan>
             </choice>
-            <placeName key="Petersburg" ref="no_ref" xml:id="Bae_TB_9_4147">Petersburg</placeName>
+            <placeName key="StPetersburg" ref="no_ref" xml:id="Bae_TB_9_4147">Petersburg</placeName>
             <!-- CA: StPetersburg -->
             <choice xml:id="Bae_TB_9_4148">
               <abbr xml:id="Bae_TB_9_4149">u.</abbr>
@@ -5839,7 +5839,8 @@
                 <abbr xml:id="Bae_TB_9_4177">Athal</abbr>
                 <expan xml:id="Bae_TB_9_4178">Aehrenthal</expan>
               </choice>
-            </persName> über die heutige päpstliche Politik. Ich wies auf die verschiedenen Enunciationen des <persName key="PiusX">Papstes</persName> 
+            </persName> über die heutige päpstliche Politik. Ich wies auf die verschiedenen Enunciationen des 
+            <persName key="PiusX" xml:id="Bae_TB_9_4240">Papstes</persName>
             <!-- CA. hier ist PiusX gemeint --> hin, die so sehr von der Politik 
             <!-- identity unknown -->
             <persName key="LeoXIII" ref="no_ref" xml:id="Bae_TB_9_4179">Leo XIII.</persName> abweichen. Warum die Borromäusencyklica 
@@ -5860,7 +5861,7 @@
             <!-- identity unknown -->
             <placeName key="Jerusalem" ref="no_ref" xml:id="Bae_TB_9_4190">Jerusalem</placeName>, 
             <!-- identity unknown -->
-            <placeName key="BerivouUnknown" ref="no_ref" xml:id="Bae_TB_9_4191">Beirou</placeName> [Beiruth ?], sein Umgang und seine Bevorzugung katholischer Herren! Warum der Kampf gegen die Glagolica, die den Südslawen ans Herz gewachsen ist 
+            <placeName key="Beirut" ref="no_ref" xml:id="Bae_TB_9_4191">Beirou</placeName> [Beiruth ?], sein Umgang und seine Bevorzugung katholischer Herren! Warum der Kampf gegen die Glagolica, die den Südslawen ans Herz gewachsen ist 
             <choice xml:id="Bae_TB_9_4192">
               <abbr xml:id="Bae_TB_9_4193">u.</abbr>
               <expan xml:id="Bae_TB_9_4194">und</expan>
@@ -5874,7 +5875,8 @@
                 <abbr xml:id="Bae_TB_9_4200">Athal</abbr>
                 <expan xml:id="Bae_TB_9_4201">Aehrenthal</expan>
               </choice>
-            </persName> meinte, dass der jetzige <persName key="PiusX">Papst</persName> ganz im Gegensatz zu seinem Vorgänger auf die 
+            </persName> meinte, dass der jetzige 
+            <persName key="PiusX" xml:id="Bae_TB_9_4241">Papst</persName> ganz im Gegensatz zu seinem Vorgänger auf die 
             <hi rendition="#ul" xml:id="Bae_TB_9_4202">Intensität</hi> der 
             <!-- identity unknown -->
             <orgName key="KatholischeKirche" ref="no_ref" xml:id="Bae_TB_9_4203">
