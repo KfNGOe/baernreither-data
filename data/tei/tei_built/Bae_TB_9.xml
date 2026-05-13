@@ -117,7 +117,7 @@
             <abbr xml:id="Bae_TB_9_82">u.</abbr>
             <expan xml:id="Bae_TB_9_83">und</expan>
           </choice> Corruption durchgebracht worden. 
-          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_84">Sieghart</persName> war der Macher. Redner
+          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_84">Sieghart</persName> war der Macher. Redner 
           <!-- CA: hier wohl Pacak gemeint --> nennt ihn den Tamerlan 
           <!-- CA: das wäre auch noch eine Person, --> der Wertheimischen Kassen. Verkauf von Orden 
           <choice xml:id="Bae_TB_9_86">
@@ -500,13 +500,14 @@
           <!-- CA: hier wohl tatsächlich richtig, Fischer, Hermann Edler von Mosara -->
           <persName key="FischerHermann" ref="no_ref" xml:id="Bae_TB_9_365">Fischer</persName> in 
           <!-- identity unknown -->
-          <placeName key="Czernowitz" ref="no_ref" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara (Moses
+          <placeName key="Czernowitz" ref="no_ref" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara (Moses 
           <!-- CA: dieses Moses nicht als persName auszeichnen -->
           <choice xml:id="Bae_TB_9_368">
             <abbr xml:id="Bae_TB_9_369">u.</abbr>
             <expan xml:id="Bae_TB_9_370">und</expan>
           </choice>
-          <!-- identity unknown -->Sara<!-- CA: dieses Sara sollte mal nicht als persName auszeichnen -->, seine Eltern) annahm. 
+          <!-- identity unknown -->Sara
+          <!-- CA: dieses Sara sollte mal nicht als persName auszeichnen -->, seine Eltern) annahm. 
           <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_9_372">Viki</persName> erzählt mir dass er jener Familien angehört die in der 
           <!-- identity unknown -->
           <placeName key="Moldau" ref="no_ref" xml:id="Bae_TB_9_373">Moldau</placeName> die grossen Pachtungen haben, auf denen die Bauernschinderei im höchsten Maase betrieben wird 
@@ -1006,8 +1007,7 @@
             </choice>
           </add> – kam der alte 
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_9_724">Plener</persName> zu ihm in irgend einer Angelegenheit. Im Verlauf des Gesprächs frug dieser: kennen Sie meinen Sohn? worauf 
-          <persName key="PalmerEduard" ref="no_ref" xml:id="Bae_TB_9_725">Palmer</persName>
-           verneinte. "Den müssen Sie kennen lernen, so ein Mann wird in einem 
+          <persName key="PalmerEduard" ref="no_ref" xml:id="Bae_TB_9_725">Palmer</persName> verneinte. "Den müssen Sie kennen lernen, so ein Mann wird in einem 
           <choice xml:id="Bae_TB_9_726">
             <abbr xml:id="Bae_TB_9_727">Jahrh.</abbr>
             <expan xml:id="Bae_TB_9_728">Jahrhundert</expan>
@@ -2483,7 +2483,8 @@
           </choice>
           <persName key="PejacevicTivadar" ref="https://d-nb.info/gnd/1025703324" xml:id="Bae_TB_9_1756">Pejácsevich</persName>, Dr. 
           <!-- identity unknown -->
-          <persName key="MedakovicBogdan" ref="no_ref" xml:id="Bae_TB_9_1757">Medaković</persName> <choice xml:id="Bae_TB_9_1758">
+          <persName key="MedakovicBogdan" ref="no_ref" xml:id="Bae_TB_9_1757">Medaković</persName>
+          <choice xml:id="Bae_TB_9_1758">
             <abbr xml:id="Bae_TB_9_1759">u.</abbr>
             <expan xml:id="Bae_TB_9_1760">und</expan>
           </choice> Sektionschef 
@@ -5839,7 +5840,8 @@
                 <abbr xml:id="Bae_TB_9_4177">Athal</abbr>
                 <expan xml:id="Bae_TB_9_4178">Aehrenthal</expan>
               </choice>
-            </persName> über die heutige päpstliche Politik. Ich wies auf die verschiedenen Enunciationen des <persName key="PiusX">Papstes</persName> 
+            </persName> über die heutige päpstliche Politik. Ich wies auf die verschiedenen Enunciationen des 
+            <persName key="PiusX" xml:id="Bae_TB_9_4240">Papstes</persName>
             <!-- CA. hier ist PiusX gemeint --> hin, die so sehr von der Politik 
             <!-- identity unknown -->
             <persName key="LeoXIII" ref="no_ref" xml:id="Bae_TB_9_4179">Leo XIII.</persName> abweichen. Warum die Borromäusencyklica 
@@ -5874,7 +5876,8 @@
                 <abbr xml:id="Bae_TB_9_4200">Athal</abbr>
                 <expan xml:id="Bae_TB_9_4201">Aehrenthal</expan>
               </choice>
-            </persName> meinte, dass der jetzige <persName key="PiusX">Papst</persName> ganz im Gegensatz zu seinem Vorgänger auf die 
+            </persName> meinte, dass der jetzige 
+            <persName key="PiusX" xml:id="Bae_TB_9_4241">Papst</persName> ganz im Gegensatz zu seinem Vorgänger auf die 
             <hi rendition="#ul" xml:id="Bae_TB_9_4202">Intensität</hi> der 
             <!-- identity unknown -->
             <orgName key="KatholischeKirche" ref="no_ref" xml:id="Bae_TB_9_4203">
