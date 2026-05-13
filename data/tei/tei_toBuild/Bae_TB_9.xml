@@ -117,9 +117,7 @@
             <abbr xml:id="Bae_TB_9_82">u.</abbr>
             <expan xml:id="Bae_TB_9_83">und</expan>
           </choice> Corruption durchgebracht worden. 
-          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_84">Sieghart</persName> war der Macher. 
-          <!-- identity unknown -->
-          <persName key="RednerUnknown" ref="no_ref" xml:id="Bae_TB_9_85">Redner</persName>
+          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_84">Sieghart</persName> war der Macher. Redner
           <!-- CA: hier wohl Pacak gemeint --> nennt ihn den Tamerlan 
           <!-- CA: das wäre auch noch eine Person, --> der Wertheimischen Kassen. Verkauf von Orden 
           <choice xml:id="Bae_TB_9_86">
@@ -131,7 +129,7 @@
             <expan xml:id="Bae_TB_9_91">und</expan>
           </choice> Personen. Ein gewisser 
           <!-- identity unknown -->
-          <persName key="RokitanskyUnknown" ref="no_ref" xml:id="Bae_TB_9_92">Baron Rokitansky</persName> in 
+          <persName key="RokitanskyFriedrichKarl" ref="no_ref" xml:id="Bae_TB_9_92">Baron Rokitansky</persName> in 
           <placeName key="Steiermark" ref="https://www.geonames.org/2764581/steiermark.html" xml:id="Bae_TB_9_93">
             <choice xml:id="Bae_TB_9_94">
               <abbr xml:id="Bae_TB_9_95">Stmark.</abbr>
@@ -159,7 +157,7 @@
             </choice>
           </orgName> hält Ernennung aufrecht und 
           <!-- identity unknown -->
-          <persName key="RokitanskyUnknown" ref="no_ref" xml:id="Bae_TB_9_110">
+          <persName key="RokitanskyFriedrichKarl" ref="no_ref" xml:id="Bae_TB_9_110">
             <choice xml:id="Bae_TB_9_111">
               <abbr xml:id="Bae_TB_9_112">Ry.</abbr>
               <expan xml:id="Bae_TB_9_113">Rokitansky</expan>
@@ -191,10 +189,9 @@
               <expan xml:id="Bae_TB_9_131">Ministerratspräsidium</expan>
             </choice>
           </orgName> schickt 
-          <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_9_132">Viki</persName>
-          <!-- CA: sollte wohl korrekt sein --> zu 
+          <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_9_132">Viki</persName> zu 
           <!-- identity unknown -->
-          <persName key="ViktorUnknown" ref="no_ref" xml:id="Bae_TB_9_133">Viktor</persName>
+          <persName key="Viktor" ref="no_ref" xml:id="Bae_TB_9_133">Viktor</persName>
           <!-- CA: das wohl nicht zu eruieren -->
           <choice xml:id="Bae_TB_9_134">
             <abbr xml:id="Bae_TB_9_135">u.</abbr>
@@ -292,7 +289,7 @@
           <add place="across" xml:id="Bae_TB_9_204">nationale</add> Parteianwälte eintreten sollten. Bei dieser Gelegenheit wurde 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_9_205">Pergelt</persName> allseitig als Candidat der Deutschen bezeichnet. 
           <!-- identity unknown -->
-          <persName key="SylvesterJohann" ref="no_ref" xml:id="Bae_TB_9_206">Sylvester</persName>
+          <persName key="SylvesterJulius" ref="no_ref" xml:id="Bae_TB_9_206">Sylvester</persName>
           <!-- CA: Julius Sylvester sein --> sagte ihm wiederholt, er sei der gegebene Candidat, solle seine Bedenken überwinden 
           <choice xml:id="Bae_TB_9_207">
             <abbr xml:id="Bae_TB_9_208">u.</abbr>
@@ -333,7 +330,7 @@
           <note type="editorial" xml:id="Bae_TB_9_236">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-4_Bae_TB_9_008" n="4r" xml:id="Bae_TB_9_237"/>zu 
           <!-- identity unknown -->
-          <persName key="StracheUnknown" ref="no_ref" xml:id="Bae_TB_9_238">
+          <persName key="StracheEduard" ref="no_ref" xml:id="Bae_TB_9_238">
             <hi rendition="#ul" xml:id="Bae_TB_9_239">Strache</hi>
           </persName> um sich mit ihm zu beraten. Dieser riet zum Eintritt ins 
           <del rendition="#s" xml:id="Bae_TB_9_240">Parlament</del>
@@ -362,7 +359,7 @@
           </choice> dann 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_9_260">Pergelt</persName> reichte. Es war von 
           <!-- identity unknown -->
-          <persName key="SylvesterJohann" ref="no_ref" xml:id="Bae_TB_9_261">Sylvester</persName>
+          <persName key="SylvesterJulius" ref="no_ref" xml:id="Bae_TB_9_261">Sylvester</persName>
           <choice xml:id="Bae_TB_9_262">
             <abbr xml:id="Bae_TB_9_263">u.</abbr>
             <expan xml:id="Bae_TB_9_264">und</expan>
@@ -392,7 +389,7 @@
             <hi rendition="#ul" xml:id="Bae_TB_9_283">Gross</hi>
           </persName>, der ihm sagte er habe freie Hand einzutreten auch trotz des Telegrammes, das von 
           <!-- identity unknown -->
-          <persName key="SylvesterJohann" ref="no_ref" xml:id="Bae_TB_9_284">Sylvester</persName> nur mit "ich" stilisirt war. 
+          <persName key="SylvesterJulius" ref="no_ref" xml:id="Bae_TB_9_284">Sylvester</persName> nur mit "ich" stilisirt war. 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_9_285">Pergelt</persName> entschloss sich aber trotzdem "nein" zu sagen 
           <choice xml:id="Bae_TB_9_286">
             <abbr xml:id="Bae_TB_9_287">u.</abbr>
@@ -445,7 +442,7 @@
           </choice> als selbstverständlich bezeichnet hatte benützte den Samstag Vormittag um gegen 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_9_325">Pergelt</persName> zu agitiren, veranlasste 
           <!-- identity unknown -->
-          <persName key="SylvesterJohann" ref="no_ref" xml:id="Bae_TB_9_326">Sylvester</persName> zu telegrafiren, veranlasste 
+          <persName key="SylvesterJulius" ref="no_ref" xml:id="Bae_TB_9_326">Sylvester</persName> zu telegrafiren, veranlasste 
           <persName key="KolowratLeopold" ref="https://d-nb.info/gnd/129225088" xml:id="Bae_TB_9_327">Kolowrat</persName> zu 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_328">Bienerth</persName> zu gehen mit dem ganz oder teilweise fingirten "Beschluss". Dieses Vorgehen 
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_329">Schreiner's</persName> erregt bei allen die es kennen die grösste Entrüstung. 
@@ -494,26 +491,22 @@
         </p>
         <p xml:id="Bae_TB_9_360">Ich erfahre noch dass 
           <!-- identity unknown -->
-          <persName key="SylvesterUnknown" ref="no_ref" xml:id="Bae_TB_9_361">Sylvester</persName> sofort nach Abgabe seines Partherpfeiles nach 
+          <persName key="SylvesterJulius" ref="no_ref" xml:id="Bae_TB_9_361">Sylvester</persName> sofort nach Abgabe seines Partherpfeiles nach 
           <placeName key="Salzburg" ref="https://www.geonames.org/2766823/salzburg.html" xml:id="Bae_TB_9_362">Salzburg</placeName> abreiste! 
         </p>
         <p xml:id="Bae_TB_9_363">Schöne Gesellschaft!</p>
         <p xml:id="Bae_TB_9_364">Gestern war die Nobilitirung eines Herrn 
           <!-- identity unknown -->
           <!-- CA: hier wohl tatsächlich richtig, Fischer, Hermann Edler von Mosara -->
-          <persName key="FischerMosara" ref="no_ref" xml:id="Bae_TB_9_365">Fischer</persName> in 
+          <persName key="FischerHermann" ref="no_ref" xml:id="Bae_TB_9_365">Fischer</persName> in 
           <!-- identity unknown -->
-          <placeName key="Czernowitz" ref="no_ref" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara ( 
-          <!-- identity unknown -->
-          <persName key="MosesUnknown" ref="no_ref" xml:id="Bae_TB_9_367">Moses</persName>
-          <!-- CA: dieses Moses sollte mal wohl nicht als persName auszeichnen -->
+          <placeName key="Czernowitz" ref="no_ref" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara (Moses
+          <!-- CA: dieses Moses nicht als persName auszeichnen -->
           <choice xml:id="Bae_TB_9_368">
             <abbr xml:id="Bae_TB_9_369">u.</abbr>
             <expan xml:id="Bae_TB_9_370">und</expan>
           </choice>
-          <!-- identity unknown -->
-          <persName key="SaraUnknown" ref="no_ref" xml:id="Bae_TB_9_371">Sara</persName>
-          <!-- CA: dieses Sara sollte mal wohl nicht als persName auszeichnen -->, seine Eltern) annahm. 
+          <!-- identity unknown -->Sara<!-- CA: dieses Sara sollte mal nicht als persName auszeichnen -->, seine Eltern) annahm. 
           <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_9_372">Viki</persName> erzählt mir dass er jener Familien angehört die in der 
           <!-- identity unknown -->
           <placeName key="Moldau" ref="no_ref" xml:id="Bae_TB_9_373">Moldau</placeName> die grossen Pachtungen haben, auf denen die Bauernschinderei im höchsten Maase betrieben wird 
@@ -522,11 +515,11 @@
             <expan xml:id="Bae_TB_9_376">und</expan>
           </choice> wo auch die Bauernunruhen ausgebrochen sind. 
           <!-- identity unknown -->
-          <persName key="FischerMosara" ref="no_ref" xml:id="Bae_TB_9_377">Fischer</persName> soll eine horrende Summe für den Adel gezahlt haben (600.000 K.). 
+          <persName key="FischerHermann" ref="no_ref" xml:id="Bae_TB_9_377">Fischer</persName> soll eine horrende Summe für den Adel gezahlt haben (600.000 K.). 
         </p>
         <p xml:id="Bae_TB_9_378">Vorgestern war auch 
           <!-- identity unknown -->
-          <persName key="SchmidOberpostrat" ref="no_ref" xml:id="Bae_TB_9_379">Oberpostrat Schmid</persName>, der Sohn des 
+          <persName key="SchmidAlfred" ref="no_ref" xml:id="Bae_TB_9_379">Oberpostrat Schmid</persName>, der Sohn des 
           <!-- identity unknown -->
           <placeName key="Lubenz" ref="no_ref" xml:id="Bae_TB_9_380">Lubenzer</placeName> Postmeisters bei mir, der von der Corruption 
           <choice xml:id="Bae_TB_9_381">
@@ -544,7 +537,7 @@
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_389">Prager</placeName> Postdirektion herrscht Anarchie. 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_390">Beck</persName> hat sich 
           <!-- identity unknown -->
-          <persName key="SafaickUnknown" ref="no_ref" xml:id="Bae_TB_9_391">Šafařik</persName> und je 2 Vertreter der 
+          <persName key="SafarikFrantisek" ref="no_ref" xml:id="Bae_TB_9_391">Šafařik</persName> und je 2 Vertreter der 
           <choice xml:id="Bae_TB_9_392">
             <abbr xml:id="Bae_TB_9_393">čech.</abbr>
             <expan xml:id="Bae_TB_9_394">čechischen</expan>
@@ -564,21 +557,20 @@
             </choice>
           </orgName> nimmt in keiner Sprachenfrage Stellung, Alles bleibt liegen. 
           <!-- identity unknown -->
-          <persName key="KrausUnknown" ref="no_ref" xml:id="Bae_TB_9_405">Kraus</persName> an die Stelle 
+          <persName key="KrausViktor" ref="no_ref" xml:id="Bae_TB_9_405">Kraus</persName> an die Stelle 
           <!-- identity unknown -->
-          <persName key="SafaickUnknown" ref="no_ref" xml:id="Bae_TB_9_406">Šafařik</persName>
+          <persName key="SafarikFrantisek" ref="no_ref" xml:id="Bae_TB_9_406">Šafařik</persName>
           <choice xml:id="Bae_TB_9_407">
             <abbr xml:id="Bae_TB_9_408">u.</abbr>
             <expan xml:id="Bae_TB_9_409">und</expan>
           </choice>
-          <persName key="SwobodaJohann" ref="no_ref" xml:id="Bae_TB_9_410">Swoboda</persName>
-          <!-- CA: falsch zugeordnet, richtig ist SwobodaKarl --> als sein Stellvertreter (ersterer Čeche, letzterer Deutscher) wurden von den Beamten im Compromisswege designirt 
+          <persName key="SwobodaKarl" ref="no_ref" xml:id="Bae_TB_9_410">Swoboda</persName> als sein Stellvertreter (ersterer Čeche, letzterer Deutscher) wurden von den Beamten im Compromisswege designirt 
           <choice xml:id="Bae_TB_9_411">
             <abbr xml:id="Bae_TB_9_412">u.</abbr>
             <expan xml:id="Bae_TB_9_413">und</expan>
           </choice> in Folge dessen ernannt. 
           <!-- identity unknown -->
-          <persName key="ZabuschUnknown" ref="no_ref" xml:id="Bae_TB_9_414">Zabusch</persName> erzählt mir dass es vorkommt, dass Beamte in Deputation zu ihrem Chef kommen 
+          <persName key="ZabuschFranz" ref="no_ref" xml:id="Bae_TB_9_414">Zabusch</persName> erzählt mir dass es vorkommt, dass Beamte in Deputation zu ihrem Chef kommen 
           <choice xml:id="Bae_TB_9_415">
             <abbr xml:id="Bae_TB_9_416">u.</abbr>
             <expan xml:id="Bae_TB_9_417">und</expan>
@@ -730,7 +722,7 @@
           <persName key="IswolskiAlexander" ref="no_ref" xml:id="Bae_TB_9_521">Iswolski's</persName>
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_522">Österreich</placeName> eine Gefälligkeit erweisen. Ist das aber der richtige Weg gewesen? 
           <!-- identity unknown -->
-          <persName key="SchulzHeinrich" ref="no_ref" xml:id="Bae_TB_9_523">Schulz</persName>
+          <persName key="SchulzPaul" ref="no_ref" xml:id="Bae_TB_9_523">Schulz</persName>
           <!-- CA: gemeint ist SchulzPaul --> erzählt mir neulich (via 
           <!-- identity unknown -->
           <persName key="ClemenceauGeorges" ref="no_ref" xml:id="Bae_TB_9_524">Clemenceau</persName> in 
@@ -757,7 +749,7 @@
           <!-- identity unknown -->
           <persName key="SchrattKatharina" ref="no_ref" xml:id="Bae_TB_9_540">Schratt</persName> erfur 
           <!-- identity unknown -->
-          <persName key="SchulzHeinrich" ref="no_ref" xml:id="Bae_TB_9_541">Schulz</persName> dass unser 
+          <persName key="SchulzPaul" ref="no_ref" xml:id="Bae_TB_9_541">Schulz</persName> dass unser 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_542">Kaiser</persName> der 
           <placeName key="BadIschl" ref="https://www.geonames.org/2782052/bad-ischl.html" xml:id="Bae_TB_9_543">Ischler</placeName> Entrevue eher besorgt entgegensah, dann aber befriedigt war 
           <choice xml:id="Bae_TB_9_544">
@@ -794,13 +786,13 @@
         <p xml:id="Bae_TB_9_565">Von 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_566">Prag</placeName> zurück, wo ich mit 
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_9_567">Urban</persName>, 
-          <persName key="EppingerKarl" ref="no_ref" xml:id="Bae_TB_9_568">Eppinger</persName>
+          <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_9_568">Eppinger</persName>
           <choice xml:id="Bae_TB_9_569">
             <abbr xml:id="Bae_TB_9_570">u.</abbr>
             <expan xml:id="Bae_TB_9_571">und</expan>
           </choice>
           <!-- identity unknown -->
-          <persName key="SteinbergUnknown" ref="no_ref" xml:id="Bae_TB_9_572">Steinberg</persName> sprach. Es wird jetzt klar dass die Conservativen im 
+          <persName key="SteinbergJulius" ref="no_ref" xml:id="Bae_TB_9_572">Steinberg</persName> sprach. Es wird jetzt klar dass die Conservativen im 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_573">
             <choice xml:id="Bae_TB_9_574">
               <abbr xml:id="Bae_TB_9_575">
@@ -827,7 +819,7 @@
           <note type="editorial" xml:id="Bae_TB_9_589">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_9_020" n="9r" xml:id="Bae_TB_9_590"/>Das haben wie 
           <!-- identity unknown -->
-          <persName key="SteinbergUnknown" ref="no_ref" xml:id="Bae_TB_9_591">Steinberg</persName> erzählt, die Čechen schon von 
+          <persName key="SteinbergJulius" ref="no_ref" xml:id="Bae_TB_9_591">Steinberg</persName> erzählt, die Čechen schon von 
           <persName key="LobkowitzGeorg" ref="https://d-nb.info/gnd/117074128" xml:id="Bae_TB_9_592">Georg 
             <choice xml:id="Bae_TB_9_593">
               <abbr xml:id="Bae_TB_9_594">L.</abbr>
@@ -882,7 +874,7 @@
         </p>
         <p xml:id="Bae_TB_9_627">Die Universitätsprügeleien empören alle Welt. Die Zeitungen möglichst dumm. Prof. 
           <!-- identity unknown -->
-          <persName key="PauliUnknown" ref="no_ref" xml:id="Bae_TB_9_628">Pauli</persName>, mein gelehrter Arzt der heute Früh bei mir war, 
+          <persName key="PauliWolfgang" ref="no_ref" xml:id="Bae_TB_9_628">Pauli</persName>, mein gelehrter Arzt der heute Früh bei mir war, 
           <pb facs="#F_K-4_Bae_TB_9_021" n="9v" xml:id="Bae_TB_9_629"/>
           <note type="editorial" xml:id="Bae_TB_9_630">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_9_022" n="10r" xml:id="Bae_TB_9_631"/>
@@ -931,10 +923,10 @@
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_9_663">Urban</persName>, 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_9_664">Pergelt</persName>, 
           <!-- identity unknown -->
-          <persName key="RollerUnknown" ref="no_ref" xml:id="Bae_TB_9_665">Roller</persName>, 
+          <persName key="RollerJulius" ref="no_ref" xml:id="Bae_TB_9_665">Roller</persName>, 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_9_666">Pacák</persName>, 
           <!-- identity unknown -->
-          <persName key="UdrzalUnknown" ref="no_ref" xml:id="Bae_TB_9_667">Udrzal</persName>, 
+          <persName key="UdrzalFrantisek" ref="no_ref" xml:id="Bae_TB_9_667">Udrzal</persName>, 
           <!-- identity unknown -->
           <persName key="BaxaKarel" ref="no_ref" xml:id="Bae_TB_9_668">Baxa</persName>
           <!-- CA: wohl Baxa, Karel -->, 
@@ -1006,17 +998,16 @@
       </div>
       <div n="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_717">
         <p xml:id="Bae_TB_9_718">
-          <persName key="Palmer" ref="no_ref" xml:id="Bae_TB_9_719">Palmer</persName>
-          <!-- CA: gemeint ist PalmerEduard --> erzählte mir gestern Abend: einmal 
+          <persName key="PalmerEduard" ref="no_ref" xml:id="Bae_TB_9_719">Palmer</persName> erzählte mir gestern Abend: einmal 
           <add place="across" xml:id="Bae_TB_9_720">– es war noch im 19. 
             <choice xml:id="Bae_TB_9_721">
               <abbr xml:id="Bae_TB_9_722">Jahrh.</abbr>
               <expan xml:id="Bae_TB_9_723">Jahrhundert</expan>
             </choice>
           </add> – kam der alte 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/129263958" xml:id="Bae_TB_9_724">Plener</persName> zu ihm in irgend einer Angelegenheit. Im Verlauf des Gesprächs frug dieser: kennen Sie meinen Sohn? worauf 
-          <persName key="Palmer" ref="no_ref" xml:id="Bae_TB_9_725">Palmer</persName>
-          <!-- CA: gemeint ist PalmerEduard --> verneinte. "Den müssen Sie kennen lernen, so ein Mann wird in einem 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_9_724">Plener</persName> zu ihm in irgend einer Angelegenheit. Im Verlauf des Gesprächs frug dieser: kennen Sie meinen Sohn? worauf 
+          <persName key="PalmerEduard" ref="no_ref" xml:id="Bae_TB_9_725">Palmer</persName>
+           verneinte. "Den müssen Sie kennen lernen, so ein Mann wird in einem 
           <choice xml:id="Bae_TB_9_726">
             <abbr xml:id="Bae_TB_9_727">Jahrh.</abbr>
             <expan xml:id="Bae_TB_9_728">Jahrhundert</expan>
@@ -1040,9 +1031,9 @@
           <pb facs="#F_K-4_Bae_TB_9_026" n="12r" xml:id="Bae_TB_9_740"/>
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_9_741">Herrenhausmitglied</orgName>
           <!-- identity unknown -->
-          <persName key="SchindlerUnknown" ref="no_ref" xml:id="Bae_TB_9_742">Schindler</persName>, dessen Gelehrsamkeit, hohen Sinn für religiöse Bildung und soziale Notwendigkeiten ich in Mitarbeit bei verschiedenen Gelegenheiten [...] Gelegenheit hatte – [...] denn er ist ein Freund von 
+          <persName key="SchindlerFranz" ref="no_ref" xml:id="Bae_TB_9_742">Schindler</persName>, dessen Gelehrsamkeit, hohen Sinn für religiöse Bildung und soziale Notwendigkeiten ich in Mitarbeit bei verschiedenen Gelegenheiten [...] Gelegenheit hatte – [...] denn er ist ein Freund von 
           <!-- identity unknown -->
-          <persName key="ErhardUnknown" ref="no_ref" xml:id="Bae_TB_9_743">Erhard</persName>, wird als "Modernist" verschrien. Es wurde ein guter [steno...] Deutscher aus F[...] ernannt! 
+          <persName key="EhrhardAlbert" ref="no_ref" xml:id="Bae_TB_9_743">Erhard</persName>, wird als "Modernist" verschrien. Es wurde ein guter [steno...] Deutscher aus F[...] ernannt! 
         </p>
       </div>
       <div n="1910-02-10" type="diaryEntry" xml:id="Bae_TB_9_744">
@@ -1287,7 +1278,7 @@
           <placeName key="Serbien" ref="no_ref" xml:id="Bae_TB_9_895">Serbien</placeName> nie weis woran es ist, dass 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_896">Österreich</placeName> so unpopulär ist. 
           <!-- identity unknown -->
-          <persName key="ObrenowicMilan" ref="no_ref" xml:id="Bae_TB_9_897">Milan</persName> war österreichisch gesinnt, hat es aber ungeschickt gemacht 
+          <persName key="ObrenovicMilan" ref="no_ref" xml:id="Bae_TB_9_897">Milan</persName> war österreichisch gesinnt, hat es aber ungeschickt gemacht 
           <choice xml:id="Bae_TB_9_898">
             <abbr xml:id="Bae_TB_9_899">u.</abbr>
             <expan xml:id="Bae_TB_9_900">und</expan>
@@ -1561,7 +1552,7 @@
             <expan xml:id="Bae_TB_9_1099">und</expan>
           </choice>
           <!-- identity unknown -->
-          <persName key="ObrenowicMilan" ref="no_ref" xml:id="Bae_TB_9_1100">Milan</persName> ist nur desswegen nicht durchgedrungen weil er sie nicht zu beeinflussen verstanden hat. 
+          <persName key="ObrenovicMilan" ref="no_ref" xml:id="Bae_TB_9_1100">Milan</persName> ist nur desswegen nicht durchgedrungen weil er sie nicht zu beeinflussen verstanden hat. 
         </p>
         <p xml:id="Bae_TB_9_1101">Im Schulwesen ist in der letzten Zeit manches geschehen. Grosse Fehler 
           <persName key="KallayBeni" ref="https://d-nb.info/gnd/119001993" xml:id="Bae_TB_9_1102">Kallay's</persName> dass er es in 
@@ -2227,7 +2218,7 @@
           <!-- identity unknown -->
           <persName key="TschirschkyHeinrich" ref="no_ref" xml:id="Bae_TB_9_1579">Tschirschky</persName>, 
           <!-- identity unknown -->
-          <persName key="MarschallAugust" ref="no_ref" xml:id="Bae_TB_9_1580">Marschal</persName> verhandelt, sind [...] aktuellen Plan. Wenn 
+          <persName key="MarschallAdolf" ref="no_ref" xml:id="Bae_TB_9_1580">Marschal</persName> verhandelt, sind [...] aktuellen Plan. Wenn 
           <!-- identity ambiguous -->
           <persName key="AehrenthalFelix" ref="no_ref" xml:id="Bae_TB_9_1581">
             <choice xml:id="Bae_TB_9_1582">
@@ -2318,16 +2309,15 @@
             <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html" xml:id="Bae_TB_9_1639">Sarajewoer</placeName> Tagblattes 
           </orgName>, das christlichsocial ist) und – 
           <!-- identity unknown -->
-          <persName key="HofrichterJohann" ref="no_ref" xml:id="Bae_TB_9_1640">Hofrichter</persName>
-          <!-- CA: HofrichterAdolf -->, der Giftmischer. Letzteres meinte er ironisch, weil 
+          <persName key="HofrichterAdolf" ref="no_ref" xml:id="Bae_TB_9_1640">Hofrichter</persName>, der Giftmischer. Letzteres meinte er ironisch, weil 
           <!-- identity unknown -->
-          <persName key="HofrichterJohann" ref="no_ref" xml:id="Bae_TB_9_1641">Hofrichter</persName> in christlichsocialem Sinne in die Zeitung geschrieben hat. 
+          <persName key="HofrichterAdolf" ref="no_ref" xml:id="Bae_TB_9_1641">Hofrichter</persName> in christlichsocialem Sinne in die Zeitung geschrieben hat. 
           <!-- identity unknown -->
           <persName key="BurianIstvanStephan" ref="no_ref" xml:id="Bae_TB_9_1642">Burián</persName> meint dass die Mohammedaner aus 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_9_1643">Bosnien</placeName>
           <hi rendition="#ul" xml:id="Bae_TB_9_1644">nicht</hi> auswandern, nur minimal so dass man mit einer Emigration von höchstens 2000 wird rechnen können. 
           <!-- identity unknown -->
-          <persName key="HorowitzBernhard" ref="no_ref" xml:id="Bae_TB_9_1645">Horowitz</persName> sprach neulich davon dass man in den nächsten 10-20 Jahren mit einer Emigration von im Ganzen 150.000 Mohammedanern zu tun haben werde. 
+          <persName key="HorowitzEduard" ref="no_ref" xml:id="Bae_TB_9_1645">Horowitz</persName> sprach neulich davon dass man in den nächsten 10-20 Jahren mit einer Emigration von im Ganzen 150.000 Mohammedanern zu tun haben werde. 
           <!-- identity unknown -->
           <persName key="Brabec" ref="no_ref" xml:id="Bae_TB_9_1646">Brabec</persName>
           <!-- CA: das unklar wer mit Brabec gemeint ist, so aber falsch --> sagt auch dass man sich auf eine grosse Emigration gefasst machen müsse und an Colonisation denken solle. 
@@ -2361,10 +2351,9 @@
           </persName> ist doch auch dieser Meinung, aber er wird schlapp, sonst hätte er den Process um jeden Preis verhindert. 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_9_1665">Schwegel</persName>, 
           <!-- identity unknown -->
-          <persName key="MereyKajetanUnknown" ref="no_ref" xml:id="Bae_TB_9_1666">Merey</persName> sind der Meinung, dass man gekaufte Dokumente nicht so der Öffentlichkeit preisgibt. Nun scheint – wenigstens ein Teil – auch noch gefälscht zu sein. Wenn 
+          <persName key="MereyKajetan" ref="no_ref" xml:id="Bae_TB_9_1666">Merey</persName> sind der Meinung, dass man gekaufte Dokumente nicht so der Öffentlichkeit preisgibt. Nun scheint – wenigstens ein Teil – auch noch gefälscht zu sein. Wenn 
           <!-- identity unknown -->
-          <persName key="MarkovicBozeUnknown" ref="no_ref" xml:id="Bae_TB_9_1667">Bože Marković</persName>
-          <!-- CA: MarkovicBozidar --> wirklich Ende 
+          <persName key="MarkovicBozidar" ref="no_ref" xml:id="Bae_TB_9_1667">Bože Marković</persName> wirklich Ende 
           <choice xml:id="Bae_TB_9_1668">
             <abbr xml:id="Bae_TB_9_1669">Septbr.</abbr>
             <expan xml:id="Bae_TB_9_1670">September</expan>
@@ -2494,20 +2483,17 @@
           </choice>
           <persName key="PejacevicTivadar" ref="https://d-nb.info/gnd/1025703324" xml:id="Bae_TB_9_1756">Pejácsevich</persName>, Dr. 
           <!-- identity unknown -->
-          <persName key="MedakovicAvdo" ref="no_ref" xml:id="Bae_TB_9_1757">Medaković</persName>
-          <!-- CA: MedakovicBogdan -->
-          <choice xml:id="Bae_TB_9_1758">
+          <persName key="MedakovicBogdan" ref="no_ref" xml:id="Bae_TB_9_1757">Medaković</persName> <choice xml:id="Bae_TB_9_1758">
             <abbr xml:id="Bae_TB_9_1759">u.</abbr>
             <expan xml:id="Bae_TB_9_1760">und</expan>
           </choice> Sektionschef 
           <!-- identity unknown -->
-          <persName key="NicolicSvetozar" ref="no_ref" xml:id="Bae_TB_9_1761">Nicolić</persName>
-          <!-- CA: NicolicWladimir --> kennen. 
+          <persName key="NicolicWladimir" ref="no_ref" xml:id="Bae_TB_9_1761">Nicolić</persName> kennen. 
           <!-- identity unknown -->
           <persName key="SupiloFrano" ref="no_ref" xml:id="Bae_TB_9_1762">Supilo</persName> kannte ich schon. Sie machen den Eindruck von verbitterten Menschen, die durch die Politik der Ungarn in eine desperate Politik hineingetrieben werden. Als ich im Laufe des Gespräches fragte ob sie denn den Eklat vermeiden wollen damit nicht alle Fäden mit 
           <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_1763">Wien</placeName> abgerissen werden - antwortete mir 
           <!-- identity unknown -->
-          <persName key="MedakovicAvdo" ref="no_ref" xml:id="Bae_TB_9_1764">
+          <persName key="MedakovicBogdan" ref="no_ref" xml:id="Bae_TB_9_1764">
             <choice xml:id="Bae_TB_9_1765">
               <abbr xml:id="Bae_TB_9_1766">M.</abbr>
               <expan xml:id="Bae_TB_9_1767">Medaković</expan>
@@ -2648,7 +2634,7 @@
         <p xml:id="Bae_TB_9_1860">
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_1861">Berlin</placeName> mit 
           <!-- identity unknown -->
-          <persName key="HaentigOtto" ref="no_ref" xml:id="Bae_TB_9_1862">Haentig</persName>
+          <persName key="HentigOtto" ref="no_ref" xml:id="Bae_TB_9_1862">Haentig</persName>
           <!-- CA: HentigOtto -->
           <date when="1910-03-01" xml:id="Bae_TB_9_1863">3.1.10</date>
         </p>
@@ -2656,9 +2642,9 @@
           <!-- identity unknown -->
           <persName key="HaentigOtto" ref="no_ref" xml:id="Bae_TB_9_1865">Hentig</persName> ganz meiner Meinung über den [...] Staat. Geht noch weiter, will ein Staatsrecht ähnlich [...] als Gegengewicht gegen das allgemeine Stimmrecht. Absolut notwendig, Continuität einer Vorbereitung [...steno] größeren Werkes [?]. Dazu Parlamente untauglich. Auch Ministerium [...steno] abhängig von Mehrheit in den Parlamenten. Dieses stabile Element hält 
           <!-- identity unknown -->
-          <persName key="HaentigOtto" ref="no_ref" xml:id="Bae_TB_9_1866">Hentig</persName> für das [...steno] des allgemeinen Stimmrechts für unentbehrlich. In der Immediatkommission ist 
+          <persName key="HentigOtto" ref="no_ref" xml:id="Bae_TB_9_1866">Hentig</persName> für das [...steno] des allgemeinen Stimmrechts für unentbehrlich. In der Immediatkommission ist 
           <!-- identity unknown -->
-          <persName key="EulenburgUnknown" ref="no_ref" xml:id="Bae_TB_9_1867">Eulenburg</persName> Vorsitzender. Regierung [...steno] Vorlage zu machen. Sich bereit erklärt. Schreibmaschine! Ersparungskommission! 
+          <persName key="EulenburgBotho" ref="no_ref" xml:id="Bae_TB_9_1867">Eulenburg</persName> Vorsitzender. Regierung [...steno] Vorlage zu machen. Sich bereit erklärt. Schreibmaschine! Ersparungskommission! 
         </p>
         <p xml:id="Bae_TB_9_1868">
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_1869">
@@ -2673,7 +2659,7 @@
           <persName key="ForgachJanos" ref="no_ref" xml:id="Bae_TB_9_1875">Forgách</persName> hat fest an die Echtheit der Documente geglaubt, wiewol seine Herren ihn warnten. Er war aber nicht abzubringen. Im Uebrigen habe ich 
           <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195" xml:id="Bae_TB_9_1876">Szögyény</persName> mehr erzählt als er mir. 
           <!-- identity unknown -->
-          <persName key="RadowitzUnknown" ref="no_ref" xml:id="Bae_TB_9_1877">Radowitz</persName> besucht, der mir sagte dass 
+          <persName key="RadowitzJoseph" ref="no_ref" xml:id="Bae_TB_9_1877">Radowitz</persName> besucht, der mir sagte dass 
           <placeName key="Konstantinopel" ref="no_ref" xml:id="Bae_TB_9_1878">Constantinopel</placeName> im Februar scheusslich sei. 
         </p>
         <p xml:id="Bae_TB_9_1879">Prager Tage vom 
@@ -2681,7 +2667,7 @@
           <date when="1910-01-10" xml:id="Bae_TB_9_1881">10.</date>
           <placeName key="Aussig" ref="https://www.geonames.org/3063548/usti-nad-labem.html" xml:id="Bae_TB_9_1882">Aussig</placeName> ( 
           <!-- identity unknown -->
-          <persName key="LodgmannUnknown" ref="no_ref" xml:id="Bae_TB_9_1883">Lodgmann</persName>
+          <persName key="LodgmannRudolph" ref="no_ref" xml:id="Bae_TB_9_1883">Lodgmann</persName>
           <date when="1910-01-06" xml:id="Bae_TB_9_1884">6.</date>) Sitzung bei 
           <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_9_1885">Rohan</persName> – 
           <!-- identity unknown -->
@@ -2790,7 +2776,7 @@
         </p>
         <p xml:id="Bae_TB_9_1962">Sektionschef 
           <!-- identity unknown -->
-          <persName key="NicolicMilan" ref="no_ref" xml:id="Bae_TB_9_1963">Nicolić</persName> aus 
+          <persName key="NicolicWladimir" ref="no_ref" xml:id="Bae_TB_9_1963">Nicolić</persName> aus 
           <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_TB_9_1964">Agram</placeName>: 
           <!-- identity unknown -->
           <orgName key="CoalitionUnknown" ref="no_ref" xml:id="Bae_TB_9_1965">die Coalition</orgName>
@@ -2845,7 +2831,7 @@
         <pb facs="#F_K-4_Bae_TB_9_074" n="36r" xml:id="Bae_TB_9_2000"/>
         <p xml:id="Bae_TB_9_2001">Über den Trialismus sprach 
           <!-- identity unknown -->
-          <persName key="NicolicMilan" ref="no_ref" xml:id="Bae_TB_9_2002">
+          <persName key="NicolicWladimir" ref="no_ref" xml:id="Bae_TB_9_2002">
             <choice xml:id="Bae_TB_9_2003">
               <abbr xml:id="Bae_TB_9_2004">N.</abbr>
               <expan xml:id="Bae_TB_9_2005">Nicolić</expan>
@@ -2922,7 +2908,7 @@
           </choice> Botschaft in 
           <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2052">Wien</placeName> äussern sich so. Graf 
           <!-- identity unknown -->
-          <persName key="KageneggKarl" ref="no_ref" xml:id="Bae_TB_9_2053">Kagenegg</persName>, der Militärattaché mit dem ich vorige Woche bei 
+          <persName key="KageneckKarl" ref="no_ref" xml:id="Bae_TB_9_2053">Kagenegg</persName>, der Militärattaché mit dem ich vorige Woche bei 
           <!-- identity unknown -->
           <persName key="SchulzPaul" ref="no_ref" xml:id="Bae_TB_9_2054">Paul Schulz</persName> frühstückte meinte auch dass die Methode 
           <!-- identity ambiguous -->
@@ -2985,7 +2971,7 @@
         </p>
         <p xml:id="Bae_TB_9_2092">
           <!-- identity unknown -->
-          <persName key="RedlichJoseph" ref="no_ref" xml:id="Bae_TB_9_2093">Redlich</persName>, der mit 
+          <persName key="RedlichJosef" ref="no_ref" xml:id="Bae_TB_9_2093">Redlich</persName>, der mit 
           <!-- identity ambiguous -->
           <persName key="AehrenthalFelix" ref="no_ref" xml:id="Bae_TB_9_2094">
             <choice xml:id="Bae_TB_9_2095">
@@ -3019,7 +3005,7 @@
           <persName key="HelmerGilbert" ref="https://d-nb.info/gnd/118548921" xml:id="Bae_TB_9_2113">Helmer</persName>. Erzählt, dass in 
           <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2114">Wien</placeName> für 
           <!-- identity unknown -->
-          <persName key="MarschallUnknown" ref="no_ref" xml:id="Bae_TB_9_2115">Marschall</persName> Demonstrationen im Zuge waren. 
+          <persName key="MarschallGodfried" ref="no_ref" xml:id="Bae_TB_9_2115">Marschall</persName> Demonstrationen im Zuge waren. 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_2116">Kaiser</persName> lies 
           <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_9_2117">Lueger</persName> holen 
           <choice xml:id="Bae_TB_9_2118">
@@ -3040,10 +3026,9 @@
             </choice>
           </persName> an den 
           <!-- identity unknown -->
-          <persName key="PapstUnknown" ref="no_ref" xml:id="Bae_TB_9_2130">Papst</persName>
-          <!-- CA: hier wäre Pius X. gemeint --> telegrafirt zu Gunsten 
+          <persName key="PiusX" ref="no_ref" xml:id="Bae_TB_9_2130">Papst</persName> telegrafirt zu Gunsten 
           <!-- identity unknown -->
-          <persName key="MarschallUnknown" ref="no_ref" xml:id="Bae_TB_9_2131">Marschall's</persName>. Der 
+          <persName key="MarschallGodfried" ref="no_ref" xml:id="Bae_TB_9_2131">Marschall's</persName>. Der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_2132">Kaiser</persName> sagte zu 
           <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_9_2133">
             <choice xml:id="Bae_TB_9_2134">
@@ -3052,11 +3037,11 @@
             </choice>
           </persName> "Sie haben dem 
           <!-- identity unknown -->
-          <persName key="PapstUnknown" ref="no_ref" xml:id="Bae_TB_9_2137">Papst</persName> telegrafirt, aber sie bekommen keine Antwort, das habe ich mit dem 
+          <persName key="PiusX" ref="no_ref" xml:id="Bae_TB_9_2137">Papst</persName> telegrafirt, aber sie bekommen keine Antwort, das habe ich mit dem 
           <!-- identity unknown -->
-          <persName key="PapstUnknown" ref="no_ref" xml:id="Bae_TB_9_2138">Papst</persName> gerichtet." Mit Entschiedenheit sprach er sich damals gegen 
+          <persName key="PiusX" ref="no_ref" xml:id="Bae_TB_9_2138">Papst</persName> gerichtet." Mit Entschiedenheit sprach er sich damals gegen 
           <!-- identity unknown -->
-          <persName key="MarschallUnknown" ref="no_ref" xml:id="Bae_TB_9_2139">Marschall</persName> aus. 
+          <persName key="MarschallGodfried" ref="no_ref" xml:id="Bae_TB_9_2139">Marschall</persName> aus. 
         </p>
         <p xml:id="Bae_TB_9_2140">
           <persName key="HelmerGilbert" ref="https://d-nb.info/gnd/118548921" xml:id="Bae_TB_9_2141">Helmer</persName> erzählt, dass bei der Cabinetsbildung 
@@ -3076,7 +3061,7 @@
             </choice>
           </persName>, 
           <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_2152">Sieghart</persName>, 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/129263958" xml:id="Bae_TB_9_2153">Plener</persName>, wahrscheinlich auch 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_9_2153">Plener</persName>, wahrscheinlich auch 
           <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_9_2154">Chlumecky</persName>) schoben 
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_9_2155">Stürgkh</persName> vor. 
         </p>
@@ -3091,7 +3076,7 @@
         </p>
         <p xml:id="Bae_TB_9_2163">Mit 
           <!-- identity unknown -->
-          <persName key="SteinbergUnknown" ref="no_ref" xml:id="Bae_TB_9_2164">Steinberg</persName>. Offiziöse Zusammenhänge. 
+          <persName key="SteinbergJulius" ref="no_ref" xml:id="Bae_TB_9_2164">Steinberg</persName>. Offiziöse Zusammenhänge. 
           <orgName key="Fremdenblatt" ref="https://d-nb.info/gnd/1086227905" xml:id="Bae_TB_9_2165">Fremdenblatt</orgName> ist offiziöses Blatt 
           <choice xml:id="Bae_TB_9_2166">
             <abbr xml:id="Bae_TB_9_2167">u.</abbr>
@@ -3267,7 +3252,7 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_2292">Wien</placeName> mit dem Amt des Bürgermeisters? Ein bekannter Fiaker fragt mich: wer wird wohl Bürgermeister? Ich antwortete: vielleicht der 
           <persName key="GessmannAlbert" ref="https://d-nb.info/gnd/124326250" xml:id="Bae_TB_9_2293">Gessmann</persName>. Er antwortet zögernd: vielleicht der 
           <!-- identity unknown -->
-          <persName key="WeiskircherRichard" ref="no_ref" xml:id="Bae_TB_9_2294">Weiskircher</persName>, net? Der wäre mir lieber sag ich, worauf er schnell 
+          <persName key="WeiskirchnerRichard" ref="no_ref" xml:id="Bae_TB_9_2294">Weiskircher</persName>, net? Der wäre mir lieber sag ich, worauf er schnell 
           <choice xml:id="Bae_TB_9_2295">
             <abbr xml:id="Bae_TB_9_2296">u.</abbr>
             <expan xml:id="Bae_TB_9_2297">und</expan>
@@ -3465,7 +3450,7 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_2430">Österreich</placeName>- 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_9_2431">Ungarns</placeName> zu haben gewesen wäre. Beruft sich auf 
           <!-- identity unknown -->
-          <persName key="SchoenaichFranz" ref="no_ref" xml:id="Bae_TB_9_2432">Schönaich</persName>
+          <persName key="SchoenaichFranzXaver" ref="no_ref" xml:id="Bae_TB_9_2432">Schönaich</persName>
           <choice xml:id="Bae_TB_9_2433">
             <abbr xml:id="Bae_TB_9_2434">u.</abbr>
             <expan xml:id="Bae_TB_9_2435">und</expan>
@@ -3516,15 +3501,15 @@
           </choice> den dortigen Verhältnissen. Sehr erhaben über die dortigen Verhältnisse. Dann 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_9_2466">Reichsrat</orgName>. Critisirt 
           <!-- identity unknown -->
-          <persName key="PattayUnknown" ref="no_ref" xml:id="Bae_TB_9_2467">Pattay</persName>, der zu viel spricht 
+          <persName key="PattaiRobert" ref="no_ref" xml:id="Bae_TB_9_2467">Pattay</persName>, der zu viel spricht 
           <choice xml:id="Bae_TB_9_2468">
             <abbr xml:id="Bae_TB_9_2469">u.</abbr>
             <expan xml:id="Bae_TB_9_2470">und</expan>
           </choice> schwacher Präsident ist. Dann unsere Debatte im 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_9_2471">Herrenhaus</orgName> gestern. Lobt 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/129263958" xml:id="Bae_TB_9_2472">Plener's</persName> Rede. Gibt alles zu was 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_9_2472">Plener's</persName> Rede. Gibt alles zu was 
           <!-- identity unknown -->
-          <persName key="LatourUnknown" ref="no_ref" xml:id="Bae_TB_9_2473">Latour</persName> über die 
+          <persName key="BailletLatourVinzenz" ref="no_ref" xml:id="Bae_TB_9_2473">Latour</persName> über die 
           <persName key="Boehm-BawerkEugen" ref="https://d-nb.info/gnd/118660691" xml:id="Bae_TB_9_2474">Böhm</persName> [?] gesagt. Dann sprach ich von der Eisenbahnreform. 
           <choice xml:id="Bae_TB_9_2475">
             <abbr xml:id="Bae_TB_9_2476">K.</abbr>
@@ -3549,7 +3534,7 @@
             <expan xml:id="Bae_TB_9_2489">und</expan>
           </choice> die von 
           <!-- identity unknown -->
-          <persName key="IswolskyAlexander" ref="no_ref" xml:id="Bae_TB_9_2490">Iswolsky</persName> veröffentlichten Schriftstücke bewiesen vollends die Disharmonie, die dieser "Annäherung" zu Grunde liegt. Wollte 
+          <persName key="IswolskiAlexander" ref="no_ref" xml:id="Bae_TB_9_2490">Iswolsky</persName> veröffentlichten Schriftstücke bewiesen vollends die Disharmonie, die dieser "Annäherung" zu Grunde liegt. Wollte 
           <!-- identity ambiguous -->
           <persName key="AehrenthalFelix" ref="no_ref" xml:id="Bae_TB_9_2491">Aehrenthal</persName> mehr erreichen (das behauptet 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_9_2492">Schwegel</persName>) 
@@ -3558,11 +3543,11 @@
             <expan xml:id="Bae_TB_9_2495">und</expan>
           </choice> zog nur zurück als 
           <!-- identity unknown -->
-          <persName key="IswolskyAlexander" ref="no_ref" xml:id="Bae_TB_9_2496">Iswolsky</persName> nicht mehr eingehen wollte? Warum wollte 
+          <persName key="IswolskiAlexander" ref="no_ref" xml:id="Bae_TB_9_2496">Iswolsky</persName> nicht mehr eingehen wollte? Warum wollte 
           <!-- identity ambiguous -->
           <persName key="AehrenthalFelix" ref="no_ref" xml:id="Bae_TB_9_2497">Aehrenthal</persName> wieder kein gemeinsames Communiqué wie es 
           <!-- identity unknown -->
-          <persName key="IswolskyAlexander" ref="no_ref" xml:id="Bae_TB_9_2498">Iswolsky</persName> gewollt zu haben scheint? Die veröffentlichten Schriftstücke 
+          <persName key="IswolskiAlexander" ref="no_ref" xml:id="Bae_TB_9_2498">Iswolsky</persName> gewollt zu haben scheint? Die veröffentlichten Schriftstücke 
           <pb facs="#F_K-4_Bae_TB_9_111" n="54v" xml:id="Bae_TB_9_2499"/>
           <note type="editorial" xml:id="Bae_TB_9_2500">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_9_112" n="55r" xml:id="Bae_TB_9_2501"/> machen nicht den Eindruck einer offenen Aussprache. Nicht angenehm für uns ist das 
@@ -3574,7 +3559,7 @@
           <!-- identity unknown -->
           <persName key="BerchtoldLeopold" ref="https://d-nb.info/gnd/123557372" xml:id="Bae_TB_9_2506">Berchtold</persName> bei 
           <!-- identity unknown -->
-          <persName key="IswolskyAlexander" ref="no_ref" xml:id="Bae_TB_9_2507">Iswolsky</persName> anklopfen musste 
+          <persName key="IswolskiAlexander" ref="no_ref" xml:id="Bae_TB_9_2507">Iswolsky</persName> anklopfen musste 
           <choice xml:id="Bae_TB_9_2508">
             <abbr xml:id="Bae_TB_9_2509">u.</abbr>
             <expan xml:id="Bae_TB_9_2510">und</expan>
@@ -3596,7 +3581,7 @@
             </choice>
           </persName>. Er bestättigt mir, was 
           <!-- identity unknown -->
-          <persName key="PergerUnknown" ref="no_ref" xml:id="Bae_TB_9_2522">
+          <persName key="PergerRudolf" ref="no_ref" xml:id="Bae_TB_9_2522">
             <choice xml:id="Bae_TB_9_2523">
               <abbr xml:id="Bae_TB_9_2524">v.</abbr>
               <expan xml:id="Bae_TB_9_2525">von</expan>
@@ -3641,7 +3626,7 @@
             <expan xml:id="Bae_TB_9_2557">und</expan>
           </choice> seine Entfernung verlangte. Dessen rühmte er sich noch am selben Abend 
           <!-- identity unknown -->
-          <persName key="PergerUnknown" ref="no_ref" xml:id="Bae_TB_9_2558">Perger</persName> gegenüber 
+          <persName key="PergerRudolf" ref="no_ref" xml:id="Bae_TB_9_2558">Perger</persName> gegenüber 
           <choice xml:id="Bae_TB_9_2559">
             <abbr xml:id="Bae_TB_9_2560">u.</abbr>
             <expan xml:id="Bae_TB_9_2561">und</expan>
@@ -3688,7 +3673,7 @@
           <orgName key="FortnightlyReview" ref="no_ref" xml:id="Bae_TB_9_2591">Fortnightly Review</orgName>
           <!-- CA: ist im Register: --> – erster Schuss 
           <!-- identity unknown -->
-          <persName key="IswolskyAlexander" ref="no_ref" xml:id="Bae_TB_9_2592">Iswolsky's</persName> gegen 
+          <persName key="IswolskiAlexander" ref="no_ref" xml:id="Bae_TB_9_2592">Iswolsky's</persName> gegen 
           <!-- identity ambiguous -->
           <persName key="AehrenthalFelix" ref="no_ref" xml:id="Bae_TB_9_2593">
             <choice xml:id="Bae_TB_9_2594">
@@ -3719,7 +3704,7 @@
           </persName> mit dem russischen Journalisten 
           <hi rendition="#ul" xml:id="Bae_TB_9_2610">
             <!-- identity unknown -->
-            <persName key="WesselitzkyUnknown" ref="no_ref" xml:id="Bae_TB_9_2611">Wesselitzky</persName>
+            <persName key="WesselitzkyGabriel" ref="no_ref" xml:id="Bae_TB_9_2611">Wesselitzky</persName>
           </hi>. 
         </p>
         <p xml:id="Bae_TB_9_2612">4.) Direkte Verhandlungen, die mit den beiderseitigen Communiqués endigen. Dieselben habe ich oben besprochen.</p>
@@ -3739,7 +3724,7 @@
             <expan xml:id="Bae_TB_9_2623">zum Beispiel</expan>
           </choice>
           <!-- identity unknown -->
-          <persName key="FriesUnknown" ref="no_ref" xml:id="Bae_TB_9_2624">Fries</persName>, mein Neffe, die ganze Sorte 
+          <persName key="Fries" ref="no_ref" xml:id="Bae_TB_9_2624">Fries</persName>, mein Neffe, die ganze Sorte 
           <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_2625">Sieghart</persName>
           <choice xml:id="Bae_TB_9_2626">
             <abbr xml:id="Bae_TB_9_2627">u.s.w.</abbr>
@@ -3758,7 +3743,7 @@
             <expan xml:id="Bae_TB_9_2637">zum Beispiel</expan>
           </choice>
           <!-- identity unknown -->
-          <persName key="HrouzekUnknown" ref="no_ref" xml:id="Bae_TB_9_2638">Hrouzek</persName> im 
+          <persName key="HrouzekJohann" ref="no_ref" xml:id="Bae_TB_9_2638">Hrouzek</persName> im 
           <orgName key="Justizministerium" ref="https://d-nb.info/gnd/39547-X" xml:id="Bae_TB_9_2639">Justiz 
             <choice xml:id="Bae_TB_9_2640">
               <abbr xml:id="Bae_TB_9_2641">M.</abbr>
@@ -3792,7 +3777,7 @@
               <expan xml:id="Bae_TB_9_2663">Oktober</expan>
             </choice> 1910 aus " 
             <!-- identity unknown -->
-            <persName key="GrunzelJosef" ref="no_ref" xml:id="Bae_TB_9_2664">Grunzel</persName>". 
+            <persName key="GruntzelJosef" ref="no_ref" xml:id="Bae_TB_9_2664">Grunzel</persName>". 
           </add>
         </p>
       </div>
@@ -3805,7 +3790,7 @@
           <!-- identity unknown -->
           <persName key="SpitzmuellerAlexander" ref="no_ref" xml:id="Bae_TB_9_2670">Spitzmüller</persName> bei 
           <!-- identity unknown -->
-          <persName key="SchulzUnknown" ref="no_ref" xml:id="Bae_TB_9_2671">Schulz</persName>. 
+          <persName key="SchulzPaul" ref="no_ref" xml:id="Bae_TB_9_2671">Schulz</persName>. 
           <!-- CA: SchulzPaul -->
           <!-- identity unknown -->
           <persName key="SpitzmuellerAlexander" ref="no_ref" xml:id="Bae_TB_9_2672">
@@ -3844,7 +3829,7 @@
             </choice>Präsidiums 
           </orgName> hatte. Der alte 
           <!-- identity unknown -->
-          <persName key="GomperzJulius" ref="no_ref" xml:id="Bae_TB_9_2694">Gomperz</persName> sollte den Freiherrenstand bekommen: 89 Jahre alt, 50 Jahre Verwaltungsrat der 
+          <persName key="GomperzMax" ref="no_ref" xml:id="Bae_TB_9_2694">Gomperz</persName> sollte den Freiherrenstand bekommen: 89 Jahre alt, 50 Jahre Verwaltungsrat der 
           <!-- identity unknown -->
           <orgName key="Creditanstalt" ref="no_ref" xml:id="Bae_TB_9_2695">Creditanstalt</orgName>, in jeder Hinsicht verdient. Kam in 
           <orgName key="Ministerrat" ref="https://d-nb.info/gnd/4236755-4" xml:id="Bae_TB_9_2696">
@@ -4248,20 +4233,20 @@
         </p>
         <p xml:id="Bae_TB_9_2994">Mit 
           <!-- identity unknown -->
-          <persName key="LedererUnknown" ref="no_ref" xml:id="Bae_TB_9_2995">Dr. Lederer</persName>. Ein Kanzleibeamter 
+          <persName key="LedererSiegfried" ref="no_ref" xml:id="Bae_TB_9_2995">Dr. Lederer</persName>. Ein Kanzleibeamter 
           <!-- identity unknown -->
           <persName key="BairosMarquisUnknown" ref="no_ref" xml:id="Bae_TB_9_2996">Marquis [?] Bairos</persName> erhält einen Gehaltsvorschuss von 22.000 K! Er hat 4800 K Gehalt, [...] à 2200 K. [...] Versicherungsprämie [...] etwa 2600 K. – Soll jetzt von 2200 K. leben, während er bisher mit 4800 K. nicht leben konnte. Ist Hauptagitator in Beamtensachen, Mund stopfen. 
         </p>
         <p xml:id="Bae_TB_9_2997">Offizial 
           <!-- identity unknown -->
-          <persName key="StahlichUnknown" ref="no_ref" xml:id="Bae_TB_9_2998">Stahlich</persName> im 
+          <persName key="StahlichKarl" ref="no_ref" xml:id="Bae_TB_9_2998">Stahlich</persName> im 
           <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_9_2999">Handelsministerium</orgName> bekommt 10000 K. Vorschuss, zahlt davon seine Wahlkosten 
           <!-- identity unknown -->
           <orgName key="GemeinderatGraz" ref="https://d-nb.info/gnd/7725681-5" xml:id="Bae_TB_9_3000">Gemeinderat</orgName>
           <!-- CA: falsch zugeordnet, gemeint ist der GemeinderatWien -->
           <placeName key="Josefstadt" ref="no_ref" xml:id="Bae_TB_9_3001">Josefstadt</placeName>. In der Stichwahl Placat seiner Partei gegen ihn (für 
           <!-- identity unknown -->
-          <persName key="VerganiUnknown" ref="no_ref" xml:id="Bae_TB_9_3002">Vergani</persName>) – dieses Placat von 
+          <persName key="VerganiErnst" ref="no_ref" xml:id="Bae_TB_9_3002">Vergani</persName>) – dieses Placat von 
           <!-- identity unknown -->
           <persName key="WeiskirchnerRichard" ref="no_ref" xml:id="Bae_TB_9_3003">Weiskirchner</persName> [...]schrieben, seinem M[inister], [...] der ihm den Gehaltsvorschuss für Wahl bewilligt hat. Wo ist der Finanzminister? 
         </p>
@@ -4272,7 +4257,7 @@
         <p xml:id="Bae_TB_9_3006">
           <add place="left" xml:id="Bae_TB_9_3007">
             <!-- identity unknown -->
-            <persName key="PatzeltUnknown" ref="no_ref" xml:id="Bae_TB_9_3008">Patzelt</persName> sagte mir – 
+            <persName key="PatzeltJulius" ref="no_ref" xml:id="Bae_TB_9_3008">Patzelt</persName> sagte mir – 
             <date when="1910-07-04" xml:id="Bae_TB_9_3009">4.7.10</date> – dass 
             <!-- identity unknown -->
             <persName key="WeiskirchnerRichard" ref="no_ref" xml:id="Bae_TB_9_3010">
@@ -4363,7 +4348,7 @@
         </p>
         <p xml:id="Bae_TB_9_3075">Hatte mit 
           <!-- identity unknown -->
-          <persName key="NadhernyJohann" ref="no_ref" xml:id="Bae_TB_9_3076">J. Nadherny</persName> Gespräch über 
+          <persName key="Nadherny" ref="no_ref" xml:id="Bae_TB_9_3076">J. Nadherny</persName> Gespräch über 
           <orgName key="StatthaltereiBoehmen" ref="https://d-nb.info/gnd/5057353-6" xml:id="Bae_TB_9_3077">
             <choice xml:id="Bae_TB_9_3078">
               <abbr xml:id="Bae_TB_9_3079">Statth.</abbr>
@@ -4593,13 +4578,13 @@
             <expan xml:id="Bae_TB_9_3250">und</expan>
           </choice> Fleiss die Fragen gründlich zu studiren – haben sich diese Nebenorganisationen über den Kopf wachsen lassen, ihnen viel zu wenig Beachtung geschenkt und überdies deren Unzufriedenheit auf sich geladen, eben weil sie sich zu wenig um den Herrn 
           <!-- identity unknown -->
-          <persName key="TittaUnknown" ref="no_ref" xml:id="Bae_TB_9_3251">Titta</persName>
+          <persName key="TittaJosef" ref="no_ref" xml:id="Bae_TB_9_3251">Titta</persName>
           <choice xml:id="Bae_TB_9_3252">
             <abbr xml:id="Bae_TB_9_3253">u.</abbr>
             <expan xml:id="Bae_TB_9_3254">und</expan>
           </choice> seinen nicht unbedeutenden Anhang gekümmert haben. Das führte jetzt zu den Einmischungen dieser Kreise in die Verhandlungen, zu der Unsicherheit der Abgeordneten ihnen gegenüber, worüber der Kaiser wohl unterrichtet war als er dem 
           <!-- identity unknown -->
-          <persName key="PacherUnknown" ref="no_ref" xml:id="Bae_TB_9_3255">
+          <persName key="PacherRafael" ref="no_ref" xml:id="Bae_TB_9_3255">
             <choice xml:id="Bae_TB_9_3256">
               <abbr xml:id="Bae_TB_9_3257">Abg.</abbr>
               <expan xml:id="Bae_TB_9_3258">Abgeordneten</expan>
@@ -4672,7 +4657,7 @@
             <abbr xml:id="Bae_TB_9_3307">u.</abbr>
             <expan xml:id="Bae_TB_9_3308">und</expan>
           </choice>
-          <persName key="EppingerKarl" ref="no_ref" xml:id="Bae_TB_9_3309">Eppinger</persName> die Einladenden sein. Vom ersten Tage an waren aber wieder wir 
+          <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_9_3309">Eppinger</persName> die Einladenden sein. Vom ersten Tage an waren aber wieder wir 
           <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3310">Grossgrundbesitzer</orgName> die Führenden. Unwillkürlich hatten die Zeitungen, 
           <choice xml:id="Bae_TB_9_3311">
             <abbr xml:id="Bae_TB_9_3312">insbes.</abbr>
@@ -4765,15 +4750,15 @@
           <p xml:id="Bae_TB_9_3376">1. die vier Regierungsvorlagen über die Abänderung der Landesordnung, über die Landtagswahlordnung, über den Gebrauch der beiden Landessprachen bei den autonomen Behörden und über die Kreisvertretungen;</p>
           <pb facs="#F_K-4_Bae_TB_9_153" n="72v" xml:id="Bae_TB_9_3377"/>
           <p xml:id="Bae_TB_9_3378">2. fünf Initiativanträge, von denen sich drei auf die Landesordnung beziehen (Anträge 
-            <persName key="EppingerKarl" ref="no_ref" xml:id="Bae_TB_9_3379">Eppinger</persName>, 
+            <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_9_3379">Eppinger</persName>, 
             <!-- identity unknown -->
-            <persName key="KoernerJosef" ref="no_ref" xml:id="Bae_TB_9_3380">Körner</persName>, 
+            <persName key="KoernerEduard" ref="no_ref" xml:id="Bae_TB_9_3380">Körner</persName>, 
             <!-- identity unknown -->
-            <persName key="ForstUnknown" ref="no_ref" xml:id="Bae_TB_9_3381">Forst</persName>), einer auf die Einführung des allgemeinen, gleichen, direkten Wahlrechtes ( 
+            <persName key="FortJosef" ref="no_ref" xml:id="Bae_TB_9_3381">Forst</persName>), einer auf die Einführung des allgemeinen, gleichen, direkten Wahlrechtes ( 
             <!-- identity unknown -->
             <persName key="BaxaKarel" ref="no_ref" xml:id="Bae_TB_9_3382">Baxa</persName>) und einer auf die Landtagswahlordnung und einige Bestimmungen der Landesordnung ( 
             <!-- identity unknown -->
-            <persName key="KoernerJosef" ref="no_ref" xml:id="Bae_TB_9_3383">Körner</persName>). 
+            <persName key="KoernerEduard" ref="no_ref" xml:id="Bae_TB_9_3383">Körner</persName>). 
           </p>
           <p xml:id="Bae_TB_9_3384">Die nationalpolitische Kommission, welche aus 33 Mitgliedern besteht, begann ihre Beratungen mit einer allgemeinen Besprechung und einigte sich über eine geeignete Arbeitsteilung.</p>
           <p xml:id="Bae_TB_9_3385">Die nationalpolitische Kommmision teilte sich zum Zwecke der Durchberatung der ihr zugewiesenen Angelegenheiten in zwei Unterausschüsse von je 19 Mitgliedern. Dem Unterausschuß I wurden die Regierungsvorlagen und die Initiativanträge über die Landesordnung und die Landtagswahlordnung zugewiesen, dem Unterausschuß II die Regierungsvorlage über die Kreisvertretungen und das Sprachengesetz. Außerdem wurde sie mit der Beratung über die Abgrenzung betraut und sie zog im weiteren Verlaufe der Verhandlungen auch die Frage der Minoritätsschulen in den Kreis ihrer Arbeiten.</p>
@@ -5020,7 +5005,7 @@
               <expan xml:id="Bae_TB_9_3553">Fräulein</expan>
             </choice>
             <!-- identity unknown -->
-            <persName key="GluckUnknown" ref="no_ref" xml:id="Bae_TB_9_3554">Gluck</persName> aus 
+            <persName key="Gluck" ref="no_ref" xml:id="Bae_TB_9_3554">Gluck</persName> aus 
             <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3555">Wien</placeName>
             <choice xml:id="Bae_TB_9_3556">
               <abbr xml:id="Bae_TB_9_3557">u.</abbr>
@@ -5115,13 +5100,13 @@
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3626">Prager</placeName>
             <del rendition="#s" xml:id="Bae_TB_9_3627">Tagblatt</del> Abendblatt" verkündete nach jedem Artikel seinen Inhalt den Lesern, wobei ich meinem Freunde 
             <!-- identity unknown -->
-            <persName key="SteinbergUnknown" ref="no_ref" xml:id="Bae_TB_9_3628">Steinberg</persName> nicht übel nehme dass er meine gegen die Untätigkeit der Regierung gerichteten Bemerkungen – verschwieg. 
+            <persName key="SteinbergJulius" ref="no_ref" xml:id="Bae_TB_9_3628">Steinberg</persName> nicht übel nehme dass er meine gegen die Untätigkeit der Regierung gerichteten Bemerkungen – verschwieg. 
           </p>
           <p xml:id="Bae_TB_9_3629">Und nun zur Regierung und ihrer Thätigkeit während den ganzen Verhandlungen.</p>
           <p xml:id="Bae_TB_9_3630">Offenbar war 
             <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_3631">Bienerth</persName> vom Tronfolger gedrängt worden, wieder etwas in den böhmischen Sachen zu machen. Wir hatten uns ihm gegenüber mehr als zurückhaltend benommen, weil wir nicht wollten, dass er unser Material durch eine verkehrte Benützung entwerthe. Auch hatten wir allerorts erzält, dass wir uns zu einer Vermittlung nicht mehr hergeben würden, wenn die Regierung sich nicht selbst einsetzen würde. Das wollte nun 
             <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_3632">Bienerth</persName> allerdings nicht sondern suchte sich neue Vermittler. Er fand sie bald in den beiden Landesausschussbeisitzern 
-            <persName key="EppingerKarl" ref="no_ref" xml:id="Bae_TB_9_3633">Eppinger</persName>
+            <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_9_3633">Eppinger</persName>
             <choice xml:id="Bae_TB_9_3634">
               <abbr xml:id="Bae_TB_9_3635">u.</abbr>
               <expan xml:id="Bae_TB_9_3636">und</expan>
@@ -5297,9 +5282,9 @@
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3767">Prag</placeName> zu spüren. Allgemein wurde behauptet dass 
             <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_3768">Beck</persName> dem Werke hämisch besprechende Artikel lancire, was ich nicht controlliren kann. Als ich einmal in einer Volksratsitzung mich wieder zum so und so vielten Mal bemühte die Herren auf den realen Boden zurückzufüren rief mir Herr 
             <!-- identity unknown -->
-            <persName key="EhrlichUnknown" ref="no_ref" xml:id="Bae_TB_9_3769">Ehrlich</persName>, der Sekretär 
+            <persName key="EhrlichRobert" ref="no_ref" xml:id="Bae_TB_9_3769">Ehrlich</persName>, der Sekretär 
             <!-- identity unknown -->
-            <persName key="TittaUnknown" ref="no_ref" xml:id="Bae_TB_9_3770">Titta's</persName>, über den Tisch herüber: 
+            <persName key="TittaJosef" ref="no_ref" xml:id="Bae_TB_9_3770">Titta's</persName>, über den Tisch herüber: 
             <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_9_3771">Körber</persName> hat uns geraten, nicht früher nachzugeben, bis die Abgrenzung bewilligt ist – auf mein etwas erstauntes Gesicht 
             <choice xml:id="Bae_TB_9_3772">
               <abbr xml:id="Bae_TB_9_3773">u.</abbr>
@@ -5312,7 +5297,7 @@
             <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3778">Wien</placeName> besucht habe. Also auch von der Seite wurde uns in die Suppe gespuckt. Ziemlich naiv gab mir in 
             <placeName key="Wien" ref="https://www.geonames.org/2761367/wien.html" xml:id="Bae_TB_9_3779">Wien</placeName> der bekannte Polenfürer Hofrat 
             <!-- identity unknown -->
-            <persName key="GermanUnknown" ref="no_ref" xml:id="Bae_TB_9_3780">German</persName> zu verstehen, dass die 
+            <persName key="GermanLudomil" ref="no_ref" xml:id="Bae_TB_9_3780">German</persName> zu verstehen, dass die 
             <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_9_3781">Polen</orgName> die böhmische Annäherung doch nicht mit freundlichen Augen ansehen können! Als die Verhandlungen gut gingen und es schien es werde bald etwas Entscheidendes zu Stande kommen, wurden auch die ungarischen Blätter unruhig – die verschiedenen politischen Vögel hörten auf zu singen 
             <choice xml:id="Bae_TB_9_3782">
               <abbr xml:id="Bae_TB_9_3783">u.</abbr>
@@ -5414,10 +5399,10 @@
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_9_3858">Thun</persName>, 
             <persName key="Clam-MartinicHeinrich" ref="https://d-nb.info/gnd/118676245" xml:id="Bae_TB_9_3859">Clam</persName>, 
             <!-- identity unknown -->
-            <persName key="MettalUnknown" ref="no_ref" xml:id="Bae_TB_9_3860">Mettal</persName> auf der einen Seite, 
+            <persName key="MettalOtto" ref="no_ref" xml:id="Bae_TB_9_3860">Mettal</persName> auf der einen Seite, 
             <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X" xml:id="Bae_TB_9_3861">Nostitz</persName>, 
             <!-- identity unknown -->
-            <persName key="PergerUnknown" ref="no_ref" xml:id="Bae_TB_9_3862">Perger</persName> (der sehr brav war) auf der andern. Das eigentliche Trio war aber 
+            <persName key="PergerRudolf" ref="no_ref" xml:id="Bae_TB_9_3862">Perger</persName> (der sehr brav war) auf der andern. Das eigentliche Trio war aber 
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_9_3863">Thun</persName>, 
             <persName key="Clam-MartinicHeinrich" ref="https://d-nb.info/gnd/118676245" xml:id="Bae_TB_9_3864">Clam</persName>
             <choice xml:id="Bae_TB_9_3865">
@@ -5441,14 +5426,14 @@
           </p>
           <p xml:id="Bae_TB_9_3878">Von čechischer Seite fürte in erster Reihe 
             <!-- identity unknown -->
-            <persName key="FortUnknown" ref="no_ref" xml:id="Bae_TB_9_3879">Fořt</persName> die Verhandlungen, während 
+            <persName key="FortJosef" ref="no_ref" xml:id="Bae_TB_9_3879">Fořt</persName> die Verhandlungen, während 
             <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_9_3880">Pacák</persName> sich mehr zurückhielt, aber durchaus conciliant 
             <choice xml:id="Bae_TB_9_3881">
               <abbr xml:id="Bae_TB_9_3882">u.</abbr>
               <expan xml:id="Bae_TB_9_3883">und</expan>
             </choice> vernünftig wirkte. 
             <!-- identity unknown -->
-            <persName key="FortUnknown" ref="no_ref" xml:id="Bae_TB_9_3884">Fořt</persName> war in politischen Schlagworten und Redensarten gross, in der Sache aber zugänglich. Die čechischen 
+            <persName key="FortJosef" ref="no_ref" xml:id="Bae_TB_9_3884">Fořt</persName> war in politischen Schlagworten und Redensarten gross, in der Sache aber zugänglich. Die čechischen 
             <orgName key="DeutscheAgrarier" ref="https://d-nb.info/gnd/1041439059" xml:id="Bae_TB_9_3885">Agrarier</orgName> waren durch 
             <!-- identity unknown -->
             <persName key="DvorakWenzel" ref="no_ref" xml:id="Bae_TB_9_3886">Dvorak</persName>
@@ -5457,14 +5442,14 @@
               <expan xml:id="Bae_TB_9_3889">und</expan>
             </choice>
             <!-- identity unknown -->
-            <persName key="VeskowskyUnknown" ref="no_ref" xml:id="Bae_TB_9_3890">Veškowsky</persName> sehr gut vertreten. Die 
+            <persName key="ViskovskyKarl" ref="no_ref" xml:id="Bae_TB_9_3890">Veškowsky</persName> sehr gut vertreten. Die 
             <choice xml:id="Bae_TB_9_3891">
               <abbr xml:id="Bae_TB_9_3892">čech.</abbr>
               <expan xml:id="Bae_TB_9_3893">čechischen</expan>
             </choice>
             <orgName key="DeutschradikalePartei" ref="https://d-nb.info/gnd/104140834X" xml:id="Bae_TB_9_3894">Radicalen</orgName>, 
             <!-- identity unknown -->
-            <persName key="SokolUnknown" ref="no_ref" xml:id="Bae_TB_9_3895">Sokol</persName> an der Spitze, machten keine Schwierigkeiten, wenn sie auch hie 
+            <persName key="SokolKarel" ref="no_ref" xml:id="Bae_TB_9_3895">Sokol</persName> an der Spitze, machten keine Schwierigkeiten, wenn sie auch hie 
             <choice xml:id="Bae_TB_9_3896">
               <abbr xml:id="Bae_TB_9_3897">u.</abbr>
               <expan xml:id="Bae_TB_9_3898">und</expan>
@@ -5480,7 +5465,7 @@
             </choice> andere Mal an die Oberfläche. Nur als 
             <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_9_3906">Kramář</persName> hereingeschneit kam und uns Feuer aufs Dach setzte war der Unwille über diese Störung bei den Čechen sehr wol sichtbar. Keine besondere Rolle spielte 
             <!-- identity unknown -->
-            <persName key="FiedlerUnknown" ref="no_ref" xml:id="Bae_TB_9_3907">Fiedler</persName>, der jetzige Führer 
+            <persName key="FiedlerFranz" ref="no_ref" xml:id="Bae_TB_9_3907">Fiedler</persName>, der jetzige Führer 
             <pb facs="#F_K-4_Bae_TB_9_183" n="87v" xml:id="Bae_TB_9_3908"/>
             <note type="editorial" xml:id="Bae_TB_9_3909">Diese Seite ist leer.</note>
             <pb facs="#F_K-4_Bae_TB_9_184" n="88r" xml:id="Bae_TB_9_3910"/>der Čechen. Er arbeitete fleissig bei der Abgrenzung 
@@ -5490,7 +5475,7 @@
             </choice> bei der Verhandlung der Kreisvertretungen mit, mischte sich aber in die eigentliche politische Regie nicht ein. 
           </p>
           <p xml:id="Bae_TB_9_3914">Auf deutscher Seite war das Bild schon bunter, manchmal sogar kunterbund. Am besten beherrschte die ganze Materie unläugbar 
-            <persName key="EppingerKarl" ref="no_ref" xml:id="Bae_TB_9_3915">Eppinger</persName>. Er sprach immer sehr sachlich, auch argumentativ, aber trotzdem nicht immer durchschlagend, weil er nicht zu pointiren versteht und auch jenes Unterstreichen von Behauptungen nicht kennt, das man im Flusse der Rede durch ein discretes Uebertreiben erzielt. Neben ihm vor Allem 
+            <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_9_3915">Eppinger</persName>. Er sprach immer sehr sachlich, auch argumentativ, aber trotzdem nicht immer durchschlagend, weil er nicht zu pointiren versteht und auch jenes Unterstreichen von Behauptungen nicht kennt, das man im Flusse der Rede durch ein discretes Uebertreiben erzielt. Neben ihm vor Allem 
             <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_9_3916">Urban</persName>, die Taube. Immer au fond unterrichtet, gewissenhaft, in jeder Hinsicht bereitwillig, conciliant 
             <choice xml:id="Bae_TB_9_3917">
               <abbr xml:id="Bae_TB_9_3918">u.</abbr>
@@ -5524,7 +5509,7 @@
             <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_9_3939">Wolf</persName>, trotzdem der Generalstabschef der 
             <orgName key="Verfassungspartei" ref="no_ref" xml:id="Bae_TB_9_3940">Partei</orgName>
             <!-- identity unknown -->
-            <persName key="PacherUnknown" ref="no_ref" xml:id="Bae_TB_9_3941">Pacher</persName> ist. Letzterer im Grunde sehr conciliant, zu jedem vernünftigen Vorschlag zu haben, aber in steter Verbindung mit seinem Wahlbezirk ( 
+            <persName key="PacherRafael" ref="no_ref" xml:id="Bae_TB_9_3941">Pacher</persName> ist. Letzterer im Grunde sehr conciliant, zu jedem vernünftigen Vorschlag zu haben, aber in steter Verbindung mit seinem Wahlbezirk ( 
             <!-- identity unknown -->
             <placeName key="Komotau" ref="no_ref" xml:id="Bae_TB_9_3942">Kommotau</placeName>), von dortigen Localströmungen nicht unabhängig 
             <choice xml:id="Bae_TB_9_3943">
@@ -5549,12 +5534,12 @@
               <expan xml:id="Bae_TB_9_3959">und</expan>
             </choice> nie einen ausgesprochenen Willen haben, nie präsent sind – eine ganz nebensächliche Rolle spielen. Ihr "Haupt" ist 
             <!-- identity unknown -->
-            <persName key="KruetznerUnknown" ref="no_ref" xml:id="Bae_TB_9_3960">Krützner</persName>, ein Bauer aus 
+            <persName key="KruetznerPeter" ref="no_ref" xml:id="Bae_TB_9_3960">Krützner</persName>, ein Bauer aus 
             <!-- identity unknown -->
             <placeName key="Lobositz" ref="no_ref" xml:id="Bae_TB_9_3961">Lobositz</placeName> von dem gilt was mir 
             <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_9_3962">Unger</persName> einmal sagte als ich von einem führenden grossen Herrn sprach: "sagen sie Haupt aber nicht Kopf". 
             <!-- identity unknown -->
-            <persName key="KruetznerUnknown" ref="no_ref" xml:id="Bae_TB_9_3963">Krützner</persName> ist eine aufgeblasene Null. Der gute 
+            <persName key="KruetznerPeter" ref="no_ref" xml:id="Bae_TB_9_3963">Krützner</persName> ist eine aufgeblasene Null. Der gute 
             <persName key="DammHans" ref="https://d-nb.info/gnd/1056935251" xml:id="Bae_TB_9_3964">Damm</persName> ist im 
             <choice xml:id="Bae_TB_9_3965">
               <abbr xml:id="Bae_TB_9_3966">R.</abbr>
@@ -5566,7 +5551,7 @@
               <expan xml:id="Bae_TB_9_3971">und</expan>
             </choice> spielt keine Rolle. 
             <!-- identity unknown -->
-            <persName key="ZulegerUnknown" ref="no_ref" xml:id="Bae_TB_9_3972">Zuleger</persName> ist feig, lamentirt fortwährend über die Arbeitsunfähigkeit des 
+            <persName key="ZulegerTheodor" ref="no_ref" xml:id="Bae_TB_9_3972">Zuleger</persName> ist feig, lamentirt fortwährend über die Arbeitsunfähigkeit des 
             <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_3973">Landtags</orgName>, hat aber nicht den Finger gerührt sie herbeizuführen. 
             <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_3974">Schreiner</persName> ist vor Allem confuss, fahrig, tief gekränkt durch seinen Hinauswurf aus dem Ministerium sowie dass er von allen links liegen gelassen wird – macht lauter Dummheiten, wenn er überhaupt da ist. Ihm fehlt jede Stetigkeit, jede Ruhe zum Nachdenken, sondern sein Tätigkeitstrieb, immer mit einer Menge kleiner Dinge beschäftigt stürmt vorwärts, seine Eitelkeit 
             <choice xml:id="Bae_TB_9_3975">
@@ -5616,7 +5601,7 @@
           </p>
           <p xml:id="Bae_TB_9_4011">Außerordentlich erschwert war die Arbeit bei den Deutschen durch die Einmischung 
             <!-- identity unknown -->
-            <persName key="TittaUnknown" ref="no_ref" xml:id="Bae_TB_9_4012">Tittas</persName> und des Zweiteilungsausschusses. Diese Herren, auf ganz extreme Forderungen eingeschworen, verfolgten misstrauisch und Misstrauen säend die Verhandlungen. 
+            <persName key="TittaJosef" ref="no_ref" xml:id="Bae_TB_9_4012">Tittas</persName> und des Zweiteilungsausschusses. Diese Herren, auf ganz extreme Forderungen eingeschworen, verfolgten misstrauisch und Misstrauen säend die Verhandlungen. 
           </p>
           <p xml:id="Bae_TB_9_4013">Ob wir dem grossen Problem: die nationale Selbstbestimmung mit der notwendigen Einheit des Landes in Einklang zu bringen näher gekommen sind? In einzelnen der vereinbarten Bestimmungen ohne Zweifel – aber grosse Probleme sind noch zu lösen 
             <choice xml:id="Bae_TB_9_4014">
@@ -5723,7 +5708,7 @@
             <!-- identity ambiguous -->
             <persName key="AehrenthalFelix" ref="no_ref" xml:id="Bae_TB_9_4088">Aehrenthal</persName>. Hätte er lediglich behauptet, dass 
             <!-- identity unknown -->
-            <persName key="ForgachAntal" ref="no_ref" xml:id="Bae_TB_9_4089">Forgách</persName> von sehr ungeschickten Fälschern dupirt wurde, dass es unbegreiflich sei, wie ein Gesandter 
+            <persName key="ForgachJanos" ref="no_ref" xml:id="Bae_TB_9_4089">Forgách</persName> von sehr ungeschickten Fälschern dupirt wurde, dass es unbegreiflich sei, wie ein Gesandter 
             <choice xml:id="Bae_TB_9_4090">
               <abbr xml:id="Bae_TB_9_4091">u.</abbr>
               <expan xml:id="Bae_TB_9_4092">und</expan>
@@ -5736,12 +5721,12 @@
             </choice> die grosse Blamage unseres 
             <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_9_4097">Ministeriums des Äussern</orgName> wäre aktenkundig gewesen. So aber behauptete er, dass 
             <!-- identity unknown -->
-            <persName key="ForgachAntal" ref="no_ref" xml:id="Bae_TB_9_4098">Forgách</persName> bei der Fälschung selbst beteiligt gewesen ist, was, selbst wenn es 
+            <persName key="ForgachJanos" ref="no_ref" xml:id="Bae_TB_9_4098">Forgách</persName> bei der Fälschung selbst beteiligt gewesen ist, was, selbst wenn es 
             <pb facs="#F_K-4_Bae_TB_9_197" n="94v" xml:id="Bae_TB_9_4099"/>
             <note type="editorial" xml:id="Bae_TB_9_4100">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
             <pb facs="#F_K-4_Bae_TB_9_198" n="95r" xml:id="Bae_TB_9_4101"/>wäre, wohl niemals bewiesen werden könnte. Aber es ist das offenbar nicht der Fall. 
             <!-- identity unknown -->
-            <persName key="ForgachAntal" ref="no_ref" xml:id="Bae_TB_9_4102">Forgách</persName> ist einfach angeschmiert worden, ist colossal aufgesessen 
+            <persName key="ForgachJanos" ref="no_ref" xml:id="Bae_TB_9_4102">Forgách</persName> ist einfach angeschmiert worden, ist colossal aufgesessen 
             <choice xml:id="Bae_TB_9_4103">
               <abbr xml:id="Bae_TB_9_4104">u.</abbr>
               <expan xml:id="Bae_TB_9_4105">und</expan>
@@ -5854,7 +5839,7 @@
                 <abbr xml:id="Bae_TB_9_4177">Athal</abbr>
                 <expan xml:id="Bae_TB_9_4178">Aehrenthal</expan>
               </choice>
-            </persName> über die heutige päpstliche Politik. Ich wies auf die verschiedenen Enunciationen des Papstes 
+            </persName> über die heutige päpstliche Politik. Ich wies auf die verschiedenen Enunciationen des <persName key="PiusX">Papstes</persName> 
             <!-- CA. hier ist PiusX gemeint --> hin, die so sehr von der Politik 
             <!-- identity unknown -->
             <persName key="LeoXIII" ref="no_ref" xml:id="Bae_TB_9_4179">Leo XIII.</persName> abweichen. Warum die Borromäusencyklica 
@@ -5889,7 +5874,7 @@
                 <abbr xml:id="Bae_TB_9_4200">Athal</abbr>
                 <expan xml:id="Bae_TB_9_4201">Aehrenthal</expan>
               </choice>
-            </persName> meinte, dass der jetzige Papst ganz im Gegensatz zu seinem Vorgänger auf die 
+            </persName> meinte, dass der jetzige <persName key="PiusX">Papst</persName> ganz im Gegensatz zu seinem Vorgänger auf die 
             <hi rendition="#ul" xml:id="Bae_TB_9_4202">Intensität</hi> der 
             <!-- identity unknown -->
             <orgName key="KatholischeKirche" ref="no_ref" xml:id="Bae_TB_9_4203">
@@ -5923,7 +5908,7 @@
             </hi> viel mit ihm darüber spricht, aber der 
             <persName key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005" xml:id="Bae_TB_9_4222">Thronfolger</persName>, geleitet von dem 
             <!-- identity unknown -->
-            <persName key="GalenChristoph" ref="no_ref" xml:id="Bae_TB_9_4223">Grafen Galen</persName>, der offenbar ein Eiferer im Sinne der jetzigen päpstlichen Gesinnung ist, mag wohl mit ihm darüber reden. Aus der sehr 
+            <persName key="GalenAugustinus" ref="no_ref" xml:id="Bae_TB_9_4223">Grafen Galen</persName>, der offenbar ein Eiferer im Sinne der jetzigen päpstlichen Gesinnung ist, mag wohl mit ihm darüber reden. Aus der sehr 
             <pb facs="#F_K-4_Bae_TB_9_205" n="98v" xml:id="Bae_TB_9_4224"/>
             <note type="editorial" xml:id="Bae_TB_9_4225">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
             <pb facs="#F_K-4_Bae_TB_9_206" n="99r" xml:id="Bae_TB_9_4226"/>ernsten Miene, mit der 

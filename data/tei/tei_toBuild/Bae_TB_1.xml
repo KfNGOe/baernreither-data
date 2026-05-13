@@ -6197,7 +6197,7 @@
               <expan xml:id="Bae_TB_1_4419">Reichenberg</expan>
             </choice>
           </placeName>, bei 
-          <persName key="EppingerKarl" xml:id="Bae_TB_1_4420">Dr. Eppinger</persName> in 
+          <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_1_4420">Dr. Eppinger</persName> in 
           <placeName key="Niemes" ref="https://www.geonames.org/3070622/mimon.html" xml:id="Bae_TB_1_4421">Niemes</placeName>
           <choice xml:id="Bae_TB_1_4422">
             <abbr xml:id="Bae_TB_1_4423">u.</abbr>
