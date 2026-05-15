@@ -80,7 +80,10 @@
   </teiHeader>
   <text xml:id="Bae_TB_7_50">
     <body xml:id="Bae_TB_7_51">
-      <div type="diaryEntry" xml:id="Bae_TB_7_53"><head><date when="1904-12-07" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_53">
+        <head xml:id="Bae_TB_7_5165">
+          <date when="1904-12-07" type="diaryEntry" xml:id="Bae_TB_7_5166"/>
+        </head>
         <pb facs="#F_K-4_Bae_TB_7_002" n="1r" xml:id="Bae_TB_7_52"/>
         <p xml:id="Bae_TB_7_54">
           <anchor xml:id="Bae_TB_7_2060"/>Meine Rede im 
@@ -608,7 +611,10 @@
         <!--Beginn der Einklebung. 41 Seiten eingeklebtes vervielfältigtes handschriftliches Protokoll-->
         <pb facs="#F_K-4_Bae_TB_7_010" n="5r" xml:id="Bae_TB_7_342"/>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_343"><head><date when="1904-11-19" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_343">
+        <head xml:id="Bae_TB_7_5167">
+          <date when="1904-11-19" type="diaryEntry" xml:id="Bae_TB_7_5168"/>
+        </head>
         <anchor xml:id="Bae_TB_7_4515"/>
         <!-- CA: für Zeitungsartikel Textvgl. -->
         <addSpan spanTo="#Bae_TB_7_4927" type="insertion" xml:id="Bae_TB_7_2075"/>
@@ -1541,7 +1547,8 @@
           <anchor xml:id="Bae_TB_7_3332"/>Finis 
           <app from="#Bae_MF_6-1_948" type="notEqual" xml:id="Bae_TB_7_3333">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3334">Die Erbschaft, die Koerber hinterließ</rdg>
-          </app><date when="1904-12-31" type="diaryEntry"></date>
+          </app>
+          <date when="1904-12-31" type="diaryEntry" xml:id="Bae_TB_7_5169"/>
         </head>
         <p xml:id="Bae_TB_7_770">
           <anchor xml:id="Bae_TB_7_3335"/>Die sofortige Vertagung des 
@@ -2378,7 +2385,8 @@
         <anchor xml:id="Bae_TB_7_3594"/>
         <head xml:id="Bae_TB_7_927">Die Flitterwochen 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_7_928">Gautsch</persName>
-        <date when="1905-07" type="diaryEntry"></date></head>
+          <date when="1905-07" type="diaryEntry" xml:id="Bae_TB_7_5170"/>
+        </head>
         <p xml:id="Bae_TB_7_929">Er wird anfangs kühl aufgenommen. Hat mit unangenehmen Reminiscenzen zu kämpfen. 
           <note type="editorial" xml:id="Bae_TB_7_930">Paul Gautsch wurde am 1.1.1905 zum zweiten Mal zum österreichischen Ministerpräsidenten ernannt.</note> Benimmt sich gut. 
           <app from="#Bae_MF_6-1_1197" type="equal" xml:id="Bae_TB_7_3595">
@@ -2837,7 +2845,8 @@
           <anchor xml:id="Bae_TB_7_4423"/>Ungarische Fühlungen 
           <app from="#Bae_MF_6-1_1326" type="notEqual" xml:id="Bae_TB_7_4424">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_4425">Die Beratungen über Zolltarif und Handelsvertrag mit Deutschland</rdg>
-          </app><date when="1905-08" type="diaryEntry"></date>
+          </app>
+          <date when="1905-08" type="diaryEntry" xml:id="Bae_TB_7_5171"/>
         </head>
         <p xml:id="Bae_TB_7_1052">
           <anchor xml:id="Bae_TB_7_3725"/>Die Krankheit von 
@@ -3485,7 +3494,10 @@
           </app>
         </p>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_1179"><head><date when="1905-10" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_1179">
+        <head xml:id="Bae_TB_7_5172">
+          <date when="1905-10" type="diaryEntry" xml:id="Bae_TB_7_5173"/>
+        </head>
         <anchor xml:id="Bae_TB_7_4908"/>
         <app from="#Bae_TB_7_2126" type="insertion" xml:id="Bae_TB_7_4909">
           <rdg xml:id="Bae_TB_7_4910">…</rdg>
@@ -3503,7 +3515,10 @@
         </p>
         <anchor xml:id="Bae_TB_7_2128"/>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_1193"><head><date when="1905-09-05" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_1193">
+        <head xml:id="Bae_TB_7_5174">
+          <date when="1905-09-05" type="diaryEntry" xml:id="Bae_TB_7_5175"/>
+        </head>
         <p xml:id="Bae_TB_7_1194">
           <anchor xml:id="Bae_TB_7_3851"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1195">Budapest</placeName>
@@ -4343,7 +4358,10 @@
           </app>
         </p>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_1366"><head><date when="1905-09-06" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_1366">
+        <head xml:id="Bae_TB_7_5176">
+          <date when="1905-09-06" type="diaryEntry" xml:id="Bae_TB_7_5177"/>
+        </head>
         <p xml:id="Bae_TB_7_1367">
           <anchor xml:id="Bae_TB_7_4016"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1368">Budapest</placeName>
@@ -4574,7 +4592,10 @@
           </app>
         </p>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_1427"><head><date when="1905-09-07" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_1427">
+        <head xml:id="Bae_TB_7_5178">
+          <date when="1905-09-07" type="diaryEntry" xml:id="Bae_TB_7_5179"/>
+        </head>
         <p xml:id="Bae_TB_7_1428">
           <anchor xml:id="Bae_TB_7_4058"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1429">Budapest</placeName>
@@ -5141,7 +5162,10 @@
           </app>
         </p>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_1543"><head><date when="1905-09-08" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_1543">
+        <head xml:id="Bae_TB_7_5180">
+          <date when="1905-09-08" type="diaryEntry" xml:id="Bae_TB_7_5181"/>
+        </head>
         <p xml:id="Bae_TB_7_1544">
           <anchor xml:id="Bae_TB_7_4175"/>
           <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_TB_7_1545">Agram</placeName>
@@ -5437,7 +5461,10 @@
         <pb facs="#F_K-4_Bae_TB_7_147" n="73v" xml:id="Bae_TB_7_2176"/>
         <note type="editorial" xml:id="Bae_TB_7_2177">Diese Seite ist leer.</note>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_1589"><head><date when="1905-09-09" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_1589">
+        <head xml:id="Bae_TB_7_5182">
+          <date when="1905-09-09" type="diaryEntry" xml:id="Bae_TB_7_5183"/>
+        </head>
         <pb facs="#F_K-4_Bae_TB_7_148" n="74r" xml:id="Bae_TB_7_1590"/>
         <p xml:id="Bae_TB_7_1591">
           <anchor xml:id="Bae_TB_7_4270"/>
@@ -5705,7 +5732,10 @@
         <note type="editorial" xml:id="Bae_TB_7_2187">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_7_158" n="79r" xml:id="Bae_TB_7_1655"/>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_1656"><head><date when="1905-09-10" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_7_1656">
+        <head xml:id="Bae_TB_7_5184">
+          <date when="1905-09-10" type="diaryEntry" xml:id="Bae_TB_7_5185"/>
+        </head>
         <p xml:id="Bae_TB_7_1657">
           <anchor xml:id="Bae_TB_7_4300"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_1658">Wien</placeName> am 
