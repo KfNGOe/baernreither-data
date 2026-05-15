@@ -80,7 +80,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_7_50">
     <body xml:id="Bae_TB_7_51">
-      <div n="1904-12-07" type="diaryEntry" xml:id="Bae_TB_7_53">
+      <div type="diaryEntry" xml:id="Bae_TB_7_53"><head><date when="1904-12-07" type="diaryEntry"></date></head>
         <pb facs="#F_K-4_Bae_TB_7_002" n="1r" xml:id="Bae_TB_7_52"/>
         <p xml:id="Bae_TB_7_54">
           <anchor xml:id="Bae_TB_7_2060"/>Meine Rede im 
@@ -608,7 +608,7 @@
         <!--Beginn der Einklebung. 41 Seiten eingeklebtes vervielfältigtes handschriftliches Protokoll-->
         <pb facs="#F_K-4_Bae_TB_7_010" n="5r" xml:id="Bae_TB_7_342"/>
       </div>
-      <div n="1904-11-19" type="diaryEntry" xml:id="Bae_TB_7_343">
+      <div type="diaryEntry" xml:id="Bae_TB_7_343"><head><date when="1904-11-19" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_7_4515"/>
         <!-- CA: für Zeitungsartikel Textvgl. -->
         <addSpan spanTo="#Bae_TB_7_4927" type="insertion" xml:id="Bae_TB_7_2075"/>
@@ -1536,12 +1536,12 @@
         <!-- Korrektur mit Bleistift siehe MF -->
         <!-- CA: hier beginnen die eigentlichen Tagebuchaufzeichnungen erst, das Protokoll und der Zeitungsartikel davor als missing in den Lebenserinnerungen verzeichnet -->
       </div>
-      <div n="1904-12-31" type="diaryEntry" xml:id="Bae_TB_7_768">
+      <div type="diaryEntry" xml:id="Bae_TB_7_768">
         <head xml:id="Bae_TB_7_769">
           <anchor xml:id="Bae_TB_7_3332"/>Finis 
           <app from="#Bae_MF_6-1_948" type="notEqual" xml:id="Bae_TB_7_3333">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_3334">Die Erbschaft, die Koerber hinterließ</rdg>
-          </app>
+          </app><date when="1904-12-31" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_7_770">
           <anchor xml:id="Bae_TB_7_3335"/>Die sofortige Vertagung des 
@@ -2374,11 +2374,11 @@
           </app>
         </p>
       </div>
-      <div n="1905-07" type="diaryEntry" xml:id="Bae_TB_7_926">
+      <div type="diaryEntry" xml:id="Bae_TB_7_926">
         <anchor xml:id="Bae_TB_7_3594"/>
         <head xml:id="Bae_TB_7_927">Die Flitterwochen 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_TB_7_928">Gautsch</persName>
-        </head>
+        <date when="1905-07" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_7_929">Er wird anfangs kühl aufgenommen. Hat mit unangenehmen Reminiscenzen zu kämpfen. 
           <note type="editorial" xml:id="Bae_TB_7_930">Paul Gautsch wurde am 1.1.1905 zum zweiten Mal zum österreichischen Ministerpräsidenten ernannt.</note> Benimmt sich gut. 
           <app from="#Bae_MF_6-1_1197" type="equal" xml:id="Bae_TB_7_3595">
@@ -2832,12 +2832,12 @@
         <note type="editorial" xml:id="Bae_TB_7_2103">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_7_079" n="39r" xml:id="Bae_TB_7_1049"/>
       </div>
-      <div n="1905-08" xml:id="Bae_TB_7_1050">
+      <div xml:id="Bae_TB_7_1050">
         <head xml:id="Bae_TB_7_1051">
           <anchor xml:id="Bae_TB_7_4423"/>Ungarische Fühlungen 
           <app from="#Bae_MF_6-1_1326" type="notEqual" xml:id="Bae_TB_7_4424">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_4425">Die Beratungen über Zolltarif und Handelsvertrag mit Deutschland</rdg>
-          </app>
+          </app><date when="1905-08" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_7_1052">
           <anchor xml:id="Bae_TB_7_3725"/>Die Krankheit von 
@@ -3062,7 +3062,7 @@
             <expan xml:id="Bae_TB_7_2551">und</expan>
           </choice> es war natürlich, dass je weiter die ungar. Krise fortschritt die Frage aufgeworfen wurde ob nicht von 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_7_1080">Parlament</orgName> zu 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1081">Parlament</orgName> eine Fühlungnahme versucht werden sollte! 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1081">Parlament</orgName> eine Fühlungnahme versucht werden sollte! 
         </p>
         <p xml:id="Bae_TB_7_1082">
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_7_1083">Urban</persName> war mit dem bekannten Finanzier 
@@ -3485,7 +3485,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-10" type="diaryEntry" xml:id="Bae_TB_7_1179">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1179"><head><date when="1905-10" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_7_4908"/>
         <app from="#Bae_TB_7_2126" type="insertion" xml:id="Bae_TB_7_4909">
           <rdg xml:id="Bae_TB_7_4910">…</rdg>
@@ -3503,7 +3503,7 @@
         </p>
         <anchor xml:id="Bae_TB_7_2128"/>
       </div>
-      <div n="1905-09-05" type="diaryEntry" xml:id="Bae_TB_7_1193">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1193"><head><date when="1905-09-05" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_7_1194">
           <anchor xml:id="Bae_TB_7_3851"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1195">Budapest</placeName>
@@ -4343,7 +4343,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-06" type="diaryEntry" xml:id="Bae_TB_7_1366">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1366"><head><date when="1905-09-06" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_7_1367">
           <anchor xml:id="Bae_TB_7_4016"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1368">Budapest</placeName>
@@ -4574,7 +4574,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-07" type="diaryEntry" xml:id="Bae_TB_7_1427">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1427"><head><date when="1905-09-07" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_7_1428">
           <anchor xml:id="Bae_TB_7_4058"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1429">Budapest</placeName>
@@ -4804,7 +4804,7 @@
             <abbr xml:id="Bae_TB_7_2916">u.</abbr>
             <expan xml:id="Bae_TB_7_2917">und</expan>
           </choice> er könne sich nur die Motive nicht erklären. Er fügte bei, das könne aber den Geistlichen theuer zu stehen kommen, denn ein 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1467">Reichstag</orgName> auf Grund des 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1467">Reichstag</orgName> auf Grund des 
           <index xml:id="Bae_TB_7_1468">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_7_1469">
               <choice xml:id="Bae_TB_7_4462">
@@ -5141,7 +5141,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-08" type="diaryEntry" xml:id="Bae_TB_7_1543">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1543"><head><date when="1905-09-08" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_7_1544">
           <anchor xml:id="Bae_TB_7_4175"/>
           <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_TB_7_1545">Agram</placeName>
@@ -5437,7 +5437,7 @@
         <pb facs="#F_K-4_Bae_TB_7_147" n="73v" xml:id="Bae_TB_7_2176"/>
         <note type="editorial" xml:id="Bae_TB_7_2177">Diese Seite ist leer.</note>
       </div>
-      <div n="1905-09-09" type="diaryEntry" xml:id="Bae_TB_7_1589">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1589"><head><date when="1905-09-09" type="diaryEntry"></date></head>
         <pb facs="#F_K-4_Bae_TB_7_148" n="74r" xml:id="Bae_TB_7_1590"/>
         <p xml:id="Bae_TB_7_1591">
           <anchor xml:id="Bae_TB_7_4270"/>
@@ -5705,7 +5705,7 @@
         <note type="editorial" xml:id="Bae_TB_7_2187">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_7_158" n="79r" xml:id="Bae_TB_7_1655"/>
       </div>
-      <div n="1905-09-10" type="diaryEntry" xml:id="Bae_TB_7_1656">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1656"><head><date when="1905-09-10" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_7_1657">
           <anchor xml:id="Bae_TB_7_4300"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_1658">Wien</placeName> am 
@@ -5869,19 +5869,19 @@
             <abbr xml:id="Bae_TB_7_3168">insbes.</abbr>
             <expan xml:id="Bae_TB_7_3169">insbesondere</expan>
           </choice> auf einem 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1701">Reichstage</orgName> in den 30er Jahren verlangt. Damals antwortete 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1701">Reichstage</orgName> in den 30er Jahren verlangt. Damals antwortete 
           <persName key="KaiserFranz" ref="https://d-nb.info/gnd/118534955" xml:id="Bae_TB_7_1702">Kaiser Franz</persName> keineswegs ablehnend, sondern dilatorisch 
           <choice xml:id="Bae_TB_7_3170">
             <abbr xml:id="Bae_TB_7_3171">u.</abbr>
             <expan xml:id="Bae_TB_7_3172">und</expan>
           </choice> als derselbe 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1703">Reichstag</orgName> verlangte, dass alle Erzherzoge 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1703">Reichstag</orgName> verlangte, dass alle Erzherzoge 
           <choice xml:id="Bae_TB_7_3173">
             <abbr xml:id="Bae_TB_7_3174">u.</abbr>
             <expan xml:id="Bae_TB_7_3175">und</expan>
           </choice> Erzherzoginnen, da sie auch Prinzen der ungar. Krone seien ungarisch lernen sollen – war 
           <persName key="KaiserFranz" ref="https://d-nb.info/gnd/118534955" xml:id="Bae_TB_7_1704">Kaiser Franz</persName> so klug zu antworten: damit komme der ungar. 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1705">Reichstag</orgName> zu spät, das habe er kraft seines Rechtes als Haupt der Familie längst angeordnet. 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1705">Reichstag</orgName> zu spät, das habe er kraft seines Rechtes als Haupt der Familie längst angeordnet. 
         </p>
         <p xml:id="Bae_TB_7_1706">So sei es auch jetzt. Die schroffe Ablehnung schaffe einen unmöglichen Zustand. Er, 
           <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_TB_7_1707">Wekerle</persName>, habe dem 
@@ -5991,7 +5991,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-10-10" type="diaryEntry" xml:id="Bae_TB_7_1744">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1744">
         <p xml:id="Bae_TB_7_1745">
           <anchor xml:id="Bae_TB_7_4333"/>
           <del xml:id="Bae_TB_7_4334">
@@ -6000,7 +6000,7 @@
           </del>
           <add xml:id="Bae_TB_7_4335">
             <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_4336">Wien</placeName> im 
-            <date when="1905-10" xml:id="Bae_TB_7_4337">Oktober 1905</date>
+            <date when="1905-10" type="diaryEntry" xml:id="Bae_TB_7_4337">Oktober 1905</date>
           </add>
           <app from="#Bae_MF_6-1_1953" type="equal" xml:id="Bae_TB_7_4338">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_4339">Wien, im Oktober 1905</rdg>
@@ -6137,11 +6137,11 @@
           </app>
         </p>
       </div>
-      <div n="1905-12-02" type="diaryEntry" xml:id="Bae_TB_7_1780">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1780">
         <p xml:id="Bae_TB_7_1781">
           <anchor xml:id="Bae_TB_7_4373"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_1782">Wien</placeName> am 
-          <date when="1905-12-02" xml:id="Bae_TB_7_1783">2. 
+          <date when="1905-12-02" type="diaryEntry" xml:id="Bae_TB_7_1783">2. 
             <choice xml:id="Bae_TB_7_3218">
               <abbr xml:id="Bae_TB_7_3219">Decbr</abbr>
               <expan xml:id="Bae_TB_7_3220">December</expan>
@@ -6325,10 +6325,10 @@
         </p>
         <note type="editorial" xml:id="Bae_TB_7_1829">Der Brief liegt nicht bei</note>
       </div>
-      <div n="1905-11-08" type="diaryEntry" xml:id="Bae_TB_7_1830">
+      <div type="diaryEntry" xml:id="Bae_TB_7_1830">
         <p xml:id="Bae_TB_7_1831">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_1832">Wien</placeName> am 
-          <date when="1905-11-08" xml:id="Bae_TB_7_1833">8. 
+          <date when="1905-11-08" type="diaryEntry" xml:id="Bae_TB_7_1833">8. 
             <choice xml:id="Bae_TB_7_3275">
               <abbr xml:id="Bae_TB_7_3276">Novbr</abbr>
               <expan xml:id="Bae_TB_7_3277">November</expan>
@@ -6396,7 +6396,7 @@
             <abbr xml:id="Bae_TB_7_3294">u.</abbr>
             <expan xml:id="Bae_TB_7_3295">und</expan>
           </choice> die russischen Zustände drängen die Regierung zu einer Reform. Uebrigens hat das 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1857">Parlament</orgName> mit einer Majorität von 40 Stimmen sich ebenfalls für eine Wahlreform erklärt. Würde die Regierung zögern 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1857">Parlament</orgName> mit einer Majorität von 40 Stimmen sich ebenfalls für eine Wahlreform erklärt. Würde die Regierung zögern 
           <choice xml:id="Bae_TB_7_3296">
             <abbr xml:id="Bae_TB_7_3297">u.</abbr>
             <expan xml:id="Bae_TB_7_3298">und</expan>
@@ -6603,9 +6603,9 @@
         </p>
         <p xml:id="Bae_TB_7_1933">In dem Augenblicke, in dem ich die Ehre habe, zum erstenmal in dieser glänzenden Versammlung der vereinigten Parteien zum Zwecke der Vorstellung zu erscheinen, halte ich es für meine Pflicht, jene Grundlage zu kennzeichnen, auf welcher die Regierung sich konstitutiert hat.</p>
         <p xml:id="Bae_TB_7_1934">In der Tätigkeit unserer konstitutionellen Organe ist eine Störung eingetreten. Hauptsächlich bildete die systematische Hinausschiebung der Tätigkeit des 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1935">Parlaments</orgName> nicht nur ein Hindernis für die Tätigkeit desselben, sondern es wurde dadurch die Geltendmachung des Parlaments selbst vereitelt. (Rufe: So ist es! So ist es!) Es wurde dadurch in unseren gesamten öffentlichen Zuständen eine Störung hervorgerufen. Es wurde insbesondere jenes oberste konstitutionelle Element der Repräsentativverfassung vereitelt, daß das 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1936">Parlament</orgName> sein Budgetrecht ausübe. (Rufe: So ist es! So ist es!) Die Administration wurde gestört. Es wurden unsere materiellen und moralischen Interessen empfindlich geschädigt und häufig sogar direkt gefährdet. (Rufe: So ist es!) Es wurde die Rechtsgrundlage unseres öffentlichen Lebens verrückt, und es zeigten sich die Anzeichen der Dissolution. Alles das gipfelt in der Gefahr einer vollständigen und offenen Suspendierung der Verfassung, welche notwenig hätte eintreten müssen, wenn der 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1937">Reichstag</orgName> in der vom Gesetze vorgeschrieben Frist nicht zusammengetreten wäre (Rufe: So ist es!) 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1935">Parlaments</orgName> nicht nur ein Hindernis für die Tätigkeit desselben, sondern es wurde dadurch die Geltendmachung des Parlaments selbst vereitelt. (Rufe: So ist es! So ist es!) Es wurde dadurch in unseren gesamten öffentlichen Zuständen eine Störung hervorgerufen. Es wurde insbesondere jenes oberste konstitutionelle Element der Repräsentativverfassung vereitelt, daß das 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1936">Parlament</orgName> sein Budgetrecht ausübe. (Rufe: So ist es! So ist es!) Die Administration wurde gestört. Es wurden unsere materiellen und moralischen Interessen empfindlich geschädigt und häufig sogar direkt gefährdet. (Rufe: So ist es!) Es wurde die Rechtsgrundlage unseres öffentlichen Lebens verrückt, und es zeigten sich die Anzeichen der Dissolution. Alles das gipfelt in der Gefahr einer vollständigen und offenen Suspendierung der Verfassung, welche notwenig hätte eintreten müssen, wenn der 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1937">Reichstag</orgName> in der vom Gesetze vorgeschrieben Frist nicht zusammengetreten wäre (Rufe: So ist es!) 
         </p>
         <p xml:id="Bae_TB_7_1938">In dem Augenblicke, in welchem uns nur wenige Stunden von dem Eintritt dieser Gefahr trennten, hielten wir es, alles andere bei Seite setzend, für unsere erste Pflicht, die Kontinuität der Verfassung sicher zu stellen. (Lebhafter Beifall und Rufe: So ist es!) Wir betrachten es als eine nicht mehr aufzuschiebende Aufgabe ersten Ranges, auf dem ganzen Gebiete der öffentlichen Verwaltung und in der staatlichen Verwaltung die konstitutionelle Rechtsordnung wieder herzustellen und der Rechtherrschaft Geltung zu verschaffen (stürmische Eljen-Rufe und Applaus), jene Beeinträchtigungen, welche unsere Verfassung erfahren, innerhalb des Rahmens der Gesetze wieder gut zu machen, insbesondere jene rechtswidrige Verletzung persönicher Rechte, von welcher gerade diejenigen betroffen wurden, die für die Verfassung gekämpft haben und in der letzten Zeit dafür leiden mußten, zu beseitigen. (Lebhafte Eljen-Rufe.) In demselben Augenblicke, in welchem, wie ich zu sagen wage, in dem Gehirn eines jeden nicht nur konstitutionell, sondern auch patriotisch fühlenden Menschen der Gedanke an die Wiederherstellung der Ordnung als an eine unaufschiebbare Aufgabe ersten Ranges sich aufdrängte; in dem Augenblicke, in welchem die Parteien, welche verschiedenen Auffassungen huldigen, sich zur Abwendung der Gefahr drängten - in diesem letzen Augenblicke der Gefahr haben wir, in vielen Dingen zu verschiedenen politischen Auffassungen uns bekennende Männer, uns vereinigt, um wenigstens für jene Zeit zusammen zu wirken, welche nicht nur zur vollen Wiederherstellung der verfassungsmäßigen Ordnung, sondern auch zur vollen auf die Zukunft auswirkenden Sicherstellung derselben erforderlich ist. (Stürmische Eljen-Rufe und Applaus.)</p>
         <anchor xml:id="Bae_TB_7_5145"/>
@@ -6635,7 +6635,7 @@
         </p>
         <p xml:id="Bae_TB_7_1952">Zur gesetzlichen Erfüllung unserer staatlichen Ausgaben und zur Bedeckung der gemeinsamen Ausgaben werden wir entsprechend unserer verfassungsmäßigen Rechtsordnung die 
           <hi rendition="#g" xml:id="Bae_TB_7_1953">Annahme des finanziellen Ausgleiches mit den kroatisch-slavonischen Ländern</hi> vorschlagen, und zwar im Sinne der vom früheren 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1954">Reichstage</orgName> entsendeten Regnikolar-Deputationen. (Eljen-Rufe.) 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1954">Reichstage</orgName> entsendeten Regnikolar-Deputationen. (Eljen-Rufe.) 
         </p>
         <p xml:id="Bae_TB_7_1955">Außerdem werden wir für die 
           <hi rendition="#g" xml:id="Bae_TB_7_1956">ziffernmäßige Feststellung der mit 
@@ -6689,7 +6689,7 @@
           </index> durchgeführt werde. (Stürmische Ejen-Rufe und Beifall.) Nach der Durchführung dieser Reform und nach dem Vollzuge der Wahlen schließt die Aufgabe ab, welche wir übernommen haben, und nach der Kundgebung der Willensmeinung der Nation werden wir unsere Demission überreichen. 
         </p>
         <p xml:id="Bae_TB_7_1986">Nachdem ich nicht berufen bin, hier ein Programm zu geben - die Zeit dazu wird gekommen sein, wenn nach dem Zusammentritt des 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1987">Reichstages</orgName> die Regierung dort erscheinen wird - gestatten Sie mir, daß ich mich in weitere Einzelheiten nicht einlasse und nur erwähne, was ohnedies naturgemäß erscheint, daß wir hinsichtlich aller im Staatsleben auftauchenden Notwendigkeiten, welche zur Kontinuität, ich möchte sagen des alltäglichen Lebens, gehören und die nicht ausschließlich die Administration betreffen, sondern der Gesetzgebung zustehen, wir die Unterbreitungen machen werden, natürlich nur solche Vorschläge, die zwischen den verschiedenen politischen Parteien 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1987">Reichstages</orgName> die Regierung dort erscheinen wird - gestatten Sie mir, daß ich mich in weitere Einzelheiten nicht einlasse und nur erwähne, was ohnedies naturgemäß erscheint, daß wir hinsichtlich aller im Staatsleben auftauchenden Notwendigkeiten, welche zur Kontinuität, ich möchte sagen des alltäglichen Lebens, gehören und die nicht ausschließlich die Administration betreffen, sondern der Gesetzgebung zustehen, wir die Unterbreitungen machen werden, natürlich nur solche Vorschläge, die zwischen den verschiedenen politischen Parteien 
           <hi rendition="#g" xml:id="Bae_TB_7_1988">keine Meinungsverschiedenheit</hi> bilden können, sondern, wie gesagt, zur Kontinuität des täglichen Lebens gehören. Trotzdem muß ich, ehe ich meine Rede schließe, zur Kennzeichnung unseres Standpunktes doch noch eines hervorheben (Hört! Hört!), daß wir nämlich bei der Durchführung der unmittelbar bevorstehnden Neuwahlen mit allen uns zu Gebote stehenden Mitteln Wahlmißbräuche verhindern (stürmischer Beifall) und bestrebt sein werden, die Möglichket der freien Kundgebung des nationalen Willens sicherzustellen und sowohl im Umkreise dieser Wahlen wie überhaupt während der ganzen Dauer unserer Tätigkeit mit besonderem Nachdruck darauf achten werden, daß die Reinheit des öffentlichen Lebens gewahrt bleibe (enthusiastischer Beifall, Zustimmung, Eljen-Rufe und Applaus), daß wir die Herrschaft des Rechtes und der Rechtsordnung jedermann gegenüber in gleicher Weise anwenden werden. (Erneuter Beifall.) Das, 
           <anchor xml:id="Bae_TB_7_5149"/>
           <!-- CA: anchor für addspan 99r -->
@@ -6703,7 +6703,7 @@
         </p>
         <p xml:id="Bae_TB_7_1993">Geehrte Herren! In unserer (!) aller Namen spreche ich 
           <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_TB_7_1994">Sr. Exzellenz</persName> den wärmsten Dank dafür aus, daß er so freundlich war, uns eine kurze Programmrede zu bieten. (Eljen-Rufe.) Ich wiederhole: was er sagte, das zu sagen wäre erst nach der Eröffnung des 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1995">Reichstages</orgName> dort seine Pflicht gewesen, und es war nur ein Akt der Zuvorkommenheit, wenn er es in unserer Mitte getan hat. Ich danke ihm dafür. (Eljen-Rufe.) Ich meinerseits gebe unterstrichen die Erklärung ab, daß alle Parteien, die sich verbündet haben, mit vereinten Kräften in 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_7_1995">Reichstages</orgName> dort seine Pflicht gewesen, und es war nur ein Akt der Zuvorkommenheit, wenn er es in unserer Mitte getan hat. Ich danke ihm dafür. (Eljen-Rufe.) Ich meinerseits gebe unterstrichen die Erklärung ab, daß alle Parteien, die sich verbündet haben, mit vereinten Kräften in 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_7_1996">Ungarn</placeName> die Verfassung wieder hezustellen, die Herrschaft des Rechtes, des Gesetzes, der Wohlanständigkeit und der Ehrlichkeit beseitigen wollen (stürmische Eljen-Rufe), daß ferner alle diese Parteien unter der Bedingung und mit dem Entschlusse sich geeinigt haben, daß jede derselben im vollsten Maße an ihrem eigenen Prgamm festhält. (Stürmische Eljen-Rufe und Zustimmung.) Das allein bildet jene moralische Grundlage, auf welcher wir zusammenwirken können. Auf dieser moralischen Grundlage werden wir bis ans Ende verharren. (Stürmische Eljen-Rufe.) Ich danke 
           <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_TB_7_1997">Sr. Erzellenz</persName> nochmals für seine Erklärung. Ich glaube, damit können wir die Konferenz schließen. 
         </p>
@@ -6815,7 +6815,7 @@
           <rdg xml:id="Bae_TB_7_5164">…</rdg>
         </app>
       </div>
-      <div n="1906-01-01" type="diaryEntry" xml:id="Bae_TB_7_2047">
+      <div type="diaryEntry" xml:id="Bae_TB_7_2047">
         <pb facs="#F_K-4_Bae_TB_7_202" n="101r" xml:id="Bae_TB_7_2048"/>
         <p xml:id="Bae_TB_7_2049">
           <hi rendition="#ul" xml:id="Bae_TB_7_2050">Bonmots</hi>
@@ -6835,7 +6835,7 @@
         </p>
         <p xml:id="Bae_TB_7_2057">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_7_2058">Wien</placeName>
-          <date when="1906-06-01" xml:id="Bae_TB_7_2059">1.6.06</date>
+          <date when="1906-06-01" type="diaryEntry" xml:id="Bae_TB_7_2059">1.6.06</date>
           <app from="#Bae_MF_6-1_2039" type="missing" xml:id="Bae_TB_7_4412">
             <rdg wit="#Bae_MF_6-1" xml:id="Bae_TB_7_4413"/>
           </app>

@@ -78,7 +78,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_4_50">
     <body xml:id="Bae_TB_4_51">
-      <div n="1898-10" type="diaryEntry" xml:id="Bae_TB_4_52">
+      <div type="diaryEntry" xml:id="Bae_TB_4_52"><head><date when="1898-10" type="diaryEntry"></date></head>
         <pb facs="#F_K-4_Bae_TB_4_002" n="1r" xml:id="Bae_TB_4_53"/>
         <anchor xml:id="Bae_TB_4_8055"/>
         <p xml:id="Bae_TB_4_54">
@@ -3101,18 +3101,11 @@
           </app>
         </p>
       </div>
-      <div n="1898-12" type="diaryEntry" xml:id="Bae_TB_4_2023">
-        <p xml:id="Bae_TB_4_2024">
-          <anchor xml:id="Bae_TB_4_8323"/>
-          <hi rendition="#ul" xml:id="Bae_TB_4_2025">V. Meine 
-            <index xml:id="Bae_TB_4_2026">
-              <term key="Baernreither" xml:id="Bae_TB_4_2027">Demission</term>
-              <index xml:id="Bae_TB_4_2028">
-                <term key="Demission" xml:id="Bae_TB_4_2029"/>
-              </index>
-            </index>
-          </hi>
-        </p>
+      <div type="diaryEntry" xml:id="Bae_TB_4_2023">
+        <anchor xml:id="Bae_TB_4_8323"/>
+        <head xml:id="Bae_TB_4_2024">
+          <hi rendition="#ul" xml:id="Bae_TB_4_2025">V. Meine Demission</hi><date when="1898-12" type="diaryEntry"></date>
+        </head>
         <p xml:id="Bae_TB_4_2030">Ich bin mit ganz bestimmten politischen Ideen in das Cabinet 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_4_2031">Thun</persName> eingetreten, aber der Verlauf der Dinge zeigte, dass weder bei der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_4_2032">Krone</persName>, noch bei den Parteien, noch bei 
@@ -5236,7 +5229,7 @@
         </p>
       </div>
       <!-- CA: ab hier dann mit MF_3 korrespondierend -->
-      <div n="1899-01" type="diaryEntry" xml:id="Bae_TB_4_3400">
+      <div type="diaryEntry" xml:id="Bae_TB_4_3400"><head><date when="1899-01" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_4_8592"/>
         <app from="#Bae_MF_3_56" type="missing" xml:id="Bae_TB_4_8593">
           <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_8594">Die Herbstsession 1898 und meine Berliner Reise Seite 247–268; Das Pfingstprogramm Seite 286[!]–280, Exkurs S. 281-284; Die Sommermonate 1899 S. 285–299; Thuns Ende und Clarys Anfang S. 300–303; Clary, Wittek, Körber bis zu den Neuwahlen 1901 S. 304–333; Paris und Donaueschingen S. 322</rdg>
@@ -7325,7 +7318,7 @@
           </app>
         </p>
       </div>
-      <div n="1899-02" type="diaryEntry" xml:id="Bae_TB_4_4849">
+      <div type="diaryEntry" xml:id="Bae_TB_4_4849">
         <anchor xml:id="Bae_TB_4_8712"/>
         <p xml:id="Bae_TB_4_4850">
           <hi rendition="#ul" xml:id="Bae_TB_4_4851">"Ueber meine politische Thätigkeit"</hi>
@@ -7921,13 +7914,13 @@
         </p>
         <p xml:id="Bae_TB_4_5288">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_5289">Lünz</placeName> im 
-          <date when="1899-02" xml:id="Bae_TB_4_5290">Februar 99</date>
+          <date when="1899-02" type="diaryEntry" xml:id="Bae_TB_4_5290">Februar 99</date>
           <app from="#Bae_MF_3_3954" type="missing" xml:id="Bae_TB_4_8722">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_8723"/>
           </app>
         </p>
       </div>
-      <div n="1899-04" type="diaryEntry" xml:id="Bae_TB_4_5291">
+      <div type="diaryEntry" xml:id="Bae_TB_4_5291">
         <pb facs="#F_K-4_Bae_TB_4_153" n="72v" xml:id="Bae_TB_4_5292"/>
         <anchor xml:id="Bae_TB_4_8724"/>
         <addSpan spanTo="#Bae_TB_4_5381" type="insertion" xml:id="Bae_TB_4_5293"/>
@@ -9856,17 +9849,17 @@
         <p xml:id="Bae_TB_4_6625">
           <anchor xml:id="Bae_TB_4_8853"/>
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_6626">Lünz</placeName> im 
-          <date when="1899-04" xml:id="Bae_TB_4_6627">April 99</date>. 
+          <date when="1899-04" type="diaryEntry" xml:id="Bae_TB_4_6627">April 99</date>. 
           <app from="#Bae_MF_3_887" type="equal" xml:id="Bae_TB_4_8854">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_8855">Lünz, im April 1899</rdg>
           </app>
         </p>
       </div>
-      <div n="1899-05-27" xml:id="Bae_TB_4_6628">
-        <p xml:id="Bae_TB_4_6629">
-          <anchor xml:id="Bae_TB_4_8856"/>
-          <hi rendition="#ul" xml:id="Bae_TB_4_6630">Die nationalpolitischen Forderungen der Deutschen</hi>
-        </p>
+      <div type="diaryEntry" xml:id="Bae_TB_4_6628">
+        <anchor xml:id="Bae_TB_4_8856"/>
+        <head xml:id="Bae_TB_4_6629">
+          <hi rendition="#ul" xml:id="Bae_TB_4_6630">Die nationalpolitischen Forderungen der Deutschen</hi><date when="1899-05-27" type="diaryEntry"></date>
+        </head>
         <p xml:id="Bae_TB_4_6631">
           <hi rendition="#ul" xml:id="Bae_TB_4_6632">
             <index xml:id="Bae_TB_4_6633">
@@ -11713,7 +11706,7 @@
         <anchor xml:id="Bae_TB_4_7895"/>
         <!-- CA: anchor für addspan 100v -->
       </div>
-      <div n="1899-05-30" type="diaryEntry" xml:id="Bae_TB_4_7896">
+      <div type="diaryEntry" xml:id="Bae_TB_4_7896">
         <pb facs="#F_K-4_Bae_TB_4_210" n="101r" xml:id="Bae_TB_4_7897"/>
         <p xml:id="Bae_TB_4_7898">
           <anchor xml:id="Bae_TB_4_9030"/>
@@ -11946,7 +11939,7 @@
         <p xml:id="Bae_TB_4_8051">x x x</p>
         <p xml:id="Bae_TB_4_8052">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_4_8053">Lünz</placeName>
-          <date when="1899-05-30" xml:id="Bae_TB_4_8054">30.5.99</date>. 
+          <date when="1899-05-30" type="diaryEntry" xml:id="Bae_TB_4_8054">30.5.99</date>. 
           <app from="#Bae_MF_3_1313" type="equal" xml:id="Bae_TB_4_9061">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_9062">revolutionären, republikanischen Einheitsbestrebungen – die grosse Synthese der Bismarckischen Politik! Das heutige Verhältnis Oesterreichs zu Italien ist ein gegebenes, weil es zur Ruhe gekommen ist und selbst wenn wir einmal das ehemalig Departement Alto Adige an Italien abgeben sollten, so wird das keine große Veränderung unserer Machtstellung bedeuten. Unser Verhältnis zu Deutschland ist für Sein oder Nichtsein der Monarchie im höchsten Grade aktuell. Seit ich in den "Gedanken und Erinnerungen" die Aeusserung Napoleons gelesen habe, es sei zweifelhaft "ob Oesterreich imstande sein werde, mit dem zur Zeit mächtigen Winde der Nationalität zu segeln" - geht mir diese Phrase nicht aus dem Kopf. In dem Kapitel "Dreibund" stellt sich Bismarck die Möglichkeit einer Erneuerung der Kaunitz’schen Politik vor Augen unter den deutlichen Einflüssen, welche die innere Entwicklung Oesterreichs auf sein Urteil seit Abschluß des Bündnisses ausgeübt hat. Er will den Fall nicht aus den Augen lassen, daß Deutschland "von der Wiener Politik freiwillig oder unfreiwillig verlassen werde" und fügt hinzu: "die Möglichkeiten, die uns in solchen Fällen offen bleiben, muß die Leitung der deutschen Politik, wenn sie ihre Pflicht tun will, sich klar machen und gegenwärtig halten, bevor sie eintreten und sie dürfen nicht von Vorliebe oder Verstimmung abhängen", sondern nur von objektiver Erwägung der nationalen Interessen". Bismarck rechnete zugunsten der Aufrechterhaltung des Bündnisses mit der "persönlichen Ehrlichkeit und Treue des Kaisers Franz Joseph", umso skeptischer ist er bezüglich der Dinge, die nach ihm kommen können. Desswegen verlangt er, daß "die Brücke, die Deutschland eine Annäherung an Russland gestattet, nicht abgebrochen werde". Aber hier kommt wohl noch eine andere Erwägung in Betracht. "Es ist heutzutage für eine grosse Regierung kaum möglich, die Kraft ihres Landes für ein anderes befreundetes voll einzusetzen, wenn die Ueberzeugung des Volkes es mißbilligt." Mehr als das. Es ist heute nicht mehr möglich einen Krieg, der gegen die Gesinnung des Volkes ist, zu führen. Betrachtet man die Aktionsfähigkeit Oesterreichs von diesem Standpunkte, darf man sich gewisse Ding nicht verhehlen. Was zunächst einen Krieg Oesterreichs mit Russland anbelangt, so werden die Čechen schwierig sein; auch die südslavische Intelligenz sowie die ruthenischen Popen in einige Aufregung geraten. Solange aber das Offizierskorps der Regimenter hält, werden die Slaven, die Polen sogar mit einem Rest von Begeisterung, so lange ihre Pflicht tun, als es gut geht. Bezüglich der Deutschen steht die Sache doch etwas anders. Auch da kommt es auf die Offiziere an, aber man hat in der letzten Zeit gegen deutsche Reserveoffiziere eine unkluge Härte gezeigt und dann sind die deutschen Massen im Ganzen doch viel aufgeklärter als die slavischen. Zu einem Krieg gehört aber heute – und das ist die Hauptsache und schwächt auch die Aussicht, die Slaven gegen Russland zu gebrauchen – eine derartige intensive Anstrengung aller Volkskräfte, nicht nur jener die im Felde stehen, daß es von der Volksstimmung abhängt, "ob die Masse den auf regelmäßigem Wege von oben ergehenden Anforderungen noch Folge leistet". Es ist ein eigenes Ding um die Fahnentreue. Sie wird voraussichtlich auch in deutschen Regimentern halten, aber was sonst den modernen Krieg ausmacht, die tausendfältige Kette von Veranstaltungen, Aufbietungen der letzten Kraft, Opfer und Standhaftigkeit - wäre in einem Kriege Oesterreichs mit Deutschland in der Luft. Lünz, 30.V.1899.</rdg>
           </app>

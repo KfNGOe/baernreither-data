@@ -77,7 +77,7 @@
   </teiHeader>
   <text xml:id="Bae_MF_4_52">
     <body xml:id="Bae_MF_4_53">
-      <div xml:id="Bae_MF_4_54">
+      <div type="chapter" xml:id="Bae_MF_4_54"><head><title type="short">Inhaltsverzeichnis</title></head>
         <pb facs="#F_K-11_Bae_MF_4_005" n="333r" xml:id="Bae_MF_4_55"/>
         <p xml:id="Bae_MF_4_56">
           <anchor xml:id="Bae_MF_4_1149"/>
@@ -121,15 +121,14 @@
         <pb facs="#F_K-11_Bae_MF_4_006" n="333v" xml:id="Bae_MF_4_84"/>
         <note type="editorial" xml:id="Bae_MF_4_85">Diese Seite ist leer.</note>
       </div>
-      <div n="1900-10-22" type="diaryEntry" xml:id="Bae_MF_4_86">
-        <p xml:id="Bae_MF_4_87">
+      <div type="chapter" xml:id="Bae_MF_4_86">
+        
           <pb facs="#F_K-11_Bae_MF_4_007" n="334r" xml:id="Bae_MF_4_88"/>
           <anchor xml:id="Bae_MF_4_89"/>
-          <hi rendition="#ul" xml:id="Bae_MF_4_90">Meine Rede, gehalten in 
+          <head><hi rendition="#ul" xml:id="Bae_MF_4_90"><title type="main">Meine Rede, gehalten in 
             <placeName key="Pilsen" ref="https://www.geonames.org/11921103/plzen.html" xml:id="Bae_MF_4_91">Pilsen</placeName> in der Wählerversammlung vom 
             <date when="1900-10-22" xml:id="Bae_MF_4_92">22. Oktober 1900</date>
-          </hi>. 
-        </p>
+          </hi>.</title></title><title type="short">Rede Oktober 1900</title></head> 
         <p xml:id="Bae_MF_4_93">Wenn ich in großen Zügen Rechenschaft ablegen soll über die politische Haltung des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_MF_4_94">verfassungsgetreuen Großgrundbesitzes</orgName> in den letzten bewegten Jahren, so kann ich mich zunächst auf dasjenige beziehen, was wir Ihnen, meine Herren, im Verlaufe der Parlamentssession schon mehrmals hier in 
           <placeName key="Pilsen" ref="https://www.geonames.org/11921103/plzen.html" xml:id="Bae_MF_4_95">Pilsen</placeName> darzulegen die Ehre hatten. Vor allem möchte ich hervorheben, daß die Stellung von Abgeordneten privilegierter Wahlkörper seit dem Eintritte von Vertretern des allgemeinen Stimmrechtes eine keineswegs leichte geworden ist. In manchen Fällen sind wir genötigt, uns eine gewisse Zurückhaltung aufzuerlegen, erachten es aber gerade anderseits als unsere Pflicht, uns ohne Scheu auszusprechen, wenn uns ein vorurteilsloses Wort am Platze zu sein scheint, das sonst ungesagt bleiben würde. 
@@ -412,19 +411,18 @@
         <pb facs="#F_K-11_Bae_MF_4_038" n="349v" xml:id="Bae_MF_4_309"/>
         <note type="editorial" xml:id="Bae_MF_4_310">Diese Seite ist leer.</note>
       </div>
-      <div n="1901-01-03" type="diaryEntry" xml:id="Bae_MF_4_311">
+      <div type="chapter" xml:id="Bae_MF_4_311">
         <pb facs="#F_K-11_Bae_MF_4_039" n="350r" xml:id="Bae_MF_4_312"/>
-        <p xml:id="Bae_MF_4_313">
-          <anchor xml:id="Bae_MF_4_314"/>Meine Rede gehalten in 
+        <anchor xml:id="Bae_MF_4_314"/>
+        <head xml:id="Bae_MF_4_313"><title type="main">Meine Rede gehalten in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_4_315">Prag</placeName> bei der allgemeinen Wählerversammlung am 
           <hi rendition="#ul" xml:id="Bae_MF_4_316">
             <date when="1901-01-03" xml:id="Bae_MF_4_317">3. Jänner 1901</date>
           </hi> im 
-          <orgName key="PalaisRohan" xml:id="Bae_MF_4_318">Palais Rohan</orgName>
+          <orgName key="PalaisRohan" xml:id="Bae_MF_4_318">Palais Rohan</orgName></title></title><title type="short">Rede Jänner 1901</title></head>
           <app from="#Bae_TB_5_6423" type="equal" xml:id="Bae_MF_4_319">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_4_320">Meine Rede gehalten in Prag bei der allgemeinen Wählerversammlung am 3. Jänner 1901 im Palais Rohan</rdg>
           </app>
-        </p>
         <p xml:id="Bae_MF_4_321">
           <anchor xml:id="Bae_MF_4_322"/>
           <app from="#Bae_TB_5_6441" type="missing" xml:id="Bae_MF_4_323">
@@ -714,12 +712,12 @@
         <pb facs="#F_K-11_Bae_MF_4_058" n="359v" xml:id="Bae_MF_4_531"/>
         <note type="editorial" xml:id="Bae_MF_4_532">Diese Seite ist leer.</note>
       </div>
-      <div n="1901-11-24" type="diaryEntry" xml:id="Bae_MF_4_533">
+      <div type="chapter" xml:id="Bae_MF_4_533">
         <pb facs="#F_K-11_Bae_MF_4_059" n="360r" xml:id="Bae_MF_4_534"/>
-        <p xml:id="Bae_MF_4_535">
-          <anchor xml:id="Bae_MF_4_536"/>
-          <hi rendition="#ul" xml:id="Bae_MF_4_537">Panem et circenses</hi>
-        </p>
+        <anchor xml:id="Bae_MF_4_536"/>
+        <head xml:id="Bae_MF_4_535">
+          <hi rendition="#ul" xml:id="Bae_MF_4_537"><title type="main">Panem et circenses</title></title><title type="short">Panem et circenses</title></hi>
+        </head>
         <p xml:id="Bae_MF_4_538">Wer diese beiden Reden liest, wird vielleicht den Eindruck gewinnen, daß sie eine richtige politische Diagnose stellen. Sie wurden mir trotzdem sehr verübelt. 
           <persName key="ThunOswald" ref="https://d-nb.info/gnd/108021190X" xml:id="Bae_MF_4_539">Thun</persName> drückte mir in 
           <placeName key="Sehuschitz" ref="https://www.geonames.org/3061614/zehusice.html" xml:id="Bae_MF_4_540">Sehuschitz</placeName>, wo ich ihn nach den Wahlen besuchte, sein Mißfallen aus, 
@@ -974,11 +972,11 @@
           </app>
         </p>
       </div>
-      <div n="1903-04-15" type="diaryEntry" xml:id="Bae_MF_4_741">
-        <p xml:id="Bae_MF_4_742">
-          <anchor xml:id="Bae_MF_4_743"/>
-          <hi rendition="ul" xml:id="Bae_MF_4_744">For Sale</hi>
-        </p>
+      <div type="chapter" xml:id="Bae_MF_4_741">
+        <anchor xml:id="Bae_MF_4_743"/>
+        <head xml:id="Bae_MF_4_742">
+          <hi rendition="ul" xml:id="Bae_MF_4_744"><title type="main">For Sale</title></title><title type="short">For sale</title></hi>
+        </head>
         <p xml:id="Bae_MF_4_745">Fast 1 1/2 Jahre sind verstrichen, seit ich die vorstehenden Zeilen niederschrieb, denn ich empfand wenig Anreiz irgend Etwas zu fixieren. Soll ich die Grundstimmung, the groundw 
           <del rendition="#s" xml:id="Bae_MF_4_746">a</del>
           <add place="across" xml:id="Bae_MF_4_747">e</add>ll, von der Politik und 
@@ -1412,13 +1410,13 @@
         </p>
       </div>
       <!-- CA: hier geht es mit TB_6 weiter -->
-      <div xml:id="Bae_MF_4_1094">
+      <div type="chapter" xml:id="Bae_MF_4_1094">
         <pb facs="#F_K-11_Bae_MF_4_086" n="373v" xml:id="Bae_MF_4_1095"/>
         <note type="editorial" xml:id="Bae_MF_4_1096">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_4_087" n="373ar" xml:id="Bae_MF_4_1097"/>
-        <p xml:id="Bae_MF_4_1098">
-          <anchor xml:id="Bae_MF_4_1099"/>BERLIN - LONDON - BRÜSSEL - PARIS 
-        </p>
+        <anchor xml:id="Bae_MF_4_1099"/>
+        <head xml:id="Bae_MF_4_1098"><title type="main">BERLIN - LONDON - BRÜSSEL - PARIS</title></title><title type="short">Reisen</title>
+        </head>
         <p xml:id="Bae_MF_4_1100">1903 
           <app from="#" type="equal" xml:id="Bae_MF_4_1101">
             <rdg wit="Bae_TB_6" xml:id="Bae_MF_4_1102">Berlin – London – Brüssel – Paris. 1903</rdg>

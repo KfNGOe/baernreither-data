@@ -78,11 +78,11 @@
   </teiHeader>
   <text xml:id="Bae_TB_9_52">
     <body xml:id="Bae_TB_9_53">
-      <div n="1908-11-12" type="diaryEntry" xml:id="Bae_TB_9_54">
+      <div type="diaryEntry" xml:id="Bae_TB_9_54">
         <pb facs="#F_K-4_Bae_TB_9_002" n="1r" xml:id="Bae_TB_9_55"/>
         <p xml:id="Bae_TB_9_56">
           <placeName key="Wien" xml:id="Bae_TB_9_57">Wien</placeName> am 
-          <date when="1908-11-12" xml:id="Bae_TB_9_58">12.11.08</date>
+          <date when="1908-11-12" type="diaryEntry" xml:id="Bae_TB_9_58">12.11.08</date>
         </p>
         <p xml:id="Bae_TB_9_59">Ich will wieder einmal ein Bild festhalten das sich heute bietet. Es ist die Cabinetsbildung 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_60">Bienerth</persName>. In ihr spiegelt sich der 
@@ -218,10 +218,10 @@
         </p>
         <p xml:id="Bae_TB_9_150">Nach derselben Methode Cabinetsbildung.</p>
       </div>
-      <div n="1908-11-16" type="diaryEntry" xml:id="Bae_TB_9_151">
+      <div type="diaryEntry" xml:id="Bae_TB_9_151">
         <p xml:id="Bae_TB_9_152">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_153">Wien</placeName> am 
-          <date when="1908-11-16" xml:id="Bae_TB_9_154">16.11.1908</date>
+          <date when="1908-11-16" type="diaryEntry" xml:id="Bae_TB_9_154">16.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_155">Wie 
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_156">Schreiner</persName> Minister wurde. Schon seit Wochen läuft er überall herum 
@@ -448,10 +448,10 @@
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_329">Schreiner's</persName> erregt bei allen die es kennen die grösste Entrüstung. 
         </p>
       </div>
-      <div n="1908-11-17" type="diaryEntry" xml:id="Bae_TB_9_330">
+      <div type="diaryEntry" xml:id="Bae_TB_9_330">
         <p xml:id="Bae_TB_9_331">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_332">Wien</placeName>
-          <date when="1908-11-17" xml:id="Bae_TB_9_333">17.11.1908</date>
+          <date when="1908-11-17" type="diaryEntry" xml:id="Bae_TB_9_333">17.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_334">
           <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_9_335">Rössler</persName> bei mir gewesen. In den Ministerien dieselbe Streberei. 
@@ -623,13 +623,13 @@
         <anchor xml:id="Bae_TB_9_452"/>
         <!-- CA: anchor für den addspan -->
       </div>
-      <div n="1908-11-18" type="diaryEntry" xml:id="Bae_TB_9_453">
+      <div type="diaryEntry" xml:id="Bae_TB_9_453">
         <pb facs="#F_K-4_Bae_TB_9_015" n="7v" xml:id="Bae_TB_9_454"/>
         <note type="editorial" xml:id="Bae_TB_9_455">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_016" n="8r" xml:id="Bae_TB_9_456"/>
         <p xml:id="Bae_TB_9_457">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_458">Wien</placeName>
-          <date when="1908-11-18" xml:id="Bae_TB_9_459">18.11.1908</date>
+          <date when="1908-11-18" type="diaryEntry" xml:id="Bae_TB_9_459">18.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_460">
           <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X" xml:id="Bae_TB_9_461">Nostitz</persName> hat gestern Abend von 
@@ -779,10 +779,10 @@
           <persName key="OxenstiernaAxel" ref="no_ref" xml:id="Bae_TB_9_560">Oxenstierna</persName>! 
         </p>
       </div>
-      <div n="1908-11-22" type="diaryEntry" xml:id="Bae_TB_9_561">
+      <div type="diaryEntry" xml:id="Bae_TB_9_561">
         <p xml:id="Bae_TB_9_562">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_563">Wien</placeName>
-          <date when="1908-11-22" xml:id="Bae_TB_9_564">22.11.1908</date>
+          <date when="1908-11-22" type="diaryEntry" xml:id="Bae_TB_9_564">22.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_565">Von 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_566">Prag</placeName> zurück, wo ich mit 
@@ -845,10 +845,10 @@
           <orgName key="Union" ref="no_ref" xml:id="Bae_TB_9_606">Union</orgName> viel Interessantes. Hat in manchem ganz recht. 
         </p>
       </div>
-      <div n="1908-11-24" type="diaryEntry" xml:id="Bae_TB_9_607">
+      <div type="diaryEntry" xml:id="Bae_TB_9_607">
         <p xml:id="Bae_TB_9_608">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_609">Wien</placeName>
-          <date when="1908-11-24" xml:id="Bae_TB_9_610">24.11.1908</date>
+          <date when="1908-11-24" type="diaryEntry" xml:id="Bae_TB_9_610">24.11.1908</date>
         </p>
         <p xml:id="Bae_TB_9_611">Abend waren 
           <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_TB_9_612">Dzieduszycki</persName>
@@ -989,12 +989,12 @@
           </del>
         </p>
       </div>
-      <div n="1909-12-12" type="diaryEntry" xml:id="Bae_TB_9_712">
+      <div type="diaryEntry" xml:id="Bae_TB_9_712">
         <p xml:id="Bae_TB_9_713">Er ging ungehemmt [?] auf "anschmieren"[?] aus. Von 
           <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_TB_9_714">Taaffe</persName> sagte er mir einmal: „Bevor er in der früh seinen Bart gefärbt hat, hat er schon ein paar angeschmiert[?]." 
         </p>
         <p xml:id="Bae_TB_9_715">- 
-          <date when="1909-12-12" xml:id="Bae_TB_9_716">12.12.09</date>
+          <date when="1909-12-12" type="diaryEntry" xml:id="Bae_TB_9_716">12.12.09</date>
         </p>
       </div>
       <div n="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_717">
@@ -1012,13 +1012,11 @@
             <abbr xml:id="Bae_TB_9_727">Jahrh.</abbr>
             <expan xml:id="Bae_TB_9_728">Jahrhundert</expan>
           </choice> nur einmal geboren." 
-          <date when="1909-12-14" xml:id="Bae_TB_9_729">14.12.09</date>
+          <date when="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_729">14.12.09</date>
         </p>
       </div>
-      <div n="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_730">
-        <p xml:id="Bae_TB_9_731">In der gestrigen Sitzung unseres 
-          <!-- identity unknown -->
-          <orgName key="KomiteeUnknown" ref="no_ref" xml:id="Bae_TB_9_732">Komitees</orgName>
+      <div type="diaryEntry" xml:id="Bae_TB_9_730"><head><date when="1909-12-23" type="diaryEntry"></date></head>
+        <p xml:id="Bae_TB_9_731">In der gestrigen Sitzung unseres Komitees
           <!-- CA: nicht auszeichnen --> kam eine juridische Spitzfindigkeit zur Sprache. "Ich bin nicht genug Jurist um das zu verstehen" sagte 
           <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_9_733">Unger</persName> mit lebhafter Schlagfertigkeit. 
           <date when="1909-12-23" xml:id="Bae_TB_9_734">23.12.09</date>
@@ -1036,10 +1034,10 @@
           <persName key="EhrhardAlbert" ref="no_ref" xml:id="Bae_TB_9_743">Erhard</persName>, wird als "Modernist" verschrien. Es wurde ein guter [steno...] Deutscher aus F[...] ernannt! 
         </p>
       </div>
-      <div n="1910-02-10" type="diaryEntry" xml:id="Bae_TB_9_744">
+      <div type="diaryEntry" xml:id="Bae_TB_9_744">
         <p xml:id="Bae_TB_9_745">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_746">Wien</placeName>
-          <date when="1910-02-10" xml:id="Bae_TB_9_747">10.2.10</date>
+          <date when="1910-02-10" type="diaryEntry" xml:id="Bae_TB_9_747">10.2.10</date>
         </p>
         <p xml:id="Bae_TB_9_748">Mit 
           <!-- identity unknown -->
@@ -1208,10 +1206,10 @@
         <note type="editorial" xml:id="Bae_TB_9_848">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K-4_Bae_TB_9_030" n="14r" xml:id="Bae_TB_9_849"/>
       </div>
-      <div n="1909-11-20" type="diaryEntry" xml:id="Bae_TB_9_850">
+      <div type="diaryEntry" xml:id="Bae_TB_9_850">
         <p xml:id="Bae_TB_9_851">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_852">Wien</placeName>
-          <date when="1909-11-20" xml:id="Bae_TB_9_853">20.11.09</date>
+          <date when="1909-11-20" type="diaryEntry" xml:id="Bae_TB_9_853">20.11.09</date>
         </p>
         <p xml:id="Bae_TB_9_854">Gestern Abend bei Hr. 
           <!-- identity unknown -->
@@ -1401,13 +1399,12 @@
             <expan xml:id="Bae_TB_9_989">Österreich</expan>
           </choice> nicht mehr zurückerobern. Die deutschen Waaren kommen auf der Donau mit der 
           <!-- identity unknown -->
-          <orgName key="SueddeutscheDampfschifffahrtsgesellschaft" ref="no_ref" xml:id="Bae_TB_9_990">
+          <orgName key="SueddeutscheDonauSchifffahrt" ref="no_ref" xml:id="Bae_TB_9_990">
             <choice xml:id="Bae_TB_9_991">
               <abbr xml:id="Bae_TB_9_992">Südd.</abbr>
               <expan xml:id="Bae_TB_9_993">Süddeutschen</expan>
             </choice> Dampfgesellschaft 
-          </orgName>
-          <!-- CA: SueddeutscheDonauSchifffahrt --> und der 
+          </orgName> und der 
           <!-- identity unknown -->
           <orgName key="OesterreichischeDonaudampfschifffahrtsgesellschaft" ref="no_ref" xml:id="Bae_TB_9_994">Ö.D.D.G.</orgName> auch mit der Eisenbahn. 
           <choice xml:id="Bae_TB_9_995">
@@ -1978,7 +1975,7 @@
           </choice> in der österreichischen doch nur herumtappt. 
         </p>
       </div>
-      <div n="1909-11-29" type="diaryEntry" xml:id="Bae_TB_9_1416">
+      <div type="diaryEntry" xml:id="Bae_TB_9_1416"><head><date when="1909-11-29" type="diaryEntry"></date></head>
         <pb facs="#F_K-4_Bae_TB_9_051" n="24v" xml:id="Bae_TB_9_1417"/>
         <note type="editorial" xml:id="Bae_TB_9_1418">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_052" n="25r" xml:id="Bae_TB_9_1419"/>
@@ -2280,11 +2277,11 @@
           <hi rendition="#ul" xml:id="Bae_TB_9_1622">aufrichtig</hi>. 
         </p>
       </div>
-      <div n="1909-12-03" type="diaryEntry" xml:id="Bae_TB_9_1623">
+      <div type="diaryEntry" xml:id="Bae_TB_9_1623">
         <p xml:id="Bae_TB_9_1624">Mit 
           <!-- identity unknown -->
           <persName key="BurianIstvanStephan" ref="no_ref" xml:id="Bae_TB_9_1625">Burián</persName> am 
-          <date when="1909-12-03" xml:id="Bae_TB_9_1626">3.12.09</date>
+          <date when="1909-12-03" type="diaryEntry" xml:id="Bae_TB_9_1626">3.12.09</date>
         </p>
         <p xml:id="Bae_TB_9_1627">Er ist der Meinung, dass auf die Serben absolut kein Verlass, dass nicht daran zu denken mit ihnen eine aufrichtige Entente herzustellen, dass sie immer unsere Feinde bleiben werden 
           <choice xml:id="Bae_TB_9_1628">
@@ -2327,10 +2324,10 @@
         <note type="editorial" xml:id="Bae_TB_9_1649">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_058" n="28r" xml:id="Bae_TB_9_1650"/>
       </div>
-      <div n="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_1651">
+      <div type="diaryEntry" xml:id="Bae_TB_9_1651">
         <p xml:id="Bae_TB_9_1652">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1653">Wien</placeName>
-          <date when="1909-12-14" xml:id="Bae_TB_9_1654">14.12.09</date>. Unter dem Eindruck des 
+          <date when="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_1654">14.12.09</date>. Unter dem Eindruck des 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="no_ref" xml:id="Bae_TB_9_1655">Friedjung</persName>processes. Sowol 
           <!-- identity unknown -->
@@ -2411,10 +2408,10 @@
           </choice> das Spitzelwesen der Carte segrete. 
         </p>
       </div>
-      <div n="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_1709">
+      <div type="diaryEntry" xml:id="Bae_TB_9_1709">
         <p xml:id="Bae_TB_9_1710">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1711">Wien</placeName>
-          <date when="1909-12-23" xml:id="Bae_TB_9_1712">23.12.09</date>. Der Process 
+          <date when="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_1712">23.12.09</date>. Der Process 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="no_ref" xml:id="Bae_TB_9_1713">Friedjung</persName> ist ein politisches Ereignis gewesen, der glücklicherweise zum Vorteil abschloss. 
           <!-- identity ambiguous -->
@@ -2582,10 +2579,7 @@
             <expan xml:id="Bae_TB_9_1828">das heißt</expan>
           </choice> von der alten Diplomatenschule. 
           <!-- identity unknown -->
-          <persName key="SteedHenryWickham" ref="no_ref" xml:id="Bae_TB_9_1829">Steed</persName>, der 
-          <!-- identity unknown -->
-          <!-- CA: TheTimes -->
-          <orgName key="Times" ref="no_ref" xml:id="Bae_TB_9_1830">Times</orgName>correspondent sagte mir: 
+          <persName key="SteedHenryWickham" ref="no_ref" xml:id="Bae_TB_9_1829">Steed</persName>, der <orgName key="TheTimes" ref="no_ref" xml:id="Bae_TB_9_1830">Times</orgName>correspondent sagte mir: 
           <!-- identity ambiguous -->
           <persName key="AehrenthalFelix" ref="no_ref" xml:id="Bae_TB_9_1831">
             <choice xml:id="Bae_TB_9_1832">
@@ -2630,13 +2624,13 @@
         <note type="editorial" xml:id="Bae_TB_9_1857">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_066" n="32r" xml:id="Bae_TB_9_1858"/>
       </div>
-      <div n="1910-01-03" type="diaryEntry" xml:id="Bae_TB_9_1859">
+      <div type="diaryEntry" xml:id="Bae_TB_9_1859">
         <p xml:id="Bae_TB_9_1860">
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_1861">Berlin</placeName> mit 
           <!-- identity unknown -->
           <persName key="HentigOtto" ref="no_ref" xml:id="Bae_TB_9_1862">Haentig</persName>
           <!-- CA: HentigOtto -->
-          <date when="1910-03-01" xml:id="Bae_TB_9_1863">3.1.10</date>
+          <date when="1910-03-01" type="diaryEntry" xml:id="Bae_TB_9_1863">3.1.10</date>
         </p>
         <p xml:id="Bae_TB_9_1864">Vor 5 Monaten Immediatcommission eine Gelegenheit zum Studium einer Reform wie ich sie mir denke. 
           <!-- identity unknown -->
@@ -2758,13 +2752,13 @@
           </choice> neidische Gesellschaft ist das? 
         </p>
       </div>
-      <div n="1910-02-02" type="diaryEntry" xml:id="Bae_TB_9_1949">
+      <div type="diaryEntry" xml:id="Bae_TB_9_1949">
         <pb facs="#F_K-4_Bae_TB_9_071" n="34v" xml:id="Bae_TB_9_1950"/>
         <note type="editorial" xml:id="Bae_TB_9_1951">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_072" n="35r" xml:id="Bae_TB_9_1952"/>
         <p xml:id="Bae_TB_9_1953">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_1954">Prag</placeName>
-          <date when="1910-02-02" xml:id="Bae_TB_9_1955">2.2.10</date>
+          <date when="1910-02-02" type="diaryEntry" xml:id="Bae_TB_9_1955">2.2.10</date>
         </p>
         <p xml:id="Bae_TB_9_1956">War 
           <add place="across" xml:id="Bae_TB_9_1957">vor</add>gestern in 
@@ -2777,9 +2771,7 @@
         <p xml:id="Bae_TB_9_1962">Sektionschef 
           <!-- identity unknown -->
           <persName key="NicolicWladimir" ref="no_ref" xml:id="Bae_TB_9_1963">Nicolić</persName> aus 
-          <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_TB_9_1964">Agram</placeName>: 
-          <!-- identity unknown -->
-          <orgName key="CoalitionUnknown" ref="no_ref" xml:id="Bae_TB_9_1965">die Coalition</orgName>
+          <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_TB_9_1964">Agram</placeName>: die Coalition
           <!-- CA: Coalition nicht auszeichnen --> ist geneigt sich mit 
           <!-- identity unknown -->
           <persName key="KhuenHedervarKaroly" ref="no_ref" xml:id="Bae_TB_9_1966">Khuen</persName> auseinanderzusetzen, nur 
@@ -2996,10 +2988,10 @@
           </choice>-türkischen Allianz zerstört habe. 
         </p>
       </div>
-      <div n="1910-02-03" type="diaryEntry" xml:id="Bae_TB_9_2108">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2108">
         <p xml:id="Bae_TB_9_2109">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_2110">Prag</placeName>
-          <date when="1910-02-03" xml:id="Bae_TB_9_2111">3.2.10</date>
+          <date when="1910-02-03" type="diaryEntry" xml:id="Bae_TB_9_2111">3.2.10</date>
         </p>
         <p xml:id="Bae_TB_9_2112">Mit 
           <persName key="HelmerGilbert" ref="https://d-nb.info/gnd/118548921" xml:id="Bae_TB_9_2113">Helmer</persName>. Erzählt, dass in 
@@ -3069,10 +3061,10 @@
         <note type="editorial" xml:id="Bae_TB_9_2157">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_080" n="39r" xml:id="Bae_TB_9_2158"/>
       </div>
-      <div n="1910-02-05" type="diaryEntry" xml:id="Bae_TB_9_2159">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2159">
         <p xml:id="Bae_TB_9_2160">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_2161">Prag</placeName>
-          <date when="1910-02-05" xml:id="Bae_TB_9_2162">5.2.10</date>
+          <date when="1910-02-05" type="diaryEntry" xml:id="Bae_TB_9_2162">5.2.10</date>
         </p>
         <p xml:id="Bae_TB_9_2163">Mit 
           <!-- identity unknown -->
@@ -3098,7 +3090,7 @@
           <!-- identity unknown -->
           <orgName key="PragerAbendblatt" ref="no_ref" xml:id="Bae_TB_9_2178">Prager Abendblatt</orgName>, 
           <!-- identity unknown -->
-          <orgName key="PrazskyNovinky" ref="no_ref" xml:id="Bae_TB_9_2179">Pražský novinky</orgName>) ihr Papier von der 
+          <orgName key="PrazskeNoviny" ref="no_ref" xml:id="Bae_TB_9_2179">Pražský novinky</orgName>) ihr Papier von der 
           <!-- identity unknown -->
           <orgName key="Elbemuehle" ref="no_ref" xml:id="Bae_TB_9_2180">Elbemühle</orgName> ( 
           <placeName key="Arnau" ref="no_ref" xml:id="Bae_TB_9_2181">Arnau</placeName>), dieselbe Gesellschaft wie das 
@@ -3140,7 +3132,7 @@
         <note type="editorial" xml:id="Bae_TB_9_2207">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_082" n="40r" xml:id="Bae_TB_9_2208"/>
       </div>
-      <div n="1910-02-21" type="diaryEntry" xml:id="Bae_TB_9_2209">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2209">
         <p xml:id="Bae_TB_9_2210">Ende der Tragicomödie 
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_2211">Schreiner</persName>. Soeben erzählt er mir: 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_2212">Bienerth</persName> hat ihn heute 
@@ -3222,10 +3214,10 @@
         </p>
         <p xml:id="Bae_TB_9_2269">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2270">Wien</placeName> am 
-          <date when="1910-02-24" xml:id="Bae_TB_9_2271">21. Februar 1910</date>
+          <date when="1910-02-24" type="diaryEntry" xml:id="Bae_TB_9_2271">21. Februar 1910</date>
         </p>
       </div>
-      <div n="1910-02-24" type="diaryEntry" xml:id="Bae_TB_9_2272">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2272">
         <p xml:id="Bae_TB_9_2273">
           <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_9_2274">Lueger</persName> stirbt. Als grosser Volksmann. Vor der Ecke des Platzes 
           <choice xml:id="Bae_TB_9_2275">
@@ -3268,10 +3260,10 @@
         </p>
         <p xml:id="Bae_TB_9_2304">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2305">Wien</placeName> am 
-          <date when="1910-02-24" xml:id="Bae_TB_9_2306">24.2.10</date>
+          <date when="1910-02-24" type="diaryEntry" xml:id="Bae_TB_9_2306">24.2.10</date>
         </p>
       </div>
-      <div n="1910-03-05" type="diaryEntry" xml:id="Bae_TB_9_2307">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2307">
         <p xml:id="Bae_TB_9_2308">Als ich jüngst in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_2309">Prag</placeName> war bei den Conferenzen die bei 
           <persName key="BuquoyFerdinand" ref="https://d-nb.info/gnd/1056847239" xml:id="Bae_TB_9_2310">Buquoy</persName> über die böhmischen Verhältnisse stattfanden zeigte mir 
@@ -3301,10 +3293,10 @@
         </p>
         <p xml:id="Bae_TB_9_2328">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2329">Wien</placeName>
-          <date when="1910-03-05" xml:id="Bae_TB_9_2330">5.3.10</date>
+          <date when="1910-03-05" type="diaryEntry" xml:id="Bae_TB_9_2330">5.3.10</date>
         </p>
       </div>
-      <div n="1910-03-01" type="diaryEntry" xml:id="Bae_TB_9_2331">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2331">
         <p xml:id="Bae_TB_9_2332">Mit 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_9_2333">
             <choice xml:id="Bae_TB_9_2334">
@@ -3312,7 +3304,7 @@
               <expan xml:id="Bae_TB_9_2336">Fürstenberg</expan>
             </choice>
           </persName>
-          <date when="1910-03-01" xml:id="Bae_TB_9_2337">1.3.10</date>. 
+          <date when="1910-03-01" type="diaryEntry" xml:id="Bae_TB_9_2337">1.3.10</date>. 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2338">Wien</placeName>. 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_9_2339">
             <choice xml:id="Bae_TB_9_2340">
@@ -3482,13 +3474,13 @@
           </persName> in den Zielen den richtigen in den Mitteln den falschen Weg gehe. 
         </p>
       </div>
-      <div n="1910-03-03" type="diaryEntry" xml:id="Bae_TB_9_2451">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2451">
         <pb facs="#F_K-4_Bae_TB_9_109" n="53v" xml:id="Bae_TB_9_2452"/>
         <note type="editorial" xml:id="Bae_TB_9_2453">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_110" n="54r" xml:id="Bae_TB_9_2454"/>
         <p xml:id="Bae_TB_9_2455">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2456">Wien</placeName>
-          <date when="1910-03-03" xml:id="Bae_TB_9_2457">3.3.10</date>. Audienz. 
+          <date when="1910-03-03" type="diaryEntry" xml:id="Bae_TB_9_2457">3.3.10</date>. Audienz. 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_2458">Kaiser</persName> sehr frisch 
           <choice xml:id="Bae_TB_9_2459">
             <abbr xml:id="Bae_TB_9_2460">u.</abbr>
@@ -3517,11 +3509,11 @@
           </choice> sagte zu viel Beamte. "Es wird viel zu viel geschrieben" – aber es ist schon schwer auf einmal zu machen. 
         </p>
       </div>
-      <div n="1910-03-23" type="diaryEntry" xml:id="Bae_TB_9_2478">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2478">
         <p xml:id="Bae_TB_9_2479">
           <!-- identity unknown -->
           <placeName key="Lovrana" ref="no_ref" xml:id="Bae_TB_9_2480">Lovrana</placeName>
-          <date when="1910-03-23" xml:id="Bae_TB_9_2481">23.3.10</date>
+          <date when="1910-03-23" type="diaryEntry" xml:id="Bae_TB_9_2481">23.3.10</date>
         </p>
         <p xml:id="Bae_TB_9_2482">Die beiden Communiqués über die 
           <choice xml:id="Bae_TB_9_2483">
@@ -3568,10 +3560,10 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2512">Wien</placeName> darüber hören wird – mein Eindruck ist kein günstiger – immer wieder das alte Fingerziehen! 
         </p>
       </div>
-      <div n="1910-03-25" type="diaryEntry" xml:id="Bae_TB_9_2513">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2513">
         <p xml:id="Bae_TB_9_2514">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2515">Wien</placeName>
-          <date when="1910-03-25" xml:id="Bae_TB_9_2516">25.3.10</date>. 
+          <date when="1910-03-25" type="diaryEntry" xml:id="Bae_TB_9_2516">25.3.10</date>. 
         </p>
         <p xml:id="Bae_TB_9_2517">Mit 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_9_2518">
@@ -3652,10 +3644,10 @@
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_2576">Schreiner</persName> entlassen wurde, was da gespielt hat, würden sie sich doch vielleicht aufraffen. Aber vielleicht auch nicht. Denn sie sind – die Führer – alle hypnotisirt davon Minister zu werden. 
         </p>
       </div>
-      <div n="1910-03-25" type="diaryEntry" xml:id="Bae_TB_9_2577">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2577">
         <p xml:id="Bae_TB_9_2578">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2579">Wien</placeName>
-          <date when="1910-03-25" xml:id="Bae_TB_9_2580">25.3.10</date>
+          <date when="1910-03-25" type="diaryEntry" xml:id="Bae_TB_9_2580">25.3.10</date>
         </p>
         <p xml:id="Bae_TB_9_2581">Man wird alle äussren Daten der 
           <choice xml:id="Bae_TB_9_2582">
@@ -3709,10 +3701,10 @@
         </p>
         <p xml:id="Bae_TB_9_2612">4.) Direkte Verhandlungen, die mit den beiderseitigen Communiqués endigen. Dieselben habe ich oben besprochen.</p>
       </div>
-      <div n="1910-03-31" type="diaryEntry" xml:id="Bae_TB_9_2613">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2613">
         <p xml:id="Bae_TB_9_2614">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2615">Wien</placeName>
-          <date when="1910-03-31" xml:id="Bae_TB_9_2616">31.3.10</date>
+          <date when="1910-03-31" type="diaryEntry" xml:id="Bae_TB_9_2616">31.3.10</date>
         </p>
         <p xml:id="Bae_TB_9_2617">Utopie, dass unsere Bureaucratie, die hohe ein Schutz des 
           <choice xml:id="Bae_TB_9_2618">
@@ -3781,10 +3773,10 @@
           </add>
         </p>
       </div>
-      <div n="1910-04-02" type="diaryEntry" xml:id="Bae_TB_9_2665">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2665">
         <p xml:id="Bae_TB_9_2666">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2667">Wien</placeName>
-          <date when="1910-04-02" xml:id="Bae_TB_9_2668">2.4.10</date>
+          <date when="1910-04-02" type="diaryEntry" xml:id="Bae_TB_9_2668">2.4.10</date>
         </p>
         <p xml:id="Bae_TB_9_2669">Mit 
           <!-- identity unknown -->
@@ -3849,10 +3841,10 @@
           </choice> er hat nichts gezahlt. 
         </p>
       </div>
-      <div n="1910-04-06" type="diaryEntry" xml:id="Bae_TB_9_2707">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2707">
         <p xml:id="Bae_TB_9_2708">
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_9_2709">Carlsbad</placeName>
-          <date when="1910-04-06" xml:id="Bae_TB_9_2710">6.4.10</date>
+          <date when="1910-04-06" type="diaryEntry" xml:id="Bae_TB_9_2710">6.4.10</date>
         </p>
         <p xml:id="Bae_TB_9_2711">Mit 
           <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765" xml:id="Bae_TB_9_2712">Chiari</persName>. Erzält dass ihn der 
@@ -3894,42 +3886,36 @@
           <hi rendition="#ul" xml:id="Bae_TB_9_2738">aktive</hi> Politik ist. 
         </p>
       </div>
-      <div n="1910-04-09" type="diaryEntry" xml:id="Bae_TB_9_2739">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2739">
         <p xml:id="Bae_TB_9_2740">
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_9_2741">Carlsbad</placeName>
-          <date when="1910-04-09" xml:id="Bae_TB_9_2742">9.4.10</date>
+          <date when="1910-04-09" type="diaryEntry" xml:id="Bae_TB_9_2742">9.4.10</date>
         </p>
         <p xml:id="Bae_TB_9_2743">Mit 
           <persName key="ExnerWilhelmFranz" ref="https://d-nb.info/gnd/101300891" xml:id="Bae_TB_9_2744">Exner</persName>. Erzählt von Nordbahngeschichten. Regierung unter 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_2745">Beck</persName> unwahre Anwürfe gegen 
           <!-- identity unknown -->
-          <orgName key="Nordbahn" ref="no_ref" xml:id="Bae_TB_9_2746">Nordbahn</orgName>. 
-          <!-- identity unknown -->
-          <orgName key="VerwaltungNordbahn" ref="no_ref" xml:id="Bae_TB_9_2747">Verwaltung</orgName>
+          <orgName key="Nordbahn" ref="no_ref" xml:id="Bae_TB_9_2746">Nordbahn</orgName>. Verwaltung
           <!-- CA: nicht auszeichnen --> verlangt, dass 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_9_2748">Derschatta</persName> richtig stellt. 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_2749">Beck</persName> einverstanden dass 
-          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_9_2750">Derschatta</persName> an 
-          <!-- identity unknown -->
-          <orgName key="VerwaltungNordbahn" ref="no_ref" xml:id="Bae_TB_9_2751">Verwaltung</orgName> Brief schreibt 
+          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_9_2750">Derschatta</persName> an Verwaltung Brief schreibt 
           <choice xml:id="Bae_TB_9_2752">
             <abbr xml:id="Bae_TB_9_2753">u.</abbr>
             <expan xml:id="Bae_TB_9_2754">und</expan>
           </choice> revocirt – 
           <pb facs="#F_K-4_Bae_TB_9_123" n="59v" xml:id="Bae_TB_9_2755"/>
           <note type="editorial" xml:id="Bae_TB_9_2756">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
-          <pb facs="#F_K-4_Bae_TB_9_124" n="60r" xml:id="Bae_TB_9_2757"/> aber unter der Bedingung, dass die 
-          <!-- identity unknown -->
-          <orgName key="VerwaltungNordbahn" ref="no_ref" xml:id="Bae_TB_9_2758">Verwaltung</orgName> den Grafen 
+          <pb facs="#F_K-4_Bae_TB_9_124" n="60r" xml:id="Bae_TB_9_2757"/> aber unter der Bedingung, dass die Verwaltung den Grafen 
           <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_TB_9_2759">Bylant</persName> zum Verwaltungsrat macht. Abgemacht! 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_9_2760">Derschatta</persName> schreibt den Brief, 
           <persName key="BylandtRheidtArthur" ref="https://d-nb.info/gnd/1049718305" xml:id="Bae_TB_9_2761">Bylant</persName> wird Verwaltungsrat. 
         </p>
       </div>
-      <div n="1910-04-10" type="diaryEntry" xml:id="Bae_TB_9_2762">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2762">
         <p xml:id="Bae_TB_9_2763">
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_9_2764">Carlsbad</placeName>
-          <date when="1910-04-10" xml:id="Bae_TB_9_2765">10.4.10</date>
+          <date when="1910-04-10" type="diaryEntry" xml:id="Bae_TB_9_2765">10.4.10</date>
         </p>
         <p xml:id="Bae_TB_9_2766">
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_2767">Bienerths</persName> Verhalten in der 
@@ -4047,7 +4033,7 @@
         </p>
         <p xml:id="Bae_TB_9_2852">
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_2853">Beck</persName> hat das 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_9_2854">Parlament</orgName> des 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_9_2854">Parlament</orgName> des 
           <choice xml:id="Bae_TB_9_2855">
             <abbr xml:id="Bae_TB_9_2856">allgem.</abbr>
             <expan xml:id="Bae_TB_9_2857">allgemeinen</expan>
@@ -4158,17 +4144,17 @@
           <hi rendition="#ul" xml:id="Bae_TB_9_2940">Revolution</hi>? Das läugnen sie, denn Insurrection nach alten Meistern ist im Zeitalter der Mannlicher nicht mehr wünschenswert. 
         </p>
         <p xml:id="Bae_TB_9_2941">Sie sind vernünftig soweit sie das 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_9_2942">Parlament</orgName> nicht zerschlagen das sie gemacht – sondern im entscheidenden Moment vor dem Untergang und dem § 14 retten – aber das ist auch alles, das um und auf ihrer Weisheit. Positives leisten sie nichts, nicht einmal auf ihrem ureigensten Felde der Socialpolitik, Arbeiterversicherung, wo sie laviren 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_9_2942">Parlament</orgName> nicht zerschlagen das sie gemacht – sondern im entscheidenden Moment vor dem Untergang und dem § 14 retten – aber das ist auch alles, das um und auf ihrer Weisheit. Positives leisten sie nichts, nicht einmal auf ihrem ureigensten Felde der Socialpolitik, Arbeiterversicherung, wo sie laviren 
           <choice xml:id="Bae_TB_9_2943">
             <abbr xml:id="Bae_TB_9_2944">u.</abbr>
             <expan xml:id="Bae_TB_9_2945">und</expan>
           </choice> mit den anderen den Entwurf zu Tode licitiren. 
         </p>
       </div>
-      <div n="1910-04-13" type="diaryEntry" xml:id="Bae_TB_9_2946">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2946">
         <p xml:id="Bae_TB_9_2947">
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_9_2948">Carlsbad</placeName>
-          <date when="1910-04-13" xml:id="Bae_TB_9_2949">13.4.10</date>
+          <date when="1910-04-13" type="diaryEntry" xml:id="Bae_TB_9_2949">13.4.10</date>
         </p>
         <p xml:id="Bae_TB_9_2950">Beispiel wie die 
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_9_2951">
@@ -4227,9 +4213,9 @@
           </orgName> dieses Dementi ab. Bei ihr lautet es wie folgt: 
         </p>
       </div>
-      <div n="1910-04-30" type="diaryEntry" xml:id="Bae_TB_9_2991">
+      <div type="diaryEntry" xml:id="Bae_TB_9_2991">
         <p xml:id="Bae_TB_9_2992">
-          <date when="1910-04-30" xml:id="Bae_TB_9_2993">30.4.10</date>
+          <date when="1910-04-30" type="diaryEntry" xml:id="Bae_TB_9_2993">30.4.10</date>
         </p>
         <p xml:id="Bae_TB_9_2994">Mit 
           <!-- identity unknown -->
@@ -4269,10 +4255,10 @@
           </add>
         </p>
       </div>
-      <div n="1910-10" type="diaryEntry" xml:id="Bae_TB_9_3014">
+      <div type="diaryEntry" xml:id="Bae_TB_9_3014">
         <p xml:id="Bae_TB_9_3015">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3016">Prag</placeName>
-          <date when="1910-10" xml:id="Bae_TB_9_3017">
+          <date when="1910-10" type="diaryEntry" xml:id="Bae_TB_9_3017">
             <choice xml:id="Bae_TB_9_3018">
               <abbr xml:id="Bae_TB_9_3019">Octbr.</abbr>
               <expan xml:id="Bae_TB_9_3020">Oktober</expan>
@@ -4336,9 +4322,9 @@
           </choice> hat die Wahlreform ermöglicht. 
         </p>
       </div>
-      <div n="1910-10-08" type="diaryEntry" xml:id="Bae_TB_9_3068">
+      <div type="diaryEntry" xml:id="Bae_TB_9_3068">
         <p xml:id="Bae_TB_9_3069">
-          <date when="1910-10-08" xml:id="Bae_TB_9_3070">8. 
+          <date when="1910-10-08" type="diaryEntry" xml:id="Bae_TB_9_3070">8. 
             <choice xml:id="Bae_TB_9_3071">
               <abbr xml:id="Bae_TB_9_3072">Oct.</abbr>
               <expan xml:id="Bae_TB_9_3073">Oktober</expan>
@@ -4358,10 +4344,10 @@
           <placeName key="Graz" ref="https://www.geonames.org/2778058/graz-stadt.html" xml:id="Bae_TB_9_3081">Graz</placeName>. Pflichttuende Beamten in der Provinz! Wenig wirkliche Intelligenz. Kleinlichkeit. Ungeheure Vielschreiberei. Keine Verantwortung. 
         </p>
       </div>
-      <div n="1910-11" type="diaryEntry" xml:id="Bae_TB_9_3082">
+      <div type="diaryEntry" xml:id="Bae_TB_9_3082">
         <p xml:id="Bae_TB_9_3083">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3084">Prag</placeName>
-          <date when="1910-11" xml:id="Bae_TB_9_3085">
+          <date when="1910-11" type="diaryEntry" xml:id="Bae_TB_9_3085">
             <choice xml:id="Bae_TB_9_3086">
               <abbr xml:id="Bae_TB_9_3087">Novbr.</abbr>
               <expan xml:id="Bae_TB_9_3088">November</expan>
@@ -4541,12 +4527,8 @@
           <!-- identity unknown -->
           <orgName key="Volksrat" ref="no_ref" xml:id="Bae_TB_9_3225">Volksrat</orgName>, 
           <!-- identity unknown -->
-          <orgName key="Zweiteilungsausschuss" ref="no_ref" xml:id="Bae_TB_9_3226">Zweiteilungsausschuss</orgName>, 
-          <!-- identity unknown -->
-          <orgName key="Staedtekanzlei" ref="no_ref" xml:id="Bae_TB_9_3227">Städtekanzlei</orgName>
-          <!-- CA: Staedtekanzlei muss nicht ausgezeichnet werden, da keine konkrete Organisation gemeint ist -->, 
-          <!-- identity unknown -->
-          <orgName key="Bezirkscentrale" ref="no_ref" xml:id="Bae_TB_9_3228">Bezirkscentrale</orgName>
+          <orgName key="VolksratZweiteilungsausschuss" ref="no_ref" xml:id="Bae_TB_9_3226">Zweiteilungsausschuss</orgName>, Städtekanzlei
+          <!-- CA: Staedtekanzlei muss nicht ausgezeichnet werden, da keine konkrete Organisation gemeint ist -->, Bezirkscentrale
           <!-- CA: Bezirkscentrale muss nicht ausgezeichnet werden, da keine konkrete Organisation gemeint ist -->
           <choice xml:id="Bae_TB_9_3229">
             <abbr xml:id="Bae_TB_9_3230">u.s.w.</abbr>
@@ -4658,7 +4640,7 @@
             <expan xml:id="Bae_TB_9_3308">und</expan>
           </choice>
           <persName key="EppingerKarl" ref="https://d-nb.info/gnd/135910390" xml:id="Bae_TB_9_3309">Eppinger</persName> die Einladenden sein. Vom ersten Tage an waren aber wieder wir 
-          <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3310">Grossgrundbesitzer</orgName> die Führenden. Unwillkürlich hatten die Zeitungen, 
+          <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3310">Grossgrundbesitzer</orgName> die Führenden. Unwillkürlich hatten die Zeitungen, 
           <choice xml:id="Bae_TB_9_3311">
             <abbr xml:id="Bae_TB_9_3312">insbes.</abbr>
             <expan xml:id="Bae_TB_9_3313">insbesondere</expan>
@@ -4687,7 +4669,7 @@
             <abbr xml:id="Bae_TB_9_3331">u.</abbr>
             <expan xml:id="Bae_TB_9_3332">und</expan>
           </choice> die Verhandlungen in Gang kamen. Ueber den Gang dieser Verhandlungen gibt das hier eingefügte 'Compte rendu', das ich verfasste (zu dessen von mir beabsichtigter Veröffentlichung sich jedoch die 
-          <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3333">Grossgrundbesitzer</orgName> aus Scheu 
+          <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3333">Grossgrundbesitzer</orgName> aus Scheu 
           <choice xml:id="Bae_TB_9_3334">
             <abbr xml:id="Bae_TB_9_3335">u.</abbr>
             <expan xml:id="Bae_TB_9_3336">und</expan>
@@ -4698,7 +4680,8 @@
           </choice> wie fleissig wir durch mehr als 6 Wochen an der ganzen Materie gearbeitet haben. 
         </p>
         <pb facs="#F_K-4_Bae_TB_9_149" n="70v" xml:id="Bae_TB_9_3340"/>
-        <div xml:id="Bae_TB_9_3341">
+      </div>
+        <div type="diaryEntry" xml:id="Bae_TB_9_3341">
           <p xml:id="Bae_TB_9_3342">
             <add place="left" xml:id="Bae_TB_9_3343">Diese folgende Zusammenstellung der Resultate der Verhandlungen, welche vom 
               <date when="1910-09-20" xml:id="Bae_TB_9_3344">20. 
@@ -4707,9 +4690,9 @@
                   <expan xml:id="Bae_TB_9_3347">September</expan>
                 </choice>Septembe 
               </date>r bis 
-              <date when="1910-11-15" xml:id="Bae_TB_9_3348">Mitte November 1910</date> in 
+              <date when="1910-11-15" type="diaryEntry" xml:id="Bae_TB_9_3348">Mitte November 1910</date> in 
               <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3349">Prag</placeName> stattfanden, machte ich in der Absicht sie zu veröffentlichen, um der Welt zu zeigen was geleistet wurde, was wie mir schien ein Ansporn zum Weitermachen zu sein. Ich dachte mir die Sache als Enuntiation beider 
-              <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3350">Grossgrundbesitzer</orgName>. Man war dagegen aus Gründen die teils stichhaltig waren, teils der Scheu vor der Öffentlichkeit, teils wol dem Missbehagen entsprangen dass ich schon wieder mit einer Arbeit vor die Öffentlichkeit treten würde, da ja sofort für jedermann erkennbar war, wer das Schriftstück verfasst hat, 
+              <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3350">Grossgrundbesitzer</orgName>. Man war dagegen aus Gründen die teils stichhaltig waren, teils der Scheu vor der Öffentlichkeit, teils wol dem Missbehagen entsprangen dass ich schon wieder mit einer Arbeit vor die Öffentlichkeit treten würde, da ja sofort für jedermann erkennbar war, wer das Schriftstück verfasst hat, 
               <choice xml:id="Bae_TB_9_3351">
                 <abbr xml:id="Bae_TB_9_3352">d.h.</abbr>
                 <expan xml:id="Bae_TB_9_3353">das heißt</expan>
@@ -4727,7 +4710,7 @@
             </add>
           </p>
         </div>
-        <div xml:id="Bae_TB_9_3362">
+        <div type="diaryEntry" xml:id="Bae_TB_9_3362"><head><date when="1910-11" type="diaryEntry"></date></head>
           <p xml:id="Bae_TB_9_3363">
             <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_9_3364"/>Trotz der Unterbrechung der Verhandlungen herrscht in allen politischen Lagern der Wunsch, das durch die fast achtwöchentlichen Arbeiten der beiden Landtagskommissionen Gewonnene für die Zukunft zu erhalten und an dem Werke der Ordnung in 
             <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_9_3365">Böhmen</placeName> weiter zu arbeiten. Es ist daher von Wert, festzustellen, wie weit die Arbeit fortgeschritten ist, worüber eine Einigung erzielt wurde, was im Stadium der Beratung stehengeblieben ist und welche Vorschläge und Anträge vorliegen, an denen bei Fortsetzung der Beratungen angeknüpft werden muß. 
@@ -4772,14 +4755,14 @@
             <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3392">Großgrundbesitzes</orgName> gaben ebenfalls die Erklärung ab, daß sie dem allgemeinen Wahlrecht nicht zustimmen werden. Schließlich würde ein dreigliedriges Subkomitee eingesetzt, daß sich nicht geeinigt hat und nicht mehr dazu kam, zu referieren, da sein Bericht für den Schluß der Beratung des Unterausschusses über die Landesordnung vertagt wurde und es bisher zu diesem Schluß nicht gekommen ist. 
           </p>
           <p xml:id="Bae_TB_9_3393">Die oben zitierten, vom Unterausschuß angenommenen Paragraphe enthalten folgende für die zukünftige Gestalt des 
-            <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_3394">Landtages</orgName> und Landesausschusses wichtige Bestimmungen: 
+            <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_3394">Landtages</orgName> und <orgName key="Landesausschuss">Landesausschusses</orgName> wichtige Bestimmungen: 
           </p>
           <p xml:id="Bae_TB_9_3395">I. Der Oberstlandmarschall soll zwei Stellvertreter erhalten (§ 4).</p>
           <pb facs="#F_K-4_Bae_TB_9_155" n="73v" xml:id="Bae_TB_9_3396"/>
           <p xml:id="Bae_TB_9_3397">2. Die Landtagsabgeordneten bilden zum Zweck der Vornahme aller Wahlen die Wahlkörper des großen Grundbesitzes, der Abgeordneten böhmischer und der Abgeordneten deutscher Nationalität (Wahlkurien, § 10 a).</p>
-          <p xml:id="Bae_TB_9_3398">3. Der Landesausschuß besteht aus 14 Mitgliedern, und zwar werden sieben aus den böhmischen, vier aus dem deutschen Wahlkörper und drei vom 
+          <p xml:id="Bae_TB_9_3398">3. Der <orgName key="Landesausschuss">Landesausschuß</orgName> besteht aus 14 Mitgliedern, und zwar werden sieben aus den böhmischen, vier aus dem deutschen Wahlkörper und drei vom 
             <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3399">Großgrundbesitz</orgName> gewählt. Hiebei wurde von den Vertretern des 
-            <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3400">konservativen Großgrundbesitzes</orgName> formell und bindend erklärt, daß, solange nicht durch eine gesetzliche Bestimmung dem 
+            <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3400">konservativen Großgrundbesitzes</orgName> formell und bindend erklärt, daß, solange nicht durch eine gesetzliche Bestimmung dem 
             <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3401">verfassungstreuen Großgrundbesitz</orgName> eines von diesen drei Mandaten zufällt, ihnen dasselbe jedenfalls durch die Wahl eingeräumt werden wird. (§§ 11, 12.) 
           </p>
           <p xml:id="Bae_TB_9_3402">4. Alle Wahlen in die Kommissionen werden nach einem 13-Schlüssel vollzogen, so daß auf den 
@@ -4788,18 +4771,18 @@
           </p>
           <p xml:id="Bae_TB_9_3405">5. Bei Wahlen der Vertreter in Landesanstalten entsendet jeder Wahlkörper die gleiche Anzahl; bleibt bei dieser Aufteilung der Mandate noch eines übrig, so fällt es dem böhmischen Abgeordneten, bleibt noch ein zweites übrig, so fällt es dem deutschen Abgeordneten zu. In Verbindung mit dieser Bestimmung wurde eine Resolution des Inhaltes angenommen, welche bezweckt, daß die Zahl der ständigen Direktoren bei der Landesbank und der Hypothekenbank von sechs auf sieben erhöht werde.</p>
           <p xml:id="Bae_TB_9_3406">Die folgenden Bestimmungen wurden zwar nicht – wie bereits bemerkt — von dem Unterausschuß selbst, wohl aber von einem designierten größeren Komitee, in dem alle Parteien vertreten waren, beraten und bindend beschlossen.</p>
-          <p xml:id="Bae_TB_9_3407">6. § 32a über die Referatseinteilung im Landesausschuß. Die Referate über das Schulwesen, über die nur einer Nationalität gewidmeten Landesanstalten, über Angelegenheiten der Gemeinden und Bezirke sowie über Rekurse gegen Erledigungen dieser antonomen Behörden, über Rekurse gegen Armensachen, Feuerpolizeisachen, landwirtschaftliche Bezirksvorschußkassen, Steuerfonds, Vorschußkassen und über Sanitätssachen sind an die Landesausschußbeisitzer nach ihrer Nationalität zuzuteilen. Maßgebend für die Zuweisung der Referate ist die Geschäftssprache des betreffenden Selbstverwaltungskörpers; in zweisprachigen Angelegenheiten hat immer ein Landesausschußbeisitzer der andern Nationalität als Koreferent einzutreten. Angelegenheiten der Gesetzgebung, Berichte an den 
+          <p xml:id="Bae_TB_9_3407">6. § 32a über die Referatseinteilung im <orgName key="Landesausschuss">Landesausschuß</orgName>. Die Referate über das Schulwesen, über die nur einer Nationalität gewidmeten Landesanstalten, über Angelegenheiten der Gemeinden und Bezirke sowie über Rekurse gegen Erledigungen dieser antonomen Behörden, über Rekurse gegen Armensachen, Feuerpolizeisachen, landwirtschaftliche Bezirksvorschußkassen, Steuerfonds, Vorschußkassen und über Sanitätssachen sind an die Landesausschußbeisitzer nach ihrer Nationalität zuzuteilen. Maßgebend für die Zuweisung der Referate ist die Geschäftssprache des betreffenden Selbstverwaltungskörpers; in zweisprachigen Angelegenheiten hat immer ein Landesausschußbeisitzer der andern Nationalität als Koreferent einzutreten. Angelegenheiten der Gesetzgebung, Berichte an den 
             <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_3408">Landtag</orgName> sowie allgemeine und normative Angelegenheiten sowie Sachen der königlichen Hauptstadt 
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3409">Prag</placeName> bilden Gegenstände einheitlicher Referate. 
           </p>
-          <p xml:id="Bae_TB_9_3410">7. § 32a, letzter Absatz, bestimmt, daß bei der Anstellung von Lehrern, Beamten und Dienern, bei Anstalten, die ausschließlich einer Nationalität gewidmet sind, der Landesausschuß an den Ternavorschlag der böhmischen oder deutschen Ausschußbeisitzer gebunden ist. Die weitere Bestimmung, daß der Landesausschuß verpflichtet sein wird, bei der Besetzung aller Beamten- und Dienerstellen auf beide Nationalitäten nach dem Bevölkerungsschlüssel Rücksicht zu nehmen, wurde prinzipiell genehmigt, dabei jedoch zugegeben, daß jene Angestellten, die wegen der finanziellen Lage des Landes nur provisorisch angestellt worden sind, ihrer Anwartschaften nicht verlustig gehen sollen. Doch steht die definitive Stilisierung dieser Bestimmung noch aus.</p>
+          <p xml:id="Bae_TB_9_3410">7. § 32a, letzter Absatz, bestimmt, daß bei der Anstellung von Lehrern, Beamten und Dienern, bei Anstalten, die ausschließlich einer Nationalität gewidmet sind, der <orgName key="Landesausschuss">Landesausschuß</orgName> an den Ternavorschlag der böhmischen oder deutschen Ausschußbeisitzer gebunden ist. Die weitere Bestimmung, daß der <orgName key="Landesausschuss">Landesausschuß</orgName> verpflichtet sein wird, bei der Besetzung aller Beamten- und Dienerstellen auf beide Nationalitäten nach dem Bevölkerungsschlüssel Rücksicht zu nehmen, wurde prinzipiell genehmigt, dabei jedoch zugegeben, daß jene Angestellten, die wegen der finanziellen Lage des Landes nur provisorisch angestellt worden sind, ihrer Anwartschaften nicht verlustig gehen sollen. Doch steht die definitive Stilisierung dieser Bestimmung noch aus.</p>
           <p xml:id="Bae_TB_9_3411">8. Aenderungen der Landesordnung, der Gesetze über den Landesschulrat und Landeskulturrat sowie alle Beschlüsse, die sich auf die Auflassung oder den nationalen Charakter von Landesanstalten beziehen, die ausschließlich 
             <pb facs="#F_K-4_Bae_TB_9_157" n="74v" xml:id="Bae_TB_9_3412"/>einer Nationalität gewidmet sind, werden durch den § 38 unter einen erhöhten Schutz gestellt, indem 180 Abgeordnete für eine solche Aenderung stimmen müssen. Der bisherige Schutz der Geschäftsordnung bleibt aufrecht. Diese Bestimmung soll jedoch nur eine provisorische sein und die böhmischen Abgeordneten haben eingewilligt, zu erklären, daß bei der definitiven Formulierung der Landesordnung, die erst möglich sein wird, wenn die Wahlordnung erledigt ist, an Stelle dieses ziffernmäßigen Vetos das Kuriatsvotum bezüglich dieser sowie bezüglich aller jener Gesetze festzusetzen sein wird, welche die grundlegenden Bestimmungen über die neue nationale und staatsrechtliche Ordnung in 
             <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_9_3413">Böhmen</placeName> enthalten werden. Der 
             <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3414">Großgrundbesitz</orgName> hat sich hieser Erklärung ausdrücklich angeschlossen und seiner Meinung dahin Ausdruck gegeben, daß das Kuriatsvotum bei der definitiven Verabschiedung der Landesordnung aufzunehmen und auch die Gemeinde-, Bezirks- und Kreisvertretungsgesetze unter seinen Schutz zu stellen seien. 
           </p>
-          <p xml:id="Bae_TB_9_3415">9. Über den vielumstrittenen § 42, welcher dem Wunsche der deutschen Abgeordneten entgegenkommt, innerhalb des Landesausschusses für die Beratung jener Angelegenheiten, die bloß eine Nationalität betreffen, besondere Beratungskörper zu schaffen, ist schließlich auch eine Einigung zustande gekommen. Es ist selbstverständlich, daß eine Reihe von Angelegenheiten, welche das ganze Land betreffen, sich auf die Gesetzgebung des 
-            <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_3416">Landtages</orgName> beziehen, welche normativer Natur sind, und alle Sachen, die wegen ihrer Zweisprachigkeit von einem Referenten und Koreferenten behandelt werden, dem Plenum des Landesausschusses vorbehalten sind, analog wie dies bei großen Gerichtshöfen für die Plenarstücke der Fall ist. Im übrigen ist jedoch bestimmt, daß "Geschäfte wegen ihrer regelmäßigen Wiederkehr und sachlichen Gleichartigkeit, und Angelegenheiten, die mit Rücksicht auf § 32 a wegen ihres bloß die Interessen eines Volksstammes berührenden Charakters" nicht in der Vollversammlung des Landesausschusses, sondern in engeren Kollegien zu erledigen sind, bei deren Zusammensetzung "auf den Inhalt der ständigen Referate der Beisitzer sowie auf deren Nationalität Rücksicht zu nehmen ist". Da auf diese Weise die engeren Kollegien selbständig entscheiden, so war es anderseits erforderlich, Garantien zu schaffen für die Einheitlichkeit der Rechtssprechung in Verwaltungsjustizsachen, sowie für die Einhaltung der für die Geschäftsführung des Landesausschusses gültigen Verwaltungsnormen. Es sind in dieser Hinsicht Bestimmungen getroffen worden, welche, ohne die engeren Kollegien im einzelnen Falle zu beeinflußen, den bezeichneten Zweck erreichen. Ein weitergehender Gedanke, auch Vorsorge zu treffen, wenn Beschlüsse der engeren Kollegien eine offenbare Rechtsverletzung enthalten, oder wenn sie von besonderer wirtschaftlicher oder sozialer Tragweite sind, soll in einer Resolution Ausdruck finden, die auf eine mögliche Lösung hinweist. Der Wortlaut dieser Resolution ist noch nicht angenommen worden. 
+          <p xml:id="Bae_TB_9_3415">9. Über den vielumstrittenen § 42, welcher dem Wunsche der deutschen Abgeordneten entgegenkommt, innerhalb des <orgName key="Landesausschuss">Landesausschusses</orgName> für die Beratung jener Angelegenheiten, die bloß eine Nationalität betreffen, besondere Beratungskörper zu schaffen, ist schließlich auch eine Einigung zustande gekommen. Es ist selbstverständlich, daß eine Reihe von Angelegenheiten, welche das ganze Land betreffen, sich auf die Gesetzgebung des 
+            <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_3416">Landtages</orgName> beziehen, welche normativer Natur sind, und alle Sachen, die wegen ihrer Zweisprachigkeit von einem Referenten und Koreferenten behandelt werden, dem Plenum des <orgName key="Landesausschuss">Landesausschusses</orgName> vorbehalten sind, analog wie dies bei großen Gerichtshöfen für die Plenarstücke der Fall ist. Im übrigen ist jedoch bestimmt, daß "Geschäfte wegen ihrer regelmäßigen Wiederkehr und sachlichen Gleichartigkeit, und Angelegenheiten, die mit Rücksicht auf § 32 a wegen ihres bloß die Interessen eines Volksstammes berührenden Charakters" nicht in der Vollversammlung des <orgName key="Landesausschuss">Landesausschusses</orgName>, sondern in engeren Kollegien zu erledigen sind, bei deren Zusammensetzung "auf den Inhalt der ständigen Referate der Beisitzer sowie auf deren Nationalität Rücksicht zu nehmen ist". Da auf diese Weise die engeren Kollegien selbständig entscheiden, so war es anderseits erforderlich, Garantien zu schaffen für die Einheitlichkeit der Rechtssprechung in Verwaltungsjustizsachen, sowie für die Einhaltung der für die Geschäftsführung des <orgName key="Landesausschuss">Landesausschusses</orgName> gültigen Verwaltungsnormen. Es sind in dieser Hinsicht Bestimmungen getroffen worden, welche, ohne die engeren Kollegien im einzelnen Falle zu beeinflußen, den bezeichneten Zweck erreichen. Ein weitergehender Gedanke, auch Vorsorge zu treffen, wenn Beschlüsse der engeren Kollegien eine offenbare Rechtsverletzung enthalten, oder wenn sie von besonderer wirtschaftlicher oder sozialer Tragweite sind, soll in einer Resolution Ausdruck finden, die auf eine mögliche Lösung hinweist. Der Wortlaut dieser Resolution ist noch nicht angenommen worden. 
           </p>
           <p xml:id="Bae_TB_9_3417">10. Endlich ist in dem erwähnten Komitee eine neue Fassung des § 1 mit Hinzufügung bes § 1a der Landesordnung vereinbart worden. Diese Bestimmungen sind deklaratorischer Notur, enthalten dem geltenden Reichs- und Landesrecht gegenüber nichts Neues, indem sie sagen, baß 
             <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_9_3418">Böhmen</placeName> im Verbande der im 
@@ -4814,7 +4797,7 @@
             <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_3426">Landtages</orgName> durch positive Bestimmungen festgelegt werde. 
           </p>
           <p xml:id="Bae_TB_9_3427">Ebenfalls unerledigt blieb eine vom 
-            <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3428">Großgrundbesitz</orgName> vorgeschlagene Resolution, welche den Landesausschuß auffordert, bezüglich der Ermittlung eines Schlüssels für die Teilung des Landesaufwandes zwischen den beiden Volksstämmen zu untersuchen und festzustellen, in welchen Belangen eine schlüsselmäßige Aufteillung des Landesaufwandes bereits besteht, ferner in welchen Belangen und in welchen Verhältnissen eine solche Teilung des Aufwandes möglich ist, und auf welche Weise sie durchgeführt werden könnte, wobei insbesondere zu prüfen ist, wie die fragliche Teilung des Schulaufwandes vorgenommen werden könnte. 
+            <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3428">Großgrundbesitz</orgName> vorgeschlagene Resolution, welche den <orgName key="Landesausschuss">Landesausschuß</orgName> auffordert, bezüglich der Ermittlung eines Schlüssels für die Teilung des Landesaufwandes zwischen den beiden Volksstämmen zu untersuchen und festzustellen, in welchen Belangen eine schlüsselmäßige Aufteillung des Landesaufwandes bereits besteht, ferner in welchen Belangen und in welchen Verhältnissen eine solche Teilung des Aufwandes möglich ist, und auf welche Weise sie durchgeführt werden könnte, wobei insbesondere zu prüfen ist, wie die fragliche Teilung des Schulaufwandes vorgenommen werden könnte. 
           </p>
           <p xml:id="Bae_TB_9_3429">Arbeiten des Unterausschusses II.</p>
           <p xml:id="Bae_TB_9_3430">Zur speziellen Bearbeitung der diesem Unterausschusse zugewiesenen Gegenstände wurden Referentenkomitees eingesetzt, und zwar für die Abgrenzung bestehend aus acht Mitgliedern, für das Sprachengesetz aus fünf Mitgliedern, für die Kreisvertretungen aus drei und für die Minoritätsschulen aus neun Mitgliedern.</p>
@@ -4876,14 +4859,14 @@
             <placeName key="Rakonitz" ref="no_ref" xml:id="Bae_TB_9_3462">Raknonitz</placeName>). 
           </p>
           <pb facs="#F_K-4_Bae_TB_9_161" n="76v" xml:id="Bae_TB_9_3463"/>
-          <p xml:id="Bae_TB_9_3464">Der zweite Teil der Anträge enthält jene Aufträge an den Landesausschuß, die den Fortgang der Abgrenzungsaktion sicherstellen sollen. Der Landesausschuß wird beauftragt, entsprechende Gesetzentwürfe vorzulegen, um die durch die neue Abgrenzung bedingten nötigen Aenderungen der Bezirksvertretungsgebiete durchzuführen, die notwendigen Ausscheidungen von Ortschaften aus dem Gemeindeverband in die Wege zu leiten, endlich zu erwägen, wie die Bevölkerungszahl des 
+          <p xml:id="Bae_TB_9_3464">Der zweite Teil der Anträge enthält jene Aufträge an den <orgName key="Landesausschuss">Landesausschuß</orgName>, die den Fortgang der Abgrenzungsaktion sicherstellen sollen. Der <orgName key="Landesausschuss">Landesausschuß</orgName> wird beauftragt, entsprechende Gesetzentwürfe vorzulegen, um die durch die neue Abgrenzung bedingten nötigen Aenderungen der Bezirksvertretungsgebiete durchzuführen, die notwendigen Ausscheidungen von Ortschaften aus dem Gemeindeverband in die Wege zu leiten, endlich zu erwägen, wie die Bevölkerungszahl des 
             <!-- identity unknown -->
             <placeName key="Bischofteinitz" ref="no_ref" xml:id="Bae_TB_9_3465">Bischofteinizer</placeName> Bezirkes durch die Zuweisung von deutschen Gemeinden benachbarter Bezirke auf eine entsprechende Höhe gebracht werden könnte. Ferner werben Erhebungen bezüglich einer Reihe von Gemeinden aufgetragen, die von 
             <!-- identity unknown -->
             <placeName key="Weisswasser" ref="no_ref" xml:id="Bae_TB_9_3466">Weißwasser</placeName> nach 
             <!-- identity unknown -->
             <placeName key="Dauba" ref="no_ref" xml:id="Bae_TB_9_3467">Dauba</placeName> oder 
-            <placeName key="Niemes" ref="https://www.geonames.org/3070622/mimon.html" xml:id="Bae_TB_9_3468">Nimes</placeName> kommen sollen. Bezüglich aller übrigen Abgrenzungen, welche in der Beilage der Regierungsvorlage betreffend den Sprachengebrauch bei den landesfürstlichen Behörden enthalten sind, erhält der Landesausschuß den Auftrag, die nötigen Erhebungen zu pflegen, wobei in erster Reihe der Wunsch der Bevölkerung, daneben die Kommunikationsverhältnisse, die Rückwirkung der Abtrennung auf die wirtschaftlichen Verhältnisse der Bevölkerung, sowie auf den Haushalt der infolge der Abgrenzung sich ergebenden Bezirksvertretungen maßgebend sein sollen. Das Referentenkomitee hat sich geeinigt, daß diese Erhebungen gruppenweise durchgeführt werden, indem alle jene Abgrenzungen in einem Elaborat zusammenzufassen sind, welche miteinander zusammenhängen, woraus sich nachstehende Gruppen ergeben würden: Gruppe 
+            <placeName key="Niemes" ref="https://www.geonames.org/3070622/mimon.html" xml:id="Bae_TB_9_3468">Nimes</placeName> kommen sollen. Bezüglich aller übrigen Abgrenzungen, welche in der Beilage der Regierungsvorlage betreffend den Sprachengebrauch bei den landesfürstlichen Behörden enthalten sind, erhält der <orgName key="Landesausschuss">Landesausschuß</orgName> den Auftrag, die nötigen Erhebungen zu pflegen, wobei in erster Reihe der Wunsch der Bevölkerung, daneben die Kommunikationsverhältnisse, die Rückwirkung der Abtrennung auf die wirtschaftlichen Verhältnisse der Bevölkerung, sowie auf den Haushalt der infolge der Abgrenzung sich ergebenden Bezirksvertretungen maßgebend sein sollen. Das Referentenkomitee hat sich geeinigt, daß diese Erhebungen gruppenweise durchgeführt werden, indem alle jene Abgrenzungen in einem Elaborat zusammenzufassen sind, welche miteinander zusammenhängen, woraus sich nachstehende Gruppen ergeben würden: Gruppe 
             <!-- identity unknown -->
             <placeName key="Landskron" ref="no_ref" xml:id="Bae_TB_9_3469">Landskron</placeName>, Gruppe 
             <placeName key="Trautenau" ref="https://www.geonames.org/3063907/trutnov.html" xml:id="Bae_TB_9_3470">Trautenau</placeName>, Gruppe 
@@ -4945,7 +4928,7 @@
           <p xml:id="Bae_TB_9_3507">Bei der allgemeinen Erörterung dieser Frage kam zum Ausdruck, daß die Regierungsvorlage eine ganz ungenügende Arbeit sei und daß ein neuer Aufbau des ganzen Gesetzes versucht und vorher die Hauptgrundsätze erörtert und festgesetzt werden müßten. Zu diesem Zweck wurde ein Referentenkomitee eingesetzt, in welchem die Frage des Weiterbestehens der Bezirksvertretungen neben den Kreisvertretungen, ferner die Wahlordnung für die Kreisvertretungen, ihr Wirkungskreis, endlich ihre finanzielle Grundlage zur Erörterung gestellt wurde. In diesem Kamitee kam es jedoch nur zur Erörterung der drei ersten Fragen, während im Drange der übrigen Geschäfte die Debatte über die finanzielle Grundlage der Kreisvertretungen nicht mehr zustande kam, daher noch ausständig ist.</p>
           <p xml:id="Bae_TB_9_3508">Das Referentenkomitee war der Meinung, daß seit Bezirksvertretungen in ihrer heutigen Gestalt neben den Kreisvertretungen nicht denkbar seien, da eine Vermehrung der autonomen Instanzen und der Zuschläge ausgeschlossen bleiben müßte. Als eine noch im Detail durchzuarbeitende Frage wurde es jedoch erklärt, Bezirksorgane zu schaffen, die die Aufgabe haben würden, die bisherige Vermögensgebarung der Bezirke fortzuführen, eventuell zu liquidieren, einen Uebergang von der heutigen Bezirksverwaltung in die Kreisverwaltung durchzuführen und möglicherweise auch in der Zukunft lokale Stützpunkte für die Kreisverwaltung zu bilden.</p>
           <p xml:id="Bae_TB_9_3509">Bezüglich des Wirkungskreises der zukünftigen Kreisvertretung wurde festgestellt, daß für ihre Kompetenz ein allgemeines, jedoch klares Prinzip aufgestellt und im Gesetz außerdem durch eine Enumeration, die Hauptzüge ihrer Tätigkeit bezeichnet werden müßten. In dieser Hinsicht wurde darauf verwiesen, wie die Kreisverwaltung in Sachen der Verwaltungsjustiz geeignet sei, viel sachgemäßer und sicherer einzugreifen als die heutigen Bezirksvertretungen; daß ihr beispielsweise das Straßenwesen, die Wohnungsfürsorge, die Humanitätsanstalten in Ergänzung der Tätigkeit des Landes, die Besserungsanstalten, die 
-            <pb facs="#F_K-4_Bae_TB_9_167" n="79v" xml:id="Bae_TB_9_3510"/>technische Gewerbeförderung, gewisse landwirtschaftliche Aufgaben, das Kleinbahnwesen, die elektrischen Ueberlandsleitungen usw., insbesondere aber die Aufsicht über die Vermögensgebarung der Gemeinden übertragen werden könnte, und daß sie auch berufen sei, bei der Reform unsres Armenwesens eine entscheidende Rolle zu spielen. Bei der Erörterung des Wirkungskreises der zukünftigen Kreisvertretungen ergab sich die Neigung, denselben nicht keinlich zuzuschneiden, sondern in die Kreise jenen Teil der autonomen Verwaltung zu verlegen, der sich aus Aufnahme der bisherigen Kompetenzen der Bezirksvertretungen und eines noch näher zu besprechenden Teiles der Kompetenzen des Landesausschusses ergeben würde, alles vorbehaltlich jener Agenden, deren Bedeutung über den Umfang eines Kreises hinausgeht, und die daher, sowie alle Angelegenheiten, die sich auf das ganze Land beziehen und denen eine Bedeutung für das ganze Land innewohnt, der autonomen Landesverwaltung vorbehalten bleiben müßte. 
+            <pb facs="#F_K-4_Bae_TB_9_167" n="79v" xml:id="Bae_TB_9_3510"/>technische Gewerbeförderung, gewisse landwirtschaftliche Aufgaben, das Kleinbahnwesen, die elektrischen Ueberlandsleitungen usw., insbesondere aber die Aufsicht über die Vermögensgebarung der Gemeinden übertragen werden könnte, und daß sie auch berufen sei, bei der Reform unsres Armenwesens eine entscheidende Rolle zu spielen. Bei der Erörterung des Wirkungskreises der zukünftigen Kreisvertretungen ergab sich die Neigung, denselben nicht keinlich zuzuschneiden, sondern in die Kreise jenen Teil der autonomen Verwaltung zu verlegen, der sich aus Aufnahme der bisherigen Kompetenzen der Bezirksvertretungen und eines noch näher zu besprechenden Teiles der Kompetenzen des <orgName key="Landesausschuss">Landesausschusses</orgName> ergeben würde, alles vorbehaltlich jener Agenden, deren Bedeutung über den Umfang eines Kreises hinausgeht, und die daher, sowie alle Angelegenheiten, die sich auf das ganze Land beziehen und denen eine Bedeutung für das ganze Land innewohnt, der autonomen Landesverwaltung vorbehalten bleiben müßte. 
           </p>
           <p xml:id="Bae_TB_9_3511">Bezüglich der Wahlordnung wurde der Standpunkt der Regierung, wonach die Kreisvertretungen aus den indirekten Wahlen der Bezirksvertretungen hervorgehen sollen, verworfen und es wird für notwendig erachtet, für die Kreisvertretungen unter allen Umständen eine selbständige Wahlordnung festzustellen, für welche die zu beschließende Landtagswahlordnung möglicherweise von präjudizieller Bedeutung sein wird.</p>
           <p xml:id="Bae_TB_9_3512">
@@ -4964,7 +4947,7 @@
             <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3522">Großgrundbesitz</orgName> wird auch in Zukunft durch Vorarbeit und Vermittlung die ihm obliegende Aufgabe zu erfüllen trachten. 
           </p>
         </div>
-        <div xml:id="Bae_TB_9_3523">
+        <div type="diaryEntry" xml:id="Bae_TB_9_3523"><head><date when="1910-11" type="diaryEntry"></date></head>
           <p xml:id="Bae_TB_9_3524">Ich will hier daher nur über das Milieu des Ganzen, die Stellung der Parteien 
             <choice xml:id="Bae_TB_9_3525">
               <abbr xml:id="Bae_TB_9_3526">u.</abbr>
@@ -5040,7 +5023,7 @@
               <expan xml:id="Bae_TB_9_3579">und</expan>
             </choice> mir die Anerkennung von allen Seiten ausgesprochen. Nur meine lieben Grossgrundbesitzer waren mit dieser Publication nicht zufrieden. Die 
             <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3580">verfassungstreuen</orgName> quittirten mit süss-sauren Mienen, die 
-            <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3581">Conservativen</orgName>
+            <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3581">Conservativen</orgName>
             <!-- identity unknown -->, 
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_9_3582">Franz Thun</persName>, 
             <persName key="SchwarzenbergKarl" ref="https://d-nb.info/gnd/1021821535" xml:id="Bae_TB_9_3583">Carl Schwarzenberg</persName> sprachen höflich aber "sichtlich unerfreut" aus, dass es doch vielleicht nicht opportun gewesen sei, 
@@ -5233,11 +5216,11 @@
               <abbr xml:id="Bae_TB_9_3730">u.</abbr>
               <expan xml:id="Bae_TB_9_3731">und</expan>
             </choice> umfangreicher. In der böhmischen Sache waren sie stark fühlbar. Die Schwankung der 
-            <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3732">Conservativen</orgName>
+            <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3732">Conservativen</orgName>
             <!-- identity unknown -->
             <del rendition="#s" xml:id="Bae_TB_9_3733">war</del> ist auf ihn zurückzufüren. 
             <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_9_3734">Wolf</persName> sagte neulich einmal: die Haltung der 
-            <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3735">Conservativen</orgName>
+            <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3735">Conservativen</orgName>
             <!-- identity unknown --> riecht nach 
             <!-- identity unknown -->
             <placeName key="Konopischt" ref="no_ref" xml:id="Bae_TB_9_3736">Konopischt</placeName>. Des Thronfolger's Geschäftsträger im 
@@ -5316,7 +5299,7 @@
               <abbr xml:id="Bae_TB_9_3794">u.</abbr>
               <expan xml:id="Bae_TB_9_3795">und</expan>
             </choice> von der Notwendigkeit mit den Deutschen zu regieren, durchdrungener Beamter – der 
-            <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3796">conservative Grossgrundbesitz</orgName>
+            <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3796">conservative Grossgrundbesitz</orgName>
             <!-- identity unknown --> von den Čechen losgelöst – Krone 
             <choice xml:id="Bae_TB_9_3797">
               <abbr xml:id="Bae_TB_9_3798">u.</abbr>
@@ -5414,14 +5397,14 @@
           <note type="editorial" xml:id="Bae_TB_9_3869">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-4_Bae_TB_9_182" n="87r" xml:id="Bae_TB_9_3870"/>
           <p xml:id="Bae_TB_9_3871">Ich kann den 
-            <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3872">Conservativen</orgName>
+            <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3872">Conservativen</orgName>
             <!-- identity unknown --> das Zeugnis ausstellen, dass sie die getroffenen Vereinbarungen gehalten haben. 
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_9_3873">Thun</persName> war wol geneigt unsere vereinbarte Basis leicht aufzugeben, um den Čechen entgegenzukommen, doch tat er es nicht auf eigene Faust, sondern frug an 
             <choice xml:id="Bae_TB_9_3874">
               <abbr xml:id="Bae_TB_9_3875">u.</abbr>
               <expan xml:id="Bae_TB_9_3876">und</expan>
             </choice> verwarte unsern Standpunkt, indem er seine "persönliche Meinung" sagte. Unser Einvernehmen mit den 
-            <orgName key="KonservativerGrossgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3877">Conservativen</orgName>
+            <orgName key="BoehmischerKonservativerGroßgrundbesitz" ref="no_ref" xml:id="Bae_TB_9_3877">Conservativen</orgName>
             <!-- identity unknown --> war daher ein ungetrübtes. 
           </p>
           <p xml:id="Bae_TB_9_3878">Von čechischer Seite fürte in erster Reihe 
@@ -5601,7 +5584,7 @@
           </p>
           <p xml:id="Bae_TB_9_4011">Außerordentlich erschwert war die Arbeit bei den Deutschen durch die Einmischung 
             <!-- identity unknown -->
-            <persName key="TittaJosef" ref="no_ref" xml:id="Bae_TB_9_4012">Tittas</persName> und des Zweiteilungsausschusses. Diese Herren, auf ganz extreme Forderungen eingeschworen, verfolgten misstrauisch und Misstrauen säend die Verhandlungen. 
+            <persName key="TittaJosef" ref="no_ref" xml:id="Bae_TB_9_4012">Tittas</persName> und des <orgName key="VolksratZweiteilungsausschuss">Zweiteilungsausschusses</orgName>. Diese Herren, auf ganz extreme Forderungen eingeschworen, verfolgten misstrauisch und Misstrauen säend die Verhandlungen. 
           </p>
           <p xml:id="Bae_TB_9_4013">Ob wir dem grossen Problem: die nationale Selbstbestimmung mit der notwendigen Einheit des Landes in Einklang zu bringen näher gekommen sind? In einzelnen der vereinbarten Bestimmungen ohne Zweifel – aber grosse Probleme sind noch zu lösen 
             <choice xml:id="Bae_TB_9_4014">
@@ -5639,10 +5622,10 @@
         <note type="editorial" xml:id="Bae_TB_9_4039">Hier finden sich Ergänzungen, Korrekturen oder Kommentare 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_9_4040">Baernreithers</persName>. Diese finden sich an der entsprechenden Stelle im Manuskript Fragmente. 
         </note>
-        <div n="1910-12-01" type="diaryEntry" xml:id="Bae_TB_9_4041">
+        <div type="diaryEntry" xml:id="Bae_TB_9_4041">
           <p xml:id="Bae_TB_9_4042">
             <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_9_4043">Lünz</placeName>
-            <date when="1910-12-01" xml:id="Bae_TB_9_4044">1.12.10</date>
+            <date when="1910-12-01" type="diaryEntry" xml:id="Bae_TB_9_4044">1.12.10</date>
           </p>
           <p xml:id="Bae_TB_9_4045">Trotz der Verhandlungen in 
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_4046">Prag</placeName> brachte ich es doch noch fertig einmal zur Eröffnung der 
@@ -5827,10 +5810,10 @@
             </choice> auf dem Ballplatz hat man es offenbar vergessen. 
           </p>
         </div>
-        <div n="1910-12-08" type="diaryEntry" xml:id="Bae_TB_9_4170">
+        <div type="diaryEntry" xml:id="Bae_TB_9_4170">
           <p xml:id="Bae_TB_9_4171">
             <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_9_4172">Lünz</placeName>
-            <date when="1910-12-08" xml:id="Bae_TB_9_4173">8.12.10</date>
+            <date when="1910-12-08" type="diaryEntry" xml:id="Bae_TB_9_4173">8.12.10</date>
           </p>
           <p xml:id="Bae_TB_9_4174">Ich hatte neulich ein Gespräch mit 
             <!-- identity ambiguous -->
@@ -5937,7 +5920,7 @@
             </choice> seiner Auslegung der päpstlichen Politik vollkommen bei. 
           </p>
         </div>
-      </div>
+      
     </body>
   </text>
 </TEI>

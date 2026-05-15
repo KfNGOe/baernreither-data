@@ -80,7 +80,7 @@
   </teiHeader>
   <text xml:id="Bae_MF_6-1_50">
     <body xml:id="Bae_MF_6-1_51">
-      <div n="1904-12-06" xml:id="Bae_MF_6-1_2023">
+      <div type="chapter" xml:id="Bae_MF_6-1_2023">
         <p xml:id="Bae_MF_6-1_2024">
           <anchor xml:id="Bae_MF_6-1_2025"/>
           <app from="#Bae_TB_7_2060" type="missing" xml:id="Bae_MF_6-1_2026">
@@ -88,7 +88,7 @@
           </app>
         </p>
       </div>
-      <div n="1904-11-19" xml:id="Bae_MF_6-1_2028">
+      <div type="chapter" xml:id="Bae_MF_6-1_2028">
         <p xml:id="Bae_MF_6-1_2029">
           <anchor xml:id="Bae_MF_6-1_2030"/>
           <app from="#Bae_TB_7_4515" type="missing" xml:id="Bae_MF_6-1_2031">
@@ -96,15 +96,14 @@
           </app>
         </p>
       </div>
-      <div n="1905-01" type="diaryEntry" xml:id="Bae_MF_6-1_52">
+      <div type="chapter" xml:id="Bae_MF_6-1_52">
         <pb facs="#F_K-11_Bae_MF_6-1_004" n="1r" xml:id="Bae_MF_6-1_53"/>
         <anchor xml:id="Bae_MF_6-1_948"/>
-        <head xml:id="Bae_MF_6-1_54">Die Erbschaft, die 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_55">Koerber</persName> hinterließ 
+        <head xml:id="Bae_MF_6-1_54"><title type="main">Die Erbschaft, die 
+          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_55">Koerber</persName> hinterließ</title><title type="short">Erbe Körbers</title></head> 
           <app from="#Bae_TB_7_3332" type="notEqual" xml:id="Bae_MF_6-1_949">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_950">Finis</rdg>
           </app>
-        </head>
         <p xml:id="Bae_MF_6-1_56">
           <anchor xml:id="Bae_MF_6-1_951"/>In der 
           <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_MF_6-1_57"> Budgetausschusssitzung</orgName> vom 
@@ -570,13 +569,13 @@
           </app>
         </p>
       </div>
-      <div n="1905-07" type="diaryEntry" xml:id="Bae_MF_6-1_162">
+      <div type="chapter" xml:id="Bae_MF_6-1_162">
         <pb facs="#F_K-11_Bae_MF_6-1_015" n="6v" xml:id="Bae_MF_6-1_2205"/>
         <note type="editorial" xml:id="Bae_MF_6-1_2206">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_6-1_016" n="7r" xml:id="Bae_MF_6-1_163"/>
         <anchor xml:id="Bae_MF_6-1_1197"/>
-        <head xml:id="Bae_MF_6-1_164">Die Flitterwochen 
-          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-1_165">Gautsch</persName>
+        <head xml:id="Bae_MF_6-1_164"><title type="main">Die Flitterwochen 
+          <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-1_165">Gautsch</persName></title><title type="short">Gautsch</title>
         </head>
         <p xml:id="Bae_MF_6-1_166">Er wird anfangs kühl aufgenommen. 
           <note type="editorial" xml:id="Bae_MF_6-1_167">Paul Gautsch wurde am 1.1.1905 das zweite Mal zum österreichischen Ministerpräsidenten ernannt.</note> Hat mit unangenehmen Reminiszenzen zu kämpfen. Benimmt sich gut. 
@@ -841,17 +840,17 @@
           </app>
         </p>
       </div>
-      <div n="1905-07" type="diaryEntry" xml:id="Bae_MF_6-1_236">
+      <div type="chapter" xml:id="Bae_MF_6-1_236">
         <pb facs="#F_K-11_Bae_MF_6-1_025" n="11v" xml:id="Bae_MF_6-1_2215"/>
         <note type="editorial" xml:id="Bae_MF_6-1_2216">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_6-1_026" n="12r" xml:id="Bae_MF_6-1_237"/>
         <head xml:id="Bae_MF_6-1_238">
-          <anchor xml:id="Bae_MF_6-1_1326"/>Die Beratungen über Zolltarif und Handelsvertrag mit 
-          <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_MF_6-1_239">Deutschland</placeName>
+          <anchor xml:id="Bae_MF_6-1_1326"/><title type="main">Die Beratungen über Zolltarif und Handelsvertrag mit 
+            <placeName key="Deutschland" ref="https://d-nb.info/gnd/7509421-6" xml:id="Bae_MF_6-1_239">Deutschland</placeName></title><title type="short">Handelsvertrag Deutschland</title></head>
           <app from="#Bae_TB_7_4423" type="notEqual" xml:id="Bae_MF_6-1_1327">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1328">Ungarische Fühlungen</rdg>
           </app>
-        </head>
+        
         <p xml:id="Bae_MF_6-1_240">
           <anchor xml:id="Bae_MF_6-1_1329"/>Die Krankheit von 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-1_241">Gautsch</persName>, die ihn monatelang von den eigentlichen Arbeiten fernhielt, hat der politischen Situation sehr geschadet. Das Meiste, was er gut angeknüpft hatte, riss ab. Die Gegner hatten freies Spiel. Wenn er auch im Allgemeinen au fait der Ereignisse blieb, so beherrschte er sie doch nicht und hatte keinen Einfluß auf die Stimmungen und Strömungen im 
@@ -1156,21 +1155,21 @@
         </p>
         <p xml:id="Bae_MF_6-1_398">-----------</p>
       </div>
-      <div n="1905-9" type="diaryEntry" xml:id="Bae_MF_6-1_399">
+      <div type="chapter" xml:id="Bae_MF_6-1_399">
         <pb facs="#F_K-11_Bae_MF_6-1_043" n="14fv" xml:id="Bae_MF_6-1_2233"/>
         <note type="editorial" xml:id="Bae_MF_6-1_2234">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_6-1_044" n="15r" xml:id="Bae_MF_6-1_400"/>
-        <head xml:id="Bae_MF_6-1_401">
-          <anchor xml:id="Bae_MF_6-1_1383"/>Ungarische Verbindungen 
+        <anchor xml:id="Bae_MF_6-1_1383"/>
+        <head xml:id="Bae_MF_6-1_401"><title type="main">Ungarische Verbindungen</title><title type="short">Ungar. Verbindungen</title></head> 
           <app from="#Bae_TB_7_4429" type="missing" xml:id="Bae_MF_6-1_1384">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1385"/>
           </app>
-        </head>
+        
         <p xml:id="Bae_MF_6-1_402">
           <anchor xml:id="Bae_MF_6-1_1386"/>
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-1_403">Gautsch</persName> hatte in dieser Zeit seiner Krankheit keine Fühlung mit den ungarischen Verhältnissen, wenigstens schien es so, und es war natürlich, daß, je weiter die ungarische Krise fortschritt, die Frage aufgeworfen wurde, ob nicht von 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_6-1_404">Parlament</orgName> zu 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_405">Parlament</orgName> eine Fühlungnahme versucht werden sollte! 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_405">Parlament</orgName> eine Fühlungnahme versucht werden sollte! 
         </p>
         <p xml:id="Bae_MF_6-1_406">
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_MF_6-1_407">Urban</persName> war mit dem bekannten Finanzier und Mitglied des 
@@ -1336,17 +1335,17 @@
           </app>
         </p>
       </div>
-      <div n="1905-11" type="diaryEntry" xml:id="Bae_MF_6-1_478">
+      <div type="chapter" xml:id="Bae_MF_6-1_478">
         <pb facs="#F_K-11_Bae_MF_6-1_049" n="17v" xml:id="Bae_MF_6-1_2239"/>
         <note type="editorial" xml:id="Bae_MF_6-1_2240">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_6-1_050" n="18r" xml:id="Bae_MF_6-1_479"/>
-        <head xml:id="Bae_MF_6-1_480">
-          <anchor xml:id="Bae_MF_6-1_1425"/>
-          <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-1_481">Fejervary</persName> und die Koalition. Tagebuchblätter aus dem Herbst 1905 
+        <anchor xml:id="Bae_MF_6-1_1425"/>
+        <head xml:id="Bae_MF_6-1_480"><title type="main">
+          <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-1_481">Fejervary</persName> und die Koalition. Tagebuchblätter aus dem Herbst 1905</title><title type="short">Herbst 1905</title></head> 
           <app from="#Bae_TB_7_4512" type="missing" xml:id="Bae_MF_6-1_1426">
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1427"/>
           </app>
-        </head>
+        
         <p xml:id="Bae_MF_6-1_482">
           <anchor xml:id="Bae_MF_6-1_1428"/>Während meiner Studien in 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_MF_6-1_483">England</placeName>
@@ -1415,7 +1414,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-05" type="diaryEntry" xml:id="Bae_MF_6-1_495">
+      <div type="chapter" xml:id="Bae_MF_6-1_495"><head><date when="1905-09-05" type="chapter"></date></head>
         <p xml:id="Bae_MF_6-1_496">
           <anchor xml:id="Bae_MF_6-1_1458"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_6-1_497">Budapest</placeName>, den 
@@ -1820,7 +1819,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-06" type="diaryEntry" xml:id="Bae_MF_6-1_583">
+      <div type="chapter" xml:id="Bae_MF_6-1_583"><head><date when="1905-09-06" type="chapter"></date></head>
         <p xml:id="Bae_MF_6-1_584">
           <anchor xml:id="Bae_MF_6-1_1626"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_6-1_585">Budapest</placeName>, den 
@@ -1971,7 +1970,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-07" type="diaryEntry" xml:id="Bae_MF_6-1_633">
+      <div type="chapter" xml:id="Bae_MF_6-1_633"><head><date when="1905-09-07" type="chapter"></date></head>
         <p xml:id="Bae_MF_6-1_634">
           <anchor xml:id="Bae_MF_6-1_1667"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_6-1_635">Budapest</placeName>, 
@@ -2080,7 +2079,7 @@
             <rdg wit="#Bae_TB_7" xml:id="Bae_MF_6-1_1711">stehe</rdg>
           </app>
           <anchor xml:id="Bae_MF_6-1_1712"/>außer Frage und er könne sich nur die Motive nicht erklären. Er fügte bei, das könne aber den Geistlichen teuer zu stehen kommen, denn ein 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_662">Reichstag</orgName> auf Grund des allgemeinen Stimmrechtes könne auch die Säkularisierung der geistlichen Güter aussprechen. 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_662">Reichstag</orgName> auf Grund des allgemeinen Stimmrechtes könne auch die Säkularisierung der geistlichen Güter aussprechen. 
         </p>
         <p xml:id="Bae_MF_6-1_663">Weiter kamen wir auf die Rückwirkung 
           <app from="#Bae_TB_7_4103" type="equal" xml:id="Bae_MF_6-1_1713">
@@ -2253,7 +2252,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-09" type="diaryEntry" xml:id="Bae_MF_6-1_701">
+      <div type="chapter" xml:id="Bae_MF_6-1_701"><head><date when="1905-09-09" type="chapter"></date></head>
         <p xml:id="Bae_MF_6-1_702">
           <anchor xml:id="Bae_MF_6-1_1787"/>
           <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_MF_6-1_703">Agram</placeName>, am 
@@ -2435,7 +2434,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-11" type="diaryEntry" xml:id="Bae_MF_6-1_745">
+      <div type="chapter" xml:id="Bae_MF_6-1_745"><head><date when="1905-09-11" type="chapter"></date></head>
         <p xml:id="Bae_MF_6-1_746">
           <anchor xml:id="Bae_MF_6-1_1884"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_MF_6-1_747">Budapest</placeName>, am 
@@ -2556,7 +2555,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-09-12" type="diaryEntry" xml:id="Bae_MF_6-1_794">
+      <div type="chapter" xml:id="Bae_MF_6-1_794"><head><date when="1905-09-12" type="chapter"></date></head>
         <p xml:id="Bae_MF_6-1_795">
           <anchor xml:id="Bae_MF_6-1_1914"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/wien.html" xml:id="Bae_MF_6-1_796">Wien</placeName>, am 
@@ -2658,11 +2657,11 @@
           <pb facs="#F_K-11_Bae_MF_6-1_085" n="35v" xml:id="Bae_MF_6-1_2275"/>
           <note type="editorial" xml:id="Bae_MF_6-1_2276">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-1_086" n="36r" xml:id="Bae_MF_6-1_833"/>und dies insbesondere auf einem 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_834">Reichstage</orgName> in den 30er Jahren verlangt. Damals antwortete 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_834">Reichstage</orgName> in den 30er Jahren verlangt. Damals antwortete 
           <persName key="KaiserFranz" ref="https://d-nb.info/gnd/118534955" xml:id="Bae_MF_6-1_835">Kaiser Franz</persName> keineswegs ablehnend, sondern dilatorisch. Und als derselbe 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_836">Reichstag</orgName> verlangte, daß alle Erzherzoge und Erzherzoginnen, da sie auch Prinzen der ungarischen Krone seien, ungarisch lernen sollen, war 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_836">Reichstag</orgName> verlangte, daß alle Erzherzoge und Erzherzoginnen, da sie auch Prinzen der ungarischen Krone seien, ungarisch lernen sollen, war 
           <persName key="KaiserFranz" ref="https://d-nb.info/gnd/118534955" xml:id="Bae_MF_6-1_837">Kaiser Franz</persName> so klug zu antworten: Damit komme der ungarische 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_838">Reichstag</orgName> zu spät, das habe er Kraft seines Rechtes als Haupt der Familie längst angeordnet. 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_6-1_838">Reichstag</orgName> zu spät, das habe er Kraft seines Rechtes als Haupt der Familie längst angeordnet. 
         </p>
         <p xml:id="Bae_MF_6-1_839">So sei es auch jetzt. Die schroffe Ablehnung schaffte einen unmöglichen Zustand. Er, 
           <persName key="WekerleSandor" ref="https://d-nb.info/gnd/119128691" xml:id="Bae_MF_6-1_840">Wekerle</persName>, habe dem 
@@ -2741,7 +2740,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-10" type="diaryEntry" xml:id="Bae_MF_6-1_875">
+      <div type="chapter" xml:id="Bae_MF_6-1_875"><head><date when="1905-10" type="chapter"></date></head>
         <p xml:id="Bae_MF_6-1_876">
           <anchor xml:id="Bae_MF_6-1_1953"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/wien.html" xml:id="Bae_MF_6-1_877">Wien</placeName>, im 
@@ -2836,7 +2835,7 @@
           </app>
         </p>
       </div>
-      <div n="1905-12-12" type="diaryEntry" xml:id="Bae_MF_6-1_904">
+      <div type="chapter" xml:id="Bae_MF_6-1_904"><head><date when="1905-12-02" type="chapter"></date></head>
         <p xml:id="Bae_MF_6-1_905">
           <anchor xml:id="Bae_MF_6-1_1995"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/wien.html" xml:id="Bae_MF_6-1_906">Wien</placeName>, am 
@@ -2933,7 +2932,7 @@
           </app>
         </p>
       </div>
-      <div xml:id="Bae_MF_6-1_2033">
+      <div type="chapter" xml:id="Bae_MF_6-1_2033">
         <p xml:id="Bae_MF_6-1_2034">
           <anchor xml:id="Bae_MF_6-1_2035"/>
           <app from="#Bae_TB_7_4399" type="missing" xml:id="Bae_MF_6-1_2036">

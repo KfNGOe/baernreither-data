@@ -77,7 +77,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_5_52">
     <body xml:id="Bae_TB_5_53">
-      <div n="1899-09-06" type="diaryEntry" xml:id="Bae_TB_5_54">
+      <div type="diaryEntry" xml:id="Bae_TB_5_54">
         <pb facs="#F_K-4_Bae_TB_5_004" n="1r" xml:id="Bae_TB_5_55"/>
         <anchor xml:id="Bae_TB_5_56"/>
         <p xml:id="Bae_TB_5_57">Die Sommermonate 
@@ -2761,7 +2761,7 @@
         <p xml:id="Bae_TB_5_2032">
           <anchor xml:id="Bae_TB_5_2033"/>
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_5_2034">Lünz</placeName>
-          <date when="1899-09-06" xml:id="Bae_TB_5_2035">6.9.99</date>. 
+          <date when="1899-09-06" type="diaryEntry" xml:id="Bae_TB_5_2035">6.9.99</date>. 
         </p>
         <app from="#Bae_MF_3_2156" type="equal" xml:id="Bae_TB_5_2036">
           <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_2037">Lünz 6.IX.1899</rdg>
@@ -2770,7 +2770,7 @@
       <pb facs="#F_K-4_Bae_TB_5_055" n="26v" xml:id="Bae_TB_5_2038"/>
       <note type="editorial" xml:id="Bae_TB_5_2039">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
       <pb facs="#F_K-4_Bae_TB_5_056" n="27r" xml:id="Bae_TB_5_2040"/>
-      <div n="1899-10-04" type="diaryEntry" xml:id="Bae_TB_5_2041">
+      <div type="diaryEntry" xml:id="Bae_TB_5_2041">
         <p xml:id="Bae_TB_5_2042">
           <anchor xml:id="Bae_TB_5_2043"/>
           <hi rendition="#ul" xml:id="Bae_TB_5_2044">
@@ -4592,7 +4592,7 @@
         <p xml:id="Bae_TB_5_3369">
           <anchor xml:id="Bae_TB_5_7831"/>
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_5_3371">Lünz</placeName>, am 
-          <date when="1899-10-04" xml:id="Bae_TB_5_3372">4. 
+          <date when="1899-10-04" type="diaryEntry" xml:id="Bae_TB_5_3372">4. 
             <choice xml:id="Bae_TB_5_3373">
               <abbr xml:id="Bae_TB_5_3374">Octbr.</abbr>
               <expan xml:id="Bae_TB_5_3375">Oktober</expan>
@@ -4603,7 +4603,7 @@
           </app>
         </p>
       </div>
-      <div n="1900-04" type="diaryEntry" xml:id="Bae_TB_5_3378">
+      <div type="diaryEntry" xml:id="Bae_TB_5_3378">
         <p xml:id="Bae_TB_5_3379">
           <anchor xml:id="Bae_TB_5_3380"/>
           <hi rendition="#ul" xml:id="Bae_TB_5_3381">
@@ -6533,13 +6533,13 @@
             <expan xml:id="Bae_TB_5_4848">und</expan>
           </choice> die legislativen Versuche denselben beizulegen. Ich war mit dieser Frage ganz besonders beschäftigt. Ich sprach in dieser Zeit wiederholt im Hause. 
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_5_4849">Lünz</placeName>
-          <date when="1900-04" xml:id="Bae_TB_5_4850">April 1900</date>
+          <date when="1900-04" type="diaryEntry" xml:id="Bae_TB_5_4850">April 1900</date>
           <app from="#Bae_MF_3_3374" type="equal" xml:id="Bae_TB_5_4851">
             <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_4852">Ein gewisser Vorteil entsprang den Konferenzen: daß der Kontakt im Reichsrat, der in der zweiten Hälfte Feber und in der ersten Hälfte März tagte, zwischen Čechen und Deutschen ein besserer war und auch blieb. Die Čechen ließen es auch nicht bis zum Aeussersten kommen. Die Rekrutenvorlage kam nach Jahren wieder parlamentarisch zustande. Die Delegationswahl wurde anstandslos durchgeführt. Die bewegteste Materie dieser Session bildete der Kohlenstreik und die legislativen Versuche denselben beizulegen. Ich war mit dieser Frage ganz besonders beschäftigt. Ich sprach in dieser Zeit wiederholt im Hause. Lünz, April 1900.</rdg>
           </app>
         </p>
       </div>
-      <div n="1900-05-05" type="diaryEntry" xml:id="Bae_TB_5_4853">
+      <div type="diaryEntry" xml:id="Bae_TB_5_4853">
         <p xml:id="Bae_TB_5_4854">
           <anchor xml:id="Bae_TB_5_4855"/>
           <hi rendition="#ul" xml:id="Bae_TB_5_4856">
@@ -6776,7 +6776,7 @@
             <abbr xml:id="Bae_TB_5_5039">u.</abbr>
             <expan xml:id="Bae_TB_5_5040">und</expan>
           </choice> fuhren zeitlich ab. Sehr pompös, die Festhalle grossartig, die Ordnung anfangs musterhaft. Im Ganzen die republicanische mise en scène den monarchischen Festen dieser Art nicht nachstehend. Freilich auch republicanische Freiheiten. Während das Staatsoberhaupt sprach, stehend die Eröffnungsrede hielt, sass – mit Ausnahme der fremden Gäste – das ganze Parterre! Abend war ein Diner des Generalcommissariats im 
-          <orgName key="Cardinal" xml:id="Bae_TB_5_5041">Restaurant Cardinal</orgName>. Grosse gegenseitige Anstrudelung unserer Funktionäre bei der Ausstellung. Nach dem Diner traf ich noch 
+          <orgName key="RestaurantCardinal" xml:id="Bae_TB_5_5041">Restaurant Cardinal</orgName>. Grosse gegenseitige Anstrudelung unserer Funktionäre bei der Ausstellung. Nach dem Diner traf ich noch 
           <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_5_5042">
             <choice xml:id="Bae_TB_5_5043">
               <abbr xml:id="Bae_TB_5_5044">Aperg</abbr>
@@ -7731,19 +7731,17 @@
           </app>
           <anchor xml:id="Bae_TB_5_5772"/>
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_5_5773">Lünz</placeName> am 
-          <date when="1900-05-05" xml:id="Bae_TB_5_5774">5. Mai 1900</date>
+          <date when="1900-05-05" type="diaryEntry" xml:id="Bae_TB_5_5774">5. Mai 1900</date>
           <app from="#Bae_MF_3_3783" type="equal" xml:id="Bae_TB_5_5775">
-            <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_5776"/>
+            <rdg wit="Bae_MF_3" xml:id="Bae_TB_5_5776">Lünz, am 5. Mai 1900</rdg>
           </app>
         </p>
       </div>
-      <div n="1900-09" type="diaryEntry" xml:id="Bae_TB_5_5777">
-        <p xml:id="Bae_TB_5_5778">
+      <div type="diaryEntry" xml:id="Bae_TB_5_5777">
           <anchor xml:id="Bae_TB_5_5779"/>
-          <hi rendition="#ul" xml:id="Bae_TB_5_5780">Die Sommermonate 
+          <head><hi rendition="#ul" xml:id="Bae_TB_5_5780">Die Sommermonate 
             <date when="1900" xml:id="Bae_TB_5_5781">1900</date>
-          </hi>
-        </p>
+          </hi><date when="1900-09" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_5_5782">
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_5_5783">Körber's</persName> Fleiss, Kenntnisse, seine Zurückhaltung 
           <choice xml:id="Bae_TB_5_5784">
@@ -8304,7 +8302,7 @@
       <pb facs="#F_K-4_Bae_TB_5_142" n="70r" xml:id="Bae_TB_5_6201"/>
       <note type="editorial" xml:id="Bae_TB_5_6202">Diese Seite ist leer.</note>
       <!-- CA: ab hier geht es dann weiter für den Textvergleich mit MF_4 -->
-      <div n="1901-11-24" type="diaryEntry" xml:id="Bae_TB_5_6203">
+      <div type="diaryEntry" xml:id="Bae_TB_5_6203">
         <anchor xml:id="Bae_TB_5_7834"/>
         <app from="#Bae_MF_4_1149" type="missing" xml:id="Bae_TB_5_7835">
           <rdg wit="Bae_MF_4" xml:id="Bae_TB_5_7836">Koerber nach den Neuwahlen bis zu seinem Ende. Seite 334–443. Rede gehalten in Pilsen am 22 Octber 1900 S. 334. Rede gehalten in Prager im Palais Rohan 3.1.1901 S. 350. Panem et circenses S. 360. For sale S. 364. Berlin – London – Brüssel – Paris S. 373. Brief an Aehrenthal S. 398. Antwort Aehrenthal S. 402. Sommer und Herbst 1903 S. 405. Amerikafahrt Juni, July, August 1904 S. 410. Sommer und Spätherbst 1904, Körbers Ende S. 438</rdg>
@@ -9525,7 +9523,7 @@
         </p>
         <p xml:id="Bae_TB_5_7093">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_5_7094">Wien</placeName> am 
-          <date when="1901-11-24" xml:id="Bae_TB_5_7095">24. 
+          <date when="1901-11-24" type="diaryEntry" xml:id="Bae_TB_5_7095">24. 
             <choice xml:id="Bae_TB_5_7096">
               <abbr xml:id="Bae_TB_5_7097">Novbr.</abbr>
               <expan xml:id="Bae_TB_5_7098">November</expan>
@@ -9536,11 +9534,11 @@
           </app>
         </p>
       </div>
-      <div n="1903-03" type="diaryEntry" xml:id="Bae_TB_5_7101">
+      <div type="diaryEntry" xml:id="Bae_TB_5_7101">
         <anchor xml:id="Bae_TB_5_7102"/>
-        <p xml:id="Bae_TB_5_7103">
-          <hi rendition="ul" xml:id="Bae_TB_5_7104">For Sale</hi>
-        </p>
+        <head xml:id="Bae_TB_5_7103">
+          <hi rendition="ul" xml:id="Bae_TB_5_7104">For Sale</hi><date when="1903-03" type="diaryEntry"></date>
+        </head>
         <p xml:id="Bae_TB_5_7105">Fast 1 ½ Jahre sind verstrichen, seit ich die vorstehenden Zeilen niederschrieb, denn ich empfand wenig Anreiz irgend Etwas zu fixiren. Soll ich die Grundstimmung, the ground well, von der Politik 
           <choice xml:id="Bae_TB_5_7106">
             <abbr xml:id="Bae_TB_5_7107">u.</abbr>

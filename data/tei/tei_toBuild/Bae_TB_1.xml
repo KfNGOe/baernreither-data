@@ -78,8 +78,9 @@
   </teiHeader>
   <text xml:id="Bae_TB_1_49">
     <body xml:id="Bae_TB_1_50">
-      <div n="1897-01" type="diaryEntry" xml:id="Bae_TB_1_51">
+      <div type="diaryEntry" xml:id="Bae_TB_1_51">
         <pb facs="#F_K-6_Bae_TB_1_002" n="1r" xml:id="Bae_TB_1_52"/>
+        <head><date when="1897-01" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_1_53">
           <anchor xml:id="Bae_TB_1_54"/>Der 
           <date when="1897-12" xml:id="Bae_TB_1_55">Winter 1897</date> war für mich politisch bedeutsamer als irgend eine frühere Zeit, weil ich in die Pläne 
@@ -112,7 +113,7 @@
           </app>
         </p>
       </div>
-      <div n="1897-03" type="diaryEntry" xml:id="Bae_TB_1_76">
+      <div type="diaryEntry" xml:id="Bae_TB_1_76">
         <head xml:id="Bae_TB_1_77">
           <hi rendition="#ul" xml:id="Bae_TB_1_78">
             <anchor xml:id="Bae_TB_1_79"/>I. Bis zur 
@@ -123,7 +124,7 @@
               </index>
             </index> des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_84">Reichsrats</orgName> am 
-            <date when="1897-03-27" xml:id="Bae_TB_1_85">27. März 1897</date>. 
+            <date when="1897-03-27" type="diaryEntry" xml:id="Bae_TB_1_85">27. März 1897</date>. 
           </hi>
         </head>
         <p xml:id="Bae_TB_1_86">In der zweiten Hälfte 
@@ -1734,7 +1735,7 @@
           </app>
         </p>
       </div>
-      <div n="1897-04" type="diaryEntry" xml:id="Bae_TB_1_1174">
+      <div type="diaryEntry" xml:id="Bae_TB_1_1174">
         <head xml:id="Bae_TB_1_1175">
           <anchor xml:id="Bae_TB_1_1176"/>
           <hi rendition="#ul" xml:id="Bae_TB_1_1177">II. Von der 
@@ -1746,7 +1747,7 @@
             </index> des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_1182">Reichsrats</orgName> am 
             <date when="1897-03-27" xml:id="Bae_TB_1_1183">27. März 1897</date> bis zu den Osterferien ( 
-            <date when="1897-04" xml:id="Bae_TB_1_1184">April 1897</date>) 
+            <date when="1897-04" type="diaryEntry" xml:id="Bae_TB_1_1184">April 1897</date>) 
           </hi>
         </head>
         <p xml:id="Bae_TB_1_1185">Es war wohl kein zufälliges Zusammentreffen, dass am Tage der 
@@ -3439,9 +3440,9 @@
           <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_TB_1_2457">Christlich-socialen</orgName>. 
         </p>
       </div>
-      <div n="1897-05" type="diaryEntry" xml:id="Bae_TB_1_2458">
+      <div type="diaryEntry" xml:id="Bae_TB_1_2458">
         <head xml:id="Bae_TB_1_2459">
-          <hi rendition="#ul" xml:id="Bae_TB_1_2460">III. Die Osterferien 1897</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_1_2460">III. Die Osterferien 1897</hi><date when="1897-05" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_1_2461">Ich war mir eine Erfrischung schuldig. Durch die Lektüre von 
           <persName key="MorelliGiovanni" ref="http://d-nb.info/gnd/1147292906" xml:id="Bae_TB_1_2462">Lermoliev</persName> hatte ich eine Menge abgerissene Fäden meiner Kunstkenntnisse wieder angesponnen. 
@@ -3978,7 +3979,7 @@
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_2846">Reichsrats</orgName> erfolgte unter den denkbar ungünstigsten Stimmungen. 
         </p>
       </div>
-      <div n="1897-02" type="diaryEntry" xml:id="Bae_TB_1_2847">
+      <div type="diaryEntry" xml:id="Bae_TB_1_2847">
         <head xml:id="Bae_TB_1_2848">
           <hi rendition="#ul" xml:id="Bae_TB_1_2849">IV. Von der Wiedereröffnung des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_2850">
@@ -3987,7 +3988,7 @@
                 <expan xml:id="Bae_TB_1_2853">Reichsrats</expan>
               </choice>
             </orgName> nach Ostern bis zum Schluss der Session am 
-            <date when="1897-06-02" xml:id="Bae_TB_1_2854">2. Juni 1897</date>
+            <date when="1897-06-02" type="diaryEntry" xml:id="Bae_TB_1_2854">2. Juni 1897</date>
           </hi>
         </head>
         <p xml:id="Bae_TB_1_2855">Es kann nicht meine Absicht sein, diesen Sessionsabschnitt in allen seinen Phasen, mit seiner steigenden Leidenschaft, der Ratlosigkeit der Regierung und dem 
@@ -5591,14 +5592,14 @@
           </app>
         </p>
       </div>
-      <div n="1897-10" type="diaryEntry" xml:id="Bae_TB_1_3984">
+      <div type="diaryEntry" xml:id="Bae_TB_1_3984">
         <!-- Hinweis mit Bleistift: geschrieben Anfang Oktober 1897 Lünz -->
         <pb facs="#F_K-6_Bae_TB_1_119" n="59v" xml:id="Bae_TB_1_5750"/>
         <note type="editorial" xml:id="Bae_TB_1_5814">Diese Seite ist leer.</note>
         <pb facs="#F_K-6_Bae_TB_1_120" n="60r" xml:id="Bae_TB_1_3985"/>
         <anchor xml:id="Bae_TB_1_3986"/>
         <head xml:id="Bae_TB_1_3987">
-          <hi rendition="#ul" xml:id="Bae_TB_1_3988">V. Die Sommerferien 1897</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_1_3988">V. Die Sommerferien 1897</hi><date when="1897-10" type="diaryEntry"></date>
         </head>
         <app from="#Bae_MF_1_1899" type="equal" xml:id="Bae_TB_1_3989">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_3990">V. Die Sommerferien 1897.</rdg>
@@ -7096,7 +7097,7 @@
           <placeName key="Sylt" ref="https://www.geonames.org/2824454/sylt.html" xml:id="Bae_TB_1_5013">Sylt</placeName>, dann nach 
           <placeName key="Norderney" ref="https://www.geonames.org/6557460/norderney.html" xml:id="Bae_TB_1_5014">Norderney</placeName>. An beiden Orten traf ich mit vielen Österreichern zusammen – immer totale Rathlosigkeit über unsere innern Verhältnisse. An ersterem Ort sprach ich mehrmals eingehend mit 
           <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195" xml:id="Bae_TB_1_5015">Szögyeny</persName>. Damals war noch die Obstruction im 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_1_5016">ungarischen Parlament</orgName> im Gange. Für 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_1_5016">ungarischen Parlament</orgName> im Gange. Für 
           <hi rendition="#ul" xml:id="Bae_TB_1_5017">diese</hi> Schwierigkeit, meinte er, gibt es mehr als einen Ausweg, für die österreichische Situation 
           <app from="#Bae_MF_1_2108" type="equal" xml:id="Bae_TB_1_5018">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5019">Wochen an die See, zuerst nach Sylt, dann nach Norderney. An beiden Orten traf ich mit vielen Oesterreichern zusammen – immer totale Ratlosigkeit über unsere innern Verhältnisse. Am ersteren Ort sprach ich mehrmals eingehend mit Szögyeny. Damals war noch die Obstruktion im ungarischen Parlament im Gange. Für diese Schwierigkeit, meinte er, gibt es mehr als einen Ausweg, für die österreichische Situation</rdg>

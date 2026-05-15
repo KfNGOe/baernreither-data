@@ -77,7 +77,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_2_49">
     <body xml:id="Bae_TB_2_50">
-      <div n="1897-09" type="diaryEntry" xml:id="Bae_TB_2_51">
+      <div type="diaryEntry" xml:id="Bae_TB_2_51"><head><date when="1897-09" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_2_52">
           <anchor xml:id="Bae_TB_2_53"/>
           <app from="#Bae_MF_1_2445" type="missing" xml:id="Bae_TB_2_54">
@@ -300,10 +300,10 @@
           </app>
         </p>
       </div>
-      <div n="1897-10" type="diaryEntry" xml:id="Bae_TB_2_209">
+      <div type="diaryEntry" xml:id="Bae_TB_2_209">
         <anchor xml:id="Bae_TB_2_210"/>
         <head xml:id="Bae_TB_2_211">
-          <hi rendition="#ul" xml:id="Bae_TB_2_212">I. Anfänge der Herbstsession 1897</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_2_212">I. Anfänge der Herbstsession 1897</hi><date when="1897-10" type="diaryEntry"></date>
         </head>
         <app from="#Bae_MF_1_2513" type="equal" xml:id="Bae_TB_2_213">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_214">I. Anfänge der Herbstsession 1897</rdg>
@@ -585,11 +585,11 @@
           <persName key="KathreinTheodor" ref="https://d-nb.info/gnd/11903235X" xml:id="Bae_TB_2_409">Kathrein</persName> machte gar kein Hehl daraus. Hier setzten wir – leider nur mit teilweisem Erfolge – unsere Hebel an. 
         </p>
       </div>
-      <div n="1897-10-26" type="diaryEntry" xml:id="Bae_TB_2_410">
+      <div type="diaryEntry" xml:id="Bae_TB_2_410">
         <head xml:id="Bae_TB_2_411">
           <hi rendition="#ul" xml:id="Bae_TB_2_412">II. Unsere Verhandlungen mit 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_413">Baron Dipauli</persName>. 
-          </hi>
+          </hi><date when="1897-10-26" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_414">"Il ne faut jurer de rien" – diese Erfarung macht man in der heutigen Politik auf Schritt 
           <choice xml:id="Bae_TB_2_415">
@@ -1555,7 +1555,7 @@
           </app>
         </p>
       </div>
-      <div n="1897-11" type="diaryEntry" xml:id="Bae_TB_2_1066">
+      <div type="diaryEntry" xml:id="Bae_TB_2_1066">
         <anchor xml:id="Bae_TB_2_1067"/>
         <head xml:id="Bae_TB_2_1068">
           <hi rendition="#ul" xml:id="Bae_TB_2_1069">III. Die 
@@ -1565,7 +1565,7 @@
                 <term key="Ministeranklagen" xml:id="Bae_TB_2_1073"/>
               </index>
             </index>
-          </hi>
+          </hi><date when="1897-11" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_1074">Abgesehen von den 
           <index xml:id="Bae_TB_2_1075">
@@ -2573,7 +2573,7 @@
           </index> nicht die Majorität erhalten. 
         </p>
       </div>
-      <div n="1897-12" type="diaryEntry" xml:id="Bae_TB_2_1762">
+      <div type="diaryEntry" xml:id="Bae_TB_2_1762">
         <head xml:id="Bae_TB_2_1763">
           <hi rendition="#ul" xml:id="Bae_TB_2_1764">IV. Das 
             <index xml:id="Bae_TB_2_1765">
@@ -2582,7 +2582,7 @@
                 <term key="Ausgleichsprovisorium" xml:id="Bae_TB_2_1768"/>
               </index>
             </index>
-          </hi>
+          </hi><date when="1897-12" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_1769">Mir ist heute nicht im Geringsten zweifelhaft, dass, wenn 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1770">Badeni</persName> – wie ich ihm im 
@@ -3156,10 +3156,10 @@
           </app>
         </p>
       </div>
-      <div n="1898-12" type="diaryEntry" xml:id="Bae_TB_2_2158">
+      <div type="diaryEntry" xml:id="Bae_TB_2_2158">
         <anchor xml:id="Bae_TB_2_2159"/>
         <head xml:id="Bae_TB_2_2160">
-          <hi rendition="#ul" xml:id="Bae_TB_2_2161">V. Angeknüpfte Verbindungen</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_2_2161">V. Angeknüpfte Verbindungen</hi><date when="1897-12" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_2162">Gleich bei Beginn der Session wurde von verschiedenen Seiten der Wunsch geäussert, mit der 
           <orgName key="Verfassungspartei" xml:id="Bae_TB_2_2163">Verfassungsgruppe des Herrenhauses</orgName>, das heisst mit dem Exekutivcomité desselben in Fühlung zu treten. 
@@ -3285,12 +3285,10 @@
           </app>
         </p>
       </div>
-      <div n="1898-02" xml:id="Bae_TB_2_2254">
-        <p xml:id="Bae_TB_2_2255">
+      <div type="diaryEntry" xml:id="Bae_TB_2_2254">
           <anchor xml:id="Bae_TB_2_2256"/>
-          <placeName key="Nizza" ref="https://www.geonames.org/2990440/nice.html" xml:id="Bae_TB_2_2257">Nizza</placeName>, im 
-          <date when="1898-01" xml:id="Bae_TB_2_2258">Januar 1898</date>
-        </p>
+          <head><placeName key="Nizza" ref="https://www.geonames.org/2990440/nice.html" xml:id="Bae_TB_2_2257">Nizza</placeName>, im 
+          <date when="1898-01" type="diaryEntry" xml:id="Bae_TB_2_2258">Januar 1898</date></head>
         <p xml:id="Bae_TB_2_2259">Eine andere Verbindung, auf die ich grossen Wert legte, war die mit den 
           <orgName key="ItalienischerKlub" xml:id="Bae_TB_2_2260">Italienern</orgName>. Leider erwiesen sie sich als unverlässlich. Zwanzig Mann stark, könnten sie immerhin eine Rolle im 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_2261">Parlament</orgName> spielen, in Anlehnung an eine andere Partei. So hätten wir mit ihnen 
@@ -3631,11 +3629,11 @@
         <anchor xml:id="Bae_TB_2_6013"/>
         <!-- CA: anchor für addspan -->
       </div>
-      <div n="1898-01" xml:id="Bae_TB_2_2485">
+      <div type="diaryEntry" xml:id="Bae_TB_2_2485">
         <pb facs="#F_K-4_Bae_TB_2_082" n="41r" xml:id="Bae_TB_2_2486"/>
         <anchor xml:id="Bae_TB_2_2487"/>
         <head xml:id="Bae_TB_2_2488">
-          <hi rendition="#ul" xml:id="Bae_TB_2_2489">VI. Die letzten Dinge der Session</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_2_2489">VI. Die letzten Dinge der Session</hi><date when="1898-01" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_2490">Wer in einer spätern Zeit die 
           <index xml:id="Bae_TB_2_2491">
@@ -4371,10 +4369,10 @@
           <rdg xml:id="Bae_TB_2_6257">…</rdg>
         </app>
       </div>
-      <div n="1898-02" xml:id="Bae_TB_2_3012">
+      <div type="diaryEntry" xml:id="Bae_TB_2_3012">
         <anchor xml:id="Bae_TB_2_3013"/>
         <head xml:id="Bae_TB_2_3014">
-          <hi rendition="#ul" xml:id="Bae_TB_2_3015">VII. Die neue Regierung</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_2_3015">VII. Die neue Regierung</hi><date when="1898-02" type="diaryEntry"></date>
         </head>
         <app from="#Bae_MF_1_3715" type="notEqual" xml:id="Bae_TB_2_3016">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3017">Die neue Regierung</rdg>
@@ -5153,7 +5151,8 @@
         <!-- CA: ab hier korrespondiert das TB dann mit MF_2 -->
         <p xml:id="Bae_TB_2_3490">x x x</p>
       </div>
-      <div n="1898-11" type="diaryEntry" xml:id="Bae_TB_2_3491">
+      <div type="diaryEntry" xml:id="Bae_TB_2_3491">
+        <head><date when="1898-11" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_2_3492">
           <anchor xml:id="Bae_TB_2_3493"/>
           <app from="#Bae_MF_2_56" type="missing" xml:id="Bae_TB_2_3494">
@@ -7355,18 +7354,11 @@
           <note type="editorial" xml:id="Bae_TB_2_6150">Diese Seite ist leer.</note>
         </p>
       </div>
-      <div n="1898-09" type="diaryEntry" xml:id="Bae_TB_2_5023">
-        <p xml:id="Bae_TB_2_5024">
-          <pb facs="#F_K-4_Bae_TB_2_172" n="86r" xml:id="Bae_TB_2_5025"/>I. 
-          <hi rendition="#ul" xml:id="Bae_TB_2_5026">Meine 
-            <index xml:id="Bae_TB_2_5027">
-              <term key="Baernreither" xml:id="Bae_TB_2_5028">Informationsreisen</term>
-              <index xml:id="Bae_TB_2_5029">
-                <term key="Informationsreisen" xml:id="Bae_TB_2_5030"/>
-              </index>
-            </index>
-          </hi>
-        </p>
+      <div type="diaryEntry" xml:id="Bae_TB_2_5023">
+          <pb facs="#F_K-4_Bae_TB_2_172" n="86r" xml:id="Bae_TB_2_5025"/> 
+          <head><hi rendition="#ul" xml:id="Bae_TB_2_5026">I. Meine 
+            Informationsreisen
+          </hi><date when="1898-09" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_2_5031">Ich musste mir beim Antritt meines Amtes bekennen, dass ich die 
           <index xml:id="Bae_TB_2_5032">
             <term key="Oesterreich" xml:id="Bae_TB_2_5033">

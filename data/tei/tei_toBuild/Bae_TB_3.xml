@@ -78,7 +78,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_3_50">
     <body xml:id="Bae_TB_3_51">
-      <div n="1898-09-22" type="diaryEntry" xml:id="Bae_TB_3_52">
+      <div type="diaryEntry" xml:id="Bae_TB_3_52"><head><date when="1898-09-22" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_3_5608"/>
         <pb facs="#F_K-4_Bae_TB_3_003" n="1v" xml:id="Bae_TB_3_63"/>
         <addSpan spanTo="#Bae_TB_3_5510" type="insertion" xml:id="Bae_TB_3_61"/>
@@ -1099,12 +1099,12 @@
           </app>
         </p>
       </div>
-      <div n="1898-07" type="diaryEntry" xml:id="Bae_TB_3_783">
+      <div type="diaryEntry" xml:id="Bae_TB_3_783">
         <anchor xml:id="Bae_TB_3_784"/>
         <head xml:id="Bae_TB_3_785">
           <hi rendition="#ul" xml:id="Bae_TB_3_786">II. Die Perpetien der 
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_787">Thun'schen</persName> Politik. 
-          </hi>
+          </hi><date when="1898-07" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_3_788">Im Frühjahr 
           <choice xml:id="Bae_TB_3_789">
@@ -1782,9 +1782,8 @@
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_1290">Thun</persName> in einer neuen Form, eine Phase an der ich als Minister nicht mehr teilnahm. 
         </p>
       </div>
-      <div n="1898–07-24" xml:id="Bae_TB_3_1291">
-        <p xml:id="Bae_TB_3_1292">
-          <hi rendition="#ul" xml:id="Bae_TB_3_1293">Von der Vertagung des 
+      <div type="diaryEntry" xml:id="Bae_TB_3_1291">
+          <head><hi rendition="#ul" xml:id="Bae_TB_3_1293">Von der Vertagung des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_1294">Reichsrats</orgName> am 
             <date when="1898-06-12" xml:id="Bae_TB_3_1295">12. Juni</date> bis zu seiner 
             <index xml:id="Bae_TB_3_1296">
@@ -1793,9 +1792,8 @@
                 <term key="Schließung" xml:id="Bae_TB_3_1299"/>
               </index>
             </index> am 
-            <date when="1898-07-24" xml:id="Bae_TB_3_1300">24. Juli</date>. 
-          </hi>
-        </p>
+            <date when="1898-07-24" type="diaryEntry" xml:id="Bae_TB_3_1300">24. Juli</date>. 
+          </hi></head>
         <p xml:id="Bae_TB_3_1301">Da ich die Verhandlungen über ein Sprachengesetz im Zusammenhang mit dem 
           <add place="across" xml:id="Bae_TB_3_1302">frühern Stadium der Sache</add> abgesondert darstellen will, möchte ich nur einige markante Ereignisse hervorheben, die in diesen Zeitraum fallen. Es war dies vor Allem die 
           <persName key="PalackyFrantisek" ref="https://d-nb.info/gnd/118789260" xml:id="Bae_TB_3_1303">Palacky</persName>feier in 
@@ -2720,8 +2718,9 @@
           <note type="editorial" xml:id="Bae_TB_3_5390">Diese Seite ist leer.</note>
         </p>
       </div>
-      <div n="1898–09-26" type="diaryEntry" xml:id="Bae_TB_3_1961">
+      <div type="diaryEntry" xml:id="Bae_TB_3_1961">
         <pb facs="#F_K-4_Bae_TB_3_066" n="36r" xml:id="Bae_TB_3_1962"/>
+        <head><date when="1898-09-26" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_3_1963">
           <anchor xml:id="Bae_TB_3_1964"/>
           <hi rendition="#ul" xml:id="Bae_TB_3_1965">Von der 
@@ -3618,7 +3617,7 @@
           </app>
         </p>
       </div>
-      <div n="1898-08" type="diaryEntry" xml:id="Bae_TB_3_2569">
+      <div type="diaryEntry" xml:id="Bae_TB_3_2569">
         <anchor xml:id="Bae_TB_3_2570"/>
         <head xml:id="Bae_TB_3_2571">
           <hi rendition="#ul" xml:id="Bae_TB_3_2572">III. 
@@ -3628,7 +3627,7 @@
                 <term key="Sprachenfrage" xml:id="Bae_TB_3_2576"/>
               </index>
             </index>
-          </hi>
+          </hi><date when="1898-08" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_3_2577">Wenn ich jetzt so im Zusammenhang zurückblicke auf die Action 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2578">Thun's</persName> in der 
@@ -4637,7 +4636,7 @@
           </app>
         </p>
       </div>
-      <div n="1898-09" type="diaryEntry" xml:id="Bae_TB_3_3292">
+      <div type="diaryEntry" xml:id="Bae_TB_3_3292">
         <anchor xml:id="Bae_TB_3_5325"/>
         <head xml:id="Bae_TB_3_3293">
           <hi rendition="#ul" xml:id="Bae_TB_3_3294">IV. Der 
@@ -4649,7 +4648,7 @@
                 <term key="Ausgleich" xml:id="Bae_TB_3_3299"/>
               </index>
             </index>. 
-          </hi>
+          </hi><date when="1898-09" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_3_3300">Als ich mein Amt antrat, hatte ich zwei längere Unterredungen mit 
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_3_3301">Körber</persName>, der mir in einer sehr liebenswürdigen Weise die Agenden des 
@@ -6425,7 +6424,7 @@
             </index>
           </index> als einen Bruch der Vereinbarungen, ja als eine Illoyalität auffasste. 
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_TB_3_4558">Banffy</persName> musste den bis zu diesem Datum vertagten 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_3_4559">
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_3_4559">
             <choice xml:id="Bae_TB_3_4560">
               <abbr xml:id="Bae_TB_3_4561">R.T.</abbr>
               <expan xml:id="Bae_TB_3_4562">Reichstag</expan>
@@ -6700,7 +6699,7 @@
               <expan xml:id="Bae_TB_3_4765">September</expan>
             </choice>
           </date>. Das 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_3_4766">
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_3_4766">
             <choice xml:id="Bae_TB_3_4767">
               <abbr xml:id="Bae_TB_3_4768">ungar.</abbr>
               <expan xml:id="Bae_TB_3_4769">ungarische</expan>
@@ -6864,7 +6863,7 @@
               <term key="Paragraph14" xml:id="Bae_TB_3_4882"/>
             </index>
           </index> vorgehen, noch bevor das 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_3_4883">
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_TB_3_4883">
             <choice xml:id="Bae_TB_3_4884">
               <abbr xml:id="Bae_TB_3_4885">ungar.</abbr>
               <expan xml:id="Bae_TB_3_4886">ungarische</expan>

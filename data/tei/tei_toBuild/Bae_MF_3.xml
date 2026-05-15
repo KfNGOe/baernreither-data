@@ -77,7 +77,7 @@
   </teiHeader>
   <text xml:id="Bae_MF_3_52">
     <body xml:id="Bae_MF_3_53">
-      <div xml:id="Bae_MF_3_54">
+      <div type="chapter" xml:id="Bae_MF_3_54"><head><title type="short">Inhaltsverzeichnis</title></head>
         <pb facs="#F_K-11_Bae_MF_3_005" n="246r" xml:id="Bae_MF_3_55"/>
         <anchor xml:id="Bae_MF_3_56"/>
         <p xml:id="Bae_MF_3_57">Die Herbstsession 1898 und meine Berliner Reise Seite 247–268 
@@ -104,15 +104,14 @@
         <pb facs="#F_K-11_Bae_MF_3_006" n="246v" xml:id="Bae_MF_3_70"/>
         <note type="editorial" xml:id="Bae_MF_3_71">Diese Seite ist leer.</note>
       </div>
-      <div n="1899-02" type="diaryEntry" xml:id="Bae_MF_3_72">
-        <p xml:id="Bae_MF_3_73">
+      <div type="chapter" xml:id="Bae_MF_3_72">
+        
           <pb facs="#F_K-11_Bae_MF_3_007" n="247r" xml:id="Bae_MF_3_74"/>
           <anchor xml:id="Bae_MF_3_75"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_76">Die Herbstsession 
+          <head><hi rendition="#ul" xml:id="Bae_MF_3_76"><title type="main">Die Herbstsession 
             <date when="1898" xml:id="Bae_MF_3_77">1898</date> und meine 
             <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_MF_3_78">Berliner</placeName> Reise 
-          </hi>
-        </p>
+          </title><title type="short">Herbstsession</title></hi></head>
         <p xml:id="Bae_MF_3_79">Weder auf Seite der Regierung noch auf Seite der 
           <index xml:id="Bae_MF_3_80">
             <term key="Parteien" xml:id="Bae_MF_3_81">deutschen Parteien</term>
@@ -657,14 +656,13 @@
         <pb facs="#F_K-11_Bae_MF_3_030" n="257v" xml:id="Bae_MF_3_475"/>
         <note type="editorial" xml:id="Bae_MF_3_476">Diese Seite ist leer.</note>
       </div>
-      <div n="1899-04" type="diaryEntry" xml:id="Bae_MF_3_477">
+      <div type="chapter" xml:id="Bae_MF_3_477">
         <pb facs="#F_K-11_Bae_MF_3_031" n="258r" xml:id="Bae_MF_3_478"/>
-        <p xml:id="Bae_MF_3_479">
+        
           <anchor xml:id="Bae_MF_3_480"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_481">Die Wintermonate 
+          <head><hi rendition="#ul" xml:id="Bae_MF_3_481"><title type="main">Die Wintermonate 
             <date when="1899" xml:id="Bae_MF_3_482">1899</date>
-          </hi>
-        </p>
+          </title><title type="short">Wintermonate 1899</title></hi></head>
         <p xml:id="Bae_MF_3_483">Eine kurze Reichsrats Session, Besprechungen, Diners zum Zweck von Besprechungen, Konferenzen im größern, kleineren und kleinsten Kreise füllten von Mitte 
           <date when="1899-01" xml:id="Bae_MF_3_484">Jänner</date> bis Mitte 
           <date when="1899-03" xml:id="Bae_MF_3_485">März</date> – leider fast vollauf – meine Zeit. Doch kam ich dazu, ausser einer kleinen Flut von Brochüren über die 
@@ -696,7 +694,7 @@
               <term key="DeutschenParteien" xml:id="Bae_MF_3_506"/>
             </index>
           </index> zu einer gemeinsamen Kundgebung sowie zu dem Beschluß auf, die national-politischen Forderungen der Deutschen 
-          <orgName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_3_507">Oesterreichs</orgName> zu formulieren, zu welchem Zwecke jede Partei eine Anzahl von Delegierten bestimmte. Ueber 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_3_507">Oesterreichs</placeName> zu formulieren, zu welchem Zwecke jede Partei eine Anzahl von Delegierten bestimmte. Ueber 
           <app from="#Bae_TB_4_8727" type="equal" xml:id="Bae_MF_3_508">
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_3_509">Die Wintermonate 1899. Eine kurze R.R. Session, Besprechungen, Diner's zum Zweck von Besprechungen, Conferenzen im grössern, kleinern u. kleinsten Kreise füllten von Mitte Jänner bis Mitte März – leider fast vollauf – meine Zeit. Doch kam ich dazu, ausser einer kleinen Fluth von Brochüren über die Sprachenfrage das Buch von Friedjunk über die Vorherrschaft in Deutschland und Vieles von dem ehemal. deutschen Gesandten in Ostasien Brand über China u. Japan sowie ostasiatische Politik zu lesen. Die R.R.Session war geradezu insipid. Zwei kurze Sitzungen wöchentlich, die ödeste technische Obstruction, nicht der leiseste Versuch der Regierung irgendwie einzugreifen, eine apathische Majorität, in der nur die Čechen grosse Behendigkeit in der Aufstellung u. Einheimsung ihrer Postulate zeigten. Zum Schluss eine Abstimmung über den Beginn der Wirksamkeit des Dienergesetzes, bei der die Regierung in der Minorität blieb, worauf sie den R.R. vertagte. Am Schluss rafften sich die deutschen Parteien zu einer gemeinsamen Kundgebung sowie zu dem Beschluss auf, die national-polit. Forderungen der Deutschen Österreichs zu formuliren, zu welchem Zwecke jede Partei eine Anzal von Delegirten bestimmte. Ueber</rdg>
           </app>
@@ -1224,12 +1222,12 @@
         <pb facs="#F_K-11_Bae_MF_3_052" n="268v" xml:id="Bae_MF_3_892"/>
         <note type="editorial" xml:id="Bae_MF_3_893">Diese Seite ist leer.</note>
       </div>
-      <div n="1899-05-27" type="diaryEntry" xml:id="Bae_MF_3_894">
+      <div type="chapter" xml:id="Bae_MF_3_894">
         <pb facs="#F_K-11_Bae_MF_3_053" n="269r" xml:id="Bae_MF_3_895"/>
-        <p xml:id="Bae_MF_3_896">
-          <anchor xml:id="Bae_MF_3_897"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_898">Die nationalpolitischen Forderungen der Deutschen</hi>
-        </p>
+        <anchor xml:id="Bae_MF_3_897"/>
+        <head xml:id="Bae_MF_3_896">
+          <hi rendition="#ul" xml:id="Bae_MF_3_898"><title type="main">Die nationalpolitischen Forderungen der Deutschen</title><title type="short">Forderungen der Deutschen</title></hi>
+        </head>
         <p xml:id="Bae_MF_3_899">
           <hi rendition="#ul" xml:id="Bae_MF_3_900">
             <index xml:id="Bae_MF_3_901">
@@ -1754,12 +1752,12 @@
         <pb facs="#F_K-11_Bae_MF_3_076" n="280v" xml:id="Bae_MF_3_1237"/>
         <note type="editorial" xml:id="Bae_MF_3_1238">Diese Seite ist leer.</note>
       </div>
-      <div n="1899-05-30" type="diaryEntry" xml:id="Bae_MF_3_1239">
+      <div type="chapter" xml:id="Bae_MF_3_1239">
         <pb facs="#F_K-11_Bae_MF_3_077" n="281" xml:id="Bae_MF_3_1240"/>
-        <p xml:id="Bae_MF_3_1241">
-          <anchor xml:id="Bae_MF_3_4098"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_1242">Excurs</hi>
-        </p>
+        <anchor xml:id="Bae_MF_3_4098"/>
+        <head xml:id="Bae_MF_3_1241">
+          <hi rendition="#ul" xml:id="Bae_MF_3_1242"><title type="main">Excurs</title><title type="short">Exkurs</title></hi>
+        </head>
         <p xml:id="Bae_MF_3_1243">Eine Geschichte 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_MF_3_1244">Oesterreichs</placeName> im 19. Jahrhundert wird die traurige Aufgabe haben zu zeigen, wie die Stellung die dieser Staat durch die Verträge von 
           <date when="1815" xml:id="Bae_MF_3_1245">1815</date> in 
@@ -1896,14 +1894,14 @@
         <note type="editorial" xml:id="Bae_MF_3_1356">Diese Seite ist leer.</note>
       </div>
       <!-- CA: ab hier korrespondiert es mit TB_5 -->
-      <div n="1899-09-06" type="diaryEntry" xml:id="Bae_MF_3_1357">
+      <div type="chapter" xml:id="Bae_MF_3_1357">
         <pb facs="#F_K-11_Bae_MF_3_085" n="285r" xml:id="Bae_MF_3_1358"/>
-        <p xml:id="Bae_MF_3_1359">
-          <anchor xml:id="Bae_MF_3_1360"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_1361">Die Sommermonate 
-            <date when="1899" xml:id="Bae_MF_3_1362">1899</date>
+        <anchor xml:id="Bae_MF_3_1360"/>
+        <head xml:id="Bae_MF_3_1359">
+          <hi rendition="#ul" xml:id="Bae_MF_3_1361"><title type="main">Die Sommermonate 
+            <date when="1899" xml:id="Bae_MF_3_1362">1899</date></title><title type="short">Sommermonate 1899</title>
           </hi>
-        </p>
+        </head>
         <p xml:id="Bae_MF_3_1363">Ich habe den Sommer 
           <date when="1899" xml:id="Bae_MF_3_1364">99</date>, ähnlich wie 
           <date when="1897" xml:id="Bae_MF_3_1365">1897</date>, größtenteils in 
@@ -3029,18 +3027,18 @@
         <pb facs="#F_K-11_Bae_MF_3_116" n="299v" xml:id="Bae_MF_3_2159"/>
         <note type="editorial" xml:id="Bae_MF_3_2160">Diese Seite ist leer.</note>
       </div>
-      <div n="1899-10-04" type="diaryEntry" xml:id="Bae_MF_3_2161">
+      <div type="chapter" xml:id="Bae_MF_3_2161">
         <pb facs="#F_K-11_Bae_MF_3_117" n="300r" xml:id="Bae_MF_3_2162"/>
-        <p xml:id="Bae_MF_3_2163">
-          <anchor xml:id="Bae_MF_3_4109"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_2164">
+        <anchor xml:id="Bae_MF_3_4109"/>
+        <head xml:id="Bae_MF_3_2163">
+          <hi rendition="#ul" xml:id="Bae_MF_3_2164"><title type="main">
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_3_2165">Thuns</persName> Ende und 
-            <persName key="ClaryManfred" ref="https://d-nb.info/gnd/129157198" xml:id="Bae_MF_3_2166">Clarys</persName> Anfang 
+            <persName key="ClaryManfred" ref="https://d-nb.info/gnd/129157198" xml:id="Bae_MF_3_2166">Clarys</persName> Anfang</title><title type="short">Thuns Ende</title> 
           </hi>. 
           <app from="#Bae_TB_5_2043" type="equal" xml:id="Bae_MF_3_2167">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_2168">Thun's Ende und Clary's Anfang</rdg>
           </app>
-        </p>
+        </head>
         <p xml:id="Bae_MF_3_2169">
           <anchor xml:id="Bae_MF_3_2170"/>Aus der Audienz 
           <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_MF_3_2171">Chlumetzkys</persName> konnte 
@@ -3721,15 +3719,15 @@
           </app>
         </p>
       </div>
-      <div n="1899-10-04" type="diaryEntry" xml:id="Bae_MF_3_2682">
+      <div type="chapter" xml:id="Bae_MF_3_2682">
         <anchor xml:id="Bae_MF_3_2683"/>
-        <p xml:id="Bae_MF_3_2684">
-          <hi rendition="#ul" xml:id="Bae_MF_3_2685">Unterredung des 
+        <head xml:id="Bae_MF_3_2684">
+          <hi rendition="#ul" xml:id="Bae_MF_3_2685"><title type="main">Unterredung des 
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_2686">Kaisers</persName> mit 
             <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_MF_3_2687">Pergelt</persName> am 
-            <date when="1899-09-29" xml:id="Bae_MF_3_2688">29. September 1899</date>
+            <date when="1899-09-29" xml:id="Bae_MF_3_2688">29. September 1899</title></date><title type="short">Pergelt beim Kaiser</title>
           </hi>
-        </p>
+        </head>
         <p xml:id="Bae_MF_3_2689">
           <hi rendition="#ul" xml:id="Bae_MF_3_2690">
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_3_2691">Kaiser</persName>. 
@@ -3915,16 +3913,16 @@
         <pb facs="#F_K-11_Bae_MF_3_135" n="303v" xml:id="Bae_MF_3_2800"/>
         <note type="editorial" xml:id="Bae_MF_3_2801">Diese Seite ist leer.</note>
       </div>
-      <div n="1900-04" type="diaryEntry" xml:id="Bae_MF_3_2802">
+      <div type="chapter" xml:id="Bae_MF_3_2802">
         <pb facs="#F_K-11_Bae_MF_3_136" n="304r" xml:id="Bae_MF_3_2803"/>
-        <p xml:id="Bae_MF_3_2804">
-          <anchor xml:id="Bae_MF_3_2805"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_2806">
+        <anchor xml:id="Bae_MF_3_2805"/>
+        <head xml:id="Bae_MF_3_2804">
+          <hi rendition="#ul" xml:id="Bae_MF_3_2806"><title type="main">
             <persName key="ClaryManfred" ref="https://d-nb.info/gnd/129157198" xml:id="Bae_MF_3_2807">Clary</persName>, 
             <persName key="WittekHeinrich" ref="https://d-nb.info/gnd/117582808" xml:id="Bae_MF_3_2808">Wittek</persName>, 
             <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_3_2809">Körber</persName>
-          </hi>
-        </p>
+          </title><title type="short">Clary, Wittek, Körber</title></hi>
+        </head>
         <p xml:id="Bae_MF_3_2810">Daß die Sprachenverordnungen ein falscher Schritt waren, unrecht gegen die Deutschen, unrecht noch viel mehr gegen den Staat – das gibt heute jeder (auch die ruhig denkenden unter den Čechen) – zu. Und doch hatte es 2 1/2 Jahre gedauert, bis sie behoben waren. Die Zerstörungen, welche dadurch im öffentlichen und parlamentarischen Leben verursacht wurden, sind unabsehbar, denn wir stehen noch keineswegs am Ende der Entwicklung, die von der Erlassung der 
           <index xml:id="Bae_MF_3_2811">
             <term key="Reichsrat" xml:id="Bae_MF_3_2812">Sprachenverordnungen</term>
@@ -4680,14 +4678,14 @@
           </app>
         </p>
       </div>
-      <div n="1900-05-05" type="diaryEntry" xml:id="Bae_MF_3_3389">
-        <p xml:id="Bae_MF_3_3390">
-          <anchor xml:id="Bae_MF_3_4154"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_3391">
+      <div type="chapter" xml:id="Bae_MF_3_3389">
+        <anchor xml:id="Bae_MF_3_4154"/>
+        <head xml:id="Bae_MF_3_3390">
+          <hi rendition="#ul" xml:id="Bae_MF_3_3391"><title type="main">
             <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_MF_3_3392">Paris</placeName> und 
             <placeName key="Donaueschingen" ref="https://www.geonames.org/2936267/donaueschingen.html" xml:id="Bae_MF_3_3393">Donaueschingen</placeName>
-          </hi>
-        </p>
+          </title><title type="short">Paris</title></hi>
+        </head>
         <p xml:id="Bae_MF_3_3394">Meine Reise nach 
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_MF_3_3395">Paris</placeName> zur Eröffnung der 
           <index xml:id="Bae_MF_3_3396">
@@ -4832,7 +4830,7 @@
           <add place="across" xml:id="Bae_MF_3_3510">durch</add>prüften, und um 2 Uhr Eröffnung der Ausstellung. Wir warfen uns in große Gala und fuhren zeitlich ab. Sehr pompös, die Festhalle großartig, die Ordnung anfangs musterhaft. Im Ganzen die republikanische mise en scène den mo 
           <del rendition="#s" xml:id="Bae_MF_3_3511">ran</del>
           <add place="across" xml:id="Bae_MF_3_3512">nar</add>chischen Festen dieser Art nicht nachstehend. Freilich auch republikanische Freiheiten. Während das Staatsoberhaupt sprach, stehend die Eröffnungsrede hielt, saß – mit Ausnahme der fremden Gäste – das ganze Parterre! Abend war ein Diner des Generalkommissariats im 
-          <orgName key="Cardinal" xml:id="Bae_MF_3_3513">Restaurant Cardinal</orgName>. Große gegenseitige Anstrudelung unserer Funktionäre bei der Ausstellung. Nach dem Diner traf ich noch 
+          <orgName key="RestaurantCardinal" xml:id="Bae_MF_3_3513">Restaurant Cardinal</orgName>. Große gegenseitige Anstrudelung unserer Funktionäre bei der Ausstellung. Nach dem Diner traf ich noch 
           <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_MF_3_3514">Auersperg</persName> und 
           <app from="#Bae_TB_5_5031" type="equal" xml:id="Bae_MF_3_3515">
             <rdg wit="Bae_TB_5" xml:id="Bae_MF_3_3516">insb. die Burgunderkarte prüften, u. um 2 Uhr Eröffnung der Ausstellung. Wir warfen uns in grosse Gala u. fuhren zeitlich ab. Sehr pompös, die Festhalle grossartig, die Ordnung anfangs musterhaft. Im Ganzen die republicanische mise en scène den monarchischen Festen dieser Art nicht nachstehend. Freilich auch republicanische Freiheiten. Während das Staatsoberhaupt sprach, stehend die Eröffnungsrede hielt, sass – mit Ausnahme der fremden Gäste – das ganze Parterre! Abend war ein Diner des Generalcommissariats im Restaurant Cardinal. Grosse gegenseitige Anstrudelung unserer Funktionäre bei der Ausstellung. Nach dem Diner traf ich noch Aperg u.</rdg>
@@ -5162,13 +5160,13 @@
           </app>
         </p>
       </div>
-      <div n="1900-09" type="diaryEntry" xml:id="Bae_MF_3_3788">
-        <p xml:id="Bae_MF_3_3789">
-          <anchor xml:id="Bae_MF_3_3790"/>
-          <hi rendition="#ul" xml:id="Bae_MF_3_3791">Die Sommermonate 
+      <div type="chapter" xml:id="Bae_MF_3_3788">
+        <anchor xml:id="Bae_MF_3_3790"/>
+        <head xml:id="Bae_MF_3_3789">
+          <hi rendition="#ul" xml:id="Bae_MF_3_3791"><title type="main">Die Sommermonate 
             <date when="1900" xml:id="Bae_MF_3_3792">1900</date>
-          </hi>
-        </p>
+          </title><title type="short">Sommer 1900</title></hi>
+        </head>
         <p xml:id="Bae_MF_3_3793">
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_3_3794">Körbers</persName> Fleiß, Kenntnisse, seine Zurückhaltung und Vorsicht sind groß und wären ausreichend eine große politische Figur aus ihm zu machen, seine Entschlußfähigkeit und seine Tatkraft sind gering und werden zu der Aufgabe, die ihm gestellt ist voraussichtlich nicht ausreichen. Jedermann sagte es sich nach der Delegationssession im Frühjahr, daß die Regierung 1 1/2 Jahre Zeit gewonnen habe, da die nächsten 
           <index xml:id="Bae_MF_3_3795">

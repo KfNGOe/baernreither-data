@@ -77,13 +77,13 @@
   </teiHeader>
   <text xml:id="Bae_MF_2_52">
     <body xml:id="Bae_MF_2_53">
-      <div n="1898-10" type="diaryEntry" xml:id="Bae_MF_2_54">
+      <div type="chapter" xml:id="Bae_MF_2_54">
         <!-- CA: zu kontrollieren ist noch die Einteilung in divs -->
         <pb facs="#F_K-11_Bae_MF_2_008" n="103" xml:id="Bae_MF_2_55"/>
         <anchor xml:id="Bae_MF_2_56"/>
         <head xml:id="Bae_MF_2_57">
-          <hi rendition="#ul" xml:id="Bae_MF_2_58">Das Ministerium Thun.</hi>(Lünz und Wien, Oktober und November 1898.) 
-        </head>
+          <hi rendition="#ul" xml:id="Bae_MF_2_58"><title type="main">Das Ministerium Thun.</hi>(Lünz und Wien, Oktober und November 1898.)</title> 
+        <title type="short">Ministerium Thun</title></head>
         <app from="#Bae_TB_2_3493" type="missing" xml:id="Bae_MF_2_59">
           <rdg wit="#Bae_TB_2" xml:id="Bae_MF_2_60"/>
         </app>
@@ -1066,9 +1066,9 @@
           </index> erwarb. 
         </p>
       </div>
-      <div n="1898–09" type="diaryEntry" xml:id="Bae_MF_2_751">
+      <div type="chapter" xml:id="Bae_MF_2_751">
         <p xml:id="Bae_MF_2_752">I. 
-          <hi rendition="#ul" xml:id="Bae_MF_2_753">Meine Informationsreisen</hi>
+          <hi rendition="#ul" xml:id="Bae_MF_2_753"><title type="main">Meine Informationsreisen</title><title type="short">Informationsreisen</title></hi>
         </p>
         <p xml:id="Bae_MF_2_754">Ich musste mir beim Antritt meines Amtes bekennen, daß ich die 
           <index xml:id="Bae_MF_2_755">
@@ -2235,12 +2235,12 @@
           </app>
         </p>
       </div>
-      <div n="1898–06" type="diaryEntry" xml:id="Bae_MF_2_1607">
+      <div type="chapter" xml:id="Bae_MF_2_1607">
         <anchor xml:id="Bae_MF_2_1608"/>
         <head xml:id="Bae_MF_2_1609">
-          <hi rendition="#ul" xml:id="Bae_MF_2_1610">II. Die Perpetien der 
+          <hi rendition="#ul" xml:id="Bae_MF_2_1610"><title type="main">II. Die Perpetien der 
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_2_1611">Thun'schen</persName> Politik. 
-          </hi>
+          </title><title type="short">Thuns Politik</title></hi>
         </head>
         <p xml:id="Bae_MF_2_1612">Im Frühjahr und Sommer 
           <date when="1898" xml:id="Bae_MF_2_1613">1898</date> liefen einige Angelegenheiten parallell, ineinandergreifend, sich teilweise bedingend und hemmend: die Versuche, das 
@@ -2677,9 +2677,9 @@
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_MF_2_1945">Thun</persName> in einer neuen Form, eine Phase, an der ich als Minister nicht mehr teilnahm. 
         </p>
       </div>
-      <div n="1898-07–24" type="diaryEntry" xml:id="Bae_MF_2_1946">
+      <div type="chapter" xml:id="Bae_MF_2_1946">
         <p xml:id="Bae_MF_2_1947">
-          <hi rendition="#ul" xml:id="Bae_MF_2_1948">Von der Vertagung des 
+          <hi rendition="#ul" xml:id="Bae_MF_2_1948"><title type="main">Von der Vertagung des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_2_1949">Reichsrats</orgName> am 
             <date when="1898-06-12" xml:id="Bae_MF_2_1950">12. Juni</date> bis zu seiner 
             <index xml:id="Bae_MF_2_1951">
@@ -2688,7 +2688,7 @@
                 <term key="Schließung" xml:id="Bae_MF_2_1954"/>
               </index>
             </index> am 
-            <date when="1898-07-24" xml:id="Bae_MF_2_1955">24. Juli</date>. 
+            <date when="1898-07-24" xml:id="Bae_MF_2_1955">24. Juli</date>.</title><title type="short">Schließung Reichsrat</title> 
           </hi>
         </p>
         <p xml:id="Bae_MF_2_1956">Da ich die Verhandlungen über ein Sprachengesetz im Zusammenhang mit dem früheren Stadium der Sache abgesondert darstellen will, möchte ich nur einige markante Ereignisse hervorheben, die in diesen Zeitraum fallen. Es war dies vor Allem die 
@@ -3163,10 +3163,10 @@
           </app>
         </p>
       </div>
-      <div n="1898-09-26" type="diaryEntry" xml:id="Bae_MF_2_2303">
+      <div type="chapter" xml:id="Bae_MF_2_2303">
         <p xml:id="Bae_MF_2_2304">
           <anchor xml:id="Bae_MF_2_2305"/>
-          <hi rendition="#ul" xml:id="Bae_MF_2_2306">Von der 
+          <hi rendition="#ul" xml:id="Bae_MF_2_2306"><title type="main">Von der 
             <index xml:id="Bae_MF_2_2307">
               <term key="Reichsrat" xml:id="Bae_MF_2_2308">Schließung des 
                 <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_2_2309">Reichsrates</orgName>
@@ -3182,7 +3182,7 @@
                 <term key="Eroeffnung" xml:id="Bae_MF_2_2316"/>
               </index>
             </index> am 
-            <date when="1898-09-26" xml:id="Bae_MF_2_2317">26. September</date>. 
+            <date when="1898-09-26" xml:id="Bae_MF_2_2317">26. September</date>.</title><title type="short">Wiedereröffnung Reichsrat</title> 
           </hi>
         </p>
         <p xml:id="Bae_MF_2_2318">Durch die 
@@ -3621,16 +3621,16 @@
           </app>
         </p>
       </div>
-      <div n="1898" type="diaryEntry" xml:id="Bae_MF_2_2628">
+      <div type="chapter" xml:id="Bae_MF_2_2628">
         <anchor xml:id="Bae_MF_2_2629"/>
         <head xml:id="Bae_MF_2_2630">
-          <hi rendition="#ul" xml:id="Bae_MF_2_2631">III. 
+          <hi rendition="#ul" xml:id="Bae_MF_2_2631"><title type="main">III. 
             <index xml:id="Bae_MF_2_2632">
               <term key="Nationalitaetenkonflikt" xml:id="Bae_MF_2_2633">Die Sprachenfrage</term>
               <index xml:id="Bae_MF_2_2634">
                 <term key="Sprachenfrage" xml:id="Bae_MF_2_2635"/>
               </index>
-            </index>
+            </index></title><title type="short">Sprachenfrage</title>
           </hi>
         </head>
         <p xml:id="Bae_MF_2_2636">Wenn ich jetzt so im Zusammenhang zurückblicke auf die Aktion 
@@ -4134,10 +4134,10 @@
           </app>
         </p>
       </div>
-      <div n="1898-10" type="diaryEntry" xml:id="Bae_MF_2_3007">
+      <div type="chapter" xml:id="Bae_MF_2_3007">
         <anchor xml:id="Bae_MF_2_3008"/>
         <head xml:id="Bae_MF_2_3009">
-          <hi rendition="#ul" xml:id="Bae_MF_2_3010">IV. Der 
+          <hi rendition="#ul" xml:id="Bae_MF_2_3010"><title type="main">IV. Der 
             <index xml:id="Bae_MF_2_3011">
               <term key="OesterreichUngarn" xml:id="Bae_MF_2_3012">Ausgleich mit 
                 <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_2_3013">Ungarn</placeName>
@@ -4145,7 +4145,7 @@
               <index xml:id="Bae_MF_2_3014">
                 <term key="Ausgleich" xml:id="Bae_MF_2_3015"/>
               </index>
-            </index>. 
+            </index>.</title><title type="short">Ausgleich Ungarn</title>
           </hi>
         </head>
         <p xml:id="Bae_MF_2_3016">Als ich mein Amt antrat, hatte ich zwei längere Unterredungen mit 
@@ -5202,7 +5202,7 @@
             </index>
           </index> als einen Bruch der Vereinbarungen, ja als eine Illoyalität auffasste. 
           <persName key="BanffyDezso" ref="https://d-nb.info/gnd/14386680X" xml:id="Bae_MF_2_3789">Banffy</persName> musste den bis zu diesem Datum vertagten 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_2_3790">Reichstag</orgName> am 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_2_3790">Reichstag</orgName> am 
           <date when="1898-09-05" xml:id="Bae_MF_2_3791">5. September</date> wieder eröffnen und verlangte, daß auch der 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_MF_2_3792">österreichische Reichsrat</orgName> bis dahin wieder eröffnet werde, da sonst der 
           <index xml:id="Bae_MF_2_3793">
@@ -5326,7 +5326,7 @@
             </index>
           </index> die Ausgleichsgesetze promulgieren, spätestens am 
           <date when="1898-09-05" xml:id="Bae_MF_2_3887">5. September</date>. Das 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_2_3888">ungarische Parlament</orgName> soll dann mit der parlamentarischen Behandlung derselben nachfolgen. Die 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_2_3888">ungarische Parlament</orgName> soll dann mit der parlamentarischen Behandlung derselben nachfolgen. Die 
           <index xml:id="Bae_MF_2_3889">
             <term key="OesterreichUngarn" xml:id="Bae_MF_2_3890">Quote</term>
             <index xml:id="Bae_MF_2_3891">
@@ -5435,7 +5435,7 @@
               <term key="Paragraph14" xml:id="Bae_MF_2_3966"/>
             </index>
           </index> vorgehen, noch bevor das 
-          <orgName key="ungarReichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_2_3967">ungarische Parlament</orgName> sein diesbezügliches Gesetz beraten und beschlossen habe. Der 
+          <orgName key="Reichstag" ref="https://d-nb.info/gnd/4194545-1" xml:id="Bae_MF_2_3967">ungarische Parlament</orgName> sein diesbezügliches Gesetz beraten und beschlossen habe. Der 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_MF_2_3968">Handelsminister</persName> wendet dagegen ein, daß eine solche Publizierung lediglich ein 
           <hi rendition="#ul" xml:id="Bae_MF_2_3969">Anbot</hi> wäre, von dem man sicher sein müsste, daß es angenommen wird. 
           <hi rendition="#ul" xml:id="Bae_MF_2_3970">Vor</hi> der Publizierung müsste 
@@ -7298,17 +7298,17 @@
         <pb facs="#F_K-11_Bae_MF_2_259" n="228v" xml:id="Bae_MF_2_5616"/>
         <note type="editorial" xml:id="Bae_MF_2_5617">Diese Seite ist leer.</note>
       </div>
-      <div n="1898-11" type="diaryEntry" xml:id="Bae_MF_2_5618">
+      <div type="chapter" xml:id="Bae_MF_2_5618">
         <pb facs="#F_K-11_Bae_MF_2_260" n="229r" xml:id="Bae_MF_2_5619"/>
         <p xml:id="Bae_MF_2_5620">
           <anchor xml:id="Bae_MF_2_5621"/>
-          <hi rendition="#ul" xml:id="Bae_MF_2_5622">V. Meine 
+          <hi rendition="#ul" xml:id="Bae_MF_2_5622"><title type="main">V. Meine 
             <index xml:id="Bae_MF_2_5623">
               <term key="Baernreither" xml:id="Bae_MF_2_5624">Demission</term>
               <index xml:id="Bae_MF_2_5625">
                 <term key="Demission" xml:id="Bae_MF_2_5626"/>
               </index>
-            </index>
+            </index></title><title type="short">Demission</title>
           </hi>
         </p>
         <p xml:id="Bae_MF_2_5627">Ich bin mit ganz bestimmten politischen Ideen in das Kabinett 
@@ -8121,14 +8121,13 @@
         <pb facs="#F_K-11_Bae_MF_2_291" n="243v" xml:id="Bae_MF_2_6228"/>
         <note type="editorial" xml:id="Bae_MF_2_6229">Diese Seite ist leer.</note>
       </div>
-      <div n="1898-12" type="diaryEntry" xml:id="Bae_MF_2_6230">
+      <div type="chapter" xml:id="Bae_MF_2_6230">
         <pb facs="#F_K-11_Bae_MF_2_292" n="244r" xml:id="Bae_MF_2_6231"/>
-        <p xml:id="Bae_MF_2_6233">
-          <anchor xml:id="Bae_MF_2_6232"/>ROM 
+        
+        <anchor xml:id="Bae_MF_2_6232"/><head><title type="main">ROM</title></head><title type="short">Rom</title>
           <app from="#Bae_TB_4_8483" type="missing" xml:id="Bae_MF_2_6322">
             <rdg wit="Bae_TB_4" xml:id="Bae_MF_2_6323"/>
           </app>
-        </p>
         <p xml:id="Bae_MF_2_6234">
           <anchor xml:id="Bae_MF_2_6324"/>Gleich am Tage als ich meine 
           <index xml:id="Bae_MF_2_6235">

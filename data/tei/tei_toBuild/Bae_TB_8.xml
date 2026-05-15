@@ -82,10 +82,10 @@
     <body xml:id="Bae_TB_8_51">
       <pb facs="#F_K-5_Bae_TB_8_002" n="1r" xml:id="Bae_TB_8_2487"/>
       <anchor xml:id="Bae_TB_8_2488"/>
-      <div n="1905-12-08" type="diaryEntry" xml:id="Bae_TB_8_2489">
+      <div type="diaryEntry" xml:id="Bae_TB_8_2489">
         <p xml:id="Bae_TB_8_2490">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_2491">Wien</placeName>, 
-          <date when="1905-12-08" xml:id="Bae_TB_8_2492">8.12.05</date>
+          <date when="1905-12-08" type="diaryEntry" xml:id="Bae_TB_8_2492">8.12.05</date>
         </p>
         <p xml:id="Bae_TB_8_2493">Ich möchte hier eine alte Aufzeichnung einschalten, die ich vor Jahren über eine Reise nach 
           <placeName key="Dalmatien" ref="https://www.geonames.org/3202210/dalmatia.html" xml:id="Bae_TB_8_2494">Dalmatien</placeName>
@@ -183,9 +183,9 @@
           <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_2562"/>
         </app>
       </div>
-      <div n="1906-04-13" type="diaryEntry" xml:id="Bae_TB_8_52">
+      <div type="diaryEntry" xml:id="Bae_TB_8_52">
         <head xml:id="Bae_TB_8_53">
-          <hi rendition="#ul" xml:id="Bae_TB_8_55">Die Wahlreform</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_8_55">Die Wahlreform</hi><date when="1906-04-13" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_8_2440">
           <anchor xml:id="Bae_TB_8_1462"/>
@@ -525,7 +525,7 @@
         <pb facs="#F_K-5_Bae_TB_8_011" n="7v" xml:id="Bae_TB_8_172"/>
         <note type="editorial" xml:id="Bae_TB_8_173">Diese Seite ist leer.</note>
       </div>
-      <div n="1906-01" type="diaryEntry" xml:id="Bae_TB_8_174">
+      <div type="diaryEntry" xml:id="Bae_TB_8_174"><head><date when="1906-01" type="diaryEntry"></date></head>
         <addSpan spanTo="#Bae_TB_8_299" type="insertion" xml:id="Bae_TB_8_175"/>
         <p xml:id="Bae_TB_8_176">
           <pb facs="#F_K-5_Bae_TB_8_012" n="8r" xml:id="Bae_TB_8_178"/>
@@ -706,7 +706,7 @@
           <anchor/><app from="#Bae_TB_8_175"><rdg>…</rdg></app>
         </p>
       </div>
-      <div n="1906-02" type="diaryEntry" xml:id="Bae_TB_8_300">
+      <div type="diaryEntry" xml:id="Bae_TB_8_300"><head><date when="1906-02" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_8_301">Das Ganze war kein offen eingestandener Plan, sondern sollte hinter den Coulissen fertiggemacht werden – unbegreiflich daher warum die offiziöse 
           <index xml:id="Bae_TB_8_302">
             <term key="Presse" xml:id="Bae_TB_8_303">Presse</term>
@@ -1039,7 +1039,7 @@
         </p>
         <p xml:id="Bae_TB_8_457">---</p>
       </div>
-      <div n="1906-4" type="diaryEntry" xml:id="Bae_TB_8_458">
+      <div type="diaryEntry" xml:id="Bae_TB_8_458"><head><date when="1906-04" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_8_459">
           <anchor xml:id="Bae_TB_8_460"/>In der Osterpause haben in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_8_461">Prag</placeName> mehrfache Besprechungen zwischen 
@@ -1475,10 +1475,10 @@
           <note type="editorial" corresp="#Bae_TB_8_636" xml:id="Bae_TB_8_639">Dieses Datum hat Baernreither irrigerweise an dieser Stelle vermerkt.</note>
         </p>
       </div>
-      <div n="1906-04-21" type="diaryEntry" xml:id="Bae_TB_8_640">
+      <div type="diaryEntry" xml:id="Bae_TB_8_640">
         <head xml:id="Bae_TB_8_641">
           <anchor xml:id="Bae_TB_8_1717"/>
-          <hi rendition="#ul" xml:id="Bae_TB_8_642">Sancta Simplicitas!</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_8_642">Sancta Simplicitas!</hi><date when="1906-04-21" type="diaryEntry"></date>
           <app from="#Bae_MF_6-2_2424" type="equal" xml:id="Bae_TB_8_1718">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1719">5. Die Wendung in Ungarn und die letzten Wochen Gautsch'</rdg>
           </app>
@@ -1755,7 +1755,7 @@
           </app>
         </p>
       </div>
-      <div n="1906-05-04" type="diaryEntry" xml:id="Bae_TB_8_761">
+      <div type="diaryEntry" xml:id="Bae_TB_8_761"><head><date when="1906-05-04" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_8_762">
           <anchor xml:id="Bae_TB_8_1779"/>Positivismus in der Politik! Das fehlt uns seit 
           <app from="#Bae_MF_6-2_1826" type="equal" xml:id="Bae_TB_8_1780">
@@ -1819,7 +1819,7 @@
           </app>
         </p>
       </div>
-      <div n="1906-05-06" type="diaryEntry" xml:id="Bae_TB_8_788">
+      <div type="diaryEntry" xml:id="Bae_TB_8_788"><head><date when="1906-05-06" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_8_789">
           <pb facs="#F_K-5_Bae_TB_8_043" n="23v" xml:id="Bae_TB_8_790"/>
           <note type="editorial" xml:id="Bae_TB_8_791">Diese Seite ist leer.</note>
@@ -1888,12 +1888,12 @@
       <pb facs="#F_K-5_Bae_TB_8_045" n="24r" xml:id="Bae_TB_8_813"/>
       <note type="editorial" xml:id="Bae_TB_8_814">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
       <pb facs="#F_K-5_Bae_TB_8_046" n="25v" xml:id="Bae_TB_8_815"/>
-      <div n="1906–06-06" type="diaryEntry" xml:id="Bae_TB_8_816">
+      <div type="diaryEntry" xml:id="Bae_TB_8_816">
         <head xml:id="Bae_TB_8_817">
           <hi rendition="#ul" xml:id="Bae_TB_8_818">Von 
             <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_819">Hohenlohe</persName> bis 
             <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_8_820">Beck</persName>
-          </hi>
+          </hi><date when="1906-06-06" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_8_821">
           <anchor xml:id="Bae_TB_8_822"/>
@@ -2065,7 +2065,7 @@
           <rdg xml:id="Bae_TB_8_2464">&#8230;</rdg>
         </app>
       </div>
-      <div n="1906-06-17" type="diaryEntry" xml:id="Bae_TB_8_932">
+      <div type="diaryEntry" xml:id="Bae_TB_8_932"><head><date when="1906-06-17" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_8_933">
           <pb facs="#F_K-5_Bae_TB_8_049" n="26v" xml:id="Bae_TB_8_934"/>
           <note type="editorial" xml:id="Bae_TB_8_935">Diese Seite ist leer.</note>
@@ -2184,7 +2184,7 @@
           </app>
         </p>
       </div>
-      <div n="1906-06-19" type="diaryEntry" xml:id="Bae_TB_8_975">
+      <div type="diaryEntry" xml:id="Bae_TB_8_975"><head><date when="1906-06-19" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_8_976"/>
         <p xml:id="Bae_TB_8_977">Will nicht jeden Tratsch registrieren. 
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_8_978">Urban</persName> aber erzälte doch etwas sehr Interessantes. Aus Statthalterkreisen in 
@@ -2228,12 +2228,12 @@
       <pb facs="#F_K-5_Bae_TB_8_053" n="28v" xml:id="Bae_TB_8_994"/>
       <note type="editorial" xml:id="Bae_TB_8_995">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
       <pb facs="#F_K-5_Bae_TB_8_054" n="29v" xml:id="Bae_TB_8_996"/>
-      <div n="1906-06-27" type="diaryEntry" xml:id="Bae_TB_8_997">
+      <div type="diaryEntry" xml:id="Bae_TB_8_997">
         <anchor xml:id="Bae_TB_8_998"/>
         <head xml:id="Bae_TB_8_999">
           <hi rendition="#ul" xml:id="Bae_TB_8_1000">Aus dem 
             <orgName key="Wahlreformausschuss" xml:id="Bae_TB_8_1001">Wahlreformausschusse</orgName>
-          </hi>
+          </hi><date when="1906-06-27" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_8_1002">Die Regierung will die " 
           <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_1003">Hohenlohe</persName>'schen Vorschläge" unverändert durchbringen, die Parteien wollen ihre nationalen Wünsche als Zusatzanträge erreichen – das ist der Boden, auf dem gekämpft, gesprochen und intrigiert wird. 
@@ -2443,7 +2443,7 @@
           </app>
         </p>
       </div>
-      <div n="1906-06-29" type="diaryEntry" xml:id="Bae_TB_8_1096">
+      <div type="diaryEntry" xml:id="Bae_TB_8_1096"><head><date when="1906-06-29" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_8_1097"/>
         <p xml:id="Bae_TB_8_1098">Gestern hat 
           <persName key="SteinFranko" ref="https://d-nb.info/gnd/129277169" xml:id="Bae_TB_8_1099">Franko Stein</persName> in der 
@@ -2484,7 +2484,7 @@
       <pb facs="#F_K-5_Bae_TB_8_059" n="31v" xml:id="Bae_TB_8_1112"/>
       <note type="editorial" xml:id="Bae_TB_8_1113">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
       <pb facs="#F_K-5_Bae_TB_8_060" n="32r" xml:id="Bae_TB_8_1114"/>
-      <div n="1906-08-13" type="diaryEntry" xml:id="Bae_TB_8_1115">
+      <div type="diaryEntry" xml:id="Bae_TB_8_1115">
         <anchor xml:id="Bae_TB_8_1116"/>
         <head xml:id="Bae_TB_8_1117">
           <hi rendition="#ul" xml:id="Bae_TB_8_1118">Denkschrift verfasst für 
@@ -2492,7 +2492,7 @@
             <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_1120">Fürstenberg</persName>, 
             <placeName key="Muenchen" ref="https://www.geonames.org/6559171/muenchen-landeshauptstadt.html" xml:id="Bae_TB_8_1121">München</placeName>
           </hi>
-          <date when="1906-08-13" xml:id="Bae_TB_8_1122">13.8.06</date>
+          <date when="1906-08-13" type="diaryEntry" xml:id="Bae_TB_8_1122">13.8.06</date>
           <app from="#Bae_MF_6-2_1454" type="notEqual" xml:id="Bae_TB_8_1123">
             <rdg wit="#Bae_MF_6-2" xml:id="Bae_TB_8_1124">8. Meine Denkschrift vom 13. August 1906</rdg>
           </app>
@@ -2743,12 +2743,12 @@
         <pb facs="#F_K-5_Bae_TB_8_071" n="37v" xml:id="Bae_TB_8_1231"/>
         <note type="editorial" xml:id="Bae_TB_8_1232">Diese Seite ist leer.</note>
       </div>
-      <div n="1906-07-30" type="diaryEntry" xml:id="Bae_TB_8_1233">
+      <div type="diaryEntry" xml:id="Bae_TB_8_1233">
         <p xml:id="Bae_TB_8_1234">
           <pb facs="#F_K-5_Bae_TB_8_072" n="38r" xml:id="Bae_TB_8_1235"/>
           <anchor xml:id="Bae_TB_8_1236"/>
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_8_1237">Lünz</placeName> , 
-          <date when="1909-07-30" xml:id="Bae_TB_8_1238">30.7. 
+          <date when="1909-07-30" type="diaryEntry" xml:id="Bae_TB_8_1238">30.7. 
             <del rendition="s" xml:id="Bae_TB_8_1239">1909</del>
             <add xml:id="Bae_TB_8_1240">1906</add>
           </date>
@@ -3316,28 +3316,29 @@
           </app>
         </p>
       </div>
-       <div n="1908-11-09" type="diaryEntry"><anchor/><app from="#xxx49a" type="insertion"><rdg>[...]</rdg></app><!-- CA. das der Abschnitt von der Einlage ab von 49a ff  --></div>
-            <div n="1908-12-12" type="diaryEntry">
+      <div type="diaryEntry"><head><date when="1908-11-09" type="diaryEntry"></date></head>
+         <anchor/><app from="#xxx49a" type="insertion"><rdg>[...]</rdg></app><!-- CA. das der Abschnitt von der Einlage ab von 49a ff  --></div>
+      <div type="diaryEntry"><head><date when="1908-12-12" type="diaryEntry"></date></head>
                 <pb facs="#F_K-5_Bae_TB_8_089" n="43r"/><p>Folgendes ist ein Teil meines Tagebuches der letzten Monate 1908 und der ersten Monate 1909.</p>
                 <p>Meran, 12.12.1908</p>
                 <p>Heute war ein Herr Emil Scarpa Generalagent des Lloyd in Bombay bei mir, der dort seit 1890 tätig war und sich jetzt hieher zurückzieht. Er verteidigt den Lloyd <choice><abbr>u.</abbr><expan>und</expan></choice> erzählt sehr interessant über die Art wie die Deutschen überall Fortschritte machen. Exporthäuser in allen Gegenden Indiens <choice><abbr>u.</abbr><expan>und</expan></choice> Ostasiens wärend Östreicher so etwas nicht unternehmen. In Östreich alles bureaucratisch, hierarchisch, aristocratisch, kein <add place="across">selbstbewusster</add> Kaufmannsstand, keine Stellung der Kaufleute social; jeder Leutnant o. Ministerialbeamte geht vor. Dazu heute sehr charakteristische Äußerung von Adele D. Ihre Schwester Hösch hatte 2 Söhne, der eine Diplomat, der andere in dem Hause Hösch das grosse Industrien betreibt. Der Kaufmann ist gestorben, der Diplomat muss ins Geschäft, was der junge Dumreicher mit den Worten begleitete: "er muss jetzt in die Greislerei eintreten"! Alles will bei uns den<pb facs="#F_K-5_Bae_TB_8_090" n="43v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_91" n="44r"/>Cavalier spielen, Handel, Erwerb wird verachtet. Das geht durch alle Bevölkerungsschichten. Z. B. mein dummer Bruder Alfons ist ein Typus dieser Sorte. Und erst die Weiber unserer Kaufmannsfamilien!  Scarpa bewundert die Engländer <choice><abbr>u.</abbr><expan>und</expan></choice> insb. die  Art wie sie Indien regieren. Unter Lord Curzon hat die Centralisation der Verwaltung besonders zugenommen. Reaction dagegen: es wurde eine Royal Commission eingesetzt, die sich nach Indien begab <choice><abbr>u.</abbr><expan>und</expan></choice> dort eine umfangreiche ‚evidence’ aufnam über die Frage ob <choice><abbr>u.</abbr><expan>und</expan></choice> in welcher Weise eine Decentralisation der Verwaltung in Indien stattfinden könnte. Personen aus allen Berufskreisen wurden vernommen <choice><abbr>u.</abbr><expan>und</expan></choice> es wurde dann auf dieser breiten Basis ein Gutachten ausgearbeitet, das der Gesetzgebung dient. Alles öffentlich. Das bringt nicht nur eine Menge tatsächlichen Materials zu Tage sondern auch Vertrauen der Bevölkerung in die Actionen der Regierung. Damit zu vergleichen wie man jetzt zögernd, geheim <choice><abbr>u.</abbr><expan>und</expan></choice> widerwillig daran geht, die Stimmen der bosnischen Bevölkerung über die einzuführende Verfassung zu vernehmen.</p>
                 <p>Den türkischen Boycott beurteilt Scarpa sehr ernst. Er meint dass viele Verbindungen gelockert o. ganz aufgehoben werden <choice><abbr>u.</abbr><expan>und</expan></choice> insbes. die Italiener trachten werden in das Geschäft hineinzukommen. Er hat die Frage aufgeworfen ob die Regierung nicht verpflichtet sei den Lloyd zu entschädigen. Dafür lässt sich nur allerdings kein Rechtsgrund finden, aber die Tatsache bleibt, dass der Lloyd großen Schaden leidet <choice><abbr>u.</abbr><expan>und</expan></choice> keine Zinsen zahlen wird.<pb facs="#F_K-5_Bae_TB_8_092" n="44v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_093" n="45r"/></p>
             </div>
-            <div n="1908-12-19" type="diaryEntry">
-                <p>Meran 19.12.08</p>
+            <div type="diaryEntry">
+                <p>Meran <date when="1908-12-09" type="diaryEntry">19.12.08</date></p>
                 <p>Herrlicher Spaziergang Fragsburg. Auf dem Weg Dr. Beck getroffen. Wie immer interessant. Erzählt dass der franz. Botschafter Barere in Rom 1/2 Mill. Frs Repraesentationsgelder hat die er zu umfangreicher Bestechung der Presse <choice><abbr>u.</abbr><expan>und</expan></choice> der zugänglichen Abgeordneten verwendet. Er simulirt ein Sammler von alten Geigen zu sein <choice><abbr>u.</abbr><expan>und</expan></choice> er kauft Geigen um hohe Preise. Das ist die Form Bestechungsgelder an Mann zu bringen! Beck ist ganz meiner Meinung bezüglich des diplomatischen Dienstes. Auch im deutschen Reichstage war davon die Rede. Veraltet ist der diplom. Dienst <choice><abbr>u.</abbr><expan>und</expan></choice> er rechnet nur mit Schichten, die heute nicht mehr die regierenden sind. Daher die Überraschungen <choice><abbr>u.</abbr><expan>und</expan></choice> falschen Berechnungen.</p>
                     <p>Dann kamen wir auf die böhm. Verhältnisse zu sprechen. An Stelle des einstigen "Bohemismus" ist der Völkerhass getreten. Beck schreibt das Uebel der Entfremdung in den Schulen z<choice><abbr>u.</abbr><expan>und</expan></choice> Herbst <choice><abbr>u.</abbr><expan>und</expan></choice> Giskra! Mühlfeld sagte oft von Giskra, der sein Concipient war: ich hab ihm nie mehr als 50 fl. gegeben <choice><abbr>u.</abbr><expan>und</expan></choice> und er war auch nicht mehr wert als das.</p></div>
-            <div n="1908-12-14" type="diaryEntry">
-                <p>Meran 14.12.08</p> 
+            <div type="diaryEntry">
+                <p>Meran <date when="1908-12-14" type="diaryEntry">14.12.08</date></p> 
                 <p>Inliegenden Artikel der Augsb. Postzeitung<note type="editorial">Der Artikel ist nicht erhalten.</note> erhielt ich mit einem gedruckten Circular worin aufgefordert wird mitzuarbeiten, damit das deutsch-öst. Bündnis auf neue, sittliche Grundlagen gestellt würde. Ich witterte sofort clericale oder christlich-soc. Quelle. Sandte die Sache an Prof. Redlich zur Untersuchung, der mir inliegenden Brief schrieb.<note>Vgl. Redlich an Baernreither, 12.12.1908, NL B Karton 49.</note><pb facs="#F_K-5_Bae_TB_8_094" n="45v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_095" n="46r"/>Ausserdem interessanten Brief von Viki erhalten.<note>Vgl. Brief von Neffen Viki an Baernreither, Bukarest, 10.12.1908, NL B Karton 49.</note></p> 
                 <p>Die Times hatte einen Artikel "Near East", worin sie Östreich darauf aufmerksam macht dass über auswärtige Beziehungen heute die Völker entscheiden, nicht die Cabinete, dass die Boykottbewegung Volksbewegung ist. Von allen Seiten wird das jetzt gesagt <choice><abbr>u.</abbr><expan>und</expan></choice> damit auch eine neue Aera diplomatischer Methode inauguriert. Unsere Diplomaten haben zu wenig Fühlung mit jenen Kreisen der Bevölkerung in denen die eigentlichen, letzten politischen Motive auch der äussern Politik liegen. Die Presse spielt heute als der Ausdruck der verschiedensten Strömungen eine immer noch nicht genügend bewertete Macht. In andern Staaten hat man das erkannt. Sehr interessant, wie Frankreich es z.B. versteht, in der italienischen Presse seine Interessen dem Verständnis des italienischen Publicums nahezubringen. Wir leiden immer noch an der Unterschätzung dieser grossen Wandlung im Volksleben <choice><abbr>u.</abbr><expan>und</expan></choice> sind unbeholfen. Anders ist es nicht zu erklären, dass der Boykott auch an massgebender Stelle anfangs missdeutet wurde. Wir haben uns an die türkischen Behörden gehalten <choice><abbr>u.</abbr><expan>und</expan></choice> übersehen dass wir es mit dem Volk zu tun haben <choice><abbr>u.</abbr><expan>und</expan></choice> dass wo türkische Beamte mitgespielt haben, dies unter dem Druck von unten, nicht aber über Weisungen von oben geschehen ist. Das weiß man jetzt auch bei uns, aber man braucht bei uns zu einer solchen Erkenntnis immer unverhältnismässig viel Zeit, die man ersparen würde, wenn die richtigen Fühlungen bestehen würden.</p><pb facs="#F_K-5_Bae_TB_8_096" n="46v"/><note type="editorial">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
             </div>
-            <div n="1908-12-20" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_097" n="47r"/><p>Meran 20.12.08</p>
+            <div type="diaryEntry">
+                <pb facs="#F_K-5_Bae_TB_8_097" n="47r"/><p>Meran <date when="1908-12-20" type="diaryEntry">20.12.08</date></p>
                 <p>Viele <choice><abbr>engl.</abbr><expan>englische</expan></choice> <choice><abbr>u.</abbr><expan>und</expan></choice> <choice><abbr>franz.</abbr><expan>französische</expan></choice> Blätter gelesen. Die letztern (Friedensbedürfnis!) ruhig, wohlwollend <choice><abbr>f.</abbr><expan>für</expan></choice> Östreich <choice><abbr>u.</abbr><expan>und</expan></choice> vor allem gut geschrieben, z.B. der inliegende Artikel des Figaro.<note type="editorial">Der Artikel ist nicht erhalten.</note> Unter dem Einfluss der Nachricht geschrieben, dass <choice><abbr>Athal</abbr><expan>Aehrenthal</expan></choice> endlich einlenkt und verhandelt mit der Türkei ohne den Boykott abzuwarten! Aber wie elegant geschrieben!</p>
             </div>
-            <div n="1908-12-22" type="diaryEntry">
-                <p>Meran 22.12.08</p>
+            <div type="diaryEntry">
+                <p>Meran <date when="1908-12-22" type="diaryEntry">22.12.08</date></p>
                 <p>Inliegende Züricher Zeitung<note type="editorial">Die Zeitung ist nicht erhalten.</note> verfolgt das von der Augsb. Postzeitung angeschlagene Thema. Viel Wahres. Die Gefaren der polit. Situation werden nicht geringer.</p>
                 <p>Lueger beantragt Handelsvertrag mit Rumänien. Es hängt das alles zusammen, Spitze gegen Ungarn.</p> 
                 <p>Ich war gestern in der hiesigen Krankencasse. Sie ist von lauter Soci geleitet (Pichler), die aber über die Socialversicherung sehr vernünftig sprachen. In der Zeitschrift Arbeitsschutz (N. 22, 23, 24 ex 1908) ist die Organisation der Vorlage critisirt. Die Herren machten bezüglich der Vorlage nachstehende Bemerkungen. Betrag von 2400 K als Grenze ist für Oest. hohe Löhne zu niedrig. Den Bezirksstellen wird die Evidenzhaltung sehr schwer werden, auch machtlos gg die Simulation. Regierungsvorlage wird Doppelarbeit machen. Evidenz müsse sowol bei den Krankenkassen als bei den Bezirksstellen gefürt werden. Kassa müsse bei den Krankencassen <choice><abbr>u.</abbr><expan>und</expan></choice> bei den Bezirksstellen gefürt werden. Wenn am Samstag Krankengeld gezahlt wird, kann man nicht genau wissen wieviel man braucht, weil es oft vorkommt, dass mehrere Wochen K.geld für eine Person zusammen gezahlt werden muss (die z. B. im Spital gewesen ist). Jedenfalls wird viel Doppelarbeit geschaffen.<pb facs="#F_K-5_Bae_TB_8_098" n="47v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_099" n="48r"/>Die Herren sind natürlich <hi rendition="#ul">für</hi> die Organisation der Krankenkasse und lehnen die "Bezirksstellen" energisch ab. Beamte derselben werden nicht die nötige Fühlung mit der Bevölkerung haben. Grosse Kosten.</p>
@@ -3345,8 +3346,8 @@
                 <p>Die öster. Socialdemokratie arbeitet sachlich, wenn auch vielleicht im einseitigen Interesse ihrer Anhänger. Das Letztere müsste bei der Socialversicherung verhindert werden, aber die Autonomie der Kassen müsste man zu retten trachten.</p>
                 <p>Die Mannheimer „Volksstimme“ sagt bezüglich der Abstimmung der öst. Socialisten für das Budget mit Recht, die öst. Socialdemokratie habe dadurch den <hi rendition="#ul">Staat <choice><abbr>u.</abbr><expan>und</expan></choice></hi> den <hi rendition="ul">Staatsgedanken</hi> bejaht.</p>
             </div>
-            <div n="1908-12-25" type="diaryEntry">
-                <p>Meran 25.12.08</p>
+            <div type="diaryEntry">
+                <p>Meran <date when="1908-12-25" type="diaryEntry">25.12.08</date></p>
                 <p>Lettere del Risorgimento italiano scelte e ordinate da Giosue Carducci 1749–1830. Bologna ditta Nicola Zanichielli 1896.</p>
                 <p>Storia critica del risorgimento italiano. L’Italia durante il dominio austriaco di Carlo Tivaroni in Tomo III Parte X lo svolgimento del pensiero nazionale.</p><pb facs="#F_K-5_Bae_TB_8_100" n="48v"/><note type="editorial">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note><pb facs="#F_K-5_Bae_TB_8_101" n="49r"/>
                 <p>Storia politica d’Italia scritta da una società d’amici sotto la direzione di Pasquale Villari.</p>
@@ -3355,8 +3356,8 @@
                 <p>Von Springer zitiert Bd. 1 Seite 287.</p>
                 <p>Ich habe heute mit Beck über die "Staatslehre" von Anton Menger gesprochen. Sie ist apriorisch, abstract, wesenlos <choice><abbr>u.</abbr><expan>und</expan></choice> daher wertlos. Staatsrecht ist gefrorene Politik, wie Freund Redlich immer sagt. Die wirtschaftlichen Machtverhältnisse, die Kraft des Volkes zur Selbstverwaltung, die Fähigkeit, sich selbst zu regieren – das <choice><abbr>u.</abbr><expan>und</expan></choice> andere Elemente sind das prius, das formulierte Staatsrecht, ist das Nachfolgende, der Wirklichkeit sich Anpassende.</p>
             </div>
-            <div n="1908-12-28" type="diaryEntry">
-                <p>Wien, 28.12.1908</p>
+            <div type="diaryEntry">
+                <p>Wien, <date when="1908-12-28" type="diaryEntry">28.12.1908</date></p>
                 <p>Heute Nachm. lange Unterredung mit Aehrenthal und Schönaich <del rendition="#s">gemacht</del><add place="across">gehabt</add>. Die türkischen Sachen stehen nicht gut. <choice><abbr>Athal</abbr><expan>Aehrenthal</expan></choice> ist <add>jetzt</add>  auf dem Standpunkt, die Zustimmung der Türkei durch ein Stück Geld zu erkaufen. Die Türkei braucht dringend <del rendition="#s">2 bis 4</del><add place="across">2 bis 3</add>  Mill. Pfund. Er frug mich, wie ich darüber denke <choice><abbr>u.</abbr><expan>und</expan></choice> wie man in Ö. darüber denken würde. Ich antwortete ihm: geradeso wie <del rendition="#s">er jemand zu einem guten Diner einladen, alle Gäste es sehr loben würden</del><add place="across">wenn eine Einladung zu einem guten Diner erfolgt wäre, die Gäste bei bester Laune wären</add>, aber beim Weggehen im Vorzimmer dafür die</p><pb facs="#F_K-5_Bae_TB_8_102" n="49v"/><note type="editorial">Diese Seite ist leer.</note>
 <!-- hier eine Einlage nach fol. 49 -->
                 <pb facs="#F_K-5_Bae_TB_8_103" n="49ar"/>
@@ -3386,28 +3387,28 @@
                 <p><del rendition="#s">England tut alles, um unsere Allianz zu sprengen. Der jetzige englische Botschafter Cartwright ist eigens ausgerückt, um dies zu befördern. <choice><abbr>Athal</abbr><expan>Aehrenthal</expan></choice> wird in allen englischen Zeitungen als europäischer Ruhestörer denunziert. Alles zu demselben Zweck.</del></p><pb facs="#F_K-5_Bae_TB_8_115" n="50v"/><note type="editorial">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note><pb facs="#F_K-5_Bae_TB_8_116" n="51r"/>
                 <p><del rendition="#s">Schönaich stellt die ungarischen Forderungen als Notwendigkeit hin. <hi rendition="#ul">Preis</hi>: die an das 9erComite gemachten Concessionen: Fahnenbänder, Regimentsprache ungarisch. Dafür: Wehrgesetz, Erhöhung des Rekrutenkontingents, Dauer der Abmachung bis 1926. Kommando- und Dienstsprache bleibt Deutsch. <choice><abbr>Sch.</abbr><expan>Schönaich</expan></choice></del><add place="across">Dann sprachen wir über die ungarischen militärischen Forderungen. Schönaich stellte ein Entgegenkommen als notwendig hin. Er würde ungarische Fahnenbänder und die Regimentsprache concedieren, um dafür das neue Wehrgesetz, erhöhtes Rekrutencontingent einzutauschen. Er</add> meint, dass heute die ungarischen Regimenter sicherer sind als die böhmischen. In Jungbunzlau <add place="across">kam es</add> beim Einwaggonieren der Bataillone nach Bosnien <del rendition="#s">kam es</del> zu bösen Scenen. Aus der Menge schrie man: schießt auf eure Offiziere.</p>
             </div>
-            <div n="1909-01-01" type="diaryEntry">
-                <p>Wien 1.1.09</p>
+            <div type="diaryEntry">
+                <p>Wien <date when="1909-01-01" type="diaryEntry">1.1.09</date></p>
                 <p>Vorgestern Konferenz bei Schreiner (Schreiner, Pergelt, Eppinger, Pacher, Chiari, ich). Gegenstand: Flottmachung des Landtages. Ich machte den Vorschlag man solle für die Constituierung des Landtages Obstruction ausschalten und stellte das gemeinverständliche Dilemma auf: Constituierung des Landtags – Möglichkeit einer Coalition <hi rendition="#ul">oder</hi> kein Landtag – keine Coalition, sondern definitives Beamtenministerium. Pacher war <hi rendition="#ul">für</hi> das Einlenken, Pergelt schwankte, Chiari entschieden <hi rendition="#ul">gegen</hi> das Aufgeben der Obstruction ohne plausiblen <choice><abbr>u.</abbr><expan>und</expan></choice> allgemeinverständlichen Grund. Ebenso Eppinger. Entscheidung fiel dennoch. Landtag unmöglich. Schwarzer Peter, wer daran Schuld ist, wird weitergespielt. Chiari versprach Treue der Alpenländer, die ich bezüglich einiger Persönlichkeiten zu bezweifeln wagte: Steinwender, Sylvester. Chiari konnte nicht leugnen blieb aber fest bei seinem Versprechen. Schreiner war sehr wenig orientiert. Sagte er habe Bienerth schon mehrmals gebeten er solle ihm den Entwurf des Sprachengesetzes lesen lassen, aber vergeblich. Chiari und Pergelt, die von diesem Entwurf etwas wussten sagten es sei <hi rendition="#ul">Koerber ohne Abgrenzung</hi>.<pb facs="#F_K-5_Bae_TB_8_117" n="51v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_118" n="52r"/>Ich habe einen Fehler begangen, in der letzten Herrenhaussitzung nicht zu reden.</p>
             </div>
-            <div n="1909-01-03" type="diaryEntry">
-                <p>Meran 3.1.09</p>
+            <div type="diaryEntry">
+                <p>Meran <date when="1909-01-03" type="diaryEntry">3.1.09</date></p>
                 <p>Drastisches Beispiel der Desorganisation des Postdienstes in Prag.</p>
                 <p>Schmid (Oberpostrat im <choice><abbr>H.Ministerium</abbr><expan>Handels-Ministerium</expan></choice>) erzählte mir neulich:  Jeder Beamte in Prag tut national, was er will. Beck hat sich mit dem Postdirektor Šafarik je 2 čech. <choice><abbr>u.</abbr><expan>und</expan></choice> 2 deutsche Postbeamten kommen lassen, mit ihnen verhandelt, um eine nationale Ordnung bei der Prager Postdirektion zu erzielen. Vergebens. Anarchie dauert fort. Jedes Department amtirt sprachlich wie es will. Kampf der Departements untereinander. An Stelle Šafarik wurde der Čeche Kraus ernannt, und ein Stellvertreter Svoboda, ein Deutscher. Diese Ernennungen wurden aber nur in Wien vollzogen, sie erfolgten eigentlich in Prag durch Übereinkommen der Beamten.</p>
                 <p>Mit diesen Angaben zu [...] eine Conferenz der Deutschböhmen, der ich anwohnte: Schreiner, Pergelt, Pacher, Eppinger <choice><abbr>u.</abbr><expan>und</expan></choice> Stellvertreter des Postdirektors Swoboda, der nach Wien gekommen war, da das Chaos <choice><abbr>u.</abbr><expan>und</expan></choice> der Streit mit seinem Vorgesetzten den Höhepunkt erreicht hatte. Dabei kam heraus, dass Beck den <choice><abbr>Dböhmen</abbr><expan>Deutschböhmen</expan></choice> als Preis der Zurückziehung ihrer Dringlichkeitsanträge im Juli 1907 einen deutschen Vicepräsidenten der Post in Prag <choice><abbr>u.</abbr><expan>und</expan></choice> außerdem versprochen hatte, sich bezüglich der Person mit den <choice><abbr>D.</abbr><expan>Deutschen</expan></choice> in Fühlung zu setzen. Es kam weiter heraus, dass <choice><abbr>Min.</abbr><expan>Minister</expan></choice> Fiedler einen gewissen Stransky, "den Führer der čechischen Postbeamten" ernannt hat. Karakteristisch bezeichnet Svoboda seine Stellung als eine "hoch politische" <choice><abbr>u.</abbr><expan>und</expan></choice> spricht von "seinem Wirkungskreis in nationaler Hinsicht". Schreiner erzählte, dass er jüngst den Postdirektor Kraus in Prag besucht <choice><abbr>u.</abbr><expan>und</expan></choice> ihn<pb facs="#F_K-5_Bae_TB_8_119" n="52v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_120" n="53v"/>auf die Handhabung der deutschen Amtssprache aufmerksam gemacht habe, worauf dieser ihm kalt antwortete: "das werde er schwerlich tun können", war dabei in großer Verlegenheit.</p>
             </div>
-            <div n="1909-01-15" type="diaryEntry">
-                <p>Meran 15.1.09</p>
+            <div type="diaryEntry">
+                <p>Meran <date when="1909-01-15" type="diaryEntry">15.1.09</date></p>
                 <p>Mit Nostitz Correspondenz geführt über die Einleitung unserer Beratungen in bohemicis mit den Conservativen. Seine Briefe inliegend.</p>
                 <p>Die bosnische Sache genau verfolgt. Zeitungsausschnitte inliegend sowie die Skizze eines Artikels den ich schreiben will gegen die Idee die Kosten der Annexion Bosnien <choice><abbr>u.</abbr><expan>und</expan></choice> der Herzegowina aufzuhalsen. Hielte ich für sehr unpolitisch.</p>
                 <p>Mit Baronin <choice><abbr>Dreicher</abbr><expan>Dumreicher</expan></choice> den Nachlass (literarischen) von Armand Dumreicher besprochen. Es haben sich die hier in Abschrift inliegenden "Deutsch-<choice><abbr>österr.</abbr><expan>österreichischen</expan></choice> Briefe" gefunden. An wen sind sie gerichtet gewesen? Der zweite offenbar unvollendet. Welches Datum haben sie getragen? Ihre Veröffentlichung wäre sehr interessant; sie sind aber stark contra Bülow, der aber jetzt gerade von clericaler Seite unterwühlt wird. In Wien zu besprechen.</p>
             </div>
-            <div n="1909-02-09" type="diaryEntry">
-                <p>Wien 9.2.09</p>
+            <div type="diaryEntry">
+                <p>Wien <date when="1909-02-09" type="diaryEntry">9.2.09</date></p>
                 <p>Der Kaiser hat den Sternberg in Audienz empfangen. Die "Arbeiterzeitung" druckt die "diesbezüglichen" Stellen der Reden Sternbergs ab.<note type="editorial">Gemeint ist wohl: Zitate, in: Arbeiter-Zeitung, 9.2.1909, 4–5.</note> Der Rest ist Schweigen</p><pb facs="#F_K-5_Bae_TB_8_121" n="53v"/><note type="editorial">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note><pb facs="#F_K-5_Bae_TB_8_122" n="54r"/>
             </div>
-            <div n="1909-02-21" type="diaryEntry">
-                <p>Wien 21.2.09</p>
+            <div type="diaryEntry">
+                <p>Wien <date when="1909-02-21" type="diaryEntry">21.2.09</date></p>
                 <p>Projekt die Sprachenvorlagen ins Herrenhaus einzubringen. Grosse Meinungsverschiedenheit, besser gesagt Meinungslosigkeit unter den Mitgliedern des <choice><abbr>H.H.</abbr><expan>Herrenhauses</expan></choice>. Chlumecky keinen klaren <choice><abbr>Standp</abbr><expan>Standpunkt</expan></choice>. Czedik dafür "patriotische That zu vollbringen" natürlich wird man sich nicht an die "Schlagworte" halten dürfen. Stimmung gegen die <choice><abbr>Dböhmen</abbr><expan>Deutschböhmen</expan></choice>. Schönburg will ja nichts tun, dass die Sachen ans <choice><abbr>H.H.</abbr><expan>Herrenhaus</expan></choice>, wenn sie aber kommen, Schiedsamt übernehmen. Mittlere Linie. Latour auch eher dafür. Innere <choice><abbr>čech.</abbr><expan>čechische</expan></choice> Amtssprache ist gewährt, kann nicht zurückgenommen werden. Sonst unklar. Heinrich Clam urteilt vernünftig. Hat wie ich Bedenken ob sich das <choice><abbr>Abg.H.</abbr><expan>Abgeordnetenhaus</expan></choice> dem "Schiedspruch" des <choice><abbr>H.H.</abbr><expan>Herrenhauses</expan></choice> fügen wird. Ich schrieb an <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> <choice><abbr>u.</abbr><expan>und</expan></choice> Thun <choice><abbr>u.</abbr><expan>und</expan></choice> erhielt von Letzterem den inliegenden Brief.</p>
                 <p>Ich habe die <choice><abbr>Dböhmen</abbr><expan>Deutschböhmen</expan></choice> gewarnt, blind in das Projekt hineinzurennen <choice><abbr>u.</abbr><expan>und</expan></choice> der <choice><abbr>d.</abbr><expan>deutsche</expan></choice> Vollzugsausschuss hat sich auch ablehnend ausgesprochen.</p>
                 <p>Idee wäre ja gut, aber von oben hat man seit Jahren das Ansehen des <choice><abbr>H.H.</abbr><expan>Herrenhauses</expan></choice> untergraben – jetzt auf einmal soll es einen Akt vollbringen der nicht nur grosse Einsicht, sondern grosse Autorität erfordert.</p>
@@ -3425,48 +3426,48 @@
                 <p>Wenn <choice><abbr>Athal</abbr><expan>Aehrenthal</expan></choice> das alles bedacht hat und vorgesehen, so gut man überhaupt in der Politik vorsehen kann, dann ist sein Verhalten zu billigen, und er behält Recht und erwirbt Ruhm.</p>
                 <p>In einem Punkt begeht er aber schon offenkundige Fehler: er hat nicht den Finger gerührt um die bosnischen Verwaltungszustände seit der Annexion in einer richtigen Weise zu beeinflussen. Burian ist ungeeignet, Horowitz, um milde zu sprechen, abgebraucht – er lässt aber alles geschehen: den Scandal mit der Agrarbank, die lächerliche Verfassungsenquete <choice><abbr>u.</abbr><expan>und</expan></choice> er hat alles vernachlässigt, was man ihm in Budapest im October anempfohlen hat. Irgend etwas, um die neuen Österreicher zu gewinnen, hätte geschehen müssen, aber es ist nichts geschehen, kein Akt, der in der Volksphantasie Stimmung für Östreich gemacht hätte, "nichts was einem Vergnügen macht" – im Gegenteil: Bosnien soll 54 <choice><abbr>Mill</abbr><expan>Millionen</expan></choice> an die Türkei zahlen unter dem mit Haaren herbeigezogenen Pretext die türkischen Staatsforste (die es seit 30 Jahren hat <choice><abbr>u.</abbr><expan>und</expan></choice> verwaltet <choice><abbr>u.</abbr><expan>und</expan></choice><pb facs="#F_K-5_Bae_TB_8_129" n="57v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_130" n="58r"/>verwertet) zu bezahlen. Teure Proklamation! heißt es ganz [...] im Lande. Moschee in Wien <choice><abbr>u.</abbr><expan>und</expan></choice> solcher Schwindel der türkischen Deputation vorgemacht, die aber nur mittelst freier Fahrt <choice><abbr>u.</abbr><expan>und</expan></choice> à 1000 K. Diäten nach Wien zu bringen war. Anzeichen, dass nicht alles in Ordnung ist in Bosnien: Bombenfund bei Banjaluka, von dem englische Zeitungen ("Daily Telegraf") berichten.</p>
             </div>
-            <div n="1909-02-20" type="diaryEntry">
-                <p>Wien 20.2.09</p>
+            <div type="diaryEntry">
+                <p>Wien <date when="1909-02-20" type="diaryEntry">20.2.09</date></p>
                 <p><del rendition="#s">Mit Fberg erzählt</del><add place="across">Max Fürstenberg erzählt mir</add>, dass die Zusammenkunft Bülow-Harding beim Königsbesuch in Berlin kein positives Resultat <del rendition="#s">hatte, aber Russland stellte fest, dass Serbien</del><add place="across">gehabt hat. Bezüglich Serbiens meint man in Berlin, dass zwar</add> wohl wissend, dass es unterliegen wird, den Krieg <del rendition="#s">anfangen würde <choice><abbr>u.</abbr><expan>und</expan></choice> ihn</del><add place="across">doch</add> riskieren würde in der Erwartung, die ganze slawische Welt in Bewegung zu setzen. Serbien ist in einer unmöglichen Situation, <del rendition="#s">die</del><add place="across">den</add> Leitern der Bewegung liegt nichts an ein paar tausend Leuten, die bleiben, ja selbst an der Dynastie nichts, sie gehen mit offenen Augen in die verlorene Schlacht, rechnen aber damit, dass <choice><abbr>Rland</abbr><expan>Russland</expan></choice> gezwungen werden wird, uns ein Halt zuzurufen. <choice><abbr>Rland</abbr><expan>Russland</expan></choice> kann nicht schlagen, aber die Stimmung ist <del rendition="#s">wie Fberg der ja erst in Petersburg war</del> sehr gegen uns. Ebenso in Italien, so dass, ist einmal losgeschlagen, niemand weiß, wohin es führen würde. <choice><abbr>Dland</abbr><expan>Deutschland</expan></choice> ist fest mit uns. <del rendition="#s">Fberg meint</del><add place="across">Fürstenberg ist der Ansicht</add>, ohne es zu wissen, dass der <choice><abbr>d.</abbr><expan>deutsche</expan></choice> Kaiser die nie ausgesprochene Meinung hat, dass, wenn er einmal durch das Brandenburger Tor als Sieger einzieht, er wieder ganz anders <del rendition="#s">dasteht</del><add place="across">dastehen würde</add>. Das ist alles für uns und den Frieden sehr schlecht. Das Recept: äussern Krieg zur inneren Rehabilitierung ist alt <choice><abbr>u.</abbr><expan>und</expan></choice> trügerisch. Die <add place="across">militärische</add> "Überschwemmung" Serbiens <add place="across">nützt</add> uns nichts, kann aber zu allem führen, selbst zu einem<pb facs="#F_K-5_Bae_TB_8_131" n="58v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_132" n="59r"/>Krieg mit <hi rendition="#ul">drei</hi> Fronten.</p>
                 <p>Ich erzählte ihm, wie das Ministerium zu Stande kam.</p>
                 <p>Haedtl sagt, er habe von dem neuen <choice><abbr>M.</abbr><expan>Ministerium</expan></choice> erst gehört, als sie schon ernannt waren. Keine Beratung, keine <choice><abbr>polit.</abbr><expan>politischen</expan></choice> Ideen, alles Streberei, Versorgung, Nachgeben gegen die Christlichsozialen. Ritt hat Bienerth <choice><abbr>u.</abbr><expan>und</expan></choice> Gessmann im Automobil in Tyrol herumgeführt, wo er Oberbaurat war, Bilinski hat sich eingedrängt, ditto Weiskirchner, dessen Frau ihm keine Ruhe mehr gegeben hat. Stürgkh durch Sieghart, Hochenburger durch Stürgkh. Nur ein Band hält das <choice><abbr>M.</abbr><expan>Ministerium</expan></choice> zusammen: sie haben alle auf den § 14 geschworen!</p>
             </div>
-            <div n="1909-02-26" type="diaryEntry">
-                <p>Wien 26.2.09</p>
+            <div type="diaryEntry">
+                <p>Wien <date when="1909-02-26" type="diaryEntry">26.2.09</date></p>
                 <p><choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> scheint leider stark in der Hochfinanz zu sein. Erzählte mir begeistert von Taussig. Sonntag soll Exekutivcomité sein <choice><abbr>u.</abbr><expan>und</expan></choice> wir (Grabmayr, Exner <choice><abbr>u.</abbr><expan>und</expan></choice> ich) mit den alten Zöpfen die Statuten beraten. Ich habe hyperloyal <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> unseren <choice><abbr>Standp.</abbr><expan>Standtpunkt</expan></choice> auseinandergesetzt. Er nennt das Secession <choice><abbr>u.</abbr><expan>und</expan></choice> möchte beiden Teilen recht tun, aber positiv vermittelnd tritt er leider nicht auf. Immer derselbe Zug im Großen <choice><abbr>u.</abbr><expan>und</expan></choice> im Kleinen, alles wird formell erledigt, verkleistert <choice><abbr>u.</abbr><expan>und</expan></choice> geschoben – heineinzugreifen, die Sachen im Kern erfassen, etwas Definitives schaffen, davor scheut  jedermann zurück. Als ich ihm gestern erzählte, in welcher Richtung wir wünschen dass mehr politisches Bewusstsein und Styl in die Partei kommen sollte – hörte er kaum hin.</p><pb facs="#F_K-5_Bae_TB_8_133" n="59v"/><note type="editorial">Diese Seite ist leer.</note>
             </div>
-            <div n="1909-02-27" type="diaryEntry">
+            <div type="diaryEntry">
                 <pb facs="#F_K-5_Bae_TB_8_134" n="60r"/>
-                <p>Wien 27.2.09</p>
+                <p>Wien <date when="1909-02-27" type="diaryEntry">27.2.09</date></p>
                 <p>Mit Carl <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> gesprochen, der von Petersburg kommt. In Russland 2 ausgesprochene Strömungen<add place="across">, die eine</add>: antideutsch, d. h. gegen die Expansion <choice><abbr>Dlands</abbr><expan>Deutschlands</expan></choice> am Balkan <choice><abbr>u.</abbr><expan>und</expan></choice> in der nähern <choice><abbr>u.</abbr><expan>und</expan></choice> weitern Levante. Östreich wird nur als Vorposten <choice><abbr>Dlands</abbr><expan>Deutschlands</expan></choice> betrachtet, <del rendition="#s">von <choice><abbr>Dlands</abbr><expan>Deutschland</expan></choice></del> vorgeschoben <choice><abbr>u.</abbr><expan>und</expan></choice> als Werkzeug gebraucht. <del rendition="#s">Die ewige Melodie Kramař</del>. Zu dieser <choice><abbr>antiöster.</abbr><expan>antiösterreichischen</expan></choice> Strömung kommt die <del rendition="#s">2.: das</del><add place="across">zweite des</add> orthodoxe<add place="across">n</add> Slawentum <del rendition="#s">vs</del><add place="across">gegen</add> das katholische. Man fürchtet und widerstrebt einer Raillierung aller katholischen Südslawen unter der Führung Östreichs. Russland ist und bleibt der große Hort der Südslawen, <choice><abbr>insb.</abbr><expan>insbesondere</expan></choice> aber der Orthodoxen. Russland <add place="across">ist</add> nicht imstande Krieg zu führen. Daher für Österreich "heute oder nie" da unten Ordnung zu machen. Es gibt also zwei ganz verschiedene Wege: saigner á blanc, neue Dynastie, vollkommene Schwächung Serbiens auf Decennien – ob das <choice><abbr>Rland</abbr><expan>Russland</expan></choice> zulassen wird? – oder den Sturm in Serbien ruhig abwarten, <del rendition="#s">ihnen</del><add place="across">den Serben</add> goldene Brücken bauen, mögliche wirtschaftliche Existenz sichern, auf Frieden <choice><abbr>u.</abbr><expan>und</expan></choice> Einvernehmen lossteuern. Einwendung: je stärker Serbien wird, desto stärkere Agitation bei uns in Bosnien.</p>
                 <p>Mittelweg möglich: Besetzung mit der Absicht und Endzweck (Analogie Bismarcks 1866) schließlich mit Serbien auf guten Fuß zu kommen: Dynastiewechsel, Handelsvertrag, Eisenbahnmöglichkeiten usw. Wir dürfen aber da nicht als die Angreifenden erscheinen, sondern der äusserste Notfall muss offen da liegen <choice><abbr>u.</abbr><expan>und</expan></choice> von aller Welt anerkannt werden.</p>
                 <p>Ich machte geltend, dass die Annexion ja nur das Prestige <choice><abbr>Rland</abbr><expan>Russlands</expan></choice> verletzt hat, tatsächlich ist die Annexion das Gegenteil<pb facs="#F_K-5_Bae_TB_8_135" n="60v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_136" n="61r"/>von Expansion. Handelspolitisch sind wir heute schwächer am Balkan als vor der Annexion, wir haben uns reducirt <del rendition="#s">(Sandschak, Sandschakbahn, Boykott, handelspolitische Concessionen an die Türkei). Aufgeben unserer Stellung in Albanien!</del><add place="across">durch die Aufgabe des Sandschaks samt der Bahn, durch die handelspolitischen Konzessionen an die Türkei und das Aufgeben unserer Stellung in Montenegro.</add></p>
                 <p><choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> leugnet, dass Alexander II. den Krieg nicht gewollt hat, er hat sich gern dazu drängen lassen. <choice><abbr>Nicol.</abbr><expan>Nicolaus</expan></choice> II. ist aber ganz schlapp. Ist für <choice><abbr>3bund</abbr><expan>Dreibund</expan></choice> der Kaisermächte, aber willenlos. <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> erzählt, Iswolski <add place="across">habe</add> keinen anderen Gedanken, als <choice><abbr>Athal</abbr><expan>Aehrenthal</expan></choice> eins zu versetzen. Rachegefühl erfüllt ihn ganz. <del rendition="#s">Duell</del><add place="across">Es ist ein Duell</add>. Von <hi rendition="#ul">England</hi> wurde via Constantinopel der Gedanke des bulgarisch-türkischen Finanzprojektes lanciert. Iswolski griff blind zu <choice><abbr>u.</abbr><expan>und</expan></choice> kaum hatte er es erfasst, lancirte er es auch, ganz unausgegoren <del rendition="#s">unausgedacht</del><add place="across">und</add> unüberlegt. Nachträglich kam heraus, dass es wohl notwendig sei, die ganze Sache erst durchzudenken. Jetzt sitzt eine Commission und ist mit dieser Arbeit beschäftigt. So leichtsinnig wird Politik gemacht. <del rendition="#s">Oxenstierna!</del></p>
                 <p>Vorher hatte ich mit Max <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> Unterredung. Machte ihn aufmerksam, dass wenn Taussig ins <choice><abbr>H.H.</abbr><expan>Herrenhaus</expan></choice> kommt <choice><abbr>u.</abbr><expan>und</expan></choice> in unsere Partei – Krach! Grabmayr <choice><abbr>u.</abbr><expan>und</expan></choice> Marchet sind gestern auf eine Andeutung hin in die Luft gegangen. <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> und Ginzkey allerdings haben geschmunzelt bei dem Gedanken, die Anna weint, die Anna lacht!</p>
             </div>
-            <div n="1909-03-15" type="diaryEntry">
-                <p>Wien 15.3.09</p>
+            <div type="diaryEntry">
+                <p>Wien <date when="1909-03-15" type="diaryEntry">15.3.09</date></p>
                 <p><del rendition="#s">Heute in</del><add place="across">Ich hatte heute eine</add> Audienz. Nach einigen allgemeinen Redensarten <choice><abbr>u.</abbr><expan>und</expan></choice> der Pause[?] sagte ich: "Wir leben in schweren Zeiten. Es zeigt sich aber doch jetzt der Patriotismus." Es ist <add place="across">aber</add> zu hoffen, dass, wenn die Monarchie nach Aussen vor eine große Aufgabe gestellt wird, die kleinen<pb facs="#F_K-5_Bae_TB_8_137" n="61v"/><note type="editorial">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note><pb facs="#F_K-5_Bae_TB_8_138" n="62r"/>Kämpfe im Innern zurücktreten werden, aber <del rendition="#s">es sind doch Millionen, die innigst wünschen</del><add place="across">wir wünschen doch innigst</add>, dass die Friedensliebe <choice><abbr>E.</abbr><expan>Euerer</expan></choice> Majestät triumfieren möge.“ <del rendition="#s">(Lachend)</del> Ja, das würde ich auch wünschen, aber es ist schwer möglich geworden. Russland vereitelt alles." – "Aber das Friedensbedürfnis in Europa ist doch gross <choice><abbr>u.</abbr><expan>und</expan></choice> auch die Franzosen wirken in der Richtung." – "Ja, bis jetzt, nun aber fangen sie an" (Handbewegung, dass sie wackeln). – "Sie haben aber doch ein großes Geld in dem europäischen Geschäft stecken." – <del rendition="#s">(Lachend)</del> "Ja, das ist wahr, aber trotzdem – von England werden sie beeinflusst, ja sie haben eine Wendung gemacht."</p>
                 <p>Der Rest des Gespräches <add place="across">betraf</add> innere Sachen, <add place="across">den</add> Reichsrat <add place="across">und die</add> Ursachen seiner Arbeitsunfähigkeit. <del rendition="#s">Mangelnde Geschäftsordnung usw.</del></p>
             </div>
-            <div n="1909-03-29" type="diaryEntry">
-                <p>Wien 29.3.09</p>
+            <div type="diaryEntry">
+                <p>Wien <date when="1909-03-29" type="diaryEntry">29.3.09</date></p>
                 <p>Nur in Schlagworten. Diner bei Ährenthal wo er mir seine Pläne: definitive Ordnung in Serbien, Meistbegünstigung, nur im Notfall Einmarsch usw. auseinandersetzte. Kämpfe in der Partei. Plener und Unger verhinderten mich, zum Rekrutenkontingent zu sprechen. <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice> und ich wurden zu Ährenthal geschickt, um ihn zu fragen, ob ich reden soll. Ich skizzierte die Rede, er war sehr zufrieden <choice><abbr>u.</abbr><expan>und</expan></choice> verriet seine Zustimmung lebhaft – bat aber <hi rendition="#ul">nicht</hi> zu reden, weil er vermeiden wollte, dass Bienerth <hi rendition="#ul">wieder</hi> eine Erklärung abgeben musste im <choice><abbr>H.H.</abbr><expan>Herrenhaus</expan></choice>, nachdem er kurz vorher im <choice><abbr>Abg.H.</abbr><expan>Abgeordnetenhaus</expan></choice> gesprochen hatte.</p>
                 <p>Ich musste aufs Reden verzichten, schrieb aber inliegenden Artikel.<note type="editorial">Nachträglich eingefügte Notiz: Tagblatt 25.3.1909.</note> Erklärte in der Partei, dass ich<pb facs="#F_K-5_Bae_TB_8_139" n="62v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_140" n="63r"/>mich bei nächsten Gelegenheit <hi rendition="#ul">nicht</hi> abhalten lassen werde. Diese Gelegenheit kam umgehend beim <del rendition="#s">Recrutencontinget</del><add place="across">Ermächtigungsgesetz</add>.</p>
                 <p>Bienerth hatte auf sozialistischen Vorstoß im <choice><abbr>Abg.H.</abbr><expan>Abgeordnetenhaus</expan></choice> doch eine zweite Erklärung abgegeben. Wie töricht ist diese Disposition! Im <choice><abbr>H.H.</abbr><expan>Herrenhaus</expan></choice> hat man Debatte unterdrückt, um 2. Erklärung zu vermeiden, auf Fingerdeut der Soci im <choice><abbr>Abg.H.</abbr><expan>Abgeordnetenhaus</expan></choice> sprang Bienerth auf wie ein Stehaufmannl. Das ist das <choice><abbr>democr.</abbr><expan>democratische</expan></choice> Zeitalter.</p>
                 <p>Zum Ärger von Plener und Comp. sprach ich über Handel und Politik, und zwar als einziger und dabei im Namen des <choice><abbr>H.H.</abbr><expan>Herrenhauses</expan></choice>.</p>
             </div>
-            <div n="1909-03-29" type="diaryEntry">
-                <p>Prag, 29.3.09<note type="editorial">Dieser Eintrag ist mit Bleistift verfasst.</note></p>
+            <div type="diaryEntry">
+                <p>Prag, <date when="1909-03-29" type="diaryEntry">29.3.09</date><note type="editorial">Dieser Eintrag ist mit Bleistift verfasst.</note></p>
                 <p>Schulz erzählt mir, dass Monts ihm geschrieben: "es ist tragisch, dass ein Kaiser, der den Bismarck fortgeschickt hat, einen Bülow ertragen muss." Unger hat, als man entschuldigend von Wurmbrand sprach, er sei ein Autodidakt: "Sie irren, er ist ein Autoignorant".</p>
                 <p>Bosnien muss ein Stück Reichsidee, Reichspolitik und Reichszukunft verkörpern.</p><pb facs="#F_K-5_Bae_TB_8_141" n="63v"/><note type="editorial">Diese Seite ist leer.</note>
             </div>
-            <div n="1909-04-02" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_142" n="64r"/><p>Brüssel 2.4.1909<note type="editorial">Dieser Eintrag ist mit Bleistift verfasst.</note></p>
+            <div type="diaryEntry">
+                <pb facs="#F_K-5_Bae_TB_8_142" n="64r"/><p>Brüssel <date when="1909-04-02" type="diaryEntry">2.4.1909</date><note type="editorial">Dieser Eintrag ist mit Bleistift verfasst.</note></p>
                 <p>Szögyény erzählte mir gestern in Berlin, dass, wie er im <choice><abbr>Okt.</abbr><expan>Oktober</expan></choice> den Kaiser mit dem Brief unseres Kaisers [...] Annexion aufsuchte, dieser ihn mit den Worten empfing: Ich habe es ja schon in der Zeitung gelesen und [...] hat es ihr College (Khevenhüller) in Paris schon gestern dem Fallius gesagt. Also wirklich [...] grobes Versehen. Dazu Monts, der behauptet, Bülow habe es längst gewusst und dem Kaiser nicht gesagt.</p>
                 <p>Szögyény gibt zu, dass man in Berlin einem [...] nicht abgeneigt war und dass der [...] vorläufig [...] ist. [...] ist er aber gegen eine Entente mit Russland <choice><abbr>u.</abbr><expan>und</expan></choice> gegen ein ordentliches Regieren in Serbien.</p>
             </div>
-            <div n="1909-04-23" type="diaryEntry"><p>Carlsbad, 23.4.1909</p>
+            <div type="diaryEntry"><p>Carlsbad, <date when="1909-04-23" type="diaryEntry">23.4.1909</date></p>
                 <p>Unterhalb des "Wien Sitzes" am rechten Ufer der Tepla erhebt sich ein Fels mit der Inschrift</p>
                 <p>So kühn und frei</p>
                 <p>wie dieser Fels</p>
@@ -3475,25 +3476,25 @@
                 <p>1808</p> 
                 <p>Eine interessante historische Reminiszenz. Ein Jahr vor der Schlacht bei Aspern</p><pb facs="#F_K-5_Bae_TB_8_143" n="64v"/><note type="editorial">Diese Seite ist leer.</note>
             </div>
-            <div n="1909-07-30" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_144" n="65r"/><p><choice><abbr>L.</abbr><expan>Lünz</expan></choice> 30.7.09</p>
+            <div type="diaryEntry">
+                <pb facs="#F_K-5_Bae_TB_8_144" n="65r"/><p><choice><abbr>L.</abbr><expan>Lünz</expan></choice> <date when="1909-07-30" type="diaryEntry">30.7.09</date></p>
                 <p>In den ersten Monaten des Jahres war in einem Teil der Centrumspresse (<choice><abbr>Dland</abbr><expan>Deutschland</expan></choice> <choice><abbr>u.</abbr><expan>und</expan></choice> Schweiz) das Thema "Gefährdung des deutsch-<choice><abbr>öster.</abbr><expan>österreichischen</expan></choice> Bündnisses" angeschlagen – wie die folgenden Monate zeigten, ganz grundlos. Siehe die anreihenden Blätter <choice><abbr>u.</abbr><expan>und</expan></choice> den Brief Redlichs,<note type="editorial">Brief Josef Redlich an JMB vom 12.12.1908 (?), NL Baernreither K 49.</note> den ich um Ursache <choice><abbr>u.</abbr><expan>und</expan></choice> Verbindungen dieser Campagne frug.</p>
                 <p>Freilich hat die Sache auch eine andere Seite, die in den Abschriften der beiden Dumreicher’schen Briefe glänzend beleuchtet ist!</p><pb facs="#F_K-5_Bae_TB_8_145" n="65v"/><note type="editorial">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
             </div>
-            <div n="1909-07-30" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_146" n="66r"/><p>Lünz 30.7.09</p>
+            <div type="diaryEntry">
+                <pb facs="#F_K-5_Bae_TB_8_146" n="66r"/><p>Lünz <date when="1909-07-30" type="diaryEntry">30.7.09</date></p>
                 <p>Wenn man seine Schriften <choice><abbr>u.</abbr><expan>und</expan></choice> Notizen <choice><abbr>u.</abbr><expan>und</expan></choice> Zeitungsausschnitte der letzten Monate zusammenstellt <choice><abbr>u.</abbr><expan>und</expan></choice> überblickt, so findet man bei uns immer alles – unerledigt. Wie schön war der Aufschwung unserer Gefühle <choice><abbr>u.</abbr><expan>und</expan></choice> Hoffnungen nach dem Sieg der <choice><abbr>Athalschen</abbr><expan>Aehrenthalschen</expan></choice> Politik? Hat man diese Situation ausgenützt?! Die Annexionsvorlage ist (fast ein Jahr nach der Annexion!) <hi rendition="#ul">nicht</hi> erledigt. Die türkische Entschädigung ist parlamentarisch auch noch nicht erledigt. Das Selbstbewusstsein und der Optimismus, der uns erfüllt hat, ist unfruchtbar geblieben. <choice><abbr>Athal</abbr><expan>Aehrenthal</expan></choice> der wohl die Absicht gehabt hat, in unsere innern Verhältnisse klärend einzugreifen, hat dies aufgegeben, ruht auf seinen diplomatischen Lorbeeren. Ob er wohl einsieht dass unsere innern Verhältnisse ihn um die Früchte seiner Arbeit bringen werden, wenn das laisser aller so fortgeht. Bienerth ist unfähig und untätig. Er krebst mit einem einzigen Gedanken: politische Keuschheit. Keuschheit ist aber oft nur die Folge von Impotenz. Die Arbeiterzeitung vom 25.7.09 hat einen ausgezeichneten Artikel!<note type="editorial">Gemeint ist wohl: Parlamentskritiker. Eine Kritik der Kritiker, in: Arbeiter-Zeitung, 25.07.1909, 1–2.</note>  Marchets Brief besagt auch viel.<note type="editorial">Brief Gustav Marchet an JMB vom 15.7.1909 oder 27.7.1909 (?), NL Baernreither K. 48.</note> Die Obstruction hätte beseitigt werden können. Das ist jetzt erwiesen. Die Deutschen wollten die Formel Šusteršič bezüglich der bosnischen Angelegenheiten acceptieren.</p>
                 <p>Die Arbeiterzeitung war die einzige, die das rund heraus gesagt hat. Allerdings auch eine Grazer Zeitung, wie das „Prager Montagblatt“ vor kurzem meldete. Hofmann von Wellenhof wurde mit diesem Artikel in Verbindung gebracht. Bienerth wandelt in Körber’schen Bahnen!</p><pb facs="#F_K-5_Bae_TB_8_147" n="66v"/><note type="editorial">Diese Seite ist leer.</note>
             </div>
-            <div n="1909-08-10" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_148" n="67r"/><p>Nauheim 10.8.09</p>
+            <div type="diaryEntry">
+                <pb facs="#F_K-5_Bae_TB_8_148" n="67r"/><p>Nauheim <date when="1909-08-10" type="diaryEntry">10.8.09</date></p>
                 <p>Ich brauche hier die Kur <choice><abbr>u.</abbr><expan>und</expan></choice> genieße die herrliche Umgebung. Wenn ich zu Hause bin, arbeite ich an meinem Aufsatz über das Museum in Sarajewo.<note type="editorial">Joseph Maria Baernreither, Das Museum von Sarajevo, in: Österreichische Rundschau Bd. 21 (1909).</note> Es ist für mich ein neuartiges Thema und beschäftigt mich daher sehr angenehm. In den zwei ersten Tagen meiner Anwesenheit schrieb ich für die deutsche Juristenzeitung ein Resumé meines Gesetzes über die Jugendfürsorge, um das mich die Redaktion gebeten hatte.<note type="editorial">Joseph Maria Baernreither, Der neue österreichische Entwurf betreffend das Jugendstrafrecht, in: Deutsche Juristenzeitung XIV (1909) Sp. 1113-1118.</note> Im Bett nach dem Bade lese ich Eckermanns Gespräche oder Dickens Christmas tales. So ist mein Tag mit Lektüre, Anschauung und Arbeit ebenmäßig ausgefüllt. Im Hotel kenne ich natürlich niemanden, soupiere auf meinem Zimmer und gehe sehr zeitlich schlafen.</p>
                 <p>Neulich war ich bei herrlichstem Wetter in Homburg, aß im Curhaus zu Mittag, fuhr auf die Saalburg, wo ich wieder neue Zubauten (Mithrastempel) fand. Die Idee, das Lager ganz aufzubauen, ist höchst instruktiv, für Gymnasiasten und Professoren unschätzbar <choice><abbr>u.</abbr><expan>und</expan></choice> gewiss auch mit dem Aufgebot deutscher Gelehrsamkeit <choice><abbr>u.</abbr><expan>und</expan></choice> Gründlichkeit durchgeführt. Aber es lässt kalt.</p>
                 <p>Das Schönste an dem Ausflug war der Spaziergang auf dem Kaiser Wilhelmweg, der in der Höhe rund um den Berg geht mit herrlichen Ausblicken auf Homburg <choice><abbr>u.</abbr><expan>und</expan></choice> die Ebene <choice><abbr>u.</abbr><expan>und</expan></choice> sich dann zum <choice><abbr>sog.</abbr><expan>sogenannten</expan></choice> gothischen Haus, einer Wirtschaft an der Straße nach Homburg, senkt. Es war eine herrliche Luft, doppelt genussreich, da es im Tal wirklich sehr heiss war.</p>
                 <p>Gestern hatte ich in Frankfurt Rendezvous mit Merveldt, der in <choice><abbr>Wbaden</abbr><expan>Wiesbaden</expan></choice> in der Cur ist. Wir aßen im Fürstenhof zu Mittag <choice><abbr>u.</abbr><expan>und</expan></choice> fuhren dann in das Senckenbergische Museum, das ein neues Heim hat und in dem die Sachen wirklich wunderbar aufgestellt sind. Vollständiges Scelett eines Höhlenbären <choice><abbr>u.</abbr><expan>und</expan></choice> verschiedene riesige Triasviecher. Dann waren wir am Ausstellungsplatz<pb facs="#F_K-5_Bae_TB_8_149" n="67v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_150" n="68r"/>"Ila" der Luftschiffart. Scheint aber mehr für eine Bierfahrt eingerichtet zu sein. Wenig anregend. Heiss, dann starkes Gewitter <choice><abbr>u.</abbr><expan>und</expan></choice> schleuniger Rückzug zum Bahnhof.</p>
             </div>
-            <div n="1909-08-14" type="diaryEntry">
-                <p>Nauheim 14.8.09</p>
+            <div type="diaryEntry">
+                <p>Nauheim <date when="1909-08-14" type="diaryEntry">14.8.09</date></p>
                 <p>Ich war gestern in Mainz, um mir wieder einmal das Museum anzusehen. Hatte vorher dem Direktor Prof. Dr. Schumacher geschrieben, der mich überall herumführte. Das Museum wird jetzt ganz neu eingerichtet, <choice><abbr>u.</abbr><expan>und</expan></choice> ich bekam eine Reihe von Sälen zu sehen, die dem Publicum noch nicht geöffnet sind. Die Anordnung ist wissenschaftlich-pädagogisch, zum Studium, zum Vergleichen aufgestellt, in dieser Hinsicht wirklich mustergültig. Alles zielt geht auf die Veranschaulichung aus wie auf der Saalburg. Streift manchmal ans Panopticum: ganze <choice><abbr>röm.</abbr><expan>römische</expan></choice> <choice><abbr>u.</abbr><expan>und</expan></choice> germanische Krieger mit Wehr <choice><abbr>u.</abbr><expan>und</expan></choice> Waffen, überlebensgroße, mit Stahl, Leder <choice><abbr>u.</abbr><expan>und</expan></choice> Tuch angezogene Figuren. Jedenfalls sehr anschaulich. Dr. Schumacher lobt die "Mitteilungen des Bosnischen Museum" sehr <choice><abbr>u.</abbr><expan>und</expan></choice> kennt die dortigen Gelehrten! In den Sälen herrscht allerdings ein merkwürdiger Zwiespalt: das Museum ist zum Teil in den ehemaligen Wohn- <choice><abbr>u.</abbr><expan>und</expan></choice> Prunksälen des Erzbischofs untergebracht, das Ganze im ehemaligen erzbischöflichen Palais. Die Zimmer haben prachtvolle Stuckplafonds aus dem 18. <choice><abbr>Jahrh.</abbr><expan>Jahrhundert</expan></choice>. Girlanden, Medaillons, Putten, teilweise auch die charakteristischen Malereien der Zeit, Tiepolo Nachahmungen <choice><abbr>u.</abbr><expan>und</expan></choice> Nachklänge. Auch die Wände mussten diesen Plafonds entsprechend gemalt werden mit Mustern aus der Zeit, die schweren Tapeten imitierend – und darunter in Schränken die prähistorischen Töpfe, römischen Reliefs. In einem kleinen runden Zimmer der <choice><abbr>röm.</abbr><expan>römischen</expan></choice> Abteilung stand der Nachtstuhl des Erzbischofs camerae mutantur!</p>
             </div>
                 <pb facs="#F_K-5_Bae_TB_8_151" n="68v"/>
@@ -3516,39 +3517,39 @@
                 <p>Die Herren, welche den Redner "beglückwünschen" hatten in der Mehrzahl wohl keine Ahnung von der Tiefe einer solchen politisch-socialen Anschauung.</p>
                 <anchor/><!-- anchor für den addspan -->
             </div>
-            <div n="1909-08-15" type="diaryEntry"><pb facs="#F_K-5_Bae_TB_8_152" n="69r"/><p>Nauheim, 15.8.09</p>
+            <div type="diaryEntry"><pb facs="#F_K-5_Bae_TB_8_152" n="69r"/><p>Nauheim, <date when="1909-08-15" type="diaryEntry">15.8.09</date></p>
                 <p>Ich habe heute <choice><abbr>Nachm.</abbr><expan>Nachmittag</expan></choice> eine sehr schöne Fahrt in den Taunus gemacht. Das Pferd meines Einspänners war sehr faul, deswegen ging es recht langsam vom Fleck. Wir furen bis zum Forsthaus Winterstein fast eine Stunde, fast immer durch Wald, niedrigen Eichenwald – [...] würde man in <choice><abbr>Niederö.</abbr><expan>Niederösterreich</expan></choice> sagen – dann über das Forsthaus hinaus noch etwa 3/4 Stunden, zuletzt einen schönen Waldweg, der mich lebhaft an ganz ähnliche Waldwege durch Eichenbestände erinnerte, wie sie in Matzen waren. Mein Ziel war die Kapersburg, die Ruine eines <choice><abbr>röm.</abbr><expan>römischen</expan></choice> Kastels. Schließlich ließ ich den Wagen stehen <choice><abbr>u.</abbr><expan>und</expan></choice> ging das letzte Stück zu Fuss. Die Kapersburg machte, soweit man aus den Trümmern, die sich wenige Fuss über die Erde erheben, erraten kann, was Grösse und Hauptanlage betrifft den gleichen Eindruck wie die Saalburg. Ich erinnere mich wohl wie ich – mag Ende der 70er Jahre gewesen sein – mit Sascha <choice><abbr>u.</abbr><expan>und</expan></choice> Constance einmal von Homburg auf der Saalburg war, die damals denselben Eindruck machte wie die Kapersburg heute. Nur weniges ist an der Kapersburg restaurirt. Rasen <choice><abbr>u.</abbr><expan>und</expan></choice> Wald überwuchert noch alles. Die Blicke von diesem hochgelegenen Wald durch die langen Schneisen auf die Taunuswälder, die Ebene <choice><abbr>u.</abbr><expan>und</expan></choice> weite Ferne ist wunderschön. Auf der Heimfahrt kam die Sonne heraus, die nachmittags drohenden Wolken waren vergessen, nur die Gelsen blieben lästig bis zuletzt.</p>
             </div>
-            <div n="1909-08-20" type="diaryEntry"><p>Nauheim, 20.8.09</p>
+            <div type="diaryEntry"><p>Nauheim, <date when="1909-08-20" type="diaryEntry">20.8.09</date></p>
                 <p>Ich habe die Action Glombinski nie sehr hoch eingeschätzt <choice><abbr>u.</abbr><expan>und</expan></choice> an Sektionschef von Engel geschrieben dass nichts herauskommen kann, wenn <choice><abbr>Glomb.</abbr><expan>Glombinski</expan></choice> nicht vorher im engsten<pb facs="#F_K-5_Bae_TB_8_153" n="69v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_154" n="70v"/>Kreise nicht nur sondirt, sondern gewisse Abmachungen <choice><abbr>u.</abbr><expan>und</expan></choice> Zusagen erzielt hat. Das hat sich voll bewahrheitet. Er hat nichts vorbereitet, nichts erzielt. Wenn schon der Ausgang der Conferenz kläglich war, so war es die Haltung Bienerths noch viel mehr. Er segelt den Kurs Koerbers: das Parlament soll sich selbst helfen, er sieht wohlwollend zu <choice><abbr>u.</abbr><expan>und</expan></choice> wünscht ihm das Beste. Das hat Koerber seinerzeit in allen Tonarten mit allen möglichen Metaphern erklärt. Ebenso Bienerth. Das Communique des Ministeriums <add place="across">vom</add> 18. (inliegend) ist aber eines der schwächsten Schriftstücke dieser Art. <hi rendition="#ul">Bienerth-Sieghart</hi> tritt jetzt als Gärtner auf, will "Keime pflegen", "Ansätze verdichten" und erblickt darin die "Pflicht" der Regierung. Immer der alte Fehler: <hi rendition="#ul">Parlament ohne Führung ist kein Parlament</hi>, sondern eine Herde; das englische o. deutsche o. irgend ein anderes wäre es auch. Die Stilisierung des Communiques ist eine charakteristische Probe politischer Impotenz als System frisirt: politische Zurückhaltung, weil man nicht weiß, was man machen soll.</p>
                 <p>Vorgestern war ich in <hi rendition="#ul">Wiesbaden</hi>. Trank mit Merveldt einen Champagner auf die Gesundheit des Kaisers, besah das Museum (Mithrasdenkmal), besuchte Frau von Vincke, versäumte den Zug <choice><abbr>u.</abbr><expan>und</expan></choice> kam recht spät nach Nauheim zurück.</p>
             </div>
-            <div n="1909-08-24" type="diaryEntry">
-                <p>Nauheim 24.8.09</p>
+            <div type="diaryEntry">
+                <p>Nauheim <date when="1909-08-24" type="diaryEntry">24.8.09</date></p>
                 <p>Es ist eine merkwürdige Erscheinung, sinnlos <choice><abbr>u.</abbr><expan>und</expan></choice> unerklärlich wie so Vieles: auf der einen Seite ist die jüdische Confession Ursache dass die tüchtigsten Männer bei Seite gestellt, übergangen <choice><abbr>u.</abbr><expan>und</expan></choice> schlecht behandelt werden: Jellinek, Friedjung. Auf der andern Seite wird dem jüdischen Element, das ja durch die Taufe nicht verändert wird, ein ungemessen [?], unheilvoller<pb facs="#F_K-5_Bae_TB_8_155" n="70v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_156" n="71r "/>Einfluss auf staatliche Dinge eingeräumt: Freiberg [?], Blumenstock Halban, Singer-Sieghart. Die Anständigen, die ihrem Glauben nicht abgeschworen haben oder die ein Abschwören bei ihren Überzeugungen als eine unwürdige Form verschmähen, werden zurückgesetzt – <choice><abbr>u.</abbr><expan>und</expan></choice> diejenigen, die viel jüdischer handeln, den Glaubenswechsel, der für sie ja auch kein wirklicher Wechsel des Glaubens ist, als eine Verbesserung ihrer Chancen für Avancement <choice><abbr>u.</abbr><expan>und</expan></choice> Ehren ansehen, denen wird so Vieles ausgeliefert.</p>
             </div>
-            <div n="1909-08-25" type="diaryEntry">
-                <p>Nauheim 25.08.09</p>
+            <div type="diaryEntry">
+                <p>Nauheim <date when="1909-08-25" type="diaryEntry">25.08.09</date></p>
                 <p>Inliegender Artikel<note type="editorial">Der Artikel ist nicht überliefert.</note> der "Frankfurter" ist sehr richtig. Ich möchte in einer Zeitung einen Artikel unter "Gleiches Maas" veröffentlichen, der ausführt dass nachdem die Regierung den <choice><abbr>R.Rat</abbr><expan>Reichsrat</expan></choice> nicht einberuft wenn die Czechen der Obstruktion nicht abschwören, dasselbe für den <choice><abbr>böhm.</abbr><expan>böhmischen</expan></choice> Landtag gelten soll.</p>
             </div>
-            <div n="1909-08-28" type="diaryEntry">
-                <p>Nürnberg 28.8.09 Lünz</p>
+            <div type="diaryEntry">
+                <p>Nürnberg <date when="1909-08-29" type="diaryEntry">28.8.09</date> Lünz</p>
                 <p>Wenn man Deutschland durcheilt von West nach Ost doch [...] unterschiedlich [?]. Am Rhein in <choice><abbr>Ddorf</abbr><expan>Düsseldorf</expan></choice>, Cöln, Wiesbaden das Leben, am Bahnhof Stöße von Zeitungen, Wald- und Ansichtskarten, Bücher [...] in allen Sprachen, mitten im [...] <add place="across">westlicher</add> Strom der Cultur! Je weiter man nach Osten fährt, desto mehr nimmt das alles ab. Schon Nürnberg ist um einen Grad östlicher, das freie internationale Treiben der Rheinstädte, der Riesenverkehr hat schon etwas abgenommen, wo es noch lebhaft, sehr civilisirt zugeht. Dann nimmt es immer mehr ab. Schwandorf schon eine öde Bahnstation, in Furth schon kaum genießbares Essen in kleinem engen Raume <choice><abbr>u.</abbr><expan>und</expan></choice> auf den Gängen des Bahnhofgeländes winkt schon der <choice><abbr>böhm.</abbr><expan>böhmische</expan></choice> Schmutz. Die westliche Cultur, das westliche Leben ist doch kein leerer Wahn. Ex occidente lux.
                 </p><pb facs="#F_K-5_Bae_TB_8_157" n="71v"/><note type="editorial">Diese Seite ist leer.</note>
             </div>
-            <div n="1909-09-08" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_158" n="72r"/><p>Wien 8.9.09</p>
+            <div type="diaryEntry">
+                <pb facs="#F_K-5_Bae_TB_8_158" n="72r"/><p>Wien <date when="1909-09-08" type="diaryEntry">8.9.09</date></p>
                 <p>Wieder einmal <hi rendition="#ul">Ausgleichsconferenzen. Diesmal getrennt nach den beiden Nationen!</hi> Bienerth zuerst mit den <choice><abbr>D.</abbr><expan>Deutschen</expan></choice>, dann mit den <choice><abbr>Č.</abbr><expan>Čechen</expan></choice> dann zurück zu den <choice><abbr>D.</abbr><expan>Deutschen</expan></choice>. Ganz impotente Versuche in der alten Manier. <choice><abbr>B.</abbr><expan>Bienerth</expan></choice> ist sehr bescheiden, will nur die Constituirung des Landtags in Prag erreichen. Alle Teilnehmer sehr zurückhaltend, obwol einige sehr lüstern nach den Landesausschussmandaten. Besprechungen von Früh bis Abend. Kein Mensch führt <choice><abbr>u.</abbr><expan>und</expan></choice> wenn jener fürend eingreifen will, sofort Eifersucht. In Worten radical <choice><abbr>u.</abbr><expan>und</expan></choice> im Innern möchte jeder in den Hafen kommen. Die Wähler, die Stimmung usw. muss herhalten, wenn einer nicht die Courage hat <hi rendition="#ul">ja</hi> zu sagen. Dann tut ihnen aber wieder der Widerstand leid und sie werden unmotivirt mild, um im nächsten Moment wieder etwas Extremes zu verlangen. Abgeordnete, die keine <choice><abbr>polit.</abbr><expan>politische</expan></choice> Schule durchgemacht haben, nie gehorcht o. sich gefügt haben <choice><abbr>u.</abbr><expan>und</expan></choice> jetzt auch nicht leiten können. Bienerth gescheit, aufmerksam, schnell auffassend, weiß aber mit allen den Fäden nichts anzufangen, ist kein politischer, sondern nur bürocratischer Kopf. Will nicht nachgeben, leistet passiven Widerstand, hat aber keine Initiative <choice><abbr>u.</abbr><expan>und</expan></choice> wird nie eine Position erobern – vielleicht eine halten, bis ihm jemand in den Rücken fällt. Unfähig zur Lösung irgend einer, geschweige denn der <choice><abbr>böhm.</abbr><expan>böhmischen</expan></choice> Frage.</p>
                 <p>Heute Abend bei <choice><abbr>Äthal</abbr><expan>Aehrenthal</expan></choice>. Gab ihm diese <choice><abbr>Schldg</abbr><expan>Schilderung</expan></choice> von <choice><abbr>B.</abbr><expan>Bienerth</expan></choice>. Gibt die Richtigkeit zu, meint dass der Kaiser an ihm festhalten will, dass aber wenn es nicht geht nicht der Kaiser, sondern <choice><abbr>B.</abbr><expan>Bienerth</expan></choice> daran schuld ist. Mit Zuschauen macht man aber keine Politik: wenn es so fortgeht werden die <choice><abbr>D.</abbr><expan>Deutschen</expan></choice> bald gegen <choice><abbr>B.</abbr><expan>Bienerth</expan></choice> in Opposition sein <choice><abbr>u.</abbr><expan>und</expan></choice> der Kaiser die <choice><abbr>D.</abbr><expan>Deutschen</expan></choice> wieder als unverlässlich bezeichnen. Habe das <choice><abbr>Äthal</abbr><expan>Aehrenthal</expan></choice> vorausgesagt – handeln wird auch er <hi rendition="#ul">nicht</hi>!</p><pb facs="#F_K-5_Bae_TB_8_159" n="72v"/><note type="editorial">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
             </div>
-            <div n="1909-09-25" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_160" n="73r"/><p>Lünz 25.9.09</p>
+            <div type="diaryEntry">
+                <pb facs="#F_K-5_Bae_TB_8_160" n="73r"/><p>Lünz <date when="1909-09-25" type="diaryEntry">25.9.09</date></p>
                 <p>Muss eine Episode aus meinem Besuch von <hi rendition="#ul">Fichtenhain</hi> nachtragen. Direktor Classen empfing mich freundlich, aber immerhin gemessen. Meinen Namen kannte er nicht, da ich mich mit einem Brief des Landesrats Schmid von Düsseldorf legitimirte, der an mich gerichtet war <choice><abbr>u.</abbr><expan>und</expan></choice> dem Couvert. Im Gespräch sagte ich natürlich weswegen ich da sei, dass wir in Östreich jetzt auch an die Fürsorgeerziehung gehen usw. Da erhob er sich plötzlich, ging an seinen Bücherschrank <choice><abbr>u.</abbr><expan>und</expan></choice> sagte: sie haben aber in Österreich einen Mann, der in diesen Dingen eine große Autorität ist, ich habe hier sein Werk, das ich schon mehrmals durchstudiert habe <choice><abbr>u.</abbr><expan>und</expan></choice> mir eine Fundgrube für mein Amt geworden ist usw. etwas sehr übertriebenes Lob. Das Buch ist von Dr. Baernreither fuhr er fort, kennen sie diesen Mann?  Als ich darauf erwiderte, ich sei das selber, so hatte seine Freude wirklich kein Ende. Immer wieder kam er darauf zurück <choice><abbr>u.</abbr><expan>und</expan></choice> die Schleusen der wahrhaft rheinischen Gastfreundschaft <choice><abbr>u.</abbr><expan>und</expan></choice> Gemütlichkeit waren gezogen. Ich musste Café und dann Wein mit ihm trinken <choice><abbr>u.</abbr><expan>und</expan></choice> er erzählte mir, wie er mein Buch so oft zu Eingaben <choice><abbr>u.</abbr><expan>und</expan></choice> Vorträgen bei der Landesregierung benutzt habe. Und in der Tat machte das Exemplar, das er hatte, den Eindruck, viel gelesen zu sein, mit einer Menge von Randbemerkungen usw. Wieder, wie so oft, musste ich denken: hätte ich nur ein paar solcher Bücher geschrieben, wie viel mehr hätte ich für meine Gedanken <choice><abbr>u.</abbr><expan>und</expan></choice> Überzeugungen gewirkt als mit meiner ganzen politischen Tätigkeit!</p>
                 <p>Ich war neulich in Prag bei der <hi rendition="#ul">Eröffnung des Landtages</hi> – vorher Volksversammlung der deutschen Parteien <choice><abbr>u.</abbr><expan>und</expan></choice> unser Wahlcomité. Welche Armut an politischen Ideen! Armut ist eigentlich schon zu viel gesagt – völliger Mangel ist die Tatsache. Die deutsche Vollver-<pb facs="#F_K-5_Bae_TB_8_161" n="73v"/><note type="editorial">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note><pb facs="#F_K-5_Bae_TB_8_162" n="74r"/>sammlung bot ein klägliches Bild. Politische Gedanken, Argumente spielen gar keine Rolle, alles ist Trieb <choice><abbr>u.</abbr><expan>und</expan></choice> Gefühl <choice><abbr>u.</abbr><expan>und</expan></choice> Stimmung. Man muss sich gewöhnen, in der democratischen Welt damit zu rechnen <choice><abbr>u.</abbr><expan>und</expan></choice> sich damit zu begnügen. Es ist schon viel wenn man aus all diesem Herumschlagen mit Worten entnimmt was eigentlich in der "Volksseele" vorgeht. Die Deutschböhmen wollen endlich Ordnung im Lande, keine Herrschaft mehr, sondern nur Ruhe in ihren Bezirken. Herzlich wenig. Die Drahtzieher wollen Minister oder Landesausschüsse werden. Sie wären zu jeder halbwegs vernünftigen Lösung bereit, aber sie müssen mit den wild herumschlagenden Collegen rechnen, von denen sich einer vor der Radicalisierung des andern fürchtet. So eine Versammlung zu lenken erfordert eine ganz neue Technik. Einige verstehen sie gut. Vor allem: reden lassen, austoben lassen, je mehr Unsinn herauskommt, desto weniger bleibt drin. Von den gehaltenen Reden würde Göthe sagen: sie sind "wie wenn man ein Schaff Wasser ausgiesst." Momentan überschwemmen sie Alles, lassen aber gar nichts zurück. Dann kommen die einverstanden[en] Drahtzieher schimpfen mit, womöglich noch ärger (ohne an das zu glauben was sie sagen), unmerklich lenken sie aber ab und es gelingt ihnen erklärend, bestimmend, versprechend die Massenseele umzustimmen o. wenigstens zu besänftigen. Comités wurden gewählt, Entscheidungen vertagt, den dümmsten Eitelkeiten entgegengekommen – das nennt man heute Politik machen. Bei uns wenigstens spielt es sich so ab. Aber ich glaube bei allen Parteien, denn hinter diesen gestikulierenden Abgeordneten stehen die noch ungebändigten Wähler <choice><abbr>u.</abbr><expan>und</expan></choice> dem Wähler liest jeder Candidat, jeder Abgeordnete seinen Wunsch von den Lippen. Ich will die Führer dieser politischen Massen keineswegs herabsetzen.<pb facs="#F_K-5_Bae_TB_8_163" n="74v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_164" n="75r"/>Sie sind manchmal sehr gescheit, politisch gebildet und loyal – aber alles das nützt ihnen nichts – sie müssen suggestiv sein mit was immer, durch was immer. Zuletzt müssen sie irgend einen Beschluss, irgend eine Resolution für sich haben und den Beifall als Zeichen der Übereinstimmung. Dann können sie wieder etwas aufatmen <choice><abbr>u.</abbr><expan>und</expan></choice> – vielleicht in sehr vernünftiger Richtung – weiterarbeiten; das ist aber meist ganz anders als in den Versammlungen gepredigt wird. Wenn man phonografisch <add place="across">in einem Grammophon</add> aufnehmen könnte was "die Führer" hinter den Culissen mit der Regierung <choice><abbr>u.</abbr><expan>und</expan></choice> den andern "Führern" packeln <choice><abbr>u.</abbr><expan>und</expan></choice> verhandeln im Entgegenhalt was sie öffentlich reden, so hätte man ein ergötzliches Widerspiel vor sich. Und es muss so sein. Unsere bodenlose Democratie bringt das mit sich. Aufrichtigkeit, ehrliches Heraussagen der Ueberzeugung o. auch nur der Tatsachen, die eigentlich niemand leugnen könnte – sind für einen Politiker in dieser Art Democratie tödlich. Den Gegner achten bringt ihn in den Geruch der Feigheit, dasjenige, worin der Gegner etwa recht hätte, anerkennen, in den <del rendition="#s">Ruf</del><add place="across">Verdacht</add> des Verrats, der Versuch, einen Mittelweg zu finden, in den Ruf der Schwächlichkeit.</p>
                 <p>Es scheint, dass diesmal die Deutschen mit ihrer gedankenlosen <choice><abbr>u.</abbr><expan>und</expan></choice> zerfahrenen Politik nur durch die Czechen gerettet werden, die brutal alles verweigern und sich dadurch ins Unrecht setzen.</p><pb facs="#F_K-5_Bae_TB_8_165" n="75v"/><note type="editorial">Diese Seite ist leer.</note>
             </div>
-            <div n="1909-10-02" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_166" n="76r"/><p>Lünz 2.10.09</p>
+            <div type="diaryEntry">
+                <pb facs="#F_K-5_Bae_TB_8_166" n="76r"/><p>Lünz <date when="1909-10-02" type="diaryEntry">2.10.09</date></p>
                 <p>Es ist notwendig <choice><abbr>f.</abbr><expan>für</expan></choice> die Zukunft [dass] in knappen Zügen der <hi rendition="#ul">wahre Kern</hi> der Vorgänge im <hi rendition="#ul">Prager Landtage</hi> gezeigt werde. An der Oberfläche ist es ein Streit um die Tagesordnung, im Wesen ist es ein tiefer Gegensatz. Die Czechen verfolgen unentwegt die Absicht das Ministerium Bienerth zu beseitigen. So sehr sie sonst den Landtag wünschen, diesmal ist er ihnen gleichgültig, denn der Ruf "kein Landtag kein Reichsrat" wird ihnen eine Waffe sein. Aber so klein sie im Frühjahr waren, der Kamm ist ihnen wieder geschwollen. Sie verhindern <del rendition="#s">die Vorlage in</del> die Discussion der Bienerth’schen Vorlagen, weil sie das Praejudiz einer solchen Ordnung der Dinge vermeiden wollen. Die Deutschen wollen den Landtag auch nicht. So oft sich eine Aussicht auf Flottmachung eröffnete waren sie missmutig <choice><abbr>u.</abbr><expan>und</expan></choice> als ganz zuletzt wirklich (wegen Nachgiebigkeit der <choice><abbr>čech.</abbr><expan>čechischen</expan></choice> Agrarier) ein Moment war wo es gelingen wollte <choice><abbr>u.</abbr><expan>und</expan></choice> ich dies Pergelt <choice><abbr>u.</abbr><expan>und</expan></choice> Eppinger mitteilte, sagten beide: das ist sehr fatal. Die Deutschen<pb facs="#F_K-5_Bae_TB_8_167" n="76v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_168" n="77r"/>fürchten sich vor den Wählern, andererseits muss man zugeben, dass sie recht haben, wenn sie sagen: es kommt doch nichts für uns heraus für irgend einen Erfolg keine Aussicht, daher war es für die Deutschen eine Erleichterung, dass nichts zu Stande kam.</p>
                 <p>Wenn zwei nicht zusammenkommen <hi rendition="#ul">wollen</hi>, mühen sich Vermittler vergebens ab. Der Oberstlandmarschall, der sich diesmal nicht <add place="across">nur</add> ganz correct, sondern auch sehr klug benommen hat, war mit Vertretern beider Gruppen des Grossgrundbesitzes in enger Fühlung <choice><abbr>u.</abbr><expan>und</expan></choice> diese Herren bemühten sich – man kann sagen Tag <choice><abbr>u.</abbr><expan>und</expan></choice> Nacht – eine Formel für eine Tagesordnung <del rendition="#ul">zu finden</del><add place="across">ausfindig zu machen</add>, die gewiss gefunden worden wäre, wenn es sich eben um die Tagesordnung gehandelt hätte. Das ist der Tatbestand und es folgt daraus, dass man sich endlich wird entschliessen müssen die böhmische Frage etwas tiefer aufzufassen als bisher.</p>
                 <p>Die Czechen wollen erpressen <choice><abbr>u.</abbr><expan>und</expan></choice> die Lage der Monarchie ausbeuten, ebenso die Ungarn:</p><pb facs="#F_K-5_Bae_TB_8_169" n="77v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_170" n="78r"/>
@@ -3556,66 +3557,66 @@
                 <addSpan spanTo="#xxx091" type="insertion"/><p>Citat <choice><abbr>öst.</abbr><expan>österreichische</expan></choice> Rundschau vom 1.10.09.</p>
             <p>Herr v. Justh hat dies ganz unumwunden zugegeben und öffentlich erklärt: "Wir können heute alles erreichen, wenn wir noch einige Monate aushalten. Wien war uns nie so sehr ausgeliefert als jetzt, da sein Interesse ganz von unserer Zustimmung abhängt. Heute können wir die Machthaber in einen dreifachen ex lex-Zustand treiben, indem wir erstens das ungarische Budget, zweitens das gemeinsame Budget und drittens das Geld für die außerordentlichen Marine- und Artillerie-Ausrüstungen verweigern. Ja, wir können sogar noch einen vierten ex lex-Zustand heraufbeschwören, indem wir die Verlängerung des Bankprivilegiums verweigern. Damit kommt die Großmachtstellung der Monarchie in eine solche Lage, daß ihre materiellen Hilfsquellen selbst dann erschöpft sein werden, wenn sie sich die Steuereinkünfte mit absolutistischen Mitteln beschafft."</p>
                 <p>Herrn von Justh scheint die Empfindung für das Widerliche dieser Revolverpolitik völlig abhanden gekommen zu sein, sowie überhaupt weite Kreise Ungarns das frivole einer solchen Katastrophenpolitik nicht erfassen und gänzlich vergessen, daß es ja nicht die Krone allein, sondern vor allem das Land selbst ist, dem sie durch ihr Vorgehen schweren Schaden zufügen.</p><anchor/><!-- anchor für addspan xxx091 --></div>
-            <div>
-                <p>Lünz am 22.10.09</p>
+            <div type="diaryEntry">
+                <p>Lünz am <date when="1909-10-22" type="diaryEntry">22.10.09</date></p>
                 <p>Itinerarium der letzten 3 Wochen</p>
-                <div n="1909-10-04" type="diaryEntry"><p><hi rendition="#ul">Montag den 4. <choice><abbr>Octer</abbr><expan>October</expan></choice> 09</hi></p>
+                <div type="diaryEntry"><p><date when="1909-10-04" type="diaryEntry"><hi rendition="#ul">Montag den 4. <choice><abbr>Octer</abbr><expan>October</expan></choice> 09</hi></date></p>
                     <p>Vormittag meinen Artikel über Praebilovic in Bosnien beendet. Abfahrt Nachmittag 1/2 4 Uhr nach Prag. Aufgabe des Artikels auf die Post in Pilsen. Nach Ankunft in Prag im Hause Riedl zu Abend gegessen <choice><abbr>u.</abbr><expan>und</expan></choice> in die Ressource gegangen. Dort erwarteten mich schon der Statthalter <choice><abbr>u.</abbr><expan>und</expan></choice> Urban. Längere Verhandlung <hi rendition="#ul">über den</hi> Plan der Regierung, den <hi rendition="#ul">Landtag arbeitsfähig zu machen</hi>. Rohan <choice><abbr>u.</abbr><expan>und</expan></choice> Clam-Martinitz kommen dazu.</p><pb facs="#F_K-5_Bae_TB_8_171" n="78v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_172" n="79r"/></div>
-                <div n="1909-10-05" type="diaryEntry">
-                    <p><hi rendition="#ul">Dienstag den 5. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                    <p><date when="1909-10-05" type="diaryEntry"><hi rendition="#ul">Dienstag den 5. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Vor 8 Uhr miete ich Auto um eine Sitzung der deutschen Parteifürer zusammenzutrommeln. Treffe Pacher nicht, doch Eppinger. Um 11 Uhr Vormittag bei Urban. Wir telegrafiren Schreiner sofort nach Prag zu kommen, was er zusagt. Zu Mittag in Hostawitz, gegen Abend zurück. Abend 9 Uhr Sitzung bei Urban: Schreiner, Eppinger, Nostitz <choice><abbr>u.</abbr><expan>und</expan></choice> ich. Soupé mit ausgezeichneten Raibentaler. Lange Conferenz, deren Ergebnis die Zusammenberufung der Parteiconferenz für nächsten Abend. Danach noch mit Nostitz in der Resource <choice><abbr>u.</abbr><expan>und</expan></choice> lange beisammen mit Clam.</p></div>
-                <div n="1909-10-06" type="diaryEntry">
-                    <p><hi rendition="#ul">Mittwoch den 6. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-06" type="diaryEntry"><hi rendition="#ul">Mittwoch den 6. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Vormittag bei Urban mit dem ich die Textirung der deutschen Schutzgesetze für Niederösterreich usw. eingehend berate. Mittag Hostawitz. Abend Parteisitzung im deutschen Haus: Schreiner, Urban, <hi rendition="#ul"><choice><abbr>Epp.</abbr><expan>Eppinger</expan></choice>, Kreitzner, Legler, Pergelt, Nostitz</hi> <choice><abbr>u.</abbr><expan>und</expan></choice> ich. Da die Czechen schon abgelehnt hatten, war die Entscheidung sehr einfach. Ich verfasse das Communiqué, das ohne Aenderung angenommen wird. Dann noch bis 1/2 2 Uhr in der Resource mit Clam, der Plan hatte durch Chancement im Ministerium (Hochenburger †) Bienerth flott zu machen. Ich erwiderte das ginge nur mit einer Reconstruktion auf Grund einer <choice><abbr>polit.</abbr><expan>politischen</expan></choice> Idee.</p></div>
-                <div n="1909-10-07" type="diaryEntry">
-                    <p><hi rendition="#ul">Donnerstag den 7. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-07" type="diaryEntry"><hi rendition="#ul">Donnerstag den 7. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Wir (Schreiner, Urban, Pergelt <choice><abbr>u.</abbr><expan>und</expan></choice> ich) fahren um 7 Uhr von Prag ab nach Wien. Ich trenne mich in Wessly [?] und fahre nach Salzburg, wo ich um 4 Uhr ankomme, Hotel de l’Europe, wo ich Kübeck <choice><abbr>u.</abbr><expan>und</expan></choice> Tochter treffe.</p>
                     <p>Abends bei Kuenburg.</p></div><pb facs="#F_K-5_Bae_TB_8_173" n="79v"/><note type="editorial">Diese Seite ist leer.</note>
-                <div n="1909-10-08" type="diaryEntry">
-                    <pb facs="#F_K-5_Bae_TB_8_174" n="80r"/><p><hi rendition="#ul">Freitag den 8. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <pb facs="#F_K-5_Bae_TB_8_174" n="80r"/><p><date when="1909-10-08" type="diaryEntry"><hi rendition="#ul">Freitag den 8. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Früh <add place="across">erhalte ich die Correctur meines [...] Aufsatzes, den ich auf der Bahn corrigire.</add> Fahrt nach Tegernsee und Kreuth zu Sascha Schlippenbach bei der der <choice><abbr>ehem.</abbr><expan>ehemalige</expan></choice> badische Ministerpräsident Brauer <choice><abbr>u.</abbr><expan>und</expan></choice> Gattin zu Gast sind, korrigiere. Sehr angenehmer Abend. Die Correctur gebe ich in Tegernsee nach Wien auf die Post.</p></div>
-                <div n="1909-10-09" type="diaryEntry">
-                    <p><hi rendition="#ul">Samstag den 9. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-09" type="diaryEntry"><hi rendition="#ul">Samstag den 9. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Vormittag grossen Spaziergang mit Brauers bei Regen. Nachmittag Abreise nach Salzburg. Hotel <choice><abbr>Öst.</abbr><expan>Österreichischer</expan></choice> Hof.</p></div>
-                <div n="1909-10-10" type="diaryEntry">
-                    <p><hi rendition="#ul">Sonntag den 10. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-10" type="diaryEntry"><hi rendition="#ul">Sonntag den 10. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p><del rendition="#s">Erhalte früh die Correctur meines projectierten Aufsatzes die ich sofort vornehme <choice><abbr>u.</abbr><expan>und</expan></choice> nach Wien zurücksende.</del>Um 1/2 11 Uhr Abfahrt nach Triest via Gastein-Assling. Abend Hotel de la ville mit Hofrat Philippovich <choice><abbr>u.</abbr><expan>und</expan></choice> Dr. Lederer, wo wir die Enquete besprechen.</p></div>
-                <div n="1909-10-11" type="diaryEntry">
-                    <p><hi rendition="#ul">Montag den 11. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-11" type="diaryEntry"><hi rendition="#ul">Montag den 11. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Eröffnung der Enquete im Gebäude der Handelskammer. Ich halte eine deutsche Rede, die italienisch <choice><abbr>u.</abbr><expan>und</expan></choice> croatisch wiederholt wird. Grosse Versammlung, die ich (abwechselnd mit Hütterott <choice><abbr>u.</abbr><expan>und</expan></choice> Philippovich) deutsch-italienisch leite. Abend 1/2 9 Uhr grosses und gutes Diner beim Statthalter Hohenlohe.</p></div>
-                <div n="1909-10-12" type="diaryEntry">
-                    <p><hi rendition="#ul">Dienstag den 12. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-12" type="diaryEntry"><hi rendition="#ul">Dienstag den 12. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                     <p>Vormittag Enquete. Mittag grosses Frühstück, das uns Julius Singer auf dem "Gautsch" gibt. Nachmittag<pb facs="#F_K-5_Bae_TB_8_175" n="80v"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_176" n="81r"/>Enquete.</p></div>
-                <div n="1909-10-13" type="diaryEntry">
-                    <p><hi rendition="#ul">Mittwoch den 13. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-13" type="diaryEntry"><hi rendition="#ul">Mittwoch den 13. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Vormittag noch Enquete, die ich mit einer sehr beifällig aufgenommenen Rede schliesse. Dr. Lederer <choice><abbr>u.</abbr><expan>und</expan></choice> ich besuchen den O. L. Präsidenten Jakobić wegen Kinderfürsorge in Triest. Gegen Abend schöne Fahrt auf dem Tender "Taurus" mit Mataja, Philippovich <choice><abbr>u.</abbr><expan>und</expan></choice> Lederer nach Miramare.</p></div>
-                <div n="1909-10-14" type="diaryEntry">
-                    <p><hi rendition="#ul">Donnerstag den 14. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-14" type="diaryEntry"><hi rendition="#ul">Donnerstag den 14. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Abfahrt von Triest auf dem <del rendition="#s">"Hohenlohe"</del><add place="across">"Gautsch"</add> um 8 Uhr früh nach Gravosa. Sehr liebenswürdiger Capitän. Ausgezeichnete Cabinen. Gesellschaft: Gräfin Salm <choice><abbr>u.</abbr><expan>und</expan></choice> ein Oberstleutnant.</p></div>
-                <div n="1909-10-15" type="diaryEntry">
-                    <p><hi rendition="#ul">Freitag den 15. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-15" type="diaryEntry"><hi rendition="#ul">Freitag den 15. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Früh 8 Uhr Ankunft in Gravosa. Dr. Patsch aus Sarajevo erwartet mich. Fahren im Salonwagen nach Čapljina (bei Gabela), wo wir recht schlecht essen. Nachmittag Besichtigung des ausgegrabenen Castells Mogorjelo. Herrlicher Abend! Fahrt mit der Bahn nach Mitrowitz. Abends zusammen mit dem Richter, der Nacona schamlos ausbeutet!</p></div>
-                <div n="1909-10-16" type="diaryEntry">
-                    <p><hi rendition="#ul">Samstag den 16. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-16" type="diaryEntry"><hi rendition="#ul">Samstag den 16. <choice><abbr>Octbr</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Sehr zeitlich mit der Bahn via Gabela nach Gravosa.</p>
                     <p>In Ragusa Hotel Imperial. Nehme sofort einen Wagen und fahre nach Ragusa vecchia (Epidaurus). Wundervolle Fahrt, der Corniche ähnlich. Höchst interessante Hafensituation (Doppelhafen) in Epidaurus. Abend im Hotel soupiert mit Hofrat Swoboda. Erzherzogin Josefa ist im Hotel, schwarze Fräcke, Volkshimne. Wir soupieren in einem Nebenlokal.</p><pb facs="#F_K-5_Bae_TB_8_177" n="81v"/><note type="editorial">Diese Seite ist leer.</note></div>
-                <div n="1909-10-17" type="diaryEntry">
-                    <pb facs="#F_K-5_Bae_TB_8_178" n="82r"/><p><hi rendition="#ul">Sonntag den 17. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <pb facs="#F_K-5_Bae_TB_8_178" n="82r"/><p><date when="1909-10-17" type="diaryEntry"><hi rendition="#ul">Sonntag den 17. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Früh Abfahrt nach Cattaro mit Hofrat Swoboda, der mich begleitet. Wir kreuzen uns mit Kalchberg, der von Triest ankommt. Auf dem "Hohenlohe". In Cattaro der Statthaltereirat, der mich (von Swoboda avisirt) erwartet. Sehr interessante Conversation über dortige Verhältnisse. Abfahrt von Cattaro um 1 Uhr. Reisegesellschaft: Generalstabchef Conrad mit seinen Offizieren, sehr angenehm. In Gravosa steigt die Erzherzogin Josefa ein, genirt aber niemanden. Beleuchtung von Curzola mit Scheinwerfern!</p></div>
-                <div n="1909-10-18" type="diaryEntry">
-                    <p><hi rendition="#ul">Montag den 18. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-18" type="diaryEntry"><hi rendition="#ul">Montag den 18. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>In Zara kommt Vuković <choice><abbr>u.</abbr><expan>und</expan></choice> ein anderer <choice><abbr>croat.</abbr><expan>croatischer</expan></choice> <choice><abbr>Abg.</abbr><expan>Abgeordneter</expan></choice> aufs Schiff mit dem ich mich gut unterhalte. Im Übrigen schreibe ich mein Tagebuch von Mogorelo. Pünktliche Ankunft in Triest. Besuch des Statthalters, wo ich 1 Stunde bleibe. Dann Abendessen im Hotel de la Ville, wohin Präsident Delles <!-- Anton Delles --> kommt, mit dem ich noch wegen der Enquete spreche. Abend 3/4 9 Uhr Abfahrt mit der Staatsbahn nach Linz.</p></div>
-                <div n="1909-10-19" type="diaryEntry">
-                    <p><hi rendition="#ul">Dienstag den 19. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-19" type="diaryEntry"><hi rendition="#ul">Dienstag den 19. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                     <p>Früh 3/4 9 Uhr Ankunft in <del rendition="#s">Lünz</del> Linz. Weiterfahrt nach Wien, wo ich um 1/2 1 Uhr ankomme. Nachmittag Sitzung unserer Partei im <choice><abbr>H.Haus</abbr><expan>Herrenhaus</expan></choice>. Besuch von Dr. Junker wegen "<choice><abbr>Öst.</abbr><expan>Österreichischer</expan></choice> Rundschau". Ich verfasse einen Antrag wegen Fürsorge für Seeleute, den ich Hütterott zum Mitunterschreiben schicke. Abend im Stefanskeller: Marchet, Redlich, Urban, Ehrenfels, Grabmayr, Exner. Politik bis 11 Uhr.</p><pb facs="#F_K-5_Bae_TB_8_179" n="82v"/><note type="editorial">Diese Seite ist leer.</note></div>
-                <div n="1909-10-20" type="diaryEntry">
-                    <pb facs="#F_K-5_Bae_TB_8_180" n="83r"/><p><hi rendition="#ul">Mittwoch den 20. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <pb facs="#F_K-5_Bae_TB_8_180" n="83r"/><p><date when="1909-10-20" type="diaryEntry"><hi rendition="#ul">Mittwoch den 20. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Früh Besuch von Marchet. Nachmittag 3 Uhr Sitzung des Herrenhauses. Um 1/2 6 Uhr Sitzung des Exekutivcomités der Centralstelle für Kinderschutz. Abend mit Marchet <choice><abbr>u.</abbr><expan>und</expan></choice> seiner Tochter Hilda im Matschakerhof soupiert. Danach noch Joqaiclub: <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice>, Nostitz, Clam <choice><abbr>u.</abbr><expan>und</expan></choice> sehr viele Herren. Tivadar Zichy langes Gespräch mit mir.</p></div>
-                <div n="1909-10-21" type="diaryEntry">
-                    <p><hi rendition="#ul">Donnerstag den 21. <choice><abbr>Octb.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-21" type="diaryEntry"><hi rendition="#ul">Donnerstag den 21. <choice><abbr>Octb.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Magistratsdirektor Appel besucht wegen Bergwerk. Im Abgeordnetenhaus <choice><abbr>u.</abbr><expan>und</expan></choice> in der Bibliothek. 1 Uhr Sitzung des Herrenhauses, dann noch lang mit <choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice>. Um 5 Uhr in der Bibergasse 2 lang mit Dr. Lederer conferirt. Soupiert bei Meissl <choice><abbr>u.</abbr><expan>und</expan></choice> dann bei Pucher. Langer Plausch mit Schulz.</p></div>
-                <div n="1909-10-22" type="diaryEntry">
-                    <p><hi rendition="#ul">Freitag den 22. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></p>
+                <div type="diaryEntry">
+                  <p><date when="1909-10-22" type="diaryEntry"><hi rendition="#ul">Freitag den 22. <choice><abbr>Oct.</abbr><expan>October</expan></choice></hi></date></p>
                 <p>Früh Abfahrt von Wien nach Lünz, wo ich Abend ankomme.</p>
                 <p>Demnach in diesen 3 Wochen nach der Devise variatio delectat gelebt. Jetzt hoffe ich aber auf mindestens 14 Tage ruhige Arbeit hier in Lünz.</p>
                 <p>Die Enquete (über sociale Versicherung zur See) war sehr instructiv. Neue Einblicke in das Leben der Seeleute und Fischer. Werde Material zu einer größeren Rede verwenden.</p>
@@ -3623,8 +3624,8 @@
                 </p><pb facs="#F_K-5_Bae_TB_8_181" n="83v"/><note type="editorial">Diese Seite ist leer.</note>
                 </div>
             </div>
-            <div n="1909-10-28" type="diaryEntry">
-                <pb facs="#F_K-5_Bae_TB_8_182" n="84r"/><p>Lünz 28.10.09</p><anchor/><app from="#xxx182" type="insertion"><rdg>[...]</rdg></app><addSpan spanTo="#xxx182" type="insertion"/>
+            <div type="diaryEntry">
+              <pb facs="#F_K-5_Bae_TB_8_182" n="84r"/><p>Lünz <date when="1909-10-28" type="diaryEntry">28.10.09</date></p><anchor/><app from="#xxx182" type="insertion"><rdg>[...]</rdg></app><addSpan spanTo="#xxx182" type="insertion"/>
                 <p>Die Zusammenkunft in Racconigi</p>
                 <p>Mailand, 27. Okt. (Priv.) "Corriere de la Sera" veröffentlicht die Unterredung einer seiner Redakteure mit dem Fürsten Dolgoruky, dem russischen Botschafter beim Quirinal, der sich folgendermaßen äußerte: Die Zusammenkunft von Racconigi besitze jedenfalls eine große politische Bedeutung, ohne sich aber gegen andere Mächte zu richten. Die italienisch-russischen Beziehungen hätten durchaus keinen aggressiven Charakter. Nur wenn Oesterreich-Ungarn versuchen sollte, sich auf der Balkanhalbinsel noch weiter auszudehnen, wäre der Friede gefährdet. Die vom Zaren gewählte Reiseroute bedeute keine Unhöflichkeit gegen Oesterreich, <hi rendition="#ul">da keine Verpflichtung</hi> bestanden habe, österreichisches Gebiet zu durchqueren.</p><anchor/><!-- anchor für addspan xxx182 --></div>
     </body>
