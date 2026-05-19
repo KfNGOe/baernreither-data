@@ -7738,13 +7738,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_5_5777">
-        <anchor xml:id="Bae_TB_5_5779"/>
-        <head xml:id="Bae_TB_5_7839">
-          <hi rendition="#ul" xml:id="Bae_TB_5_5780">Die Sommermonate 
+          <anchor xml:id="Bae_TB_5_5779"/>
+          <head><hi rendition="#ul" xml:id="Bae_TB_5_5780">Die Sommermonate 
             <date when="1900" xml:id="Bae_TB_5_5781">1900</date>
-          </hi>
-          <date when="1900-09" type="diaryEntry" xml:id="Bae_TB_5_7840"/>
-        </head>
+          </hi><date when="1900-09" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_5_5782">
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_5_5783">Körber's</persName> Fleiss, Kenntnisse, seine Zurückhaltung 
           <choice xml:id="Bae_TB_5_5784">
@@ -9540,8 +9537,7 @@
       <div type="diaryEntry" xml:id="Bae_TB_5_7101">
         <anchor xml:id="Bae_TB_5_7102"/>
         <head xml:id="Bae_TB_5_7103">
-          <hi rendition="ul" xml:id="Bae_TB_5_7104">For Sale</hi>
-          <date when="1903-03" type="diaryEntry" xml:id="Bae_TB_5_7841"/>
+          <hi rendition="ul" xml:id="Bae_TB_5_7104">For Sale</hi><date when="1903-03" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_5_7105">Fast 1 ½ Jahre sind verstrichen, seit ich die vorstehenden Zeilen niederschrieb, denn ich empfand wenig Anreiz irgend Etwas zu fixiren. Soll ich die Grundstimmung, the ground well, von der Politik 
           <choice xml:id="Bae_TB_5_7106">
