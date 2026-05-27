@@ -653,6 +653,7 @@ Generated from tei_all.rng
                <ref name="abbr"/>
                <ref name="expan"/>
                <ref name="choice"/>
+               <ref name="index"/>
             </choice>
          </zeroOrMore>
          <ref name="att.global.attribute.xmlid"/>
@@ -1662,13 +1663,14 @@ Generated from tei_all.rng
                <ref name="measure"/>
                <ref name="index"/>
                <ref name="date"/>
+               <ref name="title"/>
                <text/>
             </choice>
          </zeroOrMore>
          <ref name="att.global.attribute.xmlid"/>
       </element>
    </define>
-   
+
    <define name="pb">
       <element name="pb">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(page beginning) marks the beginning of a new page in a paginated document.</a:documentation>
@@ -1747,6 +1749,7 @@ Generated from tei_all.rng
                <ref name="measure"/>
                <ref name="index"/>
                <ref name="date"/>
+               <ref name="title"/>
                <text/>
             </choice>
          </zeroOrMore>
@@ -1755,7 +1758,7 @@ Generated from tei_all.rng
          <ref name="att.global.rendition.attribute.rendition"/>
       </element>
    </define>
-   
+
    <define name="choice">
       <element name="choice">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">groups a number of alternative encodings for the same point in a text.</a:documentation>
