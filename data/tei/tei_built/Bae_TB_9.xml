@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_9_1">
   <teiHeader xml:id="Bae_TB_9_2">
     <fileDesc xml:id="Bae_TB_9_3">
@@ -796,15 +796,12 @@
           <!-- identity unknown -->
           <persName key="SteinbergJulius" ref="no_ref" xml:id="Bae_TB_9_572">Steinberg</persName> sprach. Es wird jetzt klar dass die Conservativen im 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_573">
-            <choice xml:id="Bae_TB_9_574">
-              <abbr xml:id="Bae_TB_9_575">
-                <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_9_576">böhm.</placeName>
-              </abbr>
-              <expan xml:id="Bae_TB_9_577">
-                <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_9_578">böhmischen</placeName>
-              </expan>
-            </choice> Landtag 
-          </orgName> den Sturz 
+            <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_9_576">
+              <choice xml:id="Bae_TB_9_574">
+                <abbr xml:id="Bae_TB_9_575">böhm.</abbr>
+                <expan xml:id="Bae_TB_9_577">böhmischen</expan>
+              </choice>
+            </placeName> Landtag</orgName> den Sturz 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_579">Beck's</persName> planmässig vorbereitet haben. In der letzten Sitzung haben die 
           <choice xml:id="Bae_TB_9_580">
             <abbr xml:id="Bae_TB_9_581">čech.</abbr>
@@ -5368,12 +5365,10 @@
           </choice> Wählervorurteil zu einer Frage ja oder nein sagt. 
         </p>
         <p xml:id="Bae_TB_9_3826">Dies ist das grosse Feld für die parlamentarische Corruption: die eigentlichen Ziele der Politik durch die verschiedenen parlamentarischen Motive zu erreichen. Der Satz: der Zweck heiligt die Mittel gelangt zur Alleinherrschaft. Bei uns durch den jüdischen Einschlag in die Leitung unserer Politik, durch das was ich die jüdische Nebenregierung nenne - bei der Anwendung von Mitteln, bei Praktiken angelangt, die man in 
-          <choice xml:id="Bae_TB_9_3827">
+          <placeName key="Deutschland" xml:id="Bae_TB_9_3830"><choice xml:id="Bae_TB_9_3827">
             <abbr xml:id="Bae_TB_9_3828">Dland</abbr>
-            <expan xml:id="Bae_TB_9_3829">
-              <placeName key="Deutschland" xml:id="Bae_TB_9_3830">Deutschland</placeName>
-            </expan>
-          </choice>, in 
+            <expan xml:id="Bae_TB_9_3829">Deutschland</expan>
+          </choice></placeName>, in 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_9_3831">England</placeName> unter allen Umständen verschmähen würde. Das ist der Sieghartismus bei uns. In 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3832">Prag</placeName> haben wir ohne Sieghartismus gearbeitet, wirklich durchaus mit reinen Händen, ohne in der Lage zu sein oder es auch nur zu versuchen durch Versprechungen 
           <choice xml:id="Bae_TB_9_3833">
