@@ -880,13 +880,14 @@ Generated from tei_all.rng
             </choice>
          </zeroOrMore>
          <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.global.rendition.attribute.rendition"/>
          <ref name="att.datable.w3c.attribute.when"/>
          <ref name="att.datable.w3c.attribute.from"/>
          <ref name="att.datable.w3c.attribute.to"/>
          <ref name="att.typed.attributes"/>
       </element>
    </define>
-   
+
    <define name="idno">
       <element name="idno">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(identifier) supplies any form of identifier used to identify some object.</a:documentation>
@@ -1789,6 +1790,8 @@ Generated from tei_all.rng
             </choice>
          </zeroOrMore>
          <ref name="att.global.attribute.xmlid"/>
+         <ref name="att.typed.attribute.type"/>
+         <ref name="att.typed.attribute.subtype"/>
       </element>
    </define>
    
