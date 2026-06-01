@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_9_1">
   <teiHeader xml:id="Bae_TB_9_2">
     <fileDesc xml:id="Bae_TB_9_3">
@@ -117,7 +117,8 @@
             <abbr xml:id="Bae_TB_9_82">u.</abbr>
             <expan xml:id="Bae_TB_9_83">und</expan>
           </choice> Corruption durchgebracht worden. 
-          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_84">Sieghart</persName> war der Macher. Redner nennt ihn den <persName key="Timur" ref="https://d-nb.info/gnd/118622803">Tamerlan</persName> der Wertheimischen Kassen. Verkauf von Orden 
+          <persName key="SieghartRudolf" ref="https://d-nb.info/gnd/117364452" xml:id="Bae_TB_9_84">Sieghart</persName> war der Macher. Redner nennt ihn den 
+          <persName key="Timur" ref="https://d-nb.info/gnd/118622803" xml:id="Bae_TB_9_4265">Tamerlan</persName> der Wertheimischen Kassen. Verkauf von Orden 
           <choice xml:id="Bae_TB_9_86">
             <abbr xml:id="Bae_TB_9_87">u.</abbr>
             <expan xml:id="Bae_TB_9_88">und</expan>
@@ -165,7 +166,8 @@
           <choice xml:id="Bae_TB_9_115">
             <abbr xml:id="Bae_TB_9_116">christl.-soc.</abbr>
             <expan xml:id="Bae_TB_9_117">christlich-sozialer</expan>
-          </choice> Parteimann. Wird bewogen von Candidatur zurückzutreten wird ins <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_9_118">Arbeits 
+          </choice> Parteimann. Wird bewogen von Candidatur zurückzutreten wird ins 
+          <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_9_118">Arbeits 
             <choice xml:id="Bae_TB_9_119">
               <abbr xml:id="Bae_TB_9_120">M.</abbr>
               <expan xml:id="Bae_TB_9_121">Ministerium</expan>
@@ -467,7 +469,8 @@
               <abbr xml:id="Bae_TB_9_348">M.</abbr>
               <expan xml:id="Bae_TB_9_349">Ministerium</expan>
             </choice>
-          </orgName>. Dort war <persName key="BuschmannAlfred" ref="https://d-nb.info/gnd/143806769" xml:id="Bae_TB_9_350">Buschmann</persName> ältester Sektionschef 
+          </orgName>. Dort war 
+          <persName key="BuschmannAlfred" ref="https://d-nb.info/gnd/143806769" xml:id="Bae_TB_9_350">Buschmann</persName> ältester Sektionschef 
           <choice xml:id="Bae_TB_9_351">
             <abbr xml:id="Bae_TB_9_352">u.</abbr>
             <expan xml:id="Bae_TB_9_353">und</expan>
@@ -490,12 +493,13 @@
           <!-- identity unknown -->
           <persName key="FischerHermann" ref="no_ref" xml:id="Bae_TB_9_365">Fischer</persName> in 
           <!-- identity unknown -->
-          <placeName key="Czernowitz" ref="https://www.geonames.org/710719/chernivtsi.html" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara (<persName key="FischerMoses">Moses</persName> 
+          <placeName key="Czernowitz" ref="https://www.geonames.org/710719/chernivtsi.html" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara (
+          <persName key="FischerMoses" xml:id="Bae_TB_9_4266">Moses</persName>
           <choice xml:id="Bae_TB_9_368">
             <abbr xml:id="Bae_TB_9_369">u.</abbr>
             <expan xml:id="Bae_TB_9_370">und</expan>
           </choice>
-         <persName key="FischerSara">Sara</persName>, seine Eltern) annahm. 
+          <persName key="FischerSara" xml:id="Bae_TB_9_4267">Sara</persName>, seine Eltern) annahm. 
           <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_9_372">Viki</persName> erzählt mir dass er jener Familien angehört die in der 
           <!-- identity unknown -->
           <placeName key="Moldau" ref="https://www.geonames.org/617790/republic-of-moldova.html" xml:id="Bae_TB_9_373">Moldau</placeName> die grossen Pachtungen haben, auf denen die Bauernschinderei im höchsten Maase betrieben wird 
@@ -627,7 +631,8 @@
               <expan xml:id="Bae_TB_9_465">Donaueschingen</expan>
             </choice>
           </placeName> erzählt. 
-          <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_9_466">Kaiser</persName> sehr impulsiv. Als <persName key="ZeppelinFerdinand" ref="https://d-nb.info/gnd/118636545" xml:id="Bae_TB_9_467">Zeppelins</persName> Luftschiff pünktlich bei Ankunft des 
+          <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_9_466">Kaiser</persName> sehr impulsiv. Als 
+          <persName key="ZeppelinFerdinand" ref="https://d-nb.info/gnd/118636545" xml:id="Bae_TB_9_467">Zeppelins</persName> Luftschiff pünktlich bei Ankunft des 
           <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_9_468">Kaisers</persName> in 
           <placeName key="Donaueschingen" ref="https://www.geonames.org/2936267/donaueschingen.html" xml:id="Bae_TB_9_469">
             <choice xml:id="Bae_TB_9_470">
@@ -640,7 +645,9 @@
             <expan xml:id="Bae_TB_9_475">und</expan>
           </choice> dann geraden Wegs wieder 
           <placeName key="Bodensee" ref="https://www.geonames.org/2659347/bodensee.html" xml:id="Bae_TB_9_476">Bodensee</placeName> abfur telegrafirte 
-          <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_9_477">Kaiser</persName> sofort an den <persName key="EinemKarl" ref="https://d-nb.info/gnd/116424974">Kriegsminister</persName> <choice xml:id="Bae_TB_9_478">
+          <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_9_477">Kaiser</persName> sofort an den 
+          <persName key="EinemKarl" ref="https://d-nb.info/gnd/116424974" xml:id="Bae_TB_9_4268">Kriegsminister</persName>
+          <choice xml:id="Bae_TB_9_478">
             <abbr xml:id="Bae_TB_9_479">u.</abbr>
             <expan xml:id="Bae_TB_9_480">und</expan>
           </choice> befürwortete Ankauf des Luftschiffes 
@@ -779,7 +786,8 @@
                 <abbr xml:id="Bae_TB_9_575">böhm.</abbr>
                 <expan xml:id="Bae_TB_9_577">böhmischen</expan>
               </choice>
-            </placeName> Landtag</orgName> den Sturz 
+            </placeName> Landtag
+          </orgName> den Sturz 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_579">Beck's</persName> planmässig vorbereitet haben. In der letzten Sitzung haben die 
           <choice xml:id="Bae_TB_9_580">
             <abbr xml:id="Bae_TB_9_581">čech.</abbr>
@@ -833,12 +841,14 @@
             <expan xml:id="Bae_TB_9_615">und</expan>
           </choice>
           <!-- identity unknown -->
-          <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_9_616">Redlich</persName> bei mir. Kamen von <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_617">Ährenthal</persName>. Halten die Zustände für ganz unhaltbar 
+          <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_9_616">Redlich</persName> bei mir. Kamen von 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_617">Ährenthal</persName>. Halten die Zustände für ganz unhaltbar 
           <choice xml:id="Bae_TB_9_618">
             <abbr xml:id="Bae_TB_9_619">u.</abbr>
             <expan xml:id="Bae_TB_9_620">und</expan>
           </choice> redeten viel darüber herum was zu machen. "Den Kaiser in ein anderes Milieu bringen"! – aber 
-          <hi rendition="#ul" xml:id="Bae_TB_9_621">wie</hi> frug ich. "Ein Ministerium der That vorbereiten" – wer wird es einsetzen frug ich. Schliesslich kamen wir überein bei <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_622">Ährenthal</persName> concentrisch dahin zu wirken, dass kein oberflächlich gekleistertes Coalitionsministerium zu Stande komme. 
+          <hi rendition="#ul" xml:id="Bae_TB_9_621">wie</hi> frug ich. "Ein Ministerium der That vorbereiten" – wer wird es einsetzen frug ich. Schliesslich kamen wir überein bei 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_622">Ährenthal</persName> concentrisch dahin zu wirken, dass kein oberflächlich gekleistertes Coalitionsministerium zu Stande komme. 
           <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_TB_9_623">Dzieduszycki</persName> erzählte von dem Portefeuillehunger in seiner 
           <orgName key="Verfassungspartei" ref="no_ref" xml:id="Bae_TB_9_624">Partei</orgName>. Jeder will Minister werden, wie bei den Deutschen. 
         </p>
@@ -858,7 +868,7 @@
             <abbr xml:id="Bae_TB_9_635">italen.</abbr>
             <expan xml:id="Bae_TB_9_636">italienischen</expan>
           </choice> Studenten wollen ja den "deutschen Karakter der 
-          <orgName key="UniversitaetWien" ref="https://d-nb.info/gnd/2024703-5">Wiener Universität</orgName>" nicht verletzen – im Gegenteil sie wollen ja 
+          <orgName key="UniversitaetWien" ref="https://d-nb.info/gnd/2024703-5" xml:id="Bae_TB_9_4269">Wiener Universität</orgName>" nicht verletzen – im Gegenteil sie wollen ja 
           <hi rendition="#ul" xml:id="Bae_TB_9_638">heraus</hi> aus der deutschen Universität 
           <choice xml:id="Bae_TB_9_639">
             <abbr xml:id="Bae_TB_9_640">u.</abbr>
@@ -878,7 +888,8 @@
             <abbr xml:id="Bae_TB_9_651">dh.</abbr>
             <expan xml:id="Bae_TB_9_652">durch</expan>
           </choice>
-          <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_9_653">Czernin</persName> dem <persName key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005">Thronfolger</persName> mitgeteilt, der sie verlangt hatte. 
+          <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_9_653">Czernin</persName> dem 
+          <persName key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005" xml:id="Bae_TB_9_4270">Thronfolger</persName> mitgeteilt, der sie verlangt hatte. 
         </p>
         <p xml:id="Bae_TB_9_654">Am 
           <date when="1909-07-02" xml:id="Bae_TB_9_655">2. Juli 1909</date> fand bei 
@@ -899,7 +910,8 @@
           <!-- identity unknown -->
           <persName key="UdrzalFrantisek" ref="https://d-nb.info/gnd/12864835X" xml:id="Bae_TB_9_667">Udrzal</persName>, 
           <!-- identity unknown -->
-          <persName key="BaxaKarel" ref="https://d-nb.info/gnd/1042784795" xml:id="Bae_TB_9_668">Baxa</persName> <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_9_669">Kramàr</persName>, ich) in der die Möglichkeit der Beratung der 
+          <persName key="BaxaKarel" ref="https://d-nb.info/gnd/1042784795" xml:id="Bae_TB_9_668">Baxa</persName>
+          <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_9_669">Kramàr</persName>, ich) in der die Möglichkeit der Beratung der 
           <choice xml:id="Bae_TB_9_670">
             <abbr xml:id="Bae_TB_9_671">böhm.</abbr>
             <expan xml:id="Bae_TB_9_672">böhmischen</expan>
@@ -934,8 +946,7 @@
             <abbr xml:id="Bae_TB_9_695">Gfin.</abbr>
             <expan xml:id="Bae_TB_9_696">Gräfin</expan>
           </choice>
-          <persName key="SchoenbornTheresia" xml:id="Bae_TB_9_697">Schönborn</persName>
-           die ihm Bewunderung aussprach wie er alles was er tut bewältigen könne – "ich schöpfe die Kraft dazu aus den Sakramenten" – brühwarm erzählte mir die 
+          <persName key="SchoenbornTheresia" xml:id="Bae_TB_9_697">Schönborn</persName> die ihm Bewunderung aussprach wie er alles was er tut bewältigen könne – "ich schöpfe die Kraft dazu aus den Sakramenten" – brühwarm erzählte mir die 
           <choice xml:id="Bae_TB_9_698">
             <abbr xml:id="Bae_TB_9_699">Gfin</abbr>
             <expan xml:id="Bae_TB_9_700">Gräfin</expan>
@@ -1011,7 +1022,8 @@
         </p>
         <p xml:id="Bae_TB_9_748">Mit 
           <!-- identity unknown -->
-          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_749">Friedjung</persName>. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_750">
+          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_749">Friedjung</persName>. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_750">
             <choice xml:id="Bae_TB_9_751">
               <abbr xml:id="Bae_TB_9_752">Athal</abbr>
               <expan xml:id="Bae_TB_9_753">Aehrenthal</expan>
@@ -1033,18 +1045,21 @@
               <abbr xml:id="Bae_TB_9_763">F.</abbr>
               <expan xml:id="Bae_TB_9_764">Friedjung</expan>
             </choice>
-          </persName> meint Ausgang des Processes sei für <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_765">
+          </persName> meint Ausgang des Processes sei für 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_765">
             <choice xml:id="Bae_TB_9_766">
               <abbr xml:id="Bae_TB_9_767">Athal</abbr>
               <expan xml:id="Bae_TB_9_768">Aehrenthal</expan>
             </choice>
           </persName> nicht günstig gewesen. Besser wäre die Freisprechung gewesen. Er hätte im Plaidoyer die Provenienz der Documente 
-          <hi rendition="#ul" xml:id="Bae_TB_9_769">nicht</hi> geltend gemacht, da er es versprochen hatte. Eher hätte ihn <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_770">
+          <hi rendition="#ul" xml:id="Bae_TB_9_769">nicht</hi> geltend gemacht, da er es versprochen hatte. Eher hätte ihn 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_770">
             <choice xml:id="Bae_TB_9_771">
               <abbr xml:id="Bae_TB_9_772">Athal</abbr>
               <expan xml:id="Bae_TB_9_773">Aehrenthal</expan>
             </choice>
-          </persName> selbst martern können. Merkwürdige Unterwerfung!! <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_774">
+          </persName> selbst martern können. Merkwürdige Unterwerfung!! 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_774">
             <choice xml:id="Bae_TB_9_775">
               <abbr xml:id="Bae_TB_9_776">Athal</abbr>
               <expan xml:id="Bae_TB_9_777">Aehrenthal</expan>
@@ -1081,24 +1096,28 @@
           <choice xml:id="Bae_TB_9_796">
             <abbr xml:id="Bae_TB_9_797">franz.</abbr>
             <expan xml:id="Bae_TB_9_798">französische</expan>
-          </choice> Botschafter erzält in einer Gesellschaft, dass so oft er von <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_799">
+          </choice> Botschafter erzält in einer Gesellschaft, dass so oft er von 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_799">
             <choice xml:id="Bae_TB_9_800">
               <abbr xml:id="Bae_TB_9_801">Athal</abbr>
               <expan xml:id="Bae_TB_9_802">Aehrenthal</expan>
             </choice>
-          </persName> zu Hause komme, er sich eine 1/4 Stunde einsperre um genau zu überlegen was <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_803">
+          </persName> zu Hause komme, er sich eine 1/4 Stunde einsperre um genau zu überlegen was 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_803">
             <choice xml:id="Bae_TB_9_804">
               <abbr xml:id="Bae_TB_9_805">Athal</abbr>
               <expan xml:id="Bae_TB_9_806">Aehrenthal</expan>
             </choice>
           </persName> eigentlich gesagt habe, denn dieser habe die Kunst in sein Reden so zu gruppiren dass oft in einem Nebensatz etwas Wichtiges steckt. Dies habe 
           <!-- identity unknown -->
-          <persName key="CrozierPhilippe" ref="https://d-nb.info/gnd/1052621430" xml:id="Bae_TB_9_807">Crozier</persName> <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_808">
+          <persName key="CrozierPhilippe" ref="https://d-nb.info/gnd/1052621430" xml:id="Bae_TB_9_807">Crozier</persName>
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_808">
             <choice xml:id="Bae_TB_9_809">
               <abbr xml:id="Bae_TB_9_810">Athal</abbr>
               <expan xml:id="Bae_TB_9_811">Aehrenthal</expan>
             </choice>
-          </persName> auch einmal gesagt. Darauf <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_812">
+          </persName> auch einmal gesagt. Darauf 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_812">
             <choice xml:id="Bae_TB_9_813">
               <abbr xml:id="Bae_TB_9_814">Athal</abbr>
               <expan xml:id="Bae_TB_9_815">Aehrenthal</expan>
@@ -1131,7 +1150,8 @@
           </placeName> unabhängiger zu machen – so sagt 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_832">Friedjung</persName>. Er weis auch dass in 
-          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_833">Berlin</placeName> große Verstimmung gegen <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_834">
+          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_833">Berlin</placeName> große Verstimmung gegen 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_834">
             <choice xml:id="Bae_TB_9_835">
               <abbr xml:id="Bae_TB_9_836">Athal</abbr>
               <expan xml:id="Bae_TB_9_837">Aehrenthal</expan>
@@ -1145,7 +1165,8 @@
               <abbr xml:id="Bae_TB_9_841">Fjung's</abbr>
               <expan xml:id="Bae_TB_9_842">Friedjungs</expan>
             </choice>
-          </persName> Urteil über <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_843">
+          </persName> Urteil über 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_843">
             <choice xml:id="Bae_TB_9_844">
               <abbr xml:id="Bae_TB_9_845">Athal</abbr>
               <expan xml:id="Bae_TB_9_846">Aehrenthal</expan>
@@ -1176,7 +1197,8 @@
           <!-- identity unknown -->
           <persName key="Donatello" ref="https://d-nb.info/gnd/118526693" xml:id="Bae_TB_9_862">Donatello</persName>, 
           <!-- identity unknown -->
-          <persName key="DyckAnthonisVan" ref="https://d-nb.info/gnd/118528386" xml:id="Bae_TB_9_863">van Dyck</persName> <choice xml:id="Bae_TB_9_864">
+          <persName key="DyckAnthonisVan" ref="https://d-nb.info/gnd/118528386" xml:id="Bae_TB_9_863">van Dyck</persName>
+          <choice xml:id="Bae_TB_9_864">
             <abbr xml:id="Bae_TB_9_865">u.</abbr>
             <expan xml:id="Bae_TB_9_866">und</expan>
           </choice> der Antike die Rede. Erzählte von den 
@@ -1212,7 +1234,6 @@
             <abbr xml:id="Bae_TB_9_887">überhpt.</abbr>
             <expan xml:id="Bae_TB_9_888">überhaupt</expan>
           </choice> kein expansiver lebhafter Südslawe ist, sondern eher von der ernst melancholischen Sorte. Eindruck: weis sehr genau was er will, ermüdet von der Reise, hofft 
-          
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_889">Aehrenthal</persName> werde ihm etwas bestimmtes sagen, was das letzte mal nicht der Fall war. 
         </p>
         <p xml:id="Bae_TB_9_890">Er geht in medias res mit der Bemerkung ein dass wenn man die einzelnen Akte der 
@@ -1238,7 +1259,8 @@
           <choice xml:id="Bae_TB_9_905">
             <abbr xml:id="Bae_TB_9_906">Mill.</abbr>
             <expan xml:id="Bae_TB_9_907">Millionen</expan>
-          </choice> vom Staat an Aktien abgenommen waren, fallirte sie. Der jetzige <persName key="PetarI" ref="https://d-nb.info/gnd/119527359">König</persName> lebt sehr zurückgezogen, bemüht sich 
+          </choice> vom Staat an Aktien abgenommen waren, fallirte sie. Der jetzige 
+          <persName key="PetarI" ref="https://d-nb.info/gnd/119527359" xml:id="Bae_TB_9_4271">König</persName> lebt sehr zurückgezogen, bemüht sich 
           <pb facs="#F_K-4_Bae_TB_9_031" n="14v" xml:id="Bae_TB_9_908"/>
           <note type="editorial" xml:id="Bae_TB_9_909">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_9_032" n="15r" xml:id="Bae_TB_9_910"/>so gut er kann, hat aber keine Wurzeln im Volk, weil er zu lange weg war. Die Vorgänge der vorletzten Zeit haben die 
@@ -1336,10 +1358,12 @@
             <abbr xml:id="Bae_TB_9_982">u.</abbr>
             <expan xml:id="Bae_TB_9_983">und</expan>
           </choice>
-          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"><choice xml:id="Bae_TB_9_984">
-            <abbr xml:id="Bae_TB_9_985">Dland</abbr>
-            <expan xml:id="Bae_TB_9_986">Deutschland</expan>
-          </choice></placeName> ein. Engländer sind wieder zu verdrängen, die Deutschen nicht. Grosse Anpassungsfähigkeit an die Bedürfnisse, Wünsche, Formen der Bevölkerung. Darin ist der deutsche Comis [...] ein Meister. Das wird 
+          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_9_4272">
+            <choice xml:id="Bae_TB_9_984">
+              <abbr xml:id="Bae_TB_9_985">Dland</abbr>
+              <expan xml:id="Bae_TB_9_986">Deutschland</expan>
+            </choice>
+          </placeName> ein. Engländer sind wieder zu verdrängen, die Deutschen nicht. Grosse Anpassungsfähigkeit an die Bedürfnisse, Wünsche, Formen der Bevölkerung. Darin ist der deutsche Comis [...] ein Meister. Das wird 
           <choice xml:id="Bae_TB_9_987">
             <abbr xml:id="Bae_TB_9_988">Ö.</abbr>
             <expan xml:id="Bae_TB_9_989">Österreich</expan>
@@ -1412,10 +1436,12 @@
             <expan xml:id="Bae_TB_9_1039">Durch</expan>
           </choice> das Durchfurverbot 
           <hi rendition="#ul" xml:id="Bae_TB_9_1040">verhindert</hi> es ja 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_1041">
-            <abbr xml:id="Bae_TB_9_1042">Ö.</abbr>
-            <expan xml:id="Bae_TB_9_1043">Österreich</expan>
-          </choice></placeName> nicht, kann es nicht verhindern, also hat es Charakter einer Chikane. 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_4273">
+            <choice xml:id="Bae_TB_9_1041">
+              <abbr xml:id="Bae_TB_9_1042">Ö.</abbr>
+              <expan xml:id="Bae_TB_9_1043">Österreich</expan>
+            </choice>
+          </placeName> nicht, kann es nicht verhindern, also hat es Charakter einer Chikane. 
         </p>
         <pb facs="#F_K-4_Bae_TB_9_035" n="16v" xml:id="Bae_TB_9_1044"/>
         <note type="editorial" xml:id="Bae_TB_9_1045">Diese Seite ist leer.</note>
@@ -1434,7 +1460,8 @@
             <abbr xml:id="Bae_TB_9_1056">Ö.</abbr>
             <expan xml:id="Bae_TB_9_1057">Österreich</expan>
           </choice> anerkennt. Wenn es zu einer wirklichen Entente kommen soll muss auch über diesen Punkt Klarheit geschaffen werden. 
-          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_9_1058">Altserbien</placeName> <placeName key="Amselfeld" ref="https://www.geonames.org/789229/kosovo-polje.html" xml:id="Bae_TB_9_1059">Amselfeld</placeName>. (dies ist mit ihm fortzusetzen. Vereinigung 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_9_1058">Altserbien</placeName>
+          <placeName key="Amselfeld" ref="https://www.geonames.org/789229/kosovo-polje.html" xml:id="Bae_TB_9_1059">Amselfeld</placeName>. (dies ist mit ihm fortzusetzen. Vereinigung 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_9_1060">Serbien</placeName>
           <choice xml:id="Bae_TB_9_1061">
             <abbr xml:id="Bae_TB_9_1062">u.</abbr>
@@ -1533,7 +1560,8 @@
             <expan xml:id="Bae_TB_9_1130">durch</expan>
           </choice> Jahrhunderte waren die Serben dem Einfluss von 
           <placeName key="Konstantinopel" ref="https://www.geonames.org/745044/istanbul.html" xml:id="Bae_TB_9_1131">Byzanz</placeName>, die Kroaten dem von 
-          <placeName key="Rom" ref="https://www.geonames.org/3169071/roma.html" xml:id="Bae_TB_9_1132">Rom</placeName> <choice xml:id="Bae_TB_9_1133">
+          <placeName key="Rom" ref="https://www.geonames.org/3169071/roma.html" xml:id="Bae_TB_9_1132">Rom</placeName>
+          <choice xml:id="Bae_TB_9_1133">
             <abbr xml:id="Bae_TB_9_1134">u.</abbr>
             <expan xml:id="Bae_TB_9_1135">und</expan>
           </choice>
@@ -1599,12 +1627,14 @@
         <pb facs="#F_K-4_Bae_TB_9_041" n="19v" xml:id="Bae_TB_9_1179"/>
         <note type="editorial" xml:id="Bae_TB_9_1180">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_042" n="20r" xml:id="Bae_TB_9_1181"/>
-        <p xml:id="Bae_TB_9_1182">Mit <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1183">Ährenthal</persName>
+        <p xml:id="Bae_TB_9_1182">Mit 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1183">Ährenthal</persName>
           <date when="1909-11-28" xml:id="Bae_TB_9_1184">28.11.09</date>
         </p>
         <p xml:id="Bae_TB_9_1185">Zuerst die Mitteilungen 
           <!-- identity unknown -->
-          <persName key="MilovanovicMilovan" ref="https://d-nb.info/gnd/118949470" xml:id="Bae_TB_9_1186">Milovanović</persName> durchgesprochen. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1187">
+          <persName key="MilovanovicMilovan" ref="https://d-nb.info/gnd/118949470" xml:id="Bae_TB_9_1186">Milovanović</persName> durchgesprochen. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1187">
             <choice xml:id="Bae_TB_9_1188">
               <abbr xml:id="Bae_TB_9_1189">Athal.</abbr>
               <expan xml:id="Bae_TB_9_1190">Aehrenthal</expan>
@@ -1626,7 +1656,8 @@
           <choice xml:id="Bae_TB_9_1201">
             <abbr xml:id="Bae_TB_9_1202">H.</abbr>
             <expan xml:id="Bae_TB_9_1203">Handels</expan>
-          </choice>Verträge hindert. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1204">
+          </choice>Verträge hindert. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1204">
             <choice xml:id="Bae_TB_9_1205">
               <abbr xml:id="Bae_TB_9_1206">Athal.</abbr>
               <expan xml:id="Bae_TB_9_1207">Aehrenthal</expan>
@@ -1812,7 +1843,8 @@
           <choice xml:id="Bae_TB_9_1346">
             <abbr xml:id="Bae_TB_9_1347">öster.</abbr>
             <expan xml:id="Bae_TB_9_1348">österreichischen</expan>
-          </choice> Krise kamen, ließ <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1349">
+          </choice> Krise kamen, ließ 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1349">
             <choice xml:id="Bae_TB_9_1350">
               <abbr xml:id="Bae_TB_9_1351">Athal</abbr>
               <expan xml:id="Bae_TB_9_1352">Aehrenthal</expan>
@@ -1873,7 +1905,8 @@
           <hi rendition="#ul" xml:id="Bae_TB_9_1393">wie</hi>. 
         </p>
         <p xml:id="Bae_TB_9_1394">Er widersprach nicht, stimmte aber auch nicht zu. Von einer Coalition in altem Sinne könne keine Rede sein. Er entschuldigte 
-          <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_1395">Bienerth's</persName> Untätigkeit damit, dass er die Deutschen nicht verletzen wolle. Ich antwortete die Deutschen wollen ihn ja stützen, aber sie wissen nicht was er will. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1396">
+          <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_1395">Bienerth's</persName> Untätigkeit damit, dass er die Deutschen nicht verletzen wolle. Ich antwortete die Deutschen wollen ihn ja stützen, aber sie wissen nicht was er will. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1396">
             <choice xml:id="Bae_TB_9_1397">
               <abbr xml:id="Bae_TB_9_1398">Athal</abbr>
               <expan xml:id="Bae_TB_9_1399">Aehrenthals</expan>
@@ -1890,7 +1923,8 @@
           <choice xml:id="Bae_TB_9_1406">
             <abbr xml:id="Bae_TB_9_1407">u.</abbr>
             <expan xml:id="Bae_TB_9_1408">und</expan>
-          </choice> <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1409">
+          </choice>
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1409">
             <choice xml:id="Bae_TB_9_1410">
               <abbr xml:id="Bae_TB_9_1411">Athal</abbr>
               <expan xml:id="Bae_TB_9_1412">Aehrenthal</expan>
@@ -1918,7 +1952,8 @@
           </persName> am 
           <date when="1909-11-29" xml:id="Bae_TB_9_1425">29.11.09</date>. 
         </p>
-        <p xml:id="Bae_TB_9_1426"><persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1427">
+        <p xml:id="Bae_TB_9_1426">
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1427">
             <choice xml:id="Bae_TB_9_1428">
               <abbr xml:id="Bae_TB_9_1429">Athal</abbr>
               <expan xml:id="Bae_TB_9_1430">Aehrenthal</expan>
@@ -1947,7 +1982,8 @@
             </choice>
           </placeName> und der 
           <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_9_1446">Türkei</placeName>. Der Fürer der letzten Türkendeputation in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1447">Wien</placeName> hat <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1448">
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1447">Wien</placeName> hat 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1448">
             <choice xml:id="Bae_TB_9_1449">
               <abbr xml:id="Bae_TB_9_1450">Athal</abbr>
               <expan xml:id="Bae_TB_9_1451">Aehrenthal</expan>
@@ -1956,7 +1992,8 @@
           <choice xml:id="Bae_TB_9_1452">
             <abbr xml:id="Bae_TB_9_1453">Ö.-U.</abbr>
             <expan xml:id="Bae_TB_9_1454">Österreich-Ungarn</expan>
-          </choice> angeboten. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1455">
+          </choice> angeboten. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1455">
             <choice xml:id="Bae_TB_9_1456">
               <abbr xml:id="Bae_TB_9_1457">Athal</abbr>
               <expan xml:id="Bae_TB_9_1458">Aehrenthal</expan>
@@ -1981,7 +2018,8 @@
               <abbr xml:id="Bae_TB_9_1472">B. u. H.</abbr>
               <expan xml:id="Bae_TB_9_1473">Bosnien und Herzegowina</expan>
             </choice>
-          </placeName> nicht schlucken kann. Dieser Plan ist dem mit <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1474">
+          </placeName> nicht schlucken kann. Dieser Plan ist dem mit 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1474">
             <choice xml:id="Bae_TB_9_1475">
               <abbr xml:id="Bae_TB_9_1476">Athal</abbr>
               <expan xml:id="Bae_TB_9_1477">Aehrenthal</expan>
@@ -2083,7 +2121,8 @@
             </choice>
           </placeName> scheint man zu glauben, dass dort eine Art Teilungsplan der 
           <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_9_1546">Türkei</placeName> vereinbart wurde – auf Kosten 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_1547">Österreichs</placeName>. Der <persName key="NikolausII" ref="https://d-nb.info/gnd/11873492X">Car</persName> wollte über 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_1547">Österreichs</placeName>. Der 
+          <persName key="NikolausII" ref="https://d-nb.info/gnd/11873492X" xml:id="Bae_TB_9_4274">Car</persName> wollte über 
           <!-- identity unknown -->
           <placeName key="Konstantinopel" ref="https://www.geonames.org/745044/istanbul.html" xml:id="Bae_TB_9_1548">Constantinopel</placeName> nach 
           <!-- identity unknown -->
@@ -2132,7 +2171,8 @@
           <!-- identity unknown -->
           <persName key="TschirschkyHeinrich" ref="https://d-nb.info/gnd/117432083" xml:id="Bae_TB_9_1579">Tschirschky</persName>, 
           <!-- identity unknown -->
-          <persName key="MarschallAdolf" ref="https://d-nb.info/gnd/118782096" xml:id="Bae_TB_9_1580">Marschal</persName> verhandelt, sind [...] aktuellen Plan. Wenn <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1581">
+          <persName key="MarschallAdolf" ref="https://d-nb.info/gnd/118782096" xml:id="Bae_TB_9_1580">Marschal</persName> verhandelt, sind [...] aktuellen Plan. Wenn 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1581">
             <choice xml:id="Bae_TB_9_1582">
               <abbr xml:id="Bae_TB_9_1583">Athal</abbr>
               <expan xml:id="Bae_TB_9_1584">Aehrenthal</expan>
@@ -2170,7 +2210,8 @@
           <hi rendition="#ul" xml:id="Bae_TB_9_1605">unaufrichtig</hi> ist. Heute kann man nur mit Aufrichtigkeit Politik machen, nicht mit 
           <pb facs="#F_K-4_Bae_TB_9_055" n="26v" xml:id="Bae_TB_9_1606"/>
           <note type="editorial" xml:id="Bae_TB_9_1607">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_9_056" n="27r" xml:id="Bae_TB_9_1608"/>Winkelzügen, die Leute aufbrauchen, hinhalten, "Zermürben" wie <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1609">
+          <pb facs="#F_K-4_Bae_TB_9_056" n="27r" xml:id="Bae_TB_9_1608"/>Winkelzügen, die Leute aufbrauchen, hinhalten, "Zermürben" wie 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1609">
             <choice xml:id="Bae_TB_9_1610">
               <abbr xml:id="Bae_TB_9_1611">Athal</abbr>
               <expan xml:id="Bae_TB_9_1612">Aehrenthal</expan>
@@ -2250,7 +2291,8 @@
           <choice xml:id="Bae_TB_9_1658">
             <abbr xml:id="Bae_TB_9_1659">u.</abbr>
             <expan xml:id="Bae_TB_9_1660">und</expan>
-          </choice> Sympathiebeziehungen anknüpfen so gut es geht. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1661">
+          </choice> Sympathiebeziehungen anknüpfen so gut es geht. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1661">
             <choice xml:id="Bae_TB_9_1662">
               <abbr xml:id="Bae_TB_9_1663">Athal</abbr>
               <expan xml:id="Bae_TB_9_1664">Aehrenthal</expan>
@@ -2294,8 +2336,7 @@
             <abbr xml:id="Bae_TB_9_1690">u.</abbr>
             <expan xml:id="Bae_TB_9_1691">und</expan>
           </choice> es sind 10 Jahre vergangen, so wirft man es ihm nicht vor. Seine theatralische Aussage hat bei allen anständigen Leuten einen sehr schlechten Eindruck gemacht. Das Schlimmste ist die Rückwirkung dieses Processes auf unsere südslawische Politik. Wie will man da unten Sympathien erwerben, wenn hier lauter Beschimpfungen gegen 
-          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_9_1692">Serbien</placeName>
-           losgelassen werden auf dem Hintergrund einer Mitwirkung des 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_9_1692">Serbien</placeName> losgelassen werden auf dem Hintergrund einer Mitwirkung des 
           <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_9_1693">auswärtigen Amtes</orgName>. Denn woher sind die verschiedenen Dokumente? Nur das 
           <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_9_1694">
             <choice xml:id="Bae_TB_9_1695">
@@ -2324,7 +2365,8 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1711">Wien</placeName>
           <date when="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_1712">23.12.09</date>. Der Process 
           <!-- identity unknown -->
-          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_1713">Friedjung</persName> ist ein politisches Ereignis gewesen, der glücklicherweise zum Vorteil abschloss. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1714">
+          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_1713">Friedjung</persName> ist ein politisches Ereignis gewesen, der glücklicherweise zum Vorteil abschloss. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1714">
             <choice xml:id="Bae_TB_9_1715">
               <abbr xml:id="Bae_TB_9_1716">Athal</abbr>
               <expan xml:id="Bae_TB_9_1717">Aehrenthal</expan>
@@ -2363,7 +2405,8 @@
           <choice xml:id="Bae_TB_9_1739">
             <abbr xml:id="Bae_TB_9_1740">u.</abbr>
             <expan xml:id="Bae_TB_9_1741">und</expan>
-          </choice> <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1742">
+          </choice>
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1742">
             <choice xml:id="Bae_TB_9_1743">
               <abbr xml:id="Bae_TB_9_1744">Athal</abbr>
               <expan xml:id="Bae_TB_9_1745">Aehrenthal</expan>
@@ -2473,7 +2516,8 @@
             </choice>
           </persName> nicht wegen Meineid anzeigen wolle. Natürlich redete ich ihm das aus. 
         </p>
-        <p xml:id="Bae_TB_9_1821">Allgemein wurde mir gesagt dass ich <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1822">
+        <p xml:id="Bae_TB_9_1821">Allgemein wurde mir gesagt dass ich 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1822">
             <choice xml:id="Bae_TB_9_1823">
               <abbr xml:id="Bae_TB_9_1824">Athal</abbr>
               <expan xml:id="Bae_TB_9_1825">Aehrenthal</expan>
@@ -2485,7 +2529,8 @@
           </choice> von der alten Diplomatenschule. 
           <!-- identity unknown -->
           <persName key="SteedHenryWickham" ref="https://d-nb.info/gnd/120199939" xml:id="Bae_TB_9_1829">Steed</persName>, der 
-          <orgName key="TheTimes" ref="https://d-nb.info/gnd/4185524-3" xml:id="Bae_TB_9_1830">Times</orgName>correspondent sagte mir: <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1831">
+          <orgName key="TheTimes" ref="https://d-nb.info/gnd/4185524-3" xml:id="Bae_TB_9_1830">Times</orgName>correspondent sagte mir: 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1831">
             <choice xml:id="Bae_TB_9_1832">
               <abbr xml:id="Bae_TB_9_1833">Athal</abbr>
               <expan xml:id="Bae_TB_9_1834">Aehrenthal</expan>
@@ -2498,7 +2543,8 @@
           <choice xml:id="Bae_TB_9_1838">
             <abbr xml:id="Bae_TB_9_1839">o.</abbr>
             <expan xml:id="Bae_TB_9_1840">oder</expan>
-          </choice> Schlauheiten. Als ich vor paar Tagen bei <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1841">
+          </choice> Schlauheiten. Als ich vor paar Tagen bei 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1841">
             <choice xml:id="Bae_TB_9_1842">
               <abbr xml:id="Bae_TB_9_1843">Athal</abbr>
               <expan xml:id="Bae_TB_9_1844">Aehrenthal</expan>
@@ -2530,7 +2576,8 @@
         <p xml:id="Bae_TB_9_1860">
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_1861">Berlin</placeName> mit 
           <!-- identity unknown -->
-          <persName key="HentigOtto" ref="https://d-nb.info/gnd/116722258" xml:id="Bae_TB_9_1862">Haentig</persName> <date when="1910-03-01" type="diaryEntry" xml:id="Bae_TB_9_1863">3.1.10</date>
+          <persName key="HentigOtto" ref="https://d-nb.info/gnd/116722258" xml:id="Bae_TB_9_1862">Haentig</persName>
+          <date when="1910-03-01" type="diaryEntry" xml:id="Bae_TB_9_1863">3.1.10</date>
         </p>
         <p xml:id="Bae_TB_9_1864">Vor 5 Monaten Immediatcommission eine Gelegenheit zum Studium einer Reform wie ich sie mir denke. 
           <!-- identity unknown -->
@@ -2563,7 +2610,8 @@
           <!-- identity unknown -->
           <persName key="LodgmanRudolph" ref="https://d-nb.info/gnd/118728709" xml:id="Bae_TB_9_1883">Lodgmann</persName>
           <date when="1910-01-06" xml:id="Bae_TB_9_1884">6.</date>) Sitzung bei 
-          <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_9_1885">Rohan</persName> – <orgName key="Volksrat" ref="https://d-nb.info/gnd/1701546-7" xml:id="Bae_TB_9_1886">Volksratsitzung</orgName> in 
+          <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_9_1885">Rohan</persName> – 
+          <orgName key="Volksrat" ref="https://d-nb.info/gnd/1701546-7" xml:id="Bae_TB_9_1886">Volksratsitzung</orgName> in 
           <placeName key="Lobositz" ref="https://www.geonames.org/3071480/lovosice.html" xml:id="Bae_TB_9_1887">Lobositz</placeName> am 
           <date when="1910-01-10" xml:id="Bae_TB_9_1888">7.</date> – grosse Vertrauensmännersitzungen am 
           <date when="1910-01-09" xml:id="Bae_TB_9_1889">8.</date> Am 
@@ -2723,7 +2771,8 @@
           </persName> sehr vernünftig. Politisch keine aktuelle Bedeutung. Culturell aber wohl. Das geistige Leben der croatisch-serbischen Nation muss vorerst concentrirt werden. Hat sehr klare Ansichten über 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_9_2006">Bosnien</placeName>. Abgesonderte Entwicklung. Starker Zug nach Autonomie, die in einem Landtag sofort hervortreten wird. Auswanderung der Mohammedaner mit der Zeit nicht aufzuhalten; sie müssen aber schonend behandelt werden. 
         </p>
-        <p xml:id="Bae_TB_9_2007">Dann mit <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2008">Ährenthal</persName>. Leider nicht dieselbe Einsicht in die südslawischen Dinge. Vor wenigen Monaten sagte er nur 
+        <p xml:id="Bae_TB_9_2007">Dann mit 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2008">Ährenthal</persName>. Leider nicht dieselbe Einsicht in die südslawischen Dinge. Vor wenigen Monaten sagte er nur 
           <!-- identity unknown -->
           <persName key="RauchPaul" ref="https://d-nb.info/gnd/1019375310" xml:id="Bae_TB_9_2009">Rauch</persName> sei ein Mensch nicht mit der Zange anzufassen – heute erklärt er, er könne in diese Dinge nicht unmittelbar eingreifen. Meine Unterredung war kürzer als bei frühern Anlässen. Wiewol es das erste Mal war dass ich ihn nach dem Ausgang des 
           <!-- identity unknown -->
@@ -2751,7 +2800,9 @@
           <choice xml:id="Bae_TB_9_2025">
             <abbr xml:id="Bae_TB_9_2026">u.</abbr>
             <expan xml:id="Bae_TB_9_2027">und</expan>
-          </choice> <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2028">Aehrenthal</persName> behandelt ihn sehr schlecht. Sollte ich, nachdem ich ihm auch grosse Dienste erwiesen habe im Process demselben Schicksal verfallen? Wäre mir gänzlich gleichgültig. Mit noblesse arbeitet <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2029">
+          </choice>
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2028">Aehrenthal</persName> behandelt ihn sehr schlecht. Sollte ich, nachdem ich ihm auch grosse Dienste erwiesen habe im Process demselben Schicksal verfallen? Wäre mir gänzlich gleichgültig. Mit noblesse arbeitet 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2029">
             <choice xml:id="Bae_TB_9_2030">
               <abbr xml:id="Bae_TB_9_2031">Athal</abbr>
               <expan xml:id="Bae_TB_9_2032">Aehrenthal</expan>
@@ -2772,7 +2823,8 @@
               <abbr xml:id="Bae_TB_9_2043">Fberg</abbr>
               <expan xml:id="Bae_TB_9_2044">Fürstenberg</expan>
             </choice>
-          </persName> gesagt: das geht dann doch nicht so wie <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2045">
+          </persName> gesagt: das geht dann doch nicht so wie 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2045">
             <choice xml:id="Bae_TB_9_2046">
               <abbr xml:id="Bae_TB_9_2047">Athal</abbr>
               <expan xml:id="Bae_TB_9_2048">Aehrenthal</expan>
@@ -2786,7 +2838,8 @@
           <!-- identity unknown -->
           <persName key="KageneckKarl" ref="https://d-nb.info/gnd/121383067" xml:id="Bae_TB_9_2053">Kagenegg</persName>, der Militärattaché mit dem ich vorige Woche bei 
           <!-- identity unknown -->
-          <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_9_2054">Paul Schulz</persName> frühstückte meinte auch dass die Methode <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2055">
+          <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_9_2054">Paul Schulz</persName> frühstückte meinte auch dass die Methode 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2055">
             <choice xml:id="Bae_TB_9_2056">
               <abbr xml:id="Bae_TB_9_2057">Athals</abbr>
               <expan xml:id="Bae_TB_9_2058">Aehrenthals</expan>
@@ -2795,7 +2848,8 @@
           <choice xml:id="Bae_TB_9_2059">
             <abbr xml:id="Bae_TB_9_2060">dh</abbr>
             <expan xml:id="Bae_TB_9_2061">durch</expan>
-          </choice> Interview mit zweifelhaften russischen Journalisten zu markiren nicht einwandfrei sei. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2062">
+          </choice> Interview mit zweifelhaften russischen Journalisten zu markiren nicht einwandfrei sei. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2062">
             <choice xml:id="Bae_TB_9_2063">
               <abbr xml:id="Bae_TB_9_2064">Athal.</abbr>
               <expan xml:id="Bae_TB_9_2065">Aehrenthal</expan>
@@ -2808,7 +2862,8 @@
           </choice> es kommt seiner Politik insgeheim zu Gute, dass jetzt auf absehbare Zeit keine 
           <orgName key="Delegationen" ref="https://d-nb.info/gnd/35883-6" xml:id="Bae_TB_9_2070">Delegation</orgName> ist. Wäre nach dem 
           <!-- identity unknown -->
-          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_2071">Friedjung</persName> Process <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2072">
+          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_2071">Friedjung</persName> Process 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2072">
             <choice xml:id="Bae_TB_9_2073">
               <abbr xml:id="Bae_TB_9_2074">Athal</abbr>
               <expan xml:id="Bae_TB_9_2075">Aehrenthal</expan>
@@ -2830,7 +2885,8 @@
           <persName key="TschirschkyHeinrich" ref="https://d-nb.info/gnd/117432083" xml:id="Bae_TB_9_2084">Tschirschky</persName> sei ein Engel, wie er 
           <pb facs="#F_K-4_Bae_TB_9_077" n="38v" xml:id="Bae_TB_9_2085"/>
           <note type="editorial" xml:id="Bae_TB_9_2086">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_9_078" n="38r" xml:id="Bae_TB_9_2087"/>Rücksichtslosigkeit <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2088">
+          <pb facs="#F_K-4_Bae_TB_9_078" n="38r" xml:id="Bae_TB_9_2087"/>Rücksichtslosigkeit 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2088">
             <choice xml:id="Bae_TB_9_2089">
               <abbr xml:id="Bae_TB_9_2090">Athals</abbr>
               <expan xml:id="Bae_TB_9_2091">Aehrenthals</expan>
@@ -2839,12 +2895,14 @@
         </p>
         <p xml:id="Bae_TB_9_2092">
           <!-- identity unknown -->
-          <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_9_2093">Redlich</persName>, der mit <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2094">
+          <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_9_2093">Redlich</persName>, der mit 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2094">
             <choice xml:id="Bae_TB_9_2095">
               <abbr xml:id="Bae_TB_9_2096">Athals</abbr>
               <expan xml:id="Bae_TB_9_2097">Aehrenthal</expan>
             </choice>
-          </persName> lange sprach sagte mir es sei ein grosses Verdienst <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2098">
+          </persName> lange sprach sagte mir es sei ein grosses Verdienst 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2098">
             <choice xml:id="Bae_TB_9_2099">
               <abbr xml:id="Bae_TB_9_2100">Athals</abbr>
               <expan xml:id="Bae_TB_9_2101">Aehrenthals</expan>
@@ -2916,7 +2974,8 @@
               <expan xml:id="Bae_TB_9_2146">Herren</expan>
             </choice>Hause 
           </orgName>
-          <hi rendition="#ul" xml:id="Bae_TB_9_2147">ich</hi> als Minister in Aussicht genommen war, aber die bekannten Einflüsse (<persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2148">
+          <hi rendition="#ul" xml:id="Bae_TB_9_2147">ich</hi> als Minister in Aussicht genommen war, aber die bekannten Einflüsse (
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2148">
             <choice xml:id="Bae_TB_9_2149">
               <abbr xml:id="Bae_TB_9_2150">Athal</abbr>
               <expan xml:id="Bae_TB_9_2151">Aehrenthal</expan>
@@ -2955,7 +3014,8 @@
             <expan xml:id="Bae_TB_9_2176">öffiziösen</expan>
           </choice> Blätter ( 
           <!-- identity unknown -->
-          <orgName key="PragerZeitung" ref="no_ref" xml:id="Bae_TB_9_2177">Prager Zeitung</orgName>, <orgName key="PragerAbendblatt" ref="no_ref" xml:id="Bae_TB_9_2178">Prager Abendblatt</orgName>, 
+          <orgName key="PragerZeitung" ref="no_ref" xml:id="Bae_TB_9_2177">Prager Zeitung</orgName>, 
+          <orgName key="PragerAbendblatt" ref="no_ref" xml:id="Bae_TB_9_2178">Prager Abendblatt</orgName>, 
           <!-- identity unknown -->
           <orgName key="PrazskeNoviny" ref="no_ref" xml:id="Bae_TB_9_2179">Pražský novinky</orgName>) ihr Papier von der 
           <!-- identity unknown -->
@@ -3179,7 +3239,8 @@
               <expan xml:id="Bae_TB_9_2342">Fürstenberg</expan>
             </choice>
           </persName> erzält dass 
-          <hi rendition="#ul" xml:id="Bae_TB_9_2343">er</hi> es gewesen sei der dem <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2344">
+          <hi rendition="#ul" xml:id="Bae_TB_9_2343">er</hi> es gewesen sei der dem 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2344">
             <choice xml:id="Bae_TB_9_2345">
               <abbr xml:id="Bae_TB_9_2346">Athal</abbr>
               <expan xml:id="Bae_TB_9_2347">Aehrenthal</expan>
@@ -3200,7 +3261,8 @@
             <abbr xml:id="Bae_TB_9_2357">d.</abbr>
             <expan xml:id="Bae_TB_9_2358">deutschen</expan>
           </choice>
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_2359">Kaiser</persName> sehr erfüllt von gegnerischen Gefülen zu <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2360">
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_2359">Kaiser</persName> sehr erfüllt von gegnerischen Gefülen zu 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2360">
             <choice xml:id="Bae_TB_9_2361">
               <abbr xml:id="Bae_TB_9_2362">Athal</abbr>
               <expan xml:id="Bae_TB_9_2363">Aehrenthal</expan>
@@ -3306,7 +3368,8 @@
           <choice xml:id="Bae_TB_9_2433">
             <abbr xml:id="Bae_TB_9_2434">u.</abbr>
             <expan xml:id="Bae_TB_9_2435">und</expan>
-          </choice> <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2436">
+          </choice>
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2436">
             <choice xml:id="Bae_TB_9_2437">
               <abbr xml:id="Bae_TB_9_2438">Athal</abbr>
               <expan xml:id="Bae_TB_9_2439">Aehrenthal</expan>
@@ -3315,12 +3378,14 @@
           <choice xml:id="Bae_TB_9_2440">
             <abbr xml:id="Bae_TB_9_2441">öster.</abbr>
             <expan xml:id="Bae_TB_9_2442">österreichisch</expan>
-          </choice>-russischen Entente sagte er auch dass <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2443">
+          </choice>-russischen Entente sagte er auch dass 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2443">
             <choice xml:id="Bae_TB_9_2444">
               <abbr xml:id="Bae_TB_9_2445">Athal</abbr>
               <expan xml:id="Bae_TB_9_2446">Aehrenthal</expan>
             </choice>
-          </persName> einen großen Fehler gemacht habe, den übelbeleumundeten russischen Journalisten dazu zu benützen. Er konnte nicht in Abrede stellen als ich ihm sagte dass meiner Meinung nach <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2447">
+          </persName> einen großen Fehler gemacht habe, den übelbeleumundeten russischen Journalisten dazu zu benützen. Er konnte nicht in Abrede stellen als ich ihm sagte dass meiner Meinung nach 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2447">
             <choice xml:id="Bae_TB_9_2448">
               <abbr xml:id="Bae_TB_9_2449">Athal</abbr>
               <expan xml:id="Bae_TB_9_2450">Aehrenthal</expan>
@@ -3380,14 +3445,16 @@
             <expan xml:id="Bae_TB_9_2489">und</expan>
           </choice> die von 
           <!-- identity unknown -->
-          <persName key="IswolskiAlexander" ref="https://d-nb.info/gnd/124721826" xml:id="Bae_TB_9_2490">Iswolsky</persName> veröffentlichten Schriftstücke bewiesen vollends die Disharmonie, die dieser "Annäherung" zu Grunde liegt. Wollte <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2491">Aehrenthal</persName> mehr erreichen (das behauptet 
+          <persName key="IswolskiAlexander" ref="https://d-nb.info/gnd/124721826" xml:id="Bae_TB_9_2490">Iswolsky</persName> veröffentlichten Schriftstücke bewiesen vollends die Disharmonie, die dieser "Annäherung" zu Grunde liegt. Wollte 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2491">Aehrenthal</persName> mehr erreichen (das behauptet 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_9_2492">Schwegel</persName>) 
           <choice xml:id="Bae_TB_9_2493">
             <abbr xml:id="Bae_TB_9_2494">u.</abbr>
             <expan xml:id="Bae_TB_9_2495">und</expan>
           </choice> zog nur zurück als 
           <!-- identity unknown -->
-          <persName key="IswolskiAlexander" ref="https://d-nb.info/gnd/124721826" xml:id="Bae_TB_9_2496">Iswolsky</persName> nicht mehr eingehen wollte? Warum wollte <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2497">Aehrenthal</persName> wieder kein gemeinsames Communiqué wie es 
+          <persName key="IswolskiAlexander" ref="https://d-nb.info/gnd/124721826" xml:id="Bae_TB_9_2496">Iswolsky</persName> nicht mehr eingehen wollte? Warum wollte 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2497">Aehrenthal</persName> wieder kein gemeinsames Communiqué wie es 
           <!-- identity unknown -->
           <persName key="IswolskiAlexander" ref="https://d-nb.info/gnd/124721826" xml:id="Bae_TB_9_2498">Iswolsky</persName> gewollt zu haben scheint? Die veröffentlichten Schriftstücke 
           <pb facs="#F_K-4_Bae_TB_9_111" n="54v" xml:id="Bae_TB_9_2499"/>
@@ -3513,13 +3580,15 @@
         <p xml:id="Bae_TB_9_2590">2.) Zweikampf in der 
           <!-- identity unknown -->
           <orgName key="FortnightlyReview" ref="https://d-nb.info/gnd/4253570-0" xml:id="Bae_TB_9_2591">Fortnightly Review</orgName> – erster Schuss 
-           <!-- identity unknown -->
-          <persName key="IswolskiAlexander" ref="https://d-nb.info/gnd/124721826" xml:id="Bae_TB_9_2592">Iswolsky's</persName> gegen <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2593">
+          <!-- identity unknown -->
+          <persName key="IswolskiAlexander" ref="https://d-nb.info/gnd/124721826" xml:id="Bae_TB_9_2592">Iswolsky's</persName> gegen 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2593">
             <choice xml:id="Bae_TB_9_2594">
               <abbr xml:id="Bae_TB_9_2595">Athal</abbr>
               <expan xml:id="Bae_TB_9_2596">Aehrenthal</expan>
             </choice>
-          </persName> – Antwort <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2597">
+          </persName> – Antwort 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2597">
             <choice xml:id="Bae_TB_9_2598">
               <abbr xml:id="Bae_TB_9_2599">Athals</abbr>
               <expan xml:id="Bae_TB_9_2600">Aehrenthals</expan>
@@ -3531,7 +3600,8 @@
           <choice xml:id="Bae_TB_9_2603">
             <abbr xml:id="Bae_TB_9_2604">dh</abbr>
             <expan xml:id="Bae_TB_9_2605">durch</expan>
-          </choice> das Interview <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2606">
+          </choice> das Interview 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2606">
             <choice xml:id="Bae_TB_9_2607">
               <abbr xml:id="Bae_TB_9_2608">Athals</abbr>
               <expan xml:id="Bae_TB_9_2609">Aehrenthals</expan>
@@ -3625,7 +3695,8 @@
           <!-- identity unknown -->
           <persName key="SpitzmuellerAlexander" ref="https://d-nb.info/gnd/118867342" xml:id="Bae_TB_9_2670">Spitzmüller</persName> bei 
           <!-- identity unknown -->
-          <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_9_2671">Schulz</persName>. <persName key="SpitzmuellerAlexander" ref="https://d-nb.info/gnd/118867342" xml:id="Bae_TB_9_2672">
+          <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_9_2671">Schulz</persName>. 
+          <persName key="SpitzmuellerAlexander" ref="https://d-nb.info/gnd/118867342" xml:id="Bae_TB_9_2672">
             <choice xml:id="Bae_TB_9_2673">
               <abbr xml:id="Bae_TB_9_2674">Smüller</abbr>
               <expan xml:id="Bae_TB_9_2675">Spitzmüller</expan>
@@ -4065,7 +4136,8 @@
           <persName key="StahlichKarl" ref="no_ref" xml:id="Bae_TB_9_2998">Stahlich</persName> im 
           <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_9_2999">Handelsministerium</orgName> bekommt 10000 K. Vorschuss, zahlt davon seine Wahlkosten 
           <!-- identity unknown -->
-          <orgName key="GemeinderatWien" ref="https://d-nb.info/gnd/113824-8" xml:id="Bae_TB_9_3000">Gemeinderat</orgName> <placeName key="Josefstadt" ref="https://www.geonames.org/2775027/gemeindebezirk-josefstadt.html" xml:id="Bae_TB_9_3001">Josefstadt</placeName>. In der Stichwahl Placat seiner Partei gegen ihn (für 
+          <orgName key="GemeinderatWien" ref="https://d-nb.info/gnd/113824-8" xml:id="Bae_TB_9_3000">Gemeinderat</orgName>
+          <placeName key="Josefstadt" ref="https://www.geonames.org/2775027/gemeindebezirk-josefstadt.html" xml:id="Bae_TB_9_3001">Josefstadt</placeName>. In der Stichwahl Placat seiner Partei gegen ihn (für 
           <!-- identity unknown -->
           <persName key="VerganiErnst" ref="https://d-nb.info/gnd/129284564" xml:id="Bae_TB_9_3002">Vergani</persName>) – dieses Placat von 
           <!-- identity unknown -->
@@ -4361,7 +4433,8 @@
           <!-- identity unknown -->
           <orgName key="Volksrat" ref="https://d-nb.info/gnd/1701546-7" xml:id="Bae_TB_9_3225">Volksrat</orgName>, 
           <!-- identity unknown -->
-          <orgName key="VolksratZweiteilungsausschuss" ref="https://d-nb.info/gnd/5246403-9" xml:id="Bae_TB_9_3226">Zweiteilungsausschuss</orgName>, Städtekanzlei, Bezirkscentrale <choice xml:id="Bae_TB_9_3229">
+          <orgName key="VolksratZweiteilungsausschuss" ref="https://d-nb.info/gnd/5246403-9" xml:id="Bae_TB_9_3226">Zweiteilungsausschuss</orgName>, Städtekanzlei, Bezirkscentrale 
+          <choice xml:id="Bae_TB_9_3229">
             <abbr xml:id="Bae_TB_9_3230">u.s.w.</abbr>
             <expan xml:id="Bae_TB_9_3231">und so weiter</expan>
           </choice>) die nicht nur Politik auf eigene Faust machen, sondern mit einem Fleiss 
@@ -4614,7 +4687,7 @@
         </p>
         <p xml:id="Bae_TB_9_3410">7. § 32a, letzter Absatz, bestimmt, daß bei der Anstellung von Lehrern, Beamten und Dienern, bei Anstalten, die ausschließlich einer Nationalität gewidmet sind, der 
           <orgName key="Landesausschuss" xml:id="Bae_TB_9_4251">Landesausschuß</orgName> an den Ternavorschlag der böhmischen oder deutschen Ausschußbeisitzer gebunden ist. Die weitere Bestimmung, daß der 
-          <orgName key="Landesausschuss" xml:id="Bae_TB_9_4252">Landesausschuß</orgName> verpflichtet sein wird, bei der Besetzung aller Beamten- und Dienerstellen auf beide Nationalitäten nach dem Bevölkerungsschlüssel Rücksicht zu nehmen, wurde prinzipiell genehmigt, dabei jedoch zugegeben, daß jene Angestellten, die wegen der finanziellen Lage des Landes nur provisorisch angestellt worden sind, ihrer Anwartschaften nicht verlustig gehen sollen. Doch steht die definitive Stilisierung dieser Bestimmung noch aus.
+          <orgName key="Landesausschuss" xml:id="Bae_TB_9_4252">Landesausschuß</orgName> verpflichtet sein wird, bei der Besetzung aller Beamten- und Dienerstellen auf beide Nationalitäten nach dem Bevölkerungsschlüssel Rücksicht zu nehmen, wurde prinzipiell genehmigt, dabei jedoch zugegeben, daß jene Angestellten, die wegen der finanziellen Lage des Landes nur provisorisch angestellt worden sind, ihrer Anwartschaften nicht verlustig gehen sollen. Doch steht die definitive Stilisierung dieser Bestimmung noch aus. 
         </p>
         <p xml:id="Bae_TB_9_3411">8. Aenderungen der Landesordnung, der Gesetze über den Landesschulrat und Landeskulturrat sowie alle Beschlüsse, die sich auf die Auflassung oder den nationalen Charakter von Landesanstalten beziehen, die ausschließlich 
           <pb facs="#F_K-4_Bae_TB_9_157" n="74v" xml:id="Bae_TB_9_3412"/>einer Nationalität gewidmet sind, werden durch den § 38 unter einen erhöhten Schutz gestellt, indem 180 Abgeordnete für eine solche Aenderung stimmen müssen. Der bisherige Schutz der Geschäftsordnung bleibt aufrecht. Diese Bestimmung soll jedoch nur eine provisorische sein und die böhmischen Abgeordneten haben eingewilligt, zu erklären, daß bei der definitiven Formulierung der Landesordnung, die erst möglich sein wird, wenn die Wahlordnung erledigt ist, an Stelle dieses ziffernmäßigen Vetos das Kuriatsvotum bezüglich dieser sowie bezüglich aller jener Gesetze festzusetzen sein wird, welche die grundlegenden Bestimmungen über die neue nationale und staatsrechtliche Ordnung in 
@@ -4974,7 +5047,8 @@
           <choice xml:id="Bae_TB_9_3658">
             <abbr xml:id="Bae_TB_9_3659">Ah.</abbr>
             <expan xml:id="Bae_TB_9_3660">Allerhöchste</expan>
-          </choice> Entschließung festzusetzenden, die Einmischung in die Verwaltungssachen ausschliessenden Wirkungskreises. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_3661">Aehrenthal</persName> schien diese Ansicht zu billigen – 
+          </choice> Entschließung festzusetzenden, die Einmischung in die Verwaltungssachen ausschliessenden Wirkungskreises. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_3661">Aehrenthal</persName> schien diese Ansicht zu billigen – 
           <choice xml:id="Bae_TB_9_3662">
             <abbr xml:id="Bae_TB_9_3663">B.</abbr>
             <expan xml:id="Bae_TB_9_3664">Bienerth</expan>
@@ -4993,7 +5067,8 @@
           <choice xml:id="Bae_TB_9_3674">
             <abbr xml:id="Bae_TB_9_3675">u.</abbr>
             <expan xml:id="Bae_TB_9_3676">und</expan>
-          </choice> legte es darauf an, dass er mir irgend etwas über die Notwendigkeit des Ausgleichs sagen würde – er beschränkte sich aber darauf immer wieder zu wiederholen: sie haben recht. Als ich dies <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_3677">Aehrenthal</persName> erzählte, meinte er: der alte Herr ist gewitzigt. Die Zurückhaltung war also Absicht. 
+          </choice> legte es darauf an, dass er mir irgend etwas über die Notwendigkeit des Ausgleichs sagen würde – er beschränkte sich aber darauf immer wieder zu wiederholen: sie haben recht. Als ich dies 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_3677">Aehrenthal</persName> erzählte, meinte er: der alte Herr ist gewitzigt. Die Zurückhaltung war also Absicht. 
         </p>
         <pb facs="#F_K-4_Bae_TB_9_169" n="80v" xml:id="Bae_TB_9_3678"/>
         <note type="editorial" xml:id="Bae_TB_9_3679">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
@@ -5187,10 +5262,12 @@
           </choice> Wählervorurteil zu einer Frage ja oder nein sagt. 
         </p>
         <p xml:id="Bae_TB_9_3826">Dies ist das grosse Feld für die parlamentarische Corruption: die eigentlichen Ziele der Politik durch die verschiedenen parlamentarischen Motive zu erreichen. Der Satz: der Zweck heiligt die Mittel gelangt zur Alleinherrschaft. Bei uns durch den jüdischen Einschlag in die Leitung unserer Politik, durch das was ich die jüdische Nebenregierung nenne - bei der Anwendung von Mitteln, bei Praktiken angelangt, die man in 
-          <placeName key="Deutschland" xml:id="Bae_TB_9_3830"><choice xml:id="Bae_TB_9_3827">
-            <abbr xml:id="Bae_TB_9_3828">Dland</abbr>
-            <expan xml:id="Bae_TB_9_3829">Deutschland</expan>
-          </choice></placeName>, in 
+          <placeName key="Deutschland" xml:id="Bae_TB_9_3830">
+            <choice xml:id="Bae_TB_9_3827">
+              <abbr xml:id="Bae_TB_9_3828">Dland</abbr>
+              <expan xml:id="Bae_TB_9_3829">Deutschland</expan>
+            </choice>
+          </placeName>, in 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_9_3831">England</placeName> unter allen Umständen verschmähen würde. Das ist der Sieghartismus bei uns. In 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3832">Prag</placeName> haben wir ohne Sieghartismus gearbeitet, wirklich durchaus mit reinen Händen, ohne in der Lage zu sein oder es auch nur zu versuchen durch Versprechungen 
           <choice xml:id="Bae_TB_9_3833">
@@ -5338,7 +5415,8 @@
           <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_9_3939">Wolf</persName>, trotzdem der Generalstabschef der 
           <orgName key="Verfassungspartei" ref="no_ref" xml:id="Bae_TB_9_3940">Partei</orgName>
           <!-- identity unknown -->
-          <persName key="PacherRafael" ref="https://d-nb.info/gnd/124749275" xml:id="Bae_TB_9_3941">Pacher</persName> ist. Letzterer im Grunde sehr conciliant, zu jedem vernünftigen Vorschlag zu haben, aber in steter Verbindung mit seinem Wahlbezirk (<placeName key="Komotau" ref="https://www.geonames.org/11921722/chomutov.html" xml:id="Bae_TB_9_3942">Kommotau</placeName>), von dortigen Localströmungen nicht unabhängig 
+          <persName key="PacherRafael" ref="https://d-nb.info/gnd/124749275" xml:id="Bae_TB_9_3941">Pacher</persName> ist. Letzterer im Grunde sehr conciliant, zu jedem vernünftigen Vorschlag zu haben, aber in steter Verbindung mit seinem Wahlbezirk (
+          <placeName key="Komotau" ref="https://www.geonames.org/11921722/chomutov.html" xml:id="Bae_TB_9_3942">Kommotau</placeName>), von dortigen Localströmungen nicht unabhängig 
           <choice xml:id="Bae_TB_9_3943">
             <abbr xml:id="Bae_TB_9_3944">u.</abbr>
             <expan xml:id="Bae_TB_9_3945">und</expan>
@@ -5475,7 +5553,8 @@
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_4046">Prag</placeName> brachte ich es doch noch fertig einmal zur Eröffnung der 
           <orgName key="Delegationen" ref="https://d-nb.info/gnd/35883-6" xml:id="Bae_TB_9_4047">Delegation</orgName>, dann zum 
           <!-- identity unknown -->
-          <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_9_4048">Ausschuss des Äussern</orgName> <choice xml:id="Bae_TB_9_4049">
+          <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_9_4048">Ausschuss des Äussern</orgName>
+          <choice xml:id="Bae_TB_9_4049">
             <abbr xml:id="Bae_TB_9_4050">u.</abbr>
             <expan xml:id="Bae_TB_9_4051">und</expan>
           </choice> schließlich zur bosnischen Debatte im Plenum nach 
@@ -5529,7 +5608,8 @@
         </p>
         <p xml:id="Bae_TB_9_4086">Ebenso unglücklich manövrirte 
           <!-- identity unknown -->
-          <persName key="MasarykTomasGarrigue" ref="https://d-nb.info/gnd/118578626" xml:id="Bae_TB_9_4087">Masaryk</persName> gegen <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4088">Aehrenthal</persName>. Hätte er lediglich behauptet, dass 
+          <persName key="MasarykTomasGarrigue" ref="https://d-nb.info/gnd/118578626" xml:id="Bae_TB_9_4087">Masaryk</persName> gegen 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4088">Aehrenthal</persName>. Hätte er lediglich behauptet, dass 
           <!-- identity unknown -->
           <persName key="ForgachJanos" ref="https://d-nb.info/gnd/1057019577" xml:id="Bae_TB_9_4089">Forgách</persName> von sehr ungeschickten Fälschern dupirt wurde, dass es unbegreiflich sei, wie ein Gesandter 
           <choice xml:id="Bae_TB_9_4090">
@@ -5569,7 +5649,8 @@
           </choice> seine Ideen in der Zukunft durch die heranwachsende Jugend einen grossen Einfluss üben werden. 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4115">Aehrenthal</persName> hat ihm – seinen Vorteil ausnützend – roh geantwortet. Nicht nach meinem Geschmack. Gerade weil 
           <!-- identity unknown -->
-          <persName key="MasarykTomasGarrigue" ref="https://d-nb.info/gnd/118578626" xml:id="Bae_TB_9_4116">Masaryk</persName> so weit über das Ziel geschossen hatte – hatte <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4117">
+          <persName key="MasarykTomasGarrigue" ref="https://d-nb.info/gnd/118578626" xml:id="Bae_TB_9_4116">Masaryk</persName> so weit über das Ziel geschossen hatte – hatte 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4117">
             <choice xml:id="Bae_TB_9_4118">
               <abbr xml:id="Bae_TB_9_4119">Athal</abbr>
               <expan xml:id="Bae_TB_9_4120">Aehrenthal</expan>
@@ -5578,7 +5659,8 @@
           <choice xml:id="Bae_TB_9_4121">
             <abbr xml:id="Bae_TB_9_4122">u.</abbr>
             <expan xml:id="Bae_TB_9_4123">und</expan>
-          </choice> wirken werden, die <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4124">
+          </choice> wirken werden, die 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4124">
             <choice xml:id="Bae_TB_9_4125">
               <abbr xml:id="Bae_TB_9_4126">Athals</abbr>
               <expan xml:id="Bae_TB_9_4127">Aehrenthals</expan>
@@ -5596,7 +5678,8 @@
           </choice> Kenntniss beider betrifft, so beziehen sie sich 
           <pb facs="#F_K-4_Bae_TB_9_199" n="95v" xml:id="Bae_TB_9_4135"/>
           <note type="editorial" xml:id="Bae_TB_9_4136">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_9_200" n="96r" xml:id="Bae_TB_9_4137"/>auf verschiedene menschliche Gebiete, stehen sich aber doch wohl gleich. <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4138">
+          <pb facs="#F_K-4_Bae_TB_9_200" n="96r" xml:id="Bae_TB_9_4137"/>auf verschiedene menschliche Gebiete, stehen sich aber doch wohl gleich. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4138">
             <choice xml:id="Bae_TB_9_4139">
               <abbr xml:id="Bae_TB_9_4140">Athal</abbr>
               <expan xml:id="Bae_TB_9_4141">Aehrenthal</expan>
@@ -5608,14 +5691,16 @@
             <abbr xml:id="Bae_TB_9_4145">u.</abbr>
             <expan xml:id="Bae_TB_9_4146">und</expan>
           </choice>
-          <placeName key="StPetersburg" ref="https://www.geonames.org/498817/saint-petersburg.html" xml:id="Bae_TB_9_4147">Petersburg</placeName> <choice xml:id="Bae_TB_9_4148">
+          <placeName key="StPetersburg" ref="https://www.geonames.org/498817/saint-petersburg.html" xml:id="Bae_TB_9_4147">Petersburg</placeName>
+          <choice xml:id="Bae_TB_9_4148">
             <abbr xml:id="Bae_TB_9_4149">u.</abbr>
             <expan xml:id="Bae_TB_9_4150">und</expan>
           </choice> jetzt als Minister flüchtig in 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_4151">Berlin</placeName>. Wie die Welt sich entwickelt, wohin der Strom der modernen Ideen geht, wohin die geistige Magnetnadel zeigt – das lernt man doch nur in 
           <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_9_4152">London</placeName>, 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_4153">Berlin</placeName>, 
-          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_9_4154">Paris</placeName> – ganz eigentlich aber nur, wenn man auch über das große Wasser geht. Das geht <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4155">
+          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_9_4154">Paris</placeName> – ganz eigentlich aber nur, wenn man auch über das große Wasser geht. Das geht 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4155">
             <choice xml:id="Bae_TB_9_4156">
               <abbr xml:id="Bae_TB_9_4157">Athal</abbr>
               <expan xml:id="Bae_TB_9_4158">Aehrenthal</expan>
@@ -5650,8 +5735,8 @@
               <expan xml:id="Bae_TB_9_4178">Aehrenthal</expan>
             </choice>
           </persName> über die heutige päpstliche Politik. Ich wies auf die verschiedenen Enunciationen des 
-          <persName key="PiusX" xml:id="Bae_TB_9_4240">Papstes</persName>
-           hin, die so sehr von der Politik <persName key="LeoXIII" ref="https://d-nb.info/gnd/118727508" xml:id="Bae_TB_9_4179">Leo XIII.</persName> abweichen. Warum die Borromäusencyklica 
+          <persName key="PiusX" xml:id="Bae_TB_9_4240">Papstes</persName> hin, die so sehr von der Politik 
+          <persName key="LeoXIII" ref="https://d-nb.info/gnd/118727508" xml:id="Bae_TB_9_4179">Leo XIII.</persName> abweichen. Warum die Borromäusencyklica 
           <choice xml:id="Bae_TB_9_4180">
             <abbr xml:id="Bae_TB_9_4181">u.</abbr>
             <expan xml:id="Bae_TB_9_4182">und</expan>
@@ -5676,7 +5761,8 @@
           </choice> ihrem Katholizismus keinen Eintrag tut? Warum die Einschränkung der Selbständigkeit der Pfarre? Warum die sinnlose Vorschrift, dass schon 7jährige Kinder die Sakramente regelmässig empfangen sollen, in einem Alter in dem dies doch nur zu einer mechanischen Religionsübung füren kann? Und manches andere. 
           <pb facs="#F_K-4_Bae_TB_9_203" n="97v" xml:id="Bae_TB_9_4195"/>
           <note type="editorial" xml:id="Bae_TB_9_4196">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_9_204" n="98r" xml:id="Bae_TB_9_4197"/><persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4198">
+          <pb facs="#F_K-4_Bae_TB_9_204" n="98r" xml:id="Bae_TB_9_4197"/>
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4198">
             <choice xml:id="Bae_TB_9_4199">
               <abbr xml:id="Bae_TB_9_4200">Athal</abbr>
               <expan xml:id="Bae_TB_9_4201">Aehrenthal</expan>
@@ -5702,7 +5788,8 @@
           <choice xml:id="Bae_TB_9_4213">
             <abbr xml:id="Bae_TB_9_4214">u.</abbr>
             <expan xml:id="Bae_TB_9_4215">und</expan>
-          </choice> hochgebildeten Kreise entweder der Kirche ganz entfremde oder zum nackten Indifferentismus treibe – musste <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4216">
+          </choice> hochgebildeten Kreise entweder der Kirche ganz entfremde oder zum nackten Indifferentismus treibe – musste 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4216">
             <choice xml:id="Bae_TB_9_4217">
               <abbr xml:id="Bae_TB_9_4218">Athal</abbr>
               <expan xml:id="Bae_TB_9_4219">Aehrenthal</expan>
@@ -5716,7 +5803,8 @@
           <persName key="GalenAugustinus" ref="https://d-nb.info/gnd/1034744011" xml:id="Bae_TB_9_4223">Grafen Galen</persName>, der offenbar ein Eiferer im Sinne der jetzigen päpstlichen Gesinnung ist, mag wohl mit ihm darüber reden. Aus der sehr 
           <pb facs="#F_K-4_Bae_TB_9_205" n="98v" xml:id="Bae_TB_9_4224"/>
           <note type="editorial" xml:id="Bae_TB_9_4225">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
-          <pb facs="#F_K-4_Bae_TB_9_206" n="99r" xml:id="Bae_TB_9_4226"/>ernsten Miene, mit der <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4227">
+          <pb facs="#F_K-4_Bae_TB_9_206" n="99r" xml:id="Bae_TB_9_4226"/>ernsten Miene, mit der 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4227">
             <choice xml:id="Bae_TB_9_4228">
               <abbr xml:id="Bae_TB_9_4229">Athal</abbr>
               <expan xml:id="Bae_TB_9_4230">Aehrenthal</expan>
@@ -5724,7 +5812,8 @@
           </persName> dieses Gespräch fürte möchte ich schliessen, dass ihm die päpstliche Politik manche Sorge bereitet. 
         </p>
         <p xml:id="Bae_TB_9_4231">Wenige Tage darauf erzälte ich dieses ganze Gespräch dem 
-          <persName key="HelmerGilbert" ref="https://d-nb.info/gnd/118548921" xml:id="Bae_TB_9_4232">Abt Helmer</persName>. Er pflichtete der Ansicht <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4233">
+          <persName key="HelmerGilbert" ref="https://d-nb.info/gnd/118548921" xml:id="Bae_TB_9_4232">Abt Helmer</persName>. Er pflichtete der Ansicht 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4233">
             <choice xml:id="Bae_TB_9_4234">
               <abbr xml:id="Bae_TB_9_4235">Athals</abbr>
               <expan xml:id="Bae_TB_9_4236">Aehrenthals</expan>
