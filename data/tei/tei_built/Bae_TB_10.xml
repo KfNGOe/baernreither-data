@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_10_1">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_10_1">
   <teiHeader xml:id="Bae_TB_10_2">
     <fileDesc xml:id="Bae_TB_10_3">
       <titleStmt xml:id="Bae_TB_10_4">
@@ -2697,7 +2698,7 @@
             <expan xml:id="Bae_TB_10_2043">und</expan>
           </choice> Sektionschef 
           <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_10_2044">Riedl</persName> als guten Kenner 
-          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_2045">Serbiens</placeName>. Ich hoffte es werde zwischen den beiden Präsidenten ein enger Ideenaustausch stattfinden – sie fanden sich aber nur in gewissen äusseren Organisationsfragen der beiden Akademien.
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_2045">Serbiens</placeName>. Ich hoffte es werde zwischen den beiden Präsidenten ein enger Ideenaustausch stattfinden – sie fanden sich aber nur in gewissen äusseren Organisationsfragen der beiden Akademien. 
         </p>
       </div>
       <div n="1912-08" type="diaryEntry" xml:id="Bae_TB_10_2047">
@@ -3009,7 +3010,7 @@
           <persName key="PrinzEugen" ref="https://d-nb.info/gnd/118605941" xml:id="Bae_TB_10_2282">Prinz Eugen's</persName>" auf der einen Seite 
           <!-- DC Monogramm aus gespiegeltem und überkreuzten C --> was wohl 
           <persName key="KaiserKarlVI" ref="https://d-nb.info/gnd/118560107" xml:id="Bae_TB_10_2283">Carl (VI)</persName> heissen soll, auf der andern Seite noch die Kaiserkrone, aber das Wappen herausgeschlagen. Ein türkisches Bad, jetzt als Dampfbad für die Soldaten benützt. Auf der Festung das Grab 
-          <persName key="DamatAliPascha" ref="https://d-nb.info/gnd/1114933597" xml:id="Bae_TB_10_2284">Mustapha Pascha's</persName>[
+          <persName key="DamatAliPascha" ref="https://d-nb.info/gnd/1114933597" xml:id="Bae_TB_10_2284">Mustapha Pascha's</persName>[ 
           <persName key="DamatAliPascha" ref="https://d-nb.info/gnd/1114933597" xml:id="Bae_TB_10_6720">Silahdar Damat Ali Pasha</persName>], auch die Kaserne, aus der in der Mordnacht 
           <persName key="ObrenovicAleksandar" ref="https://d-nb.info/gnd/120558106" xml:id="Bae_TB_10_2285">Alexander's</persName> die Kanonen, deren Räder mit Stroh umwickelt waren von den Verschwörern heraufgefürt wurden. Dann die Kathedrale besichtigt mit dem erzbischöflichen Palais 
           <choice xml:id="Bae_TB_10_2286">
@@ -6036,7 +6037,8 @@
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_4592">Belgrad</placeName>. Er sagte, dass 
           <hi rendition="#ul" xml:id="Bae_TB_10_4593">
             <persName key="VenizelosEleftherios" ref="https://d-nb.info/gnd/118804146" xml:id="Bae_TB_10_4594">Venizelos</persName>
-          </hi> der Schöpfer des <orgName key="Balkanbund" ref="https://d-nb.info/gnd/1277681929">Balkanbundes</orgName> sei 
+          </hi> der Schöpfer des 
+          <orgName key="Balkanbund" ref="https://d-nb.info/gnd/1277681929" xml:id="Bae_TB_10_6728">Balkanbundes</orgName> sei 
           <choice xml:id="Bae_TB_10_4595">
             <abbr xml:id="Bae_TB_10_4596">u.</abbr>
             <expan xml:id="Bae_TB_10_4597">und</expan>
@@ -6533,7 +6535,8 @@
             <abbr xml:id="Bae_TB_10_4977">u.</abbr>
             <expan xml:id="Bae_TB_10_4978">und</expan>
           </choice>
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_4979">Österreich</placeName> in gutem Einvernehmen leben, werden aber den <orgName key="Balkanbund" ref="https://d-nb.info/gnd/1277681929">Balkanbund</orgName> so fest zusammenhalten als es geht. 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_4979">Österreich</placeName> in gutem Einvernehmen leben, werden aber den 
+          <orgName key="Balkanbund" ref="https://d-nb.info/gnd/1277681929" xml:id="Bae_TB_10_6729">Balkanbund</orgName> so fest zusammenhalten als es geht. 
         </p>
         <p xml:id="Bae_TB_10_4980">Vorgestern gab 
           <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_10_4981">Redlich</persName> ein kleines Frühstück (Baronin 
@@ -6882,7 +6885,7 @@
             <choice xml:id="Bae_TB_10_6723">
               <abbr xml:id="Bae_TB_10_6724">J.W.</abbr>
               <expan xml:id="Bae_TB_10_6725">Joseph Wolfgang</expan>
-            </choice> Dobernig
+            </choice> Dobernig 
           </persName>
         </p>
         <p xml:id="Bae_TB_10_5244">
@@ -7585,7 +7588,8 @@
           <choice xml:id="Bae_TB_10_5788">
             <abbr xml:id="Bae_TB_10_5789">u.</abbr>
             <expan xml:id="Bae_TB_10_5790">und</expan>
-          </choice> uns ganz an den <orgName key="Balkanbund" ref="https://d-nb.info/gnd/1277681929">Balkanbund</orgName> auch wirtschaftlich anschliessen 
+          </choice> uns ganz an den 
+          <orgName key="Balkanbund" ref="https://d-nb.info/gnd/1277681929" xml:id="Bae_TB_10_6730">Balkanbund</orgName> auch wirtschaftlich anschliessen 
           <choice xml:id="Bae_TB_10_5791">
             <abbr xml:id="Bae_TB_10_5792">u.</abbr>
             <expan xml:id="Bae_TB_10_5793">und</expan>
