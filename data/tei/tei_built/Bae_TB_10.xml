@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_10_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_10_1">
   <teiHeader xml:id="Bae_TB_10_2">
     <fileDesc xml:id="Bae_TB_10_3">
       <titleStmt xml:id="Bae_TB_10_4">
@@ -210,13 +209,13 @@
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_148">Belgrad</placeName>. Fürchterliches Pflaster über das ein recht schlechter Wagen uns stossend ins Hotel brachte. Diner annehmbar (Grand Hotel). Deutsche Bedienung. Am ersten Tag gleich zu unserer Gesandtschaft. Kein Gesandter nach Abgang 
           <persName key="ForgachJanos" ref="https://d-nb.info/gnd/1057019577" xml:id="Bae_TB_10_149">Forgatsch</persName>
           <!-- DC: Forgáchs -->. Vacanz. 
-          <persName key="HaymerleFranz" ref="no_ref" xml:id="Bae_TB_10_150">Baron Haymerle</persName> Geschäftsträger. Angenehmer junger Mann, wie unsere ganze Jugend um sein Avancement besorgt. 
-          <persName key="SeidlerHans" ref="no_ref" xml:id="Bae_TB_10_151">Baron Seidler</persName>
+          <persName key="HaymerleFranz" ref="https://d-nb.info/gnd/135685117" xml:id="Bae_TB_10_150">Baron Haymerle</persName> Geschäftsträger. Angenehmer junger Mann, wie unsere ganze Jugend um sein Avancement besorgt. 
+          <persName key="SeidlerHans" ref="https://d-nb.info/gnd/103372470X" xml:id="Bae_TB_10_151">Baron Seidler</persName>
           <choice xml:id="Bae_TB_10_152">
             <abbr xml:id="Bae_TB_10_153">Leg.</abbr>
             <expan xml:id="Bae_TB_10_154">Legations</expan>
           </choice>Secretär. Dann zum Generalconsulat 
-          <persName key="WildnerHeinrich" ref="no_ref" xml:id="Bae_TB_10_155">Dr. Wildner</persName> der General [?], ein 
+          <persName key="WildnerHeinrich" ref="https://d-nb.info/gnd/143416235" xml:id="Bae_TB_10_155">Dr. Wildner</persName> der General [?], ein 
           <placeName key="Reichenberg" ref="https://www.geonames.org/11924204/liberec.html" xml:id="Bae_TB_10_156">Reichenberger</placeName>. Sehr bewandert, spricht die Sprache. 
         </p>
         <p xml:id="Bae_TB_10_157">Im Übrigen bewegte ich mich durchaus im Kreise von Professoren, die teils schon Minister waren, teils es werden wollen. Mein Führer war 
@@ -256,7 +255,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_185"/>
             <expan xml:id="Bae_TB_10_186">herausgegeben</expan>
           </choice> haben. 
-          <persName key="ShekAdalbert" ref="no_ref" xml:id="Bae_TB_10_187">Shek</persName> bezeichnet ihn als grossen Chauvinisten. Gab sich mir aber ganz wissenschaftlich und ernst. 
+          <persName key="ShekAdalbert" ref="https://d-nb.info/gnd/1124111727" xml:id="Bae_TB_10_187">Shek</persName> bezeichnet ihn als grossen Chauvinisten. Gab sich mir aber ganz wissenschaftlich und ernst. 
         </p>
         <p xml:id="Bae_TB_10_188">
           <persName key="JovanovicLjubomir" ref="https://d-nb.info/gnd/133989909" xml:id="Bae_TB_10_189">Ljuba Jovanović</persName>, ein Bocchese, Conversation italienisch. Gewesener 
@@ -310,7 +309,7 @@
           <persName key="JovanovicSlobodan" ref="https://d-nb.info/gnd/119298074" xml:id="Bae_TB_10_224">Slobodan Jovanović</persName> – 
           <persName key="TrojanovicSima" ref="https://d-nb.info/gnd/117453994" xml:id="Bae_TB_10_225">Direktor Trojanovic</persName>, der in 
           <placeName key="Turin" ref="https://www.geonames.org/3165525/torino.html" xml:id="Bae_TB_10_226">Turin</placeName> abwesend war – 
-          <persName key="SkerlicJovan" ref="no_ref" xml:id="Bae_TB_10_227">Jovan Skrecić</persName> (Soci) – 
+          <persName key="SkerlicJovan" ref="https://d-nb.info/gnd/119363887" xml:id="Bae_TB_10_227">Jovan Skrecić</persName> (Soci) – 
           <persName key="RadonicJovan" ref="https://d-nb.info/gnd/1023240017" xml:id="Bae_TB_10_228">Joan Radonic</persName> – 
           <persName key="TomicJovan" ref="https://d-nb.info/gnd/135749107" xml:id="Bae_TB_10_229">Joan Tomić</persName> – 
           <choice xml:id="Bae_TB_10_230">
@@ -386,7 +385,7 @@
               <expan xml:id="Bae_TB_10_285">Ottokar</expan>
             </choice> Czernin 
           </persName>, 
-          <persName key="ImhofLeopold" ref="no_ref" xml:id="Bae_TB_10_286">Baron Imhof</persName>, sein Speci. Am Tisch II die andern, darunter 
+          <persName key="ImhofLeopold" ref="https://d-nb.info/gnd/130187429" xml:id="Bae_TB_10_286">Baron Imhof</persName>, sein Speci. Am Tisch II die andern, darunter 
           <persName key="SustersicIvan" ref="https://d-nb.info/gnd/121008924" xml:id="Bae_TB_10_287">
             <choice xml:id="Bae_TB_10_288">
               <abbr xml:id="Bae_TB_10_289">Abg.</abbr>
@@ -479,7 +478,7 @@
             <abbr xml:id="Bae_TB_10_355">čech.</abbr>
             <expan xml:id="Bae_TB_10_356">čechisch</expan>
           </choice>-deutschen Ausgleich gar nicht. 
-          <persName key="AbelHeinrich" ref="no_ref" xml:id="Bae_TB_10_357">Pater Abel</persName> sagt es jedem der es hören will dass wenn Czechen 
+          <persName key="AbelHeinrich" ref="https://d-nb.info/gnd/120682494" xml:id="Bae_TB_10_357">Pater Abel</persName> sagt es jedem der es hören will dass wenn Czechen 
           <choice xml:id="Bae_TB_10_358">
             <abbr xml:id="Bae_TB_10_359">u.</abbr>
             <expan xml:id="Bae_TB_10_360">und</expan>
@@ -509,7 +508,7 @@
         </p>
         <!-- CA: muss man hier eine FN einfügen, warum hier plötzlich das Jahr wechselt? -->
         <p xml:id="Bae_TB_10_378">
-          <persName key="KorytowskiWitold" ref="no_ref" xml:id="Bae_TB_10_379">Koritowsky</persName> erzält mir: als er zum 
+          <persName key="KorytowskiWitold" ref="https://d-nb.info/gnd/1017344051" xml:id="Bae_TB_10_379">Koritowsky</persName> erzält mir: als er zum 
           <choice xml:id="Bae_TB_10_380">
             <abbr xml:id="Bae_TB_10_381">M.</abbr>
             <expan xml:id="Bae_TB_10_382">Minister</expan>
@@ -520,7 +519,7 @@
           </choice> seine erste Audienz hatte, war 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_10_386">der Kaiser</persName> sehr freundlich mit 
           <add place="across" xml:id="Bae_TB_10_387">ihm</add>. 
-          <persName key="KorytowskiWitold" ref="no_ref" xml:id="Bae_TB_10_388">
+          <persName key="KorytowskiWitold" ref="https://d-nb.info/gnd/1017344051" xml:id="Bae_TB_10_388">
             <choice xml:id="Bae_TB_10_389">
               <abbr xml:id="Bae_TB_10_390">K.</abbr>
               <expan xml:id="Bae_TB_10_391">Koritowsky</expan>
@@ -646,14 +645,14 @@
             <expan xml:id="Bae_TB_10_477">und</expan>
           </choice>
           <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X" xml:id="Bae_TB_10_478">Erwein Nostitz</persName>. Entlassung 
-          <persName key="ConradFranz" ref="no_ref" xml:id="Bae_TB_10_479">Conrad's</persName>
+          <persName key="ConradFranz" ref="https://d-nb.info/gnd/118676768" xml:id="Bae_TB_10_479">Conrad's</persName>
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_10_480">
             <choice xml:id="Bae_TB_10_481">
               <abbr xml:id="Bae_TB_10_482">Fberg</abbr>
               <expan xml:id="Bae_TB_10_483">Fürstenberg</expan>
             </choice>
           </persName> erzählt, dass er einen Brief 
-          <persName key="ConradFranz" ref="no_ref" xml:id="Bae_TB_10_484">Conrads</persName> gelesen habe, den dieser als Antwort auf eine Art Condolenz geschrieben hatte, worin er sagt er habe seine Demission nicht gegeben, sondern sie einfach erhalten. Die Sache soll sich so zugetragen haben, dass 
+          <persName key="ConradFranz" ref="https://d-nb.info/gnd/118676768" xml:id="Bae_TB_10_484">Conrads</persName> gelesen habe, den dieser als Antwort auf eine Art Condolenz geschrieben hatte, worin er sagt er habe seine Demission nicht gegeben, sondern sie einfach erhalten. Die Sache soll sich so zugetragen haben, dass 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_10_485">der Kaiser</persName> den 
           <persName key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005" xml:id="Bae_TB_10_486">Erzherzog 
             <choice xml:id="Bae_TB_10_487">
@@ -661,14 +660,14 @@
               <expan xml:id="Bae_TB_10_489">Franz Ferdinand</expan>
             </choice>
           </persName> zu sich beschieden hat, ihm die Notwendigkeit der Entlassung 
-          <persName key="ConradFranz" ref="no_ref" xml:id="Bae_TB_10_490">Conrad's</persName> mitgeteilt, sich mit ihm in keine lange Erörterung eingelassen habe, 
+          <persName key="ConradFranz" ref="https://d-nb.info/gnd/118676768" xml:id="Bae_TB_10_490">Conrad's</persName> mitgeteilt, sich mit ihm in keine lange Erörterung eingelassen habe, 
           <persName key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005" xml:id="Bae_TB_10_491">
             <choice xml:id="Bae_TB_10_492">
               <abbr xml:id="Bae_TB_10_493">F.F.</abbr>
               <expan xml:id="Bae_TB_10_494">Franz Ferdinand</expan>
             </choice>
           </persName> darauf hin sofort zu 
-          <persName key="ConradFranz" ref="no_ref" xml:id="Bae_TB_10_495">Conrad</persName> gefaren 
+          <persName key="ConradFranz" ref="https://d-nb.info/gnd/118676768" xml:id="Bae_TB_10_495">Conrad</persName> gefaren 
           <choice xml:id="Bae_TB_10_496">
             <abbr xml:id="Bae_TB_10_497">u.</abbr>
             <expan xml:id="Bae_TB_10_498">und</expan>
@@ -685,7 +684,7 @@
             <abbr xml:id="Bae_TB_10_508">u.</abbr>
             <expan xml:id="Bae_TB_10_509">und</expan>
           </choice>
-          <persName key="ConradFranz" ref="no_ref" xml:id="Bae_TB_10_510">Conrad</persName> wegzuschicken, ohne den einen 
+          <persName key="ConradFranz" ref="https://d-nb.info/gnd/118676768" xml:id="Bae_TB_10_510">Conrad</persName> wegzuschicken, ohne den einen 
           <choice xml:id="Bae_TB_10_511">
             <abbr xml:id="Bae_TB_10_512">o.</abbr>
             <expan xml:id="Bae_TB_10_513">oder</expan>
@@ -745,7 +744,7 @@
             <abbr xml:id="Bae_TB_10_555">u.</abbr>
             <expan xml:id="Bae_TB_10_556">und</expan>
           </choice> erledigt stundenlang die bekannten nichtigen Akten. 
-          <persName key="PaarEduard" ref="no_ref" xml:id="Bae_TB_10_557">Paar</persName> ist der einzige Mensch mit dem er sich menschlich unterhält. Um 1 Uhr bekommt 
+          <persName key="PaarEduard" ref="https://d-nb.info/gnd/102127030X" xml:id="Bae_TB_10_557">Paar</persName> ist der einzige Mensch mit dem er sich menschlich unterhält. Um 1 Uhr bekommt 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_10_558">der Kaiser</persName> seine Malzeit auf dem Schreibtisch servirt 
           <choice xml:id="Bae_TB_10_559">
             <abbr xml:id="Bae_TB_10_560">u.</abbr>
@@ -783,7 +782,7 @@
               <expan xml:id="Bae_TB_10_584">Goluchowski</expan>
             </choice>
           </persName>, an der 
-          <persName key="ZaleskiWaclaw" ref="no_ref" xml:id="Bae_TB_10_585">Zaleski</persName>, der 
+          <persName key="ZaleskiWaclaw" ref="https://d-nb.info/gnd/1268159913" xml:id="Bae_TB_10_585">Zaleski</persName>, der 
           <choice xml:id="Bae_TB_10_586">
             <abbr xml:id="Bae_TB_10_587">F.</abbr>
             <expan xml:id="Bae_TB_10_588">Finanz</expan>
@@ -795,7 +794,7 @@
             <abbr xml:id="Bae_TB_10_593">u.</abbr>
             <expan xml:id="Bae_TB_10_594">und</expan>
           </choice> ich teilnahmen. 
-          <persName key="ZaleskiWaclaw" ref="no_ref" xml:id="Bae_TB_10_595">Zaleski</persName> befähigt aber noch nicht eingearbeitet. Wir hielten ihm die Finanzlage sehr eindringlich vor. 
+          <persName key="ZaleskiWaclaw" ref="https://d-nb.info/gnd/1268159913" xml:id="Bae_TB_10_595">Zaleski</persName> befähigt aber noch nicht eingearbeitet. Wir hielten ihm die Finanzlage sehr eindringlich vor. 
         </p>
         <pb facs="#F_K5_Bae_TB_10_021" n="9v" xml:id="Bae_TB_10_596"/>
         <addSpan spanTo="9v" type="insertion" xml:id="Bae_TB_10_597"/>
@@ -948,7 +947,7 @@
           <hi rendition="#ul" xml:id="Bae_TB_10_704">Vakuf</hi>güter eine Entschädigung leisten werde. Er war also ganz bewusst doppelzüngig. 
         </p>
         <p xml:id="Bae_TB_10_705">
-          <persName key="RizaAhmed" ref="no_ref" xml:id="Bae_TB_10_706">Achmed Rizza Pascha</persName> kam im Sommer 
+          <persName key="RizaAhmed" ref="https://d-nb.info/gnd/132926016" xml:id="Bae_TB_10_706">Achmed Rizza Pascha</persName> kam im Sommer 
           <date when="1908" xml:id="Bae_TB_10_707">1908</date> zu 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_708">Aehrenthal</persName>
           <choice xml:id="Bae_TB_10_709">
@@ -980,7 +979,7 @@
               <expan xml:id="Bae_TB_10_728">Aehrenthal</expan>
             </choice>
           </persName>: er hätte ja gewusst bevor 
-          <persName key="RizaAhmed" ref="no_ref" xml:id="Bae_TB_10_729">Achmed Rizza</persName> zu ihm kam, dass er diese Frage stellen würde 
+          <persName key="RizaAhmed" ref="https://d-nb.info/gnd/132926016" xml:id="Bae_TB_10_729">Achmed Rizza</persName> zu ihm kam, dass er diese Frage stellen würde 
           <choice xml:id="Bae_TB_10_730">
             <abbr xml:id="Bae_TB_10_731">u.</abbr>
             <expan xml:id="Bae_TB_10_732">und</expan>
@@ -1073,8 +1072,8 @@
             <expan xml:id="Bae_TB_10_796">und</expan>
           </choice> von seinem neuen Buche "Nebelheim" das ich gerade jetzt in 
           <placeName key="Meran" ref="https://www.geonames.org/3173577/merano.html" xml:id="Bae_TB_10_797">Meran</placeName> gelesen hatte. Hatte dann ein langes Gespräch mit 
-          <persName key="TucherHeinrich" ref="no_ref" xml:id="Bae_TB_10_798">Tucher</persName>. Insofern interessant als in seinen Reden die Meinung der deutschen Botschaft herausklingt. Seine persönliche Entrüstung geht vielleicht weiter als die Stimmung in der deutschen Botschaft, aber immerhin ist sie ein Reflex. 
-          <persName key="TucherHeinrich" ref="no_ref" xml:id="Bae_TB_10_799">Tucher</persName> betonte sehr bestimmt 
+          <persName key="TucherHeinrich" ref="https://d-nb.info/gnd/117433667" xml:id="Bae_TB_10_798">Tucher</persName>. Insofern interessant als in seinen Reden die Meinung der deutschen Botschaft herausklingt. Seine persönliche Entrüstung geht vielleicht weiter als die Stimmung in der deutschen Botschaft, aber immerhin ist sie ein Reflex. 
+          <persName key="TucherHeinrich" ref="https://d-nb.info/gnd/117433667" xml:id="Bae_TB_10_799">Tucher</persName> betonte sehr bestimmt 
           <choice xml:id="Bae_TB_10_800">
             <abbr xml:id="Bae_TB_10_801">u.</abbr>
             <expan xml:id="Bae_TB_10_802">und</expan>
@@ -1193,7 +1192,7 @@
           </choice> Bedürfniss zu gewinnen. Es ist dies total misslungen. 
         </p>
         <p xml:id="Bae_TB_10_884">
-          <persName key="TucherHeinrich" ref="no_ref" xml:id="Bae_TB_10_885">Tucher</persName> meint: es sei ein Verhängnis für 
+          <persName key="TucherHeinrich" ref="https://d-nb.info/gnd/117433667" xml:id="Bae_TB_10_885">Tucher</persName> meint: es sei ein Verhängnis für 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_886">
             <choice xml:id="Bae_TB_10_887">
               <abbr xml:id="Bae_TB_10_888">Äthal</abbr>
@@ -1925,7 +1924,7 @@
             <abbr xml:id="Bae_TB_10_1440">Abg.</abbr>
             <expan xml:id="Bae_TB_10_1441">Abgeordnete</expan>
           </choice>
-          <persName key="OertelGeorg" ref="no_ref" xml:id="Bae_TB_10_1442">Dr. Oertel</persName>: " 
+          <persName key="OertelGeorg" ref="https://d-nb.info/gnd/119506351" xml:id="Bae_TB_10_1442">Dr. Oertel</persName>: " 
           <choice xml:id="Bae_TB_10_1443">
             <abbr xml:id="Bae_TB_10_1444">Ö.-U.</abbr>
             <expan xml:id="Bae_TB_10_1445">Österreich-Ungarn</expan>
@@ -1938,10 +1937,10 @@
           <date when="1912-05-23" xml:id="Bae_TB_10_1449">23.5.1912</date>
         </p>
         <p xml:id="Bae_TB_10_1450">
-          <persName key="GiskraKarl" ref="no_ref" xml:id="Bae_TB_10_1451">Giskra</persName> erzählt mir aus der Zeit als er in 
+          <persName key="GiskraKarl" ref="https://d-nb.info/gnd/1272253058" xml:id="Bae_TB_10_1451">Giskra</persName> erzählt mir aus der Zeit als er in 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_1452">Belgrad</placeName> Secretär war, 
-          <persName key="ThoemmelGustav" ref="no_ref" xml:id="Bae_TB_10_1453">Thömmel</persName> unser Gesandter. Wie dieser die Serben damals (Zeit 
-          <persName key="ObrenovicAleksandar" ref="no_ref" xml:id="Bae_TB_10_1454">König Alexander</persName>) behandelt hat. Es gab eine Differenz wegen eines Schiffes auf der 
+          <persName key="ThoemmelGustav" ref="https://d-nb.info/gnd/1091092788" xml:id="Bae_TB_10_1453">Thömmel</persName> unser Gesandter. Wie dieser die Serben damals (Zeit 
+          <persName key="ObrenovicAleksandar" ref="https://d-nb.info/gnd/120558106" xml:id="Bae_TB_10_1454">König Alexander</persName>) behandelt hat. Es gab eine Differenz wegen eines Schiffes auf der 
           <placeName key="Save" xml:id="Bae_TB_10_6716">Save</placeName>. Der 
           <choice xml:id="Bae_TB_10_1455">
             <abbr xml:id="Bae_TB_10_1456">serb.</abbr>
@@ -1951,8 +1950,8 @@
             <abbr xml:id="Bae_TB_10_1459">M.Präs.</abbr>
             <expan xml:id="Bae_TB_10_1460">Ministerpräsident</expan>
           </choice>
-          <persName key="AvakumovicJovan" ref="no_ref" xml:id="Bae_TB_10_1461">Avakumovic</persName> gab 
-          <persName key="ThoemmelGustav" ref="no_ref" xml:id="Bae_TB_10_1462">Thömmel</persName> sein Wort, dass der Reclamation stattgegeben werden wird. Dieser antwortete er habe in 
+          <persName key="AvakumovicJovan" ref="https://d-nb.info/gnd/120889439" xml:id="Bae_TB_10_1461">Avakumovic</persName> gab 
+          <persName key="ThoemmelGustav" ref="https://d-nb.info/gnd/1091092788" xml:id="Bae_TB_10_1462">Thömmel</persName> sein Wort, dass der Reclamation stattgegeben werden wird. Dieser antwortete er habe in 
           <placeName key="Montenegro" ref="https://www.geonames.org/3194884/montenegro.html" xml:id="Bae_TB_10_1463">Montenegro</placeName>, der 
           <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_10_1464">Türkei</placeName>
           <choice xml:id="Bae_TB_10_1465">
@@ -1966,7 +1965,7 @@
               <expan xml:id="Bae_TB_10_1472">Serbien</expan>
             </choice>
           </placeName> gesprochen wird. 
-          <persName key="ThoemmelGustav" ref="no_ref" xml:id="Bae_TB_10_1473">Thömmel</persName> zum Schluss: das facit sei 
+          <persName key="ThoemmelGustav" ref="https://d-nb.info/gnd/1091092788" xml:id="Bae_TB_10_1473">Thömmel</persName> zum Schluss: das facit sei 
           <pb facs="#F_K5_Bae_TB_10_047" n="22v" xml:id="Bae_TB_10_1474"/>
           <note type="editorial" xml:id="Bae_TB_10_1475">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K5_Bae_TB_10_048" n="23r" xml:id="Bae_TB_10_1476"/>dass jedes Denkmal in 
@@ -1977,7 +1976,7 @@
             </choice>
           </placeName> ein Denkmal der 
           <hi rendition="#ul" xml:id="Bae_TB_10_1481">Schande</hi> des Landes sei. 
-          <persName key="GiskraKarl" ref="no_ref" xml:id="Bae_TB_10_1482">Giskra</persName> war bei diesen Gesprächen dabei. Vielleicht waren diese Sachen nur halb im Ernst und halb im Scherz gesagt, denn sonst wären sie nicht erklärlich. Aber wie immer es war, der Ton erklärt den Hass, den wir dort gesät haben. 
+          <persName key="GiskraKarl" ref="https://d-nb.info/gnd/1272253058" xml:id="Bae_TB_10_1482">Giskra</persName> war bei diesen Gesprächen dabei. Vielleicht waren diese Sachen nur halb im Ernst und halb im Scherz gesagt, denn sonst wären sie nicht erklärlich. Aber wie immer es war, der Ton erklärt den Hass, den wir dort gesät haben. 
         </p>
       </div>
       <div n="1912-07" type="diaryEntry" xml:id="Bae_TB_10_1483">
@@ -2129,7 +2128,7 @@
             <abbr xml:id="Bae_TB_10_1595">u.</abbr>
             <expan xml:id="Bae_TB_10_1596">und</expan>
           </choice> einigen Hofräten, die schweigend den Verhandlungen anwohnten. 
-          <persName key="HeinoldKarl" ref="no_ref" xml:id="Bae_TB_10_1597">Heinold</persName> präsidirte diesen Beratungen anfangs, dann, allerdings sehr in Anspruch genommen durch das Parlament überlies [er] den Vorsitz 
+          <persName key="HeinoldKarl" ref="https://d-nb.info/gnd/136193587" xml:id="Bae_TB_10_1597">Heinold</persName> präsidirte diesen Beratungen anfangs, dann, allerdings sehr in Anspruch genommen durch das Parlament überlies [er] den Vorsitz 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_10_1598">Thun</persName>, der sich seinen Secretär von 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_10_1599">Prag</placeName> mitbrachte 
           <choice xml:id="Bae_TB_10_1600">
@@ -2142,14 +2141,14 @@
               <expan xml:id="Bae_TB_10_1606">Ministerium</expan>
             </choice> des Innern 
           </orgName> als Leiter der Verhandlungen installirte. Dann kam bald die Zeit als 
-          <persName key="HeinoldKarl" ref="no_ref" xml:id="Bae_TB_10_1607">Heinold</persName> sich kaum mehr in die Sache mischte, froh war wenn die Sitzungen in 
+          <persName key="HeinoldKarl" ref="https://d-nb.info/gnd/136193587" xml:id="Bae_TB_10_1607">Heinold</persName> sich kaum mehr in die Sache mischte, froh war wenn die Sitzungen in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_10_1608">Prag</placeName> abgehalten wurden. Es kam sogar vor, dass er einmal den Kopf ins Zimmer steckte 
           <choice xml:id="Bae_TB_10_1609">
             <abbr xml:id="Bae_TB_10_1610">u.</abbr>
             <expan xml:id="Bae_TB_10_1611">und</expan>
           </choice> sich – unter allgemeiner Heiterkeit – entschuldigte, wie jemand der gar nicht hereingehört. Es war offenkundig, dass die Regierung, geradeso wie 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_10_1612">Bienerth</persName> an den Ausgleich nicht glaubte (woraus 
-          <persName key="HeinoldKarl" ref="no_ref" xml:id="Bae_TB_10_1613">Heinold</persName> kein Hehl machte) 
+          <persName key="HeinoldKarl" ref="https://d-nb.info/gnd/136193587" xml:id="Bae_TB_10_1613">Heinold</persName> kein Hehl machte) 
           <choice xml:id="Bae_TB_10_1614">
             <abbr xml:id="Bae_TB_10_1615">u.</abbr>
             <expan xml:id="Bae_TB_10_1616">und</expan>
@@ -2293,7 +2292,7 @@
             <abbr xml:id="Bae_TB_10_1724">z.B.</abbr>
             <expan xml:id="Bae_TB_10_1725">zum Beispiel</expan>
           </choice>
-          <placeName key="Huttendorf" ref="no_ref" xml:id="Bae_TB_10_1726">Hüttendorf</placeName> (Bezirk 
+          <placeName key="Huttendorf" ref="https://www.geonames.org/3061931/zalesni-lhota.html" xml:id="Bae_TB_10_1726">Hüttendorf</placeName> (Bezirk 
           <placeName key="Starkenbach" ref="https://www.geonames.org/11925815/jilemnice.html" xml:id="Bae_TB_10_1727">Starkenbach</placeName>) weigerten sich offen von dem 
           <choice xml:id="Bae_TB_10_1728">
             <abbr xml:id="Bae_TB_10_1729">čech.</abbr>
@@ -2393,7 +2392,7 @@
             <expan xml:id="Bae_TB_10_1803">und</expan>
           </choice> die im deutschen Gebiet liegende 
           <orgName key="Landesirrenanstalt" xml:id="Bae_TB_10_6717">Anstalt</orgName>
-          <placeName key="Dobrany" ref="no_ref" xml:id="Bae_TB_10_1804">Dobzan</placeName> hat den Ort čechisirt. Aber im Ganzen genommen ist die Landes 
+          <placeName key="Dobrany" ref="https://www.geonames.org/11924340/dobrany.html" xml:id="Bae_TB_10_1804">Dobzan</placeName> hat den Ort čechisirt. Aber im Ganzen genommen ist die Landes 
           <choice xml:id="Bae_TB_10_1805">
             <abbr xml:id="Bae_TB_10_1806">O.</abbr>
             <expan xml:id="Bae_TB_10_1807">Ordnung</expan>
@@ -2689,7 +2688,7 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_2034">Wien</placeName>. Ein hochgebildeter Mann, der enge Fühlung mit den Slavisten in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_2035">Wien</placeName> hat. Ich lud ihn zum Essen ein, dazu 
           <persName key="BoehmBawerkEugen" ref="https://d-nb.info/gnd/118660691" xml:id="Bae_TB_10_2036">Böhm</persName>, unsern Präsidenten der 
-          <orgName key="AkademieWissenschaftenWien" ref="no_ref" xml:id="Bae_TB_10_2037">Akademie</orgName> , dann 
+          <orgName key="AkademieWissenschaftenWien" ref="https://d-nb.info/gnd/110494894X" xml:id="Bae_TB_10_2037">Akademie</orgName> , dann 
           <persName key="JagicVatroslav" ref="https://explore.gnd.network/gnd/118711458" xml:id="Bae_TB_10_2038">Jagić</persName>, 
           <persName key="GollJaroslav" ref="https://d-nb.info/gnd/117694118" xml:id="Bae_TB_10_2039">Goll</persName> aus 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_10_2040">Prag</placeName>
@@ -2712,7 +2711,7 @@
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_2053">Serbien</placeName> hatte ich schon am 
           <date when="1911-06-06" xml:id="Bae_TB_10_2054">6.6.1911</date> in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_2055">Wien</placeName> eine Unterredung mit Herrn 
-          <persName key="GavrilovicMihailo" ref="no_ref" xml:id="Bae_TB_10_2056">Gavrilović</persName>, den damals neu ernannten serbischen Gesandten in 
+          <persName key="GavrilovicMihailo" ref="https://d-nb.info/gnd/1122117825" xml:id="Bae_TB_10_2056">Gavrilović</persName>, den damals neu ernannten serbischen Gesandten in 
           <placeName key="Cetinje" ref="https://www.geonames.org/3202640/cetinje.html" xml:id="Bae_TB_10_2057">Cetinje</placeName>. Er tadelte sehr stark das Verhalten der 
           <choice xml:id="Bae_TB_10_2058">
             <abbr xml:id="Bae_TB_10_2059">öster.</abbr>
@@ -2738,7 +2737,7 @@
           <persName key="MetternichKlemens" ref="https://d-nb.info/gnd/118581465" xml:id="Bae_TB_10_2074">Metternich</persName> anders. Damals hat man der Sprache und des Landes kundige Männer nach 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_2075">Belgrad</placeName> geschickt, so den Oberst 
           <hi rendition="#s" xml:id="Bae_TB_10_2076">
-            <persName key="MihanovicAntun" ref="no_ref" xml:id="Bae_TB_10_2077">Michanovic</persName>
+            <persName key="MihanovicAntun" ref="https://d-nb.info/gnd/121489809" xml:id="Bae_TB_10_2077">Michanovic</persName>
           </hi> , den Consul 
           <hi rendition="#ul" xml:id="Bae_TB_10_2078">
             <persName key="AtanackovicDimitrije" ref="no_ref" xml:id="Bae_TB_10_2079">Atanasković</persName>
@@ -2756,14 +2755,14 @@
             <abbr xml:id="Bae_TB_10_2087">u.</abbr>
             <expan xml:id="Bae_TB_10_2088">und</expan>
           </choice> der unter 
-          <persName key="KaradordevicAleksander" ref="no_ref" xml:id="Bae_TB_10_2089">Alexander Karageorgević</persName> der Vizeprinz hiess. Zuletzt noch 
+          <persName key="KaradordevicAleksander" ref="https://d-nb.info/gnd/139424296" xml:id="Bae_TB_10_2089">Alexander Karageorgević</persName> der Vizeprinz hiess. Zuletzt noch 
           <persName key="KallayBeni" ref="https://d-nb.info/gnd/119001993" xml:id="Bae_TB_10_2090">Kallay</persName>. Seither niemand mehr. 
           <persName key="ForgachJanos" ref="https://d-nb.info/gnd/1057019577" xml:id="Bae_TB_10_2091">Forgach</persName> hat unendlich viel Dummheiten gemacht aus Unkenntnis von Land 
           <choice xml:id="Bae_TB_10_2092">
             <abbr xml:id="Bae_TB_10_2093">u.</abbr>
             <expan xml:id="Bae_TB_10_2094">und</expan>
           </choice> Leuten sowie der Verhältnisse. Unsere Diplomatie bedarf einer vollständigen Reorganisation in den Balkanländern, das war der Eindruck, den ich von 
-          <persName key="GavrilovicMihailo" ref="no_ref" xml:id="Bae_TB_10_2095">Gavrilovic</persName> auffing, der ein sehr ruhiger, gemessener Mann ist. 
+          <persName key="GavrilovicMihailo" ref="https://d-nb.info/gnd/1122117825" xml:id="Bae_TB_10_2095">Gavrilovic</persName> auffing, der ein sehr ruhiger, gemessener Mann ist. 
         </p>
         <p xml:id="Bae_TB_10_2096">Den 
           <date when="1911-06-08" xml:id="Bae_TB_10_2097">8.6.1911</date> in 
@@ -2818,7 +2817,7 @@
           </date> in 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_2135">Belgrad</placeName>. Ganzen Vormittag Besuche bei der Gesandtschaft, dem Consulat, 
           <persName key="MilovanovicMilovan" ref="https://d-nb.info/gnd/118949470" xml:id="Bae_TB_10_2136">Milovanowic</persName> (nicht getroffen), bei dem Vertreter von 
-          <persName key="GinzkeyWilhelm" ref="no_ref" xml:id="Bae_TB_10_2137">Ginsky</persName>
+          <persName key="GinzkeyWilhelm" ref="https://d-nb.info/gnd/13648624X" xml:id="Bae_TB_10_2137">Ginsky</persName>
           <persName key="Kuzmanovic" ref="no_ref" xml:id="Bae_TB_10_2138">Kuzmanović</persName>, der mir die Stadt zeigte. Abend Spaziergang im Volksgarten mit Büsten 
           <choice xml:id="Bae_TB_10_2139">
             <abbr xml:id="Bae_TB_10_2140">serb.</abbr>
@@ -2849,7 +2848,7 @@
               <expan xml:id="Bae_TB_10_2159">Belgrad</expan>
             </choice>
           </placeName> gegenüber, sondern etwa 5-6 Kilometer die Donau aufwärts ist der Mittelpunkt dieser weiten Aussichtsfelder. Weite Auen ohne Ortschaften, in der Ferne die Hügel von 
-          <placeName key="NoviSad" ref="no_ref" xml:id="Bae_TB_10_2160">Neusatz</placeName>
+          <placeName key="NoviSad" ref="https://www.geonames.org/3194359/opstina-novi-sad.html" xml:id="Bae_TB_10_2160">Neusatz</placeName>
           <choice xml:id="Bae_TB_10_2161">
             <abbr xml:id="Bae_TB_10_2162">u.</abbr>
             <expan xml:id="Bae_TB_10_2163">und</expan>
@@ -2893,7 +2892,7 @@
           </placeName> besprochen. 
         </p>
         <p xml:id="Bae_TB_10_2191">Er zeigte mir die Nationalbank, schöne Marmorhalle, die Treppen mit 
-          <persName key="GinzkeyWilhelm" ref="no_ref" xml:id="Bae_TB_10_2192">Ginskey</persName> Teppichen belegt. Die serbischen Valutaverhältnisse nicht schlecht. Gold in Circulation. Ich sah aber im Ganzen nicht viel. In derselben Strasse die Grosshändler, darunter alte, reiche Firmen. Dann biegt man in die Michaelsgasse ein, wo die schönsten Laden der Detailisten sind. Wir haben einige dieser Geschäfte genau durchgesehen. Während des Zollkriegs hat man hier keine 
+          <persName key="GinzkeyWilhelm" ref="https://d-nb.info/gnd/13648624X" xml:id="Bae_TB_10_2192">Ginskey</persName> Teppichen belegt. Die serbischen Valutaverhältnisse nicht schlecht. Gold in Circulation. Ich sah aber im Ganzen nicht viel. In derselben Strasse die Grosshändler, darunter alte, reiche Firmen. Dann biegt man in die Michaelsgasse ein, wo die schönsten Laden der Detailisten sind. Wir haben einige dieser Geschäfte genau durchgesehen. Während des Zollkriegs hat man hier keine 
           <choice xml:id="Bae_TB_10_2193">
             <abbr xml:id="Bae_TB_10_2194">öster.</abbr>
             <expan xml:id="Bae_TB_10_2195">österreichischen</expan>
@@ -2977,7 +2976,7 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_2256">Österreich</placeName> sehr aufgebracht, weil er den Viehverkauf verloren hat. Viel Land noch nicht urbar gemacht. 
         </p>
         <p xml:id="Bae_TB_10_2257">Hatte lange Unterredung mit Professor 
-          <persName key="PavlovicDraza" ref="no_ref" xml:id="Bae_TB_10_2258">Pavlović</persName>, Historiker der 
+          <persName key="PavlovicDraza" ref="https://d-nb.info/gnd/1069565032" xml:id="Bae_TB_10_2258">Pavlović</persName>, Historiker der 
           <orgName key="UniversitaetBelgrad" ref="no_ref" xml:id="Bae_TB_10_2259">Universität</orgName>, der mich überall hinführte 
           <choice xml:id="Bae_TB_10_2260">
             <abbr xml:id="Bae_TB_10_2261">u.</abbr>
@@ -3007,12 +3006,12 @@
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_10_2280">Russland</placeName>. 
         </p>
         <p xml:id="Bae_TB_10_2281">Dann machte ich mit einem sehr guten Fremdenführer eine Fart durch die Stadt. Fand noch eine kleine Moschee mit den Resten der türkischen Ansiedlung. Unter der Festung ein altes schönes Renaissancetor, "Thor 
-          <persName key="PrinzEugen" ref="no_ref" xml:id="Bae_TB_10_2282">Prinz Eugen's</persName>" auf der einen Seite 
+          <persName key="PrinzEugen" ref="https://d-nb.info/gnd/118605941" xml:id="Bae_TB_10_2282">Prinz Eugen's</persName>" auf der einen Seite 
           <!-- DC Monogramm aus gespiegeltem und überkreuzten C --> was wohl 
           <persName key="KaiserKarlVI" ref="https://d-nb.info/gnd/118560107" xml:id="Bae_TB_10_2283">Carl (VI)</persName> heissen soll, auf der andern Seite noch die Kaiserkrone, aber das Wappen herausgeschlagen. Ein türkisches Bad, jetzt als Dampfbad für die Soldaten benützt. Auf der Festung das Grab 
-          <persName key="DamatAliPascha" ref="no_ref" xml:id="Bae_TB_10_2284">Mustapha Pascha's</persName>[
+          <persName key="DamatAliPascha" ref="https://d-nb.info/gnd/1114933597" xml:id="Bae_TB_10_2284">Mustapha Pascha's</persName>[
           <persName key="DamatAliPascha" ref="https://d-nb.info/gnd/1114933597" xml:id="Bae_TB_10_6720">Silahdar Damat Ali Pasha</persName>], auch die Kaserne, aus der in der Mordnacht 
-          <persName key="ObrenovicAleksandar" ref="no_ref" xml:id="Bae_TB_10_2285">Alexander's</persName> die Kanonen, deren Räder mit Stroh umwickelt waren von den Verschwörern heraufgefürt wurden. Dann die Kathedrale besichtigt mit dem erzbischöflichen Palais 
+          <persName key="ObrenovicAleksandar" ref="https://d-nb.info/gnd/120558106" xml:id="Bae_TB_10_2285">Alexander's</persName> die Kanonen, deren Räder mit Stroh umwickelt waren von den Verschwörern heraufgefürt wurden. Dann die Kathedrale besichtigt mit dem erzbischöflichen Palais 
           <choice xml:id="Bae_TB_10_2286">
             <abbr xml:id="Bae_TB_10_2287">u.</abbr>
             <expan xml:id="Bae_TB_10_2288">und</expan>
@@ -3023,12 +3022,12 @@
           <pb facs="#F_K5_Bae_TB_10_075" n="36v" xml:id="Bae_TB_10_2294"/>
           <note type="editorial" xml:id="Bae_TB_10_2295">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K5_Bae_TB_10_076" n="37r" xml:id="Bae_TB_10_2296"/>Offizierscasino mit einem Stock. Konak, der Trakt wo der Mord an 
-          <persName key="ObrenovicAleksandar" ref="no_ref" xml:id="Bae_TB_10_2297">Alexander</persName>
+          <persName key="ObrenovicAleksandar" ref="https://d-nb.info/gnd/120558106" xml:id="Bae_TB_10_2297">Alexander</persName>
           <choice xml:id="Bae_TB_10_2298">
             <abbr xml:id="Bae_TB_10_2299">u.</abbr>
             <expan xml:id="Bae_TB_10_2300">und</expan>
           </choice>
-          <persName key="DragaMasin" ref="no_ref" xml:id="Bae_TB_10_2301">Draga</persName> vollführt wurde, ist abgerissen, jetzt Garten. Gegenüber, auf dem Platz des ehemaligen 
+          <persName key="DragaMasin" ref="https://d-nb.info/gnd/119460599" xml:id="Bae_TB_10_2301">Draga</persName> vollführt wurde, ist abgerissen, jetzt Garten. Gegenüber, auf dem Platz des ehemaligen 
           <choice xml:id="Bae_TB_10_2303">
             <abbr xml:id="Bae_TB_10_2304">M.</abbr>
             <expan xml:id="Bae_TB_10_2305">Ministeriums</expan>
@@ -3043,7 +3042,7 @@
           </choice> Regierung unterstützt. Wir Österreicher tun in dieser Hinsicht nichts. 
         </p>
         <p xml:id="Bae_TB_10_2312">Hatte dann mit unserm Consul Dr. 
-          <persName key="WildnerHeinrich" ref="no_ref" xml:id="Bae_TB_10_2313">Waldner</persName>
+          <persName key="WildnerHeinrich" ref="https://d-nb.info/gnd/143416235" xml:id="Bae_TB_10_2313">Waldner</persName>
           <!-- DC korrigiert mit Bleistift in Wildner -->, ein Reichenberger eine lange Unterhaltung. Er kennt Land 
           <choice xml:id="Bae_TB_10_2314">
             <abbr xml:id="Bae_TB_10_2315">u.</abbr>
@@ -3055,7 +3054,7 @@
           </choice> Dingen und weiss von der 
           <persName key="ForgachJanos" ref="https://d-nb.info/gnd/1057019577" xml:id="Bae_TB_10_2320">Forgach</persName>- 
           <persName key="VasicMilan" ref="no_ref" xml:id="Bae_TB_10_2321">Vassich</persName> Affaire offenbar viel mehr als er sagt. Sowol er als der Botschaftssecretär Baron 
-          <persName key="HaymerleFranz" ref="no_ref" xml:id="Bae_TB_10_2322">Haymerle</persName> äusserten unumwunden, dass der 
+          <persName key="HaymerleFranz" ref="https://d-nb.info/gnd/135685117" xml:id="Bae_TB_10_2322">Haymerle</persName> äusserten unumwunden, dass der 
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_10_2323">Friedjung</persName> Process zum Heile des 
           <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_10_2324">
             <choice xml:id="Bae_TB_10_2325">
@@ -3065,23 +3064,23 @@
           </orgName> des Äussern abgebrochen worden sei. Es sei höchste Zeit gewesen. 
           <persName key="ForgachJanos" ref="https://d-nb.info/gnd/1057019577" xml:id="Bae_TB_10_2328">Forgach</persName> sei viel zu lange hier gelassen worden; er war der Prototyp der Occupationspolitik. Die 
           <persName key="ForgachJanos" ref="https://d-nb.info/gnd/1057019577" xml:id="Bae_TB_10_2329">Forgach</persName>geschichte muss sehr stinken, nach der Reserve, die sich 
-          <persName key="WildnerHeinrich" ref="no_ref" xml:id="Bae_TB_10_2330">Wildner</persName>
+          <persName key="WildnerHeinrich" ref="https://d-nb.info/gnd/143416235" xml:id="Bae_TB_10_2330">Wildner</persName>
           <choice xml:id="Bae_TB_10_2331">
             <abbr xml:id="Bae_TB_10_2332">u.</abbr>
             <expan xml:id="Bae_TB_10_2333">und</expan>
           </choice>
-          <persName key="HaymerleFranz" ref="no_ref" xml:id="Bae_TB_10_2334">Haymerle</persName> auferlegt haben, aber das gab 
-          <persName key="WildnerHeinrich" ref="no_ref" xml:id="Bae_TB_10_2335">Wildner</persName> doch zu, dass 
+          <persName key="HaymerleFranz" ref="https://d-nb.info/gnd/135685117" xml:id="Bae_TB_10_2334">Haymerle</persName> auferlegt haben, aber das gab 
+          <persName key="WildnerHeinrich" ref="https://d-nb.info/gnd/143416235" xml:id="Bae_TB_10_2335">Wildner</persName> doch zu, dass 
           <persName key="VasicMilan" ref="no_ref" xml:id="Bae_TB_10_2336">Wassich</persName> einmal im Consulat war, allerdings nicht angestellt, sondern als Informant. 
         </p>
         <p xml:id="Bae_TB_10_2337">Beide Herren waren ganz meiner Meinung was die Behandlung der südslavischen Staaten betrifft. Man behandelt sie von oben herab. Sie sind sehr misstrauisch. Wenn man aber wirkliches Interesse für sie zeigt, für ihr Leben, ihre Zukunft, werden sie ganz anders – eine Methode, die man aber seit langem nicht mehr anwendet.</p>
         <p xml:id="Bae_TB_10_2338">Mittag speiste ich mit 
-          <persName key="HaymerleFranz" ref="no_ref" xml:id="Bae_TB_10_2339">Haymerle</persName>, der in 
+          <persName key="HaymerleFranz" ref="https://d-nb.info/gnd/135685117" xml:id="Bae_TB_10_2339">Haymerle</persName>, der in 
           <placeName key="Rom" ref="https://www.geonames.org/3169071/roma.html" xml:id="Bae_TB_10_2340">Rom</placeName> war. Er ist ganz der Ansicht 
           <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_10_2341">Grabmayr's</persName>. 
         </p>
         <p xml:id="Bae_TB_10_2342">Nachmittag war ich mit Professor 
-          <persName key="PavlovicDraza" ref="no_ref" xml:id="Bae_TB_10_2343">Pavlović</persName> im 
+          <persName key="PavlovicDraza" ref="https://d-nb.info/gnd/1069565032" xml:id="Bae_TB_10_2343">Pavlović</persName> im 
           <choice xml:id="Bae_TB_10_2344">
             <abbr xml:id="Bae_TB_10_2345">archäolog.</abbr>
             <expan xml:id="Bae_TB_10_2346">archäologischen</expan>
@@ -3090,15 +3089,15 @@
             <abbr xml:id="Bae_TB_10_2348">Prof.</abbr>
             <expan xml:id="Bae_TB_10_2349">Professor</expan>
           </choice>
-          <persName key="PericZivojin" ref="no_ref" xml:id="Bae_TB_10_2350">Perić</persName>
+          <persName key="PericZivojin" ref="https://d-nb.info/gnd/1089656238" xml:id="Bae_TB_10_2350">Perić</persName>
           <choice xml:id="Bae_TB_10_2351">
             <abbr xml:id="Bae_TB_10_2352">u.</abbr>
             <expan xml:id="Bae_TB_10_2353">und</expan>
           </choice>
-          <persName key="JovanovicLjubomir" ref="no_ref" xml:id="Bae_TB_10_2354">Ljuba Joavanović</persName> in den Weingärten. 
+          <persName key="JovanovicLjubomir" ref="https://d-nb.info/gnd/133989909" xml:id="Bae_TB_10_2354">Ljuba Joavanović</persName> in den Weingärten. 
         </p>
         <p xml:id="Bae_TB_10_2355">
-          <persName key="PericZivojin" ref="no_ref" xml:id="Bae_TB_10_2356">Perić</persName> ist Fortschrittler, äusserst lebhaft 
+          <persName key="PericZivojin" ref="https://d-nb.info/gnd/1089656238" xml:id="Bae_TB_10_2356">Perić</persName> ist Fortschrittler, äusserst lebhaft 
           <choice xml:id="Bae_TB_10_2357">
             <abbr xml:id="Bae_TB_10_2358">u.</abbr>
             <expan xml:id="Bae_TB_10_2359">und</expan>
@@ -3271,7 +3270,7 @@
         </p>
         <p xml:id="Bae_TB_10_2482">
           <persName key="JovanovicLjubomir" ref="https://d-nb.info/gnd/133989909" xml:id="Bae_TB_10_2483">Llijuba Joanovic</persName>, Bocchese. Conversation: italienisch-deutsch. Sagt eigentlich dasselbe wie 
-          <persName key="PericZivojin" ref="no_ref" xml:id="Bae_TB_10_2484">Perić</persName>. Ueber 
+          <persName key="PericZivojin" ref="https://d-nb.info/gnd/1089656238" xml:id="Bae_TB_10_2484">Perić</persName>. Ueber 
           <persName key="ObrenovicMilan" ref="https://d-nb.info/gnd/122295528" xml:id="Bae_TB_10_2485">Milan</persName>: er war hochintelligent aber oberflächlich 
           <choice xml:id="Bae_TB_10_2486">
             <abbr xml:id="Bae_TB_10_2487">u.</abbr>
@@ -3319,7 +3318,7 @@
           </persName> ist Historiker, aber in der 
           <orgName key="Skupschtina" ref="https://d-nb.info/gnd/4375100-3" xml:id="Bae_TB_10_2517">Skupschtina</orgName> sehr beschäftigt, dass er die letzten deutschen Publicationen nicht gelesen hat. Sehr schöne Lage der Sommerhäuser auf dem Berg zwischen 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_2518">Belgrad</placeName> und 
-          <placeName key="Topcider" ref="no_ref" xml:id="Bae_TB_10_2519">Topschieder</placeName>. Weinberge mit Rosen 
+          <placeName key="Topcider" ref="https://www.geonames.org/785036/zeleznicka-stanica-topcider.html" xml:id="Bae_TB_10_2519">Topschieder</placeName>. Weinberge mit Rosen 
           <choice xml:id="Bae_TB_10_2520">
             <abbr xml:id="Bae_TB_10_2521">u.</abbr>
             <expan xml:id="Bae_TB_10_2522">und</expan>
@@ -3340,7 +3339,7 @@
             <abbr xml:id="Bae_TB_10_2533">türk.</abbr>
             <expan xml:id="Bae_TB_10_2534">türkischen</expan>
           </choice> Krieg. Das Schlusscapitel ist das Resümee des Ganzen. Er ist Radicaler aber derselben Meinung wie 
-          <persName key="PericZivojin" ref="no_ref" xml:id="Bae_TB_10_2535">Perić</persName> und 
+          <persName key="PericZivojin" ref="https://d-nb.info/gnd/1089656238" xml:id="Bae_TB_10_2535">Perić</persName> und 
           <persName key="JovanovicLjubomir" ref="https://d-nb.info/gnd/133989909" xml:id="Bae_TB_10_2536">Joanović</persName>. Auch 
           <choice xml:id="Bae_TB_10_2537">
             <abbr xml:id="Bae_TB_10_2538">K.</abbr>
@@ -3388,7 +3387,7 @@
           </choice> in 
           <placeName key="Karlowitz" ref="https://www.geonames.org/3343730/opstina-sremski-karlovci.html" xml:id="Bae_TB_10_2571">Karlowitz</placeName>. Schreiber bei dem Anfürer des Aufstandes, Schreiber in 
           <placeName key="Semlin" ref="https://www.geonames.org/783920/zemun.html" xml:id="Bae_TB_10_2572">Semlin</placeName>. Dann Zollbeamter bei 
-          <placeName key="Negotin" ref="no_ref" xml:id="Bae_TB_10_2573">Negotin</placeName>. 
+          <placeName key="Negotin" ref="https://www.geonames.org/787718/negotin.html" xml:id="Bae_TB_10_2573">Negotin</placeName>. 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_2574">Wien</placeName> im 
           <choice xml:id="Bae_TB_10_2575">
             <abbr xml:id="Bae_TB_10_2576">J.</abbr>
@@ -3856,7 +3855,7 @@
           </choice> Diplomaten unglücklich machen. 
         </p>
         <p xml:id="Bae_TB_10_2931">Park von 
-          <placeName key="Topcider" ref="no_ref" xml:id="Bae_TB_10_2932">Topschider</placeName>. Konak des 
+          <placeName key="Topcider" ref="https://www.geonames.org/785036/zeleznicka-stanica-topcider.html" xml:id="Bae_TB_10_2932">Topschider</placeName>. Konak des 
           <persName key="ObrenowicMilos" ref="no_ref" xml:id="Bae_TB_10_2933">Miloš</persName>, wo er 
           <choice xml:id="Bae_TB_10_2934">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2935"/>
@@ -3908,7 +3907,7 @@
             <abbr xml:id="Bae_TB_10_2969">u.</abbr>
             <expan xml:id="Bae_TB_10_2970">und</expan>
           </choice> Waldwege, Riesenbäume, äußerst malerisch. Dort 
-          <persName key="ObrenovicMihailo" ref="no_ref" xml:id="Bae_TB_10_2971">Michael</persName> ermordet. Auch wegen einer Frau. Das weibliche Geschlecht war den Obrenowitz verhängnisvoll. 
+          <persName key="ObrenovicMihailo" ref="https://d-nb.info/gnd/119385236" xml:id="Bae_TB_10_2971">Michael</persName> ermordet. Auch wegen einer Frau. Das weibliche Geschlecht war den Obrenowitz verhängnisvoll. 
         </p>
         <p xml:id="Bae_TB_10_2972">
           <persName key="CvijicJovan" ref="https://d-nb.info/gnd/119378795" xml:id="Bae_TB_10_2973">Cjivic</persName>
@@ -3948,7 +3947,7 @@
             <abbr xml:id="Bae_TB_10_3000">u.</abbr>
             <expan xml:id="Bae_TB_10_3001">und</expan>
           </choice> die Höhen von 
-          <placeName key="Topcider" ref="no_ref" xml:id="Bae_TB_10_3002">Topschider</placeName>. Gelehrter Patriarch. Spricht wie 
+          <placeName key="Topcider" ref="https://www.geonames.org/785036/zeleznicka-stanica-topcider.html" xml:id="Bae_TB_10_3002">Topschider</placeName>. Gelehrter Patriarch. Spricht wie 
           <choice xml:id="Bae_TB_10_3003">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3004"/>
             <expan xml:id="Bae_TB_10_3005">hier</expan>
@@ -4341,9 +4340,9 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3295"/>
             <expan xml:id="Bae_TB_10_3296">aus</expan>
           </choice>
-          <placeName key="Nis" ref="no_ref" xml:id="Bae_TB_10_3297">Naisos</placeName> ( 
-          <placeName key="Nis" ref="no_ref" xml:id="Bae_TB_10_3298">Nisch</placeName>), dem Geburtsort von 
-          <persName key="KaiserKonstantin" ref="no_ref" xml:id="Bae_TB_10_3299">Constantin dem Großen</persName>. Prachtvolle Bronzebüste dieses Kaisers dort gefunden. Sehr gut erhalten, 
+          <placeName key="Nis" ref="https://www.geonames.org/787657/nis.html" xml:id="Bae_TB_10_3297">Naisos</placeName> ( 
+          <placeName key="Nis" ref="https://www.geonames.org/787657/nis.html" xml:id="Bae_TB_10_3298">Nisch</placeName>), dem Geburtsort von 
+          <persName key="KaiserKonstantin" ref="https://d-nb.info/gnd/118565184" xml:id="Bae_TB_10_3299">Constantin dem Großen</persName>. Prachtvolle Bronzebüste dieses Kaisers dort gefunden. Sehr gut erhalten, 
           <add place="across" xml:id="Bae_TB_10_3300">sehr individuell</add> teilweise 
           <choice xml:id="Bae_TB_10_3301">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3302"/>
@@ -4393,7 +4392,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3337"/>
             <expan xml:id="Bae_TB_10_3338">Fürsten</expan>
           </choice>
-          <persName key="ObrenovicMilos" ref="no_ref" xml:id="Bae_TB_10_3339">Miloš</persName>. Sein Augenglas. Konnte 
+          <persName key="ObrenovicMilos" ref="https://d-nb.info/gnd/119060744" xml:id="Bae_TB_10_3339">Miloš</persName>. Sein Augenglas. Konnte 
           <choice xml:id="Bae_TB_10_3340">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3341"/>
             <expan xml:id="Bae_TB_10_3342">nicht schreiben</expan>
@@ -4407,7 +4406,7 @@
         <note type="editorial" xml:id="Bae_TB_10_3347">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_092" n="45r" xml:id="Bae_TB_10_3348"/>
         <p xml:id="Bae_TB_10_3349">
-          <persName key="CvijicJovan" ref="no_ref" xml:id="Bae_TB_10_3350">Cjivic</persName> meint dass die 
+          <persName key="CvijicJovan" ref="https://d-nb.info/gnd/119378795" xml:id="Bae_TB_10_3350">Cjivic</persName> meint dass die 
           <orgName key="AkademieWissenschaftenBelgrad" ref="no_ref" xml:id="Bae_TB_10_3351">Belgrader Akademie</orgName>
           <choice xml:id="Bae_TB_10_3352">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3353"/>
@@ -4483,7 +4482,7 @@
           <date when="1911-06-11" xml:id="Bae_TB_10_3405">11.6.1911</date>
         </p>
         <p xml:id="Bae_TB_10_3406">Mit Professor 
-          <persName key="PopovicBogdan" ref="no_ref" xml:id="Bae_TB_10_3407">Papović</persName>. Liest vergleichende Literatur 
+          <persName key="PopovicBogdan" ref="https://d-nb.info/gnd/118936255" xml:id="Bae_TB_10_3407">Papović</persName>. Liest vergleichende Literatur 
           <choice xml:id="Bae_TB_10_3408">
             <abbr xml:id="Bae_TB_10_3409">u.</abbr>
             <expan xml:id="Bae_TB_10_3410">und</expan>
@@ -4510,7 +4509,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3426"/>
             <expan xml:id="Bae_TB_10_3427">ischen</expan>
           </choice> Architektur: Konak in 
-          <placeName key="Topcider" ref="no_ref" xml:id="Bae_TB_10_3428">Topschider</placeName>, der dermalige Cassationshof (jetzt Waisenhaus) 
+          <placeName key="Topcider" ref="https://www.geonames.org/785036/zeleznicka-stanica-topcider.html" xml:id="Bae_TB_10_3428">Topschider</placeName>, der dermalige Cassationshof (jetzt Waisenhaus) 
           <choice xml:id="Bae_TB_10_3429">
             <abbr xml:id="Bae_TB_10_3430">u.</abbr>
             <expan xml:id="Bae_TB_10_3431">und</expan>
@@ -4621,7 +4620,7 @@
             <abbr xml:id="Bae_TB_10_3511">u.</abbr>
             <expan xml:id="Bae_TB_10_3512">und</expan>
           </choice>
-          <persName key="CvijicJovan" ref="no_ref" xml:id="Bae_TB_10_3513">Cjivic</persName>. Lebhafte Klage 
+          <persName key="CvijicJovan" ref="https://d-nb.info/gnd/119378795" xml:id="Bae_TB_10_3513">Cjivic</persName>. Lebhafte Klage 
           <choice xml:id="Bae_TB_10_3514">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3515"/>
             <expan xml:id="Bae_TB_10_3516">überall</expan>
@@ -4678,7 +4677,7 @@
               <expan xml:id="Bae_TB_10_3554">Österreich</expan>
             </choice>
           </placeName> sollte sich die Kraft dieses Volkes zu Nutzen machen. Auch bei 
-          <persName key="PopovicBogdan" ref="no_ref" xml:id="Bae_TB_10_3555">Popovic</persName> der starke Zug nach 
+          <persName key="PopovicBogdan" ref="https://d-nb.info/gnd/118936255" xml:id="Bae_TB_10_3555">Popovic</persName> der starke Zug nach 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_3556">Österreich</placeName>, aber 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_3557">Serbien</placeName> will verstanden 
           <choice xml:id="Bae_TB_10_3558">
@@ -4724,12 +4723,12 @@
           </choice> realistisch. Nüchtern. Wahre Religiosität?? 
         </p>
         <p xml:id="Bae_TB_10_3588">Gräber von 
-          <persName key="ObrenovicMilos" ref="no_ref" xml:id="Bae_TB_10_3589">Milos</persName>
+          <persName key="ObrenovicMilos" ref="https://d-nb.info/gnd/119060744" xml:id="Bae_TB_10_3589">Milos</persName>
           <choice xml:id="Bae_TB_10_3590">
             <abbr xml:id="Bae_TB_10_3591">u.</abbr>
             <expan xml:id="Bae_TB_10_3592">und</expan>
           </choice>
-          <persName key="ObrenovicMihailo" ref="no_ref" xml:id="Bae_TB_10_3593">Michael</persName>
+          <persName key="ObrenovicMihailo" ref="https://d-nb.info/gnd/119385236" xml:id="Bae_TB_10_3593">Michael</persName>
           <choice xml:id="Bae_TB_10_3594">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3595"/>
             <expan xml:id="Bae_TB_10_3596">außerdem von</expan>
@@ -4738,13 +4737,13 @@
         </p>
         <p xml:id="Bae_TB_10_3598">Am alten Friedhof an der Kapelle die Gruft eines 
           <persName key="Obrenovic" ref="no_ref" xml:id="Bae_TB_10_3599">Obrenowicz</persName> (Tante 
-          <persName key="ObrenovicMilan" ref="no_ref" xml:id="Bae_TB_10_3600">Milan's</persName>). In dieser Gruft ist 
-          <persName key="ObrenovicAleksandar" ref="no_ref" xml:id="Bae_TB_10_3601">Alexander</persName>
+          <persName key="ObrenovicMilan" ref="https://d-nb.info/gnd/122295528" xml:id="Bae_TB_10_3600">Milan's</persName>). In dieser Gruft ist 
+          <persName key="ObrenovicAleksandar" ref="https://d-nb.info/gnd/120558106" xml:id="Bae_TB_10_3601">Alexander</persName>
           <choice xml:id="Bae_TB_10_3602">
             <abbr xml:id="Bae_TB_10_3603">u.</abbr>
             <expan xml:id="Bae_TB_10_3604">und</expan>
           </choice>
-          <persName key="DragaMasin" ref="no_ref" xml:id="Bae_TB_10_3605">Draga</persName> beigesetzt. Äusseres 
+          <persName key="DragaMasin" ref="https://d-nb.info/gnd/119460599" xml:id="Bae_TB_10_3605">Draga</persName> beigesetzt. Äusseres 
           <choice xml:id="Bae_TB_10_3606">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3607"/>
             <expan xml:id="Bae_TB_10_3608">Zeichen</expan>
@@ -4787,18 +4786,18 @@
           </choice> Vorhang herablassen kann. 
         </p>
         <p xml:id="Bae_TB_10_3635">Auskunft von 
-          <persName key="WildnerHeinrich" ref="no_ref" xml:id="Bae_TB_10_3636">Waldner Consul</persName>
+          <persName key="WildnerHeinrich" ref="https://d-nb.info/gnd/143416235" xml:id="Bae_TB_10_3636">Waldner Consul</persName>
           <choice xml:id="Bae_TB_10_3637">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3638"/>
             <expan xml:id="Bae_TB_10_3639">über</expan>
           </choice>
-          <persName key="KesslerHarry" ref="no_ref" xml:id="Bae_TB_10_3640">Kessler</persName>. 
-          <persName key="KesslerHarry" ref="no_ref" xml:id="Bae_TB_10_3641">Kessler</persName> mit dem 
+          <persName key="KesslerHarry" ref="https://d-nb.info/gnd/118561685" xml:id="Bae_TB_10_3640">Kessler</persName>. 
+          <persName key="KesslerHarry" ref="https://d-nb.info/gnd/118561685" xml:id="Bae_TB_10_3641">Kessler</persName> mit dem 
           <choice xml:id="Bae_TB_10_3642">
             <abbr xml:id="Bae_TB_10_3643">d.</abbr>
             <expan xml:id="Bae_TB_10_3644">deutschen</expan>
           </choice> Generalkonsul 
-          <persName key="SchliebenHans" ref="no_ref" xml:id="Bae_TB_10_3645">Schlieben</persName> in Verbindung. Seine Vorstösse 
+          <persName key="SchliebenHans" ref="https://d-nb.info/gnd/128368454" xml:id="Bae_TB_10_3645">Schlieben</persName> in Verbindung. Seine Vorstösse 
           <choice xml:id="Bae_TB_10_3646">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3647"/>
             <expan xml:id="Bae_TB_10_3648">aber [...] auf</expan>
@@ -4813,7 +4812,7 @@
             <expan xml:id="Bae_TB_10_3655">wieder</expan>
           </choice> von 
           <persName key="MilovanovicMilovan" ref="https://d-nb.info/gnd/118949470" xml:id="Bae_TB_10_3656">Milovanović</persName> (Hufeisen!). 
-          <persName key="SchliebenHans" ref="no_ref" xml:id="Bae_TB_10_3657">Schlieben</persName> soll 
+          <persName key="SchliebenHans" ref="https://d-nb.info/gnd/128368454" xml:id="Bae_TB_10_3657">Schlieben</persName> soll 
           <choice xml:id="Bae_TB_10_3658">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3659"/>
             <expan xml:id="Bae_TB_10_3660">einen</expan>
@@ -4841,7 +4840,7 @@
           </choice>) erzählt habe. 
         </p>
         <p xml:id="Bae_TB_10_3677">Mit 
-          <persName key="PavlovicDraza" ref="no_ref" xml:id="Bae_TB_10_3678">Pavlović</persName> der ein 
+          <persName key="PavlovicDraza" ref="https://d-nb.info/gnd/1069565032" xml:id="Bae_TB_10_3678">Pavlović</persName> der ein 
           <choice xml:id="Bae_TB_10_3679">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3680"/>
             <expan xml:id="Bae_TB_10_3681">[...]</expan>
@@ -4907,7 +4906,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3726"/>
             <expan xml:id="Bae_TB_10_3727">Mit</expan>
           </choice>
-          <persName key="StojanovicKosta" ref="no_ref" xml:id="Bae_TB_10_3728">Costa Stojanowić</persName> [...] 
+          <persName key="StojanovicKosta" ref="https://d-nb.info/gnd/104130687" xml:id="Bae_TB_10_3728">Costa Stojanowić</persName> [...] 
           <choice xml:id="Bae_TB_10_3729">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3730"/>
             <expan xml:id="Bae_TB_10_3731">zusammen [...]</expan>
@@ -4965,7 +4964,7 @@
             <abbr xml:id="Bae_TB_10_3770">u.</abbr>
             <expan xml:id="Bae_TB_10_3771">und</expan>
           </choice> er denkt dabei an 
-          <placeName key="Albanien" ref="no_ref" xml:id="Bae_TB_10_3772">Nordalbanien</placeName>. Dort will er an die 
+          <placeName key="Albanien" ref="https://www.geonames.org/783754/republic-of-albania.html" xml:id="Bae_TB_10_3772">Nordalbanien</placeName>. Dort will er an die 
           <placeName key="Adria" ref="no_ref" xml:id="Bae_TB_10_3773">Adria</placeName>
           <choice xml:id="Bae_TB_10_3774">
             <abbr xml:id="Bae_TB_10_3775">u.</abbr>
@@ -4997,7 +4996,7 @@
             <abbr xml:id="Bae_TB_10_3795">z.B.</abbr>
             <expan xml:id="Bae_TB_10_3796">zum Beispiel</expan>
           </choice>
-          <persName key="HaymerleFranz" ref="no_ref" xml:id="Bae_TB_10_3797">Haymerle</persName> als das einzig 
+          <persName key="HaymerleFranz" ref="https://d-nb.info/gnd/135685117" xml:id="Bae_TB_10_3797">Haymerle</persName> als das einzig 
           <choice xml:id="Bae_TB_10_3798">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3799"/>
             <expan xml:id="Bae_TB_10_3800">Richtige</expan>
@@ -5125,7 +5124,7 @@
           <persName key="SzellKalman" ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_TB_10_3891">Széll</persName>, 
           <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_10_3892">Czernin</persName> und 
           <persName key="ClamGallasFranz" ref="https://d-nb.info/gnd/1059757648" xml:id="Bae_TB_10_3893">Clam</persName> ein langes Gespräch im 
-          <orgName key="NemzetiKaszino" ref="no_ref" xml:id="Bae_TB_10_3894">Nemzeti Casino</orgName>. 
+          <orgName key="NemzetiKaszino" ref="https://d-nb.info/gnd/7742011-1" xml:id="Bae_TB_10_3894">Nemzeti Casino</orgName>. 
           <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_10_3895">Czernin</persName> ist von 
           <placeName key="Konopischt" ref="https://www.geonames.org/3073286/konopiste.html" xml:id="Bae_TB_10_3896">Konopischt</placeName> gekommen, hatte mit 
           <persName key="BerchtoldLeopold" ref="https://d-nb.info/gnd/123557372" xml:id="Bae_TB_10_3897">Berchtold</persName> lange conferirt 
@@ -5203,7 +5202,7 @@
             <abbr xml:id="Bae_TB_10_3951">u.</abbr>
             <expan xml:id="Bae_TB_10_3952">und</expan>
           </choice> ihnen ein aktives Wohlwollen zu beweisen. Ich warf die Idee in die Discussion zum Ausbau der Bahn von 
-          <placeName key="Merdare" ref="no_ref" xml:id="Bae_TB_10_3953">Mudare</placeName> [?] ans Meer 
+          <placeName key="Merdare" ref="https://www.geonames.org/788029/merdare.html" xml:id="Bae_TB_10_3953">Mudare</placeName> [?] ans Meer 
           <choice xml:id="Bae_TB_10_3954">
             <abbr xml:id="Bae_TB_10_3955">u.</abbr>
             <expan xml:id="Bae_TB_10_3956">und</expan>
@@ -5294,7 +5293,7 @@
             <abbr xml:id="Bae_TB_10_4024">insbes.</abbr>
             <expan xml:id="Bae_TB_10_4025">insbesondere</expan>
           </choice> die Unterstützung ihrer gerechten Aspirationen und dagegen die Neutralisierung der Häfen anstreben und erreichen. Es sei keine Zeit zu verlieren, denn bevor das Europäische Concert in der Sache beginnt müssen 
-          <placeName key="Oesterreich" ref="no_ref" xml:id="Bae_TB_10_4026">
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_4026">
             <choice xml:id="Bae_TB_10_4027">
               <abbr xml:id="Bae_TB_10_4028">Ö.-U.</abbr>
               <expan xml:id="Bae_TB_10_4029">Österreich-Ungarn</expan>
@@ -5339,7 +5338,7 @@
           <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_10_4056">Riedl</persName> zusammen, der nach 
           <placeName key="Semlin" ref="https://www.geonames.org/783920/zemun.html" xml:id="Bae_TB_10_4057">Semlin</placeName> gefaren war um mit unserem 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_4058">Belgrad</placeName>er Consul 
-          <persName key="WildnerHeinrich" ref="no_ref" xml:id="Bae_TB_10_4059">Wildner</persName> zu sprechen. Er gab mir das Memorandum zu lesen das er für 
+          <persName key="WildnerHeinrich" ref="https://d-nb.info/gnd/143416235" xml:id="Bae_TB_10_4059">Wildner</persName> zu sprechen. Er gab mir das Memorandum zu lesen das er für 
           <persName key="BerchtoldLeopold" ref="https://d-nb.info/gnd/123557372" xml:id="Bae_TB_10_4060">Berchthold</persName>
           <choice xml:id="Bae_TB_10_4061">
             <abbr xml:id="Bae_TB_10_4062">u.</abbr>
@@ -5351,13 +5350,13 @@
             <expan xml:id="Bae_TB_10_4067">und</expan>
           </choice> das die ganze handelspolitische Lage am 
           <placeName key="Balkan" ref="https://www.geonames.org/685608/balkan-peninsula.html" xml:id="Bae_TB_10_4068">Balkan</placeName> umfasst(in meinen Akten). Er traf auf der Reise mit 
-          <persName key="UgronStephan" ref="no_ref" xml:id="Bae_TB_10_4069">Ugron</persName> zusammen, den er sehr niedrig einschätzt. In der critischen Zeit des Sommers war der Gesandtenposten in 
+          <persName key="UgronStephan" ref="https://d-nb.info/gnd/1140854569" xml:id="Bae_TB_10_4069">Ugron</persName> zusammen, den er sehr niedrig einschätzt. In der critischen Zeit des Sommers war der Gesandtenposten in 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_4070">Belgrad</placeName> verwaist, 
           <choice xml:id="Bae_TB_10_4071">
             <abbr xml:id="Bae_TB_10_4072">d.h.</abbr>
             <expan xml:id="Bae_TB_10_4073">das heißt</expan>
           </choice>
-          <persName key="UgronStephan" ref="no_ref" xml:id="Bae_TB_10_4074">Ugron</persName> auf Urlaub 
+          <persName key="UgronStephan" ref="https://d-nb.info/gnd/1140854569" xml:id="Bae_TB_10_4074">Ugron</persName> auf Urlaub 
           <choice xml:id="Bae_TB_10_4075">
             <abbr xml:id="Bae_TB_10_4076">u.</abbr>
             <expan xml:id="Bae_TB_10_4077">und</expan>
@@ -5368,7 +5367,7 @@
             <abbr xml:id="Bae_TB_10_4081">o.</abbr>
             <expan xml:id="Bae_TB_10_4082">oder</expan>
           </choice> sonst wo (Weibergeschichten!) abwesend. Grosse Vernachlässigung unserer Interessen. Kein Wunder, dass wir nichts wissen. Ich musste ihm erzählen dass ja 
-          <persName key="ThurnDouglas" ref="no_ref" xml:id="Bae_TB_10_4083">Thurn</persName> auch noch im 
+          <persName key="ThurnDouglas" ref="https://d-nb.info/gnd/1282195018" xml:id="Bae_TB_10_4083">Thurn</persName> auch noch im 
           <choice xml:id="Bae_TB_10_4084">
             <abbr xml:id="Bae_TB_10_4085">Octbr.</abbr>
             <expan xml:id="Bae_TB_10_4086">Oktober</expan>
@@ -5383,7 +5382,7 @@
           <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195" xml:id="Bae_TB_10_4093">Szögyeny</persName> erst kurz voher aus 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_10_4094">Ungarn</placeName> nach 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_10_4095">Berlin</placeName> zurückgekehrt war. Ditto 
-          <persName key="SzecsenMiklos" ref="no_ref" xml:id="Bae_TB_10_4096">Szescen</persName> nach 
+          <persName key="SzecsenMiklos" ref="https://d-nb.info/gnd/1048078299" xml:id="Bae_TB_10_4096">Szescen</persName> nach 
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_10_4097">Paris</placeName>. Das von 
           <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_10_4098">Riedl</persName> verfasste Memorandum ist voll wichtiger Tatsachen, gut zusammengestellt, geistreich aber nirgendmal phantastisch. Ich weis nicht wie es auf Leser wirken wird, die nicht im Stande sind, sofort sich die nötigen Einschränkungen zu machen. 
         </p>
@@ -5449,7 +5448,7 @@
             <abbr xml:id="Bae_TB_10_4144">S.</abbr>
             <expan xml:id="Bae_TB_10_4145">Serbien</expan>
           </choice>, tiefer unten bei 
-          <placeName key="Ohrid" ref="no_ref" xml:id="Bae_TB_10_4146">Ochrida</placeName> mit den Bulgaren. 
+          <placeName key="Ohrid" ref="https://www.geonames.org/863883/ohrid.html" xml:id="Bae_TB_10_4146">Ochrida</placeName> mit den Bulgaren. 
         </p>
         <p xml:id="Bae_TB_10_4147">Weiter erörtert er die Möglichkeit einer Zollunion mit 
           <choice xml:id="Bae_TB_10_4148">
@@ -5478,7 +5477,7 @@
           <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html" xml:id="Bae_TB_10_4165">Bulgarien</placeName> wird richtig als Wächter des Bosporus aufgefasst, Ausschluss 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_10_4166">Russlands</placeName> von 
           <placeName key="Konstantinopel" ref="https://www.geonames.org/745044/istanbul.html" xml:id="Bae_TB_10_4167">Constantinopel</placeName> sehr wichtig. Strasse nach 
-          <placeName key="Anatolien" ref="no_ref" xml:id="Bae_TB_10_4168">Kleinasien</placeName>
+          <placeName key="Anatolien" ref="https://www.geonames.org/323835/anatolia.html" xml:id="Bae_TB_10_4168">Kleinasien</placeName>
           <choice xml:id="Bae_TB_10_4169">
             <abbr xml:id="Bae_TB_10_4170">u.</abbr>
             <expan xml:id="Bae_TB_10_4171">und</expan>
@@ -5488,7 +5487,7 @@
           <placeName key="Albanien" ref="https://www.geonames.org/783754/republic-of-albania.html" xml:id="Bae_TB_10_4174">Albanien</placeName>, wo 
           <persName key="RiedlViktor" ref="no_ref" xml:id="Bae_TB_10_4175">Riedl's</persName> unbegründete Vorliebe für 
           <placeName key="Albanien" ref="https://www.geonames.org/783754/republic-of-albania.html" xml:id="Bae_TB_10_4176">Albanien</placeName> hervortritt, der ihnen das Becken von 
-          <placeName key="Ohrid" ref="no_ref" xml:id="Bae_TB_10_4177">Ochrida</placeName> geben möchte, was die Bulgaren offenbar nicht zulassen werden. Sehr richtige Ausfürungen ( 
+          <placeName key="Ohrid" ref="https://www.geonames.org/863883/ohrid.html" xml:id="Bae_TB_10_4177">Ochrida</placeName> geben möchte, was die Bulgaren offenbar nicht zulassen werden. Sehr richtige Ausfürungen ( 
           <choice xml:id="Bae_TB_10_4178">
             <abbr xml:id="Bae_TB_10_4179">d.h.</abbr>
             <expan xml:id="Bae_TB_10_4180">das heißt</expan>
@@ -5688,7 +5687,7 @@
             <abbr xml:id="Bae_TB_10_4325">Ö.</abbr>
             <expan xml:id="Bae_TB_10_4326">Österreich</expan>
           </choice> den Weg nach 
-          <placeName key="Anatolien" ref="no_ref" xml:id="Bae_TB_10_4327">Kleinasien</placeName>
+          <placeName key="Anatolien" ref="https://www.geonames.org/323835/anatolia.html" xml:id="Bae_TB_10_4327">Kleinasien</placeName>
           <choice xml:id="Bae_TB_10_4328">
             <abbr xml:id="Bae_TB_10_4329">u.</abbr>
             <expan xml:id="Bae_TB_10_4330">und</expan>
@@ -5911,8 +5910,8 @@
             <abbr xml:id="Bae_TB_10_4493">wg.</abbr>
             <expan xml:id="Bae_TB_10_4494">wegen</expan>
           </choice> der Consuln in 
-          <placeName key="Mitrovica" ref="no_ref" xml:id="Bae_TB_10_4495">Mitrowitza</placeName> und 
-          <placeName key="Prizren" ref="no_ref" xml:id="Bae_TB_10_4496">Priskent</placeName> [?] – es häufen sich die Verstimmungen. 
+          <placeName key="Mitrovica" ref="https://www.geonames.org/10097358/mitrovica-district.html" xml:id="Bae_TB_10_4495">Mitrowitza</placeName> und 
+          <placeName key="Prizren" ref="https://www.geonames.org/10097361/prizren-district.html" xml:id="Bae_TB_10_4496">Priskent</placeName> [?] – es häufen sich die Verstimmungen. 
           <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_10_4497">Wolf</persName> hat vom deutschen Standpunkt gestern sehr gut gesprochen, dass ihm aber 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_10_4498">der Kaiser</persName> nach dem Hofdiner gesagt hat, er habe eine sehr patriotische Rede gehalten, wird viel böses Blut machen. Die Stimmung in der 
           <orgName key="Delegationen" ref="https://d-nb.info/gnd/35883-6" xml:id="Bae_TB_10_4499">Delegation</orgName> ist gegen 
@@ -6046,7 +6045,7 @@
         <p xml:id="Bae_TB_10_4598">Nach der Antwort die mir 
           <persName key="MacchioKarl" ref="https://d-nb.info/gnd/1050485556" xml:id="Bae_TB_10_4599">Macchio</persName> gestern in der 
           <orgName key="Delegationen" ref="https://d-nb.info/gnd/35883-6" xml:id="Bae_TB_10_4600">Delegation</orgName> über meine Bemerkung das Konsulat in 
-          <placeName key="Prizren" ref="no_ref" xml:id="Bae_TB_10_4601">Priskent</placeName> [?] betreffend gegeben hat, ist Alles wieder beruhigt. Die Panik von 
+          <placeName key="Prizren" ref="https://www.geonames.org/10097361/prizren-district.html" xml:id="Bae_TB_10_4601">Priskent</placeName> [?] betreffend gegeben hat, ist Alles wieder beruhigt. Die Panik von 
           <hi rendition="#ul" xml:id="Bae_TB_10_4602">vorgestern</hi> war aber ebenso wenig begründet wie die Beruhigung von 
           <hi rendition="#ul" xml:id="Bae_TB_10_4603">gestern</hi>. 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_4604">Serbien</placeName> ignorirt völlig den völkerrechtlichen Standpunkt. Unsere Consuln sind, wie die Consuln aller Mächte in der 
@@ -6097,7 +6096,7 @@
           <orgName key="Bohemia" ref="https://d-nb.info/014500817" xml:id="Bae_TB_10_4639">"Bohemia"</orgName> die Initiative ergriffen ( 
           <orgName key="Bohemia" ref="https://d-nb.info/014500817" xml:id="Bae_TB_10_4640">Bohemia</orgName> vom 
           <date when="1912-11-17" xml:id="Bae_TB_10_4641">17.11.1912</date>) und 
-          <persName key="DobernigJosef" ref="no_ref" xml:id="Bae_TB_10_4642">Dobernig</persName> hat mir zugesagt, in meinem Sinne vorzugehen. 
+          <persName key="DobernigJosef" ref="https://d-nb.info/gnd/116151072" xml:id="Bae_TB_10_4642">Dobernig</persName> hat mir zugesagt, in meinem Sinne vorzugehen. 
         </p>
         <anchor xml:id="Bae_TB_10_4643"/>
         <app from="#_130" type="insertion" xml:id="Bae_TB_10_4644">
@@ -6177,7 +6176,7 @@
             <abbr xml:id="Bae_TB_10_4700">u.</abbr>
             <expan xml:id="Bae_TB_10_4701">und</expan>
           </choice> Alles was ähnlich klingt, ist momentan vervehmt. Aus den Reden der Ungarn klingt die Intransigenz gegen das Südslawische stark hervor. Sass neben dem ehemaligen Staatssecretär 
-          <persName key="MolnarViktor" ref="no_ref" xml:id="Bae_TB_10_4702">Molnar</persName>, der verächtlich von den Serben sprach, ihre Siege nur der elenden Kriegsfürung der Türken zuschrieb, gar nichts gelten lies 
+          <persName key="MolnarViktor" ref="https://d-nb.info/gnd/102334291X" xml:id="Bae_TB_10_4702">Molnar</persName>, der verächtlich von den Serben sprach, ihre Siege nur der elenden Kriegsfürung der Türken zuschrieb, gar nichts gelten lies 
           <choice xml:id="Bae_TB_10_4703">
             <abbr xml:id="Bae_TB_10_4704">u.</abbr>
             <expan xml:id="Bae_TB_10_4705">und</expan>
@@ -6219,7 +6218,7 @@
             <abbr xml:id="Bae_TB_10_4734">u.</abbr>
             <expan xml:id="Bae_TB_10_4735">und</expan>
           </choice> er lies nicht auf sie warten. Er war einmal Obergespan im 
-          <placeName key="Torontal" ref="no_ref" xml:id="Bae_TB_10_4737">Torontaler Comitat</placeName>
+          <placeName key="Torontal" ref="https://www.geonames.org/7581905/north-banat.html" xml:id="Bae_TB_10_4737">Torontaler Comitat</placeName>
           <choice xml:id="Bae_TB_10_4738">
             <abbr xml:id="Bae_TB_10_4739">u.</abbr>
             <expan xml:id="Bae_TB_10_4740">und</expan>
@@ -6479,7 +6478,7 @@
           </choice> Enden. 
         </p>
         <p xml:id="Bae_TB_10_4937">Neulich war ein von 
-          <persName key="GinzkeyWilhelm" ref="no_ref" xml:id="Bae_TB_10_4938">Ginzkey</persName> mir empfohlener Bulgare, der Sobranjedeputirte und 
+          <persName key="GinzkeyWilhelm" ref="https://d-nb.info/gnd/13648624X" xml:id="Bae_TB_10_4938">Ginzkey</persName> mir empfohlener Bulgare, der Sobranjedeputirte und 
           <orgName key="HandelskammerSofia" ref="no_ref" xml:id="Bae_TB_10_4939">
             <choice xml:id="Bae_TB_10_4940">
               <abbr xml:id="Bae_TB_10_4941">H.</abbr>
@@ -6543,14 +6542,14 @@
             <abbr xml:id="Bae_TB_10_4984">Gf.</abbr>
             <expan xml:id="Bae_TB_10_4985">Graf</expan>
           </choice>
-          <persName key="HoyosAlexander" ref="no_ref" xml:id="Bae_TB_10_4986">Hoyos</persName> vom 
+          <persName key="HoyosAlexander" ref="https://d-nb.info/gnd/132198703" xml:id="Bae_TB_10_4986">Hoyos</persName> vom 
           <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_10_4987">
             <choice xml:id="Bae_TB_10_4988">
               <abbr xml:id="Bae_TB_10_4989">M.</abbr>
               <expan xml:id="Bae_TB_10_4990">Ministerium</expan>
             </choice> des Äussern 
           </orgName>, 
-          <persName key="ChlumeckyLeopold" ref="no_ref" xml:id="Bae_TB_10_4991">Chlumecky junior</persName> und 
+          <persName key="ChlumeckyLeopold" ref="https://d-nb.info/gnd/138066736" xml:id="Bae_TB_10_4991">Chlumecky junior</persName> und 
           <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_10_4992">Schulz</persName>). Die 
           <persName key="FranckensteinLeopoldine" ref="no_ref" xml:id="Bae_TB_10_4993">Frankenstein</persName> begann sofort das hohe Kriegslied, Stahlbad 
           <choice xml:id="Bae_TB_10_4994">
@@ -6626,7 +6625,7 @@
           </choice> mit dieser Idee zu versöhnen. Das ist eine Aufgabe, die die Kraft 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_5050">Österreichs</placeName> übersteigt. Der südslawische dritte Teil der Monarchie würde nur einem Abfall entgegenreifen. Meine Gegenidee ist: Nachdem man es versäumt hat durch eine Politik, die an die 
           <persName key="AndrassyGyula1823" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_10_5051">Andrássy</persName>'sche (siehe 
-          <persName key="WertheimerEduard" ref="no_ref" xml:id="Bae_TB_10_5052">Wertheimer</persName>) angeknüpft 
+          <persName key="WertheimerEduard" ref="https://d-nb.info/gnd/121058697" xml:id="Bae_TB_10_5052">Wertheimer</persName>) angeknüpft 
           <choice xml:id="Bae_TB_10_5053">
             <abbr xml:id="Bae_TB_10_5054">u.</abbr>
             <expan xml:id="Bae_TB_10_5055">und</expan>
@@ -6698,7 +6697,7 @@
             </choice>
           </persName>. Er behauptet mit 
           <placeName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_10_5106">Italien</placeName> keinen 
-          <placeName key="BadGastein" ref="no_ref" xml:id="Bae_TB_10_5107">Gastein</placeName> ähnlichen Vertrag geschlossen zu haben, sondern nur eine Verabredung getroffen negativer Natur, dass weder 
+          <placeName key="BadGastein" ref="https://www.geonames.org/2782058/bad-gastein.html" xml:id="Bae_TB_10_5107">Gastein</placeName> ähnlichen Vertrag geschlossen zu haben, sondern nur eine Verabredung getroffen negativer Natur, dass weder 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_5108">
             <choice xml:id="Bae_TB_10_5109">
               <abbr xml:id="Bae_TB_10_5110">Öst.</abbr>
@@ -6717,15 +6716,15 @@
             <abbr xml:id="Bae_TB_10_5120">u.</abbr>
             <expan xml:id="Bae_TB_10_5121">und</expan>
           </choice>
-          <placeName key="Vlora" ref="no_ref" xml:id="Bae_TB_10_5122">Valona</placeName> selbstverständlich. 
+          <placeName key="Vlora" ref="https://www.geonames.org/3183720/bashkia-e-vlores.html" xml:id="Bae_TB_10_5122">Valona</placeName> selbstverständlich. 
           <pb facs="#F_K5_Bae_TB_10_151" n="74v" xml:id="Bae_TB_10_5123"/>
           <note type="editorial" xml:id="Bae_TB_10_5124">Diese Seite ist leer.</note>
           <pb facs="#F_K5_Bae_TB_10_152" n="75r" xml:id="Bae_TB_10_5125"/>Abgrenzung gegen 
           <placeName key="Albanien" ref="https://www.geonames.org/783754/republic-of-albania.html" xml:id="Bae_TB_10_5126">Albanien</placeName>
           <add place="across" xml:id="Bae_TB_10_5127">wird</add> auch die grössten Schwierigkeiten im Süden machen. Griechen beanspruchen eine Linie, die 
           <hi rendition="#ul" xml:id="Bae_TB_10_5128">oberhalb</hi>
-          <placeName key="Vlora" ref="no_ref" xml:id="Bae_TB_10_5129">Valona</placeName> vom Meer ins Innere geht. 
-          <placeName key="Vlora" ref="no_ref" xml:id="Bae_TB_10_5130">Valona</placeName> also griechisch. 
+          <placeName key="Vlora" ref="https://www.geonames.org/3183720/bashkia-e-vlores.html" xml:id="Bae_TB_10_5129">Valona</placeName> vom Meer ins Innere geht. 
+          <placeName key="Vlora" ref="https://www.geonames.org/3183720/bashkia-e-vlores.html" xml:id="Bae_TB_10_5130">Valona</placeName> also griechisch. 
         </p>
         <p xml:id="Bae_TB_10_5131">Heute war Correspondent der 
           <placeName key="Hamburg" ref="https://www.geonames.org/7602585/hamburg-freie-und-hansestadt.html" xml:id="Bae_TB_10_5132">
@@ -6751,7 +6750,7 @@
               <expan xml:id="Bae_TB_10_5147">Deutschland</expan>
             </choice>
           </placeName> der Meinung ist dass 
-          <placeName key="Oesterreich" ref="no_ref" xml:id="Bae_TB_10_5148">
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_5148">
             <choice xml:id="Bae_TB_10_5149">
               <abbr xml:id="Bae_TB_10_5150">Ö-U.</abbr>
               <expan xml:id="Bae_TB_10_5151">Österreich-Ungarn</expan>
@@ -6776,7 +6775,7 @@
             <abbr xml:id="Bae_TB_10_5164">zw.</abbr>
             <expan xml:id="Bae_TB_10_5165">zwischen</expan>
           </choice>
-          <placeName key="Oesterreich" ref="no_ref" xml:id="Bae_TB_10_5166">
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_5166">
             <choice xml:id="Bae_TB_10_5167">
               <abbr xml:id="Bae_TB_10_5168">Ö.U.</abbr>
               <expan xml:id="Bae_TB_10_5169">Österreich-Ungarn</expan>
@@ -6853,7 +6852,7 @@
             <abbr xml:id="Bae_TB_10_5221">u.</abbr>
             <expan xml:id="Bae_TB_10_5222">und</expan>
           </choice> haben sich teilweise sehr unvorsichtig geäussert. 
-          <persName key="DobernigJosef" ref="no_ref" xml:id="Bae_TB_10_5223">Dobernig</persName>, der einsieht eine fehlerhafte Notiz bei jenem Diner angeschlagen zu haben lenkt ein. Hat meinen Brief durch nachstehenden Artikel in der 
+          <persName key="DobernigJosef" ref="https://d-nb.info/gnd/116151072" xml:id="Bae_TB_10_5223">Dobernig</persName>, der einsieht eine fehlerhafte Notiz bei jenem Diner angeschlagen zu haben lenkt ein. Hat meinen Brief durch nachstehenden Artikel in der 
           <orgName key="GrazerTagespost" ref="no_ref" xml:id="Bae_TB_10_5224">Grazer Tagespost</orgName> beantwortet 
           <choice xml:id="Bae_TB_10_5225">
             <abbr xml:id="Bae_TB_10_5226">u.</abbr>
@@ -6879,7 +6878,7 @@
             <abbr xml:id="Bae_TB_10_5241">Abg.</abbr>
             <expan xml:id="Bae_TB_10_5242">Abgeordneten</expan>
           </choice>
-          <persName key="DobernigJosef" ref="no_ref" xml:id="Bae_TB_10_5243">
+          <persName key="DobernigJosef" ref="https://d-nb.info/gnd/116151072" xml:id="Bae_TB_10_5243">
             <choice xml:id="Bae_TB_10_6723">
               <abbr xml:id="Bae_TB_10_6724">J.W.</abbr>
               <expan xml:id="Bae_TB_10_6725">Joseph Wolfgang</expan>
@@ -7088,11 +7087,11 @@
             <expan xml:id="Bae_TB_10_5409">Österreicher</expan>
           </choice> werden in dem neutralen Hafen an der Adria ein eigenes Settlement haben. Der Frage von 
           <placeName key="Makedonien" ref="https://www.geonames.org/734075/nomos-thessalonikis.html" xml:id="Bae_TB_10_5410">Salonik</placeName> wich er aus. Er erzält mir dass 
-          <persName key="DanevStojan" ref="no_ref" xml:id="Bae_TB_10_5411">Daneff</persName>
+          <persName key="DanevStojan" ref="https://d-nb.info/gnd/119188082" xml:id="Bae_TB_10_5411">Daneff</persName>
           <placeName key="Makedonien" ref="https://www.geonames.org/734075/nomos-thessalonikis.html" xml:id="Bae_TB_10_5412">Salonik</placeName> sehr energisch für 
           <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html" xml:id="Bae_TB_10_5413">Bulgarien</placeName> in Anspruch genommen habe: 
           <hi rendition="#ul" xml:id="Bae_TB_10_5414">ce que nous voulons nous l'obtiendrons</hi>. Ueberhaupt muss das selbstbewusste aber zugleich kluge Auftreten 
-          <persName key="DanevStojan" ref="no_ref" xml:id="Bae_TB_10_5415">Daneff's</persName> hier sehr imponirt haben. 
+          <persName key="DanevStojan" ref="https://d-nb.info/gnd/119188082" xml:id="Bae_TB_10_5415">Daneff's</persName> hier sehr imponirt haben. 
         </p>
         <p xml:id="Bae_TB_10_5416">Bezüglich der Bahnanschlüsse steht 
           <persName key="BerchtoldLeopold" ref="https://d-nb.info/gnd/123557372" xml:id="Bae_TB_10_5417">
@@ -7125,7 +7124,7 @@
         <note type="editorial" xml:id="Bae_TB_10_5437">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_170" n="85r" xml:id="Bae_TB_10_5438"/>
         <p xml:id="Bae_TB_10_5439">Ich meinte, dass 
-          <persName key="DanevStojan" ref="no_ref" xml:id="Bae_TB_10_5440">Daneff's</persName> zweimaliger Besuch in 
+          <persName key="DanevStojan" ref="https://d-nb.info/gnd/119188082" xml:id="Bae_TB_10_5440">Daneff's</persName> zweimaliger Besuch in 
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_10_5441">Budapest</placeName> und 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_5442">Wien</placeName> dem Prestige 
           <choice xml:id="Bae_TB_10_5443">
@@ -7186,7 +7185,7 @@
           <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html" xml:id="Bae_TB_10_5483">Bulgarien</placeName> werde nicht auf 
           <placeName key="Adrianopel" ref="https://www.geonames.org/747712/edirne.html" xml:id="Bae_TB_10_5484">Adrianopel</placeName> bestehen, da es vorziehe mit der 
           <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_10_5485">Türkei</placeName> gewisse Abmachungen für die Zukunft zu treffen, ferner dass die Montenegriner sich blamirt haben, aber trotzdem 
-          <placeName key="Shkodra" ref="no_ref" xml:id="Bae_TB_10_5486">Skutari</placeName> wollen, dass die Griechen sehr anspruchsvoll seien, aber die Inseln, die vor den 
+          <placeName key="Shkodra" ref="https://www.geonames.org/3184082/bashkia-e-shkodres.html" xml:id="Bae_TB_10_5486">Skutari</placeName> wollen, dass die Griechen sehr anspruchsvoll seien, aber die Inseln, die vor den 
           <placeName key="Dardanellen" ref="https://www.geonames.org/749779/dardanelles.html" xml:id="Bae_TB_10_5487">Dardanellen</placeName> liegen ( 
           <placeName key="Imbros" ref="https://www.geonames.org/746835/imbros-island.html" xml:id="Bae_TB_10_5488">Imbros</placeName>, 
           <placeName key="Lemnos" ref="https://www.geonames.org/8133757/dimos-lemnos.html" xml:id="Bae_TB_10_5489">Lemnos</placeName>, 
@@ -7337,7 +7336,7 @@
           </placeName> sein könne. Ich benützte die Gelegenheit um ihm doch den Standpunkt etwas klarzumachen. Warum hat 
           <persName key="NovakovicStojan" ref="https://d-nb.info/gnd/117068284" xml:id="Bae_TB_10_5603">Novakovic</persName> jüngst in 
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_10_5604">Paris</placeName> so töricht von dem Reiche 
-          <persName key="StefanDusan" ref="no_ref" xml:id="Bae_TB_10_5605">Duschan's</persName> an der Adria gesprochen? hat das einen Sinn solche Reminiscenzen aufzubauen? 
+          <persName key="StefanDusan" ref="https://d-nb.info/gnd/119477505" xml:id="Bae_TB_10_5605">Duschan's</persName> an der Adria gesprochen? hat das einen Sinn solche Reminiscenzen aufzubauen? 
           <persName key="CvijicJovan" ref="https://d-nb.info/gnd/119378795" xml:id="Bae_TB_10_5606">Cvijić</persName> verteidigte 
           <choice xml:id="Bae_TB_10_5607">
             <abbr xml:id="Bae_TB_10_5608">N.</abbr>
@@ -7376,7 +7375,7 @@
             </choice>
           </placeName> nicht, wie es 
           <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html" xml:id="Bae_TB_10_5633">Bulgarien</placeName> durch 
-          <persName key="DanevStojan" ref="no_ref" xml:id="Bae_TB_10_5634">Daneff</persName> getan habe jemanden nach 
+          <persName key="DanevStojan" ref="https://d-nb.info/gnd/119188082" xml:id="Bae_TB_10_5634">Daneff</persName> getan habe jemanden nach 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_5635">Wien</placeName> schicken könnte, um seine Bereitwilligkeit zu zeigen zu einem guten Einvernehmen zu kommen. Das leuchtete ihm sehr ein, er machte sich eifrig Notitzen. Doch schien er in Verlegenheit 
           <hi rendition="#ul" xml:id="Bae_TB_10_5636">wer</hi> in 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_5637">
@@ -7846,7 +7845,7 @@
             <expan xml:id="Bae_TB_10_5989">und</expan>
           </choice> dass diese Reise gerade jetzt für 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_5990">Österreich</placeName> ein sehr in die Augen fallender Erfolg wäre. Neben der Wallfahrt 
-          <persName key="DanevStojan" ref="no_ref" xml:id="Bae_TB_10_5991">Daneffs</persName> die Wallfahrt 
+          <persName key="DanevStojan" ref="https://d-nb.info/gnd/119188082" xml:id="Bae_TB_10_5991">Daneffs</persName> die Wallfahrt 
           <persName key="PasicNikola" ref="https://d-nb.info/gnd/118789783" xml:id="Bae_TB_10_5992">Pasichs</persName> nach 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_5993">Wien</placeName> wäre dasjenige was unsere Stellung heben, uns entlasten und in der öffentlichen Meinung einen Umschwung 
           <choice xml:id="Bae_TB_10_5994">
@@ -7854,7 +7853,7 @@
             <expan xml:id="Bae_TB_10_5996">und</expan>
           </choice> Selbstvertrauen hervorrufen würde. 
           <persName key="BerchtoldLeopold" ref="https://d-nb.info/gnd/123557372" xml:id="Bae_TB_10_5997">Berchtold</persName> gab zu dass der Besuch 
-          <persName key="DanevStojan" ref="no_ref" xml:id="Bae_TB_10_5998">Daneff</persName> ein Erfolg war 
+          <persName key="DanevStojan" ref="https://d-nb.info/gnd/119188082" xml:id="Bae_TB_10_5998">Daneff</persName> ein Erfolg war 
           <choice xml:id="Bae_TB_10_5999">
             <abbr xml:id="Bae_TB_10_6000">u.</abbr>
             <expan xml:id="Bae_TB_10_6001">und</expan>
@@ -8059,7 +8058,7 @@
           </choice> den Mut trotz seiner Redensarten decidirt für den Frieden einzutreten. 
         </p>
         <p xml:id="Bae_TB_10_6156">Bestärkt wurde ich in dieser Meinung durch ein Gespräch mit 
-          <persName key="KanyaKalman" ref="no_ref" xml:id="Bae_TB_10_6157">Kania</persName>, dem Leiter des 
+          <persName key="KanyaKalman" ref="https://d-nb.info/gnd/124427286" xml:id="Bae_TB_10_6157">Kania</persName>, dem Leiter des 
           <orgName key="Pressbuero" ref="no_ref" xml:id="Bae_TB_10_6158">Pressbüro's</orgName>. Ich hielt ihm vor, dass 
           <choice xml:id="Bae_TB_10_6159">
             <abbr xml:id="Bae_TB_10_6160">B.</abbr>
@@ -8084,7 +8083,7 @@
             <expan xml:id="Bae_TB_10_6174">Berchtold</expan>
           </choice>. Das letzte glaubt die Öffentlichkeit nicht. In der 
           <orgName key="Creditanstalt" ref="https://d-nb.info/gnd/2007179-6" xml:id="Bae_TB_10_6175">Creditanstalt</orgName> wurde mir gestern erzählt, 
-          <persName key="KanyaKalman" ref="no_ref" xml:id="Bae_TB_10_6176">Kania</persName> habe sich, als ihm wieder einmal seine Haltung vorgehalten wurde gesagt: "es kann kommen dass wieder einmal ein anderer Hammel die Herde fürt." Si non e vero – zeigt es, wie man ihn [...]. Soviel ist gewiss 
+          <persName key="KanyaKalman" ref="https://d-nb.info/gnd/124427286" xml:id="Bae_TB_10_6176">Kania</persName> habe sich, als ihm wieder einmal seine Haltung vorgehalten wurde gesagt: "es kann kommen dass wieder einmal ein anderer Hammel die Herde fürt." Si non e vero – zeigt es, wie man ihn [...]. Soviel ist gewiss 
           <choice xml:id="Bae_TB_10_6177">
             <abbr xml:id="Bae_TB_10_6178">B.</abbr>
             <expan xml:id="Bae_TB_10_6179">Berchtold</expan>
@@ -8161,7 +8160,7 @@
           </persName> anfangs dagegen war, aber dann zustimmte. 
         </p>
         <p xml:id="Bae_TB_10_6229">Viel bestimmter sagte vorgestern beim Hofdiner Hofrat 
-          <persName key="KuhPaul" ref="no_ref" xml:id="Bae_TB_10_6230">Kuh</persName> dasselbe. Schon im 
+          <persName key="KuhPaul" ref="https://d-nb.info/gnd/136602282" xml:id="Bae_TB_10_6230">Kuh</persName> dasselbe. Schon im 
           <date when="1908-04" xml:id="Bae_TB_10_6231">April 1908</date> verteidigte 
           <choice xml:id="Bae_TB_10_6232">
             <abbr xml:id="Bae_TB_10_6233">B.</abbr>
@@ -8446,7 +8445,7 @@
             <abbr xml:id="Bae_TB_10_6436">Septbr.</abbr>
             <expan xml:id="Bae_TB_10_6437">September</expan>
           </choice> in 
-          <placeName key="Franzensbad" ref="no_ref" xml:id="Bae_TB_10_6438">Franzensbad</placeName> traf) der einmal 
+          <placeName key="Franzensbad" ref="https://www.geonames.org/11922011/frantiskovy-lazne.html" xml:id="Bae_TB_10_6438">Franzensbad</placeName> traf) der einmal 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_6439">
             <choice xml:id="Bae_TB_10_6440">
               <abbr xml:id="Bae_TB_10_6441">Athal</abbr>
@@ -8484,7 +8483,7 @@
             <abbr xml:id="Bae_TB_10_6463">u.</abbr>
             <expan xml:id="Bae_TB_10_6464">und</expan>
           </choice>
-          <persName key="HeinoldKarl" ref="no_ref" xml:id="Bae_TB_10_6465">Heinold</persName>. Eindruck von mir 
+          <persName key="HeinoldKarl" ref="https://d-nb.info/gnd/136193587" xml:id="Bae_TB_10_6465">Heinold</persName>. Eindruck von mir 
           <choice xml:id="Bae_TB_10_6466">
             <abbr xml:id="Bae_TB_10_6467">u.</abbr>
             <expan xml:id="Bae_TB_10_6468">und</expan>
@@ -8496,7 +8495,7 @@
           </choice> sie vielmehr hofft, dass die finanziellen Verhältnisse des Landes 
           <hi rendition="#ul" xml:id="Bae_TB_10_6474">ohne</hi> Ausgleich zu einem arbeitsfähigen 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_10_6475">Landtag</orgName> füren wird. Ich hatte neulich mit 
-          <persName key="HeinoldKarl" ref="no_ref" xml:id="Bae_TB_10_6476">Heinold</persName> ein längeres Gespräch, aus dem dasselbe hervorgeht. Wir sprachen von der Zweisprachigkeit von 
+          <persName key="HeinoldKarl" ref="https://d-nb.info/gnd/136193587" xml:id="Bae_TB_10_6476">Heinold</persName> ein längeres Gespräch, aus dem dasselbe hervorgeht. Wir sprachen von der Zweisprachigkeit von 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_10_6477">Prag</placeName>, von der Notwendigkeit die 
           <choice xml:id="Bae_TB_10_6478">
             <abbr xml:id="Bae_TB_10_6479">d.</abbr>
@@ -8516,7 +8515,7 @@
             <expan xml:id="Bae_TB_10_6490">oder</expan>
           </choice>
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_10_6491">Prag</placeName> gelten sollen, hervorgerufen würden. 
-          <persName key="HeinoldKarl" ref="no_ref" xml:id="Bae_TB_10_6492">Heinold</persName> meinte ganz ruhig: "von diesem Standpunkt (des Präjudizes) wäre es 
+          <persName key="HeinoldKarl" ref="https://d-nb.info/gnd/136193587" xml:id="Bae_TB_10_6492">Heinold</persName> meinte ganz ruhig: "von diesem Standpunkt (des Präjudizes) wäre es 
           <del rendition="#s" xml:id="Bae_TB_10_6493">vielleicht</del> besser wenn in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_10_6494">Prag</placeName>
           <del rendition="#s" xml:id="Bae_TB_10_6495">gar</del> nichts zu Stande käme". Eine Regierung, die so skeptisch ist, die sich so scheut in dieser wichtigen Frage Farbe zu bekennen, will eben die Sache nicht um jeden Preis. Sie würde den Ausgleich acceptiren 
@@ -8567,9 +8566,9 @@
           <orgName key="SerbischesRotesKreuz" ref="no_ref" xml:id="Bae_TB_10_6534">rote Kreuz</orgName> gemacht. In 
           <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html" xml:id="Bae_TB_10_6535">Sarajevo</placeName> sind schon 80.000 Kronen, in zwei anderen Städten je 40.000 Kronen gesammelt worden. Wäsche und Kleider werden geschickt. Im hiesigen Spital wurde ein Kurs für Verwundetenpflege abgehalten, denen serbische Damen anwohnten, die jetzt auf den Kriegsschauplatz gehen. Merkwürdig ist, wie die 
           <pb facs="#F_K5_Bae_TB_10_200" n="100r" xml:id="Bae_TB_10_6537"/>alten Legenden, die im Volke seit den Tagen des großen 
-          <persName key="StefanDusan" ref="no_ref" xml:id="Bae_TB_10_6538">Zar Duschan</persName> und der Schlacht am 
+          <persName key="StefanDusan" ref="https://d-nb.info/gnd/119477505" xml:id="Bae_TB_10_6538">Zar Duschan</persName> und der Schlacht am 
           <placeName key="Amselfeld" ref="https://www.geonames.org/789229/kosovo-polje.html" xml:id="Bae_TB_10_6539">Amselfelde</placeName> erzählt und im Liede fortgepflanzt wurden, aufleben und die Phantasie des Volkes erfüllen. Bei einem Spaziergang hat man mich aufmerksam gemacht auf ein kleines Mädchen, das so ein altes Lied von der serbischen Wiederbefreiung auf der Straße gesungen hat. Den Höhepunkt der Stimmung bildete die Nachricht von der Einnahme der alten serbischen Königsstadt 
-          <placeName key="Ueskuep" ref="no_ref" xml:id="Bae_TB_10_6540">Uesküb</placeName> und von dem Einzuge des serbischen Thronfolgers in dieselbe. Die alten Heldenzeiten leben wieder auf und erzeugen ungemessene Hoffnungen für die Zukunft. In der 
+          <placeName key="Ueskuep" ref="https://www.geonames.org/785842/skopje.html" xml:id="Bae_TB_10_6540">Uesküb</placeName> und von dem Einzuge des serbischen Thronfolgers in dieselbe. Die alten Heldenzeiten leben wieder auf und erzeugen ungemessene Hoffnungen für die Zukunft. In der 
           <placeName key="Herzegowina" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_10_6541">Herzegowina</placeName> scheinen die Meinungen geteilt zu sein. Ein alter katholischer Bauer erklärte einem Freund von mir: "Wir halten nur auf das, was unser alter Vater (stary otac, 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_10_6542">der Kaiser</persName>) sagt". Die Orthodoxen sind aber für 
           <placeName key="Montenegro" ref="https://www.geonames.org/3194884/montenegro.html" xml:id="Bae_TB_10_6543">Montenegro</placeName>. Am 
@@ -8595,14 +8594,14 @@
           <placeName key="Montenegro" ref="https://www.geonames.org/3194884/montenegro.html" xml:id="Bae_TB_10_6561">Montenegro</placeName>. Von sehr ernster Seite wurde mir bestätigt, daß an allen diesen Dingen viel mehr 
           <del rendition="#s" xml:id="Bae_TB_10_6562">Ernst</del>
           <add place="across" xml:id="Bae_TB_10_6563">Wahrheit</add> ist, als man vielleicht glaube. Die Art, wie die Serben in den eroberten Landesteilen vorgehen und sich einrichten, erinnert an die Preussen. Drei Tage nach der Schlacht bei 
-          <placeName key="Kumanovo" ref="no_ref" xml:id="Bae_TB_10_6564">Kumanova</placeName> und wenige Tage nach der Einnahme von 
-          <placeName key="Ueskuep" ref="no_ref" xml:id="Bae_TB_10_6565">Uesküb</placeName>, kamen Briefe nach 
+          <placeName key="Kumanovo" ref="https://www.geonames.org/788886/kumanovo.html" xml:id="Bae_TB_10_6564">Kumanova</placeName> und wenige Tage nach der Einnahme von 
+          <placeName key="Ueskuep" ref="https://www.geonames.org/785842/skopje.html" xml:id="Bae_TB_10_6565">Uesküb</placeName>, kamen Briefe nach 
           <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html" xml:id="Bae_TB_10_6566">Sarajevo</placeName>, mit den serbischen Briefmarken und Poststempeln dieser beiden Orte. Ein Professor der Literatur an der 
           <orgName key="UniversitaetBelgrad" ref="no_ref" xml:id="Bae_TB_10_6567">Universität</orgName> in 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_6568">Belgrad</placeName>, den ich im Frühjahr 
           <date when="1911" xml:id="Bae_TB_10_6569">1911</date> in 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_6570">Belgrad</placeName> kennen lernte, wurde zum Kreisvorsteher von 
-          <placeName key="Mitrovica" ref="no_ref" xml:id="Bae_TB_10_6571">Mitrovitza</placeName>
+          <placeName key="Mitrovica" ref="https://www.geonames.org/10097358/mitrovica-district.html" xml:id="Bae_TB_10_6571">Mitrovitza</placeName>
           <pb facs="#F_K5_Bae_TB_10_202" n="101r" xml:id="Bae_TB_10_6572"/>ernannt. So vollzieht sich die Okkupation und die Einrichtung der serbischen Verwaltung. Wenn nicht durch ein Wunder die Türken noch siegen, wird den Balkanvölkern kein Mensch das eroberte wegnehmen 
           <del rendition="#s" xml:id="Bae_TB_10_6573">und</del>
           <add place="across" xml:id="Bae_TB_10_6574">aber</add> Wunder geschehen nicht. 
@@ -8655,12 +8654,12 @@
           <placeName key="Anatolien" ref="https://www.geonames.org/323835/anatolia.html" xml:id="Bae_TB_10_6619">Anatolien</placeName> zu weit ist. Es scheint mir also keine Phase zu sein, was mir der fast einzig tüchtige, hohe Beamte der 
           <pb facs="#F_K5_Bae_TB_10_206" n="103r" xml:id="Bae_TB_10_6620"/>
           <orgName key="LandesregierungBosnien" ref="https://d-nb.info/gnd/5123628-X" xml:id="Bae_TB_10_6621">Landesregierung</orgName> Sektionschef 
-          <persName key="ShekAdalbert" ref="no_ref" xml:id="Bae_TB_10_6622">Shek</persName>, gesagt hat, die Devise müsse hier sein, stark und gerecht. Der bekannte Feldzeugmeister 
-          <persName key="GalgotzyAnton" ref="no_ref" xml:id="Bae_TB_10_6623">Galgocy</persName> war gleich nach der Okkupation Bezirksvorsteher in 
+          <persName key="ShekAdalbert" ref="https://d-nb.info/gnd/1124111727" xml:id="Bae_TB_10_6622">Shek</persName>, gesagt hat, die Devise müsse hier sein, stark und gerecht. Der bekannte Feldzeugmeister 
+          <persName key="GalgotzyAnton" ref="https://d-nb.info/gnd/130158186" xml:id="Bae_TB_10_6623">Galgocy</persName> war gleich nach der Okkupation Bezirksvorsteher in 
           <placeName key="Bilek" ref="https://www.geonames.org/3204161/bileca.html" xml:id="Bae_TB_10_6624">Bilek</placeName> in der 
           <placeName key="Herzegowina" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_10_6625">Herzegowina</placeName>, er war wie ein Gott verehrt in der Gegend. Noch heute erinnert man sich seiner, frägt nach ihn, und alte Leute möchten ihn noch einmal sehen. Seine ehemalige Geliebte, die heute ein altes Weib ist, die alte 
           <persName key="Stanuska" ref="no_ref" xml:id="Bae_TB_10_6626">Stanuška</persName>, lebt geehrt von jedermann und nimmt eine gesellschaftliche Stellung ein. 
-          <persName key="GalgotzyAnton" ref="no_ref" xml:id="Bae_TB_10_6627">Galgocy</persName> war rücksichtslos streng, ließ die Leute hängen, 
+          <persName key="GalgotzyAnton" ref="https://d-nb.info/gnd/130158186" xml:id="Bae_TB_10_6627">Galgocy</persName> war rücksichtslos streng, ließ die Leute hängen, 
           <del rendition="#s" xml:id="Bae_TB_10_6628">aber</del> behandelte sie 
           <del rendition="#s" xml:id="Bae_TB_10_6629">darnach</del>
           <add place="across" xml:id="Bae_TB_10_6630">aber auch</add> wieder mit Wohlwollen, hat mit seinen Soldaten Straßen und Brücken gebaut, den Leuten gezeigt, wie sie Gärten anlegen sollen. Er ist ohne Säbel oder Pistole allein im Gebirge herumgegangen, mit Geld in der Tasche: "Wenn sie den Mut haben, einen österreichischen General zu erschlagen, so sollen sie wissen, daß er Geld hat." Eine legendäre Figur. Ich führe dieses Beispiel selbstverständlich nicht an, in der Meinung, daß man heute noch dort so re 
@@ -8694,7 +8693,7 @@
         </p>
         <p xml:id="Bae_TB_10_6658">Aus diesen flüchtigen Bemerkungen geht leider 
           <pb facs="#F_K5_Bae_TB_10_210" n="105r" xml:id="Bae_TB_10_6659"/>die Tatsache hervor, daß wir zu einer großzügigen Aktion in handels- und verkehrspolitischer Richtung, wie wir sie jetzt brauchen, wie einen Bissen Brot, gar nicht gerüstet sind. Wir haben uns Herrn von 
-          <persName key="HohenblumAlfred" ref="no_ref" xml:id="Bae_TB_10_6660">Hohenblum</persName> und die Agrarier über den Kopf wachsen lassen. In 
+          <persName key="HohenblumAlfred" ref="https://d-nb.info/gnd/140146253" xml:id="Bae_TB_10_6660">Hohenblum</persName> und die Agrarier über den Kopf wachsen lassen. In 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_10_6661">Ungarn</placeName> herrscht eine ausgesprochene Klasse von Interessenten, die jede Politik zu allgemeinen Nutzen unmöglich macht, und unser 
           <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_10_6662">auswärtiges Amt</orgName>, hat in den letzten Jahren Fehler gemacht, die sich jetzt furchtbar rächen. Der österreichisch gesinnte, serbische Ministerpräsident 
           <persName key="MilovanovicMilovan" ref="https://d-nb.info/gnd/118949470" xml:id="Bae_TB_10_6663">Milowanowic</persName> war im Jahre 
