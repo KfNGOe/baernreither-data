@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_1_1">
   <teiHeader xml:id="Bae_TB_1_2">
@@ -81,7 +81,9 @@
     <body xml:id="Bae_TB_1_50">
       <div type="diaryEntry" xml:id="Bae_TB_1_51">
         <pb facs="#F_K-6_Bae_TB_1_002" n="1r" xml:id="Bae_TB_1_52"/>
-        <head><date when="1897-01" type="diaryEntry"></date></head>
+        <head xml:id="Bae_TB_1_6115">
+          <date when="1897-01" type="diaryEntry" xml:id="Bae_TB_1_6116"/>
+        </head>
         <p xml:id="Bae_TB_1_53">
           <anchor xml:id="Bae_TB_1_54"/>Der 
           <date when="1897-12" xml:id="Bae_TB_1_55">Winter 1897</date> war für mich politisch bedeutsamer als irgend eine frühere Zeit, weil ich in die Pläne 
@@ -809,7 +811,7 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_580">par negotiis' – aber auch 'neque supra'. Er sah nur die Wahlen vor sich und für alle politischen Erwägungen und Gedanken, die darüber hinaus in die Zukunft schweiften, hatte er zwar immer ein geduldiges und aufmerksames Ohr, aber zu einem Eingreifen, zu einer Initiative oder gar dem Versuch zu gestalten, war er nicht zu bringen. Oft konnte ich seine Eifersucht gegen Lippert beobachten. Dieser ist ihm an politischer Auffassung, Schwung, Gewandtheit der Rede überlegen, auch nicht ohne Ambition, die durch enge häusliche Verhältnisse eine sehr praktische Triebfeder hat. Beide waren trotz der großen Mühe, die ich mir gab, gegen mich nicht aufrichtig, wovon ich leider unwiderlegliche Proben erhielt. Vielleicht war es das Mißtrauen, das</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_581"/>
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_582">Plener</persName> seinerzeit systematisch gegen mich gesät hatte, 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_582">Plener</persName> seinerzeit systematisch gegen mich gesät hatte, 
           <app from="#Bae_MF_1_327" type="notEqual" xml:id="Bae_TB_1_583">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_584">seinerzeit systematisch gegen mit gesät worden war,</rdg>
           </app>
@@ -1381,7 +1383,7 @@
             <expan xml:id="Bae_TB_1_993">und</expan>
           </choice> kann Sie nur auf das Nachdrücklichste bitten, sich meine Einwendungen zu überlegen. Ich stehe gar nicht auf dem alten 
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_TB_1_994">Herbst</persName>- 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_995">Plener’schen</persName> Standpunkt, sondern auf dem einzig richtigen des praktischen und dienstlichen Bedürfnisses. Dass in ganz 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_995">Plener’schen</persName> Standpunkt, sondern auf dem einzig richtigen des praktischen und dienstlichen Bedürfnisses. Dass in ganz 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_996">Böhmen</placeName> der Čeche in jedem Amte eine Person findet, die seine Muttersprache 
           <hi rendition="#ul" xml:id="Bae_TB_1_997">spricht</hi>, ihm in derselben Auskunft gibt etc. finde ich natürlich und gerecht. Ebenso richtig finde ich es, dass die 
           <hi rendition="#ul" xml:id="Bae_TB_1_998">Conzepts</hi>beamten deutsch 
@@ -2234,7 +2236,7 @@
             <abbr xml:id="Bae_TB_1_1595">u.</abbr>
             <expan xml:id="Bae_TB_1_1596">und</expan>
           </choice>
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_1597">Plener</persName> hatten ihn in ihrer unfehlbaren Menschenkenntniss zum Justizminister ausersehen. Durch ersteren lebhaft empfohlen kam er ins Ministerium 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_1597">Plener</persName> hatten ihn in ihrer unfehlbaren Menschenkenntniss zum Justizminister ausersehen. Durch ersteren lebhaft empfohlen kam er ins Ministerium 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1598">Badeni</persName>. Bei der ersten Zusammenkunft mit ihm – es war in einer 
           <index xml:id="Bae_TB_1_1599">
             <term key="Parteien" xml:id="Bae_TB_1_1600">Obmännerconferenz</term>
@@ -3443,7 +3445,8 @@
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_1_2458">
         <head xml:id="Bae_TB_1_2459">
-          <hi rendition="#ul" xml:id="Bae_TB_1_2460">III. Die Osterferien 1897</hi><date when="1897-05" type="diaryEntry"></date>
+          <hi rendition="#ul" xml:id="Bae_TB_1_2460">III. Die Osterferien 1897</hi>
+          <date when="1897-05" type="diaryEntry" xml:id="Bae_TB_1_6117"/>
         </head>
         <p xml:id="Bae_TB_1_2461">Ich war mir eine Erfrischung schuldig. Durch die Lektüre von 
           <persName key="MorelliGiovanni" ref="http://d-nb.info/gnd/1147292906" xml:id="Bae_TB_1_2462">Lermoliev</persName> hatte ich eine Menge abgerissene Fäden meiner Kunstkenntnisse wieder angesponnen. 
@@ -4144,7 +4147,7 @@
             <abbr xml:id="Bae_TB_1_2962">u.</abbr>
             <expan xml:id="Bae_TB_1_2963">und</expan>
           </choice> damals geschah eben der verhängnissvolle Fehler. Anstatt dass 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_2964">Plener</persName>
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_2964">Plener</persName>
           <choice xml:id="Bae_TB_1_2965">
             <abbr xml:id="Bae_TB_1_2966">u.</abbr>
             <expan xml:id="Bae_TB_1_2967">und</expan>
@@ -4168,7 +4171,7 @@
           <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_1_2981">Chlumetzky</persName>, 
           <persName key="SturmEduard" ref="https://d-nb.info/gnd/1048747816" xml:id="Bae_TB_1_2982">Sturm</persName>, 
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_TB_1_2983">Herbst</persName>, 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_2984">Plener</persName>
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_2984">Plener</persName>
           <hi rendition="#ul" xml:id="Bae_TB_1_2985">rechts</hi> unter der Fahne des "deutsch-österreichischen" Clubs, während die neuen, jungen Kräfte sich selbst überlassen, ohne Schulung, ohne leitende 
           <choice xml:id="Bae_TB_1_2986">
             <abbr xml:id="Bae_TB_1_2987">u.</abbr>
@@ -4197,7 +4200,7 @@
           <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_TB_1_3004">Taaffe</persName> zu stürzen, ihr Bestreben war es eine Regierungspartei der Zukunft zu bilden, um sofort mit einer solchen am Plan sein zu können. 
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_TB_1_3005">Herbst</persName> und 
           <persName key="PickertKarl" ref="https://d-nb.info/gnd/1024911209" xml:id="Bae_TB_1_3006">Pickert</persName> waren Todfeinde. 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_3007">Plener</persName> in seiner bureaucratischen 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_3007">Plener</persName> in seiner bureaucratischen 
           <app from="#Bae_MF_1_1425" type="equal" xml:id="Bae_TB_1_3008">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_3009">Chlumetzky empfahl, die Majoritätsbildung nicht übers Knie zu brechen, die für den ungar. Ausgleich nicht notwendig sei. Die Deutschböhmen, in dieser Hinsicht den Interessen ihrer Fabrikanten folgend, werden nicht gegen einen halbwegs plausiblen Ausgleich auftreten. Die nationalen Verhältnisse in Böhmen seien vorsichtig und nur schrittweise zu lösen. Immer nur durch Verhandlungen mit beiden Teilen. Das war in der Denkschrift des Näheren ausgefürt, aber Badeni fand es nicht einmal der Mühe wert diese von einem ihm gewiss wohlwollenden Freunde gegebenen Ratschläge seinen Ministerkollegen vorzulegen, und Baron Glanz, mit dem ich im Juni 1897 eine eingehende Besprechung der Lage hatte, wußte von dem Memorandum gar nichts. Aber wenn man heute die riesige Aufregung vor Augen hat, zu der die Sprachenverordnung den Anstoß gegeben hat möchte man meinen, daß es nicht Aufgabe der Führer gewesen sei, Memoranden zu schreiben, mit Badeni in unendlicher Geduld zu verhandeln, immer wieder vermittelnd aufzutreten – man möchte es als einen Fehler bezeichnen, daß nicht früher, vielleicht zu einer Zeit, in der die Publizierung der Sprachenverordnung verhindert werden konnte, durch energisches Auftreten eine Wendung herbeizuführen versucht wurde. Schlägt sich doch heute die Regierung auf dieselbe Seite und versucht sich dahin auszureden, als seien ihr die Gefahren der Sprachenverordnung nicht eindringlich genug dargestellt worden! Die Erklärung liegt weit zurück. Ich habe die Dinge seit 1885 mitgemacht. Damals wurde der entscheidende Fehler begangen. Die Wahlen des Jahres 1885 brachten eine grosse Zahl neuer, junger Abgeordneter an die Oberfläche, aus der Volksströmung hervorgegangen und mit den Volkskreisen in enger Verbindung. Es musste jedem erfahrenen Politiker klar sein – war es doch manchem unerfahrenen klar! – daß diese Elemente mit dem konservativen Flügel der Deutschen, den Großgrundbesitzern und ihren Gesinnungsverwandten, die damals noch sehr stark in der Partei vertreten waren, in einer und derselben parlamentarischen Vereinigung nicht zusammenzuhalten seien. Man mußte sich von vorneherein klar sein, zwei getrennte politische Heerhaufen bilden und zugleich für eine richtige Verbindung beider sorgen. Vor Allem durfte man aber die neuen, gährenden Elemente sich nicht selbst überlassen. Man mußte den Schwerpunkt der Partei nach links verlegen und die Abschnürung des rechten Flügels ruhig geschehen lassen. Dieser, ungeeignet im Vordertreffen zu kämpfen, hätte doch an allen grossen Schlachten teilgenommen, langsam, aber durchaus verläßlich, wie sich dieses Elementes der Partei immer erwiesen hat. Gleich nach den Wahlen im Juli 1885 fand eine Abgeordnetenversammlung im Musikvereinssaale statt, an der noch alle, auch die spätern Deutschnationalen teilnahmen. Damals wurde ein Bruch noch verkleistert, im Herbst, vor Zusammentritt des Reichsrates war aber die Unmöglichkeit klar, die ganze Schaar zusammenzuhalten und damals geschah eben der verhängnissvolle Fehler. Anstatt daß Plener und Tomasczuk ihre Anhänger mit den neuen Männern vereinigt hätten zu der überwiegend größeren Partei und Chlumetzky mit den Großgrundbesitzern und Aehnlichen hätte rechts abschwenken lassen, kam es umgekehrt. Alles was Erfahrung und Bedeutung hatte, sammelte sich unter Chlumetzky, Sturm, Herbst, Plener rechts unter der Fahne des "deutsch-österreichischen" Klubs, während die neuen, jungen Kräfte sich selbst überlassen, ohne Schulung, ohne leitende und erfahrene Männer nach einer neuerlichen Secession, der schwankenden, oft geradezu unbegreiflichen Führung Steinwenders verfielen. Der Augenblick eine mächtige, volkstümliche deutsche Partei zu gründen, welcher ein aus den konservativen Elementen zu bildendes, natürlich numerisch viel kleineres "linkes Zentrum" als Bundesgenossen in allen wichtigen Fragen an der Seite hätte stehen können, war verpasst! Parlamentarisch machte ja der deutsch-österreichische Klub und später die Vereinigtee Linke durch ihr Auftreten, insbesondere durch ihre grossen Redner Staat, auch hat sie eine riesige parlamentarisch-bureaukratische Arbeit bewältigt, aber im Volk verlor sie nach und nach alle Wurzeln. Schuld an dem Fehler von 1885 war nicht nur, wie ich damals naiver Weise glaubte, die mangelnde Einsicht in die politische Konstellation, sondern vielmehr die leider in der Politik eine so grosse Rolle spielenden persönlichen Motive. Chlumetzky und Sturm brannten vor Begierde Taaffe zu stürzen, ihr Bestreben war es eine Regierungspartei der Zukunft zu bilden, um sofort mit einer solchen am Plan sein zu können. Herbst und Pickert waren Todfeinde. Plener in seiner bureaukratischen</rdg>
           </app>
@@ -4894,7 +4897,7 @@
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_3456">Stürgkh</persName> nicht zuziehe. Dieses pädagogische Element ist seinerzeit in der " 
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_1_3457">Vereinigten Linken</orgName>" ganz vernachlässigt worden. Weder 
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_TB_1_3458">Herbst</persName>, noch 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_3459">Plener</persName> noch irgend einer dieser Parteimandarine hat "Schule" gemacht, politische 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_3459">Plener</persName> noch irgend einer dieser Parteimandarine hat "Schule" gemacht, politische 
           <hi rendition="#ul" xml:id="Bae_TB_1_3460">Ueberzeugungen</hi> in ihrem Kreise gepflanzt. 
         </p>
         <p xml:id="Bae_TB_1_3461">Es ergab sich bald eine Gelegenheit sowol 
@@ -5600,7 +5603,8 @@
         <pb facs="#F_K-6_Bae_TB_1_120" n="60r" xml:id="Bae_TB_1_3985"/>
         <anchor xml:id="Bae_TB_1_3986"/>
         <head xml:id="Bae_TB_1_3987">
-          <hi rendition="#ul" xml:id="Bae_TB_1_3988">V. Die Sommerferien 1897</hi><date when="1897-10" type="diaryEntry"></date>
+          <hi rendition="#ul" xml:id="Bae_TB_1_3988">V. Die Sommerferien 1897</hi>
+          <date when="1897-10" type="diaryEntry" xml:id="Bae_TB_1_6118"/>
         </head>
         <app from="#Bae_MF_1_1899" type="equal" xml:id="Bae_TB_1_3989">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_3990">V. Die Sommerferien 1897.</rdg>
@@ -5925,7 +5929,7 @@
           <persName key="HalbanHeinrich" ref="https://d-nb.info/gnd/116208848" xml:id="Bae_TB_1_4218">Halban</persName>. Diese Persönlichkeit, die schon unter 
           <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_TB_1_4219">Taaffe</persName> eine gewisse Rolle spielte, vom Coalitionsministerium zu seinem grossen Missvergnügen kalt gestellt worden war, steht unter 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4220">Badeni</persName> wieder im Mittelpunkt der parlamentarischen Verhandlungen und Intriguen. Er ist nicht so schlimm wie sein Ruf. Von 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/139216014" xml:id="Bae_TB_1_4221">Plener</persName> und unsern Matadoren in Hochmut stets schlecht behandelt ist er ein Gegner jener "gemässigten" Richtung unter den Deutschen geworden, die zu nichts den Muth hatten. Mit den 
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_4221">Plener</persName> und unsern Matadoren in Hochmut stets schlecht behandelt ist er ein Gegner jener "gemässigten" Richtung unter den Deutschen geworden, die zu nichts den Muth hatten. Mit den 
           <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_1_4222">Deutschnationalen</orgName> sowie natürlich mit allen Fraktionen der Slaven, besonders mit den 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_4223">Jungčechen</orgName> unterhält er 
           <pb facs="#F_K-6_Bae_TB_1_129" n="64v" xml:id="Bae_TB_1_5753"/>
