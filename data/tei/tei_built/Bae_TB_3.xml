@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_3_1">
   <teiHeader xml:id="Bae_TB_3_2">
@@ -79,10 +80,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_3_50">
     <body xml:id="Bae_TB_3_51">
-      <div type="diaryEntry" xml:id="Bae_TB_3_52">
-        <head xml:id="Bae_TB_3_5681">
-          <date when="1898-09-22" type="diaryEntry" xml:id="Bae_TB_3_5682"/>
-        </head>
+      <div type="diaryEntry" xml:id="Bae_TB_3_52"><head><date when="1898-09-22" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_3_5608"/>
         <pb facs="#F_K-4_Bae_TB_3_003" n="1v" xml:id="Bae_TB_3_63"/>
         <addSpan spanTo="#Bae_TB_3_5510" type="insertion" xml:id="Bae_TB_3_61"/>
@@ -409,15 +407,13 @@
               <abbr xml:id="Bae_TB_3_230">Se.</abbr>
               <expan xml:id="Bae_TB_3_231">Seine</expan>
             </choice> Excellenz 
-          </persName> besonders zu hören, daß an Stelle der zahlreichen Werks- und Wohngebäude, die eine ganze Ortschaft 
-        </p>
-        <app from="#Bae_MF_2_6426" type="missing" xml:id="Bae_TB_3_5616">
-          <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5617"/>
-        </app>
-        <anchor xml:id="Bae_TB_3_5522"/>
-        <!-- anchor für addspan 1av -->
-        <pb facs="#F_K-4_Bae_TB_3_006" n="2r" xml:id="Bae_TB_3_292"/>
-        <p xml:id="Bae_TB_3_5683">
+          </persName> besonders zu hören, daß an Stelle der zahlreichen Werks- und Wohngebäude, die eine ganze Ortschaft </p>
+          <app from="#Bae_MF_2_6426" type="missing" xml:id="Bae_TB_3_5616">
+            <rdg wit="Bae_MF_2" xml:id="Bae_TB_3_5617"/>
+          </app>
+          <anchor xml:id="Bae_TB_3_5522"/>
+          <!-- anchor für addspan 1av -->
+          <pb facs="#F_K-4_Bae_TB_3_006" n="2r" xml:id="Bae_TB_3_292"/><p>
           <anchor xml:id="Bae_TB_3_5618"/>suchen sich auf alle mögliche Weise zu helfen, schreiten aber doch technisch gar nicht oder nur langsam fort. Für diese Kategorie von Betrieben besteht eine sehr gute Gewerbeschule in 
           <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_3_293">
             <choice xml:id="Bae_TB_3_294">
@@ -1110,8 +1106,7 @@
         <head xml:id="Bae_TB_3_785">
           <hi rendition="#ul" xml:id="Bae_TB_3_786">II. Die Perpetien der 
             <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_787">Thun'schen</persName> Politik. 
-          </hi>
-          <date when="1898-07" type="diaryEntry" xml:id="Bae_TB_3_5684"/>
+          </hi><date when="1898-07" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_3_788">Im Frühjahr 
           <choice xml:id="Bae_TB_3_789">
@@ -1790,8 +1785,7 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_3_1291">
-        <head xml:id="Bae_TB_3_5685">
-          <hi rendition="#ul" xml:id="Bae_TB_3_1293">Von der Vertagung des 
+          <head><hi rendition="#ul" xml:id="Bae_TB_3_1293">Von der Vertagung des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_3_1294">Reichsrats</orgName> am 
             <date when="1898-06-12" xml:id="Bae_TB_3_1295">12. Juni</date> bis zu seiner 
             <index xml:id="Bae_TB_3_1296">
@@ -1801,8 +1795,7 @@
               </index>
             </index> am 
             <date when="1898-07-24" type="diaryEntry" xml:id="Bae_TB_3_1300">24. Juli</date>. 
-          </hi>
-        </head>
+          </hi></head>
         <p xml:id="Bae_TB_3_1301">Da ich die Verhandlungen über ein Sprachengesetz im Zusammenhang mit dem 
           <add place="across" xml:id="Bae_TB_3_1302">frühern Stadium der Sache</add> abgesondert darstellen will, möchte ich nur einige markante Ereignisse hervorheben, die in diesen Zeitraum fallen. Es war dies vor Allem die 
           <persName key="PalackyFrantisek" ref="https://d-nb.info/gnd/118789260" xml:id="Bae_TB_3_1303">Palacky</persName>feier in 
@@ -2729,9 +2722,7 @@
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_3_1961">
         <pb facs="#F_K-4_Bae_TB_3_066" n="36r" xml:id="Bae_TB_3_1962"/>
-        <head xml:id="Bae_TB_3_5686">
-          <date when="1898-09-26" type="diaryEntry" xml:id="Bae_TB_3_5687"/>
-        </head>
+        <head><date when="1898-09-26" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_3_1963">
           <anchor xml:id="Bae_TB_3_1964"/>
           <hi rendition="#ul" xml:id="Bae_TB_3_1965">Von der 
@@ -3638,8 +3629,7 @@
                 <term key="Sprachenfrage" xml:id="Bae_TB_3_2576"/>
               </index>
             </index>
-          </hi>
-          <date when="1898-08" type="diaryEntry" xml:id="Bae_TB_3_5688"/>
+          </hi><date when="1898-08" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_3_2577">Wenn ich jetzt so im Zusammenhang zurückblicke auf die Action 
           <persName key="ThunFranz" ref="https://d-nb.info/gnd/117626651" xml:id="Bae_TB_3_2578">Thun's</persName> in der 
@@ -4660,8 +4650,7 @@
                 <term key="Ausgleich" xml:id="Bae_TB_3_3299"/>
               </index>
             </index>. 
-          </hi>
-          <date when="1898-09" type="diaryEntry" xml:id="Bae_TB_3_5689"/>
+          </hi><date when="1898-09" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_3_3300">Als ich mein Amt antrat, hatte ich zwei längere Unterredungen mit 
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_3_3301">Körber</persName>, der mir in einer sehr liebenswürdigen Weise die Agenden des 

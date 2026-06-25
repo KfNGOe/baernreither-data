@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_2_1">
   <teiHeader xml:id="Bae_TB_2_2">
@@ -78,10 +79,7 @@
   </teiHeader>
   <text xml:id="Bae_TB_2_49">
     <body xml:id="Bae_TB_2_50">
-      <div type="diaryEntry" xml:id="Bae_TB_2_51">
-        <head xml:id="Bae_TB_2_6549">
-          <date when="1897-09" type="diaryEntry" xml:id="Bae_TB_2_6550"/>
-        </head>
+      <div type="diaryEntry" xml:id="Bae_TB_2_51"><head><date when="1897-09" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_2_52">
           <anchor xml:id="Bae_TB_2_53"/>
           <app from="#Bae_MF_1_2445" type="missing" xml:id="Bae_TB_2_54">
@@ -307,8 +305,7 @@
       <div type="diaryEntry" xml:id="Bae_TB_2_209">
         <anchor xml:id="Bae_TB_2_210"/>
         <head xml:id="Bae_TB_2_211">
-          <hi rendition="#ul" xml:id="Bae_TB_2_212">I. Anfänge der Herbstsession 1897</hi>
-          <date when="1897-10" type="diaryEntry" xml:id="Bae_TB_2_6551"/>
+          <hi rendition="#ul" xml:id="Bae_TB_2_212">I. Anfänge der Herbstsession 1897</hi><date when="1897-10" type="diaryEntry"></date>
         </head>
         <app from="#Bae_MF_1_2513" type="equal" xml:id="Bae_TB_2_213">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_214">I. Anfänge der Herbstsession 1897</rdg>
@@ -594,8 +591,7 @@
         <head xml:id="Bae_TB_2_411">
           <hi rendition="#ul" xml:id="Bae_TB_2_412">II. Unsere Verhandlungen mit 
             <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_2_413">Baron Dipauli</persName>. 
-          </hi>
-          <date when="1897-10-26" type="diaryEntry" xml:id="Bae_TB_2_6552"/>
+          </hi><date when="1897-10-26" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_414">"Il ne faut jurer de rien" – diese Erfarung macht man in der heutigen Politik auf Schritt 
           <choice xml:id="Bae_TB_2_415">
@@ -1571,8 +1567,7 @@
                 <term key="Ministeranklagen" xml:id="Bae_TB_2_1073"/>
               </index>
             </index>
-          </hi>
-          <date when="1897-11" type="diaryEntry" xml:id="Bae_TB_2_6553"/>
+          </hi><date when="1897-11" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_1074">Abgesehen von den 
           <index xml:id="Bae_TB_2_1075">
@@ -2589,8 +2584,7 @@
                 <term key="Ausgleichsprovisorium" xml:id="Bae_TB_2_1768"/>
               </index>
             </index>
-          </hi>
-          <date when="1897-12" type="diaryEntry" xml:id="Bae_TB_2_6554"/>
+          </hi><date when="1897-12" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_1769">Mir ist heute nicht im Geringsten zweifelhaft, dass, wenn 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_2_1770">Badeni</persName> – wie ich ihm im 
@@ -3167,8 +3161,7 @@
       <div type="diaryEntry" xml:id="Bae_TB_2_2158">
         <anchor xml:id="Bae_TB_2_2159"/>
         <head xml:id="Bae_TB_2_2160">
-          <hi rendition="#ul" xml:id="Bae_TB_2_2161">V. Angeknüpfte Verbindungen</hi>
-          <date when="1897-12" type="diaryEntry" xml:id="Bae_TB_2_6555"/>
+          <hi rendition="#ul" xml:id="Bae_TB_2_2161">V. Angeknüpfte Verbindungen</hi><date when="1897-12" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_2162">Gleich bei Beginn der Session wurde von verschiedenen Seiten der Wunsch geäussert, mit der 
           <orgName key="Verfassungspartei" xml:id="Bae_TB_2_2163">Verfassungsgruppe des Herrenhauses</orgName>, das heisst mit dem Exekutivcomité desselben in Fühlung zu treten. 
@@ -3295,11 +3288,9 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_2_2254">
-        <anchor xml:id="Bae_TB_2_2256"/>
-        <head xml:id="Bae_TB_2_6556">
-          <placeName key="Nizza" ref="https://www.geonames.org/2990440/nice.html" xml:id="Bae_TB_2_2257">Nizza</placeName>, im 
-          <date when="1898-01" type="diaryEntry" xml:id="Bae_TB_2_2258">Januar 1898</date>
-        </head>
+          <anchor xml:id="Bae_TB_2_2256"/>
+          <head><placeName key="Nizza" ref="https://www.geonames.org/2990440/nice.html" xml:id="Bae_TB_2_2257">Nizza</placeName>, im 
+          <date when="1898-01" type="diaryEntry" xml:id="Bae_TB_2_2258">Januar 1898</date></head>
         <p xml:id="Bae_TB_2_2259">Eine andere Verbindung, auf die ich grossen Wert legte, war die mit den 
           <orgName key="ItalienischerKlub" xml:id="Bae_TB_2_2260">Italienern</orgName>. Leider erwiesen sie sich als unverlässlich. Zwanzig Mann stark, könnten sie immerhin eine Rolle im 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_2_2261">Parlament</orgName> spielen, in Anlehnung an eine andere Partei. So hätten wir mit ihnen 
@@ -3644,8 +3635,7 @@
         <pb facs="#F_K-4_Bae_TB_2_082" n="41r" xml:id="Bae_TB_2_2486"/>
         <anchor xml:id="Bae_TB_2_2487"/>
         <head xml:id="Bae_TB_2_2488">
-          <hi rendition="#ul" xml:id="Bae_TB_2_2489">VI. Die letzten Dinge der Session</hi>
-          <date when="1898-01" type="diaryEntry" xml:id="Bae_TB_2_6557"/>
+          <hi rendition="#ul" xml:id="Bae_TB_2_2489">VI. Die letzten Dinge der Session</hi><date when="1898-01" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_2_2490">Wer in einer spätern Zeit die 
           <index xml:id="Bae_TB_2_2491">
@@ -4384,8 +4374,7 @@
       <div type="diaryEntry" xml:id="Bae_TB_2_3012">
         <anchor xml:id="Bae_TB_2_3013"/>
         <head xml:id="Bae_TB_2_3014">
-          <hi rendition="#ul" xml:id="Bae_TB_2_3015">VII. Die neue Regierung</hi>
-          <date when="1898-02" type="diaryEntry" xml:id="Bae_TB_2_6558"/>
+          <hi rendition="#ul" xml:id="Bae_TB_2_3015">VII. Die neue Regierung</hi><date when="1898-02" type="diaryEntry"></date>
         </head>
         <app from="#Bae_MF_1_3715" type="notEqual" xml:id="Bae_TB_2_3016">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_2_3017">Die neue Regierung</rdg>
@@ -5165,9 +5154,7 @@
         <p xml:id="Bae_TB_2_3490">x x x</p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_2_3491">
-        <head xml:id="Bae_TB_2_6559">
-          <date when="1898-11" type="diaryEntry" xml:id="Bae_TB_2_6560"/>
-        </head>
+        <head><date when="1898-11" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_2_3492">
           <anchor xml:id="Bae_TB_2_3493"/>
           <app from="#Bae_MF_2_56" type="missing" xml:id="Bae_TB_2_3494">
@@ -6881,10 +6868,9 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_2_161" n="80v" xml:id="Bae_TB_2_4756"/>
-        <anchor xml:id="Bae_TB_2_4758"/>
+         <anchor xml:id="Bae_TB_2_4758"/>
         <addSpan spanTo="#Bae_TB_2_6338" type="insertion" xml:id="Bae_TB_2_4755"/>
-        <p xml:id="Bae_TB_2_4757">[handschriftliche Ergänzung rechts]: 
-          <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_2_4759">N. Fr. Pr.</orgName>
+        <p xml:id="Bae_TB_2_4757">[handschriftliche Ergänzung rechts]: <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_2_4759">N. Fr. Pr.</orgName>
           <date when="1898-08-26" xml:id="Bae_TB_2_4760">26.8</date>
         </p>
         <p xml:id="Bae_TB_2_4761">
@@ -7371,11 +7357,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_2_5023">
-        <pb facs="#F_K-4_Bae_TB_2_172" n="86r" xml:id="Bae_TB_2_5025"/>
-        <head xml:id="Bae_TB_2_6561">
-          <hi rendition="#ul" xml:id="Bae_TB_2_5026">I. Meine Informationsreisen </hi>
-          <date when="1898-09" type="diaryEntry" xml:id="Bae_TB_2_6562"/>
-        </head>
+          <pb facs="#F_K-4_Bae_TB_2_172" n="86r" xml:id="Bae_TB_2_5025"/> 
+          <head><hi rendition="#ul" xml:id="Bae_TB_2_5026">I. Meine 
+            Informationsreisen
+          </hi><date when="1898-09" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_2_5031">Ich musste mir beim Antritt meines Amtes bekennen, dass ich die 
           <index xml:id="Bae_TB_2_5032">
             <term key="Oesterreich" xml:id="Bae_TB_2_5033">
