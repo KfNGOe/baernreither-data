@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Tagebücher von Joseph Maria Baernreither</title>
+                <title type="volume">Manuskript Fragmenete Südslawische Politik (1892–1911)</title>
+                <title type="display">Südslawische Politik</title>
+                <title type="short">Bae_SSP</title>
+                <author>
+                    <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858">
+                        <forename>Joseph Maria</forename>
+                        <surname>Baernreither</surname>
+                    </persName>
+                </author>
+                <editor>
+                    <persName ref="https://d-nb.info/gnd/131898248">
+                        <forename>Doris</forename>
+                        <surname>Corradini</surname>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp/>
+                    <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7">Kommission für Neuere Geschichte Österreichs</orgName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digitale Edition von Tagebüchern und Lebenserinnerungen</edition>
+            </editionStmt>
+            <extent>
+                <measure>125</measure>
+            </extent>
+            <publicationStmt>
+                <publisher>
+                    <orgName key="KommissionfuerNeuereGeschichteOesterreichs" ref="https://d-nb.info/gnd/2016019-7">Kommission für Neuere Geschichte Österreichs</orgName>
+                    <address>
+                        <addrLine>c/o Universität Innsbruck, Institut für Geschichtswissenschaften und Europäische Ethnologie, Innrain 52, 6020 Innsbruck</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace>Wien</pubPlace>
+                <date/>
+                <availability>
+                    <p/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Österreichisches Staatsarchiv</repository>
+                        <idno>Signatur</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <typeDesc>
+                            <p>Lateinschrift</p>
+                        </typeDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>[Angaben zu den Transkriptionsrichtlinien]</p>
+                <p>[sonstige Angaben zur Transkription]</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date from="1892" to="1911">1905</date>
+            </creation>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <classCode scheme="xxxx">Tagebuch</classCode>
+                <!-- CA: wo findet man die URLs der DTA-Hauptklassifikation -->
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <anchor/><placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>, am 9. November 1908</p>
+            <p>Gestern war der serbische Agrarier <persName key="DimitrijevicLazo">Dr. Dimitrijevic</persName>, Redakteur des "<orgName key="Dan">Dan</orgName>" aus <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html">Sarajewo</placeName>, bei mir. Er hat mir stundenlang von den agrarischen Verhältnissen <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html">Bosniens</placeName> erzählt, von der Wahlordnung, über die jetzt entschieden werden wird und über die Stimmung der Serben. Diese seien in den Städten vielfach irredentistisch, das Landvolk sei aber gut. Er hält deswegen <add place="across">für <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName></add> ein breites Wahlrecht für besser.</p>
+            <p>(Aus Seite 1 der beiliegenden Zusammenstellung).</p>
+            <p>Alles bekannte Sachen, aber wann wird man die Konsequenzen ziehen?</p>
+            <p>(aus Seite 4 <choice><abbr>u.</abbr><expan>und</expan></choice> 5)</p><pb facs="#F_K-5_Bae_TB_8_104" n="49av"/><note type="editorial">Diese Seite ist leer.</note><pb facs="#F_K-5_Bae_TB_8_105" n="49br"/>
+            <p>Unterredung mit <persName key="DimitrijevicLazo">Dr. Dimitrijevic</persName> 9. 11. 08</p>
+            <p>Das heutige Kmetenverhältnis ist <choice><abbr>gg</abbr><expan>gegen</expan></choice> jede intensive Wirtschaft. Vom Futterbau (Klee) muss der Kmet in der Regel dem Aga 1/2 abgeben. Daher wird kein Klee <choice><abbr>u.</abbr><expan>und</expan></choice> kein Futter gebaut <choice><abbr>u.</abbr><expan>und</expan></choice> dadurch Stallfütterung unmöglich. Viehzucht leidet dadurch <choice><abbr>u.</abbr><expan>und</expan></choice> kann sich nicht verbessern. Es ist natürlich, dass die Bruttoabgaben indolent machen. Niemand will für einen andern arbeiten. Der Gedanke, dass das Mehrerträgnis dem Aga zu Gute kommt verhindert jeden Fortschritt. Daher z. B. auch kein Krautbau  im Grossen, sondern nur was zum eigenen Consum des Kmeten dient. Die Einhebung des Zehents <choice><abbr>u.</abbr><expan>und</expan></choice> der Tertina ist unter <choice><abbr>öster.</abbr><expan>österreichischer</expan></choice> Herrschaft verschärft worden. Früher unregelmäßig, jetzt strenger durchgeführt. Die Ärmeren zahlen mehr, die Reichen wenig. Der Zehent würde durch Bauern <choice><abbr>o.</abbr><expan>oder</expan></choice> Mitglieder des Bauernstandes beschrieben, die sich beim Steuereinnehmer <choice><abbr>o.</abbr><expan>oder</expan></choice> Bezirksvorstand einzuschmeicheln wussten, und sie verdienten sich 2-300 fl. per Saison. Der gut situierte Kmet bestach ihn, auf den schlechtsituierten wurde die Last überwälzt. Allerdings waren diese Zehentbeschreiber auf Tantieme gesetzt, meist 4 % von der Steuersumme,<pb facs="#F_K-5_Bae_TB_8_106" n="49cr"/>aber der Betrag, mittelst welchem sie bestochen, war höher. Dabei gab es Verpflegung, ein Lamm, Spanferkel wurde geschlachtet <choice><abbr>u.</abbr><expan>und</expan></choice> dazu getrunken. <persName key="DimitrijevicLazo">Dimitrijevic</persName> behauptet, dass dies der Vorgang im ganzen Lande war <choice><abbr>u.</abbr><expan>und</expan></choice> dass auf diese Weise die Armen für die Reichen zahlten.</p>
+            <p>Eine Kmetenwirtschaft ist in der Regel 20 Hektar gross, aber die Hauscommunion, Zadruga, besteht durchschnittlich aus 30–40 Personen. Grossgrundbesitzer gibt es im Ganzen etwa 5000 <add place="across">mit 20.000 Seelen</add>. Davon haben aber 4500 eine Nebenbeschäftigung <choice><abbr>u.</abbr><expan>und</expan></choice> sind nicht eigentliche Grossgrundbesitzer. Nur 500 Familien sind eigentliche Grossgrundbesitzer, die ausschließlich davon leben <choice><abbr>u.</abbr><expan>und</expan></choice> bis zu 200-300 Kmeten besitzen.</p>
+            <p>Er ist für eine allgemeine Grundentlastung, aber es fehlt das Geld. Deshalb wäre nach seiner Meinung durch innere Colonisation zu helfen. Die Staatsländereien sollen an Mitglieder der Zadruga verteilt werden. Er scheint die ländlichen Verhältnisse in der ehemaligen Militärgrenze als das Wünschenswerte anzusehen; ein Nebeneinander der Zadruga <choice><abbr>u.</abbr><expan>und</expan></choice> der Einzelbesitzer, aber möglichst viele <hi rendition="#ul">freie</hi> Besitzer.<pb facs="#F_K-5_Bae_TB_8_107" n="49d"/>Rücksicht auf die Begs will er nicht üben. Meine Einwendung, dass diese zu Grunde gehen würden, beantwortete er damit, dass jeder zu Grunde geht, der nicht mit dem Seinigen Haus zu halten versteht. Die Erhaltung der Begs sei nicht die Hauptsache.</p>
+            <p>Einen ganz bestimmten Plan in der Agrarfrage hat er aber, wie es scheint, nicht. Auf meine Frage, was seine Partei tun wolle, um die Kmeten aus den Händen der gazda zu befreien, erzählte er, dass seine Partei Raiffeisenkassen gründen wollte, dies aber an der bürokratischen Schwerfälligkeit der Regierung gescheitert ist. Zuerst habe die Regierung die Statuten nicht genehmigt, dann ein Normalstatut herausgegeben, dann darnach eingereichte Statuten monatelang liegen lassen. Sie wollen Kassen gründen, risnica, eine Centralleitung mit Inspection usw. Die heutige Ablösung hängt vom Beg ab. Er will, wenn er Geld braucht, wenn nicht, dann nicht. Die Freibauern wirtschaften viel besser als die andern. <orgName key="LandesbankBosnien">Die Landesbank</orgName> gibt Darlehen zu 6 % - 1 % Amortisation und 1/2 % Regiebeitrag. Auf diesem Wege wird aber die Grundentlastung noch 100 Jahre dauern.</p>
+            <p>In der <hi rendition="#ul">Schulfrage</hi> war er nicht sehr eifrig. Anerkennt<pb facs="#F_K-5_Bae_TB_8_108" n="49e"/>dass keine Schulen sind, stellt das aber merkwürdigerweise nicht in den Vordergrund. Er meint vielmehr, dass alljährlich <choice><abbr>u.</abbr><expan>und</expan></choice> systematisch durch Gesetz eine Anzal junger Leute (die nicht militärtauglichen) nach <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName> <choice><abbr>u.</abbr><expan>und</expan></choice> <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> zu schicken wären, um dort als Knechte zu lernen. Das wäre seiner Meinung nach besser als landwirtschaftliche Schulen. Von Colonisation von außen will er nichts wissen. Die grossen Entfernungen sind Hindernis des Schulbesuchs. Er hat die etwas abenteuerliche Idee, die Ortschaften an die Straßen zu verlegen. Lehrer <choice><abbr>u.</abbr><expan>und</expan></choice> Lehrerinnen wären genug vorhanden. Jetzt über 200 Lehrerinnen vacant.</p>
+            <p>Seine Hauptforderungen liegen auf dem Gebiete der <hi rendition="#ul">Landescultur</hi>. Er sagt, <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice><abbr>Ö.</abbr><expan>Österreich</expan></choice></placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> müsste 15-20 Millionen <choice><abbr>K.</abbr><expan>Kronen</expan></choice> aufwenden, um das Jahr 1908 zu einem Wendepunkt in dem Gedächtnis <choice><abbr>u.</abbr><expan>und</expan></choice> der Phantasie des Volkes zu machen. Vor allem durch Canalisierungen <choice><abbr>u.</abbr><expan>und</expan></choice> Entwässerungen der Polje hauptsächlich 2: eine in der <placeName key="Herzegowina" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html">Herzegowina</placeName> den popovo polje <choice><abbr>u.</abbr><expan>und</expan></choice> das Linvanisko polje in <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html">Bosnien</placeName> bei <placeName key="Livno" ref="https://www.geonames.org/3294775/livno.html">Livno</placeName>. Projekte liegen schon vor, aber kein Geld. Ebenso notwendig seien Cisternen für die Gemeinden, die kein Wasser haben. Man müsste solche bauen mit der Jahreszahl 1908.<pb facs="#F_K-5_Bae_TB_8_109" n="49f"/>Ebenso Wasserleitungen, an denen auch grosser Mangel sei. Endlich Dammbauten an der <placeName key="Save" ref="https://www.geonames.org/1027190/save.html">Save</placeName>. Das wären nützliche Zeichen der Annexion. Es wäre auf diese Weise viel Boden zu gewinnen. Mit einem Wort: er verlangt eine Aktion für <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html">Bosnien</placeName>, so wie man sie für <placeName key="Dalmatien" ref="https://www.geonames.org/3202210/dalmatia.html">Dalmatien</placeName> versprochen hat, ein Programm, aus dem die Bevölkerung sehen würde, dass es jetzt anders ist und endlich etwas für sie geschieht.</p>
+            <p>Die poljes sind im Winter überschwemmt, <choice><abbr>insb.</abbr><expan>insbesondere</expan></choice> im Frühjahr viele Meter hoch Wasser, im Sommer ganz ausgetrocknet. <persName key="DimitrijevicLazo"><choice><abbr>Dvic</abbr><expan>Dimitrijevic</expan></choice></persName> behauptet dass sie in gut ackerbares Land verwandelt werden können.</p>
+            <p>In der Gesetzgebung, d.h. dem materiellen Recht, viel Unordnung. Früher waren die türkischen Gesetze nur auf dem Papier. Die Österreicher haben alles gesammelt, übersetzt <choice><abbr>u.</abbr><expan>und</expan></choice> jetzt Vielfältigkeit der Normen, die sehr schädlich.</p>
+            <p><hi rendition="#ul">Wahlrecht</hi>. Er ist gegen die confessionellen Curien, sie würden die Confessionen noch mehr trennen. Er ist für Listenscrutinium mit Proporz, so dass alle zur Geltung kommen, aber zusammen wählen. Auf diese Weise wird es auch zu Compromissen <choice><abbr>zw.</abbr><expan>zwischen</expan></choice> Orthodoxen <choice><abbr>u.</abbr><expan>und</expan></choice> Katholiken kommen.<pb facs="#F_K-5_Bae_TB_8_110" n="49g"/>Dann werden auch die Conservativen aller Confessionen zusammengehen <choice><abbr>u.</abbr><expan>und</expan></choice> die Freisinnigen auch. Wenn das nicht geschieht, werden die Conservativen, d. h. die Irredentisten, die Oberhand gewinnen. Das ist mir nicht ganz klar. Aber es ist sicher, dass er von der confessionellen Curienwahl die Unterdrückung seiner socialen Wünsche befürchtet. Er will eine Liste von 5–6 Abgeordneten <choice><abbr>u.</abbr><expan>und</expan></choice> Proporz <choice><abbr>u.</abbr><expan>und</expan></choice> hofft auf gesunde Compromisse.</p>
+            <p>Die Serben in den Städten sind irredentistisch, das Landvolk ist gut. Virilisten will er sich gefallen lassen, obwol sie nicht notwendig wären. Er will Stadt <choice><abbr>u.</abbr><expan>und</expan></choice> Land getrennt in den Wahlen, aber in beiden <choice><abbr>allgem.</abbr><expan>allgemeines</expan></choice> gleiches Wahlrecht, denn dann haben die armen Leute die Majorität <choice><abbr>u.</abbr><expan>und</expan></choice> der Fortschritt ist gesichert. Diese sind aber auch für <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName> zu gewinnen, die Reichen schwerer. Besonders interessant ist seine Schilderung der Verhältnisse in den Dörfern. Es gibt 2 Kategorien von Kmetenansässigkeiten, die Zadrugas, Hauscommunion, wo der Familienvater der Steuerträger ist, <choice><abbr>u.z.</abbr><expan>und zwar</expan></choice> gewöhnlich grössere Steuer zahlt, aber immer nur gewisse Anzal männlicher Personen repraesentiert. Daneben gibt es<pb facs="#F_K-5_Bae_TB_8_111" n="49h"/>eine Schicht selbständiger Kmeten, die eine geringere Steuerleistung haben 5–10 f. Diese Schicht ist entstanden dadurch dass Einzelne aus einer Zadruga ausgeschlossen wurden, dass eine Zadruga sich aufgelöst hat, ausgestorben ist. <persName key="DimitrijevicLazo"><choice><abbr>Dvic</abbr><expan>Dimitrijevic</expan></choice></persName> veranschlagt das numerische Verhältnis im großen Ganzen folgendermaßen: unter 1000 <del rendition="#s">Personen geh</del> männlichen Landleuten gehören 700 der Zadruga an <choice><abbr>u.</abbr><expan>und</expan></choice> diese verteilen sich vielleicht auf 100 Wahlstimmen, wenn man nur die Ältesten der Zadruga stimmen lässt. Daneben etwa 300 kleine Steuerzahler der andern Schichte. Wenn man nun ein Censuswahlrecht einführt, so überstimmen diese Kleinen die Ältesten der Zadruga, während wenn man ein breites Wahlrecht gewährt, alle Mitglieder der Zadruga diese kleinen Besitzer überstimmen. Diese Kleinen sind aber die wirtschaftlich <choice><abbr>u.</abbr><expan>und</expan></choice> politisch Abhängigen. Sie hängen wirtschaftlich vom gazda in den Städten ab <choice><abbr>u.</abbr><expan>und</expan></choice> daher auch politisch <choice><abbr>u.</abbr><expan>und</expan></choice> diese gazda sind irredentistisch gesinnt. <persName key="DimitrijevicLazo"><choice><abbr>Dvic</abbr><expan>Dimitrijevic</expan></choice></persName> ist der Überzeugung dass hier das breitere Wahlrecht das conservativere, für <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName> günstigere ist. Er glaubt auch, dass <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName> wenn es ein breites Wahlrecht gewährt, sich bei <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html">England</placeName> usw. im Ausland rechtfertigen <choice><abbr>u.</abbr><expan>und</expan></choice> rehabilitiren wird.</p><pb facs="#F_K-5_Bae_TB_8_112" n="49i"/>
+            <p>Eisenbahnwesen und Politik gegen <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html">Serbien</placeName>.</p>
+            <p>Er ist für Normalspur <placeName key="Doboj" ref="https://www.geonames.org/3201984/doboj.html">Doboy</placeName>-<placeName key="Samac" ref="https://www.geonames.org/3312577/samac.html">Samac</placeName> dann <placeName key="Brod" ref="https://www.geonames.org/3203651/brod.html">Brod</placeName>-<placeName key="Zenica" ref="https://www.geonames.org/3186573/zenica.html">Zenica</placeName>, dann <placeName key="Bugojno" ref="https://www.geonames.org/3203099/bugojno.html">Bugojno</placeName> <placeName key="Arzano" ref="https://www.geonames.org/3204762/arzano.html">Arzano</placeName>, <placeName key="Banjaluka" ref="https://www.geonames.org/3294893/banja-luka.html">Banjaluka</placeName>-<placeName key="Jaice" ref="https://www.geonames.org/3198934/jajce.html">Jaice</placeName>, <placeName key="Jaice" ref="https://www.geonames.org/3198934/jajce.html">Jaice</placeName>-<placeName key="Bugojno" ref="https://www.geonames.org/3203099/bugojno.html">Bugojno</placeName>-<placeName key="Travnik" ref="https://www.geonames.org/3188924/travnik.html">Travnik</placeName>-<placeName key="Zenica" ref="https://www.geonames.org/3186573/zenica.html">Zenica</placeName>. Dadurch gemischtes System, aber die Hauptlinien zwischen <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice><abbr>Ö.-U.</abbr><expan>Österreich-Ungarn</expan></choice></placeName> und dem Meere normalspurig.</p>
+            <p><placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html">Serbien</placeName> ist wirtschaftlich erdrosselt. Das darf <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice><abbr>Ö.</abbr><expan>Österreich</expan></choice></placeName> nicht. <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755"><hi rendition="#ul">Burian</hi></persName>, den ich Abend beim [...] sprach, meint, dass seine Bemerkungen <choice><abbr>wg</abbr><expan>wegen</expan></choice> Schichtung der Kmeten im Allgemeinen richtig seien, nur macht er die Kleinen schlechter als sie sind, für seine Zwecke. <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755">Burian</persName> gibt aber zu, dass etwas Wahres dran ist, <choice><abbr>u.</abbr><expan>und</expan></choice> will indirektes Wahlrecht machen, und zwar die Urwahlen nach <hi rendition="#ul">gleichem allgemeinen</hi> Wahlrecht, wodurch die Mitglieder der Zadruga stimmberechtigt werden.</p>
+            <p>Bezüglich der poljes sagt <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755">Burian</persName>, dass das Livanisko  polje schon zum grossen Teil entwässert sei; auch sind die culturtechnischen Aufgaben nicht so einfach <choice><abbr>u.</abbr><expan>und</expan></choice> kosten viel Geld. Die <choice><abbr>gemeins.</abbr><expan>gemeinsame</expan></choice> Regierung beabsichtigt nicht mit einer Geldforderung an die Parlamente heranzutreten. Eine Dotation von 30 <choice><abbr>Mill</abbr><expan>Millionen</expan></choice> (20 <choice><abbr>Mill</abbr><expan>Millionen</expan></choice> <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice><abbr>Ö.</abbr><expan>Österreich</expan></choice></placeName> und 10 <choice><abbr>Mill</abbr><expan>Millionen</expan></choice> <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"><choice><abbr>U.</abbr><expan>Ungarn</expan></choice></placeName>) wären aber zu rein culturtechnischen Aufgaben doch vielleicht zu erreichen.</p></div></body>
+    </text>
+</TEI>
+
