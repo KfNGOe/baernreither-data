@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_MF_6-2_1">
   <teiHeader xml:id="Bae_MF_6-2_2">
     <fileDesc xml:id="Bae_MF_6-2_3">
@@ -85,11 +86,8 @@
           <hi rendition="#ul" xml:id="Bae_MF_6-2_54">Die Wahlreform</hi>
         </head>
         <div type="chapter" xml:id="Bae_MF_6-2_2443">
-          <head xml:id="Bae_MF_6-2_55">
-            <title type="main" xml:id="Bae_MF_6-2_2450">1. Der 
-              <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_56">Kaiser</persName>
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2451">Der Kaiser</title>
+          <head xml:id="Bae_MF_6-2_55"><title type="main">1. Der 
+            <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_56">Kaiser</persName></title><title type="short">Der Kaiser</title>
           </head>
           <p xml:id="Bae_MF_6-2_57">
             <anchor xml:id="Bae_MF_6-2_1740"/>Das allgemeine 
@@ -477,10 +475,7 @@
         </div>
         <div type="chapter" xml:id="Bae_MF_6-2_259">
           <anchor xml:id="Bae_MF_6-2_260"/>
-          <head xml:id="Bae_MF_6-2_261">
-            <title type="main" xml:id="Bae_MF_6-2_2452">2. Die Vorgeschichte des allgemeinen Stimmrechts im Parlament</title>
-            <title type="short" xml:id="Bae_MF_6-2_2453">Allg. Wahlrecht</title>
-          </head>
+          <head xml:id="Bae_MF_6-2_261"><title type="main">2. Die Vorgeschichte des allgemeinen Stimmrechts im Parlament</title><title type="short">Allg. Wahlrecht</title></head>
           <p xml:id="Bae_MF_6-2_262">Ich will hier nur den Anteil erzählen, den ich an all diesen Dingen gehabt habe, denn eine vollständige Uebersicht der Wahlrechtsbewegung zu geben, liegt nicht in meiner Absicht. Ich will zeigen wie die parlamentarischen Ereignisse es begreiflich machen, daß der Gedanke an eine umfassende Wahlreform, wenn er auch zu Zeiten in den Hintergrund trat, immer wieder und stärker auftauchte.</p>
           <p xml:id="Bae_MF_6-2_263">Im 
             <del rendition="#s" xml:id="Bae_MF_6-2_264">Sommer</del>
@@ -728,12 +723,9 @@
         </div>
         <div type="chapter" xml:id="Bae_MF_6-2_401">
           <anchor xml:id="Bae_MF_6-2_402"/>
-          <head xml:id="Bae_MF_6-2_403">
-            <title type="main" xml:id="Bae_MF_6-2_2454">3. 
-              <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_404">Gautsch</persName> als Gegner des allgemeinen Stimmrechts 
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2455">Gautsch dagegen</title>
-          </head>
+          <head xml:id="Bae_MF_6-2_403"><title type="main">3. 
+            <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_404">Gautsch</persName> als Gegner des allgemeinen Stimmrechts 
+          </title><title type="short">Gautsch dagegen</title></head>
           <p xml:id="Bae_MF_6-2_405">Ich war am 
             <date when="1905-09-10" xml:id="Bae_MF_6-2_406">10. September 1905</date> bei 
             <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_407">Gautsch</persName>, als sich das Kabinett 
@@ -803,12 +795,8 @@
           </p>
         </div>
         <div type="chapter" xml:id="Bae_MF_6-2_454">
-          <head xml:id="Bae_MF_6-2_455">
-            <title type="main" xml:id="Bae_MF_6-2_2456">4. 
-              <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_456">Gautsch</persName> als Verteidiger des allgemeinen Stimmrechts
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2457">Gautsch dafür</title>
-          </head>
+          <head xml:id="Bae_MF_6-2_455"><title type="main">4. 
+            <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_456">Gautsch</persName> als Verteidiger des allgemeinen Stimmrechts</title><title type="short">Gautsch dafür</title></head>
           <!-- CA: ab hier gibt es eine entsprechende Textstelle in Bae_TB_7 -->
           <p xml:id="Bae_MF_6-2_457">
             <anchor xml:id="Bae_MF_6-2_1904"/>Als ich am 
@@ -1136,8 +1124,7 @@
             <app from="#Bae_TB_8_1524" type="equal" xml:id="Bae_MF_6-2_1980">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1981">. Aber ja keine Fühlung</rdg>
             </app>
-            <anchor xml:id="Bae_MF_6-2_629"/>oder 
-            <app from="#Bae_TB_8_127" type="notEqual" xml:id="Bae_MF_6-2_630">
+            <anchor xml:id="Bae_MF_6-2_629"/>oder <app from="#Bae_TB_8_127" type="notEqual" xml:id="Bae_MF_6-2_630">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_631">, </rdg>
             </app>
             <anchor xml:id="Bae_MF_6-2_2420"/>Verständigung mit den Parteien 
@@ -1801,16 +1788,13 @@
         </div>
         <div type="chapter" xml:id="Bae_MF_6-2_986">
           <anchor xml:id="Bae_MF_6-2_2442"/>
-          <head xml:id="Bae_MF_6-2_987">
-            <title type="main" xml:id="Bae_MF_6-2_2458">5. Die Wendung in 
-              <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_988">Ungarn</placeName> und die letzten Wochen 
-              <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_989">Gautsch'</persName>
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2459">Gautsch' Ende</title>
-          </head>
-          <app from="#Bae_TB_8_1717" type="notEqual" xml:id="Bae_MF_6-2_2425">
-            <rdg wit="#Bae_MF_6-2" xml:id="Bae_MF_6-2_2426">Sancta Simplicitas!</rdg>
-          </app>
+          <head xml:id="Bae_MF_6-2_987"><title type="main">5. Die Wendung in 
+            <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_MF_6-2_988">Ungarn</placeName> und die letzten Wochen 
+            <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_989">Gautsch'</persName></title><title type="short">Gautsch' Ende</title></head>
+            <app from="#Bae_TB_8_1717" type="notEqual" xml:id="Bae_MF_6-2_2425">
+              <rdg wit="#Bae_MF_6-2" xml:id="Bae_MF_6-2_2426">Sancta Simplicitas!</rdg>
+            </app>
+          
           <p xml:id="Bae_MF_6-2_990">
             <anchor xml:id="Bae_MF_6-2_991"/>Die Wiederbetrauung 
             <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-2_992">Fejérvárys</persName> mit der Führung der Geschäfte, die Auflösung des 
@@ -2073,18 +2057,16 @@
             <date when="1906-04-11" xml:id="Bae_MF_6-2_1133">11. April</date> war es klar, daß der österreichische Ministerpräsident den Kürzeren ziehen würde. Alle diese Umstände mussten 
             <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-2_1134">Gautsch</persName> die Ueberzeugung beibringen, daß er die Sache nicht weiter machen könne. Ich glaube, daß er in dem Bewußtsein gegangen ist und zwar leicht wie immer, weil er immer hofft, wiederzukommen. 
             <app from="#Bae_TB_8_748" type="notEqual" xml:id="Bae_MF_6-2_1135">
-              <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1136">Hätte der Kaiser das Programm Andrássy angenommen, den Husarenregimentern die ungar. Commandosprache gegeben u. die Feststellungen des 9er Comite’s sofort ins Werk gesetzt dagegen in der wirtschaftlichen Frage dem Ministerium die Hände gebunden, hätte er also gerade umgekehrt gehandelt wie er gehandelt hat, wäre es relativ besser gewesen. So aber wird die Aufrechthaltung der wirtschaftlichen Gemeinsamkeit den größten Schwierigkeiten begegnen u. wenn der Waffenstillstand abgelaufen, die Wahlen auf Grund der neuen Wahlordnung vollzogen sein werden, die militär. Forderungen von einem viel stärkeren Parlament u. einer viel stärkeren Regierung erhoben werden – wird kein Ausweg mehr sein. Lünz, am 21.4.06 </rdg>
+              <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1136">Hätte der Kaiser das Programm Andrássy angenommen, den Husarenregimentern die ungar. Commandosprache gegeben u. die Feststellungen des 9er Comite’s sofort ins Werk gesetzt dagegen in der wirtschaftlichen Frage dem Ministerium die Hände gebunden, hätte er also gerade umgekehrt gehandelt wie er gehandelt hat, wäre es relativ besser gewesen. So aber wird die Aufrechthaltung der wirtschaftlichen Gemeinsamkeit den größten Schwierigkeiten begegnen u. wenn der Waffenstillstand abgelaufen, die Wahlen auf Grund der neuen Wahlordnung vollzogen sein werden, die militär. Forderungen von einem viel stärkeren Parlament u. einer viel stärkeren Regierung erhoben werden – wird kein Ausweg mehr sein. Lünz, am 21.4.06
+              </rdg>
             </app>
           </p>
         </div>
         <div type="chapter" xml:id="Bae_MF_6-2_1138">
           <anchor xml:id="Bae_MF_6-2_1142"/>
-          <head xml:id="Bae_MF_6-2_1139">
-            <title type="main" xml:id="Bae_MF_6-2_2460">6. 
-              <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1140">Hohenlohe</persName>
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2461">Hohenlohe</title>
-          </head>
+          <head xml:id="Bae_MF_6-2_1139"><title type="main">6. 
+            <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_MF_6-2_1140">Hohenlohe</persName>
+          </title><title type="short">Hohenlohe</title></head>
           <p xml:id="Bae_MF_6-2_1141">Es war eine kurze, ehrliche, aber wenig glückliche Episode. 
             <app from="#Bae_TB_8_822" type="notEqual" xml:id="Bae_MF_6-2_1143">
               <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1144">Hohenlohe eine Enttäuschung. Ich will nicht hart sein, aber "Idealist" ist zu viel gesagt.</rdg>
@@ -2176,12 +2158,9 @@
           <note type="editorial" xml:id="Bae_MF_6-2_1199">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_058" n="28r" xml:id="Bae_MF_6-2_1200"/>
           <anchor xml:id="Bae_MF_6-2_1201"/>
-          <head xml:id="Bae_MF_6-2_1202">
-            <title type="main" xml:id="Bae_MF_6-2_2462">7. 
-              <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_MF_6-2_1203">Beck</persName> bis zur Verabschiedung der Wahlreform 
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2463">Beck</title>
-          </head>
+          <head xml:id="Bae_MF_6-2_1202"><title type="main">7. 
+            <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_MF_6-2_1203">Beck</persName> bis zur Verabschiedung der Wahlreform 
+          </title><title type="short">Beck</title></head>
           <p xml:id="Bae_MF_6-2_1204">Als 
             <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_MF_6-2_1205">Beck</persName> anfangs 
             <date when="1906-06-02" xml:id="Bae_MF_6-2_1206">Juni 1906</date> die Geschäfte übernahm, wurde von verschiedenen Seiten behauptet, daß in den obersten Kreisen bezüglich der Wahlreform eine Sinnesänderung eingetreten sei. Es wäre erklärlich gewesen, daß, wenn der Plan des allgemeinen Stimmrechts in 
@@ -2612,12 +2591,9 @@
         </div>
         <div type="chapter" xml:id="Bae_MF_6-2_1453">
           <anchor xml:id="Bae_MF_6-2_1454"/>
-          <head xml:id="Bae_MF_6-2_1455">
-            <title type="main" xml:id="Bae_MF_6-2_2464">8. Meine Denkschrift vom 
-              <date when="1906-08-13" xml:id="Bae_MF_6-2_1456">13. August 1906</date>
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2465">Denkschrift 1906</title>
-          </head>
+          <head xml:id="Bae_MF_6-2_1455"><title type="main">8. Meine Denkschrift vom 
+            <date when="1906-08-13" xml:id="Bae_MF_6-2_1456">13. August 1906</date>
+          </title><title type="short">Denkschrift 1906</title></head>
           <app from="#Bae_TB_8_1116" type="notEqual" xml:id="Bae_MF_6-2_1457">
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1458">Denkschrift verfasst für Nostitz – Fürstenberg, München 13.8.06</rdg>
           </app>
@@ -2824,12 +2800,9 @@
         </div>
         <div type="chapter" xml:id="Bae_MF_6-2_1551">
           <anchor xml:id="Bae_MF_6-2_1552"/>
-          <head xml:id="Bae_MF_6-2_1553">
-            <title type="main" xml:id="Bae_MF_6-2_2466">9. Das 
-              <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1554">Herrenhaus</orgName>
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2467">Herrenhaus</title>
-          </head>
+          <head xml:id="Bae_MF_6-2_1553"><title type="main">9. Das 
+            <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1554">Herrenhaus</orgName>
+          </title><title type="short">Herrenhaus</title></head>
           <p xml:id="Bae_MF_6-2_1555">Wir haben uns in der letzten Zeit mit dem Exekutivkomitee der verfassungstreuen Gruppe des 
             <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_MF_6-2_1556">Herrenhauses</orgName> in Verbindung gesetzt. Die Herren wissen aber noch viel weniger als wir was sie wollen. Wir konnten ihnen auch keinen bestimmten Antrag unterbreiten, weil bei uns die Intransigenten, vor allem 
             <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_MF_6-2_1557">Stürgkh</persName>, der bornierteste der Bornierten, dies immer wieder verhinderten; Wiewohl die überwiegende Majorität des 
@@ -2896,12 +2869,9 @@
           <pb facs="#F_K-11_Bae_MF_6-2_080" n="39r" xml:id="Bae_MF_6-2_1597"/>
           <anchor xml:id="Bae_MF_6-2_1598"/>
           <!-- CA: das gesamt folgende Kapitel hat keine Entsprechung in TB-8 - jetzt vorerst mit leerem rdg ausgzeichnet hier -->
-          <head xml:id="Bae_MF_6-2_1599">
-            <title type="main" xml:id="Bae_MF_6-2_2468">10. Meine Wahlbewerbung im 
-              <placeName key="Marienbad" ref="https://www.geonames.org/3071024/marianske-lazne.html" xml:id="Bae_MF_6-2_1600">Marienbader</placeName> Landbezirk 
-            </title>
-            <title type="short" xml:id="Bae_MF_6-2_2469">Wahlkampf</title>
-          </head>
+          <head xml:id="Bae_MF_6-2_1599"><title type="main">10. Meine Wahlbewerbung im 
+            <placeName key="Marienbad" ref="https://www.geonames.org/3071024/marianske-lazne.html" xml:id="Bae_MF_6-2_1600">Marienbader</placeName> Landbezirk 
+          </title><title type="short">Wahlkampf</title></head>
           <p xml:id="Bae_MF_6-2_1601">Von allen Seiten – den 
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_MF_6-2_1602">Kaiser</persName> nicht ausgenommen – wurden wir 
             <index xml:id="Bae_MF_6-2_1603">
