@@ -80,10 +80,10 @@
     <body xml:id="Bae_TB_9_53">
       <pb facs="#F_K-4_Bae_TB_9_002" n="1r" xml:id="Bae_TB_9_55"/>
       <div type="diaryEntry" xml:id="Bae_TB_9_54">
-        <p xml:id="Bae_TB_9_56">
+        <head xml:id="Bae_TB_9_56">
           <placeName key="Wien" xml:id="Bae_TB_9_57">Wien</placeName> am 
           <date when="1908-11-12" type="diaryEntry" xml:id="Bae_TB_9_58">12.11.08</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_59">Ich will wieder einmal ein Bild festhalten das sich heute bietet. Es ist die Cabinetsbildung 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_60">Bienerth</persName>. In ihr spiegelt sich der 
           <choice xml:id="Bae_TB_9_61">
@@ -215,10 +215,10 @@
         <p xml:id="Bae_TB_9_150">Nach derselben Methode Cabinetsbildung.</p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_151">
-        <p xml:id="Bae_TB_9_152">
+        <head xml:id="Bae_TB_9_152">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_153">Wien</placeName> am 
           <date when="1908-11-16" type="diaryEntry" xml:id="Bae_TB_9_154">16.11.1908</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_155">Wie 
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_156">Schreiner</persName> Minister wurde. Schon seit Wochen läuft er überall herum 
           <choice xml:id="Bae_TB_9_157">
@@ -444,10 +444,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_330">
-        <p xml:id="Bae_TB_9_331">
+        <head xml:id="Bae_TB_9_331">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_332">Wien</placeName>
           <date when="1908-11-17" type="diaryEntry" xml:id="Bae_TB_9_333">17.11.1908</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_334">
           <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_9_335">Rössler</persName> bei mir gewesen. In den Ministerien dieselbe Streberei. 
           <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_9_336">Rössler</persName> war zum "Leiter" des 
@@ -619,10 +619,10 @@
       <note type="editorial" xml:id="Bae_TB_9_455">Diese Seite ist leer.</note>
       <pb facs="#F_K-4_Bae_TB_9_016" n="8r" xml:id="Bae_TB_9_456"/>
       <div type="diaryEntry" xml:id="Bae_TB_9_453">
-        <p xml:id="Bae_TB_9_457">
+        <head xml:id="Bae_TB_9_457">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_458">Wien</placeName>
           <date when="1908-11-18" type="diaryEntry" xml:id="Bae_TB_9_459">18.11.1908</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_460">
           <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X" xml:id="Bae_TB_9_461">Nostitz</persName> hat gestern Abend von 
           <placeName key="Donaueschingen" ref="https://www.geonames.org/2936267/donaueschingen.html" xml:id="Bae_TB_9_462">
@@ -766,10 +766,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_561">
-        <p xml:id="Bae_TB_9_562">
+        <head xml:id="Bae_TB_9_562">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_563">Wien</placeName>
           <date when="1908-11-22" type="diaryEntry" xml:id="Bae_TB_9_564">22.11.1908</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_565">Von 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_566">Prag</placeName> zurück, wo ich mit 
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_9_567">Urban</persName>, 
@@ -830,10 +830,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_607">
-        <p xml:id="Bae_TB_9_608">
+        <head xml:id="Bae_TB_9_608">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_609">Wien</placeName>
           <date when="1908-11-24" type="diaryEntry" xml:id="Bae_TB_9_610">24.11.1908</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_611">Abend waren 
           <persName key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_TB_9_612">Dzieduszycki</persName>
           <choice xml:id="Bae_TB_9_613">
@@ -1016,10 +1016,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_744">
-        <p xml:id="Bae_TB_9_745">
+        <head xml:id="Bae_TB_9_745">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_746">Wien</placeName>
           <date when="1910-02-10" type="diaryEntry" xml:id="Bae_TB_9_747">10.2.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_748">Mit 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_749">Friedjung</persName>. 
@@ -1178,10 +1178,10 @@
         <pb facs="#F_K-4_Bae_TB_9_030" n="14r" xml:id="Bae_TB_9_849"/>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_850">
-        <p xml:id="Bae_TB_9_851">
+        <head xml:id="Bae_TB_9_851">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_852">Wien</placeName>
           <date when="1909-11-20" type="diaryEntry" xml:id="Bae_TB_9_853">20.11.09</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_854">Gestern Abend bei Hr. 
           <!-- identity unknown -->
           <persName key="DespicPero" ref="no_ref" xml:id="Bae_TB_9_855">Pero Despić</persName> mit 
@@ -2233,11 +2233,9 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_1623">
-        <p xml:id="Bae_TB_9_1624">Mit 
-          <!-- identity unknown -->
-          <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755" xml:id="Bae_TB_9_1625">Burián</persName> am 
+        <head xml:id="Bae_TB_9_1624">Mit <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755" xml:id="Bae_TB_9_1625">Burián</persName> am 
           <date when="1909-12-03" type="diaryEntry" xml:id="Bae_TB_9_1626">3.12.09</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_1627">Er ist der Meinung, dass auf die Serben absolut kein Verlass, dass nicht daran zu denken mit ihnen eine aufrichtige Entente herzustellen, dass sie immer unsere Feinde bleiben werden 
           <choice xml:id="Bae_TB_9_1628">
             <abbr xml:id="Bae_TB_9_1629">u.</abbr>
@@ -2279,9 +2277,10 @@
         <pb facs="#F_K-4_Bae_TB_9_058" n="28r" xml:id="Bae_TB_9_1650"/>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_1651">
-        <p xml:id="Bae_TB_9_1652">
+        <head xml:id="Bae_TB_9_1652">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1653">Wien</placeName>
-          <date when="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_1654">14.12.09</date>. Unter dem Eindruck des 
+          <date when="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_1654">14.12.09</date>.</head>
+        <p>Unter dem Eindruck des 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_1655">Friedjung</persName>processes. Sowol 
           <!-- identity unknown -->
@@ -2361,9 +2360,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_1709">
-        <p xml:id="Bae_TB_9_1710">
+        <head xml:id="Bae_TB_9_1710">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1711">Wien</placeName>
-          <date when="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_1712">23.12.09</date>. Der Process 
+          <date when="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_1712">23.12.09</date>.</head>
+        <p>Der Process 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_1713">Friedjung</persName> ist ein politisches Ereignis gewesen, der glücklicherweise zum Vorteil abschloss. 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1714">
@@ -2573,12 +2573,11 @@
         <pb facs="#F_K-4_Bae_TB_9_066" n="32r" xml:id="Bae_TB_9_1858"/>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_1859">
-        <p xml:id="Bae_TB_9_1860">
+        <head xml:id="Bae_TB_9_1860">
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_9_1861">Berlin</placeName> mit 
-          <!-- identity unknown -->
           <persName key="HentigOtto" ref="https://d-nb.info/gnd/116722258" xml:id="Bae_TB_9_1862">Haentig</persName>
           <date when="1910-03-01" type="diaryEntry" xml:id="Bae_TB_9_1863">3.1.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_1864">Vor 5 Monaten Immediatcommission eine Gelegenheit zum Studium einer Reform wie ich sie mir denke. 
           <!-- identity unknown -->
           <persName key="HentigOtto" ref="https://d-nb.info/gnd/116722258" xml:id="Bae_TB_9_1865">Hentig</persName> ganz meiner Meinung über den [...] Staat. Geht noch weiter, will ein Staatsrecht ähnlich [...] als Gegengewicht gegen das allgemeine Stimmrecht. Absolut notwendig, Continuität einer Vorbereitung [...steno] größeren Werkes [?]. Dazu Parlamente untauglich. Auch Ministerium [...steno] abhängig von Mehrheit in den Parlamenten. Dieses stabile Element hält 
@@ -2701,10 +2700,10 @@
       <note type="editorial" xml:id="Bae_TB_9_1951">Diese Seite ist leer.</note>
       <pb facs="#F_K-4_Bae_TB_9_072" n="35r" xml:id="Bae_TB_9_1952"/>
       <div type="diaryEntry" xml:id="Bae_TB_9_1949">
-        <p xml:id="Bae_TB_9_1953">
+        <head xml:id="Bae_TB_9_1953">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_1954">Prag</placeName>
           <date when="1910-02-02" type="diaryEntry" xml:id="Bae_TB_9_1955">2.2.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_1956">War 
           <add place="across" xml:id="Bae_TB_9_1957">vor</add>gestern in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1958">Wien</placeName>
@@ -2919,14 +2918,13 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2108">
-        <p xml:id="Bae_TB_9_2109">
+        <head xml:id="Bae_TB_9_2109">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_2110">Prag</placeName>
           <date when="1910-02-03" type="diaryEntry" xml:id="Bae_TB_9_2111">3.2.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2112">Mit 
           <persName key="HelmerGilbert" ref="https://d-nb.info/gnd/118548921" xml:id="Bae_TB_9_2113">Helmer</persName>. Erzählt, dass in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2114">Wien</placeName> für 
-          <!-- identity unknown -->
           <persName key="MarschallGodfried" ref="https://d-nb.info/gnd/1020897406" xml:id="Bae_TB_9_2115">Marschall</persName> Demonstrationen im Zuge waren. 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_2116">Kaiser</persName> lies 
           <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_9_2117">Lueger</persName> holen 
@@ -2991,10 +2989,10 @@
         <pb facs="#F_K-4_Bae_TB_9_080" n="39r" xml:id="Bae_TB_9_2158"/>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2159">
-        <p xml:id="Bae_TB_9_2160">
+        <head xml:id="Bae_TB_9_2160">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_2161">Prag</placeName>
           <date when="1910-02-05" type="diaryEntry" xml:id="Bae_TB_9_2162">5.2.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2163">Mit 
           <!-- identity unknown -->
           <persName key="SteinbergJulius" ref="https://d-nb.info/gnd/117246158" xml:id="Bae_TB_9_2164">Steinberg</persName>. Offiziöse Zusammenhänge. 
@@ -3429,11 +3427,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2478">
-        <p xml:id="Bae_TB_9_2479">
-          <!-- identity unknown -->
+        <head xml:id="Bae_TB_9_2479">
           <placeName key="Lovrana" ref="https://www.geonames.org/11049441/lovran.html" xml:id="Bae_TB_9_2480">Lovrana</placeName>
           <date when="1910-03-23" type="diaryEntry" xml:id="Bae_TB_9_2481">23.3.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2482">Die beiden Communiqués über die 
           <choice xml:id="Bae_TB_9_2483">
             <abbr xml:id="Bae_TB_9_2484">öst.-russ.</abbr>
@@ -3478,10 +3475,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2513">
-        <p xml:id="Bae_TB_9_2514">
+        <head xml:id="Bae_TB_9_2514">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2515">Wien</placeName>
           <date when="1910-03-25" type="diaryEntry" xml:id="Bae_TB_9_2516">25.3.10</date>. 
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2517">Mit 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_9_2518">
             <choice xml:id="Bae_TB_9_2519">
@@ -3562,10 +3559,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2577">
-        <p xml:id="Bae_TB_9_2578">
+        <head xml:id="Bae_TB_9_2578">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2579">Wien</placeName>
           <date when="1910-03-25" type="diaryEntry" xml:id="Bae_TB_9_2580">25.3.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2581">Man wird alle äussren Daten der 
           <choice xml:id="Bae_TB_9_2582">
             <abbr xml:id="Bae_TB_9_2583">sog.</abbr>
@@ -3615,10 +3612,10 @@
         <p xml:id="Bae_TB_9_2612">4.) Direkte Verhandlungen, die mit den beiderseitigen Communiqués endigen. Dieselben habe ich oben besprochen.</p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2613">
-        <p xml:id="Bae_TB_9_2614">
+        <head xml:id="Bae_TB_9_2614">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2615">Wien</placeName>
           <date when="1910-03-31" type="diaryEntry" xml:id="Bae_TB_9_2616">31.3.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2617">Utopie, dass unsere Bureaucratie, die hohe ein Schutz des 
           <choice xml:id="Bae_TB_9_2618">
             <abbr xml:id="Bae_TB_9_2619">Dtums</abbr>
@@ -3687,10 +3684,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2665">
-        <p xml:id="Bae_TB_9_2666">
+        <head xml:id="Bae_TB_9_2666">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2667">Wien</placeName>
           <date when="1910-04-02" type="diaryEntry" xml:id="Bae_TB_9_2668">2.4.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2669">Mit 
           <!-- identity unknown -->
           <persName key="SpitzmuellerAlexander" ref="https://d-nb.info/gnd/118867342" xml:id="Bae_TB_9_2670">Spitzmüller</persName> bei 
@@ -3752,10 +3749,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2707">
-        <p xml:id="Bae_TB_9_2708">
+        <head xml:id="Bae_TB_9_2708">
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_9_2709">Carlsbad</placeName>
           <date when="1910-04-06" type="diaryEntry" xml:id="Bae_TB_9_2710">6.4.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2711">Mit 
           <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765" xml:id="Bae_TB_9_2712">Chiari</persName>. Erzält dass ihn der 
           <persName key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005" xml:id="Bae_TB_9_2713">Tronfolger</persName> kommen lies 
@@ -3797,10 +3794,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2739">
-        <p xml:id="Bae_TB_9_2740">
+        <head xml:id="Bae_TB_9_2740">
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_9_2741">Carlsbad</placeName>
           <date when="1910-04-09" type="diaryEntry" xml:id="Bae_TB_9_2742">9.4.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2743">Mit 
           <persName key="ExnerWilhelmFranz" ref="https://d-nb.info/gnd/101300891" xml:id="Bae_TB_9_2744">Exner</persName>. Erzählt von Nordbahngeschichten. Regierung unter 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_2745">Beck</persName> unwahre Anwürfe gegen 
@@ -3822,10 +3819,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2762">
-        <p xml:id="Bae_TB_9_2763">
+        <head xml:id="Bae_TB_9_2763">
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_9_2764">Carlsbad</placeName>
           <date when="1910-04-10" type="diaryEntry" xml:id="Bae_TB_9_2765">10.4.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2766">
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_9_2767">Bienerths</persName> Verhalten in der 
           <choice xml:id="Bae_TB_9_2768">
@@ -4061,10 +4058,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2946">
-        <p xml:id="Bae_TB_9_2947">
+        <head xml:id="Bae_TB_9_2947">
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_9_2948">Carlsbad</placeName>
           <date when="1910-04-13" type="diaryEntry" xml:id="Bae_TB_9_2949">13.4.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2950">Beispiel wie die 
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_9_2951">
             <choice xml:id="Bae_TB_9_2952">
@@ -4122,9 +4119,9 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2991">
-        <p xml:id="Bae_TB_9_2992">
+        <head xml:id="Bae_TB_9_2992">
           <date when="1910-04-30" type="diaryEntry" xml:id="Bae_TB_9_2993">30.4.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_2994">Mit 
           <!-- identity unknown -->
           <persName key="LedererSiegfried" ref="https://d-nb.info/gnd/116852283" xml:id="Bae_TB_9_2995">Dr. Lederer</persName>. Ein Kanzleibeamter 
@@ -4162,7 +4159,7 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_3014">
-        <p xml:id="Bae_TB_9_3015">
+        <head xml:id="Bae_TB_9_3015">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3016">Prag</placeName>
           <date when="1910-10" type="diaryEntry" xml:id="Bae_TB_9_3017">
             <choice xml:id="Bae_TB_9_3018">
@@ -4170,7 +4167,7 @@
               <expan xml:id="Bae_TB_9_3020">Oktober</expan>
             </choice> 1910 
           </date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_3021">
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_9_3022">Pacák</persName> erzählte gestern mir 
           <choice xml:id="Bae_TB_9_3023">
@@ -4229,7 +4226,7 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_3068">
-        <p xml:id="Bae_TB_9_3069">
+        <head xml:id="Bae_TB_9_3069">
           <date when="1910-10-08" type="diaryEntry" xml:id="Bae_TB_9_3070">8. 
             <choice xml:id="Bae_TB_9_3071">
               <abbr xml:id="Bae_TB_9_3072">Oct.</abbr>
@@ -4237,7 +4234,7 @@
             </choice>1910 
           </date>. 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3074">Prag</placeName>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_3075">Hatte mit 
           <!-- identity unknown -->
           <persName key="Nadherny" ref="no_ref" xml:id="Bae_TB_9_3076">J. Nadherny</persName> Gespräch über 
@@ -4251,7 +4248,7 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_3082">
-        <p xml:id="Bae_TB_9_3083">
+        <head xml:id="Bae_TB_9_3083">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3084">Prag</placeName>
           <date when="1910-11" type="diaryEntry" xml:id="Bae_TB_9_3085">
             <choice xml:id="Bae_TB_9_3086">
@@ -4259,7 +4256,7 @@
               <expan xml:id="Bae_TB_9_3088">November</expan>
             </choice> 1910 
           </date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_3089">Überblick über die Ausgleichsverhandlungen in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_3090">Prag</placeName>. Im Herbst 
           <date when="1909" xml:id="Bae_TB_9_3091">1909</date>
@@ -4586,7 +4583,7 @@
         <pb facs="#F_K-4_Bae_TB_9_149" n="70v" xml:id="Bae_TB_9_3340"/>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_3341">
-        <p xml:id="Bae_TB_9_3342">
+        <head xml:id="Bae_TB_9_3342">
           <add place="left" xml:id="Bae_TB_9_3343">Diese folgende Zusammenstellung der Resultate der Verhandlungen, welche vom 
             <date when="1910-09-20" xml:id="Bae_TB_9_3344">20. 
               <choice xml:id="Bae_TB_9_3345">
@@ -4612,7 +4609,7 @@
             <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_9_3360">Grußgrundbesitz</orgName>
             <pb facs="#F_K-4_Bae_TB_9_151" n="71v" xml:id="Bae_TB_9_3361"/> nicht wieder in eklatanter Weise in den Vordergrund trete. 
           </add>
-        </p>
+        </head>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_3362">
         <head xml:id="Bae_TB_9_4246">
@@ -5545,10 +5542,10 @@
         <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_9_4040">Baernreithers</persName>. Diese finden sich an der entsprechenden Stelle im Manuskript Fragmente. 
       </note>
       <div type="diaryEntry" xml:id="Bae_TB_9_4041">
-        <p xml:id="Bae_TB_9_4042">
+        <head xml:id="Bae_TB_9_4042">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_9_4043">Lünz</placeName>
           <date when="1910-12-01" type="diaryEntry" xml:id="Bae_TB_9_4044">1.12.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_4045">Trotz der Verhandlungen in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_4046">Prag</placeName> brachte ich es doch noch fertig einmal zur Eröffnung der 
           <orgName key="Delegationen" ref="https://d-nb.info/gnd/35883-6" xml:id="Bae_TB_9_4047">Delegation</orgName>, dann zum 
@@ -5724,10 +5721,10 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_4170">
-        <p xml:id="Bae_TB_9_4171">
+        <head xml:id="Bae_TB_9_4171">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_9_4172">Lünz</placeName>
           <date when="1910-12-08" type="diaryEntry" xml:id="Bae_TB_9_4173">8.12.10</date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_9_4174">Ich hatte neulich ein Gespräch mit 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_4175">
             <choice xml:id="Bae_TB_9_4176">
