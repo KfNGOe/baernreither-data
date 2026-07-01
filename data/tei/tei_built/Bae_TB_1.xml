@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_1_1">
   <teiHeader xml:id="Bae_TB_1_2">
     <fileDesc xml:id="Bae_TB_1_3">
@@ -81,9 +83,7 @@
     <body xml:id="Bae_TB_1_50">
       <pb facs="#F_K-6_Bae_TB_1_002" n="1r" xml:id="Bae_TB_1_52"/>
       <div type="diaryEntry" xml:id="Bae_TB_1_51">
-        <head xml:id="Bae_TB_1_6115">
-          <date when="1897-01" type="diaryEntry" xml:id="Bae_TB_1_6116"/>
-        </head>
+        <head><date when="1897-01" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_1_53">
           <anchor xml:id="Bae_TB_1_54"/>Der 
           <date when="1897-12" xml:id="Bae_TB_1_55">Winter 1897</date> war für mich politisch bedeutsamer als irgend eine frühere Zeit, weil ich in die Pläne 
@@ -3445,8 +3445,7 @@
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_1_2458">
         <head xml:id="Bae_TB_1_2459">
-          <hi rendition="#ul" xml:id="Bae_TB_1_2460">III. Die Osterferien 1897</hi>
-          <date when="1897-05" type="diaryEntry" xml:id="Bae_TB_1_6117"/>
+          <hi rendition="#ul" xml:id="Bae_TB_1_2460">III. Die Osterferien 1897</hi><date when="1897-05" type="diaryEntry"></date>
         </head>
         <p xml:id="Bae_TB_1_2461">Ich war mir eine Erfrischung schuldig. Durch die Lektüre von 
           <persName key="MorelliGiovanni" ref="http://d-nb.info/gnd/1147292906" xml:id="Bae_TB_1_2462">Lermoliev</persName> hatte ich eine Menge abgerissene Fäden meiner Kunstkenntnisse wieder angesponnen. 
@@ -5597,14 +5596,13 @@
         </p>
       </div>
       <pb facs="#F_K-6_Bae_TB_1_119" n="59v" xml:id="Bae_TB_1_5750"/>
-      <note type="editorial" xml:id="Bae_TB_1_5814">Diese Seite ist leer.</note>
-      <pb facs="#F_K-6_Bae_TB_1_120" n="60r" xml:id="Bae_TB_1_3985"/>
+        <note type="editorial" xml:id="Bae_TB_1_5814">Diese Seite ist leer.</note>
+        <pb facs="#F_K-6_Bae_TB_1_120" n="60r" xml:id="Bae_TB_1_3985"/>
       <div type="diaryEntry" xml:id="Bae_TB_1_3984">
         <!-- Hinweis mit Bleistift: geschrieben Anfang Oktober 1897 Lünz -->
         <anchor xml:id="Bae_TB_1_3986"/>
         <head xml:id="Bae_TB_1_3987">
-          <hi rendition="#ul" xml:id="Bae_TB_1_3988">V. Die Sommerferien 1897</hi>
-          <date when="1897-10" type="diaryEntry" xml:id="Bae_TB_1_6118"/>
+          <hi rendition="#ul" xml:id="Bae_TB_1_3988">V. Die Sommerferien 1897</hi><date when="1897-10" type="diaryEntry"></date>
         </head>
         <app from="#Bae_MF_1_1899" type="equal" xml:id="Bae_TB_1_3989">
           <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_3990">V. Die Sommerferien 1897.</rdg>
