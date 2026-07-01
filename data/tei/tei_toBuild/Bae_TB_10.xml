@@ -77,14 +77,14 @@
   </teiHeader>
   <text xml:id="Bae_TB_10_52">
     <body xml:id="Bae_TB_10_53">
-      <div n="1911-04-05" type="diaryEntry" xml:id="Bae_TB_10_54">
-        <pb facs="#F_K5_Bae_TB_10_003" n="0v" xml:id="Bae_TB_10_55"/>
+      <pb facs="#F_K5_Bae_TB_10_003" n="0v" xml:id="Bae_TB_10_55"/>
         <note type="editorial" xml:id="Bae_TB_10_56">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_004" n="1r" xml:id="Bae_TB_10_57"/>
-        <p xml:id="Bae_TB_10_58">
+      <div type="diaryEntry" xml:id="Bae_TB_10_54">
+        <head>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_59">Wien</placeName>
-          <date when="1911-04-05" xml:id="Bae_TB_10_60">5.4.1911</date>
-        </p>
+          <date when="1911-04-05" type="diaryEntry" xml:id="Bae_TB_10_60">5.4.1911</date>
+        </head>
         <p xml:id="Bae_TB_10_61">
           <persName key="WelserZeno" ref="https://d-nb.info/gnd/1207883832" xml:id="Bae_TB_10_62">Welsersheimb</persName> erzählte mir heute dass als 
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_10_63">Körber</persName> seine Wasserstraßen in den 
@@ -137,11 +137,11 @@
           </choice> man vorläufig damit nicht zu rechnen brauche. 
         </p>
       </div>
-      <div n="1911-06-22" type="diaryEntry" xml:id="Bae_TB_10_96">
-        <p xml:id="Bae_TB_10_97">
+      <div type="diaryEntry" xml:id="Bae_TB_10_96">
+        <head xml:id="Bae_TB_10_97">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_98">Wien</placeName>
-          <date when="1911-06-22" xml:id="Bae_TB_10_99">22.6.1911</date>
-        </p>
+          <date when="1911-06-22" type="diaryEntry" xml:id="Bae_TB_10_99">22.6.1911</date>
+        </head>
         <p xml:id="Bae_TB_10_100">Gestern mit 
           <persName key="ZweybrueckFranz" ref="http://d-nb.info/gnd/116001550" xml:id="Bae_TB_10_101">Dr. Zweibrück</persName>, der viel in 
           <choice xml:id="Bae_TB_10_102">
@@ -192,17 +192,17 @@
           </choice> sind sehr geil auf finanzielle Gewinne. 
         </p>
       </div>
-      <div n="1911-06-13" type="diaryEntry" xml:id="Bae_TB_10_136">
-        <pb facs="#F_K5_Bae_TB_10_005" n="1v" xml:id="Bae_TB_10_137"/>
+      <pb facs="#F_K5_Bae_TB_10_005" n="1v" xml:id="Bae_TB_10_137"/>
         <note type="editorial" xml:id="Bae_TB_10_138">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_006" n="2r" xml:id="Bae_TB_10_139"/>
-        <p xml:id="Bae_TB_10_140">
+      <div type="diaryEntry" xml:id="Bae_TB_10_136">
+        <head xml:id="Bae_TB_10_140">
           <hi xml:id="Bae_TB_10_141">Meine 
             <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_142">Belgrader</placeName> Reise ( 
             <date when="1911-06-07" xml:id="Bae_TB_10_143">7.</date>- 
-            <date when="1911-06-13" xml:id="Bae_TB_10_144">13. Juni 1911</date>) 
+            <date when="1911-06-13" type="diaryEntry" xml:id="Bae_TB_10_144">13. Juni 1911</date>) 
           </hi>
-        </p>
+        </head>
         <p xml:id="Bae_TB_10_145">Fahrt über 
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_10_146">Budapest</placeName> sehr angenehm. Ankunft ½11 Uhr Abend. Keine Passschwierigkeiten. 
           <add place="across" xml:id="Bae_TB_10_147">Im</add> Mondschein über die Savebrücke nach 
@@ -333,16 +333,16 @@
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_244">Belgrad</placeName> selbst niedergeschriebenen Tagebuchblätter sind weiter hinten in diesem Buche eingeklebt. Leider flüchtig mit Bleistift. 
         </p>
       </div>
-      <div n="1911-06-24" type="diaryEntry" xml:id="Bae_TB_10_245">
-        <pb facs="#F_K5_Bae_TB_10_009" n="3v" xml:id="Bae_TB_10_246"/>
+      <pb facs="#F_K5_Bae_TB_10_009" n="3v" xml:id="Bae_TB_10_246"/>
         <note type="editorial" xml:id="Bae_TB_10_247">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_010" n="4r" xml:id="Bae_TB_10_248"/>
-        <p xml:id="Bae_TB_10_249">
+      <div type="diaryEntry" xml:id="Bae_TB_10_245">
+        <head xml:id="Bae_TB_10_249">
           <hi xml:id="Bae_TB_10_250">Stapellauf der ersten Dreadnought in 
             <placeName key="Triest" ref="https://www.geonames.org/3165185/trieste.html" xml:id="Bae_TB_10_251">Triest</placeName> den 
-            <date when="1911-06-24" xml:id="Bae_TB_10_252">24. Juni 1911</date>. 
+            <date when="1911-06-24" type="diaryEntry" xml:id="Bae_TB_10_252">24. Juni 1911</date>. 
           </hi>
-        </p>
+        </head>
         <p xml:id="Bae_TB_10_253">Abend des 
           <date when="1911-06-23" xml:id="Bae_TB_10_254">23.</date> von 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_255">Wien</placeName> nach 
@@ -411,15 +411,15 @@
           </choice> die südslawische Frage. 
         </p>
       </div>
-      <div n="1911-06-28" type="diaryEntry" xml:id="Bae_TB_10_303">
-        <pb facs="#F_K5_Bae_TB_10_011" n="4v" xml:id="Bae_TB_10_304"/>
+      <pb facs="#F_K5_Bae_TB_10_011" n="4v" xml:id="Bae_TB_10_304"/>
         <note type="editorial" xml:id="Bae_TB_10_305">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_012" n="5r" xml:id="Bae_TB_10_306"/>
-        <p xml:id="Bae_TB_10_307">
+      <div type="diaryEntry" xml:id="Bae_TB_10_303">
+        <head xml:id="Bae_TB_10_307">
           <hi xml:id="Bae_TB_10_308">Erste Sitzung der Commission für die Reform der Verwaltung am 
-            <date when="1911-06-28" xml:id="Bae_TB_10_310">28.6.1911</date>
+            <date when="1911-06-28" type="diaryEntry" xml:id="Bae_TB_10_310">28.6.1911</date>
           </hi>
-        </p>
+        </head>
         <p xml:id="Bae_TB_10_311">Ansprache 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_10_312">Bienerths</persName> schwach. Rede 
           <persName key="SchwartzenauErwin" ref="https://d-nb.info/gnd/1033476587" xml:id="Bae_TB_10_313">Schwarzenau</persName> geschwollen. Dann fuhr ich die Sache auf realen Boden. Stellte Antrag über die Geschäftsbehandlung der einstimmig angenommen wurde. Es war die Absicht, das Ganze "präsidiell" zu behandeln 
@@ -464,11 +464,11 @@
         <note type="editorial" xml:id="Bae_TB_10_344">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_014" n="6r" xml:id="Bae_TB_10_345"/>
       </div>
-      <div n="1911-11-18" type="diaryEntry" xml:id="Bae_TB_10_346">
-        <p xml:id="Bae_TB_10_347">
+      <div type="diaryEntry" xml:id="Bae_TB_10_346">
+        <head xml:id="Bae_TB_10_347">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_348">Wien</placeName>
-          <date when="1911-11-18" xml:id="Bae_TB_10_349">18.11.1911</date>
-        </p>
+          <date when="1911-11-18" type="diaryEntry" xml:id="Bae_TB_10_349">18.11.1911</date>
+        </head>
         <p xml:id="Bae_TB_10_350">Wieder bestättigt was ich schon lange weis 
           <choice xml:id="Bae_TB_10_351">
             <abbr xml:id="Bae_TB_10_352">u.</abbr>
@@ -501,11 +501,11 @@
           <persName key="SchwarzenbergKarl" ref="https://d-nb.info/gnd/1021821535" xml:id="Bae_TB_10_373">Carl Schwarzenberg</persName>, der mir voriges Jahr meine für den Ausgleich geschriebene Brochure direkt übel nahm. Als ich einwandte: ist sie denn schlecht geschrieben antwortete er "leider zu gut!" – 
         </p>
       </div>
-      <div n="1912-09-27" type="diaryEntry" xml:id="Bae_TB_10_374">
-        <p xml:id="Bae_TB_10_375">
+      <div type="diaryEntry" xml:id="Bae_TB_10_374">
+        <head xml:id="Bae_TB_10_375">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_376">Wien</placeName>
-          <date when="1912-09-27" xml:id="Bae_TB_10_377">27.9.1912</date>
-        </p>
+          <date when="1912-09-27" type="diaryEntry" xml:id="Bae_TB_10_377">27.9.1912</date>
+        </head>
         <!-- CA: muss man hier eine FN einfügen, warum hier plötzlich das Jahr wechselt? -->
         <p xml:id="Bae_TB_10_378">
           <persName key="KorytowskiWitold" ref="https://d-nb.info/gnd/1017344051" xml:id="Bae_TB_10_379">Koritowsky</persName> erzält mir: als er zum 
@@ -565,21 +565,20 @@
           </placeName> ist er für Alles allein verantwortlich. 
         </p>
       </div>
-      <div n="1911-11-22" type="diaryEntry" xml:id="Bae_TB_10_418">
-        <pb facs="#F_K5_Bae_TB_10_015" n="6v" xml:id="Bae_TB_10_419"/>
-        <note type="editorial" xml:id="Bae_TB_10_420">Hier finden sich Ergänzungen, Korrekturen oder Kommentare 
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_10_421">Baernreithers</persName>. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. 
+      <pb facs="#F_K5_Bae_TB_10_015" n="6v" xml:id="Bae_TB_10_419"/>
+        <note type="editorial" xml:id="Bae_TB_10_420">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. 
         </note>
         <pb facs="#F_K5_Bae_TB_10_016" n="7r" xml:id="Bae_TB_10_422"/>
-        <p xml:id="Bae_TB_10_423">
+      <div type="diaryEntry" xml:id="Bae_TB_10_418">
+        <head xml:id="Bae_TB_10_423">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_424">
             <choice xml:id="Bae_TB_10_425">
               <abbr xml:id="Bae_TB_10_426">W.</abbr>
               <expan xml:id="Bae_TB_10_427">Wien</expan>
             </choice>
           </placeName>
-          <date when="1911-11-22" xml:id="Bae_TB_10_428">22.11.1911</date>
-        </p>
+          <date when="1911-11-22" type="diaryEntry" xml:id="Bae_TB_10_428">22.11.1911</date>
+        </head>
         <p xml:id="Bae_TB_10_429">Man kann die Fehler der deutschen Führer nicht so formuliren dass man sagt: sie hätten nicht gewusst die deutsche Hegemonie zu erhalten. Das war überhaupt nicht möglich bei der auftretenden Kraft 
           <del rendition="#s" xml:id="Bae_TB_10_430">der Slawen insbes.</del> der Czechen, der selbständigen Stellung, die den Polen eingeräumt worden war 
           <choice xml:id="Bae_TB_10_431">
@@ -624,14 +623,14 @@
           </choice> durchgesetzt haben – darin liegt ihre Kurzsichtigkeit und ihre Fehler. 
         </p>
       </div>
-      <div n="1911-12-14" type="diaryEntry" xml:id="Bae_TB_10_462">
-        <pb facs="#F_K5_Bae_TB_10_017" n="7v" xml:id="Bae_TB_10_463"/>
+      <pb facs="#F_K5_Bae_TB_10_017" n="7v" xml:id="Bae_TB_10_463"/>
         <note type="editorial" xml:id="Bae_TB_10_464">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_018" n="8r" xml:id="Bae_TB_10_465"/>
-        <p xml:id="Bae_TB_10_466">
+      <div type="diaryEntry" xml:id="Bae_TB_10_462">
+        <head xml:id="Bae_TB_10_466">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_467">Wien</placeName>
-          <date when="1911-12-14" xml:id="Bae_TB_10_468">14.12.1911</date>
-        </p>
+          <date when="1911-12-14" type="diaryEntry" xml:id="Bae_TB_10_468">14.12.1911</date>
+        </head>
         <p xml:id="Bae_TB_10_469">Gestern Abend langes Gespräch bis ½2 Uhr Nachts im 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_10_470">Club</orgName> mit 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_10_471">
@@ -896,10 +895,11 @@
           </orgName> berufen werde. Wird wohl geschehen. 
         </p>
       </div>
-      <div n="1911-12-27" type="diaryEntry" xml:id="Bae_TB_10_669">
-        <p xml:id="Bae_TB_10_670">
+      <div type="diaryEntry" xml:id="Bae_TB_10_669">
+        <head xml:id="Bae_TB_10_670">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_671">Wien</placeName> am 
-          <date when="1911-12-27" xml:id="Bae_TB_10_672">27.12.1911</date>. Mit 
+          <date when="1911-12-27" type="diaryEntry" xml:id="Bae_TB_10_672">27.12.1911</date>.</head>
+        <p>Mit 
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_10_673">Friedjung</persName>. Er schwankt bezüglich 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_674">
             <choice xml:id="Bae_TB_10_675">
@@ -1055,10 +1055,10 @@
           <rdg xml:id="Bae_TB_10_783">[...]</rdg>
         </app>
       </div>
-      <div n="1912-01-31" type="diaryEntry" xml:id="Bae_TB_10_784">
-        <p xml:id="Bae_TB_10_785">
-          <date when="1911-01-31" xml:id="Bae_TB_10_786">31.1.1912</date>
-        </p>
+      <div type="diaryEntry" xml:id="Bae_TB_10_784">
+        <head xml:id="Bae_TB_10_785">
+          <date when="1911-01-31" type="diaryEntry" xml:id="Bae_TB_10_786">31.1.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_787">Gestern Abend war ich bei dem jungen 
           <choice xml:id="Bae_TB_10_788">
             <abbr xml:id="Bae_TB_10_789">B.</abbr>
@@ -1259,12 +1259,12 @@
           <placeName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_10_933">Italien</placeName> für seine Haltung bekommen hat. 
         </p>
       </div>
-      <div n="1912-02-10" type="diaryEntry" xml:id="Bae_TB_10_934">
-        <p xml:id="Bae_TB_10_935">
-          <date when="1912-02-10" xml:id="Bae_TB_10_936">
+      <div type="diaryEntry" xml:id="Bae_TB_10_934">
+        <head xml:id="Bae_TB_10_935">
+          <date when="1912-02-10" type="diaryEntry" xml:id="Bae_TB_10_936">
             <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_937">Wien</placeName> 10.2.1912 
           </date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_10_938">Mit 
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_10_939">
             <choice xml:id="Bae_TB_10_940">
@@ -1322,15 +1322,15 @@
         <pb facs="#F_K5_Bae_TB_10_029" n="13v" xml:id="Bae_TB_10_978"/>
         <note type="editorial" xml:id="Bae_TB_10_979">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
       </div>
-      <div n="1912-03-06" type="diaryEntry" xml:id="Bae_TB_10_980">
-        <pb facs="#F_K5_Bae_TB_10_030" n="14r" xml:id="Bae_TB_10_981"/>
-        <p xml:id="Bae_TB_10_982">
+      <pb facs="#F_K5_Bae_TB_10_030" n="14r" xml:id="Bae_TB_10_981"/>
+      <div type="diaryEntry" xml:id="Bae_TB_10_980">
+        <head xml:id="Bae_TB_10_982">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_983">Wien</placeName>
-          <date when="1912-03-06" xml:id="Bae_TB_10_984">6.3. 
+          <date when="1912-03-06" type="diaryEntry" xml:id="Bae_TB_10_984">6.3. 
             <del rendition="#s" xml:id="Bae_TB_10_985">1911</del>
             <add place="across" xml:id="Bae_TB_10_986">1912</add>
           </date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_10_987">Zu 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_988">Aehrenthal</persName>. Mit dem feierlichsten Pomp des Hofes und der Zeitungen ist 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_989">
@@ -1369,15 +1369,15 @@
         <pb facs="#F_K5_Bae_TB_10_031" n="14v" xml:id="Bae_TB_10_1012"/>
         <note type="editorial" xml:id="Bae_TB_10_1013">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
       </div>
-      <div n="1912-03-28" type="diaryEntry" xml:id="Bae_TB_10_1014">
-        <pb facs="#F_K5_Bae_TB_10_032" n="15r" xml:id="Bae_TB_10_1015"/>
-        <p xml:id="Bae_TB_10_1016">
+      <pb facs="#F_K5_Bae_TB_10_032" n="15r" xml:id="Bae_TB_10_1015"/>
+      <div type="diaryEntry" xml:id="Bae_TB_10_1014">
+        <head xml:id="Bae_TB_10_1016">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_1017">Wien</placeName>
-          <date when="1912-03-28" xml:id="Bae_TB_10_1018">
+          <date when="1912-03-28" type="diaryEntry" xml:id="Bae_TB_10_1018">
             <del rendition="#s" xml:id="Bae_TB_10_1019">25.</del>
             <add place="across" xml:id="Bae_TB_10_1020">28.</add>3.1912 
           </date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_10_1021">Der gute 
           <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_10_1022">Urban</persName> war neulich in Audienz in 
           <placeName key="Schoenbrunn" ref="https://www.geonames.org/6354998/schloss-schoenbrunn.html" xml:id="Bae_TB_10_1023">Schönbrunn</placeName> um sich für die Ernennung zum 
@@ -1414,12 +1414,12 @@
         <pb facs="#F_K5_Bae_TB_10_033" n="15v" xml:id="Bae_TB_10_1048"/>
         <note type="editorial" xml:id="Bae_TB_10_1049">Diese Seite ist leer.</note>
       </div>
-      <div n="1912-03-26" type="diaryEntry" xml:id="Bae_TB_10_1050">
-        <pb facs="#F_K5_Bae_TB_10_034" n="16r" xml:id="Bae_TB_10_1051"/>
-        <p xml:id="Bae_TB_10_1052">
+      <pb facs="#F_K5_Bae_TB_10_034" n="16r" xml:id="Bae_TB_10_1051"/>
+      <div type="diaryEntry" xml:id="Bae_TB_10_1050">
+        <head xml:id="Bae_TB_10_1052">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_1053">Wien</placeName> am 
-          <date when="1912-03-26" xml:id="Bae_TB_10_1054">26.3.1912</date>
-        </p>
+          <date when="1912-03-26" type="diaryEntry" xml:id="Bae_TB_10_1054">26.3.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_1055">Ich war am 
           <date when="1912-03-21" xml:id="Bae_TB_10_1056">21. 
             <choice xml:id="Bae_TB_10_1057">
@@ -1607,12 +1607,12 @@
         <pb facs="#F_K5_Bae_TB_10_039" n="18v" xml:id="Bae_TB_10_1197"/>
         <note type="editorial" xml:id="Bae_TB_10_1198">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
       </div>
-      <div n="1912-05-05" type="diaryEntry" xml:id="Bae_TB_10_1199">
-        <pb facs="#F_K5_Bae_TB_10_040" n="19r" xml:id="Bae_TB_10_1200"/>
-        <p xml:id="Bae_TB_10_1201">
+      <pb facs="#F_K5_Bae_TB_10_040" n="19r" xml:id="Bae_TB_10_1200"/>
+      <div type="diaryEntry" xml:id="Bae_TB_10_1199">
+        <head xml:id="Bae_TB_10_1201">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_1202">Wien</placeName>
-          <date when="1912-05-05" xml:id="Bae_TB_10_1203">5.5.1912</date>
-        </p>
+          <date when="1912-05-05" type="diaryEntry" xml:id="Bae_TB_10_1203">5.5.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_1204">
           <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_10_1205">Paul Schulz</persName> hat heute eine gute Bemerkung gemacht. Er meinte dass schliesslich alle 
           <choice xml:id="Bae_TB_10_1206">
@@ -1679,16 +1679,16 @@
           </persName> jetzt in der Periode der Ueberschätzung sei. Er wird mit der Zeit legendarisch werden. 
         </p>
       </div>
-      <div n="1912-05-07" type="diaryEntry" xml:id="Bae_TB_10_1255">
-        <p xml:id="Bae_TB_10_1256">
+      <div type="diaryEntry" xml:id="Bae_TB_10_1255">
+        <head xml:id="Bae_TB_10_1256">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_1257">
             <choice xml:id="Bae_TB_10_1258">
               <abbr xml:id="Bae_TB_10_1259">W.</abbr>
               <expan xml:id="Bae_TB_10_1260">Wien</expan>
             </choice>
           </placeName>
-          <date when="1912-05-07" xml:id="Bae_TB_10_1261">7.5.1912</date>
-        </p>
+          <date when="1912-05-07" type="diaryEntry" xml:id="Bae_TB_10_1261">7.5.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_1262">
           <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_10_1263">
             <choice xml:id="Bae_TB_10_1264">
@@ -1836,11 +1836,11 @@
           </choice> nur seine Handlanger erblickte. 
         </p>
       </div>
-      <div n="1912-05-22" type="diaryEntry" xml:id="Bae_TB_10_1372">
-        <p xml:id="Bae_TB_10_1373">
+      <div type="diaryEntry" xml:id="Bae_TB_10_1372">
+        <head xml:id="Bae_TB_10_1373">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_1374">Wien</placeName>
-          <date when="1912-05-22" xml:id="Bae_TB_10_1375">22.5.1912</date>
-        </p>
+          <date when="1912-05-22" type="diaryEntry" xml:id="Bae_TB_10_1375">22.5.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_1376">In 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_10_1377">Prag</placeName> mit 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_10_1378">
@@ -1931,11 +1931,11 @@
           </choice> dem wir grosse Dienste erwiesen haben, war zeitweilig sehr kühl gegen uns, kühl wie ein Eisklumpen. Das ist unter dem neuen Minister besser geworden." 
         </p>
       </div>
-      <div n="1912-05-23" type="diaryEntry" xml:id="Bae_TB_10_1446">
-        <p xml:id="Bae_TB_10_1447">
+      <div type="diaryEntry" xml:id="Bae_TB_10_1446">
+        <head xml:id="Bae_TB_10_1447">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_1448">Wien</placeName>
-          <date when="1912-05-23" xml:id="Bae_TB_10_1449">23.5.1912</date>
-        </p>
+          <date when="1912-05-23" type="diaryEntry" xml:id="Bae_TB_10_1449">23.5.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_1450">
           <persName key="GiskraKarl" ref="https://d-nb.info/gnd/1272253058" xml:id="Bae_TB_10_1451">Giskra</persName> erzählt mir aus der Zeit als er in 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_1452">Belgrad</placeName> Secretär war, 
@@ -1979,11 +1979,11 @@
           <persName key="GiskraKarl" ref="https://d-nb.info/gnd/1272253058" xml:id="Bae_TB_10_1482">Giskra</persName> war bei diesen Gesprächen dabei. Vielleicht waren diese Sachen nur halb im Ernst und halb im Scherz gesagt, denn sonst wären sie nicht erklärlich. Aber wie immer es war, der Ton erklärt den Hass, den wir dort gesät haben. 
         </p>
       </div>
-      <div n="1912-07" type="diaryEntry" xml:id="Bae_TB_10_1483">
-        <p xml:id="Bae_TB_10_1484">
+      <div type="diaryEntry" xml:id="Bae_TB_10_1483">
+        <head xml:id="Bae_TB_10_1484">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_10_1485">Lünz</placeName> im 
-          <date when="1912-07" xml:id="Bae_TB_10_1486">Juli 1912</date>. 
-        </p>
+          <date when="1912-07" type="diaryEntry" xml:id="Bae_TB_10_1486">Juli 1912</date>. 
+        </head>
         <p xml:id="Bae_TB_10_1487">Möchte über den Gang der deutsch- 
           <choice xml:id="Bae_TB_10_1488">
             <abbr xml:id="Bae_TB_10_1489">čech.</abbr>
@@ -2652,11 +2652,11 @@
           <pb facs="#F_K5_Bae_TB_10_066" n="32r" xml:id="Bae_TB_10_2007"/>schlucken müssen, worauf ich frug, ob das so ohne weiteres geschehen werde, worauf er: es wird uns nichts übrig bleiben - aber diejenigen, die es gemacht haben, werden geschlachtet! 
         </p>
       </div>
-      <div n="1912-08-04" type="diaryEntry" xml:id="Bae_TB_10_2008">
-        <p xml:id="Bae_TB_10_2009">
+      <div type="diaryEntry" xml:id="Bae_TB_10_2008">
+        <head xml:id="Bae_TB_10_2009">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_10_2010">Lünz</placeName>
-          <date when="1912-08-04" xml:id="Bae_TB_10_2011">4.8.1912</date>
-        </p>
+          <date when="1912-08-04" type="diaryEntry" xml:id="Bae_TB_10_2011">4.8.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_2012">Verhandlungen an einigen toten Punkten angelangt – aus Ermüdung unterbrochen, weil keine Aussicht war über die noch unbereinigten Punkte hinwegzukommen.</p>
         <p xml:id="Bae_TB_10_2013">Neulich (Anfang Juli) war 
           <persName key="NovakovicStojan" ref="https://d-nb.info/gnd/117068284" xml:id="Bae_TB_10_2014">Novakovic</persName>, der jetzige Präsident der 
@@ -2700,11 +2700,11 @@
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_2045">Serbiens</placeName>. Ich hoffte es werde zwischen den beiden Präsidenten ein enger Ideenaustausch stattfinden – sie fanden sich aber nur in gewissen äusseren Organisationsfragen der beiden Akademien.
         </p>
       </div>
-      <div n="1912-08" type="diaryEntry" xml:id="Bae_TB_10_2047">
-        <p xml:id="Bae_TB_10_2048">
+      <div type="diaryEntry" xml:id="Bae_TB_10_2047">
+        <head xml:id="Bae_TB_10_2048">
           <placeName key="Franzensbad" ref="https://www.geonames.org/11922011/frantiskovy-lazne.html" xml:id="Bae_TB_10_2049">Franzensbad</placeName>
-          <date when="1912-08" xml:id="Bae_TB_10_2050">August 1912</date>
-        </p>
+          <date when="1912-08" type="diaryEntry" xml:id="Bae_TB_10_2050">August 1912</date>
+        </head>
         <!-- DC: Ab hier referiert Baernreither aus seinen Notizzetteln über die Reise nach Serbien im Juni 1911, von fol. 40 bis fol. 49 klebte er diese Notizzettel direkt ein, ohne den Text auszuformulieren. Daher sind ab dort sehr viele Passagen in Stenographie enthalten. -->
         <p xml:id="Bae_TB_10_2051">Ich will aus den Notizen, die ich mir im vorigen Frühjahre in 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_2052">Belgrad</placeName> über meine dortigen Eindrücke machte, hier etwas geordneter zusammenstellen. Zur Vorbereitung meiner Reise nach 
@@ -5035,21 +5035,20 @@
           </placeName>. 
         </p>
       </div>
-      <div n="1912-11-03" type="diaryEntry" xml:id="Bae_TB_10_3824">
-        <pb facs="#F_K5_Bae_TB_10_101" n="49v" xml:id="Bae_TB_10_3825"/>
-        <note type="editorial" xml:id="Bae_TB_10_3826">Hier finden sich Ergänzungen, Korrekturen oder Kommentare 
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_10_3827">Baernreithers</persName>. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. 
+      <pb facs="#F_K5_Bae_TB_10_101" n="49v" xml:id="Bae_TB_10_3825"/>
+        <note type="editorial" xml:id="Bae_TB_10_3826">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. 
         </note>
         <pb facs="#F_K5_Bae_TB_10_102" n="50r" xml:id="Bae_TB_10_3828"/>
-        <p xml:id="Bae_TB_10_3829">
+      <div type="diaryEntry" xml:id="Bae_TB_10_3824">
+        <head xml:id="Bae_TB_10_3829">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_3830">Wien</placeName> am 
-          <date when="1912-11-03" xml:id="Bae_TB_10_3831">3. 
+          <date when="1912-11-03" type="diaryEntry" xml:id="Bae_TB_10_3831">3. 
             <choice xml:id="Bae_TB_10_3832">
               <abbr xml:id="Bae_TB_10_3833">Nobr.</abbr>
               <expan xml:id="Bae_TB_10_3834">November</expan>
             </choice> 12 
           </date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_10_3835">Hatte heute eine lange Besprechung mit 
           <persName key="NeurathOtto" ref="https://d-nb.info/gnd/118587420" xml:id="Bae_TB_10_3836">Professor Neurath</persName> von der 
           <orgName key="Handelsakademie" ref="https://d-nb.info/gnd/380838-5" xml:id="Bae_TB_10_3837">Handelsakademie</orgName>. Er war in in 
@@ -5114,12 +5113,12 @@
           </choice> jetzt das Risorgimento sehr anschaulich macht. 
         </p>
       </div>
-      <div n="1912-11-08" type="diaryEntry" xml:id="Bae_TB_10_3885">
-        <pb facs="#F_K5_Bae_TB_10_106" n="52r" xml:id="Bae_TB_10_3886"/>
-        <p xml:id="Bae_TB_10_3887">
+      <pb facs="#F_K5_Bae_TB_10_106" n="52r" xml:id="Bae_TB_10_3886"/>
+      <div type="diaryEntry" xml:id="Bae_TB_10_3885">
+        <head xml:id="Bae_TB_10_3887">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_10_3888">Budapest</placeName>
-          <date when="1912-11-08" xml:id="Bae_TB_10_3889">8.11.1912</date>
-        </p>
+          <date when="1912-11-08" type="diaryEntry" xml:id="Bae_TB_10_3889">8.11.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_3890">Gestern Abend hatte ich mit 
           <persName key="SzellKalman" ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_TB_10_3891">Széll</persName>, 
           <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_10_3892">Czernin</persName> und 
@@ -5312,16 +5311,16 @@
           <persName key="SzellKalman" ref="https://d-nb.info/gnd/1084341417" xml:id="Bae_TB_10_4037">Szell</persName> war der Ansicht dass die früheren Grenzbegünstigungen wieder ins Leben zu rufen wären. 
         </p>
       </div>
-      <div n="1912-11-12" type="diaryEntry" xml:id="Bae_TB_10_4038">
-        <pb facs="#F_K5_Bae_TB_10_111" n="54v" xml:id="Bae_TB_10_4039"/>
+      <pb facs="#F_K5_Bae_TB_10_111" n="54v" xml:id="Bae_TB_10_4039"/>
         <note type="editorial" xml:id="Bae_TB_10_4040">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_112" n="55r" xml:id="Bae_TB_10_4041"/>
-        <p xml:id="Bae_TB_10_4042">
+      <div type="diaryEntry" xml:id="Bae_TB_10_4038">
+        <head xml:id="Bae_TB_10_4042">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_10_4043">Budapest</placeName>. 
-          <date when="1912-11-12" xml:id="Bae_TB_10_4044">12.11. 
+          <date when="1912-11-12" type="diaryEntry" xml:id="Bae_TB_10_4044">12.11. 
             <del rendition="#s" xml:id="Bae_TB_10_4045">12</del>.1912 
           </date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_10_4046">Ich war am 
           <date when="1912-11-08" xml:id="Bae_TB_10_4047">8.</date> Abend 
           <choice xml:id="Bae_TB_10_4048">
@@ -5863,16 +5862,16 @@
           </choice> Condominium. 
         </p>
       </div>
-      <div n="1912-11-18" type="diaryEntry" xml:id="Bae_TB_10_4458">
-        <p xml:id="Bae_TB_10_4459">
+      <div type="diaryEntry" xml:id="Bae_TB_10_4458">
+        <head xml:id="Bae_TB_10_4459">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_10_4460">
             <choice xml:id="Bae_TB_10_4461">
               <abbr xml:id="Bae_TB_10_4462">Budap.</abbr>
               <expan xml:id="Bae_TB_10_4463">Budapest</expan>
             </choice>
           </placeName>
-          <date when="1912-11-18" xml:id="Bae_TB_10_4464">18.11.12</date>
-        </p>
+          <date when="1912-11-18" type="diaryEntry" xml:id="Bae_TB_10_4464">18.11.12</date>
+        </head>
         <p xml:id="Bae_TB_10_4465">Am 
           <date when="1912-11-15" xml:id="Bae_TB_10_4466">15.</date> Abend hatten 
           <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_10_4467">Schwegel</persName>
@@ -5918,16 +5917,15 @@
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_4500">Serbien</placeName>. Die Serben sind frech, das ist wahr, wir fangen aber an unvernünftig empfindlich zu werden, was wir als grosser mächtiger Staat nicht notwendig haben. 
         </p>
       </div>
-      <div n="1912-11-19" type="diaryEntry" xml:id="Bae_TB_10_4501">
-        <pb facs="#F_K5_Bae_TB_10_125" n="61v" xml:id="Bae_TB_10_4502"/>
-        <note type="editorial" xml:id="Bae_TB_10_4503">Hier finden sich Ergänzungen, Korrekturen oder Kommentare 
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_10_4504">Baernreithers</persName>. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. 
+      <pb facs="#F_K5_Bae_TB_10_125" n="61v" xml:id="Bae_TB_10_4502"/>
+        <note type="editorial" xml:id="Bae_TB_10_4503">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. 
         </note>
         <pb facs="#F_K5_Bae_TB_10_126" n="62r" xml:id="Bae_TB_10_4505"/>
-        <p xml:id="Bae_TB_10_4506">
+      <div type="diaryEntry" xml:id="Bae_TB_10_4501">
+        <head xml:id="Bae_TB_10_4506">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_10_4507">Budapest</placeName>
-          <date when="1912-11-19" xml:id="Bae_TB_10_4508">19.11.1912</date>
-        </p>
+          <date when="1912-11-19" type="diaryEntry" xml:id="Bae_TB_10_4508">19.11.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_4509">Es wird immer klarer dass 
           <persName key="BerchtoldLeopold" ref="https://d-nb.info/gnd/123557372" xml:id="Bae_TB_10_4510">
             <choice xml:id="Bae_TB_10_4511">
@@ -6001,14 +5999,14 @@
           </choice>. 
         </p>
       </div>
-      <div n="1912-11-21" type="diaryEntry" xml:id="Bae_TB_10_4565">
-        <pb facs="#F_K5_Bae_TB_10_127" n="62v" xml:id="Bae_TB_10_4566"/>
+      <pb facs="#F_K5_Bae_TB_10_127" n="62v" xml:id="Bae_TB_10_4566"/>
         <note type="editorial" xml:id="Bae_TB_10_4567">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_128" n="63r" xml:id="Bae_TB_10_4568"/>
-        <p xml:id="Bae_TB_10_4569">
+      <div type="diaryEntry" xml:id="Bae_TB_10_4565">
+        <head xml:id="Bae_TB_10_4569">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_10_4570">Budapest</placeName> den 
-          <date when="1912-11-21" xml:id="Bae_TB_10_4571">21.11.12</date>
-        </p>
+          <date when="1912-11-21" type="diaryEntry" xml:id="Bae_TB_10_4571">21.11.12</date>
+        </head>
         <p xml:id="Bae_TB_10_4572">Gestern abends im 
           <orgName key="CasinoNational" ref="no_ref" xml:id="Bae_TB_10_4573">Nationalcasino</orgName> mit 
           <persName key="ZichyAladar" ref="https://d-nb.info/gnd/171366980" xml:id="Bae_TB_10_4574">Tivadar Zichy</persName>. Auch er ist für Monitore in der Donau 
@@ -6132,15 +6130,15 @@
         <anchor xml:id="Bae_TB_10_4666"/>
         <!-- CA: anchor für den addspan -->
       </div>
-      <div n="1912-11-22" type="diaryEntry" xml:id="Bae_TB_10_4667">
-        <!-- DC Einklebung Zeitungsausschnitt, gehört hier her. -->
-        <pb facs="#F_K5_Bae_TB_10_131" n="64v" xml:id="Bae_TB_10_4668"/>
+      <pb facs="#F_K5_Bae_TB_10_131" n="64v" xml:id="Bae_TB_10_4668"/>
         <note type="editorial" xml:id="Bae_TB_10_4669">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_132" n="65r" xml:id="Bae_TB_10_4670"/>
-        <p xml:id="Bae_TB_10_4671">
+      <div type="diaryEntry" xml:id="Bae_TB_10_4667">
+        <!-- DC Einklebung Zeitungsausschnitt, gehört hier her. -->
+        <head xml:id="Bae_TB_10_4671">
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_10_4672">Budapest</placeName>
-          <date when="1912-11-22" xml:id="Bae_TB_10_4673">22.11.1912</date>
-        </p>
+          <date when="1912-11-22" type="diaryEntry" xml:id="Bae_TB_10_4673">22.11.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_4674">Gestern Abend gab uns der Präsident der 
           <choice xml:id="Bae_TB_10_4675">
             <abbr xml:id="Bae_TB_10_4676">ungar.</abbr>
@@ -6301,11 +6299,11 @@
           <hi rendition="#ul" xml:id="Bae_TB_10_4802">gegen</hi> den nationalen Strich gehen wird? Kann man heute einen reinen Raisonkrieg führen? Um der Staatsraison willen die lautet: "besser heute als später"? Würde nicht jeder hoffen, dass das "später" vielleicht doch nicht eintreten wird. Dass man mit dem Vermögen von Millionen, mit dem Leben von hunderttausenden spielt, das bedenken diese so kühl calkulirenden Herren nicht. 
         </p>
       </div>
-      <div n="1912-11-22" type="diaryEntry" xml:id="Bae_TB_10_4803">
-        <p xml:id="Bae_TB_10_4804">
+      <div type="diaryEntry" xml:id="Bae_TB_10_4803">
+        <head xml:id="Bae_TB_10_4804">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_4805">Wien</placeName>
-          <date when="1912-11-22" xml:id="Bae_TB_10_4806">22.11. 1912</date>
-        </p>
+          <date when="1912-11-22" type="diaryEntry" xml:id="Bae_TB_10_4806">22.11. 1912</date>
+        </head>
         <p xml:id="Bae_TB_10_4807">Auf dem Weg vom Bahnhof traf ich 
           <persName key="ClamGallasFranz" ref="https://d-nb.info/gnd/1059757648" xml:id="Bae_TB_10_4808">Clam</persName>. Er gibt mir zu, dass in seinen Kreisen längst erkannt ist, dass auf eine deutsch-madjarische Entente losgesteuert wird, um den Südslawen einen Dämpfer aufzusetzen. Er hält das für ein Unglück, scheint es aber als Ausfluss der Situation hinzunehmen. 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_4809">Serbien</placeName> muss 
@@ -6403,11 +6401,11 @@
           </orgName> wahrt das Decorum, ist aber über die südslawischen Verhältnisse merkwürdig schlecht unterrichtet. 
         </p>
       </div>
-      <div n="1912-11-30" type="diaryEntry" xml:id="Bae_TB_10_4880">
-        <p xml:id="Bae_TB_10_4881">
+      <div type="diaryEntry" xml:id="Bae_TB_10_4880">
+        <head xml:id="Bae_TB_10_4881">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_4882">Wien</placeName> am 
-          <date when="1912-11-30" xml:id="Bae_TB_10_4883">30.11.12</date>
-        </p>
+          <date when="1912-11-30" type="diaryEntry" xml:id="Bae_TB_10_4883">30.11.12</date>
+        </head>
         <p xml:id="Bae_TB_10_4884">Die zwei 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_4885">Belgrader</placeName> habe ich wiederholt gesprochen. Sie waren auch bei einem Vortrag des 
           <choice xml:id="Bae_TB_10_4886">
@@ -6824,14 +6822,14 @@
           </orgName> mit den Herren zu verhandeln. Das "politische", vor dem diese Herren Bonzen die Flucht ergriffen haben, hätte man ja in der Conversation ausschliessen können. Auf der ganzen Linie nur Servilismus, Sieghartimus, keine Gedanken, kein Wissen, keine Haltung und kein Selbstvertrauen. 
         </p>
       </div>
-      <div n="1912-12-01" type="diaryEntry" xml:id="Bae_TB_10_5201">
-        <pb facs="#F_K5_Bae_TB_10_153" n="75v" xml:id="Bae_TB_10_5202"/>
+      <pb facs="#F_K5_Bae_TB_10_153" n="75v" xml:id="Bae_TB_10_5202"/>
         <note type="editorial" xml:id="Bae_TB_10_5203">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_154" n="76r" xml:id="Bae_TB_10_5204"/>
-        <p xml:id="Bae_TB_10_5205">
+      <div type="diaryEntry" xml:id="Bae_TB_10_5201">
+        <head xml:id="Bae_TB_10_5205">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_5206">Wien</placeName>
-          <date when="1912-12-01" xml:id="Bae_TB_10_5207">1.12.12</date>
-        </p>
+          <date when="1912-12-01" type="diaryEntry" xml:id="Bae_TB_10_5207">1.12.12</date>
+        </head>
         <p xml:id="Bae_TB_10_5208">Meine in der 
           <orgName key="Bohemia" ref="https://d-nb.info/014500817" xml:id="Bae_TB_10_5209">Bohemia</orgName> gegebene Anregung hat weitere Wellen geworfen. Das dumme hiesige Tagblatt hat das [...] zu einer blinden Verbrüderungsaktion 
           <choice xml:id="Bae_TB_10_5210">
@@ -6993,14 +6991,14 @@
         <p xml:id="Bae_TB_10_5335">Es liegt alles daran, daß dieses Urteil ein richtiges und vorurteilfreies sei.</p>
         <anchor xml:id="Bae_TB_10_5336"/>
       </div>
-      <div n="1912-12-23" type="diaryEntry" xml:id="Bae_TB_10_5337">
-        <pb facs="#F_K5_Bae_TB_10_165" n="82v" xml:id="Bae_TB_10_5338"/>
+      <pb facs="#F_K5_Bae_TB_10_165" n="82v" xml:id="Bae_TB_10_5338"/>
         <note type="editorial" xml:id="Bae_TB_10_5339">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_166" n="83r" xml:id="Bae_TB_10_5340"/>
-        <p xml:id="Bae_TB_10_5341">
+      <div type="diaryEntry" xml:id="Bae_TB_10_5337">
+        <head xml:id="Bae_TB_10_5341">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_5342">Wien</placeName> am 
-          <date when="1912-12-23" xml:id="Bae_TB_10_5343">23.12.12</date>
-        </p>
+          <date when="1912-12-23" type="diaryEntry" xml:id="Bae_TB_10_5343">23.12.12</date>
+        </head>
         <p xml:id="Bae_TB_10_5344">Ich habe Mitte December einige Tage in 
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_10_5345">Lünz</placeName> zugebracht aber wieder die Erfarung gemacht, dass man in so bewegten Zeiten nicht zugleich Bäume auf dem Lande pflanzen kann und über den Gang der Dinge orientirt sein kann. Kam daher am 
           <date when="1912-12-15" xml:id="Bae_TB_10_5346">15.</date> Abend wieder nach 
@@ -7293,14 +7291,14 @@
           </choice> auch in den Kreisen der Journalisten (was allerdings bei uns nicht viel heissen will) ähnliches zu hören ist. 
         </p>
       </div>
-      <div n="1912-12-25" type="diaryEntry" xml:id="Bae_TB_10_5572">
-        <pb facs="#F_K5_Bae_TB_10_173" n="86v" xml:id="Bae_TB_10_5573"/>
+      <pb facs="#F_K5_Bae_TB_10_173" n="86v" xml:id="Bae_TB_10_5573"/>
         <note type="editorial" xml:id="Bae_TB_10_5574">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_174" n="87r" xml:id="Bae_TB_10_5575"/>
-        <p xml:id="Bae_TB_10_5576">
+      <div type="diaryEntry" xml:id="Bae_TB_10_5572">
+        <head xml:id="Bae_TB_10_5576">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_5577">Wien</placeName>
-          <date when="1912-12-25" xml:id="Bae_TB_10_5578">25.12.12</date>
-        </p>
+          <date when="1912-12-25" type="diaryEntry" xml:id="Bae_TB_10_5578">25.12.12</date>
+        </head>
         <p xml:id="Bae_TB_10_5579">Am Tage nach dieser soeben geschilderten Unterredung mit 
           <persName key="BerchtoldLeopold" ref="https://d-nb.info/gnd/123557372" xml:id="Bae_TB_10_5580">
             <choice xml:id="Bae_TB_10_5581">
@@ -8182,15 +8180,15 @@
         <anchor xml:id="Bae_TB_10_6243"/>
         <app from="#_188" type="insertion" xml:id="Bae_TB_10_6244"/>
       </div>
-      <div n="1912-10-23" type="diaryEntry" xml:id="Bae_TB_10_6245">
-        <pb facs="#F_K5_Bae_TB_10_191" n="95v" xml:id="Bae_TB_10_6246"/>
+      <pb facs="#F_K5_Bae_TB_10_191" n="95v" xml:id="Bae_TB_10_6246"/>
         <note type="editorial" xml:id="Bae_TB_10_6247">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_192" n="96r" xml:id="Bae_TB_10_6248"/>
-        <p xml:id="Bae_TB_10_6249">
+      <div type="diaryEntry" xml:id="Bae_TB_10_6245">
+        <head xml:id="Bae_TB_10_6249">
           <hi rendition="#ul" xml:id="Bae_TB_10_6250">
-            <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_6251">Aehrenthal</persName>! 
+            <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_6251">Aehrenthal</persName>!<date when="1912-10-23" type="diaryEntry"></date> 
           </hi>
-        </p>
+        </head>
         <addSpan spanTo="#_190" type="insertion" xml:id="Bae_TB_10_6252"/>
         <p xml:id="Bae_TB_10_6253">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_6254">Wien</placeName>
@@ -8334,10 +8332,11 @@
           <rdg xml:id="Bae_TB_10_6353">[...]</rdg>
         </app>
       </div>
-      <div n="1912-11-02" type="diaryEntry" xml:id="Bae_TB_10_6354">
-        <pb facs="#F_K5_Bae_TB_10_193" n="96v" xml:id="Bae_TB_10_6355"/>
+      <pb facs="#F_K5_Bae_TB_10_193" n="96v" xml:id="Bae_TB_10_6355"/>
         <note type="editorial" xml:id="Bae_TB_10_6356">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_194" n="97r" xml:id="Bae_TB_10_6357"/>
+      <div type="diaryEntry" xml:id="Bae_TB_10_6354">
+        <head><date when="1912-11-02" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_10_6358">Am 
           <date when="1912-11-02" xml:id="Bae_TB_10_6359">2.11.1912</date> hatte ich mit 
           <persName key="SzterenyiJozsef" ref="https://d-nb.info/gnd/126999007" xml:id="Bae_TB_10_6360">Szterényi</persName> in 
@@ -8462,15 +8461,15 @@
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_10_6448">Deutschland</placeName> zusammen. Die Sache unterblieb. 
         </p>
       </div>
-      <div n="1912-10-24" type="diaryEntry" xml:id="Bae_TB_10_6449">
-        <pb facs="#F_K5_Bae_TB_10_195" n="97v" xml:id="Bae_TB_10_6450"/>
+      <pb facs="#F_K5_Bae_TB_10_195" n="97v" xml:id="Bae_TB_10_6450"/>
         <note type="editorial" xml:id="Bae_TB_10_6451">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_196" n="98r" xml:id="Bae_TB_10_6452"/>
+      <div type="diaryEntry" xml:id="Bae_TB_10_6449">
         <!-- DC: es folgt auf Fol. 98r eine Einklebung -->
-        <p xml:id="Bae_TB_10_6453">
+        <head xml:id="Bae_TB_10_6453">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_6454">Wien</placeName>
-          <date when="1912-10-24" xml:id="Bae_TB_10_6455">24.10.1912</date>
-        </p>
+          <date when="1912-10-24" type="diaryEntry" xml:id="Bae_TB_10_6455">24.10.1912</date>
+        </head>
         <p xml:id="Bae_TB_10_6456">Gestern lange Unterredung mit den 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_10_6457">
             <choice xml:id="Bae_TB_10_6458">
@@ -8530,15 +8529,15 @@
           </choice> für sie ein höchst bequemer Paravent ist. 
         </p>
       </div>
-      <div n="1912-11-02" type="diaryEntry" xml:id="Bae_TB_10_6504">
-        <pb facs="#F_K5_Bae_TB_10_197" n="98v" xml:id="Bae_TB_10_6505"/>
+      <pb facs="#F_K5_Bae_TB_10_197" n="98v" xml:id="Bae_TB_10_6505"/>
         <note type="editorial" xml:id="Bae_TB_10_6506">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K5_Bae_TB_10_198" n="99r" xml:id="Bae_TB_10_6507"/>
-        <p xml:id="Bae_TB_10_6508">Brief den ich nach meiner Rückkehr von 
+      <div type="diaryEntry" xml:id="Bae_TB_10_6504">
+        <head xml:id="Bae_TB_10_6508">Brief den ich nach meiner Rückkehr von 
           <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html" xml:id="Bae_TB_10_6509">Sarajewo</placeName> ( 
-          <date when="1912-11-02" xml:id="Bae_TB_10_6510">2.11.1912</date>) an 
+          <date when="1912-11-02" type="diaryEntry" xml:id="Bae_TB_10_6510">2.11.1912</date>) an 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_10_6511">Fürstenberg</persName> schrieb. 
-        </p>
+        </head>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_10_6512"/>
         <p xml:id="Bae_TB_10_6513">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_6514">Wien</placeName>, den 

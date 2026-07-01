@@ -78,8 +78,8 @@
   </teiHeader>
   <text xml:id="Bae_TB_9_52">
     <body xml:id="Bae_TB_9_53">
+      <pb facs="#F_K-4_Bae_TB_9_002" n="1r" xml:id="Bae_TB_9_55"/>
       <div type="diaryEntry" xml:id="Bae_TB_9_54">
-        <pb facs="#F_K-4_Bae_TB_9_002" n="1r" xml:id="Bae_TB_9_55"/>
         <p xml:id="Bae_TB_9_56">
           <placeName key="Wien" xml:id="Bae_TB_9_57">Wien</placeName> am 
           <date when="1908-11-12" type="diaryEntry" xml:id="Bae_TB_9_58">12.11.08</date>
@@ -611,10 +611,10 @@
         <anchor xml:id="Bae_TB_9_452"/>
         <!-- CA: anchor für den addspan -->
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_9_453">
-        <pb facs="#F_K-4_Bae_TB_9_015" n="7v" xml:id="Bae_TB_9_454"/>
+      <pb facs="#F_K-4_Bae_TB_9_015" n="7v" xml:id="Bae_TB_9_454"/>
         <note type="editorial" xml:id="Bae_TB_9_455">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_016" n="8r" xml:id="Bae_TB_9_456"/>
+      <div type="diaryEntry" xml:id="Bae_TB_9_453">
         <p xml:id="Bae_TB_9_457">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_458">Wien</placeName>
           <date when="1908-11-18" type="diaryEntry" xml:id="Bae_TB_9_459">18.11.1908</date>
@@ -965,7 +965,7 @@
           <date when="1909-12-12" type="diaryEntry" xml:id="Bae_TB_9_716">12.12.09</date>
         </p>
       </div>
-      <div n="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_717">
+      <div type="diaryEntry" xml:id="Bae_TB_9_717">
         <p xml:id="Bae_TB_9_718">
           <persName key="PalmerEduard" ref="https://d-nb.info/gnd/1050270290" xml:id="Bae_TB_9_719">Palmer</persName> erzählte mir gestern Abend: einmal 
           <add place="across" xml:id="Bae_TB_9_720">– es war noch im 19. 
@@ -1902,13 +1902,13 @@
           </choice> in der österreichischen doch nur herumtappt. 
         </p>
       </div>
+      <pb facs="#F_K-4_Bae_TB_9_051" n="24v" xml:id="Bae_TB_9_1417"/>
+        <note type="editorial" xml:id="Bae_TB_9_1418">Diese Seite ist leer.</note>
+        <pb facs="#F_K-4_Bae_TB_9_052" n="25r" xml:id="Bae_TB_9_1419"/>
       <div type="diaryEntry" xml:id="Bae_TB_9_1416">
         <head xml:id="Bae_TB_9_4244">
           <date when="1909-11-29" type="diaryEntry" xml:id="Bae_TB_9_4245"/>
         </head>
-        <pb facs="#F_K-4_Bae_TB_9_051" n="24v" xml:id="Bae_TB_9_1417"/>
-        <note type="editorial" xml:id="Bae_TB_9_1418">Diese Seite ist leer.</note>
-        <pb facs="#F_K-4_Bae_TB_9_052" n="25r" xml:id="Bae_TB_9_1419"/>
         <p xml:id="Bae_TB_9_1420">Mit 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_9_1421">
             <choice xml:id="Bae_TB_9_1422">
@@ -2649,10 +2649,10 @@
           </choice> neidische Gesellschaft ist das? 
         </p>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_9_1949">
-        <pb facs="#F_K-4_Bae_TB_9_071" n="34v" xml:id="Bae_TB_9_1950"/>
+      <pb facs="#F_K-4_Bae_TB_9_071" n="34v" xml:id="Bae_TB_9_1950"/>
         <note type="editorial" xml:id="Bae_TB_9_1951">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_072" n="35r" xml:id="Bae_TB_9_1952"/>
+      <div type="diaryEntry" xml:id="Bae_TB_9_1949">
         <p xml:id="Bae_TB_9_1953">
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_9_1954">Prag</placeName>
           <date when="1910-02-02" type="diaryEntry" xml:id="Bae_TB_9_1955">2.2.10</date>
@@ -3328,10 +3328,10 @@
           </persName> in den Zielen den richtigen in den Mitteln den falschen Weg gehe. 
         </p>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_9_2451">
-        <pb facs="#F_K-4_Bae_TB_9_109" n="53v" xml:id="Bae_TB_9_2452"/>
+      <pb facs="#F_K-4_Bae_TB_9_109" n="53v" xml:id="Bae_TB_9_2452"/>
         <note type="editorial" xml:id="Bae_TB_9_2453">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_110" n="54r" xml:id="Bae_TB_9_2454"/>
+      <div type="diaryEntry" xml:id="Bae_TB_9_2451">
         <p xml:id="Bae_TB_9_2455">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2456">Wien</placeName>
           <date when="1910-03-03" type="diaryEntry" xml:id="Bae_TB_9_2457">3.3.10</date>. Audienz. 

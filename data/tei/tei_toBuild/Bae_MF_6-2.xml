@@ -80,7 +80,6 @@
   </teiHeader>
   <text xml:id="Bae_MF_6-2_49">
     <body xml:id="Bae_MF_6-2_50">
-      <div n="1" xml:id="Bae_MF_6-2_51">
         <head xml:id="Bae_MF_6-2_52">
           <pb facs="#F_K-11_Bae_MF_6-2_004" n="1r" xml:id="Bae_MF_6-2_53"/>
           <hi rendition="#ul" xml:id="Bae_MF_6-2_54">Die Wahlreform</hi>
@@ -2153,10 +2152,10 @@
             </app>
           </p>
         </div>
-        <div type="chapter" xml:id="Bae_MF_6-2_1197">
-          <pb facs="#F_K-11_Bae_MF_6-2_057" n="27v" xml:id="Bae_MF_6-2_1198"/>
+      <pb facs="#F_K-11_Bae_MF_6-2_057" n="27v" xml:id="Bae_MF_6-2_1198"/>
           <note type="editorial" xml:id="Bae_MF_6-2_1199">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_058" n="28r" xml:id="Bae_MF_6-2_1200"/>
+        <div type="chapter" xml:id="Bae_MF_6-2_1197">
           <anchor xml:id="Bae_MF_6-2_1201"/>
           <head xml:id="Bae_MF_6-2_1202"><title type="main">7. 
             <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_MF_6-2_1203">Beck</persName> bis zur Verabschiedung der Wahlreform 
@@ -2863,10 +2862,10 @@
             </app>
           </p>
         </div>
-        <div type="chapter" xml:id="Bae_MF_6-2_1594">
-          <pb facs="#F_K-11_Bae_MF_6-2_079" n="38v" xml:id="Bae_MF_6-2_1595"/>
+      <pb facs="#F_K-11_Bae_MF_6-2_079" n="38v" xml:id="Bae_MF_6-2_1595"/>
           <note type="editorial" xml:id="Bae_MF_6-2_1596">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_6-2_080" n="39r" xml:id="Bae_MF_6-2_1597"/>
+        <div type="chapter" xml:id="Bae_MF_6-2_1594">
           <anchor xml:id="Bae_MF_6-2_1598"/>
           <!-- CA: das gesamt folgende Kapitel hat keine Entsprechung in TB-8 - jetzt vorerst mit leerem rdg ausgzeichnet hier -->
           <head xml:id="Bae_MF_6-2_1599"><title type="main">10. Meine Wahlbewerbung im 
@@ -3073,7 +3072,6 @@
             <rdg wit="#Bae_TB_8" xml:id="Bae_MF_6-2_1739"/>
           </app>
         </div>
-      </div>
     </body>
   </text>
 </TEI>

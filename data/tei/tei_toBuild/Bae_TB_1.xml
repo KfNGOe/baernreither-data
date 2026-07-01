@@ -80,8 +80,8 @@
   </teiHeader>
   <text xml:id="Bae_TB_1_49">
     <body xml:id="Bae_TB_1_50">
+      <pb facs="#F_K-6_Bae_TB_1_002" n="1r" xml:id="Bae_TB_1_52"/>
       <div type="diaryEntry" xml:id="Bae_TB_1_51">
-        <pb facs="#F_K-6_Bae_TB_1_002" n="1r" xml:id="Bae_TB_1_52"/>
         <head><date when="1897-01" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_1_53">
           <anchor xml:id="Bae_TB_1_54"/>Der 
@@ -5594,11 +5594,11 @@
           </app>
         </p>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_1_3984">
-        <!-- Hinweis mit Bleistift: geschrieben Anfang Oktober 1897 Lünz -->
-        <pb facs="#F_K-6_Bae_TB_1_119" n="59v" xml:id="Bae_TB_1_5750"/>
+      <pb facs="#F_K-6_Bae_TB_1_119" n="59v" xml:id="Bae_TB_1_5750"/>
         <note type="editorial" xml:id="Bae_TB_1_5814">Diese Seite ist leer.</note>
         <pb facs="#F_K-6_Bae_TB_1_120" n="60r" xml:id="Bae_TB_1_3985"/>
+      <div type="diaryEntry" xml:id="Bae_TB_1_3984">
+        <!-- Hinweis mit Bleistift: geschrieben Anfang Oktober 1897 Lünz -->
         <anchor xml:id="Bae_TB_1_3986"/>
         <head xml:id="Bae_TB_1_3987">
           <hi rendition="#ul" xml:id="Bae_TB_1_3988">V. Die Sommerferien 1897</hi><date when="1897-10" type="diaryEntry"></date>

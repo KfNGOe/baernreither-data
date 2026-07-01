@@ -80,8 +80,9 @@
   </teiHeader>
   <text xml:id="Bae_MF_4_52">
     <body xml:id="Bae_MF_4_53">
-      <div type="chapter" xml:id="Bae_MF_4_54"><head><title type="short">Inhaltsverzeichnis</title></head>
-        <pb facs="#F_K-11_Bae_MF_4_005" n="333r" xml:id="Bae_MF_4_55"/>
+      <pb facs="#F_K-11_Bae_MF_4_005" n="333r" xml:id="Bae_MF_4_55"/>
+      <div type="chapter" xml:id="Bae_MF_4_54">
+        <head><title type="short">Inhaltsverzeichnis</title></head>
         <p xml:id="Bae_MF_4_56">
           <anchor xml:id="Bae_MF_4_1149"/>
           <hi rendition="#ul" xml:id="Bae_MF_4_57">
@@ -124,9 +125,8 @@
         <pb facs="#F_K-11_Bae_MF_4_006" n="333v" xml:id="Bae_MF_4_84"/>
         <note type="editorial" xml:id="Bae_MF_4_85">Diese Seite ist leer.</note>
       </div>
-      <div type="chapter" xml:id="Bae_MF_4_86">
-        
-          <pb facs="#F_K-11_Bae_MF_4_007" n="334r" xml:id="Bae_MF_4_88"/>
+      <pb facs="#F_K-11_Bae_MF_4_007" n="334r" xml:id="Bae_MF_4_88"/>
+      <div type="chapter" xml:id="Bae_MF_4_86">  
           <anchor xml:id="Bae_MF_4_89"/>
           <head><hi rendition="#ul" xml:id="Bae_MF_4_90"><title type="main">Meine Rede, gehalten in 
             <placeName key="Pilsen" ref="https://www.geonames.org/11921103/plzen.html" xml:id="Bae_MF_4_91">Pilsen</placeName> in der Wählerversammlung vom 
@@ -414,8 +414,8 @@
         <pb facs="#F_K-11_Bae_MF_4_038" n="349v" xml:id="Bae_MF_4_309"/>
         <note type="editorial" xml:id="Bae_MF_4_310">Diese Seite ist leer.</note>
       </div>
+      <pb facs="#F_K-11_Bae_MF_4_039" n="350r" xml:id="Bae_MF_4_312"/>
       <div type="chapter" xml:id="Bae_MF_4_311">
-        <pb facs="#F_K-11_Bae_MF_4_039" n="350r" xml:id="Bae_MF_4_312"/>
         <anchor xml:id="Bae_MF_4_314"/>
         <head xml:id="Bae_MF_4_313"><title type="main">Meine Rede gehalten in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_MF_4_315">Prag</placeName> bei der allgemeinen Wählerversammlung am 
@@ -715,8 +715,8 @@
         <pb facs="#F_K-11_Bae_MF_4_058" n="359v" xml:id="Bae_MF_4_531"/>
         <note type="editorial" xml:id="Bae_MF_4_532">Diese Seite ist leer.</note>
       </div>
-      <div type="chapter" xml:id="Bae_MF_4_533">
-        <pb facs="#F_K-11_Bae_MF_4_059" n="360r" xml:id="Bae_MF_4_534"/>
+      <pb facs="#F_K-11_Bae_MF_4_059" n="360r" xml:id="Bae_MF_4_534"/>
+      <div type="chapter" xml:id="Bae_MF_4_533">      
         <anchor xml:id="Bae_MF_4_536"/>
         <head xml:id="Bae_MF_4_535">
           <hi rendition="#ul" xml:id="Bae_MF_4_537"><title type="main">Panem et circenses</title><title type="short">Panem et circenses</title></hi>
@@ -1413,10 +1413,10 @@
         </p>
       </div>
       <!-- CA: hier geht es mit TB_6 weiter -->
-      <div type="chapter" xml:id="Bae_MF_4_1094">
-        <pb facs="#F_K-11_Bae_MF_4_086" n="373v" xml:id="Bae_MF_4_1095"/>
+      <pb facs="#F_K-11_Bae_MF_4_086" n="373v" xml:id="Bae_MF_4_1095"/>
         <note type="editorial" xml:id="Bae_MF_4_1096">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_4_087" n="373ar" xml:id="Bae_MF_4_1097"/>
+      <div type="chapter" xml:id="Bae_MF_4_1094">
         <anchor xml:id="Bae_MF_4_1099"/>
         <head xml:id="Bae_MF_4_1098"><title type="main">BERLIN - LONDON - BRÜSSEL - PARIS</title><title type="short">Reisen</title>
         </head>

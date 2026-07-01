@@ -82,8 +82,8 @@
   </teiHeader>
   <text xml:id="Bae_TB_7_50">
     <body xml:id="Bae_TB_7_51">
+      <pb facs="#F_K-4_Bae_TB_7_002" n="1r" xml:id="Bae_TB_7_52"/>
       <div type="diaryEntry" xml:id="Bae_TB_7_53"><head><date when="1904-12-07" type="diaryEntry"></date></head>
-        <pb facs="#F_K-4_Bae_TB_7_002" n="1r" xml:id="Bae_TB_7_52"/>
         <p xml:id="Bae_TB_7_54">
           <anchor xml:id="Bae_TB_7_2060"/>Meine Rede im 
           <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_TB_7_55">Budgetausschuss</orgName> am Dienstag, den 
@@ -5439,8 +5439,9 @@
         <pb facs="#F_K-4_Bae_TB_7_147" n="73v" xml:id="Bae_TB_7_2176"/>
         <note type="editorial" xml:id="Bae_TB_7_2177">Diese Seite ist leer.</note>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_7_1589"><head><date when="1905-09-09" type="diaryEntry"></date></head>
-        <pb facs="#F_K-4_Bae_TB_7_148" n="74r" xml:id="Bae_TB_7_1590"/>
+      <pb facs="#F_K-4_Bae_TB_7_148" n="74r" xml:id="Bae_TB_7_1590"/>
+      <div type="diaryEntry" xml:id="Bae_TB_7_1589">
+        <head><date when="1905-09-09" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_7_1591">
           <anchor xml:id="Bae_TB_7_4270"/>
           <placeName key="Budapest" ref="https://www.geonames.org/3054638/budapest.html" xml:id="Bae_TB_7_1592">Budapest</placeName>
@@ -6817,8 +6818,8 @@
           <rdg xml:id="Bae_TB_7_5164">…</rdg>
         </app>
       </div>
+      <pb facs="#F_K-4_Bae_TB_7_202" n="101r" xml:id="Bae_TB_7_2048"/>
       <div type="diaryEntry" xml:id="Bae_TB_7_2047">
-        <pb facs="#F_K-4_Bae_TB_7_202" n="101r" xml:id="Bae_TB_7_2048"/>
         <p xml:id="Bae_TB_7_2049">
           <hi rendition="#ul" xml:id="Bae_TB_7_2050">Bonmots</hi>
         </p>

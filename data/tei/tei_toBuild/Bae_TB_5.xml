@@ -80,8 +80,8 @@
   </teiHeader>
   <text xml:id="Bae_TB_5_52">
     <body xml:id="Bae_TB_5_53">
+      <pb facs="#F_K-4_Bae_TB_5_004" n="1r" xml:id="Bae_TB_5_55"/>
       <div type="diaryEntry" xml:id="Bae_TB_5_54">
-        <pb facs="#F_K-4_Bae_TB_5_004" n="1r" xml:id="Bae_TB_5_55"/>
         <anchor xml:id="Bae_TB_5_56"/>
         <p xml:id="Bae_TB_5_57">Die Sommermonate 
           <date when="1899" xml:id="Bae_TB_5_58">1899</date>
@@ -8305,12 +8305,12 @@
       <pb facs="#F_K-4_Bae_TB_5_142" n="70r" xml:id="Bae_TB_5_6201"/>
       <note type="editorial" xml:id="Bae_TB_5_6202">Diese Seite ist leer.</note>
       <!-- CA: ab hier geht es dann weiter für den Textvergleich mit MF_4 -->
+      <pb facs="#F_K-4_Bae_TB_5_143" n="70v" xml:id="Bae_TB_5_6204"/>
       <div type="diaryEntry" xml:id="Bae_TB_5_6203">
         <anchor xml:id="Bae_TB_5_7834"/>
         <app from="#Bae_MF_4_1149" type="missing" xml:id="Bae_TB_5_7835">
           <rdg wit="Bae_MF_4" xml:id="Bae_TB_5_7836">Koerber nach den Neuwahlen bis zu seinem Ende. Seite 334–443. Rede gehalten in Pilsen am 22 Octber 1900 S. 334. Rede gehalten in Prager im Palais Rohan 3.1.1901 S. 350. Panem et circenses S. 360. For sale S. 364. Berlin – London – Brüssel – Paris S. 373. Brief an Aehrenthal S. 398. Antwort Aehrenthal S. 402. Sommer und Herbst 1903 S. 405. Amerikafahrt Juni, July, August 1904 S. 410. Sommer und Spätherbst 1904, Körbers Ende S. 438</rdg>
         </app>
-        <pb facs="#F_K-4_Bae_TB_5_143" n="70v" xml:id="Bae_TB_5_6204"/>
         <anchor xml:id="Bae_TB_5_6205"/>
         <app from="#Bae_TB_5_6217" type="insertion" xml:id="Bae_TB_5_6206">
           <rdg xml:id="Bae_TB_5_6207"></rdg>

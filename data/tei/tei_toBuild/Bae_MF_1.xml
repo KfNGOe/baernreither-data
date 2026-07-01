@@ -79,8 +79,8 @@
   </teiHeader>
   <text xml:id="Bae_MF_1_52">
     <body xml:id="Bae_MF_1_53">
+      <pb facs="#F_K-11_Bae_MF_1_006" n="0r" xml:id="Bae_MF_1_3862"/>
       <div type="chapter" xml:id="Bae_MF_1_54">
-        <pb facs="#F_K-11_Bae_MF_1_006" n="0r" xml:id="Bae_MF_1_3862"/>
         <head xml:id="Bae_MF_1_3863">
           <add place="across" xml:id="Bae_MF_1_3864">Fragmente eines politischen Tagebuchs</add>
         </head>
@@ -1711,10 +1711,10 @@
           <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_MF_1_1232">Christlich-Sozialen</orgName>. 
         </p>
       </div>
-      <div type="chapter" xml:id="Bae_MF_1_1234">
-        <pb facs="#F_K-11_Bae_MF_1_067" n="30v" xml:id="Bae_MF_1_3926"/>
+      <pb facs="#F_K-11_Bae_MF_1_067" n="30v" xml:id="Bae_MF_1_3926"/>
         <note type="editorial" xml:id="Bae_MF_1_3927">Diese Seite ist leer.</note>
-        <pb facs="#F_K-11_Bae_MF_1_068" n="31r" xml:id="Bae_MF_1_1233"/>
+      <pb facs="#F_K-11_Bae_MF_1_068" n="31r" xml:id="Bae_MF_1_1233"/>
+      <div type="chapter" xml:id="Bae_MF_1_1234">
         <head xml:id="Bae_MF_1_1235">
           <hi rendition="#ul" xml:id="Bae_MF_1_1236"><title type="main">III. Die Osterferien 1897</title><title type="short">Osterferien 1897</title></hi>
         </head>
@@ -3442,10 +3442,10 @@
         </p>
       </div>
       <!-- CA: ab hier korrespondiert es mit TB_2 -->
-      <div type="chapter" xml:id="Bae_MF_1_2442">
-        <pb facs="#F_K-11_Bae_MF_1_145" n="69v" xml:id="Bae_MF_1_4004"/>
+      <pb facs="#F_K-11_Bae_MF_1_145" n="69v" xml:id="Bae_MF_1_4004"/>
         <note type="editorial" xml:id="Bae_MF_1_4005">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_1_146" n="70r" xml:id="Bae_MF_1_2443"/>
+      <div type="chapter" xml:id="Bae_MF_1_2442">
         <anchor xml:id="Bae_MF_1_2445"/>
         <head xml:id="Bae_MF_1_2444"><title type="main">Die Herbstsession 1897</title><title type="short">Herbstsession 1897</title></head>
         <app from="#Bae_TB_2_53" type="missing" xml:id="Bae_MF_1_2446">
@@ -4093,10 +4093,10 @@
             </app>
           </p>
         </div>
-        <div xml:id="Bae_MF_1_2899">
-          <pb facs="#F_K-11_Bae_MF_1_167" n="80v" xml:id="Bae_MF_1_4026"/>
+        <pb facs="#F_K-11_Bae_MF_1_167" n="80v" xml:id="Bae_MF_1_4026"/>
           <note type="editorial" xml:id="Bae_MF_1_4027">Diese Seite ist leer.</note>
           <pb facs="#F_K-11_Bae_MF_1_168" n="81r" xml:id="Bae_MF_1_2898"/>
+        <div xml:id="Bae_MF_1_2899">
           <anchor xml:id="Bae_MF_1_2900"/>
           <head xml:id="Bae_MF_1_2901">
             <hi rendition="#ul" xml:id="Bae_MF_1_2902">III. Die 
@@ -5299,8 +5299,8 @@
           <pb facs="#F_K-11_Bae_MF_1_207" n="100v" xml:id="Bae_MF_1_4064"/>
           <note type="editorial" xml:id="Bae_MF_1_4065">Diese Seite ist leer.</note>
         </div>
+        <pb facs="#F_K-11_Bae_MF_1_208" n="100ar" xml:id="Bae_MF_1_4066"/>
         <div xml:id="Bae_MF_1_3712">
-          <pb facs="#F_K-11_Bae_MF_1_208" n="100ar" xml:id="Bae_MF_1_4066"/>
           <head xml:id="Bae_MF_1_4067">Das Zwischenspiel Gautsch</head>
           <pb facs="#F_K-11_Bae_MF_1_209" n="100av" xml:id="Bae_MF_1_4068"/>
           <note type="editorial" xml:id="Bae_MF_1_4069">Diese Seite ist leer.</note>

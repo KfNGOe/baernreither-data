@@ -2640,13 +2640,8 @@
             <pb facs="#F_K-5_Bae_TB_8_046" n="25v" xml:id="Bae_TB_8_815" />
             <div type="diaryEntry" xml:id="Bae_TB_8_816">
                 <head xml:id="Bae_TB_8_817">
-                    <hi rendition="#ul" xml:id="Bae_TB_8_818">Von <persName key="HohenloheKonrad"
-                            ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_819">Hohenlohe</persName>
-                        bis <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373"
-                            xml:id="Bae_TB_8_820">Beck</persName>
-                    </hi>
-                    <date when="1906-06-06" type="diaryEntry" xml:id="Bae_TB_8_2584" />
-                </head>
+                    <hi rendition="#ul" xml:id="Bae_TB_8_818">Von <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_819">Hohenlohe</persName> bis <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_8_820">Beck</persName>
+                    </hi><date when="1906-06-06" type="diaryEntry" xml:id="Bae_TB_8_2584" /></head>
                 <p xml:id="Bae_TB_8_821">
                     <anchor xml:id="Bae_TB_8_822" /> <persName key="HohenloheKonrad"
                         ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_823">Hohenlohe</persName>
@@ -3888,14 +3883,11 @@
                 <pb facs="#F_K-5_Bae_TB_8_071" n="37v" xml:id="Bae_TB_8_1231" />
                 <note type="editorial" xml:id="Bae_TB_8_1232">Diese Seite ist leer.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_072" n="38r" xml:id="Bae_TB_8_1235"/>
             <div type="diaryEntry" xml:id="Bae_TB_8_1233">
                 <p xml:id="Bae_TB_8_1234">
-                    <pb facs="#F_K-5_Bae_TB_8_072" n="38r" xml:id="Bae_TB_8_1235" /> <anchor
-                        xml:id="Bae_TB_8_1236" /> <placeName key="Luenz"
-                        ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_8_1237">
-                    Lünz</placeName> , <date when="1909-07-30" type="diaryEntry"
-                        xml:id="Bae_TB_8_1238">30.7. <del rendition="s" xml:id="Bae_TB_8_1239">1909</del> <add
-                            xml:id="Bae_TB_8_1240">1906</add>
+                     <anchor xml:id="Bae_TB_8_1236" /> <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_8_1237">Lünz</placeName>, <date when="1909-07-30" type="diaryEntry"
+                        xml:id="Bae_TB_8_1238">30.7. <del rendition="s" xml:id="Bae_TB_8_1239">1909</del> <add xml:id="Bae_TB_8_1240">1906</add>
                     </date>
                 </p>
                 <p xml:id="Bae_TB_8_1241">Das vorstehende Memorandum blieb natürlich wirkungslos.
@@ -3903,8 +3895,7 @@
                         <term key="Wahlrechtsreform" xml:id="Bae_TB_8_1243">Wahlreform</term>
                     </index>
                     blind verrannt. Beschränkte Menschen wie <persName key="StuergkhKarl"
-                        ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_8_1244">Stürgkh</persName>
-                    , <persName key="TerlagoRobert" ref="https://d-nb.info/gnd/117273228"
+                        ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_8_1244">Stürgkh</persName>, <persName key="TerlagoRobert" ref="https://d-nb.info/gnd/117273228"
                         xml:id="Bae_TB_8_1245">Terlago</persName> u.s.f. fürten immer noch das
                     grosse Wort <choice xml:id="Bae_TB_8_2413">
                         <abbr xml:id="Bae_TB_8_2414">u.</abbr>
@@ -5032,11 +5023,11 @@
                     <rdg>[...]</rdg>
                 </app>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_089" n="43r" xml:id="Bae_TB_8_2601" />
             <div type="diaryEntry" xml:id="Bae_TB_8_2598">
                 <head xml:id="Bae_TB_8_2599">
                     <date when="1908-12-12" type="diaryEntry" xml:id="Bae_TB_8_2600" />
                 </head>
-                <pb facs="#F_K-5_Bae_TB_8_089" n="43r" xml:id="Bae_TB_8_2601" />
                 <p xml:id="Bae_TB_8_2602">Folgendes ist ein Teil meines Tagebuches der letzten
                     Monate 1908 und der ersten Monate 1909.</p>
                 <p xml:id="Bae_TB_8_2603">
@@ -5303,8 +5294,8 @@
                     Korrekturen oder Kommentare Baernreithers. Diese finden sich an der
                     entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_097" n="47r" xml:id="Bae_TB_8_2735" />
             <div type="diaryEntry" xml:id="Bae_TB_8_2734">
-                <pb facs="#F_K-5_Bae_TB_8_097" n="47r" xml:id="Bae_TB_8_2735" />
                 <p xml:id="Bae_TB_8_2736">
                     <placeName key="Meran" ref="https://www.geonames.org/3173577/merano.html"
                         xml:id="Bae_TB_8_2737">Meran</placeName>
@@ -7137,8 +7128,8 @@
                 <pb facs="#F_K-5_Bae_TB_8_133" n="59v" xml:id="Bae_TB_8_3733" />
                 <note type="editorial" xml:id="Bae_TB_8_3734">Diese Seite ist leer.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_134" n="60r" xml:id="Bae_TB_8_3736" />
             <div type="diaryEntry" xml:id="Bae_TB_8_3735">
-                <pb facs="#F_K-5_Bae_TB_8_134" n="60r" xml:id="Bae_TB_8_3736" />
                 <p xml:id="Bae_TB_8_3737">
                     <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
                         xml:id="Bae_TB_8_3738">Wien</placeName>
@@ -7583,8 +7574,8 @@
                 <pb facs="#F_K-5_Bae_TB_8_141" n="63v" xml:id="Bae_TB_8_3990" />
                 <note type="editorial" xml:id="Bae_TB_8_3991">Diese Seite ist leer.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_142" n="64r" xml:id="Bae_TB_8_3993" />
             <div type="diaryEntry" xml:id="Bae_TB_8_3992">
-                <pb facs="#F_K-5_Bae_TB_8_142" n="64r" xml:id="Bae_TB_8_3993" />
                 <p xml:id="Bae_TB_8_3994">
                     <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html"
                         xml:id="Bae_TB_8_3995">Brüssel</placeName>
@@ -7662,8 +7653,8 @@
                 <pb facs="#F_K-5_Bae_TB_8_143" n="64v" xml:id="Bae_TB_8_4034" />
                 <note type="editorial" xml:id="Bae_TB_8_4035">Diese Seite ist leer.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_144" n="65r" xml:id="Bae_TB_8_4037" />
             <div type="diaryEntry" xml:id="Bae_TB_8_4036">
-                <pb facs="#F_K-5_Bae_TB_8_144" n="65r" xml:id="Bae_TB_8_4037" />
                 <p xml:id="Bae_TB_8_4038">
                     <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
                         xml:id="Bae_TB_8_4039">
@@ -7715,8 +7706,8 @@
                     Korrekturen oder Kommentare Baernreithers. Diese finden sich an der
                     entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_146" n="66r" xml:id="Bae_TB_8_4069" />
             <div type="diaryEntry" xml:id="Bae_TB_8_4068">
-                <pb facs="#F_K-5_Bae_TB_8_146" n="66r" xml:id="Bae_TB_8_4069" />
                 <p xml:id="Bae_TB_8_4070">
                     <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
                         xml:id="Bae_TB_8_4071">Lünz</placeName>
@@ -7795,8 +7786,8 @@
                 <pb facs="#F_K-5_Bae_TB_8_147" n="66v" xml:id="Bae_TB_8_4108" />
                 <note type="editorial" xml:id="Bae_TB_8_4109">Diese Seite ist leer.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_148" n="67r" xml:id="Bae_TB_8_4111" />
             <div type="diaryEntry" xml:id="Bae_TB_8_4110">
-                <pb facs="#F_K-5_Bae_TB_8_148" n="67r" xml:id="Bae_TB_8_4111" />
                 <p xml:id="Bae_TB_8_4112">
                     <placeName key="Nauheim" ref="https://www.geonames.org/6557766/bad-nauheim.html"
                         xml:id="Bae_TB_8_4113">Nauheim</placeName>
@@ -7988,8 +7979,8 @@
                     </choice>
                     Abteilung stand der Nachtstuhl des Erzbischofs camerae mutantur! </p>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_152" n="69r" xml:id="Bae_TB_8_4216" />
             <div type="diaryEntry" xml:id="Bae_TB_8_4215">
-                <pb facs="#F_K-5_Bae_TB_8_152" n="69r" xml:id="Bae_TB_8_4216" />
                 <p xml:id="Bae_TB_8_4217">
                     <placeName key="Nauheim" ref="https://www.geonames.org/6557766/bad-nauheim.html"
                         xml:id="Bae_TB_8_4218">Nauheim</placeName>, <date when="1909-08-15"
@@ -8279,8 +8270,8 @@
                 <pb facs="#F_K-5_Bae_TB_8_157" n="71v" xml:id="Bae_TB_8_4365" />
                 <note type="editorial" xml:id="Bae_TB_8_4366">Diese Seite ist leer.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_158" n="72r" xml:id="Bae_TB_8_4368" />
             <div type="diaryEntry" xml:id="Bae_TB_8_4367">
-                <pb facs="#F_K-5_Bae_TB_8_158" n="72r" xml:id="Bae_TB_8_4368" />
                 <p xml:id="Bae_TB_8_4369">
                     <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
                         xml:id="Bae_TB_8_4370">Wien</placeName>
@@ -8420,8 +8411,8 @@
                     Korrekturen oder Kommentare Baernreithers. Diese finden sich an der
                     entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_160" n="73r" xml:id="Bae_TB_8_4451" />
             <div type="diaryEntry" xml:id="Bae_TB_8_4450">
-                <pb facs="#F_K-5_Bae_TB_8_160" n="73r" xml:id="Bae_TB_8_4451" />
                 <p xml:id="Bae_TB_8_4452">
                     <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
                         xml:id="Bae_TB_8_4453">Lünz</placeName>
@@ -8593,8 +8584,8 @@
                 <pb facs="#F_K-5_Bae_TB_8_165" n="75v" xml:id="Bae_TB_8_4532" />
                 <note type="editorial" xml:id="Bae_TB_8_4533">Diese Seite ist leer.</note>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_166" n="76r" xml:id="Bae_TB_8_4535" />
             <div type="diaryEntry" xml:id="Bae_TB_8_4534">
-                <pb facs="#F_K-5_Bae_TB_8_166" n="76r" xml:id="Bae_TB_8_4535" />
                 <p xml:id="Bae_TB_8_4536">
                     <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
                         xml:id="Bae_TB_8_4537">Lünz</placeName>
@@ -8930,8 +8921,8 @@
                 </div>
                 <pb facs="#F_K-5_Bae_TB_8_173" n="79v" xml:id="Bae_TB_8_4722" />
                 <note type="editorial" xml:id="Bae_TB_8_4723">Diese Seite ist leer.</note>
+                <pb facs="#F_K-5_Bae_TB_8_174" n="80r" xml:id="Bae_TB_8_4725" />
                 <div type="diaryEntry" xml:id="Bae_TB_8_4724">
-                    <pb facs="#F_K-5_Bae_TB_8_174" n="80r" xml:id="Bae_TB_8_4725" />
                     <p xml:id="Bae_TB_8_4726">
                         <date when="1909-10-08" type="diaryEntry" xml:id="Bae_TB_8_4727">
                             <hi rendition="#ul" xml:id="Bae_TB_8_4728">Freitag den 8. <choice
@@ -9204,8 +9195,8 @@
                     <pb facs="#F_K-5_Bae_TB_8_177" n="81v" xml:id="Bae_TB_8_4878" />
                     <note type="editorial" xml:id="Bae_TB_8_4879">Diese Seite ist leer.</note>
                 </div>
+                <pb facs="#F_K-5_Bae_TB_8_178" n="82r" xml:id="Bae_TB_8_4881" />
                 <div type="diaryEntry" xml:id="Bae_TB_8_4880">
-                    <pb facs="#F_K-5_Bae_TB_8_178" n="82r" xml:id="Bae_TB_8_4881" />
                     <p xml:id="Bae_TB_8_4882">
                         <date when="1909-10-17" type="diaryEntry" xml:id="Bae_TB_8_4883">
                             <hi rendition="#ul" xml:id="Bae_TB_8_4884">Sonntag den 17. <choice
@@ -9335,8 +9326,8 @@
                     <pb facs="#F_K-5_Bae_TB_8_179" n="82v" xml:id="Bae_TB_8_4951" />
                     <note type="editorial" xml:id="Bae_TB_8_4952">Diese Seite ist leer.</note>
                 </div>
+                <pb facs="#F_K-5_Bae_TB_8_180" n="83r" xml:id="Bae_TB_8_4954" />
                 <div type="diaryEntry" xml:id="Bae_TB_8_4953">
-                    <pb facs="#F_K-5_Bae_TB_8_180" n="83r" xml:id="Bae_TB_8_4954" />
                     <p xml:id="Bae_TB_8_4955">
                         <date when="1909-10-20" type="diaryEntry" xml:id="Bae_TB_8_4956">
                             <hi rendition="#ul" xml:id="Bae_TB_8_4957">Mittwoch den 20. <choice
@@ -9469,8 +9460,8 @@
                     <note type="editorial" xml:id="Bae_TB_8_5029">Diese Seite ist leer.</note>
                 </div>
             </div>
+            <pb facs="#F_K-5_Bae_TB_8_182" n="84r" xml:id="Bae_TB_8_5031" />
             <div type="diaryEntry" xml:id="Bae_TB_8_5030">
-                <pb facs="#F_K-5_Bae_TB_8_182" n="84r" xml:id="Bae_TB_8_5031" />
                 <p xml:id="Bae_TB_8_5032">
                     <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
                         xml:id="Bae_TB_8_5033">Lünz</placeName>

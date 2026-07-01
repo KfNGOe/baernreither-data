@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_MF_6-1_1">
   <teiHeader xml:id="Bae_MF_6-1_2">
     <fileDesc xml:id="Bae_MF_6-1_3">
@@ -99,8 +96,8 @@
           </app>
         </p>
       </div>
+      <pb facs="#F_K-11_Bae_MF_6-1_004" n="1r" xml:id="Bae_MF_6-1_53"/>
       <div type="chapter" xml:id="Bae_MF_6-1_52">
-        <pb facs="#F_K-11_Bae_MF_6-1_004" n="1r" xml:id="Bae_MF_6-1_53"/>
         <anchor xml:id="Bae_MF_6-1_948"/>
         <head xml:id="Bae_MF_6-1_54"><title type="main">Die Erbschaft, die 
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_MF_6-1_55">Koerber</persName> hinterließ</title><title type="short">Erbe Körbers</title></head> 
@@ -572,10 +569,10 @@
           </app>
         </p>
       </div>
-      <div type="chapter" xml:id="Bae_MF_6-1_162">
-        <pb facs="#F_K-11_Bae_MF_6-1_015" n="6v" xml:id="Bae_MF_6-1_2205"/>
+      <pb facs="#F_K-11_Bae_MF_6-1_015" n="6v" xml:id="Bae_MF_6-1_2205"/>
         <note type="editorial" xml:id="Bae_MF_6-1_2206">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_6-1_016" n="7r" xml:id="Bae_MF_6-1_163"/>
+      <div type="chapter" xml:id="Bae_MF_6-1_162">
         <anchor xml:id="Bae_MF_6-1_1197"/>
         <head xml:id="Bae_MF_6-1_164"><title type="main">Die Flitterwochen 
           <persName key="GautschPaul" ref="https://d-nb.info/gnd/137078080" xml:id="Bae_MF_6-1_165">Gautsch</persName></title><title type="short">Gautsch</title>
@@ -843,10 +840,10 @@
           </app>
         </p>
       </div>
-      <div type="chapter" xml:id="Bae_MF_6-1_236">
-        <pb facs="#F_K-11_Bae_MF_6-1_025" n="11v" xml:id="Bae_MF_6-1_2215"/>
+      <pb facs="#F_K-11_Bae_MF_6-1_025" n="11v" xml:id="Bae_MF_6-1_2215"/>
         <note type="editorial" xml:id="Bae_MF_6-1_2216">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_6-1_026" n="12r" xml:id="Bae_MF_6-1_237"/>
+      <div type="chapter" xml:id="Bae_MF_6-1_236">
         <head xml:id="Bae_MF_6-1_238">
           <anchor xml:id="Bae_MF_6-1_1326"/><title type="main">Die Beratungen über Zolltarif und Handelsvertrag mit 
             <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_MF_6-1_239">Deutschland</placeName></title><title type="short">Handelsvertrag Deutschland</title></head>
@@ -1158,10 +1155,10 @@
         </p>
         <p xml:id="Bae_MF_6-1_398">-----------</p>
       </div>
-      <div type="chapter" xml:id="Bae_MF_6-1_399">
-        <pb facs="#F_K-11_Bae_MF_6-1_043" n="14fv" xml:id="Bae_MF_6-1_2233"/>
+      <pb facs="#F_K-11_Bae_MF_6-1_043" n="14fv" xml:id="Bae_MF_6-1_2233"/>
         <note type="editorial" xml:id="Bae_MF_6-1_2234">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_6-1_044" n="15r" xml:id="Bae_MF_6-1_400"/>
+      <div type="chapter" xml:id="Bae_MF_6-1_399">
         <anchor xml:id="Bae_MF_6-1_1383"/>
         <head xml:id="Bae_MF_6-1_401"><title type="main">Ungarische Verbindungen</title><title type="short">Ungar. Verbindungen</title></head> 
           <app from="#Bae_TB_7_4429" type="missing" xml:id="Bae_MF_6-1_1384">
@@ -1338,10 +1335,10 @@
           </app>
         </p>
       </div>
-      <div type="chapter" xml:id="Bae_MF_6-1_478">
-        <pb facs="#F_K-11_Bae_MF_6-1_049" n="17v" xml:id="Bae_MF_6-1_2239"/>
+      <pb facs="#F_K-11_Bae_MF_6-1_049" n="17v" xml:id="Bae_MF_6-1_2239"/>
         <note type="editorial" xml:id="Bae_MF_6-1_2240">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_6-1_050" n="18r" xml:id="Bae_MF_6-1_479"/>
+      <div type="chapter" xml:id="Bae_MF_6-1_478">
         <anchor xml:id="Bae_MF_6-1_1425"/>
         <head xml:id="Bae_MF_6-1_480"><title type="main">
           <persName key="FejervaryGeza" ref="https://d-nb.info/gnd/130147729" xml:id="Bae_MF_6-1_481">Fejervary</persName> und die Koalition. Tagebuchblätter aus dem Herbst 1905</title><title type="short">Herbst 1905</title></head> 

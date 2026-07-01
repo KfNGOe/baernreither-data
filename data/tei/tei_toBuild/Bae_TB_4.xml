@@ -78,8 +78,9 @@
   </teiHeader>
   <text xml:id="Bae_TB_4_50">
     <body xml:id="Bae_TB_4_51">
-      <div type="diaryEntry" xml:id="Bae_TB_4_52"><head><date when="1898-10" type="diaryEntry"></date></head>
-        <pb facs="#F_K-4_Bae_TB_4_002" n="1r" xml:id="Bae_TB_4_53"/>
+      <pb facs="#F_K-4_Bae_TB_4_002" n="1r" xml:id="Bae_TB_4_53"/>
+      <div type="diaryEntry" xml:id="Bae_TB_4_52">
+        <head><date when="1898-10" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_4_8055"/>
         <p xml:id="Bae_TB_4_54">
           <hi rend="ul" xml:id="Bae_TB_4_55">6. Die 
@@ -5229,7 +5230,8 @@
         </p>
       </div>
       <!-- CA: ab hier dann mit MF_3 korrespondierend -->
-      <div type="diaryEntry" xml:id="Bae_TB_4_3400"><head><date when="1899-01" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_4_3400">
+        <head><date when="1899-01" type="diaryEntry"></date></head>
         <anchor xml:id="Bae_TB_4_8592"/>
         <app from="#Bae_MF_3_56" type="missing" xml:id="Bae_TB_4_8593">
           <rdg wit="Bae_MF_3" xml:id="Bae_TB_4_8594">Die Herbstsession 1898 und meine Berliner Reise Seite 247–268; Das Pfingstprogramm Seite 286[!]–280, Exkurs S. 281-284; Die Sommermonate 1899 S. 285–299; Thuns Ende und Clarys Anfang S. 300–303; Clary, Wittek, Körber bis zu den Neuwahlen 1901 S. 304–333; Paris und Donaueschingen S. 322</rdg>
@@ -7920,8 +7922,8 @@
           </app>
         </p>
       </div>
+      <pb facs="#F_K-4_Bae_TB_4_153" n="72v" xml:id="Bae_TB_4_5292"/>
       <div type="diaryEntry" xml:id="Bae_TB_4_5291">
-        <pb facs="#F_K-4_Bae_TB_4_153" n="72v" xml:id="Bae_TB_4_5292"/>
         <anchor xml:id="Bae_TB_4_8724"/>
         <addSpan spanTo="#Bae_TB_4_5381" type="insertion" xml:id="Bae_TB_4_5293"/>
         <p xml:id="Bae_TB_4_5294">Die Vertreter der 
@@ -11706,8 +11708,8 @@
         <anchor xml:id="Bae_TB_4_7895"/>
         <!-- CA: anchor für addspan 100v -->
       </div>
+      <pb facs="#F_K-4_Bae_TB_4_210" n="101r" xml:id="Bae_TB_4_7897"/>
       <div type="diaryEntry" xml:id="Bae_TB_4_7896">
-        <pb facs="#F_K-4_Bae_TB_4_210" n="101r" xml:id="Bae_TB_4_7897"/>
         <p xml:id="Bae_TB_4_7898">
           <anchor xml:id="Bae_TB_4_9030"/>
           <hi rendition="#ul" xml:id="Bae_TB_4_7899">Excurs</hi>

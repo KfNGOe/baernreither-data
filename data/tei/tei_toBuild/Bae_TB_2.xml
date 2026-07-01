@@ -79,7 +79,8 @@
   </teiHeader>
   <text xml:id="Bae_TB_2_49">
     <body xml:id="Bae_TB_2_50">
-      <div type="diaryEntry" xml:id="Bae_TB_2_51"><head><date when="1897-09" type="diaryEntry"></date></head>
+      <div type="diaryEntry" xml:id="Bae_TB_2_51">
+        <head><date when="1897-09" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_2_52">
           <anchor xml:id="Bae_TB_2_53"/>
           <app from="#Bae_MF_1_2445" type="missing" xml:id="Bae_TB_2_54">
@@ -3631,8 +3632,8 @@
         <anchor xml:id="Bae_TB_2_6013"/>
         <!-- CA: anchor für addspan -->
       </div>
+      <pb facs="#F_K-4_Bae_TB_2_082" n="41r" xml:id="Bae_TB_2_2486"/>
       <div type="diaryEntry" xml:id="Bae_TB_2_2485">
-        <pb facs="#F_K-4_Bae_TB_2_082" n="41r" xml:id="Bae_TB_2_2486"/>
         <anchor xml:id="Bae_TB_2_2487"/>
         <head xml:id="Bae_TB_2_2488">
           <hi rendition="#ul" xml:id="Bae_TB_2_2489">VI. Die letzten Dinge der Session</hi><date when="1898-01" type="diaryEntry"></date>
@@ -7356,8 +7357,8 @@
           <note type="editorial" xml:id="Bae_TB_2_6150">Diese Seite ist leer.</note>
         </p>
       </div>
+      <pb facs="#F_K-4_Bae_TB_2_172" n="86r" xml:id="Bae_TB_2_5025"/>
       <div type="diaryEntry" xml:id="Bae_TB_2_5023">
-          <pb facs="#F_K-4_Bae_TB_2_172" n="86r" xml:id="Bae_TB_2_5025"/> 
           <head><hi rendition="#ul" xml:id="Bae_TB_2_5026">I. Meine 
             Informationsreisen
           </hi><date when="1898-09" type="diaryEntry"></date></head>
