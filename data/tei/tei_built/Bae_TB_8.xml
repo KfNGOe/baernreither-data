@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_8_1">
   <teiHeader xml:id="Bae_TB_8_2">
@@ -3644,7 +3644,7 @@
             <choice xml:id="Bae_TB_8_5114">
               <abbr xml:id="Bae_TB_8_5115">Augsb.</abbr>
               <expan xml:id="Bae_TB_8_5116">Augsbruger</expan>
-            </choice> Postzeitung
+            </choice> Postzeitung 
           </orgName> angeschlagene Thema. Viel Wahres. Die Gefaren der polit. Situation werden nicht geringer. 
         </p>
         <p xml:id="Bae_TB_8_2769">
@@ -4526,17 +4526,19 @@
           </persName> journalistisch gebraucht. 
         </p>
         <p xml:id="Bae_TB_8_3415">Resumé dessen, was die beiden sagen: 
-            <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3417">
-              <choice xml:id="Bae_TB_8_3418">
-                <abbr xml:id="Bae_TB_8_3419">Athal</abbr>
-                <expan xml:id="Bae_TB_8_3420">Aehrenthal</expan>
-              </choice>
-            </persName> plant eine Sommation 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3417">
+            <choice xml:id="Bae_TB_8_3418">
+              <abbr xml:id="Bae_TB_8_3419">Athal</abbr>
+              <expan xml:id="Bae_TB_8_3420">Aehrenthal</expan>
+            </choice>
+          </persName> plant eine Sommation 
           <choice xml:id="Bae_TB_8_3425">
             <abbr xml:id="Bae_TB_8_3426">u.</abbr>
             <expan xml:id="Bae_TB_8_3427">und</expan>
           </choice> Ultimatum an 
-          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3428"> Serbien</placeName> Anfang März: Abrüstung, Auflösung des Comitees u.s.w. Erfolgt Unterwerfung gut – wenn nicht besser, Einmarsch, <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3430">Serbien</placeName> "wird überschwemmt". Aber was dann? Andere Dynastie – Zollunion! <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_8_3431">
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3428"> Serbien</placeName> Anfang März: Abrüstung, Auflösung des Comitees u.s.w. Erfolgt Unterwerfung gut – wenn nicht besser, Einmarsch, 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3430">Serbien</placeName> "wird überschwemmt". Aber was dann? Andere Dynastie – Zollunion! 
+          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_8_3431">
             <choice xml:id="Bae_TB_8_3432">
               <abbr xml:id="Bae_TB_8_3433">Fjung</abbr>
               <expan xml:id="Bae_TB_8_3434">Friedjung</expan>
@@ -4552,88 +4554,84 @@
             <abbr xml:id="Bae_TB_8_3440">u.</abbr>
             <expan xml:id="Bae_TB_8_3441">und</expan>
           </choice> frug mich, wie so eine Zollunion aussehen würde. Ich erwiderte: gemeinsame Zollgrenze, also Bewachung der Zollgrenzen zw. 
-            <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3443">Serbien</placeName> und 
-            <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html" xml:id="Bae_TB_8_3444">Bulgarien</placeName>
-            <choice xml:id="Bae_TB_8_3445">
-              <abbr xml:id="Bae_TB_8_3446">u.</abbr>
-              <expan xml:id="Bae_TB_8_3447">und</expan>
-            </choice> der 
-            <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_8_3448">Türkei</placeName> unter 
-            <choice xml:id="Bae_TB_8_3449">
-              <abbr xml:id="Bae_TB_8_3450">öst.-ung.</abbr>
-              <expan xml:id="Bae_TB_8_3451">österreichisch-ungarischer</expan>
-            </choice> Controlle. Freier Verkehr innerhalb des gemeinsamen Zollgebietes. Feststellung einer Quote aus den 
-            <choice xml:id="Bae_TB_8_3452">
-              <abbr xml:id="Bae_TB_8_3453">gem.</abbr>
-              <expan xml:id="Bae_TB_8_3454">gemeinsamen</expan>
-            </choice> Zolleinnamen für 
-            <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3455">Serbien</placeName>, das ja auch die Zolleinnamen der Waren aus 
-            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3456">
-              <choice xml:id="Bae_TB_8_3457">
-                <abbr xml:id="Bae_TB_8_3458">Öst.-Ung.</abbr>
-                <expan xml:id="Bae_TB_8_3459">Österreich-Ungarn</expan>
-              </choice>
-            </placeName> verliert. Schwierigkeiten: 
-            <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3460">Serbien</placeName> hat bis 1917 laufende Verträge mit 
-            <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_3461">
-              <choice xml:id="Bae_TB_8_3462">
-                <abbr xml:id="Bae_TB_8_3463">Dland</abbr>
-                <expan xml:id="Bae_TB_8_3464">Deutschland</expan>
-              </choice>
-            </placeName>, 
-            <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3465">England</placeName>, 
-            <placeName key="Frankreich" ref="https://www.geonames.org/3017382/republic-of-france.html" xml:id="Bae_TB_8_3466">
-              <choice xml:id="Bae_TB_8_3467">
-                <abbr xml:id="Bae_TB_8_3468">Freich</abbr>
-                <expan xml:id="Bae_TB_8_3469">Frankreich</expan>
-              </choice>
-            </placeName> unkündbar bis dahin; Zollunion muss doch wohl über 1917 hinaus begründet werden, also über den 
-            <choice xml:id="Bae_TB_8_3470">
-              <abbr xml:id="Bae_TB_8_3471">öst.-ung.</abbr>
-              <expan xml:id="Bae_TB_8_3472">österreichisch-ungarischen</expan>
-            </choice> Ausgleich hinaus; Veterinärkontrolle durch ganz 
-            <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3473">Serbien</placeName> notwendig; agrarischer Widerstand diesseits und jenseits der Leitha. 
-            <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_8_3474">
-              <choice xml:id="Bae_TB_8_3475">
-                <abbr xml:id="Bae_TB_8_3476">Fjung</abbr>
-                <expan xml:id="Bae_TB_8_3477">Friedjung</expan>
-              </choice>
-            </persName>
-            <choice xml:id="Bae_TB_8_3478">
-              <abbr xml:id="Bae_TB_8_3479">u.</abbr>
-              <expan xml:id="Bae_TB_8_3480">und</expan>
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3443">Serbien</placeName> und 
+          <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html" xml:id="Bae_TB_8_3444">Bulgarien</placeName>
+          <choice xml:id="Bae_TB_8_3445">
+            <abbr xml:id="Bae_TB_8_3446">u.</abbr>
+            <expan xml:id="Bae_TB_8_3447">und</expan>
+          </choice> der 
+          <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_8_3448">Türkei</placeName> unter 
+          <choice xml:id="Bae_TB_8_3449">
+            <abbr xml:id="Bae_TB_8_3450">öst.-ung.</abbr>
+            <expan xml:id="Bae_TB_8_3451">österreichisch-ungarischer</expan>
+          </choice> Controlle. Freier Verkehr innerhalb des gemeinsamen Zollgebietes. Feststellung einer Quote aus den 
+          <choice xml:id="Bae_TB_8_3452">
+            <abbr xml:id="Bae_TB_8_3453">gem.</abbr>
+            <expan xml:id="Bae_TB_8_3454">gemeinsamen</expan>
+          </choice> Zolleinnamen für 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3455">Serbien</placeName>, das ja auch die Zolleinnamen der Waren aus 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3456">
+            <choice xml:id="Bae_TB_8_3457">
+              <abbr xml:id="Bae_TB_8_3458">Öst.-Ung.</abbr>
+              <expan xml:id="Bae_TB_8_3459">Österreich-Ungarn</expan>
             </choice>
-            <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_8_3481">Redlich</persName> finden das alles überbrückbar. Das meiste ist ihnen "technisches Detail". 
-            <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_3482">
-              <choice xml:id="Bae_TB_8_3483">
-                <abbr xml:id="Bae_TB_8_3484">Dland</abbr>
-                <expan xml:id="Bae_TB_8_3485">Deutschland</expan>
-              </choice>
-            </placeName>
-            <choice xml:id="Bae_TB_8_3486">
-              <abbr xml:id="Bae_TB_8_3487">u.</abbr>
-              <expan xml:id="Bae_TB_8_3488">und</expan>
+          </placeName> verliert. Schwierigkeiten: 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3460">Serbien</placeName> hat bis 1917 laufende Verträge mit 
+          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_3461">
+            <choice xml:id="Bae_TB_8_3462">
+              <abbr xml:id="Bae_TB_8_3463">Dland</abbr>
+              <expan xml:id="Bae_TB_8_3464">Deutschland</expan>
             </choice>
-            <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3489">England</placeName> wird "abgefunden", der Widerstand <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_3490">Ungarns</placeName> wird "gebrochen", die Agrarier wird der Mund nötigenfalls die Taschen gestopft. Man glaubt, dass man in einem Irrenhause ist.</p>
+          </placeName>, 
+          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3465">England</placeName>, 
+          <placeName key="Frankreich" ref="https://www.geonames.org/3017382/republic-of-france.html" xml:id="Bae_TB_8_3466">
+            <choice xml:id="Bae_TB_8_3467">
+              <abbr xml:id="Bae_TB_8_3468">Freich</abbr>
+              <expan xml:id="Bae_TB_8_3469">Frankreich</expan>
+            </choice>
+          </placeName> unkündbar bis dahin; Zollunion muss doch wohl über 1917 hinaus begründet werden, also über den 
+          <choice xml:id="Bae_TB_8_3470">
+            <abbr xml:id="Bae_TB_8_3471">öst.-ung.</abbr>
+            <expan xml:id="Bae_TB_8_3472">österreichisch-ungarischen</expan>
+          </choice> Ausgleich hinaus; Veterinärkontrolle durch ganz 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3473">Serbien</placeName> notwendig; agrarischer Widerstand diesseits und jenseits der Leitha. 
+          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_8_3474">
+            <choice xml:id="Bae_TB_8_3475">
+              <abbr xml:id="Bae_TB_8_3476">Fjung</abbr>
+              <expan xml:id="Bae_TB_8_3477">Friedjung</expan>
+            </choice>
+          </persName>
+          <choice xml:id="Bae_TB_8_3478">
+            <abbr xml:id="Bae_TB_8_3479">u.</abbr>
+            <expan xml:id="Bae_TB_8_3480">und</expan>
+          </choice>
+          <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_8_3481">Redlich</persName> finden das alles überbrückbar. Das meiste ist ihnen "technisches Detail". 
+          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_3482">
+            <choice xml:id="Bae_TB_8_3483">
+              <abbr xml:id="Bae_TB_8_3484">Dland</abbr>
+              <expan xml:id="Bae_TB_8_3485">Deutschland</expan>
+            </choice>
+          </placeName>
+          <choice xml:id="Bae_TB_8_3486">
+            <abbr xml:id="Bae_TB_8_3487">u.</abbr>
+            <expan xml:id="Bae_TB_8_3488">und</expan>
+          </choice>
+          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3489">England</placeName> wird "abgefunden", der Widerstand 
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_3490">Ungarns</placeName> wird "gebrochen", die Agrarier wird der Mund nötigenfalls die Taschen gestopft. Man glaubt, dass man in einem Irrenhause ist.
+        </p>
         <pb facs="#F_K-5_Bae_TB_8_125" n="55v" xml:id="Bae_TB_8_3493"/>
         <note type="editorial" xml:id="Bae_TB_8_3494">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K-5_Bae_TB_8_126" n="56r" xml:id="Bae_TB_8_3495"/>
-        <p xml:id="Bae_TB_8_3496">Sprach über die Sache zweimal mit <persName key="RoesslerMauriz"
-            ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_8_3498">Rössler</persName>. Das
-          erstemal leugnete er jede Kriegsabsicht, jede Idee an Zolleinigung mit <placeName
-            key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3499"
-            >Serbien</placeName>. Das zweitemal enger gepresst gab er zu, dass beide Projekte
-          bestehen, will aber nicht zugeben, dass <persName key="AehrenthalAloys"
-            ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3500">Aehrenthal</persName> sie
-          hegt. Was insbesondere die "Zollunion" betrifft, erklärt er die Sache als hellen Wahnsinn
-            <choice xml:id="Bae_TB_8_3506">
+        <p xml:id="Bae_TB_8_3496">Sprach über die Sache zweimal mit 
+          <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_8_3498">Rössler</persName>. Das erstemal leugnete er jede Kriegsabsicht, jede Idee an Zolleinigung mit 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3499">Serbien</placeName>. Das zweitemal enger gepresst gab er zu, dass beide Projekte bestehen, will aber nicht zugeben, dass 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3500">Aehrenthal</persName> sie hegt. Was insbesondere die "Zollunion" betrifft, erklärt er die Sache als hellen Wahnsinn 
+          <choice xml:id="Bae_TB_8_3506">
             <abbr xml:id="Bae_TB_8_3507">u.</abbr>
             <expan xml:id="Bae_TB_8_3508">und</expan>
-          </choice> behauptet, gestern Abend (20.2.) bei <persName key="AehrenthalAloys"
-            ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3510">Aehrenthal</persName> noch
-          entschieden dagegen geredet zu haben. Er meint, dass <placeName key="Deutschland"
-            ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-            xml:id="Bae_TB_8_3513">
+          </choice> behauptet, gestern Abend (20.2.) bei 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3510">Aehrenthal</persName> noch entschieden dagegen geredet zu haben. Er meint, dass 
+          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_3513">
             <choice xml:id="Bae_TB_8_3514">
               <abbr xml:id="Bae_TB_8_3515">Dland</abbr>
               <expan xml:id="Bae_TB_8_3516">Deutschland</expan>
@@ -4643,23 +4641,16 @@
             <abbr xml:id="Bae_TB_8_3518">u.</abbr>
             <expan xml:id="Bae_TB_8_3519">und</expan>
           </choice>
-          <placeName key="England"
-            ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
-            xml:id="Bae_TB_8_3520">England</placeName> sich die Auflösung ihrer Verträge, nicht
-          werden gefallen lassen, dass <placeName key="Serbien"
-            ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3523">
-            Serbiens</placeName> Budget (100 Mufra) so eng ist, dass es von dem Zollaversum geradezu
-          leben müsste, also ein finanzieller Vasallenstaat von uns würde (was ich im Gespräch
-          aufwarf), <choice xml:id="Bae_TB_8_3525">
+          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3520">England</placeName> sich die Auflösung ihrer Verträge, nicht werden gefallen lassen, dass 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3523"> Serbiens</placeName> Budget (100 Mufra) so eng ist, dass es von dem Zollaversum geradezu leben müsste, also ein finanzieller Vasallenstaat von uns würde (was ich im Gespräch aufwarf), 
+          <choice xml:id="Bae_TB_8_3525">
             <abbr xml:id="Bae_TB_8_3526">u.</abbr>
             <expan xml:id="Bae_TB_8_3527">und</expan>
-          </choice> dass das Ganze auch wegen <placeName key="Ungarn"
-            ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_3528">
-            Ungarn</placeName> undurchführbar sei. Für <persName key="FriedjungHeinrich"
-            ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_8_3531">Friedjung</persName> und
-            <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724"
-            xml:id="Bae_TB_8_3532">Redlich</persName> gibt es keine Schwierigkeiten. Es handle sich
-          nur um ein ‚pactum de contrahendo'! bezüglich der Zollunion. </p>
+          </choice> dass das Ganze auch wegen 
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_3528"> Ungarn</placeName> undurchführbar sei. Für 
+          <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_8_3531">Friedjung</persName> und 
+          <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_8_3532">Redlich</persName> gibt es keine Schwierigkeiten. Es handle sich nur um ein ‚pactum de contrahendo'! bezüglich der Zollunion. 
+        </p>
         <p xml:id="Bae_TB_8_3533">
           <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_8_3534">Rössler</persName> scheint mir von seiner Dienstleistung im Äussern schon enttäuscht. Er sagte mir, die diplomatische Orthodoxie sei unglaublich 
           <choice xml:id="Bae_TB_8_3535">
@@ -4677,7 +4668,8 @@
             </choice>
           </persName> dessen sicher? 
         </p>
-        <p xml:id="Bae_TB_8_3545">2.) sind wir sicher, dass wenn wir drin sind o. im Laufe der Ereignisse (<placeName key="Antivari" ref="https://www.geonames.org/3204508/bar.html" xml:id="Bae_TB_8_3546">Antivari</placeName>, unsere Flotte, italienische Flotte usw.) nicht Einsprache von Aussen kommt? 
+        <p xml:id="Bae_TB_8_3545">2.) sind wir sicher, dass wenn wir drin sind o. im Laufe der Ereignisse (
+          <placeName key="Antivari" ref="https://www.geonames.org/3204508/bar.html" xml:id="Bae_TB_8_3546">Antivari</placeName>, unsere Flotte, italienische Flotte usw.) nicht Einsprache von Aussen kommt? 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3547">Russland</placeName> in erster Reihe, 
           <placeName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_3548">Italien</placeName>? 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3549">
@@ -4704,7 +4696,8 @@
             <abbr xml:id="Bae_TB_8_3565">u.</abbr>
             <expan xml:id="Bae_TB_8_3566">und</expan>
           </choice> kann man dann 
-          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3567">Bosnien</placeName> noch friedlich regieren, wo alle Kunst darauf gerichtet sein muss, dass die beiden Confessionen nebeneinander leben.</p>
+          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3567">Bosnien</placeName> noch friedlich regieren, wo alle Kunst darauf gerichtet sein muss, dass die beiden Confessionen nebeneinander leben.
+        </p>
         <p xml:id="Bae_TB_8_3568">5.) mit 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3569">Serbien</placeName> dürfen wir auf die Dauer nicht feindlich stehen, weil wir bei uns Millionen Serben haben. Wir dürfen 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3570">Serbien</placeName> nicht zu einem 
@@ -4763,79 +4756,82 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_3611">Wien</placeName>
           <date when="1909-02-20" type="diaryEntry" xml:id="Bae_TB_8_3612">20.2.09</date>
         </head>
-        <p xml:id="Bae_TB_8_3613">Mit <persName key="FuerstenbergMaxEgon"
-            ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3615"
-                ><choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice></persName>. Erzählt,
-          dass die Zusammenkunft <persName key="BuelowBernhard"
-            ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_8_3618">Bülow</persName>-<persName
-            key="HardingeCharles" ref="https://d-nb.info/gnd/118720368" xml:id="Bae_TB_8_3619"
-            >Harding</persName> beim Königsbesuch in <placeName key="Berlin"
-            ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_8_3620"
-            >Berlin</placeName> kein positives Resultat hatte, aber <placeName key="Russland"
-            ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3622"
-            >Russland</placeName> stellte fest, dass <placeName key="Serbien"
-            ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3623"
-            >Serbien</placeName> wohl wissend, dass es unterliegen wird, den Krieg anfangen würde
-            <choice xml:id="Bae_TB_8_3628">
+        <p xml:id="Bae_TB_8_3613">Mit 
+          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3615">
+            <choice xml:id="Bae_TB_8_5133">
+              <abbr xml:id="Bae_TB_8_5134">Fberg</abbr>
+              <expan xml:id="Bae_TB_8_5135">Fürstenberg</expan>
+            </choice>
+          </persName>. Erzählt, dass die Zusammenkunft 
+          <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_8_3618">Bülow</persName>-
+          <persName key="HardingeCharles" ref="https://d-nb.info/gnd/118720368" xml:id="Bae_TB_8_3619">Harding</persName> beim Königsbesuch in 
+          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_8_3620">Berlin</placeName> kein positives Resultat hatte, aber 
+          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3622">Russland</placeName> stellte fest, dass 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3623">Serbien</placeName> wohl wissend, dass es unterliegen wird, den Krieg anfangen würde 
+          <choice xml:id="Bae_TB_8_3628">
             <abbr xml:id="Bae_TB_8_3629">u.</abbr>
             <expan xml:id="Bae_TB_8_3630">und</expan>
-          </choice> ihn riskieren würde in der Erwartung, die ganze slawische Welt in Bewegung zu
-          setzen. <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"
-            xml:id="Bae_TB_8_3632">Serbien</placeName> ist in einer unmöglichen Situation, <del
-            rendition="#s" xml:id="Bae_TB_8_3633">die</del>
-          <add place="across" xml:id="Bae_TB_8_3634">den</add> Leitern der Bewegung liegt nichts an
-          ein paar tausend Leuten, die bleiben, ja selbst an der Dynastie nichts, sie gehen mit
-          offenen Augen in die verlorene Schlacht, rechnen aber damit, dass <placeName
-            key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html"
-            xml:id="Bae_TB_8_3635">
+          </choice> ihn riskieren würde in der Erwartung, die ganze slawische Welt in Bewegung zu setzen. 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3632">Serbien</placeName> ist in einer unmöglichen Situation, 
+          <del rendition="#s" xml:id="Bae_TB_8_3633">die</del>
+          <add place="across" xml:id="Bae_TB_8_3634">den</add> Leitern der Bewegung liegt nichts an ein paar tausend Leuten, die bleiben, ja selbst an der Dynastie nichts, sie gehen mit offenen Augen in die verlorene Schlacht, rechnen aber damit, dass 
+          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3635">
             <choice xml:id="Bae_TB_8_3636">
               <abbr xml:id="Bae_TB_8_3637">Rland</abbr>
               <expan xml:id="Bae_TB_8_3638">Russland</expan>
             </choice>
-          </placeName> gezwungen werden wird, uns ein Halt zuzurufen. <placeName key="Russland"
-            ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3639">
+          </placeName> gezwungen werden wird, uns ein Halt zuzurufen. 
+          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3639">
             <choice xml:id="Bae_TB_8_3640">
               <abbr xml:id="Bae_TB_8_3641">Rland</abbr>
               <expan xml:id="Bae_TB_8_3642">Russland</expan>
             </choice>
-          </placeName> kann nicht schlagen, aber die Stimmung ist wie <persName
-            key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3644"
-                ><choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice></persName> der ja
-          erst in <placeName key="StPetersburg"
-            ref="https://www.geonames.org/498817/saint-petersburg.html" xml:id="Bae_TB_8_3645"
-            >Petersburg</placeName> war sehr gegen uns. Ebenso in <placeName key="Italien"
-            ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_3646"
-            >Italien</placeName>, so dass, ist einmal losgeschlagen, niemand weiß, wohin es führt.
-            <placeName key="Deutschland"
-            ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-            xml:id="Bae_TB_8_3647">
+          </placeName> kann nicht schlagen, aber die Stimmung ist wie 
+          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3644">
+            <choice xml:id="Bae_TB_8_5136">
+              <abbr xml:id="Bae_TB_8_5137">Fberg</abbr>
+              <expan xml:id="Bae_TB_8_5138">Fürstenberg</expan>
+            </choice>
+          </persName> der ja erst in 
+          <placeName key="StPetersburg" ref="https://www.geonames.org/498817/saint-petersburg.html" xml:id="Bae_TB_8_3645">Petersburg</placeName> war sehr gegen uns. Ebenso in 
+          <placeName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_3646">Italien</placeName>, so dass, ist einmal losgeschlagen, niemand weiß, wohin es führt. 
+          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_3647">
             <choice xml:id="Bae_TB_8_3648">
               <abbr xml:id="Bae_TB_8_3649">Dland</abbr>
               <expan xml:id="Bae_TB_8_3650">Deutschland</expan>
             </choice>
-          </placeName> ist fest mit uns. <persName key="FuerstenbergMaxEgon"
-            ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3652"
-                ><choice><abbr>Fberg</abbr><expan>Fürstenberg</expan></choice></persName> meint,
-          ohne es zu wissen, dass der <choice xml:id="Bae_TB_8_3655">
+          </placeName> ist fest mit uns. 
+          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3652">
+            <choice xml:id="Bae_TB_8_5139">
+              <abbr xml:id="Bae_TB_8_5140">Fberg</abbr>
+              <expan xml:id="Bae_TB_8_5141">Fürstenberg</expan>
+            </choice>
+          </persName> meint, ohne es zu wissen, dass der 
+          <choice xml:id="Bae_TB_8_3655">
             <abbr xml:id="Bae_TB_8_3656">d.</abbr>
             <expan xml:id="Bae_TB_8_3657">deutsche</expan>
           </choice>
-          <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892"
-            xml:id="Bae_TB_8_3658">Kaiser</persName> die nie ausgesprochene Meinung hat, dass, wenn
-          er einmal durch das Brandenburger Tor als Sieger einzieht, er wieder ganz anders dasteht.
-          Das ist alles für uns <choice><abbr>u.</abbr><expan>und</expan></choice> den Frieden sehr
-          schlecht. Das Recept: äussern Krieg zur inneren Rehabilitierung ist alt <choice
-            xml:id="Bae_TB_8_3661">
+          <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_8_3658">Kaiser</persName> die nie ausgesprochene Meinung hat, dass, wenn er einmal durch das Brandenburger Tor als Sieger einzieht, er wieder ganz anders dasteht. Das ist alles für uns 
+          <choice xml:id="Bae_TB_8_5142">
+            <abbr xml:id="Bae_TB_8_5143">u.</abbr>
+            <expan xml:id="Bae_TB_8_5144">und</expan>
+          </choice> den Frieden sehr schlecht. Das Recept: äussern Krieg zur inneren Rehabilitierung ist alt 
+          <choice xml:id="Bae_TB_8_3661">
             <abbr xml:id="Bae_TB_8_3662">u.</abbr>
             <expan xml:id="Bae_TB_8_3663">und</expan>
-          </choice> trügerisch. Die "Überschwemmung" <placeName key="Serbien"
-            ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3665"
-            >Serbiens</placeName> ist für uns zu nichts, kann aber zu allem führen, selbst zu einem
-            <pb facs="#F_K-5_Bae_TB_8_131" n="58v" xml:id="Bae_TB_8_3667"/>
+          </choice> trügerisch. Die "Überschwemmung" 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3665">Serbiens</placeName> ist für uns zu nichts, kann aber zu allem führen, selbst zu einem 
+          <pb facs="#F_K-5_Bae_TB_8_131" n="58v" xml:id="Bae_TB_8_3667"/>
           <note type="editorial" xml:id="Bae_TB_8_3668">Diese Seite ist leer.</note>
-          <pb facs="#F_K-5_Bae_TB_8_132" n="59r" xml:id="Bae_TB_8_3669"/>Krieg mit <hi
-            rendition="#ul" xml:id="Bae_TB_8_3670">drei</hi> Fronten.</p>
-        <p xml:id="Bae_TB_8_3671">Ich erzählte ihm, wie das <choice><abbr>M.</abbr><expan>Ministerium</expan></choice> zu Stande kam.</p>
+          <pb facs="#F_K-5_Bae_TB_8_132" n="59r" xml:id="Bae_TB_8_3669"/>Krieg mit 
+          <hi rendition="#ul" xml:id="Bae_TB_8_3670">drei</hi> Fronten.
+        </p>
+        <p xml:id="Bae_TB_8_3671">Ich erzählte ihm, wie das 
+          <choice xml:id="Bae_TB_8_5145">
+            <abbr xml:id="Bae_TB_8_5146">M.</abbr>
+            <expan xml:id="Bae_TB_8_5147">Ministerium</expan>
+          </choice> zu Stande kam.
+        </p>
         <p xml:id="Bae_TB_8_3672">
           <persName key="HaerdtlGuido" ref="https://d-nb.info/gnd/136200621" xml:id="Bae_TB_8_3673">Härdtl</persName> sagt, er habe von dem neuen 
           <choice xml:id="Bae_TB_8_3674">
@@ -4884,7 +4880,8 @@
           <choice xml:id="Bae_TB_8_3708">
             <abbr xml:id="Bae_TB_8_3709">u.</abbr>
             <expan xml:id="Bae_TB_8_3710">und</expan>
-          </choice> wir (<persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_8_3711">Grabmayr</persName>, 
+          </choice> wir (
+          <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_8_3711">Grabmayr</persName>, 
           <persName key="ExnerWilhelmFranz" ref="https://d-nb.info/gnd/101300891" xml:id="Bae_TB_8_3712">Exner</persName>
           <choice xml:id="Bae_TB_8_3713">
             <abbr xml:id="Bae_TB_8_3714">u.</abbr>
@@ -4911,7 +4908,9 @@
           <choice xml:id="Bae_TB_8_3729">
             <abbr xml:id="Bae_TB_8_3730">u.</abbr>
             <expan xml:id="Bae_TB_8_3731">und</expan>
-          </choice> geschoben – heineinzugreifen, die Sachen im Kern erfassen, etwas Definitives schaffen, davor scheut jedermann zurück. Als ich ihm gestern erzählte, in welcher Richtung wir wünschen dass mehr politisches Bewusstsein und Styl in die <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X">Partei</orgName> kommen sollte – hörte er kaum hin.</p>
+          </choice> geschoben – heineinzugreifen, die Sachen im Kern erfassen, etwas Definitives schaffen, davor scheut jedermann zurück. Als ich ihm gestern erzählte, in welcher Richtung wir wünschen dass mehr politisches Bewusstsein und Styl in die 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_8_5148">Partei</orgName> kommen sollte – hörte er kaum hin.
+        </p>
         <pb facs="#F_K-5_Bae_TB_8_133" n="59v" xml:id="Bae_TB_8_3733"/>
         <note type="editorial" xml:id="Bae_TB_8_3734">Diese Seite ist leer.</note>
       </div>
@@ -4951,23 +4950,35 @@
               <expan xml:id="Bae_TB_8_3762">Deutschlands</expan>
             </choice>
           </placeName> betrachtet, von 
-            <choice xml:id="Bae_TB_8_3764">
-              <abbr xml:id="Bae_TB_8_3765">Dland</abbr>
-              <expan xml:id="Bae_TB_8_3766">Deutschland</expan>
-            </choice> vorgeschoben <choice xml:id="Bae_TB_8_3767">
+          <choice xml:id="Bae_TB_8_3764">
+            <abbr xml:id="Bae_TB_8_3765">Dland</abbr>
+            <expan xml:id="Bae_TB_8_3766">Deutschland</expan>
+          </choice> vorgeschoben 
+          <choice xml:id="Bae_TB_8_3767">
             <abbr xml:id="Bae_TB_8_3768">u.</abbr>
             <expan xml:id="Bae_TB_8_3769">und</expan>
           </choice> als Werkzeug gebraucht. Die ewige Melodie 
-            <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_8_3771">Kramař</persName>. Zu dieser 
+          <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_8_3771">Kramař</persName>. Zu dieser 
           <choice xml:id="Bae_TB_8_3772">
             <abbr xml:id="Bae_TB_8_3773">antiöster.</abbr>
             <expan xml:id="Bae_TB_8_3774">antiösterreichischen</expan>
-          </choice> Strömung kommt die 2.: das orthodoxe Slawentum vs. das katholische. Man fürchtet <choice><abbr>o.</abbr><expan>oder</expan></choice> widerstrebt einer Raillierung aller <choice><abbr>kathol.</abbr><expan>katholischen</expan></choice> Südslawen unter der Führung <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Östreichs</placeName>. <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3780">Russland</placeName> ist und bleibt der große Hort der Südslawen, 
+          </choice> Strömung kommt die 2.: das orthodoxe Slawentum vs. das katholische. Man fürchtet 
+          <choice xml:id="Bae_TB_8_5149">
+            <abbr xml:id="Bae_TB_8_5150">o.</abbr>
+            <expan xml:id="Bae_TB_8_5151">oder</expan>
+          </choice> widerstrebt einer Raillierung aller 
+          <choice xml:id="Bae_TB_8_5152">
+            <abbr xml:id="Bae_TB_8_5153">kathol.</abbr>
+            <expan xml:id="Bae_TB_8_5154">katholischen</expan>
+          </choice> Südslawen unter der Führung 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_5155">Östreichs</placeName>. 
+          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3780">Russland</placeName> ist und bleibt der große Hort der Südslawen, 
           <choice xml:id="Bae_TB_8_3781">
             <abbr xml:id="Bae_TB_8_3782">insb.</abbr>
             <expan xml:id="Bae_TB_8_3783">insbesondere</expan>
           </choice> aber der Orthodoxen. 
-          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3784">Russland</placeName> nicht im Stande Krieg zu füren. Daher für <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName> "heute oder nie" da unten Ordnung zu machen. Es gibt also zwei ganz verschiedene Wege: saigner á blanc, neue Dynastie, vollkommene Schwächung 
+          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3784">Russland</placeName> nicht im Stande Krieg zu füren. Daher für 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_5156">Österreich</placeName> "heute oder nie" da unten Ordnung zu machen. Es gibt also zwei ganz verschiedene Wege: saigner á blanc, neue Dynastie, vollkommene Schwächung 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3786">Serbiens</placeName> auf Decennien – ob das 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3787">
             <choice xml:id="Bae_TB_8_3788">
@@ -5001,7 +5012,12 @@
           <pb facs="#F_K-5_Bae_TB_8_135" n="60v" xml:id="Bae_TB_8_3810"/>
           <note type="editorial" xml:id="Bae_TB_8_3811">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8_136" n="61r" xml:id="Bae_TB_8_3812"/>von Expansion. Handelspolitisch sind wir heute schwächer am 
-          <placeName key="Balkan" ref="https://www.geonames.org/685608/balkan-peninsula.html" xml:id="Bae_TB_8_3813">Balkan</placeName> als vor der Annexion, wir haben uns reducirt (Sandschak, Sandschakbahn, Boykott, <choice><abbr>handelspolit.</abbr><expan>handelspolitische</expan></choice> Concessionen an die Türkei). Aufgeben unserer Stellung in <placeName key="Albanien" ref="https://www.geonames.org/783754/republic-of-albania.html">Albanien</placeName>!
+          <placeName key="Balkan" ref="https://www.geonames.org/685608/balkan-peninsula.html" xml:id="Bae_TB_8_3813">Balkan</placeName> als vor der Annexion, wir haben uns reducirt (Sandschak, Sandschakbahn, Boykott, 
+          <choice xml:id="Bae_TB_8_5157">
+            <abbr xml:id="Bae_TB_8_5158">handelspolit.</abbr>
+            <expan xml:id="Bae_TB_8_5159">handelspolitische</expan>
+          </choice> Concessionen an die Türkei). Aufgeben unserer Stellung in 
+          <placeName key="Albanien" ref="https://www.geonames.org/783754/republic-of-albania.html" xml:id="Bae_TB_8_5160">Albanien</placeName>! 
         </p>
         <p xml:id="Bae_TB_8_3819">
           <persName key="FuerstenbergCarlEmil" xml:id="Bae_TB_8_3820">
@@ -5044,7 +5060,12 @@
           <choice xml:id="Bae_TB_8_3849">
             <abbr xml:id="Bae_TB_8_3850">u.</abbr>
             <expan xml:id="Bae_TB_8_3851">und</expan>
-          </choice> kaum hatte er es erfasst, lancirte er es auch, ganz unausgegoren, unausgedacht, unüberlegt. Nachträglich kam heraus, dass es wohl notwendig sei, die ganze Sache erst durchzudenken. Jetzt sitzt eine Commission <choice><abbr>u.</abbr><expan>und</expan></choice> ist mit dieser Arbeit beschäftigt. So leichtsinnig wird Politik gemacht. <persName key="OxenstiernaAxel" ref="https://d-nb.info/gnd/118738925" xml:id="Bae_TB_8_3855">Oxenstierna</persName>! 
+          </choice> kaum hatte er es erfasst, lancirte er es auch, ganz unausgegoren, unausgedacht, unüberlegt. Nachträglich kam heraus, dass es wohl notwendig sei, die ganze Sache erst durchzudenken. Jetzt sitzt eine Commission 
+          <choice xml:id="Bae_TB_8_5161">
+            <abbr xml:id="Bae_TB_8_5162">u.</abbr>
+            <expan xml:id="Bae_TB_8_5163">und</expan>
+          </choice> ist mit dieser Arbeit beschäftigt. So leichtsinnig wird Politik gemacht. 
+          <persName key="OxenstiernaAxel" ref="https://d-nb.info/gnd/118738925" xml:id="Bae_TB_8_3855">Oxenstierna</persName>! 
         </p>
         <p xml:id="Bae_TB_8_3856">Vorher hatte ich mit 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3857">Max 
@@ -5064,7 +5085,7 @@
             <abbr xml:id="Bae_TB_8_3867">u.</abbr>
             <expan xml:id="Bae_TB_8_3868">und</expan>
           </choice> in unsere 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X">Partei</orgName> – Krach! 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_8_5164">Partei</orgName> – Krach! 
           <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_8_3870">Grabmayr</persName>
           <choice xml:id="Bae_TB_8_3871">
             <abbr xml:id="Bae_TB_8_3872">u.</abbr>
@@ -5085,39 +5106,33 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_3882">Wien</placeName>
           <date when="1909-03-15" type="diaryEntry" xml:id="Bae_TB_8_3883">15.3.09</date>
         </head>
-        <p xml:id="Bae_TB_8_3884"> Heute in Audienz. Nach einigen
-              <choice><abbr>allg.</abbr><expan>allgemeinen</expan></choice> Redensarten <choice
-            xml:id="Bae_TB_8_3887">
+        <p xml:id="Bae_TB_8_3884"> Heute in Audienz. Nach einigen 
+          <choice xml:id="Bae_TB_8_5165">
+            <abbr xml:id="Bae_TB_8_5166">allg.</abbr>
+            <expan xml:id="Bae_TB_8_5167">allgemeinen</expan>
+          </choice> Redensarten 
+          <choice xml:id="Bae_TB_8_3887">
             <abbr xml:id="Bae_TB_8_3888">u.</abbr>
             <expan xml:id="Bae_TB_8_3889">und</expan>
-          </choice> der Pause[?] sagte ich: "Wir leben in schweren Zeiten. Es zeigt sich aber doch
-          jetzt der Patriotismus. Es ist zu hoffen, dass, wenn die Monarchie nach Aussen vor eine
-          große Aufgabe gestellt wird, die kleinen <pb facs="#F_K-5_Bae_TB_8_137" n="61v"
-            xml:id="Bae_TB_8_3891"/>
-          <note type="editorial" xml:id="Bae_TB_8_3892">Hier finden sich Ergänzungen, Korrekturen
-            oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im
-            Tagebuch oder im Manuskript Fragmente. </note>
-          <pb facs="#F_K-5_Bae_TB_8_138" n="62r" xml:id="Bae_TB_8_3894"/>Kämpfe im Innern
-          zurücktreten werden, aber es sind doch Millionen, die innigst wünschen, dass die
-          Friedensliebe <choice xml:id="Bae_TB_8_3897">
+          </choice> der Pause[?] sagte ich: "Wir leben in schweren Zeiten. Es zeigt sich aber doch jetzt der Patriotismus. Es ist zu hoffen, dass, wenn die Monarchie nach Aussen vor eine große Aufgabe gestellt wird, die kleinen 
+          <pb facs="#F_K-5_Bae_TB_8_137" n="61v" xml:id="Bae_TB_8_3891"/>
+          <note type="editorial" xml:id="Bae_TB_8_3892">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. </note>
+          <pb facs="#F_K-5_Bae_TB_8_138" n="62r" xml:id="Bae_TB_8_3894"/>Kämpfe im Innern zurücktreten werden, aber es sind doch Millionen, die innigst wünschen, dass die Friedensliebe 
+          <choice xml:id="Bae_TB_8_3897">
             <abbr xml:id="Bae_TB_8_3898">E.</abbr>
             <expan xml:id="Bae_TB_8_3899">Euerer</expan>
-          </choice> Majestät triumfieren möge." (Lachend) Ja, das würde ich auch wünschen, aber es ist schwer möglich geworden.
-            <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html"
-            xml:id="Bae_TB_8_3901">Russland</placeName> vereitelt alles." – "Aber das
-          Friedensbedürfnis in <placeName key="Europa"
-            ref="https://www.geonames.org/6255148/europe.html" xml:id="Bae_TB_8_3902"
-            >Europa</placeName> ist doch gross <choice xml:id="Bae_TB_8_3903">
+          </choice> Majestät triumfieren möge." (Lachend) Ja, das würde ich auch wünschen, aber es ist schwer möglich geworden. 
+          <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3901">Russland</placeName> vereitelt alles." – "Aber das Friedensbedürfnis in 
+          <placeName key="Europa" ref="https://www.geonames.org/6255148/europe.html" xml:id="Bae_TB_8_3902">Europa</placeName> ist doch gross 
+          <choice xml:id="Bae_TB_8_3903">
             <abbr xml:id="Bae_TB_8_3904">u.</abbr>
             <expan xml:id="Bae_TB_8_3905">und</expan>
-          </choice> auch die Franzosen wirken in der Richtung." – "Ja, bis jetzt, jetzt aber fangen
-          sie an" (Handbewegung, dass sie wackeln). – "Sie haben aber doch ein großes Geld in dem
-          europäischen Geschäft stecken." – (Lachend) "Ja, das ist wahr, aber trotzdem – von
-            <placeName key="England"
-            ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
-            xml:id="Bae_TB_8_3907">England</placeName> werden sie beeinflusst, ja sie haben eine
-          Wendung gemacht." </p>
-        <p xml:id="Bae_TB_8_3908">Der Rest des Gespräches innere Sachen, <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde Geschäftsordnung usw.</p>
+          </choice> auch die Franzosen wirken in der Richtung." – "Ja, bis jetzt, jetzt aber fangen sie an" (Handbewegung, dass sie wackeln). – "Sie haben aber doch ein großes Geld in dem europäischen Geschäft stecken." – (Lachend) "Ja, das ist wahr, aber trotzdem – von 
+          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3907">England</placeName> werden sie beeinflusst, ja sie haben eine Wendung gemacht." 
+        </p>
+        <p xml:id="Bae_TB_8_3908">Der Rest des Gespräches innere Sachen, 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde Geschäftsordnung usw.
+        </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_8_3914">
         <head xml:id="Bae_TB_8_3915">
