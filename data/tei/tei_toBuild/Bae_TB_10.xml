@@ -2835,19 +2835,19 @@
           <choice xml:id="Bae_TB_10_2148">
             <abbr xml:id="Bae_TB_10_2149">u.</abbr>
             <expan xml:id="Bae_TB_10_2150">und</expan>
-          </choice> der Donau, in der Lage eine gewisse Ähnlichkeit mit der Dufferin Terrasse in 
+          </choice> der <placeName key="Donau" ref="https://www.geonames.org/791630/danube-river.html">Donau</placeName>, in der Lage eine gewisse Ähnlichkeit mit der Dufferin Terrasse in 
           <placeName key="Quebec" ref="https://www.geonames.org/6325494/quebec.html" xml:id="Bae_TB_10_2151">Quebec</placeName> über dem Zusammenfluss des Lorenzo 
           <choice xml:id="Bae_TB_10_2152">
             <abbr xml:id="Bae_TB_10_2153">u.</abbr>
             <expan xml:id="Bae_TB_10_2154">und</expan>
-          </choice> des St. Charles. Wunderbarer, grossartiger Blick auf die Windungen der Donau, die hier einen scharfen Bogen macht. 
+          </choice> des St. Charles. Wunderbarer, grossartiger Blick auf die Windungen der <placeName key="Donau" ref="https://www.geonames.org/791630/danube-river.html">Donau</placeName>, die hier einen scharfen Bogen macht. 
           <placeName key="Semlin" ref="https://www.geonames.org/783920/zemun.html" xml:id="Bae_TB_10_2155">Semlin</placeName>, nicht direkt 
           <placeName key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html" xml:id="Bae_TB_10_2156">
             <choice xml:id="Bae_TB_10_2157">
               <abbr xml:id="Bae_TB_10_2158">B.</abbr>
               <expan xml:id="Bae_TB_10_2159">Belgrad</expan>
             </choice>
-          </placeName> gegenüber, sondern etwa 5-6 Kilometer die Donau aufwärts ist der Mittelpunkt dieser weiten Aussichtsfelder. Weite Auen ohne Ortschaften, in der Ferne die Hügel von 
+          </placeName> gegenüber, sondern etwa 5-6 Kilometer die <placeName key="Donau" ref="https://www.geonames.org/791630/danube-river.html">Donau</placeName> aufwärts ist der Mittelpunkt dieser weiten Aussichtsfelder. Weite Auen ohne Ortschaften, in der Ferne die Hügel von 
           <placeName key="NoviSad" ref="https://www.geonames.org/3194359/opstina-novi-sad.html" xml:id="Bae_TB_10_2160">Neusatz</placeName>
           <choice xml:id="Bae_TB_10_2161">
             <abbr xml:id="Bae_TB_10_2162">u.</abbr>
@@ -2876,14 +2876,14 @@
               <expan xml:id="Bae_TB_10_2181">Belgrad</expan>
             </choice>
           </placeName> liegt an der 
-          <placeName key="Save" ref="https://www.geonames.org/1027190/save.html" xml:id="Bae_TB_10_6719">Save</placeName> und breitet sich an ihr weit hinauf aus. Serbisches Gebirge begrenzt den Horizont nach der andern Seite. Der Berg Avala am Horizont. Sehr schöne Coniferen. Schöne Exemplare des Pinus strobus 
+          <placeName key="Save" ref="https://www.geonames.org/1027190/save.html" xml:id="Bae_TB_10_6719">Save</placeName> und breitet sich an ihr weit hinauf aus. Serbisches Gebirge begrenzt den Horizont nach der andern Seite. Der Berg <placeName key="Avala" ref="https://www.geonames.org/793072/avala.html">Avala</placeName> am Horizont. Sehr schöne Coniferen. Schöne Exemplare des Pinus strobus 
           <choice xml:id="Bae_TB_10_2182">
             <abbr xml:id="Bae_TB_10_2183">u.</abbr>
             <expan xml:id="Bae_TB_10_2184">und</expan>
-          </choice> eine Fichtenart die hier Smrća heisst, mit riesigen Nadeln, die buschig wächst. 
+          </choice> eine Fichtenart die hier Smrća heisst, mit curzen Nadeln, die buschig wächst. 
         </p>
         <p xml:id="Bae_TB_10_2185">Mit 
-          <persName key="Kuzmanovic" ref="no_ref" xml:id="Bae_TB_10_2186">Kuzmanović</persName> die geschäftlichen Verhältnisse 
+          <persName key="Kuzmanovic" xml:id="Bae_TB_10_2186">Kuzmanović</persName> die geschäftlichen Verhältnisse 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_2187">
             <choice xml:id="Bae_TB_10_2188">
               <abbr xml:id="Bae_TB_10_2189">S.</abbr>
@@ -2965,10 +2965,10 @@
             <abbr xml:id="Bae_TB_10_2248">Mill.</abbr>
             <expan xml:id="Bae_TB_10_2249">Millionen</expan>
           </choice>. 
-          <choice xml:id="Bae_TB_10_2250">
+          <persName key="Kuzmanovic" ><choice xml:id="Bae_TB_10_2250">
             <abbr xml:id="Bae_TB_10_2251">K.</abbr>
             <expan xml:id="Bae_TB_10_2252">Kuzmanović</expan>
-          </choice> schätzt die Kraft des Landes nicht hoch ein. Kein Grossgrundbesitz. Bauer in guter Lage, aber 
+          </choice></persName> schätzt die Kraft des Landes nicht hoch ein. Kein Grossgrundbesitz. Bauer in guter Lage, aber 
           <choice xml:id="Bae_TB_10_2253">
             <abbr xml:id="Bae_TB_10_2254">gg.</abbr>
             <expan xml:id="Bae_TB_10_2255">gegen</expan>
@@ -3006,8 +3006,7 @@
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_10_2280">Russland</placeName>. 
         </p>
         <p xml:id="Bae_TB_10_2281">Dann machte ich mit einem sehr guten Fremdenführer eine Fart durch die Stadt. Fand noch eine kleine Moschee mit den Resten der türkischen Ansiedlung. Unter der Festung ein altes schönes Renaissancetor, "Thor 
-          <persName key="PrinzEugen" ref="https://d-nb.info/gnd/118605941" xml:id="Bae_TB_10_2282">Prinz Eugen's</persName>" auf der einen Seite 
-          <!-- DC Monogramm aus gespiegeltem und überkreuzten C --> was wohl 
+          <persName key="PrinzEugen" ref="https://d-nb.info/gnd/118605941" xml:id="Bae_TB_10_2282">Prinz Eugen's</persName>" auf der einen Seite <note type="editorial">An dieser Stelle befindet sich das Monogramm aus gespiegeltem und überkreuzten C.</note> was wohl 
           <persName key="KaiserKarlVI" ref="https://d-nb.info/gnd/118560107" xml:id="Bae_TB_10_2283">Carl (VI)</persName> heissen soll, auf der andern Seite noch die Kaiserkrone, aber das Wappen herausgeschlagen. Ein türkisches Bad, jetzt als Dampfbad für die Soldaten benützt. Auf der Festung das Grab 
           <persName key="DamatAliPascha" ref="https://d-nb.info/gnd/1114933597" xml:id="Bae_TB_10_2284">Mustapha Pascha's</persName>[ 
           <persName key="DamatAliPascha" ref="https://d-nb.info/gnd/1114933597" xml:id="Bae_TB_10_6720">Silahdar Damat Ali Pasha</persName>], auch die Kaserne, aus der in der Mordnacht 
@@ -6007,7 +6006,7 @@
         </head>
         <p xml:id="Bae_TB_10_4572">Gestern abends im 
           <orgName key="CasinoNational" ref="no_ref" xml:id="Bae_TB_10_4573">Nationalcasino</orgName> mit 
-          <persName key="ZichyAladar" ref="https://d-nb.info/gnd/171366980" xml:id="Bae_TB_10_4574">Tivadar Zichy</persName>. Auch er ist für Monitore in der Donau 
+          <persName key="ZichyAladar" ref="https://d-nb.info/gnd/171366980" xml:id="Bae_TB_10_4574">Tivadar Zichy</persName>. Auch er ist für Monitore in der <placeName key="Donau" ref="https://www.geonames.org/791630/danube-river.html">Donau</placeName> 
           <choice xml:id="Bae_TB_10_4575">
             <abbr xml:id="Bae_TB_10_4576">u.s.w.</abbr>
             <expan xml:id="Bae_TB_10_4577">und so weiter</expan>
