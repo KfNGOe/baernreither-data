@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_9_1">
   <teiHeader xml:id="Bae_TB_9_2">
     <fileDesc xml:id="Bae_TB_9_3">
@@ -492,7 +493,7 @@
           <!-- identity unknown -->
           <persName key="FischerHermann" ref="no_ref" xml:id="Bae_TB_9_365">Fischer</persName> in 
           <!-- identity unknown -->
-          <placeName key="Czernowitz" ref="https://www.geonames.org/710719/chernivtsi.html" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara ( 
+          <placeName key="Czernowitz" ref="https://www.geonames.org/710719/chernivtsi.html" xml:id="Bae_TB_9_366">Czernowitz</placeName> in der Zeitung, der das Prädikat Mosara (
           <persName key="FischerMoses" xml:id="Bae_TB_9_4266">Moses</persName>
           <choice xml:id="Bae_TB_9_368">
             <abbr xml:id="Bae_TB_9_369">u.</abbr>
@@ -785,7 +786,7 @@
                 <abbr xml:id="Bae_TB_9_575">böhm.</abbr>
                 <expan xml:id="Bae_TB_9_577">böhmischen</expan>
               </choice>
-            </placeName> Landtag 
+            </placeName> Landtag
           </orgName> den Sturz 
           <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_579">Beck's</persName> planmässig vorbereitet haben. In der letzten Sitzung haben die 
           <choice xml:id="Bae_TB_9_580">
@@ -2232,8 +2233,7 @@
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_1623">
-        <head xml:id="Bae_TB_9_1624">Mit 
-          <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755" xml:id="Bae_TB_9_1625">Burián</persName> am 
+        <head xml:id="Bae_TB_9_1624">Mit <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755" xml:id="Bae_TB_9_1625">Burián</persName> am 
           <date when="1909-12-03" type="diaryEntry" xml:id="Bae_TB_9_1626">3.12.09</date>
         </head>
         <p xml:id="Bae_TB_9_1627">Er ist der Meinung, dass auf die Serben absolut kein Verlass, dass nicht daran zu denken mit ihnen eine aufrichtige Entente herzustellen, dass sie immer unsere Feinde bleiben werden 
@@ -2279,9 +2279,8 @@
       <div type="diaryEntry" xml:id="Bae_TB_9_1651">
         <head xml:id="Bae_TB_9_1652">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1653">Wien</placeName>
-          <date when="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_1654">14.12.09</date>.
-        </head>
-        <p xml:id="Bae_TB_9_4275">Unter dem Eindruck des 
+          <date when="1909-12-14" type="diaryEntry" xml:id="Bae_TB_9_1654">14.12.09</date>.</head>
+        <p>Unter dem Eindruck des 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_1655">Friedjung</persName>processes. Sowol 
           <!-- identity unknown -->
@@ -2363,9 +2362,8 @@
       <div type="diaryEntry" xml:id="Bae_TB_9_1709">
         <head xml:id="Bae_TB_9_1710">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_1711">Wien</placeName>
-          <date when="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_1712">23.12.09</date>.
-        </head>
-        <p xml:id="Bae_TB_9_4276">Der Process 
+          <date when="1909-12-23" type="diaryEntry" xml:id="Bae_TB_9_1712">23.12.09</date>.</head>
+        <p>Der Process 
           <!-- identity unknown -->
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_9_1713">Friedjung</persName> ist ein politisches Ereignis gewesen, der glücklicherweise zum Vorteil abschloss. 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1714">
@@ -2974,7 +2972,7 @@
               <expan xml:id="Bae_TB_9_2146">Herren</expan>
             </choice>Hause 
           </orgName>
-          <hi rendition="#ul" xml:id="Bae_TB_9_2147">ich</hi> als Minister in Aussicht genommen war, aber die bekannten Einflüsse ( 
+          <hi rendition="#ul" xml:id="Bae_TB_9_2147">ich</hi> als Minister in Aussicht genommen war, aber die bekannten Einflüsse (
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_2148">
             <choice xml:id="Bae_TB_9_2149">
               <abbr xml:id="Bae_TB_9_2150">Athal</abbr>
@@ -5414,7 +5412,7 @@
           <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_9_3939">Wolf</persName>, trotzdem der Generalstabschef der 
           <orgName key="Verfassungspartei" ref="no_ref" xml:id="Bae_TB_9_3940">Partei</orgName>
           <!-- identity unknown -->
-          <persName key="PacherRafael" ref="https://d-nb.info/gnd/124749275" xml:id="Bae_TB_9_3941">Pacher</persName> ist. Letzterer im Grunde sehr conciliant, zu jedem vernünftigen Vorschlag zu haben, aber in steter Verbindung mit seinem Wahlbezirk ( 
+          <persName key="PacherRafael" ref="https://d-nb.info/gnd/124749275" xml:id="Bae_TB_9_3941">Pacher</persName> ist. Letzterer im Grunde sehr conciliant, zu jedem vernünftigen Vorschlag zu haben, aber in steter Verbindung mit seinem Wahlbezirk (
           <placeName key="Komotau" ref="https://www.geonames.org/11921722/chomutov.html" xml:id="Bae_TB_9_3942">Kommotau</placeName>), von dortigen Localströmungen nicht unabhängig 
           <choice xml:id="Bae_TB_9_3943">
             <abbr xml:id="Bae_TB_9_3944">u.</abbr>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_8_1">
   <teiHeader xml:id="Bae_TB_8_2">
     <fileDesc xml:id="Bae_TB_8_3">
@@ -4616,7 +4617,7 @@
             <expan xml:id="Bae_TB_8_3488">und</expan>
           </choice>
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3489">England</placeName> wird "abgefunden", der Widerstand 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_3490">Ungarns</placeName> wird "gebrochen", die Agrarier wird der Mund nötigenfalls die Taschen gestopft. Man glaubt, dass man in einem Irrenhause ist. 
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_3490">Ungarns</placeName> wird "gebrochen", die Agrarier wird der Mund nötigenfalls die Taschen gestopft. Man glaubt, dass man in einem Irrenhause ist.
         </p>
         <pb facs="#F_K-5_Bae_TB_8_125" n="55v" xml:id="Bae_TB_8_3493"/>
         <note type="editorial" xml:id="Bae_TB_8_3494">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
@@ -4667,7 +4668,7 @@
             </choice>
           </persName> dessen sicher? 
         </p>
-        <p xml:id="Bae_TB_8_3545">2.) sind wir sicher, dass wenn wir drin sind o. im Laufe der Ereignisse ( 
+        <p xml:id="Bae_TB_8_3545">2.) sind wir sicher, dass wenn wir drin sind o. im Laufe der Ereignisse (
           <placeName key="Antivari" ref="https://www.geonames.org/3204508/bar.html" xml:id="Bae_TB_8_3546">Antivari</placeName>, unsere Flotte, italienische Flotte usw.) nicht Einsprache von Aussen kommt? 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3547">Russland</placeName> in erster Reihe, 
           <placeName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_3548">Italien</placeName>? 
@@ -4695,7 +4696,7 @@
             <abbr xml:id="Bae_TB_8_3565">u.</abbr>
             <expan xml:id="Bae_TB_8_3566">und</expan>
           </choice> kann man dann 
-          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3567">Bosnien</placeName> noch friedlich regieren, wo alle Kunst darauf gerichtet sein muss, dass die beiden Confessionen nebeneinander leben. 
+          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3567">Bosnien</placeName> noch friedlich regieren, wo alle Kunst darauf gerichtet sein muss, dass die beiden Confessionen nebeneinander leben.
         </p>
         <p xml:id="Bae_TB_8_3568">5.) mit 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3569">Serbien</placeName> dürfen wir auf die Dauer nicht feindlich stehen, weil wir bei uns Millionen Serben haben. Wir dürfen 
@@ -4762,7 +4763,7 @@
               <expan xml:id="Bae_TB_8_5135">Fürstenberg</expan>
             </choice>
           </persName>. Erzählt, dass die Zusammenkunft 
-          <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_8_3618">Bülow</persName>- 
+          <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_8_3618">Bülow</persName>-
           <persName key="HardingeCharles" ref="https://d-nb.info/gnd/118720368" xml:id="Bae_TB_8_3619">Harding</persName> beim Königsbesuch in 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_8_3620">Berlin</placeName> kein positives Resultat hatte, aber 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3622">Russland</placeName> stellte fest, dass 
@@ -4823,13 +4824,13 @@
           <pb facs="#F_K-5_Bae_TB_8_131" n="58v" xml:id="Bae_TB_8_3667"/>
           <note type="editorial" xml:id="Bae_TB_8_3668">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8_132" n="59r" xml:id="Bae_TB_8_3669"/>Krieg mit 
-          <hi rendition="#ul" xml:id="Bae_TB_8_3670">drei</hi> Fronten. 
+          <hi rendition="#ul" xml:id="Bae_TB_8_3670">drei</hi> Fronten.
         </p>
         <p xml:id="Bae_TB_8_3671">Ich erzählte ihm, wie das 
           <choice xml:id="Bae_TB_8_5145">
             <abbr xml:id="Bae_TB_8_5146">M.</abbr>
             <expan xml:id="Bae_TB_8_5147">Ministerium</expan>
-          </choice> zu Stande kam. 
+          </choice> zu Stande kam.
         </p>
         <p xml:id="Bae_TB_8_3672">
           <persName key="HaerdtlGuido" ref="https://d-nb.info/gnd/136200621" xml:id="Bae_TB_8_3673">Härdtl</persName> sagt, er habe von dem neuen 
@@ -4879,7 +4880,7 @@
           <choice xml:id="Bae_TB_8_3708">
             <abbr xml:id="Bae_TB_8_3709">u.</abbr>
             <expan xml:id="Bae_TB_8_3710">und</expan>
-          </choice> wir ( 
+          </choice> wir (
           <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_8_3711">Grabmayr</persName>, 
           <persName key="ExnerWilhelmFranz" ref="https://d-nb.info/gnd/101300891" xml:id="Bae_TB_8_3712">Exner</persName>
           <choice xml:id="Bae_TB_8_3713">
@@ -4908,7 +4909,7 @@
             <abbr xml:id="Bae_TB_8_3730">u.</abbr>
             <expan xml:id="Bae_TB_8_3731">und</expan>
           </choice> geschoben – heineinzugreifen, die Sachen im Kern erfassen, etwas Definitives schaffen, davor scheut jedermann zurück. Als ich ihm gestern erzählte, in welcher Richtung wir wünschen dass mehr politisches Bewusstsein und Styl in die 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_8_5148">Partei</orgName> kommen sollte – hörte er kaum hin. 
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_8_5148">Partei</orgName> kommen sollte – hörte er kaum hin.
         </p>
         <pb facs="#F_K-5_Bae_TB_8_133" n="59v" xml:id="Bae_TB_8_3733"/>
         <note type="editorial" xml:id="Bae_TB_8_3734">Diese Seite ist leer.</note>
@@ -5130,7 +5131,7 @@
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3907">England</placeName> werden sie beeinflusst, ja sie haben eine Wendung gemacht." 
         </p>
         <p xml:id="Bae_TB_8_3908">Der Rest des Gespräches innere Sachen, 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde Geschäftsordnung usw. 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde Geschäftsordnung usw.
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_8_3914">
