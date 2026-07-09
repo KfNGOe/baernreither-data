@@ -1347,7 +1347,7 @@
           </choice> unerklärlich bleibt mir, welche Einflüsse sich geltend gemacht haben, um diese Wandlung herbeizufüren. 
         </p>
         <p xml:id="Bae_TB_10_998">Ein Beispiel für diese Wandlung ist auch der inliegende Brief von 
-          <persName key="JagicVatroslav" ref="https://explore.gnd.network/gnd/118711458" xml:id="Bae_TB_10_999">Jagić</persName> mit dem von ihm geschriebenen Zeitungsartikel, welcher beweist dass 
+          <persName key="JagicVatroslav" ref="https://d-nb.info/gnd/118711458" xml:id="Bae_TB_10_999">Jagić</persName> mit dem von ihm geschriebenen Zeitungsartikel, welcher beweist dass 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_10_1000">
             <choice xml:id="Bae_TB_10_1001">
               <abbr xml:id="Bae_TB_10_1002">Athal</abbr>
@@ -2689,7 +2689,7 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_2035">Wien</placeName> hat. Ich lud ihn zum Essen ein, dazu 
           <persName key="BoehmBawerkEugen" ref="https://d-nb.info/gnd/118660691" xml:id="Bae_TB_10_2036">Böhm</persName>, unsern Präsidenten der 
           <orgName key="AkademieWissenschaftenWien" ref="https://d-nb.info/gnd/110494894X" xml:id="Bae_TB_10_2037">Akademie</orgName> , dann 
-          <persName key="JagicVatroslav" ref="https://explore.gnd.network/gnd/118711458" xml:id="Bae_TB_10_2038">Jagić</persName>, 
+          <persName key="JagicVatroslav" ref="https://d-nb.info/gnd/118711458" xml:id="Bae_TB_10_2038">Jagić</persName>, 
           <persName key="GollJaroslav" ref="https://d-nb.info/gnd/117694118" xml:id="Bae_TB_10_2039">Goll</persName> aus 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_10_2040">Prag</placeName>
           <choice xml:id="Bae_TB_10_2041">
@@ -3551,53 +3551,44 @@
           </choice> Vieles zu erklären. 
         </p>
         <p xml:id="Bae_TB_10_2702">
-          <persName key="GrabianskiAlexander" ref="no_ref" xml:id="Bae_TB_10_2703">Grabianki</persName> muss mir aus dem 5. 
-          <choice xml:id="Bae_TB_10_2704">
+          <persName key="GrabianskiAlexander" ref="no_ref" xml:id="Bae_TB_10_2703"
+            >Grabianki</persName> muss mir aus dem 5. <choice xml:id="Bae_TB_10_2704">
             <abbr xml:id="Bae_TB_10_2705">Bd.</abbr>
             <expan xml:id="Bae_TB_10_2706">Band</expan>
-          </choice> alle 
-          <choice xml:id="Bae_TB_10_2707">
+          </choice> alle <choice xml:id="Bae_TB_10_2707">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2708"/>
             <expan xml:id="Bae_TB_10_2709">deutschen</expan>
-          </choice> Briefe 
-          <choice xml:id="Bae_TB_10_2710">
+          </choice> Briefe <choice xml:id="Bae_TB_10_2710">
             <abbr xml:id="Bae_TB_10_2711">V. K.</abbr>
             <expan xml:id="Bae_TB_10_2712">Vuk Karadžic'</expan>
-          </choice> heraussuchen. Unterredung 
-          <choice xml:id="Bae_TB_10_2713">
+          </choice> heraussuchen. Unterredung <choice xml:id="Bae_TB_10_2713">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2714"/>
             <expan xml:id="Bae_TB_10_2715">mit</expan>
           </choice>
-          <persName key="CvijicJovan" ref="https://d-nb.info/gnd/119378795" xml:id="Bae_TB_10_2716">Cvjič</persName>. Der intelligenteste 
-          <choice xml:id="Bae_TB_10_2717">
+          <persName key="CvijicJovan" ref="https://d-nb.info/gnd/119378795" xml:id="Bae_TB_10_2716"
+            >Cvjič</persName>. Der intelligenteste <choice xml:id="Bae_TB_10_2717">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2718"/>
             <expan xml:id="Bae_TB_10_2719">von</expan>
-          </choice> Allen. Ich sagte ihm 
-          <choice xml:id="Bae_TB_10_2720">
+          </choice> Allen. Ich sagte ihm <choice xml:id="Bae_TB_10_2720">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2721"/>
             <expan xml:id="Bae_TB_10_2722">auf sein</expan>
-          </choice> Drängen klar, was ich 
-          <choice xml:id="Bae_TB_10_2723">
+          </choice> Drängen klar, was ich <choice xml:id="Bae_TB_10_2723">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2724"/>
             <expan xml:id="Bae_TB_10_2725">meine</expan>
-          </choice>: 
-          <choice xml:id="Bae_TB_10_2726">
+          </choice>: <choice xml:id="Bae_TB_10_2726">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2727"/>
             <expan xml:id="Bae_TB_10_2728">hoffentlich [?]</expan>
-          </choice> Annäherung: Handels 
-          <choice xml:id="Bae_TB_10_2729">
+          </choice> Annäherung: Handels <choice xml:id="Bae_TB_10_2729">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2730"/>
             <expan xml:id="Bae_TB_10_2731">vertrag</expan>
-          </choice> – Zoll- 
-          <choice xml:id="Bae_TB_10_2732">
+          </choice> – Zoll- <choice xml:id="Bae_TB_10_2732">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2733"/>
             <expan xml:id="Bae_TB_10_2734"> und</expan>
-          </choice> Handels 
-          <choice xml:id="Bae_TB_10_2735">
+          </choice> Handels <choice xml:id="Bae_TB_10_2735">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2736"/>
             <expan xml:id="Bae_TB_10_2737">bündnis [?]</expan>
-          </choice> – aber mit 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_2738">
+          </choice> – aber mit <placeName key="Oesterreich"
+            ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_2738">
             <choice xml:id="Bae_TB_10_2739">
               <abbr xml:id="Bae_TB_10_2740">Ö.</abbr>
               <expan xml:id="Bae_TB_10_2741">Österreich</expan>
@@ -3606,17 +3597,17 @@
           <choice xml:id="Bae_TB_10_2742">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2743"/>
             <expan xml:id="Bae_TB_10_2744">[...]</expan>
-          </choice> Perspective? 
-          <choice xml:id="Bae_TB_10_2745">
+          </choice> Perspective? <choice xml:id="Bae_TB_10_2745">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2746"/>
             <expan xml:id="Bae_TB_10_2747">[...] Widerständigkeit</expan>
           </choice>
-          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_10_2748">Serbiens</placeName> enger 
-          <choice xml:id="Bae_TB_10_2749">
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"
+            xml:id="Bae_TB_10_2748">Serbiens</placeName> enger <choice xml:id="Bae_TB_10_2749">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2750"/>
             <expan xml:id="Bae_TB_10_2751">Anschluss an</expan>
           </choice>
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_2752">
+          <placeName key="Oesterreich"
+            ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_10_2752">
             <choice xml:id="Bae_TB_10_2753">
               <abbr xml:id="Bae_TB_10_2754">Ö.</abbr>
               <expan xml:id="Bae_TB_10_2755">Österreich</expan>
@@ -3625,143 +3616,118 @@
           <choice xml:id="Bae_TB_10_2756">
             <abbr xml:id="Bae_TB_10_2757">u.</abbr>
             <expan xml:id="Bae_TB_10_2758">und</expan>
-          </choice> an den 
-          <orgName key="Dreibund" ref="https://d-nb.info/gnd/4150632-7" xml:id="Bae_TB_10_2759">
+          </choice> an den <orgName key="Dreibund" ref="https://d-nb.info/gnd/4150632-7"
+            xml:id="Bae_TB_10_2759">
             <choice xml:id="Bae_TB_10_2760">
               <abbr xml:id="Bae_TB_10_2761">3bund</abbr>
               <expan xml:id="Bae_TB_10_2762">Dreibund</expan>
             </choice>
-          </orgName>. Das ist 
-          <choice xml:id="Bae_TB_10_2763">
+          </orgName>. Das ist <choice xml:id="Bae_TB_10_2763">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2764"/>
             <expan xml:id="Bae_TB_10_2765">entschieden</expan>
-          </choice> das 
-          <choice xml:id="Bae_TB_10_2766">
+          </choice> das <choice xml:id="Bae_TB_10_2766">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2767"/>
             <expan xml:id="Bae_TB_10_2768">rechte</expan>
-          </choice> Ziel. Von Trialismus [?] 
-          <choice xml:id="Bae_TB_10_2769">
+          </choice> Ziel. Von Trialismus [?] <choice xml:id="Bae_TB_10_2769">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2770"/>
             <expan xml:id="Bae_TB_10_2771">ziehen wir nicht</expan>
-          </choice>. 
-          <choice xml:id="Bae_TB_10_2772">
+          </choice>. <choice xml:id="Bae_TB_10_2772">
             <abbr xml:id="Bae_TB_10_2773">Č.</abbr>
             <expan xml:id="Bae_TB_10_2774">Cvjič</expan>
-          </choice> ist ein 
-          <choice xml:id="Bae_TB_10_2775">
+          </choice> ist ein <choice xml:id="Bae_TB_10_2775">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2776"/>
             <expan xml:id="Bae_TB_10_2777">sehr ernster</expan>
-          </choice>, gelehrter Mann. 
-          <persName key="SuessEduard" ref="https://d-nb.info/gnd/118757709" xml:id="Bae_TB_10_2778">Suess</persName>
+          </choice>, gelehrter Mann. <persName key="SuessEduard"
+            ref="https://d-nb.info/gnd/118757709" xml:id="Bae_TB_10_2778">Suess</persName>
           <choice xml:id="Bae_TB_10_2779">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2780"/>
             <expan xml:id="Bae_TB_10_2781">sagte mir</expan>
-          </choice> er habe sich 
-          <choice xml:id="Bae_TB_10_2782">
+          </choice> er habe sich <choice xml:id="Bae_TB_10_2782">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2783"/>
             <expan xml:id="Bae_TB_10_2784">einst</expan>
-          </choice> um 
-          <choice xml:id="Bae_TB_10_2785">
+          </choice> um <choice xml:id="Bae_TB_10_2785">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2786"/>
             <expan xml:id="Bae_TB_10_2787">eine</expan>
-          </choice> Professur in 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_2788">Wien</placeName> beworben. Man versteht bei uns Völker 
-          <choice xml:id="Bae_TB_10_2789">
+          </choice> Professur in <placeName key="Wien"
+            ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_2788"
+            >Wien</placeName> beworben. Man versteht bei uns Völker <choice xml:id="Bae_TB_10_2789">
             <abbr xml:id="Bae_TB_10_2790">u.</abbr>
             <expan xml:id="Bae_TB_10_2791">und</expan>
-          </choice> Personen abzustoßen, die Anziehung, Assimilation auf die wir angewiesen 
-          <choice xml:id="Bae_TB_10_2792">
+          </choice> Personen abzustoßen, die Anziehung, Assimilation auf die wir angewiesen <choice
+            xml:id="Bae_TB_10_2792">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2793"/>
             <expan xml:id="Bae_TB_10_2794">sind ist uns</expan>
-          </choice> abhanden 
-          <choice xml:id="Bae_TB_10_2795">
+          </choice> abhanden <choice xml:id="Bae_TB_10_2795">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2796"/>
             <expan xml:id="Bae_TB_10_2797">gekommen</expan>
-          </choice>. Seine Bestrebungen 
-          <choice xml:id="Bae_TB_10_2798">
+          </choice>. Seine Bestrebungen <choice xml:id="Bae_TB_10_2798">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2799"/>
             <expan xml:id="Bae_TB_10_2800">[...]</expan>
-          </choice> Einheit der serbo- 
-          <choice xml:id="Bae_TB_10_2801">
+          </choice> Einheit der serbo- <choice xml:id="Bae_TB_10_2801">
             <abbr xml:id="Bae_TB_10_2802">croat.</abbr>
             <expan xml:id="Bae_TB_10_2803">croatischen</expan>
-          </choice> Rasse. 
-          <choice xml:id="Bae_TB_10_2804">
+          </choice> Rasse. <choice xml:id="Bae_TB_10_2804">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2805"/>
             <expan xml:id="Bae_TB_10_2806">Zusammen mit</expan>
           </choice>
-          <persName key="NovakovicStojan" ref="https://d-nb.info/gnd/117068284" xml:id="Bae_TB_10_2807">Novakovic</persName>
+          <persName key="NovakovicStojan" ref="https://d-nb.info/gnd/117068284"
+            xml:id="Bae_TB_10_2807">Novakovic</persName>
           <choice xml:id="Bae_TB_10_2808">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2809"/>
             <expan xml:id="Bae_TB_10_2810">war</expan>
-          </choice> er in 
-          <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html" xml:id="Bae_TB_10_2811">Agram</placeName> um die slawische Encyclopaedie zu gründen. Er ist Redaktor für Geographie 
-          <choice xml:id="Bae_TB_10_2812">
+          </choice> er in <placeName key="Agram" ref="https://www.geonames.org/3186886/zagreb.html"
+            xml:id="Bae_TB_10_2811">Agram</placeName> um die slawische Encyclopaedie zu gründen. Er
+          ist Redaktor für Geographie <choice xml:id="Bae_TB_10_2812">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2813"/>
             <expan xml:id="Bae_TB_10_2814">und Naturwissenschaft</expan>
-          </choice>. 
-          <choice xml:id="Bae_TB_10_2815">
+          </choice>. <choice xml:id="Bae_TB_10_2815">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2816"/>
             <expan xml:id="Bae_TB_10_2817">[...]</expan>
-          </choice> macht die Redaktion 
-          <choice xml:id="Bae_TB_10_2818">
+          </choice> macht die Redaktion <choice xml:id="Bae_TB_10_2818">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2819"/>
             <expan xml:id="Bae_TB_10_2820">von [...]</expan>
-          </choice>. 
-          <persName key="JagicVatroslav" ref="https://explore.gnd.network/gnd/118711458" xml:id="Bae_TB_10_2821">Jagić</persName> ist 
-          <choice xml:id="Bae_TB_10_2822">
+          </choice>. <persName key="JagicVatroslav" ref="https://d-nb.info/gnd/118711458"
+            xml:id="Bae_TB_10_2821">Jagić</persName> ist <choice xml:id="Bae_TB_10_2822">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2823"/>
             <expan xml:id="Bae_TB_10_2824">auch</expan>
-          </choice> dabei. Die Encyclopaedie wird Geographie, 
-          <choice xml:id="Bae_TB_10_2825">
+          </choice> dabei. Die Encyclopaedie wird Geographie, <choice xml:id="Bae_TB_10_2825">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2826"/>
             <expan xml:id="Bae_TB_10_2827">Naturwissenschaft, Naturgeschichte</expan>
-          </choice>, litteratur 
-          <choice xml:id="Bae_TB_10_2828">
+          </choice>, litteratur <choice xml:id="Bae_TB_10_2828">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2829"/>
-            <expan xml:id="Bae_TB_10_2830">geschcihte</expan>
-          </choice>, naturhistorisches 
-          <choice xml:id="Bae_TB_10_2831">
+            <expan xml:id="Bae_TB_10_2830">geschichte</expan>
+          </choice>, naturhistorisches <choice xml:id="Bae_TB_10_2831">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2832"/>
             <expan xml:id="Bae_TB_10_2833">und</expan>
-          </choice> ethnographisches 
-          <choice xml:id="Bae_TB_10_2834">
+          </choice> ethnographisches <choice xml:id="Bae_TB_10_2834">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2835"/>
             <expan xml:id="Bae_TB_10_2836">enthalten</expan>
-          </choice>. In serbo- 
-          <choice xml:id="Bae_TB_10_2837">
+          </choice>. In serbo- <choice xml:id="Bae_TB_10_2837">
             <abbr xml:id="Bae_TB_10_2838">croat. </abbr>
             <expan xml:id="Bae_TB_10_2839">croatischer</expan>
           </choice>
           <choice xml:id="Bae_TB_10_2840">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2841"/>
             <expan xml:id="Bae_TB_10_2842">Sprache</expan>
-          </choice>, aber nach Belieben in 
-          <choice xml:id="Bae_TB_10_2843">
+          </choice>, aber nach Belieben in <choice xml:id="Bae_TB_10_2843">
             <abbr xml:id="Bae_TB_10_2844">lat. o.</abbr>
             <expan xml:id="Bae_TB_10_2845">lateinischer oder</expan>
-          </choice> cyrillischer 
-          <choice xml:id="Bae_TB_10_2846">
+          </choice> cyrillischer <choice xml:id="Bae_TB_10_2846">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2847"/>
             <expan xml:id="Bae_TB_10_2848">Schrift</expan>
-          </choice>. Auch 
-          <choice xml:id="Bae_TB_10_2849">
+          </choice>. Auch <choice xml:id="Bae_TB_10_2849">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2850"/>
             <expan xml:id="Bae_TB_10_2851">[...]</expan>
-          </choice>. Ein ernstes 
-          <choice xml:id="Bae_TB_10_2852">
+          </choice>. Ein ernstes <choice xml:id="Bae_TB_10_2852">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2853"/>
             <expan xml:id="Bae_TB_10_2854">Stück [...] gegen</expan>
-          </choice> das divide et impera. Versprach ihm [...] 
-          <choice xml:id="Bae_TB_10_2855">
+          </choice> das divide et impera. Versprach ihm [...] <choice xml:id="Bae_TB_10_2855">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2856"/>
             <expan xml:id="Bae_TB_10_2857">zu schicken</expan>
-          </choice>, was ich in dieser 
-          <choice xml:id="Bae_TB_10_2858">
+          </choice>, was ich in dieser <choice xml:id="Bae_TB_10_2858">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_2859"/>
             <expan xml:id="Bae_TB_10_2860">Richtung</expan>
-          </choice> veröffentliche. 
-        </p>
+          </choice> veröffentliche. </p>
         <p xml:id="Bae_TB_10_2861">
           <persName key="StojanovicLjubomir" ref="https://d-nb.info/gnd/128891939" xml:id="Bae_TB_10_2862">Stojanowic</persName>
           <choice xml:id="Bae_TB_10_2863">
@@ -4240,79 +4206,68 @@
         <pb facs="#F_K5_Bae_TB_10_089" n="43v" xml:id="Bae_TB_10_3220"/>
         <note type="editorial" xml:id="Bae_TB_10_3221">Diese Seite ist leer.</note>
         <pb facs="#F_K5_Bae_TB_10_090" n="44r" xml:id="Bae_TB_10_3222"/>
-        <p xml:id="Bae_TB_10_3223">Brod nach 
-          <choice xml:id="Bae_TB_10_3224">
+        <p xml:id="Bae_TB_10_3223">Brod nach <choice xml:id="Bae_TB_10_3224">
             <abbr xml:id="Bae_TB_10_3225">französ.</abbr>
             <expan xml:id="Bae_TB_10_3226">französischer</expan>
-          </choice> Art. Französischer Wein zu Tisch ([...] der Liter zu 2 Francs), die Karten 
-          <choice xml:id="Bae_TB_10_3227">
+          </choice> Art. Französischer Wein zu Tisch ([...] der Liter zu 2 Francs), die Karten
+            <choice xml:id="Bae_TB_10_3227">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3228"/>
             <expan xml:id="Bae_TB_10_3229">werden</expan>
-          </choice> von 
-          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_10_3230">
+          </choice> von <placeName key="Deutschland"
+            ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
+            xml:id="Bae_TB_10_3230">
             <choice xml:id="Bae_TB_10_3231">
               <abbr xml:id="Bae_TB_10_3232">Dland</abbr>
               <expan xml:id="Bae_TB_10_3233">Deutschland</expan>
             </choice>
-          </placeName> bezogen 
-          <choice xml:id="Bae_TB_10_3234">
+          </placeName> bezogen <choice xml:id="Bae_TB_10_3234">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3235"/>
             <expan xml:id="Bae_TB_10_3236">nicht von</expan>
           </choice>
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_10_3237">Wien</placeName>. Hofapotheker 
-          <choice xml:id="Bae_TB_10_3238">
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
+            xml:id="Bae_TB_10_3237">Wien</placeName>. Hofapotheker <choice xml:id="Bae_TB_10_3238">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3239"/>
             <expan xml:id="Bae_TB_10_3240"> sehr schwer [...]</expan>
-          </choice>. Geschmackvoller Confektionsladen, Wiener 
-          <choice xml:id="Bae_TB_10_3241">
+          </choice>. Geschmackvoller Confektionsladen, Wiener <choice xml:id="Bae_TB_10_3241">
             <abbr xml:id="Bae_TB_10_3242">u.</abbr>
             <expan xml:id="Bae_TB_10_3243">und</expan>
-          </choice> Berliner Muster. Strassen durchaus mit Bäumen bepflanzt, 
-          <choice xml:id="Bae_TB_10_3244">
+          </choice> Berliner Muster. Strassen durchaus mit Bäumen bepflanzt, <choice
+            xml:id="Bae_TB_10_3244">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3245"/>
             <expan xml:id="Bae_TB_10_3246">insbesondere</expan>
-          </choice> Linden 
-          <choice xml:id="Bae_TB_10_3247">
+          </choice> Linden <choice xml:id="Bae_TB_10_3247">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3248"/>
             <expan xml:id="Bae_TB_10_3249">machen</expan>
-          </choice> sehr guten 
-          <choice xml:id="Bae_TB_10_3250">
+          </choice> sehr guten <choice xml:id="Bae_TB_10_3250">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3251"/>
             <expan xml:id="Bae_TB_10_3252">Eindruck</expan>
-          </choice>, schattig 
-          <choice xml:id="Bae_TB_10_3253">
+          </choice>, schattig <choice xml:id="Bae_TB_10_3253">
             <abbr xml:id="Bae_TB_10_3254">u.</abbr>
             <expan xml:id="Bae_TB_10_3255">und</expan>
-          </choice> angenehm. Soldaten, adrette 
-          <choice xml:id="Bae_TB_10_3256">
+          </choice> angenehm. Soldaten, adrette <choice xml:id="Bae_TB_10_3256">
             <abbr xml:id="Bae_TB_10_3257">u.</abbr>
             <expan xml:id="Bae_TB_10_3258">und</expan>
-          </choice> schäbige, Offiziere 
-          <choice xml:id="Bae_TB_10_3259">
+          </choice> schäbige, Offiziere <choice xml:id="Bae_TB_10_3259">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3260"/>
             <expan xml:id="Bae_TB_10_3261">meist</expan>
-          </choice> sehr nett, fast kokett, Schildwache kratzt sich mit der Stiefelspitze die Wade 
-          <choice xml:id="Bae_TB_10_3262">
+          </choice> sehr nett, fast kokett, Schildwache kratzt sich mit der Stiefelspitze die Wade
+            <choice xml:id="Bae_TB_10_3262">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3263"/>
             <expan xml:id="Bae_TB_10_3264">[...]</expan>
-          </choice>. Konak 
-          <choice xml:id="Bae_TB_10_3265">
+          </choice>. Konak <choice xml:id="Bae_TB_10_3265">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3266"/>
             <expan xml:id="Bae_TB_10_3267">[...] geschmacklosen Gebäuden[?]</expan>
-          </choice>. Trakt wo Ermordung stattgefunden 
-          <choice xml:id="Bae_TB_10_3268">
+          </choice>. Trakt wo Ermordung stattgefunden <choice xml:id="Bae_TB_10_3268">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3269"/>
             <expan xml:id="Bae_TB_10_3270">wurde</expan>
-          </choice> abgetragen, grosser Garten von der Strasse mit Gitter abgesperrt 
-          <choice xml:id="Bae_TB_10_3271">
+          </choice> abgetragen, grosser Garten von der Strasse mit Gitter abgesperrt <choice
+            xml:id="Bae_TB_10_3271">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3272"/>
             <expan xml:id="Bae_TB_10_3273">[...]</expan>
-          </choice> die russische Botschaft, die jetzt 
-          <choice xml:id="Bae_TB_10_3274">
+          </choice> die russische Botschaft, die jetzt <choice xml:id="Bae_TB_10_3274">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3275"/>
-            <expan xml:id="Bae_TB_10_3276">[...]</expan>
-          </choice> grosses Palais baut. 
-        </p>
+            <expan xml:id="Bae_TB_10_3276">ein neues</expan>
+          </choice> grosses Palais baut. </p>
         <p xml:id="Bae_TB_10_3277">
           <hi rendition="#ul" xml:id="Bae_TB_10_3278">Nationalmuseum</hi>. 
         </p>
@@ -4438,7 +4393,7 @@
         </p>
         <p xml:id="Bae_TB_10_3373">
           <persName key="NovakovicStojan" ref="https://d-nb.info/gnd/117068284" xml:id="Bae_TB_10_3374">Novakowitz</persName>: wird in nächster Zeit Essays in das Archiv von 
-          <persName key="JagicVatroslav" ref="https://explore.gnd.network/gnd/118711458" xml:id="Bae_TB_10_3375">Jagić</persName>
+          <persName key="JagicVatroslav" ref="https://d-nb.info/gnd/118711458" xml:id="Bae_TB_10_3375">Jagić</persName>
           <choice xml:id="Bae_TB_10_3376">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_10_3377"/>
             <expan xml:id="Bae_TB_10_3378">schreiben</expan>
