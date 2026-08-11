@@ -1177,7 +1177,7 @@
         <note type="editorial" xml:id="Bae_TB_9_848">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K-4_Bae_TB_9_030" n="14r" xml:id="Bae_TB_9_849"/>
       </div>
-      <div type="diaryEntry" xml:id="Bae_TB_9_850">
+      <div type="diaryEntry" xml:id="Bae_TB_9_850"><!-- CA: hier eine Übereinstimmung mit SSP -->
         <head xml:id="Bae_TB_9_851">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_852">Wien</placeName>
           <date when="1909-11-20" type="diaryEntry" xml:id="Bae_TB_9_853">20.11.09</date>
