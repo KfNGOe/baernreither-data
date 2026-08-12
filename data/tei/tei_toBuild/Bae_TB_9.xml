@@ -1178,10 +1178,10 @@
         <pb facs="#F_K-4_Bae_TB_9_030" n="14r" xml:id="Bae_TB_9_849"/>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_850"><!-- CA: hier eine Übereinstimmung mit SSP -->
-        <head xml:id="Bae_TB_9_851">
+        <anchor/><head xml:id="Bae_TB_9_851">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_852">Wien</placeName>
           <date when="1909-11-20" type="diaryEntry" xml:id="Bae_TB_9_853">20.11.09</date>
-        </head>
+          <app from="#" type="notEqual"><rdg wit="Bae_MF_SSP">IV. Aehrenthal und Milanovich.</rdg></app></head>
         <p xml:id="Bae_TB_9_854">Gestern Abend bei Hr. 
           <!-- identity unknown -->
           <persName key="DespicPero" ref="no_ref" xml:id="Bae_TB_9_855">Pero Despić</persName> mit 
@@ -1192,7 +1192,7 @@
             <expan xml:id="Bae_TB_9_859">und</expan>
           </choice> Kunstgeschichte. Während des Essens wo Gattin 
           <!-- identity unknown -->
-          <persName key="DespicPero" ref="no_ref" xml:id="Bae_TB_9_860">Despić</persName> anwesend war, von 
+          <persName key="DespicPero" xml:id="Bae_TB_9_860">Despić</persName> anwesend war, von 
           <placeName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_9_861">Italien</placeName>, 
           <!-- identity unknown -->
           <persName key="Donatello" ref="https://d-nb.info/gnd/118526693" xml:id="Bae_TB_9_862">Donatello</persName>, 
@@ -1448,7 +1448,7 @@
         <pb facs="#F_K-4_Bae_TB_9_036" n="17r" xml:id="Bae_TB_9_1046"/>
         <p xml:id="Bae_TB_9_1047">3. 
           <hi rendition="#ul" xml:id="Bae_TB_9_1048">Nationale </hi>. Die Jungtürkei wird sich nicht halten. In 
-          <placeName key="Makedonien" ref="https://www.geonames.org/734075/nomos-thessalonikis.html" xml:id="Bae_TB_9_1049">Macedonien</placeName> wird in einiger Zeit dieselbe Wirtschaft 
+          <placeName key="Makedonien" ref="https://www.geonames.org/6697801/central-macedonia.html" xml:id="Bae_TB_9_1049">Macedonien</placeName> wird in einiger Zeit dieselbe Wirtschaft 
           <choice xml:id="Bae_TB_9_1050">
             <abbr xml:id="Bae_TB_9_1051">u.</abbr>
             <expan xml:id="Bae_TB_9_1052">und</expan>
@@ -1488,7 +1488,6 @@
             </choice> auf gewisse Teile rechnen kann. 
           </add>
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_1079">Österreich</placeName> müsste also eine ganz andere Politik machen um den Anschluss zu erzielen. 
-          <!-- identity unknown -->
           <persName key="MilovanovicMilovan" ref="https://d-nb.info/gnd/118949470" xml:id="Bae_TB_9_1080">
             <choice xml:id="Bae_TB_9_1081">
               <abbr xml:id="Bae_TB_9_1082">M.</abbr>
@@ -1516,7 +1515,6 @@
             <abbr xml:id="Bae_TB_9_1098">u.</abbr>
             <expan xml:id="Bae_TB_9_1099">und</expan>
           </choice>
-          <!-- identity unknown -->
           <persName key="ObrenovicMilan" ref="https://d-nb.info/gnd/122295528" xml:id="Bae_TB_9_1100">Milan</persName> ist nur desswegen nicht durchgedrungen weil er sie nicht zu beeinflussen verstanden hat. 
         </p>
         <p xml:id="Bae_TB_9_1101">Im Schulwesen ist in der letzten Zeit manches geschehen. Grosse Fehler 
@@ -1975,7 +1973,7 @@
             <abbr xml:id="Bae_TB_9_1440">Ö.-U.</abbr>
             <expan xml:id="Bae_TB_9_1441">Österreich-Ungarn</expan>
           </choice>, 
-          <placeName key="Deutschland" xml:id="Bae_TB_9_1442">
+          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_9_1442">
             <choice xml:id="Bae_TB_9_1443">
               <abbr xml:id="Bae_TB_9_1444">Dland</abbr>
               <expan xml:id="Bae_TB_9_1445">Deutschland</expan>
@@ -2005,7 +2003,6 @@
             <expan xml:id="Bae_TB_9_1462">militärischen</expan>
           </choice> Kraft der 
           <placeName key="Tuerkei" ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_9_1463">Türkei</placeName> ( 
-          <!-- identity unknown -->
           <persName key="GoltzColmar" ref="https://d-nb.info/gnd/118696319" xml:id="Bae_TB_9_1464">Golz</persName>!) zu Gunsten eines Zusammenschlusses der beiden Mächte, nur wirksam gegen 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_9_1465">Russland</placeName> Front machen zu können. Zusammenstoss in der nähern 
           <choice xml:id="Bae_TB_9_1466">
