@@ -1371,9 +1371,7 @@
                         >London</placeName> so notwendig zur Hand haben musste. </p>
             </div>
             <div n="1903-05" type="diaryEntry">
-                <p><placeName key="London"
-                        ref="https://www.geonames.org/2648110/greater-london.html"
-                        >London</placeName></p>
+                <p><placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html">London</placeName></p>
                 <p>Am <date when="1903-05-21">21. Mai</date>, einem schönen Himmelfahrtstage
                     verliessen wir – <choice>
                         <abbr>d.h.</abbr>
@@ -2911,7 +2909,7 @@
                     </index>
                     <placeName key="England"
                         ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
-                        >Englands</placeName> anhören konnten. <!-- DC: hierher Einklebung von Zeitungsausschnitt von fol. 20v, 21v, 22v, 23v, 24v, 25v, 26v, 27v, 28v, 29v -->
+                        >Englands</placeName> anhören konnten. <!-- DC: hierher Einklebung von Zeitungsausschnitt von fol. 20v, 21v, 22v, 23v, 24v, 25v, 26v, 27v, 28v -->
                     <anchor/><app from="#_043" type="insertion">
                         <rdg>[...]</rdg>
                     </app>
@@ -3910,10 +3908,8 @@
             </div>
             <div n="1903-06">
                 <pb facs="#F_K-4_Bae_TB_6_060" n="29r"/>
-                <p><placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html"
-                        >Brüssel</placeName></p>
-                <p>Unser Gesandter <persName key="ClarySiegfried"
-                        ref="https://d-nb.info/gnd/1269647148">Graf Siegfried Clary</persName>
+                <p><placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName></p>
+                <p>Unser Gesandter <persName key="ClarySiegfried" ref="https://d-nb.info/gnd/1269647148">Graf Siegfried Clary</persName>
                     <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
@@ -4009,7 +4005,7 @@
                     nicht zugelassen werden, daß Kartelle durch gesetzgeberische Maßregeln
                     verstärkt, auf eine längere Zeit gesichert und</p>
                 <anchor/>
-                <!-- CA: anchor für addspan 29v -->
+                <!-- CA: anchor für addspan 29v --> <!-- CA: wohin kommend die addspans 29, 30, 31 v?? -->
                 <pb facs="#F_K-4_Bae_TB_6_062" n="30r"/>
                 <p><persName key="SmetdeNaeyerPaul" ref="https://d-nb.info/gnd/1075832896">Graf
                         Smet</persName> sagte uns rund heraus, dass wir nicht durchdringen würden <choice>
