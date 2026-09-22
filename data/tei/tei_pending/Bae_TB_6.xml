@@ -3944,7 +3944,7 @@
                     lebhafter, sehr klar denkender <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
-                    </choice> ebenso klar sprechender Mann. Er machte uns eine leichte, mehr
+                    </choice> ebenso klar sprechender Mann. Er machte nur eine leichte, mehr
                     formelle Verwarung, dass er nicht als Präsident der <index><term key="InternationaleBruesselerZuckerkonvention">Conferenz</term><index><term key="BruesselerKonferenz"/></index></index> spreche, sprach
                     aber dann erst recht ex cathedra <choice>
                         <abbr>u.</abbr>
@@ -4011,7 +4011,7 @@
                         Smet</persName> sagte uns rund heraus, dass wir nicht durchdringen würden <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
-                    </choice> riet zum Rückzug. Er that es aber in einer so freien, ja wolwollenden
+                    </choice> riet zum Rückzug. Er that es aber in einer so feinen, ja wolwollenden
                     Weise, dass unser Gespräch keinerlei Schärfe an sich trug. Er hatte auch nicht
                     das Bestreben die Pille zu verzuckern, sondern er anerkannte die Nützlichkeit
                     unseres Standpunktes für uns, nur legte er ebenso natürlich als tendenzlos dar,
@@ -4332,7 +4332,7 @@
                     ihm empfangen zu werden.</p>
                 <p>Wir trösteten uns über unsern Misserfolg durch ein verspätetes, aber sehr gutes
                     Frühstück bei <orgName key="Foyot">Foyot</orgName>. Dann fuhren wir ins Bois,
-                    den vollen Reiz des Place de la Concorde, des Champs Elisées, der Avenue du bois <choice>
+                    den vollen Reiz des Place de la Concorde, der Champs Elisées, der Avenue du bois <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> seine stillen schattigen Alleen geniessend. Am Abend waren wir im
@@ -4484,8 +4484,8 @@
                         ref="https://d-nb.info/gnd/119828-2">Ministerium des Äussern</orgName> ist
                     in <choice>
                         <abbr>handelspolit.</abbr>
-                        <expan>und</expan>
-                    </choice>handelspolischer Hinsicht nur der Briefträger zwischen <placeName
+                        <expan>handelspolischer</expan>
+                    </choice> Hinsicht nur der Briefträger zwischen <placeName
                         key="Oesterreich"
                         ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice>
                             <abbr>Ö.</abbr>
@@ -4511,12 +4511,10 @@
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice>
-                    <choice>
-                        <abbr>u.</abbr>
-                        <expan><placeName key="Ungarn"
-                                ref="https://www.geonames.org/719819/hungary.html"
-                                >Ungarn</placeName></expan>
-                    </choice> nicht zwei <choice>
+                    <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"><choice>
+                        <abbr>U.</abbr>
+                        <expan>Ungarn</expan></choice></placeName>
+                     nicht zwei <choice>
                         <abbr>handelspolit.</abbr>
                         <expan>handelspolitisch</expan>
                     </choice> getrennt agirende Staaten werden – wozu es allerdings den Anschein
@@ -4582,7 +4580,10 @@
                         key="BernatzkiEdmund">Ministerialrat <choice>
                             <abbr>v.</abbr>
                             <expan>von</expan>
-                        </choice>v. Bernatzki</persName>.</p>
+                        </choice> Bernatzki</persName>.</p>
+                <anchor/><app from="#_061" type="insertion"><rdg>[...]</rdg></app>
+                <anchor/><app from="#_063" type="insertion"><rdg>[...]</rdg></app>
+                <anchor/><app from="#_065" type="insertion"><rdg>[...]</rdg></app>
                 <p>Vor meiner Abreise nach <placeName key="London"
                         ref="https://www.geonames.org/2648110/greater-london.html"
                         >London</placeName> war <persName key="AehrenthalAloys"
@@ -4947,6 +4948,7 @@
                 <note type="editorial">Diese Seite ist leer.</note>
                 <pb facs="#F_K-4_Bae_TB_6_076" n="37ar"/>
                 <addSpan spanTo="#" type="insert"/>
+                <p><add place="across">Antwort <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033">Ährenthals</persName></add></p>
                 <p><placeName key="StPetersburg"
                         ref="https://www.geonames.org/498817/saint-petersburg.html">St.
                         Petersburg</placeName>, <date when="1903-07-20">20./7. Juli 1903</date>.</p>
@@ -4955,7 +4957,7 @@
                         ref="https://d-nb.info/gnd/129414212">Musulin</persName> mir überbrachten
                     Brief. Wie nicht anders zu erwarten, endet die <index>
                         <term key="Zuckerfrage">Zuckerfrage</term>
-                    </index> mit einem schmählichen Fiasco! Mein Bruder wird ihnen einen Bericht
+                    </index> mit einem schmählichen Fiasco! Mein <persName ref="AehrenthalFelix">Bruder</persName> wird ihnen einen Bericht
                     zukommen lassen, über das neueste russische Zucker Regulativ, welches bezweckt,
                     die Ausfuhr von Sandzucker de facto unmöglich zu machen. <persName
                         key="WitteSergei" ref="https://d-nb.info/gnd/118768743">Witte</persName> hat
@@ -5077,7 +5079,7 @@
                     </choice> politische Ratlosigkeit <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
-                    </choice> Unverstand erduldet. Fuhr am <date when="1903-08-20">20. Aug.</date>
+                    </choice> Unverstand erduldet. Fuhr am <date when="1903-08-20">20. <choice><abbr>Aug.</abbr><expan>August</expan></choice></date>
                     nach <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
                         >Wien</placeName>, war bei <persName key="KoerberErnest"
                         ref="https://d-nb.info/gnd/118713434">Körber</persName>, Multa, non multum.
@@ -5117,7 +5119,7 @@
                         >Mals</placeName>. Dorfwirtshaus, alttyrolerisch. Preisverteilung nach einem
                     Schiessen. Anderntags <date when="1903-08-24">(24.)</date> nach <placeName
                         key="Sulden" ref="https://www.geonames.org/3166437/solda.html"
-                        >Sulden</placeName>. Herrliches Wetter. Prachtvolle Aussicht des <placeName
+                        >Sulden</placeName>. Herrliches Wetter. Prachtvolle Ansicht des <placeName
                         key="Ortler" ref="https://www.geonames.org/3171890/ortles.html"
                         >Ortlers</placeName>
                     <choice>
@@ -5283,7 +5285,7 @@
                     lehnte er Fackelzug <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
-                    </choice> Ovationen mit der Drohung ab, er würde nach Rabot faren <choice>
+                    </choice> Ovationen mit der Drohung ab, er würde nach <placeName key="Ratot" ref="https://www.geonames.org/3045939/ratot.html">Ratot</placeName> faren <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> nie wiederkommen <choice>
