@@ -5436,7 +5436,7 @@
                         key="GoluchowskiAgenor" ref="https://d-nb.info/gnd/1011172178"><choice>
                             <abbr>Golu</abbr>
                             <expan>Goluchowski</expan>
-                        </choice></persName> das Veto bei der Papstwahl habe ausüben wollen, ohne
+                        </choice></persName> das Veto bei der Papstwahl habe ausüben lassen, ohne
                     vorher mit <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434"
                         >Körber</persName>
                     <choice>
@@ -5744,6 +5744,10 @@
                         Blatt eingelegt, das mit fol. 44a und 44b paginiert ist. Es ist eine mit
                         Bleistift geschriebene Ergänzung, die für das Manuskript Fragmente verfasst
                         worden ist.</note>
+                    <pb facs="#F_K-4_Bae_TB_6_095" n="44av"/><note type="editorial">An dieser Stelle ist ein doppelseitig beschriebenes
+                        Blatt eingelegt, das mit fol. 44a und 44b paginiert ist. Es ist eine mit
+                        Bleistift geschriebene Ergänzung, die für das Manuskript Fragmente verfasst
+                        worden ist.</note>
                     <pb facs="#F_K-4_Bae_TB_6_096" n="44r"/>der <choice>
                         <abbr>ungar.</abbr>
                         <expan>ungarische</expan>
@@ -5876,8 +5880,7 @@
                     </choice> Kreisen auf eine Fortdauer des gegenwärtigen Zustandes selbst über den
                         <date when="1904-01-01">1. Jänner 1904</date> hinaus gefasst ist, da er als
                     ein Auskunftsmittel nach diesem Termine die Einberufung der Reservemannschaften
-                    bezeichnete, was allerdings für einen Theil der jetzt <add place="across"
-                        >schon</add> Weiterdienenden ein noch weiteres Dienen involvirt.</p>
+                    bezeichnete, was allerdings für einen Theil der jetzt <add place="across">schon</add> Weiterdienenden ein noch weiteres Dienen involvirt.</p>
                 <p>Hierauf hielt der <index>
                         <term key="Parteien">4 Ausschuss</term>
                         <index>
@@ -6701,7 +6704,7 @@
                     brachte. Prachtvolle Fahrt <choice>
                         <abbr>dh</abbr>
                         <expan>durch</expan>
-                    </choice>durch das schöne Land im Frühjarsgewand. Felder <choice>
+                    </choice> das schöne Land im Frühjarsgewand. Felder <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> Wiesen im herrlichsten Grün. Der wahre prairial! Nach 9 Uhr Abend
