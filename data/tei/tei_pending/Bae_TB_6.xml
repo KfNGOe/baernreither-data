@@ -7036,7 +7036,7 @@
                     dass man am Ende des Tages <choice>
                         <abbr>o.</abbr>
                         <expan>oder</expan>
-                    </choice>oder an einem Sonntag (den man desswegen herbeisehnt) Ruhe findet die
+                    </choice> an einem Sonntag (den man desswegen herbeisehnt) Ruhe findet die
                     notwendigen Aufzeichnungen zu machen.</p>
                 <p>Am <date when="1904-07-01">1. Juli</date> ging <persName key="MerveldtFranz"
                         ref="https://d-nb.info/gnd/138144540">Merveldt</persName> sofort zu
@@ -7145,7 +7145,7 @@
                     Petarden schon vom frühen Morgen an. Allgemeiner Feiertag, während dem zwar
                     feierliche Meetings, Ansprachen auch gehalten werden – aber alles übertönt wird
                     durch infernalischen Spektakel. Kein erhebendes Schauspiel. Polizei sucht zu
-                    steuern, da dieser Tag in den grossen Städten regelmäddig viele Menschenleben
+                    steuern, da dieser Tag in den grossen Städten regelmässig viele Menschenleben
                     kostet.</p>
                 <p>Soll dieses mal viel mässiger gewesen sein. Mir war es genug.</p>
                 <pb facs="#F_K-4_Bae_TB_6_123" n="57v"/>
@@ -7175,7 +7175,7 @@
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> Arbeitsscheue unter einer Verwaltung vereinigt sind.</p>
-                <p>Am <date when="1904-07-06">6.</date> war ich ganz in Anspruch gewesen, das
+                <p>Am <date when="1904-07-06">6.</date> war ich ganz in Anspruch genommen, das
                     "probation system" kennen zu lernen, das house of detention. Wurde einem der
                     bekanntesten Richter (<persName key="BrownHenry"
                         ref="https://d-nb.info/gnd/1281279374">Mr. Brown</persName>) vorgestellt <choice>
@@ -7273,7 +7273,7 @@
                         ref="https://www.geonames.org/4931029/city-of-boston.html"
                         >Boston</placeName> October <choice>
                         <abbr>a. D.</abbr>
-                        <expan>ante Domini</expan>
+                        <expan>anno Domini</expan>
                     </choice>
                     <date when="1846">M.D.C.C.C.XLVI</date>.</p>
                 <p>Ein Denkmal zur Erinnerung an den Bürgerkrieg hat die Inschrift: To the men of
@@ -7388,8 +7388,7 @@
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> die Stadt nach allen Richtungen durchstreift.</p>
-                <p>Am <del rendition="#s"><date when="1904-07-18">18.</date> Montag</del>
-                    <add place="across"><date when="1904-07-19">19.</date> Dienstag</add> fuhren wir
+                <p>Am <del rendition="#s">18. Montag</del><date when="1904-07-19"><add place="across">19. Dienstag</add></date> fuhren wir
                     nach <placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html"
                         >Ottawa</placeName>, dem Sitz der Colonialregierung <choice>
                         <abbr>u.</abbr>
@@ -7407,9 +7406,8 @@
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> grosser Gewandtheit. Wir hatten eine lange Unterredung mit ihm über
-                    alle möglichen Themata, sowie auch Tags darauf (den <del rendition="#s"><date
-                            when="1904-07-19">19.</date></del><add place="across"><date
-                            when="1904-07-20">20.</date></add>) mit <persName key="ElliotGilbert"
+                    alle möglichen Themata, sowie auch Tags darauf (den <del rendition="#s">19.</del><date
+                            when="1904-07-20"><add place="across">20.</add></date>) mit <persName key="ElliotGilbert"
                         ref="https://d-nb.info/gnd/1068897562">Lord Minto</persName> der uns zum
                     lunch eingeladen hatte. Es war ein furchtbar heisser Tag <choice>
                         <abbr>u.</abbr>
@@ -7438,19 +7436,16 @@
                         ref="https://www.geonames.org/8581623/ottawa.html">Ottawa</placeName>
                     niederschrieb.</p>
                 <!-- DC: es folgt auf fol. 63 bis fol. 67 eine Einklebung von Notizzetteln, die hier wiedergegeben werden -->
-                <p><placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html"
-                        >Ottawa</placeName>
+                <p><placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html">Ottawa</placeName>
                     <date when="1904-07-18">18.7.1904.</date></p>
                 <p>Wir kamen um 12 Uhr <choice>
                         <abbr>M.</abbr>
-                        <expan>Mittag</expan>
+                        <expan>Mittags</expan>
                     </choice> nach <placeName key="Ottawa"
                         ref="https://www.geonames.org/8581623/ottawa.html"><choice>
                             <abbr>O.</abbr>
                             <expan>Ottawa</expan>
-                        </choice></placeName>
-                    <choice>
-                        <abbr>u.</abbr>
+                        </choice></placeName> <choice><abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> suchten <choice>
                         <abbr>Nachm.</abbr>
@@ -7517,7 +7512,7 @@
                         <expan>mehr</expan>
                     </choice> als er aufklärt. Leider unterbrach ihn <persName key="MerveldtFranz"
                         ref="https://d-nb.info/gnd/138144540">Merveldt</persName> einige Male in
-                    seiner <choice>
+                    seinen <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>Auseinandersetzungen</expan>
                     </choice>.</p>
@@ -7594,9 +7589,7 @@
                         <expan>machen es auch den Einwanderern nicht so leicht</expan>
                     </choice> canadische Bürger <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
-                        <expan>zu werden als in den <placeName key="Amerika"
-                                ref="https://www.geonames.org/6252001/united-states.html"
-                                >Staaten</placeName></expan>
+                        <expan>zu werden als in den Staaten</expan>
                     </choice>."</p>
                 <p>Ausfürlich erörterte er die <index>
                         <term key="Kanada">Nationalitätenfrage</term>
@@ -7811,12 +7804,10 @@
                         ref="https://d-nb.info/gnd/43244-1"><choice>
                             <abbr>Parl.</abbr>
                             <expan>Parlaments</expan>
-                        </choice></orgName><choice>
+                        </choice></orgName> <choice>
                         <abbr>v.</abbr>
                         <expan>von</expan>
-                    </choice>
-                    <placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html"
-                        >Ottawa</placeName> werden in <choice>
+                    </choice> <placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html">Ottawa</placeName> werden in <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>beiden Sprachen</expan>
                     </choice> gedruckt, nicht spalten<choice>
@@ -7925,11 +7916,11 @@
                         <index>
                             <term key="Zolltarif"/>
                         </index>
-                    </index> erhöht würde, dass 1/3 Abzug <choice>
-                        <abbr type="shorthand" subtype="gabelsberger"/>
-                        <expan><placeName key="England"
+                    </index> erhöht würde, dass 1/3 Abzug <placeName key="England"
                                 ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
-                                >England</placeName> gegenüber</expan>
+                                >England</placeName> <choice>
+                        <abbr type="shorthand" subtype="gabelsberger"/>
+                        <expan>gegenüber</expan>
                     </choice> bleibt, was auf einem <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>anderen</expan>
