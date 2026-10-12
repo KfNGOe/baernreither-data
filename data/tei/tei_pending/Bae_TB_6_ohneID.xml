@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Die Tagebücher von Joseph Maria Baernreither</title>
-                <title type="volume">Tagebuch 6 (1903-1904)</title>
+                <title type="volume">Tagebuch 6 (1903–1904)</title>
                 <title type="display">Tagebuch 6</title>
                 <title type="short">Bae_TB_6</title>
                 <author>
@@ -112,76 +112,13 @@
                     <rdg>[...]</rdg>
                 </app>
                 <pb facs="#F_K-4_Bae_TB_6_003" n="1v"/>
+                <anchor/>
                 <p><addSpan spanTo="#" type="insertion"/>Resumé</p>
                 <p>über die</p>
-                <p>von den Unterzeichneten in <placeName key="Berlin"
-                        ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>
-                    bezüglich der <index>
-                        <term key="Zuckerfrage">Zuckerfrage</term>
-                    </index> geführten Unterhandlungen.</p>
-                <p>Wir haben unsere Tätigkeit in <placeName key="Berlin"
-                        ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>
-                    damit aufgenommen, daß wir dem österreichisch-ungarischen Botschafter <persName
-                        key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195">Herrn
-                        v. Szögyény</persName> unseren Besuch machten. Derselbe war so freundlich,
-                    uns sofort darauf aufmerksam zu machen, erstens, daß <placeName
-                        key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> parlamentarische Schwierigkeiten befürchtet, falls
-                    unsere <index>
-                        <term key="ZuckerKontingentierung">Kontingentierung</term>
-                    </index> als vertragsmäßig anerkannt wird, weil ein Teil der deutschen Agrarier
-                    und Zuckerfabrikanten ein <index>
-                        <term key="ZuckerKontingentierung">Kontingentierungsgesetz</term>
-                    </index> auch für <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> verlangt, während die Reichsregierung entschlossen
-                    ist, diesem Verlangen nicht zu entsprechen; zweitens, daß <placeName
-                        key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> der Meinung ist, die Anerkennung der
-                    österreichischen <index>
-                        <term key="ZuckerKontingentierung">Kontingentierung</term>
-                    </index> sei ein ungünstiges Präjudiz für die Anerkennung der russischen
-                    Normirowka. </p>
-                <p>Im Verlaufe unserer Verhandlungen zeigte es sich, daß in der Tat diese beiden
-                    Momente für das Urteil und die Haltung der deutschen Regierung in unserer Frage
-                    ausschlaggebend sind.</p>
-                <p>Am 27. April führte uns der <persName key="SzoegyenyMarichLadislaus"
-                        ref="https://d-nb.info/gnd/1019704195">Herr Botschafter</persName> bei dem
-                    Staatssekretär des <orgName key="AuswaertigesAmt"
-                        ref="https://d-nb.info/gnd/2029553-4">auswärtigen Amtes</orgName>
-                    <persName key="RichthofenOswald" ref="https://d-nb.info/gnd/116530200">Freiherrn
-                        v. Richthofen</persName> ein, am folgenden Tage bei dem <persName
-                        key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023">Reichskanzler
-                        Grafen Bülow</persName>. Im Verlaufe der Woche hatten wir eingehende
-                    Besprechungen mit dem <persName key="PosadowskyArthur"
-                        ref="https://d-nb.info/gnd/118792970">Staatssekretär des <orgName
-                            key="ReichsamtdesInnern" ref="https://d-nb.info/gnd/35215-9"
-                            >Innern</orgName> Grafen Posadowsky</persName>, mit dem <persName
-                        key="ThielmannMax" ref="https://d-nb.info/gnd/109479890">Staatssekretär des
-                            <orgName key="Reichsschatzamt" ref="https://d-nb.info/gnd/35233-0"
-                            >Schatzamtes</orgName> Freiherrn v. Thielmann</persName>, mit dem
-                        <persName key="MuehlbergOtto" ref="https://d-nb.info/gnd/117161780"
-                        >Unterstaatssekretär im <orgName key="AuswaertigesAmt"
-                            ref="https://d-nb.info/gnd/2029553-4">Auswärtigen Amte</orgName> v.
-                        Mühlberg</persName> und mit dem <persName key="KoernerPaul"
-                        ref="https://d-nb.info/gnd/133534200">Geheime Legationsrat und Direktor im
-                            <orgName key="AuswaertigesAmt" ref="https://d-nb.info/gnd/2029553-4"
-                            >Auswärtigen Amte</orgName> Dr. v. Körner</persName>, welcher <placeName
-                        key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> bei der <index>
-                        <term key="InternationaleBruesselerZuckerkonvention">Brüsseler
-                            Konferenz</term>
-                    </index> vertreten hatte. Unter dem Vorsitze des letztgenannten fand auch eine
-                    dreistündige Beratung zwischen uns und den Referenten der beteiligten
-                    Reichsämter statt, an der unserseits auch <persName key="TeleszkyJanos"
-                        ref="https://d-nb.info/gnd/127831266">Sektionsrat Dr. Teleszky</persName>
-                    und <persName key="JoasLeopold" ref="https://d-nb.info/gnd/1108295746"
-                        >Ministerialsekretär Dr. Joas</persName> teilnahmen; von deutscher Seite für
-                    dass <orgName key="AuswaertigesAmt" ref="https://d-nb.info/gnd/2029553-4"
-                        >Auswärtige Amt</orgName> außer dem Vorsitzenden noch der Geheime Lega-</p>
+                <p>von den Unterzeichneten in <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName> bezüglich der <index><term key="Zuckerfrage">Zuckerfrage</term></index> geführten Unterhandlungen.</p>
+                <p>Wir haben unsere Tätigkeit in <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName> damit aufgenommen, daß wir dem österreichisch-ungarischen Botschafter <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195">Herrn v. Szögyény</persName> unseren Besuch machten. Derselbe war so freundlich, uns sofort darauf aufmerksam zu machen, erstens, daß <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> parlamentarische Schwierigkeiten befürchtet, falls unsere <index><term key="ZuckerKontingentierung">Kontingentierung</term></index> als vertragsmäßig anerkannt wird, weil ein Teil der deutschen Agrarier und Zuckerfabrikanten ein <index><term key="ZuckerKontingentierung">Kontingentierungsgesetz</term></index> auch für <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> verlangt, während die Reichsregierung entschlossen ist, diesem Verlangen nicht zu entsprechen; zweitens, daß <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> der Meinung ist, die Anerkennung der österreichischen <index><term key="ZuckerKontingentierung">Kontingentierung</term></index> sei ein ungünstiges Präjudiz für die Anerkennung der russischen Normirowka.</p>
+                <p>Im Verlaufe unserer Verhandlungen zeigte es sich, daß in der Tat diese beiden Momente für das Urteil und die Haltung der deutschen Regierung in unserer Frage ausschlaggebend sind.</p>
+                <p>Am 27. April führte uns der <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195">Herr Botschafter</persName> bei dem Staatssekretär des <orgName key="AuswaertigesAmt" ref="https://d-nb.info/gnd/2029553-4">auswärtigen Amtes</orgName><persName key="RichthofenOswald" ref="https://d-nb.info/gnd/116530200">Freiherrn v. Richthofen</persName> ein, am folgenden Tage bei dem <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023">Reichskanzler Grafen Bülow</persName>. Im Verlaufe der Woche hatten wir eingehende Besprechungen mit dem Staatssekretär des <orgName key="ReichsamtdesInnern" ref="https://d-nb.info/gnd/35215-9">Innern</orgName> <persName key="PosadowskyArthur" ref="https://d-nb.info/gnd/118792970">Grafen Posadowsky</persName>, mit dem Staatssekretär des <orgName key="Reichsschatzamt" ref="https://d-nb.info/gnd/35233-0">Schatzamtes</orgName> <persName key="ThielmannMax" ref="https://d-nb.info/gnd/109479890">Freiherrn v. Thielmann</persName>, mit dem Unterstaatssekretär im <orgName key="AuswaertigesAmt" ref="https://d-nb.info/gnd/2029553-4">Auswärtigen Amte</orgName> <persName key="MuehlbergOtto" ref="https://d-nb.info/gnd/117161780">v. Mühlberg</persName> und mit dem Geheime Legationsrat und Direktor im <orgName key="AuswaertigesAmt" ref="https://d-nb.info/gnd/2029553-4">Auswärtigen Amte</orgName> <persName key="KoernerPaul" ref="https://d-nb.info/gnd/133534200">Dr. v. Körner</persName>, welcher <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> bei der <index><term key="InternationaleBruesselerZuckerkonvention">Brüsseler Konferenz</term> </index> vertreten hatte. Unter dem Vorsitze des letztgenannten fand auch eine dreistündige Beratung zwischen uns und den Referenten der beteiligten Reichsämter statt, an der unserseits auch <persName key="TeleszkyJanos" ref="https://d-nb.info/gnd/127831266">Sektionsrat Dr. Teleszky</persName> und <persName key="JoasLeopold" ref="https://d-nb.info/gnd/1108295746">Ministerialsekretär Dr. Joas</persName> teilnahmen; von deutscher Seite für dass <orgName key="AuswaertigesAmt" ref="https://d-nb.info/gnd/2029553-4">Auswärtige Amt</orgName> außer dem Vorsitzenden noch der Geheime Lega-<app from="#" type="equal"><rdg wit="Bae_MF_4">Resumé über die von den Unterzeichneten in Berlin bezüglich der Zuckerfrage geführten Unterhandlungen. Wir haben unsere Tätigkeit in Berlin damit aufgenommen, daß wir dem österreichisch-ungarischen Botschafter Herrn v. Szögyény unseren Besuch machten. Derselbe war so freundlich, uns sofort darauf aufmerksam zu machen, erstens, daß Deutschland parlamentarische Schwierigkeiten befürchtet, falls unsere Kontingentierung als vertragsmäßig anerkannt wird, weil ein Teil der deutschen Agrarier und Zuckerfabrikanten ein Kontingentierungsgesetz auch für Deutschland verlangt, während die Reichsregierung entschlossen ist, diesem Verlangen nicht zu entsprechen; zweitens, daß Deutschland der Meinung ist, die Anerkennung der österreichischen Kontingentierung sei ein ungünstiges Präjudiz für die Anerkennung der russischen Normirowka.  Im Verlaufe unserer Verhandlungen zeigte es sich, daß in der Tat diese beiden Momente für das Urteil und die Haltung der deutschen Regierung in unserer Frage ausschlaggebend sind. Am 27. April führte uns der Herr Botschafter bei dem Staatssekretär des auswärtigen Amtes Freiherrn v. Richthofen ein, am folgenden Tage bei dem Reichskanzler Grafen Bülow. Im Verlaufe der Woche hatten wir eingehende Besprechungen mit dem Staatssekretär des Innern Grafen Posadowsky, mit dem Staatssekretär des Schatzamtes Freiherrn v. Thielmann, mit dem Unterstaatssekretär im Auswärtigen Amte v. Mühlberg und mit dem Geheime Legationsrat und Direktor im Auswärtigen Amte Dr. v. Körner, welcher Deutschland bei der Brüsseler Konferenz vertreten hatte. Unter dem Vorsitze des letztgenannten fand auch eine dreistündige Beratung zwischen uns und den Referenten der beteiligten Reichsämter statt, an der unserseits auch Sektionsrat Dr. Teleszky und Ministerialsekretär Dr. Joas teilnahmen; von deutscher Seite für dass Auswärtige Amt außer dem Vorsitzenden noch der Geheime Lega-</rdg></app></p>
                 <anchor/>
                 <!-- CA: anchor für addspan 1v -->
                 <pb facs="#F_K-4_Bae_TB_6_004" n="1ar"/>
@@ -189,84 +126,11 @@
                 <p>Die Reise dieses Frühjahres <date when="1903">1903</date> hat mir wieder die alte Erfarung bestättigt, dass wir die Menschen hätten etwas Ordentliches zu leisten, dass aber Mangel an Energie, Mangel an Zusammenhalt, Mangel an einheitlichem Vorgehen, Mangel an Fleiss, mit einem Worte Mangel an Führung Alles <choice><abbr>u.</abbr><expan>und</expan></choice> Alle lähmt. Freilich habe ich auch die Erfarung gemacht, <choice><abbr>u.z.</abbr><expan>und zwar</expan></choice> in einem erschreckenden Umfange, dass <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> an Prestige ungeheuer eingebüsst hat, dass man ihm wohlwill, aber es bemitleidet, dass man <del rendition="#s">ihm</del><add place="across">es</add> begrüsst wie einen alten heruntergekommenen Freund, dem man immer noch Rücksichten schuldig zu sein glaubt, den man aber bei allen ernsten Abmachungen bei Seite schiebt. Wir haben keine Feinde, aber auch keine Freunde. Wir sind ein Fass, dem alle <del rendition="#s">zusammenhaltenden</del> Reifen gesprungen sind, – vielleicht mit Ausname eines einzigen! - und das noch zusammenhält weil es eingekeilt ist zwischen anderen Fässern, die es nicht auseinanderfallen lassen. Man müsste hinnehmen, wenn man sich sagen müsste: das ist der<app from="#Bae_MF_4_1107" type="equal"><rdg wit="Bae_MF_4">Die Reise dieses Frühjahres 1903 hat mir wieder die alte Erfahrung bestätigt, daß wir die Menschen hätten etwas Ordentliches zu leisten, daß aber Mangel an Energie, Mangel an Zusammenhalt, Mangel an einheitlichem Vorgehen, Mangel an Fleiß, mit einem Worte Mangel an Führung alles und alle lähmt. Freilich habe ich auch die Erfahrung gemacht,  u.zw. und zwar  in einem erschreckenden Umfange, daß Oesterreich-Ungarn an Prestige ungeheuer eingebüßt hat, daß man ihm wohl will, aber es bemitleidet, daß man es begrüßt wie einen alten heruntergekommenen Freund, dem man immer noch Rücksichten schuldig zu sein glaubt, den man aber bei allen ernsten Abmachungen beiseite schiebt. Wir haben keine Feinde, aber auch keine Freunde. Wir sind ein Fass, dem alle Reifen gesprungen sind, – vielleicht mit Ausnahme eines einzigen! – und das noch zusammenhält weil es eingekeilt ist zwischen anderen Fässern, die es nicht auseinanderfallen lassen. Man müsste hinnehmen, wenn man sich sagen müsste: das ist der</rdg></app></p>
                 <pb facs="#F_K-4_Bae_TB_6_005" n="1av"/>
                 <addSpan spanTo="#" type="insertion"/>
-                <p>tionsrat <persName key="KriegeJohannes" ref="https://d-nb.info/gnd/133544036"
-                        >Johannes</persName>, vom <orgName key="Reichsschatzamt"
-                        ref="https://d-nb.info/gnd/35233-0">Reichsschatzamt</orgName> der <persName
-                        key="FischerJoseph" ref="https://d-nb.info/gnd/1012263290"
-                        >Unterstaatssekretär v. Fischer</persName> und der <persName
-                        key="KuehnHermann" ref="https://d-nb.info/gnd/117553182">Geheime
-                        Oberregierungsrat Kühn</persName> (der <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> in <placeName key="Bruessel"
-                        ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName>
-                    vertreten wird), für das <orgName key="ReichsamtdesInnern"
-                        ref="https://d-nb.info/gnd/35215-9">Reichsamt des Innern</orgName>
-                    <persName key="WermuthAdolf" ref="https://d-nb.info/gnd/117296597"
-                        >Ministerialdirektor Wermuth</persName> und <persName key="WolfframPaul"
-                        ref="https://d-nb.info/gnd/133588955">Geheimer Oberregierungsrat
-                        Wolffram</persName>.</p>
-                <p> Die von österreichischer Seite vorbereitete Denkschrift wurde allen diesen
-                    Herren überreicht.</p>
-                <p>Auch auf gesellschaftlichem Boden hatten wir Gelegenheit mit den meisten der
-                    genannten Minister und Räte einen Meinungsaustausch zu pflegen und sind in allen
-                    Fällen ebensosehr einem freundlichen Entgegenkommen als einer sich auch auf
-                    unsere Verhältnisse erstreckenden umfassenden Sachkenntnis begegnet.</p>
-                <p>Wenn wir es nun unternehmen, den Inhalt der Verhandlungen zu resumieren, so
-                    müssen wir an die Spitze jene Äußerungen stellen, die uns gegenüber bezüglich
-                    der politischen Seite der Frage gemacht wurden. Wir haben auf das
-                    bundesfreundliche Verhältnis zwischen dem <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschen Reiche</placeName> und <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Osterreich</placeName>-<placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
-                    hingewiesen, sowie darauf, daß eine mehr oder minder wohlwollende Haltung
-                        <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschlands</placeName> in der <index>
-                        <term key="Zuckerfrage">Zuckerfrage</term>
-                    </index> seine Rückwirkung auf die Vertragsverhandlungen nicht verfehlen
-                    werde.</p>
-                <p><persName key="RichthofenOswald" ref="https://d-nb.info/gnd/116530200">Freiherr
-                        v. Richthofen</persName> hat in dieser Hinsicht bemerkt, daß unter so eng
-                    befreundeten Staaten nicht vorausgesetzt werden dürfe, daß <placeName
-                        key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> uns Schwierigkeiten machen wolle, und er erklärte
-                    weiter, daß die Reichsregierung nichts sehnlicher wünsche, als in dieser
-                    Hinsicht pari passu mit <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName> und <placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> zu
-                    gehen, daß aber gewisse Bedenken vorliegen, bezüglich deren es auch ihm sehr
-                    angenehm sein wird, wenn wir sie zerstreuen können. <persName
-                        key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023">Graf
-                        Bülow</persName> erklärte uns, daß er die Frage vom bundesfreundlichen
-                    Standpunkte betrachte und versicherte mit warmen Worten, daß er unseren
-                    Wünschen, so gut es irgend tunlich sein werde, entgegenkommen wolle, allerdings
-                    auch mit der Einschränkung, daß die Ressort zunächst untereinander in der Sache
-                    Fühlung nehmen müßten. Im Wesen dasselbe sagte uns <persName
-                        key="PosadowskyArthur" ref="https://d-nb.info/gnd/118792970">Graf
-                        Posadowsky</persName>, der in seinen Ausführungen einen reservierten aber
-                    sehr korrekten Eindruck machte; ebenso <persName key="MuehlbergOtto"
-                        ref="https://d-nb.info/gnd/117161780">Unterstaatssekretär v.
-                        Mühlberg</persName>. Sämtliche genannte Herren kamen mehr oder weniger
-                    ausführlich auf jene zwei Punkte zu sprechen, die <persName
-                        key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195">unser
-                        Botschafter</persName> uns in der ersten Unterredung signalisiert hatte. Aus
-                    dem Gesagten folgt, daß wir hier — nachdem wir in die Berichte <persName
-                        key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195"
-                        >unseres Botschafters</persName> vorher keine Einsicht erhalten hatten eine
-                    ganz andere Sachlage vorfanden, als in unserer Heimat vorausgesetzt wurde, indem
-                    die juristische Auslegung der <index>
-                        <term key="InternationaleBruesselerZuckerkonvention">Konvention</term>
-                    </index> ganz zurücktrat und selbst die Frage, ob unsere <index>
-                        <term key="ZuckerKontingentierung">Kontingentierung</term>
-                    </index> eine indirekte Prämie enthalte oder nicht, nur eine sekundäre Rolle
-                    spielte. In der letzteren Hinsicht ist insbesondere hervorzuheben, daß geäußert
-                    wurde, unsere Gesetzgebung sei eine fiskalische, weil sie indirekt zu Gunsten
-                    der Zuckerfabrikation den Konsum belaste; es wurde zugegeben, daß unser System,
-                    wenn es allein bliebe, den</p>
+                <p><anchor/>tionsrat <persName key="KriegeJohannes" ref="https://d-nb.info/gnd/133544036">Johannes</persName>, vom <orgName key="Reichsschatzamt" ref="https://d-nb.info/gnd/35233-0">Reichsschatzamt</orgName> der <persName key="FischerJoseph" ref="https://d-nb.info/gnd/1012263290">Unterstaatssekretär v. Fischer</persName> und der <persName key="KuehnHermann" ref="https://d-nb.info/gnd/117553182">Geheime Oberregierungsrat Kühn</persName> (der <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> in <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> vertreten wird), für das <orgName key="ReichsamtdesInnern" ref="https://d-nb.info/gnd/35215-9">Reichsamt des Innern</orgName> <persName key="WermuthAdolf" ref="https://d-nb.info/gnd/117296597">Ministerialdirektor Wermuth</persName> und <persName key="WolfframPaul" ref="https://d-nb.info/gnd/133588955">Geheimer Oberregierungsrat Wolffram</persName>.</p>
+                <p> Die von österreichischer Seite vorbereitete Denkschrift wurde allen diesen Herren überreicht.</p>
+                <p>Auch auf gesellschaftlichem Boden hatten wir Gelegenheit mit den meisten der genannten Minister und Räte einen Meinungsaustausch zu pflegen und sind in allen Fällen ebensosehr einem freundlichen Entgegenkommen als einer sich auch auf unsere Verhältnisse erstreckenden umfassenden Sachkenntnis begegnet.</p>
+                <p>Wenn wir es nun unternehmen, den Inhalt der Verhandlungen zu resumieren, so müssen wir an die Spitze jene Äußerungen stellen, die uns gegenüber bezüglich der politischen Seite der Frage gemacht wurden. Wir haben auf das bundesfreundliche Verhältnis zwischen dem <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" >Deutschen Reiche</placeName> und <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Osterreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> hingewiesen, sowie darauf, daß eine mehr oder minder wohlwollende Haltung <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschlands</placeName> in der <index><term key="Zuckerfrage">Zuckerfrage</term></index> seine Rückwirkung auf die Vertragsverhandlungen nicht verfehlen werde.</p>
+                <p><persName key="RichthofenOswald" ref="https://d-nb.info/gnd/116530200">Freiherr v. Richthofen</persName> hat in dieser Hinsicht bemerkt, daß unter so eng befreundeten Staaten nicht vorausgesetzt werden dürfe, daß <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> uns Schwierigkeiten machen wolle, und er erklärte weiter, daß die Reichsregierung nichts sehnlicher wünsche, als in dieser Hinsicht pari passu mit <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName> und <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> zu gehen, daß aber gewisse Bedenken vorliegen, bezüglich deren es auch ihm sehr angenehm sein wird, wenn wir sie zerstreuen können. <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023">Graf Bülow</persName> erklärte uns, daß er die Frage vom bundesfreundlichen Standpunkte betrachte und versicherte mit warmen Worten, daß er unseren Wünschen, so gut es irgend tunlich sein werde, entgegenkommen wolle, allerdings auch mit der Einschränkung, daß die Ressort zunächst untereinander in der Sache Fühlung nehmen müßten. Im Wesen dasselbe sagte uns <persName key="PosadowskyArthur" ref="https://d-nb.info/gnd/118792970">Graf Posadowsky</persName>, der in seinen Ausführungen einen reservierten aber sehr korrekten Eindruck machte; ebenso <persName key="MuehlbergOtto" ref="https://d-nb.info/gnd/117161780">Unterstaatssekretär v. Mühlberg</persName>. Sämtliche genannte Herren kamen mehr oder weniger ausführlich auf jene zwei Punkte zu sprechen, die <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195">unser Botschafter</persName> uns in der ersten Unterredung signalisiert hatte. Aus dem Gesagten folgt, daß wir hier — nachdem wir in die Berichte <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195">unseres Botschafters</persName> vorher keine Einsicht erhalten hatten eine ganz andere Sachlage vorfanden, als in unserer Heimat vorausgesetzt wurde, indem die juristische Auslegung der <index><term key="InternationaleBruesselerZuckerkonvention">Konvention</term></index> ganz zurücktrat und selbst die Frage, ob unsere <index><term key="ZuckerKontingentierung">Kontingentierung</term></index> eine indirekte Prämie enthalte oder nicht, nur eine sekundäre Rolle spielte. In der letzteren Hinsicht ist insbesondere hervorzuheben, daß geäußert wurde, unsere Gesetzgebung sei eine fiskalische, weil sie indirekt zu Gunsten der Zuckerfabrikation den Konsum belaste; es wurde zugegeben, daß unser System, wenn es allein bliebe, den<app from="#" type="equal"><rdg wit="Bae_MF_4">tionsrat Johannes, vom Reichsschatzamt der Unterstaatssekretär v. Fischer und der Geheime Oberregierungsrat Kühn (der Deutschland in Brüssel vertreten wird),für das Reichsamt des Innern Ministerialdirektor Wermuth und Geheimer Oberregierungsrat Wolffram. Die von österreichischer Seite vorbereitete Denkschrift wurde allen diesen Herren überreicht. Auch auf gesellschaftlichem Boden hatten wir Gelegenheit mit den meisten der genannten Minister und Räte einen Meinungsaustausch zu pflegen und sind in allen Fällen ebensosehr einem freundlichen Entgegenkommen als einer sich auch auf unsere Verhältnisse erstreckenden umfassenden Sachkenntnis begegnet. Wenn wir es nun unternehmen, den Inhalt der Verhandlungen zu resumieren, so müssen wir an die Spitze jene Äußerungen stellen, die uns gegenüber bezüglich der politischen Seite der Frage gemacht wurden. Wir haben auf das bundesfreundliche Verhältnis zwischen dem Deutschen Reiche und Osterreich-Ungarn hingewiesen, sowie darauf, daß eine mehr oder minder wohlwollende Haltung Deutschlands in der Zuckerfrage seine Rückwirkung auf die Vertragsverhandlungen nicht verfehlen werde. Freiherr v. Richthofen hat in dieser Hinsicht bemerkt, daß unter so eng befreundeten Staaten nicht vorausgesetzt werden dürfe, daß Deutschland uns Schwierigkeiten machen wolle, und er erklärte weiter, daß die Reichsregierung nichts sehnlicher wünsche, als in dieser Hinsicht pari passu mit Österreich und Ungarn zu gehen, daß aber gewisse Bedenken vorliegen, bezüglich deren es auch ihm sehr angenehm sein wird, wenn wir sie zerstreuen können. Graf Bülow erklärte uns, daß er die Frage vom bundesfreundlichen Standpunkte betrachte und versicherte mit warmen Worten, daß er unseren Wünschen, so gut es irgend tunlich sein werde, entgegenkommen wolle, allerdings auch mit der Einschränkung, daß die Ressort zunächst untereinander in der Sache Fühlung nehmen müßten. Im Wesen dasselbe sagte uns Graf Posadowsky, der in seinen Ausführungen einen reservierten aber sehr korrekten Eindruck machte; ebenso Unterstaatssekretär v. Mühlberg. Sämtliche genannte Herren kamen mehr oder weniger ausführlich auf jene zwei Punkte zu sprechen, die unser Botschafter uns in der ersten Unterredung signalisiert hatte. Aus dem Gesagten folgt, daß wir hier — nachdem wir in die Berichte unseres Botschafters vorher keine Einsicht erhalten hatten eine ganz andere Sachlage vorfanden, als in unserer Heimat vorausgesetzt wurde, indem die juristische Auslegung der Konvention ganz zurücktrat und selbst die Frage, ob unsere Kontingentierung eine indirekte Prämie enthalte oder nicht, nur eine sekundäre Rolle spielte. In der letzteren Hinsicht ist insbesondere hervorzuheben, daß geäußert wurde, unsere Gesetzgebung sei eine fiskalische, weil sie indirekt zu Gunsten der Zuckerfabrikation den Konsum belaste; es wurde zugegeben, daß unser System, wenn es allein bliebe, den</rdg></app></p>
                 <anchor/>
                 <!-- CA: anchor für den addspan 1av -->
                 <pb facs="#F_K-4_Bae_TB_6_006" n="2r"/>
@@ -275,90 +139,10 @@
                 <p>Der <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434">Ministerpräsident</persName> frug mich – es mochte das Mitte<app from="#Bae_MF_4_1133" type="equal"><rdg wit="Bae_MF_4">begegnet bin. Jenen, die diese Zeilen vielleicht einmal lesen, wird das was ich daraus folgern möchte ja viel klarer werden, als ich es selbst ausdrücken kann. Der Ministerpräsident frug mich – es mochte das Mitte</rdg></app></p>
                 <pb facs="#F_K-4_Bae_TB_6_007" n="2v"/>
                 <addSpan spanTo="#" type="insertion"/>
-                <p>Weltmarktpreis kaum beeinflussen würde, wenn sich aber <placeName
-                        key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> anschließen müßte, eine solche Beeinflussung sicher
-                    wäre, <persName key="KoernerPaul" ref="https://d-nb.info/gnd/133534200"
-                        >Ministerialdirektor v. Körner</persName> ging sogar so weit, zu behaupten,
-                    daß, wenn <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName>-<placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>,
-                        <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> und <placeName key="Frankreich"
-                        ref="https://www.geonames.org/3017382/republic-of-france.html"
-                        >Frankreich</placeName> die <index>
-                        <term key="ZuckerKontingentierung">Kontingentierung</term>
-                    </index> durchführen würden, ein Zustand herauskäme, der sehr viel Ähnlichkeit
-                    mit dem bisherigen haben würde.</p>
-                <p> Allen diesen Behauptungen war es uns nicht schwer entgegenzutreten, dagegen war
-                    uns bezüglich der inneren Politik <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschlands</placeName> selbstverständlich eine gewisse Reserve auferlegt.
-                        <persName key="PosadowskyArthur" ref="https://d-nb.info/gnd/118792970">Graf
-                        Posadowsky</persName> wies darauf hin, daß es die Regierung mit einer
-                    beachtenswerten Strömung in agrarischen und Zuckerkreisen zu tun habe, welche
-                    die Nachahmung der österreichisch-ungarischen Gesetzgebung verlangen und
-                        <persName key="KoernerPaul" ref="https://d-nb.info/gnd/133534200">Herr v.
-                        Körner</persName> behauptete sogar, daß einzelne Bundesländer (<placeName
-                        key="Sachsen" ref="https://www.geonames.org/2842566/saxony.html"
-                        >Sachsen</placeName>) eine analoge <index>
-                        <term key="ZuckerKontingentierung">Kontingentverteilung</term>
-                    </index> verlangen könnten, wie eine solche zwischen <placeName
-                        key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Osterreich</placeName> und <placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
-                    stattfindet, eine Behauptung, die er zwar infolge unserer lebhaften
-                    Remonstrationen nicht wiederholte, die aber zeugt, in welcher Richtung die
-                    Befürchtungen der deutschen Regierung liegen. Die vorletzte Reichstagssitzung,
-                    in welcher die die Kündigung der <index><term key="DeutschesReich">Handelsverträge</term><index><term key="Handelsvertraege"/></index></index> urgierende Interpellation
-                        <persName key="LimburgStirumFriedrich" ref="https://d-nb.info/gnd/117007277"
-                        >Limburg-Styrum</persName> verhandelt wurde und der wir beiwohnten, warf ein
-                    sehr helles Licht darauf, daß die deutsche Regierung dem agrarischen Ansturm
-                    Stand zu halten entschlossen ist, aber zugleich, daß dieser Ansturm in den
-                    bevorstehenden Wahlen sich fortsetzen wird. Der Ausgang derselben wird auch auf
-                    die Haltung der deutschen Regierung in der <index>
-                        <term key="Zuckerfrage">Zuckerfrage</term>
-                    </index> nicht ohne Einfluß sein, und die Ungewißheit des Ausganges der Wahlen
-                    mag auch mit eine Ursache sein, daß wir schließlich keine klipp und klare
-                    Antwort erhalten haben.</p>
-                <p>Das wichtigste, unsere Zeit in ganz überwiegender Weise in Anspruch nehmende
-                    Verhandlungsthema war das Verhältnis <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschlands</placeName> zu <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName>. Hier trat die Verquickung der <index>
-                        <term key="Zuckerfrage">Zuckerfrage</term>
-                        </index> mit der Frage der <index><term key="DeutschesReich">Handelsverträge</term><index><term key="Handelsvertraege"/></index></index> und der Meistbegünstigung zutage.</p>
-                <p>Dieses Thema wurde insbesondere in der Beratung mit den Geheimräten behandelt und
-                    es soll versucht werden, eine übersichtliche Skizze der verschiedenen geäußerten
-                    Ansichten zu geben. <persName key="KoernerPaul"
-                        ref="https://d-nb.info/gnd/133534200">Dr. v. Körner</persName> las uns)
-                    zunächst die entscheidenden Stellen der deutschen Note vor, welche als Antwort
-                    auf die russische Zirkularnote in Sachen der <index>
-                        <term key="InternationaleBruesselerZuckerkonvention">Brüsseler
-                            Konvention</term>
-                    </index> nach <placeName key="StPetersburg"
-                        ref="https://www.geonames.org/498817/saint-petersburg.html">St.
-                        Petersburg</placeName> gerichtet wurde. Die deutsche Regierung behauptet in
-                    dieser Note, daß das russische System durch die Regelung des Inlandmarktes eine
-                    Prämie involviere und zog uns gegenüber die Konsequenz, daß wenn <placeName
-                        key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> einem der Vertragsstaaten eine ähnliche Regelung
-                    zugestehen würde, dies seine Stellung <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> gegenüber schwächen müsse. Wir vertraten dem entgegen
-                    den Standpunkt, daß man <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> sowohl die exportfördernden Bestimmungen der Normirowka
-                    als auch die vertragswidrige Höhe der russischen Surtaxe entgegenhalten müsse
-                    und wir wiesen ausführlich nach, daß zwischen der <index>
-                        <term key="ZuckerKontingentierung">Kontingentierung</term>
-                    </index> und der Normirowka ein sehr wesentlicher Unterschied bestehe.</p>
+                <p><anchor/>Weltmarktpreis kaum beeinflussen würde, wenn sich aber <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> anschließen müßte, eine solche Beeinflussung sicher wäre, <persName key="KoernerPaul" ref="https://d-nb.info/gnd/133534200">Ministerialdirektor v. Körner</persName> ging sogar so weit, zu behaupten, daß, wenn <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>, <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> und <placeName key="Frankreich" ref="https://www.geonames.org/3017382/republic-of-france.html">Frankreich</placeName> die <index><term key="ZuckerKontingentierung">Kontingentierung</term></index> durchführen würden, ein Zustand herauskäme, der sehr viel Ähnlichkeit mit dem bisherigen haben würde.</p>
+                <p> Allen diesen Behauptungen war es uns nicht schwer entgegenzutreten, dagegen war uns bezüglich der inneren Politik <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschlands</placeName> selbstverständlich eine gewisse Reserve auferlegt. <persName key="PosadowskyArthur" ref="https://d-nb.info/gnd/118792970">Graf Posadowsky</persName> wies darauf hin, daß es die Regierung mit einer beachtenswerten Strömung in agrarischen und Zuckerkreisen zu tun habe, welche die Nachahmung der österreichisch-ungarischen Gesetzgebung verlangen und <persName key="KoernerPaul" ref="https://d-nb.info/gnd/133534200">Herr v. Körner</persName> behauptete sogar, daß einzelne Bundesländer (<placeName key="Sachsen" ref="https://www.geonames.org/2842566/saxony.html">Sachsen</placeName>) eine analoge <index><term key="ZuckerKontingentierung">Kontingentverteilung</term></index> verlangen könnten, wie eine solche zwischen <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Osterreich</placeName> und <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> stattfindet, eine Behauptung, die er zwar infolge unserer lebhaften Remonstrationen nicht wiederholte, die aber zeugt, in welcher Richtung die Befürchtungen der deutschen Regierung liegen. Die vorletzte Reichstagssitzung, in welcher die die Kündigung der <index><term key="DeutschesReich">Handelsverträge</term><index><term key="Handelsvertraege"/></index></index> urgierende Interpellation <persName key="LimburgStirumFriedrich" ref="https://d-nb.info/gnd/117007277">Limburg-Styrum</persName> verhandelt wurde und der wir beiwohnten, warf ein sehr helles Licht darauf, daß die deutsche Regierung dem agrarischen Ansturm Stand zu halten entschlossen ist, aber zugleich, daß dieser Ansturm in den bevorstehenden Wahlen sich fortsetzen wird. Der Ausgang derselben wird auch auf die Haltung der deutschen Regierung in der <index><term key="Zuckerfrage">Zuckerfrage</term></index> nicht ohne Einfluß sein, und die Ungewißheit des Ausganges der Wahlen mag auch mit eine Ursache sein, daß wir schließlich keine klipp und klare Antwort erhalten haben.</p>
+                <p>Das wichtigste, unsere Zeit in ganz überwiegender Weise in Anspruch nehmende Verhandlungsthema war das Verhältnis <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschlands</placeName> zu <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName>. Hier trat die Verquickung der <index><term key="Zuckerfrage">Zuckerfrage</term></index> mit der Frage der <index><term key="DeutschesReich">Handelsverträge</term><index><term key="Handelsvertraege"/></index></index> und der Meistbegünstigung zutage.</p>
+                <p>Dieses Thema wurde insbesondere in der Beratung mit den Geheimräten behandelt und es soll versucht werden, eine übersichtliche Skizze der verschiedenen geäußerten Ansichten zu geben. <persName key="KoernerPaul" ref="https://d-nb.info/gnd/133534200">Dr. v. Körner</persName> las uns) zunächst die entscheidenden Stellen der deutschen Note vor, welche als Antwort auf die russische Zirkularnote in Sachen der <index><term key="InternationaleBruesselerZuckerkonvention">Brüsseler Konvention</term></index> nach <placeName key="StPetersburg" ref="https://www.geonames.org/498817/saint-petersburg.html">St. Petersburg</placeName> gerichtet wurde. Die deutsche Regierung behauptet in dieser Note, daß das russische System durch die Regelung des Inlandmarktes eine Prämie involviere und zog uns gegenüber die Konsequenz, daß wenn <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> einem der Vertragsstaaten eine ähnliche Regelung zugestehen würde, dies seine Stellung <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> gegenüber schwächen müsse. Wir vertraten dem entgegen den Standpunkt, daß man <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> sowohl die exportfördernden Bestimmungen der Normirowka als auch die vertragswidrige Höhe der russischen Surtaxe entgegenhalten müsse und wir wiesen ausführlich nach, daß zwischen der <index><term key="ZuckerKontingentierung">Kontingentierung</term></index> und der Normirowka ein sehr wesentlicher Unterschied bestehe.<app from="#" type="equal"><rdg wit="Bae_MF_4">Weltmarktpreis kaum beeinflussen würde, wenn sich aber Deutschland anschließen müßte, eine solche Beeinflussung sicher wäre, Ministerialdirektor v. Körner ging sogar so weit, zu behaupten, daß, wenn Österreich-Ungarn, Deutschland und Frankreich die Kontingentierung durchführen würden, ein Zustand herauskäme, der sehr viel Ähnlichkeit mit dem bisherigen haben würde. Allen diesen Behauptungen war es uns nicht schwer entgegenzutreten, dagegen war uns bezüglich der inneren Politik Deutschlands selbstverständlich eine gewisse Reserve auferlegt. Graf Posadowsky wies darauf hin, daß es die Regierung mit einer beachtenswerten Strömung in agrarischen und Zuckerkreisen zu tun habe, welche die Nachahmung der österreichisch-ungarischen Gesetzgebung verlangen und Herr v. Körner behauptete sogar, daß einzelne Bundesländer (Sachsen) eine analoge Kontingentverteilung verlangen könnten, wie eine solche zwischen Osterreich und Ungarn stattfindet, eine Behauptung, die er zwar infolge unserer lebhaften Remonstrationen nicht wiederholte, die aber zeugt, in welcher Richtung die Befürchtungen der deutschen Regierung liegen. Die vorletzte Reichstagssitzung, in welcher die die Kündigung der Handelsverträge urgierende Interpellation Limburg-Styrum verhandelt wurde und der wir beiwohnten, warf ein sehr helles Licht darauf, daß die deutsche Regierung dem agrarischen Ansturm Stand zu halten entschlossen ist, aber zugleich, daß dieser Ansturm in den bevorstehenden Wahlen sich fortsetzen wird. Der Ausgang derselben wird auch auf die Haltung der deutschen Regierung in der Zuckerfrage nicht ohne Einfluß sein, und die Ungewißheit des Ausganges der Wahlen mag auch mit eine Ursache sein, daß wir schließlich keine klipp und klare Antwort erhalten haben. Das wichtigste, unsere Zeit in ganz überwiegender Weise in Anspruch nehmende Verhandlungsthema war das Verhältnis Deutschlands zu Rußland. Hier trat die Verquickung der Zuckerfrage mit der Frage der Handelsverträge und der Meistbegünstigung zutage. Dieses Thema wurde insbesondere in der Beratung mit den Geheimräten behandelt und es soll versucht werden, eine übersichtliche Skizze der verschiedenen geäußerten Ansichten zu geben. Dr. v. Körner las uns) zunächst die entscheidenden Stellen der deutschen Note vor, welche als Antwort auf die russische Zirkularnote in Sachen der Brüsseler Konvention nach St. Petersburg gerichtet wurde. Die deutsche Regierung behauptet in dieser Note, daß das russische System durch die Regelung des Inlandmarktes eine Prämie involviere und zog uns gegenüber die Konsequenz, daß wenn Deutschland einem der Vertragsstaaten eine ähnliche Regelung zugestehen würde, dies seine Stellung Rußland gegenüber schwächen müsse. Wir vertraten dem entgegen den Standpunkt, daß man Rußland sowohl die exportfördernden Bestimmungen der Normirowka als auch die vertragswidrige Höhe der russischen Surtaxe entgegenhalten müsse und wir wiesen ausführlich nach, daß zwischen der Kontingentierung und der Normirowka ein sehr wesentlicher Unterschied bestehe.</rdg></app></p>
                 <anchor/>
                 <!-- CA: anchor für den addspan 2v -->
                 <pb facs="#F_K-4_Bae_TB_6_008" n="3r"/>
@@ -367,116 +151,11 @@
                 </p>
                 <pb facs="#F_K-4_Bae_TB_6_009" n="3v"/>
                 <addSpan spanTo="#" type="insertion"/>
-                <p>Die deutschen Geheimräte entwickelten aber andere Gesichtspunkte. Sie führten
-                    aus, daß <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> das Interesse habe, mit <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> „nicht über Kreuz zu kommen“. Dasselbe Interesse habe
-                        <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Osterreich</placeName>-<placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>. Die
-                    österreichisch-ungarische Gesetzgebung erschwere den Standpunkt der deutschen
-                    Regierung. Die Höhe der russsichen Surtaxe könne nicht in den Vordergrund
-                    gestellt werden, denn <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> als Nichtvertragstaat werde dagegen die
-                    Meistbegünstigung geltend machen. Das Bestreben der deutschen Regierung müsse es
-                    sein, <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> gegenüber den Beweiszu führen, daß, abgesehen von der
-                    höheren russischen Surtaxe die Normirowka Bestimmungen enthalte, die der
-                    Konvention zuwiderlaufen, und die Herren kamen immer wieder darauf zurück, daß
-                    die österreichisch-ungarische <index>
-                        <term key="ZuckerKontingentierung">Kontingentierung</term>
-                    </index> ihnen dieses Argument aus der Hand winde.</p>
-                <p>Wir hielten ihnen dagegen immer wieder vor, daß das Bestreben, die Frage der
-                    Surtaxe von den übrigen Bestimmungen der <index>
-                        <term key="InternationaleBruesselerZuckerkonvention">Konvention</term>
-                    </index> loszulösen, eine neue und unrichtige Auslegung derselben sei; wir
-                    zählten die Unterschiede zwischen <index>
-                        <term key="ZuckerKontingentierung">Kontingentierung</term>
-                    </index> und Normirowka im Detail auf; wir führten aus, daß das Urteil, ob
-                        <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> mit Strafzöllen zu belegen sein wird, nicht von
-                        <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> oder <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName>-<placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>,
-                    sondern von der <orgName key="InternationaleZuckerkommission">Brüsseler
-                        Kommission</orgName> gefällt werden wird und daß sich dieser Entscheidung
-                    alle Vertragsstaaten zu fügen haben werden.</p>
-                <p>Im Verlaufe der Diskussion frugen uns die Geheimräte, was für eine Stellung
-                        <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName>-<placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>
-                    <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> gegenüber einnehmen werde, worauf wir erwiderten, daß
-                    diese Angelegenheit nicht in den Rahmen unserer Mission falle und wir uns
-                    deswegen nicht äußern könnten. Doch verwiesen wir darauf, daß allerdings die
-                    derzeitigen <index>
-                        <term key="OesterreichUngarn">Handelsverträge</term>
-                        <index>
-                            <term key="Handelsvertraege"/>
-                        </index>
-                    </index> mit <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> älter sind als die <index>
-                        <term key="InternationaleBruesselerZuckerkonvention">Brüsseler
-                            Konvention</term>
-                    </index>, daß aber die zukünftigen <index>
-                        <term key="OesterreichUngarn">Handelsverträge</term>
-                        <index>
-                            <term key="Handelsvertraege"/>
-                        </index>
-                    </index> der <index>
-                        <term key="InternationaleBruesselerZuckerkonvention">Konvention</term>
-                    </index> nachfolgen werden und daß daher diese Angelegenheit beim Abschlüsse der
-                    neuen <index>
-                        <term key="OesterreichUngarn">Verträge</term>
-                        <index>
-                            <term key="Handelsvertraege"/>
-                        </index>
-                    </index> zum Austrag kommen müsse. Es werde dann allerdings notwendig sein,
-                    einige Festigkeit <placeName key="Russland"
-                        ref="https://www.geonames.org/2017370/russian-federation.html"
-                        >Rußland</placeName> gegenüber zu beweisen.</p>
-                <p>Diese Besprechung mit den Geheimräten wickelte sich in den freundlichsten Formen
-                    ab, und sie sprachen nachträglich auch aus, daß sie eine Menge neuer
-                    Gesichtspunkte und Tatsachen kennen gelernt hätten.</p>
-                <p>Von Anfang an haben wir überall, wo wir vorsprachen, das größte Gewicht darauf
-                    gelegt, von der deutschen Regierung eine klare Antwort darüber zu erhalten, ob
-                    dieselbe <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName>-<placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> in
-                        <placeName key="Bruessel"
-                        ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName>
-                    unterstützen und die österreichisch-ungarischen Gesetze als vertragsmäßig
-                    erklären werde oder nicht. Wir begründeten diesen Wunsch stets sehr eingehend
-                    damit, daß die <index>
-                        <term key="ZuckerKontingentierung">Kontingentierung</term>
-                    </index> zwischen <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName> und <placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> durch
-                    das Verhältnis der beiden Staaten geboten sei, und daß, falls in den
-                    österreichischen und ungarischen Gesetzen infolge einer Entscheidung in
-                        <placeName key="Bruessel"
-                        ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName>
-                    eine Änderung notwendig werden sollte, dies gerade in dem jetzigen Moment der
-                    parlamentarischen <index>
-                        <term key="OesterreichUngarn">Verhandlung des Ausgleiches</term>
-                        <index>
-                            <term key="Ausgleichsverhandlungen"/>
-                        </index>
-                    </index> weittragende,</p>
+                <p><anchor/>Die deutschen Geheimräte entwickelten aber andere Gesichtspunkte. Sie führten aus, daß <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> das Interesse habe, mit <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> „nicht über Kreuz zu kommen“. Dasselbe Interesse habe <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Osterreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>. Die österreichisch-ungarische Gesetzgebung erschwere den Standpunkt der deutschen Regierung. Die Höhe der russsichen Surtaxe könne nicht in den Vordergrund gestellt werden, denn <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> als Nichtvertragstaat werde dagegen die Meistbegünstigung geltend machen. Das Bestreben der deutschen Regierung müsse es sein, <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> gegenüber den Beweiszu führen, daß, abgesehen von der höheren russischen Surtaxe die Normirowka Bestimmungen enthalte, die der Konvention zuwiderlaufen, und die Herren kamen immer wieder darauf zurück, daß die österreichisch-ungarische <index><term key="ZuckerKontingentierung">Kontingentierung</term></index> ihnen dieses Argument aus der Hand winde.</p>
+                <p>Wir hielten ihnen dagegen immer wieder vor, daß das Bestreben, die Frage der Surtaxe von den übrigen Bestimmungen der <index> <term key="InternationaleBruesselerZuckerkonvention">Konvention</term></index> loszulösen, eine neue und unrichtige Auslegung derselben sei; wir zählten die Unterschiede zwischen <index><term key="ZuckerKontingentierung">Kontingentierung</term></index> und Normirowka im Detail auf; wir führten aus, daß das Urteil, ob <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> mit Strafzöllen zu belegen sein wird, nicht von <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> oder <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>, sondern von der <orgName key="InternationaleZuckerkommission">Brüsseler Kommission</orgName> gefällt werden wird und daß sich dieser Entscheidung alle Vertragsstaaten zu fügen haben werden.</p>
+                <p>Im Verlaufe der Diskussion frugen uns die Geheimräte, was für eine Stellung <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> gegenüber einnehmen werde, worauf wir erwiderten, daß diese Angelegenheit nicht in den Rahmen unserer Mission falle und wir uns deswegen nicht äußern könnten. Doch verwiesen wir darauf, daß allerdings die derzeitigen <index><term key="OesterreichUngarn">Handelsverträge</term><index><term key="Handelsvertraege"/></index></index> mit <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> älter sind als die <index><term key="InternationaleBruesselerZuckerkonvention">Brüsseler Konvention</term></index>, daß aber die zukünftigen <index><term key="OesterreichUngarn">Handelsverträge</term><index><term key="Handelsvertraege"/></index></index> der <index><term key="InternationaleBruesselerZuckerkonvention">Konvention</term></index> nachfolgen werden und daß daher diese Angelegenheit beim Abschlüsse der neuen <index><term key="OesterreichUngarn">Verträge</term><index><term key="Handelsvertraege"/></index></index> zum Austrag kommen müsse. Es werde dann allerdings notwendig sein, einige Festigkeit <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html">Rußland</placeName> gegenüber zu beweisen.</p>
+                <p>Diese Besprechung mit den Geheimräten wickelte sich in den freundlichsten Formen ab, und sie sprachen nachträglich auch aus, daß sie eine Menge neuer Gesichtspunkte und Tatsachen kennen gelernt hätten.</p>
+                <p>Von Anfang an haben wir überall, wo wir vorsprachen, das größte Gewicht darauf gelegt, von der deutschen Regierung eine klare Antwort darüber zu erhalten, ob dieselbe <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> in <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> unterstützen und die österreichisch-ungarischen Gesetze als vertragsmäßig erklären werde oder nicht. Wir begründeten diesen Wunsch stets sehr eingehend damit, daß die <index><term key="ZuckerKontingentierung">Kontingentierung</term></index> zwischen <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName> und <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> durch das Verhältnis der beiden Staaten geboten sei, und daß, falls in den österreichischen und ungarischen Gesetzen infolge einer Entscheidung in <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> eine Änderung notwendig werden sollte, dies gerade in dem jetzigen Moment der parlamentarischen <index><term key="OesterreichUngarn">Verhandlung des Ausgleiches</term><index><term key="Ausgleichsverhandlungen"/></index></index> weittragende,<app from="#" type="equal"><rdg wit="Bae_MF_4">Die deutschen Geheimräte entwickelten aber andere Gesichtspunkte. Sie führten aus, daß Deutschland das Interesse habe, mit Rußland „nicht über Kreuz zu kommen“. Dasselbe Interesse habe Osterreich-Ungarn. Die österreichisch-ungarische Gesetzgebung erschwere den Standpunkt der deutschen Regierung. Die Höhe der russsichen Surtaxe könne nicht in den Vordergrund gestellt werden, denn Rußland als Nichtvertragstaat werde dagegen die Meistbegünstigung geltend machen. Das Bestreben der deutschen Regierung müsse es sein, Rußland gegenüber den Beweiszu führen, daß, abgesehen von der höheren russischen Surtaxe die Normirowka Bestimmungen enthalte, die der Konvention zuwiderlaufen, und die Herren kamen immer wieder darauf zurück, daß die österreichisch-ungarische Kontingentierung ihnen dieses Argument aus der Hand winde. Wir hielten ihnen dagegen immer wieder vor, daß das Bestreben, die Frage der Surtaxe von den übrigen Bestimmungen der Konvention loszulösen, eine neue und unrichtige Auslegung derselben sei; wir zählten die Unterschiede zwischen Kontingentierung und Normirowka im Detail auf; wir führten aus, daß das Urteil, ob Rußland mit Strafzöllen zu belegen sein wird, nicht von Deutschland oder Österreich-Ungarn, sondern von der Brüsseler Kommission gefällt werden wird und daß sich dieser Entscheidung alle Vertragsstaaten zu fügen haben werden. Im Verlaufe der Diskussion frugen uns die Geheimräte, was für eine Stellung Österreich-Ungarn Rußland gegenüber einnehmen werde, worauf wir erwiderten, daß diese Angelegenheit nicht in den Rahmen unserer Mission falle und wir uns deswegen nicht äußern könnten. Doch verwiesen wir darauf, daß allerdings die derzeitigen Handelsverträge mit Rußland älter sind als die Brüsseler Konvention, daß aber die zukünftigen Handelsverträge der Konvention nachfolgen werden und daß daher diese Angelegenheit beim Abschlüsse der neuen Verträge zum Austrag kommen müsse. Es werde dann allerdings notwendig sein, einige Festigkeit Rußland gegenüber zu beweisen. Diese Besprechung mit den Geheimräten wickelte sich in den freundlichsten Formen ab, und sie sprachen nachträglich auch aus, daß sie eine Menge neuer Gesichtspunkte und Tatsachen kennen gelernt hätten. Von Anfang an haben wir überall, wo wir vorsprachen, das größte Gewicht darauf gelegt, von der deutschen Regierung eine klare Antwort darüber zu erhalten, ob dieselbe Österreich-Ungarn in Brüssel unterstützen und die österreichisch-ungarischen Gesetze als vertragsmäßig erklären werde oder nicht. Wir begründeten diesen Wunsch stets sehr eingehend damit, daß die Kontingentierung zwischen Österreich und Ungarn durch das Verhältnis der beiden Staaten geboten sei, und daß, falls in den österreichischen und ungarischen Gesetzen infolge einer Entscheidung in Brüssel eine Änderung notwendig werden sollte, dies gerade in dem jetzigen Moment der parlamentarischen Verhandlung des Ausgleiches weittragende,</rdg></app></p>
                 <anchor/>
                 <!-- CA: anchor für den addspan 3v -->
                 <pb facs="#F_K-4_Bae_TB_6_010" n="4r"/>
@@ -538,82 +217,11 @@
                     die man nicht übersehen darf, so war es mir doch so wohltuend, mit </p>
                 <pb facs="#F_K-4_Bae_TB_6_011" n="4v"/>
                 <addSpan spanTo="#" type="insertion"/>
-                <p>sehr strörende [sic!] Wirkungen haben würde. Zugleich versicherten wir stets — um
-                    jeden möglichen Hintergedanken im Keime zu ersticken, aber ohne dadurch den
-                    diesbezüglichen Entscheidungen der beiden Regierungen präjudizieren zu können —
-                    daß <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName>-<placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> unter
-                    allen Umständen vertragstreu vorgehen und sich keinesfalls aus der <index>
-                        <term key="InternationaleBruesselerZuckerkonvention">Konvention</term>
-                    </index> werde hinausdrängen lassen, wie immer die Entscheidung in <placeName
-                        key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html"
-                        >Brüssel</placeName> ausfallen möge. Dieser unser Wunsch nach einer
-                    Beantwortung wurde an maßgebender Stelle von <persName
-                        key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195"
-                        >unserem Herrn Botschafter</persName>, der überhaupt alle unsere Schritte
-                    auf das bereitwilligste und wirksamste förderte, auf das wärmste unterstützt.
-                    Sie erfolgte am Donnerstag den 30. April. An diesem Tage hatten wir eine mit
-                        <persName key="ThielmannMax" ref="https://d-nb.info/gnd/109479890">Freiherrn
-                        v. Thielmann</persName> verabredete Zusammenkunft und derselbe gab uns in
-                    Anwesenheit seines Referenten <persName key="KuehnHermann"
-                        ref="https://d-nb.info/gnd/117553182">Geheimen Rat Kühn</persName> eine
-                    Erklärung, die wir sofort als die uns in Aussicht gestellte Antwort erkannten,
-                    weswegen wir dieselbe gleich nachher zu Papier brachten und <persName
-                        key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195"
-                        >unserem Herrn Botschafter</persName> mitteilten.</p>
-                <p>Derselbe machte <persName key="ThielmannMax"
-                        ref="https://d-nb.info/gnd/109479890">Herrn v. Thielmann</persName> einen
-                    Besuch, der unsere Niederschrift als vollkommen korrekt erklärte und das Gesagte
-                    als im Namen der deutschen Regierung abgegeben bezeichnete. Diese unsere
-                    Niederschrift lautet:</p>
-                <p>„<persName key="ThielmannMax" ref="https://d-nb.info/gnd/109479890">Freiherr v.
-                        Thielmann</persName> erklärt zunächst, daß die Ressortverhältnisse im
-                        <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschen Reiche</placeName> ebenso komplizierte sind, wie zwischen
-                        <placeName key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName> und <placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>; er
-                    müsse sich nicht nur mit den zuständigen Reichsämtern, sondern vermöge des
-                    besonderen Gewichtes, welches <placeName key="Preußen">Preußen</placeName> im
-                        <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >deutschen Bundesstaate</placeName> einnimmt, auch mit den preußischen
-                    Ministern verständigen, und darum könne er eine definitive Antwort, wie wir sie
-                    wünschen, selbst für die nächsten Tage nicht in Aussicht stellen. Soviel könne
-                    er heute schon erklären, daß es nicht das <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutsche Reich</placeName> sein werde, welches unsere <index>
-                        <term key="Zuckerfrage">Zuckergesetze</term>
-                    </index> in <placeName key="Bruessel"
-                        ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName>
-                    beanständen wird, „das <placeName key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutsche Reich</placeName> werde nicht das Karnickel sein“, aber nachdem
-                    die deutsche Regierung darüber nicht unterrichtet ist, welche Einwände und in
-                    welcher Form solche von anderen Staaten erhoben werden, oder welche neuen
-                    Gesichtspunkte in <placeName key="Bruessel"
-                        ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> in
-                    den Vordergrund treten werden, müsse sich die deutsche Regierung die Prüfung
-                    dieser Einwände vorbehalten. Dabei könne er uns versichern, daß vermöge des
-                    bündnisfreundlichen Verhältnisses zwischen beiden Staaten <placeName
-                        key="Deutschland"
-                        ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"
-                        >Deutschland</placeName> bei Beurteilung der zu erwartenden Einwendungen
-                    dieselben in einer uns wohlwollenden Weise prüfen werde.“</p>
-                <p>Wir müssen zum Schlüsse hervorheben, welchen Eindruck diese Antwort im
-                    Zusammenhalte mit allen Verhandlungen und Besprechungen auf uns gemacht hat.</p>
-                <p>Zunächst müssen wir betonen, daß die Erklärung <persName key="ThielmannMax"
-                        ref="https://d-nb.info/gnd/109479890">v. Thielmanns</persName>, es sei vor
-                    einer definitiven Entschließung der Reichsregierung das Einverständnis aller
-                    beteiligten Reichsämter und der zuständigen preußischen Minister notwendig, aber
-                    es sei nicht möglich, dies in den nächsten Tagen herzustellen, gewiß auf
-                    Wahrheit beruht, nachdem <persName key="BuelowBernhard"
-                        ref="https://d-nb.info/gnd/118517023">Graf Bülow</persName> Donnerstag
-                    abgereist ist,</p>
+                <p><app from="#" type="equal"><rdg wit="Bae_MF_4">sehr strörende [sic!] Wirkungen haben würde. Zugleich versicherten wir stets — um jeden möglichen Hintergedanken im Keime zu ersticken, aber ohne dadurch den diesbezüglichen Entscheidungen der beiden Regierungen präjudizieren zu können — daß Österreich-Ungarn unter allen Umständen vertragstreu vorgehen und sich keinesfalls aus der Konvention werde hinausdrängen lassen, wie immer die Entscheidung in Brüssel ausfallen möge. Dieser unser Wunsch nach einer Beantwortung wurde an maßgebender Stelle von unserem Herrn Botschafter, der überhaupt alle unsere Schritte auf das bereitwilligste und wirksamste förderte, auf das wärmste unterstützt. Sie erfolgte am Donnerstag den 30. April. An diesem Tage hatten wir eine mit Freiherrn v. Thielmann verabredete Zusammenkunft und derselbe gab uns in Anwesenheit seines Referenten Geheimen Rat Kühn eine Erklärung, die wir sofort als die uns in Aussicht gestellte Antwort erkannten, weswegen wir dieselbe gleich nachher zu Papier brachten und unserem Herrn Botschafter mitteilten. Derselbe machte Herrn v. Thielmann einen Besuch, der unsere Niederschrift als vollkommen korrekt erklärte und das Gesagte als im Namen der deutschen Regierung abgegeben bezeichnete. Diese unsere Niederschrift lautet: „Freiherr v. Thielmann erklärt zunächst, daß die Ressortverhältnisse im Deutschen Reiche ebenso komplizierte sind, wie zwischen Österreich und Ungarn; er müsse sich nicht nur mit den zuständigen Reichsämtern, sondern vermöge des besonderen Gewichtes, welches Preußen im deutschen Bundesstaate einnimmt, auch mit den preußischen Ministern verständigen, und darum könne er eine definitive Antwort, wie wir sie wünschen, selbst für die nächsten Tage nicht in Aussicht stellen. Soviel könne er heute schon erklären, daß es nicht das Deutsche Reich sein werde, welches unsere Zuckergesetze in Brüssel beanständen wird, „das Deutsche Reich werde nicht das Karnickel sein“, aber nachdem die deutsche Regierung darüber nicht unterrichtet ist, welche Einwände und in welcher Form solche von anderen Staaten erhoben werden, oder welche neuen Gesichtspunkte in Brüssel in den Vordergrund treten werden, müsse sich die deutsche Regierung die Prüfung dieser Einwände vorbehalten. Dabei könne er uns versichern, daß vermöge des bündnisfreundlichen Verhältnisses zwischen beiden Staaten Deutschland bei Beurteilung der zu erwartenden Einwendungen dieselben in einer uns wohlwollenden Weise prüfen werde.“ Wir müssen zum Schlüsse hervorheben, welchen Eindruck diese Antwort im Zusammenhalte mit allen Verhandlungen und Besprechungen auf uns gemacht hat. Zunächst müssen wir betonen, daß die Erklärung v. Thielmanns, es sei vor einer definitiven Entschließung der Reichsregierung das Einverständnis aller beteiligten Reichsämter und der zuständigen preußischen Minister notwendig, aber es sei nicht möglich, dies in den nächsten Tagen herzustellen, gewiß auf Wahrheit beruht, nachdem Graf Bülow Donnerstag abgereist ist,</rdg></app>sehr strörende [sic!] Wirkungen haben würde. Zugleich versicherten wir stets — um jeden möglichen Hintergedanken im Keime zu ersticken, aber ohne dadurch den diesbezüglichen Entscheidungen der beiden Regierungen präjudizieren zu können — daß <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> unter allen Umständen vertragstreu vorgehen und sich keinesfalls aus der <index><term key="InternationaleBruesselerZuckerkonvention">Konvention</term></index> werde hinausdrängen lassen, wie immer die Entscheidung in <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> ausfallen möge. Dieser unser Wunsch nach einer Beantwortung wurde an maßgebender Stelle von <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195">unserem Herrn Botschafter</persName>, der überhaupt alle unsere Schritte auf das bereitwilligste und wirksamste förderte, auf das wärmste unterstützt. Sie erfolgte am Donnerstag den 30. April. An diesem Tage hatten wir eine mit <persName key="ThielmannMax" ref="https://d-nb.info/gnd/109479890">Freiherrn v. Thielmann</persName> verabredete Zusammenkunft und derselbe gab uns in Anwesenheit seines Referenten <persName key="KuehnHermann" ref="https://d-nb.info/gnd/117553182">Geheimen Rat Kühn</persName> eine Erklärung, die wir sofort als die uns in Aussicht gestellte Antwort erkannten, weswegen wir dieselbe gleich nachher zu Papier brachten und <persName key="SzoegyenyMarichLadislaus" ref="https://d-nb.info/gnd/1019704195">unserem Herrn Botschafter</persName> mitteilten.</p>
+                <p>Derselbe machte <persName key="ThielmannMax" ref="https://d-nb.info/gnd/109479890">Herrn v. Thielmann</persName> einen Besuch, der unsere Niederschrift als vollkommen korrekt erklärte und das Gesagte als im Namen der deutschen Regierung abgegeben bezeichnete. Diese unsere Niederschrift lautet:</p>
+                <p>"<persName key="ThielmannMax" ref="https://d-nb.info/gnd/109479890">Freiherr v. Thielmann</persName> erklärt zunächst, daß die Ressortverhältnisse im <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschen Reiche</placeName> ebenso komplizierte sind, wie zwischen <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName> und <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName>; er müsse sich nicht nur mit den zuständigen Reichsämtern, sondern vermöge des besonderen Gewichtes, welches <placeName key="Preußen">Preußen</placeName> im <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">deutschen Bundesstaate</placeName> einnimmt, auch mit den preußischen Ministern verständigen, und darum könne er eine definitive Antwort, wie wir sie wünschen, selbst für die nächsten Tage nicht in Aussicht stellen. Soviel könne er heute schon erklären, daß es nicht das <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutsche Reich</placeName> sein werde, welches unsere <index><term key="Zuckerfrage">Zuckergesetze</term></index> in <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> beanständen wird, „das <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutsche Reich</placeName> werde nicht das Karnickel sein“, aber nachdem die deutsche Regierung darüber nicht unterrichtet ist, welche Einwände und in welcher Form solche von anderen Staaten erhoben werden, oder welche neuen Gesichtspunkte in <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> in den Vordergrund treten werden, müsse sich die deutsche Regierung die Prüfung dieser Einwände vorbehalten. Dabei könne er uns versichern, daß vermöge des bündnisfreundlichen Verhältnisses zwischen beiden Staaten <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html">Deutschland</placeName> bei Beurteilung der zu erwartenden Einwendungen dieselben in einer uns wohlwollenden Weise prüfen werde.“</p>
+                <p>Wir müssen zum Schlüsse hervorheben, welchen Eindruck diese Antwort im Zusammenhalte mit allen Verhandlungen und Besprechungen auf uns gemacht hat.</p>
+                <p>Zunächst müssen wir betonen, daß die Erklärung <persName key="ThielmannMax" ref="https://d-nb.info/gnd/109479890">v. Thielmanns</persName>, es sei vor einer definitiven Entschließung der Reichsregierung das Einverständnis aller beteiligten Reichsämter und der zuständigen preußischen Minister notwendig, aber es sei nicht möglich, dies in den nächsten Tagen herzustellen, gewiß auf Wahrheit beruht, nachdem <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023">Graf Bülow</persName> Donnerstag abgereist ist,</p>
                 <anchor/>
                 <!-- CA: anchor für den addspan 4v -->
                 <pb facs="#F_K-4_Bae_TB_6_012" n="5r"/>
@@ -687,77 +295,14 @@
                         </choice> Posadowsky</persName> auf uns. Hoch, gerade aufgerichtet,</p>
                 <pb facs="#F_K-4_Bae_TB_6_013" n="5v"/>
                 <addSpan spanTo="#" type="insertion"/>
-                <p><persName key="RichthofenOswald" ref="https://d-nb.info/gnd/116530200">Freiherr
-                        v. Richthofen</persName> in diesen Tagen auf Urlaub gegangen ist und von den
-                    wichtigen preußischen Ministern dermalen zwei ebenfalls nicht in <placeName
-                        key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html"
-                        >Berlin</placeName> anwesend sind. Wir glaubten daher eine weitere Antwort
-                    nicht urgieren zu sollen und sind der Meinung, die Angelegenheit soweit geführt
-                    zu haben, als dies unter den obwaltenden Umständen überhaupt möglich war. Aus
-                    dieser Sachlage folgt aber auch, daß diese Frage in <placeName key="Berlin"
-                        ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>
-                    mit größtem Nachdrucke und unausgesetzt weiter verfolgt werden muß, da nur
-                    hiedurch schließlich ein Erfolg für <placeName key="Bruessel"
-                        ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName>
-                    sichergestellt werden kann.</p>
-                <p>Wir können die Überzeugung aussprechen, daß dasjenige, was die deutsche Regierung
-                    sagt, aufrichtig gemeint ist, daß der Vorbehalt, den sie macht, keine Hintertür
-                    ist, daß man aber auch nicht mehr in die Antwort hineinlegen darf, als
-                    tatsächlich gemeint ist. Die deutsche Regierung hat allerdings nicht erklärt
-                    ohne jede Prüfung bei den auftauchenden Fragen mit uns durch dick und dünn zu
-                    gehen, aber sie sagt eine, wie wir glauben aufrichtig gemeinte wohlwollende
-                    Prüfung, zu. Wir sind daher der Meinung, daß vor allem die durch diese
-                    Verhandlungen angesponnenen Fäden weiter verfolgt werden müssen, daß
-                    insbesondere nach Rückkehr des <persName key="BuelowBernhard"
-                        ref="https://d-nb.info/gnd/118517023">Grafen Bülow</persName> die
-                    Angelegenheit auch mit ihm wieder besprochen werden müsse.</p>
-                <p> Wir haben auch sofort in <placeName key="Berlin"
-                        ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>
-                    einen weiteren Schritt zur Aufklärung des schwierigen Punktes die Normirowka
-                    betreffend getan, indem <persName key="TeleszkyJanos"
-                        ref="https://d-nb.info/gnd/127831266">Sektionsrat Teleszky</persName> im
-                    Vereine mit <persName key="JoasLeopold" ref="https://d-nb.info/gnd/1108295746"
-                        >Ministerialsekretär Dr. Joas</persName> eine vergleichende Darstellung des
-                    österreichisch-ungarischen sowie des russischen Systems zu dem Zwecke verfaßten,
-                    um den fundamentalen Unterschied der beiden Systeme bis ins Detail klarzulegen.
-                    Diese Darstellung haben wir sofort in <placeName key="Berlin"
-                        ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>
-                    in Druck legen lassen und an die Minister und Geheimräte verteilt.</p>
-                <p>Bei dem Abschiedsbesuche, den wir <persName key="KoernerPaul"
-                        ref="https://d-nb.info/gnd/133534200">Herrn v. Körner</persName> machten,
-                    kam ein Gesichtspunkt zur Sprache, den wir der Beachtung der beiden Regierungen
-                    empfehlen würden. Die Verhandlungen in <placeName key="Bruessel"
-                        ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName>
-                    werden sich in zwei Stadien abwickeln: die <orgName
-                        key="InternationaleZuckerkommission">Kommission</orgName> wird die <index>
-                        <term key="Zuckerfrage">Zuckersteuergesetze</term>
-                    </index> sämtlicher Vertragsstaaten prüfen und feststellen und erst wenn sich
-                    Anstände ergeben, tritt die <index>
-                        <term key="InternationaleBruesselerZuckerkonvention">Konferenz</term>
-                        <index>
-                            <term key="BruesselerKonferenz"/>
-                        </index>
-                    </index> zusammen, die dann entscheidet. <persName key="KoernerPaul"
-                        ref="https://d-nb.info/gnd/133534200">Herr v. Körner</persName> stimmte,
-                    allerdings nur gesprächsweise mit uns überein, daß es wünschenswert wäre, wenn
-                    schon im Stadium der <orgName key="InternationaleZuckerkommission"
-                        >Kommission</orgName> alle Schwierigkeiten beseitigt werden könnten. Er
-                    meinte, daß die Verhandlungen der <orgName key="InternationaleZuckerkommission"
-                        >Kommission</orgName> den Vorteil bieten, daß sie sich im kleineren Kreise
-                    abspielen werden, was eine mögliche Verständigung fördert. <placeName
-                        key="Oesterreich"
-                        ref="https://www.geonames.org/2782113/republic-of-austria.html"
-                        >Österreich</placeName>-<placeName key="Ungarn"
-                        ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> sollte
-                    unseres Erachtens in dieser Richtung zu wirken suchen.</p>
-                <p><placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html"
-                        >Berlin</placeName>, am 2. Mai 1903.</p>
-                <p><persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858">Dr.
-                        Baernreither</persName>.</p>
-                <p><persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727">v.
-                        Hieronymi</persName>.</p>
-                <p>Aus der <orgName key="HofundStaatsdruckerei" ref="https://d-nb.info/gnd/610064-8"
-                        >k. k. Hof- und Staatsdruckerei</orgName>.</p>
+                <p><anchor/><persName key="RichthofenOswald" ref="https://d-nb.info/gnd/116530200">Freiherr v. Richthofen</persName> in diesen Tagen auf Urlaub gegangen ist und von den wichtigen preußischen Ministern dermalen zwei ebenfalls nicht in <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName> anwesend sind. Wir glaubten daher eine weitere Antwort nicht urgieren zu sollen und sind der Meinung, die Angelegenheit soweit geführt zu haben, als dies unter den obwaltenden Umständen überhaupt möglich war. Aus dieser Sachlage folgt aber auch, daß diese Frage in <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName> mit größtem Nachdrucke und unausgesetzt weiter verfolgt werden muß, da nur hiedurch schließlich ein Erfolg für <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> sichergestellt werden kann.</p>
+                <p>Wir können die Überzeugung aussprechen, daß dasjenige, was die deutsche Regierung sagt, aufrichtig gemeint ist, daß der Vorbehalt, den sie macht, keine Hintertür ist, daß man aber auch nicht mehr in die Antwort hineinlegen darf, als tatsächlich gemeint ist. Die deutsche Regierung hat allerdings nicht erklärt ohne jede Prüfung bei den auftauchenden Fragen mit uns durch dick und dünn zu gehen, aber sie sagt eine, wie wir glauben aufrichtig gemeinte wohlwollende Prüfung, zu. Wir sind daher der Meinung, daß vor allem die durch diese Verhandlungen angesponnenen Fäden weiter verfolgt werden müssen, daß insbesondere nach Rückkehr des <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023">Grafen Bülow</persName> die Angelegenheit auch mit ihm wieder besprochen werden müsse.</p>
+                <p> Wir haben auch sofort in <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName> einen weiteren Schritt zur Aufklärung des schwierigen Punktes die Normirowka betreffend getan, indem <persName key="TeleszkyJanos" ref="https://d-nb.info/gnd/127831266">Sektionsrat Teleszky</persName> im Vereine mit <persName key="JoasLeopold" ref="https://d-nb.info/gnd/1108295746">Ministerialsekretär Dr. Joas</persName> eine vergleichende Darstellung des österreichisch-ungarischen sowie des russischen Systems zu dem Zwecke verfaßten, um den fundamentalen Unterschied der beiden Systeme bis ins Detail klarzulegen. Diese Darstellung haben wir sofort in <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName> in Druck legen lassen und an die Minister und Geheimräte verteilt.</p>
+                <p>Bei dem Abschiedsbesuche, den wir <persName key="KoernerPaul" ref="https://d-nb.info/gnd/133534200">Herrn v. Körner</persName> machten, kam ein Gesichtspunkt zur Sprache, den wir der Beachtung der beiden Regierungen empfehlen würden. Die Verhandlungen in <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html">Brüssel</placeName> werden sich in zwei Stadien abwickeln: die <orgName key="InternationaleZuckerkommission">Kommission</orgName> wird die <index><term key="Zuckerfrage">Zuckersteuergesetze</term></index> sämtlicher Vertragsstaaten prüfen und feststellen und erst wenn sich Anstände ergeben, tritt die <index><term key="InternationaleBruesselerZuckerkonvention">Konferenz</term><index><term key="BruesselerKonferenz"/></index></index> zusammen, die dann entscheidet. <persName key="KoernerPaul" ref="https://d-nb.info/gnd/133534200">Herr v. Körner</persName> stimmte, allerdings nur gesprächsweise mit uns überein, daß es wünschenswert wäre, wenn schon im Stadium der <orgName key="InternationaleZuckerkommission">Kommission</orgName> alle Schwierigkeiten beseitigt werden könnten. Er meinte, daß die Verhandlungen der <orgName key="InternationaleZuckerkommission">Kommission</orgName> den Vorteil bieten, daß sie sich im kleineren Kreise abspielen werden, was eine mögliche Verständigung fördert. <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> sollte unseres Erachtens in dieser Richtung zu wirken suchen.</p>
+                <p><placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html">Berlin</placeName>, am 2. Mai 1903.</p>
+                <p><persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858">Dr. Baernreither</persName>.</p>
+                <p><persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727">v. Hieronymi</persName>.</p>
+                <p>Aus der <orgName key="HofundStaatsdruckerei" ref="https://d-nb.info/gnd/610064-8">k. k. Hof- und Staatsdruckerei</orgName>.<app from="#" type="equal"><rdg wit="Bae_MF_4">Freiherr v. Richthofen in diesen Tagen auf Urlaub gegangen ist und von den wichtigen preußischen Ministern dermalen zwei ebenfalls nicht in Berlin anwesend sind. Wir glaubten daher eine weitere Antwort nicht urgieren zu sollen und sind der Meinung, die Angelegenheit soweit geführt zu haben, als dies unter den obwaltenden Umständen überhaupt möglich war. Aus dieser Sachlage folgt aber auch, daß diese Frage in Berlin mit größtem Nachdrucke und unausgesetzt weiter verfolgt werden muß, da nur hiedurch schließlich ein Erfolg für Brüssel sichergestellt werden kann. Wir können die Überzeugung aussprechen, daß dasjenige, was die deutsche Regierung sagt, aufrichtig gemeint ist, daß der Vorbehalt, den sie macht, keine Hintertür ist, daß man aber auch nicht mehr in die Antwort hineinlegen darf, als tatsächlich gemeint ist. Die deutsche Regierung hat allerdings nicht erklärt ohne jede Prüfung bei den auftauchenden Fragen mit uns durch dick und dünn zu gehen, aber sie sagt eine, wie wir glauben aufrichtig gemeinte wohlwollende Prüfung, zu. Wir sind daher der Meinung, daß vor allem die durch diese Verhandlungen angesponnenen Fäden weiter verfolgt werden müssen, daß insbesondere nach Rückkehr des Grafen Bülow die Angelegenheit auch mit ihm wieder besprochen werden müsse. Wir haben auch sofort in Berlin einen weiteren Schritt zur Aufklärung des schwierigen Punktes die Normirowka betreffend getan, indem Sektionsrat Teleszky im Vereine mit Ministerialsekretär Dr. Joas eine vergleichende Darstellung des österreichisch-ungarischen sowie des russischen Systems zu dem Zwecke verfaßten, um den fundamentalen Unterschied der beiden Systeme bis ins Detail klarzulegen. Diese Darstellung haben wir sofort in Berlin in Druck legen lassen und an die Minister und Geheimräte verteilt. Bei dem Abschiedsbesuche, den wir Herrn v. Körner machten, kam ein Gesichtspunkt zur Sprache, den wir der Beachtung der beiden Regierungen empfehlen würden. Die Verhandlungen in Brüssel werden sich in zwei Stadien abwickeln: die Kommission wird die Zuckersteuergesetze sämtlicher Vertragsstaaten prüfen und feststellen und erst wenn sich Anstände ergeben, tritt die Konferenz zusammen, die dann entscheidet. Herr v. Körner stimmte, allerdings nur gesprächsweise mit uns überein, daß es wünschenswert wäre, wenn schon im Stadium der Kommission alle Schwierigkeiten beseitigt werden könnten. Er meinte, daß die Verhandlungen der Kommission den Vorteil bieten, daß sie sich im kleineren Kreise abspielen werden, was eine mögliche Verständigung fördert. Österreich-Ungarn sollte unseres Erachtens in dieser Richtung zu wirken suchen. Berlin, am 2. Mai 1903. Dr. Baernreither. v. Hieronymi. Aus der k. k. Hof- und Staatsdruckerei.</rdg></app></p>
                 <anchor/>
                 <!-- CA: anchor für den addspan 5v -->
                 <pb facs="#F_K-4_Bae_TB_6_014" n="6r"/>
@@ -7999,10 +7544,10 @@
                         >Canada</placeName>
                     <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
-                        <expan>und <placeName key="England"
+                        <expan>und </expan>
+                    </choice><placeName key="England"
                                 ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
-                                >England</placeName></expan>
-                    </choice> gestalten, desto grösser <choice>
+                                >England</placeName> gestalten, desto grösser <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>wird die Einfuhr und</expan>
                     </choice> Ausfur.</p>
@@ -8172,10 +7717,10 @@
                     </choice> freie französische Republik am <placeName key="SanktLorenzStrom" ref="https://www.geonames.org/6156984/st-lawrence-river.html">St. Laurence</placeName>. Niemand will
                     aber die Vereinigung <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
-                        <expan>mit <placeName key="Frankreich"
+                        <expan>mit </expan>
+                    </choice><placeName key="Frankreich"
                                 ref="https://www.geonames.org/3017382/republic-of-france.html"
-                                >Frankreich</placeName></expan>
-                    </choice>. Es ist daher ein Wiedersinn dass die <choice>
+                                >Frankreich</placeName>. Es ist daher ein Wiedersinn dass die <choice>
                         <abbr>franz.</abbr>
                         <expan>französischen</expan>
                     </choice> Canadier, um ihre canadisch-<choice>
@@ -8833,8 +8378,7 @@
                         ref="https://d-nb.info/gnd/118586408">Napoleon</persName> mitbenützt. Aber
                     die Tendenz der Codification war eine conservative, so dass viele Grundsätze des <choice>
                         <abbr>C.Nap.</abbr>
-                        <expan>Code <persName key="BonaparteNapoleon"
-                                ref="https://d-nb.info/gnd/118586408">Napoleon</persName></expan>
+                        <expan>Code Napoleon</expan>
                     </choice> nicht aufgenommen <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>wurden</expan>
@@ -8863,8 +8407,7 @@
                         <expan>Standpunkt</expan>
                     </choice> des <choice>
                         <abbr>C.N.</abbr>
-                        <expan>Code <persName key="BonaparteNapoleon"
-                                ref="https://d-nb.info/gnd/118586408">Napoleon</persName></expan>
+                        <expan>Code Napoleon</expan>
                     </choice> bezüglich der <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>Trennung</expan>
@@ -8876,8 +8419,7 @@
                         Seite ist leer.</note><pb facs="#F_K-4_Bae_TB_6_154" n="73r"/>denn während
                     nach dem <choice>
                         <abbr>C.N.</abbr>
-                        <expan>Code <persName key="BonaparteNapoleon"
-                                ref="https://d-nb.info/gnd/118586408">Napoleon</persName></expan>
+                        <expan>Code Napoleon</expan>
                     </choice> die Wittwe einen Anspruch <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>gegenüber</expan>
@@ -8900,8 +8442,7 @@
                         <expan>sich</expan>
                     </choice> das droit de succession an den <choice>
                         <abbr>C.N.</abbr>
-                        <expan>Code <persName key="BonaparteNapoleon"
-                                ref="https://d-nb.info/gnd/118586408">Napoleon</persName></expan>
+                        <expan>Code Napoleon</expan>
                     </choice> an. Die <choice>
                         <abbr>französ.</abbr>
                         <expan>französische</expan>
@@ -8985,12 +8526,8 @@
                         <expan>im Allgemeinen</expan>
                     </choice> besser aufgenommen als in <placeName key="Frankreich"
                         ref="https://www.geonames.org/3017382/republic-of-france.html"
-                        >Frankreich</placeName>. Es gibt keine Partei die eine Vereinigung mit <choice>
-                        <abbr type="shorthand" subtype="gabelsberger"/>
-                        <expan><placeName key="Frankreich"
-                                ref="https://www.geonames.org/3017382/republic-of-france.html"
-                                >Frankreich</placeName></expan>
-                    </choice> will. <choice>
+                        >Frankreich</placeName>. Es gibt keine Partei die eine Vereinigung mit <placeName key="Frankreich"
+                                ref="https://www.geonames.org/3017382/republic-of-france.html">Frankreich</placeName> will. <choice>
                         <abbr>Insbes.</abbr>
                         <expan>Insbesondere</expan>
                     </choice> die Geistlichkeit ist dagegen. Sie hat eine grosse Macht <choice>
@@ -9020,12 +8557,7 @@
                     </choice> der Idee einer <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>Wiedervereinigung</expan>
-                    </choice> mit <choice>
-                        <abbr type="shorthand" subtype="gabelsberger"/>
-                        <expan><placeName key="Frankreich"
-                                ref="https://www.geonames.org/3017382/republic-of-france.html"
-                                >Frankreich</placeName></expan>
-                    </choice> immer widerstrebt <choice>
+                    </choice> mit <placeName key="Frankreich" ref="https://www.geonames.org/3017382/republic-of-france.html">Frankreich</placeName> immer widerstrebt <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> dieser <choice>
@@ -9430,12 +8962,7 @@
                         >Canada</placeName> in 10 Jahren allein imstande sein <choice>
                         <abbr type="shorthand" subtype="gabelsberger"/>
                         <expan>wird</expan>
-                    </choice> den Brodbedarf <choice>
-                        <abbr type="shorthand" subtype="gabelsberger"/>
-                        <expan><placeName key="England"
-                                ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
-                                >Englands</placeName></expan>
-                    </choice> zu decken <choice>
+                    </choice> den Brodbedarf <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html">Englands</placeName> zu decken <choice>
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> ist deswegen Anhänger <persName key="ChamberlainJoseph"
@@ -10673,8 +10200,7 @@
                         <abbr>u.</abbr>
                         <expan>und</expan>
                     </choice> culturellen Interessen neben den nationalen ihren Platz sichern.</p>
-                <p><placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html"
-                        >Lünz</placeName> am <date when="1904-12-31">Sylvesterabend 1904</date>.</p>
+                <p><placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html">Lünz</placeName> am <date when="1904-12-31">Sylvesterabend 1904</date>.</p>
             </div>
         </body>
     </text>
