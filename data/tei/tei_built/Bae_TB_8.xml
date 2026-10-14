@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../schema/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Bae_TB_8_1">
   <teiHeader xml:id="Bae_TB_8_2">
     <fileDesc xml:id="Bae_TB_8_3">
@@ -3638,7 +3637,8 @@
           <placeName key="Meran" ref="https://www.geonames.org/3173577/merano.html" xml:id="Bae_TB_8_2765">Meran</placeName>
           <date when="1908-12-22" type="diaryEntry" xml:id="Bae_TB_8_2766">22.12.08</date>
         </head>
-        <p xml:id="Bae_TB_8_2767">Inliegende <orgName key="NeueZuercherZeitung" ref="https://d-nb.info/gnd/16045397-5">Züricher Zeitung</orgName> 
+        <p xml:id="Bae_TB_8_2767">Inliegende 
+          <orgName key="NeueZuercherZeitung" ref="https://d-nb.info/gnd/16045397-5" xml:id="Bae_TB_8_5168">Züricher Zeitung</orgName>
           <note type="editorial" xml:id="Bae_TB_8_2768">Die Zeitung ist nicht erhalten.</note> verfolgt das von der 
           <orgName key="AugsburgerPostzeitung" ref="https://d-nb.info/gnd/4565992-8" xml:id="Bae_TB_8_5113">
             <choice xml:id="Bae_TB_8_5114">
@@ -3710,7 +3710,8 @@
           <placeName key="Bologna" ref="https://www.geonames.org/3181928/bologna.html" xml:id="Bae_TB_8_2806">Bologna</placeName> ditta 
           <persName key="ZanichelliNicola" ref="https://d-nb.info/gnd/119030543" xml:id="Bae_TB_8_2807">Nicola Zanichielli</persName> 1896. 
         </p>
-        <p xml:id="Bae_TB_8_2808">Storia critica del risorgimento italiano. L' <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html">Italia</orgName> durante il dominio austriaco di 
+        <p xml:id="Bae_TB_8_2808">Storia critica del risorgimento italiano. L' 
+          <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_5169">Italia</orgName> durante il dominio austriaco di 
           <persName key="TivaroniCarlo" xml:id="Bae_TB_8_2810">Carlo Tivaroni</persName> in Tomo III Parte X lo svolgimento del pensiero nazionale. 
         </p>
         <pb facs="#F_K-5_Bae_TB_8_100" n="48v" xml:id="Bae_TB_8_2811"/>
@@ -3718,15 +3719,19 @@
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_8_2813">Baernreithers</persName>. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. 
         </note>
         <pb facs="#F_K-5_Bae_TB_8_101" n="49r" xml:id="Bae_TB_8_2814"/>
-        <p xml:id="Bae_TB_8_2815">Storia politica d' <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html">Italia</orgName> scritta da una società d'amici sotto la direzione di 
+        <p xml:id="Bae_TB_8_2815">Storia politica d' 
+          <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_5170">Italia</orgName> scritta da una società d'amici sotto la direzione di 
           <persName key="VillariPasquale" ref="https://d-nb.info/gnd/118804596" xml:id="Bae_TB_8_2817">Pasquale Villari</persName>. 
         </p>
-        <p xml:id="Bae_TB_8_2818">Storia d' <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html">Italia</orgName> dal 1814 al 1878 von 
+        <p xml:id="Bae_TB_8_2818">Storia d' 
+          <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_5171">Italia</orgName> dal 1814 al 1878 von 
           <persName key="BertoliniFrancesco" ref="https://d-nb.info/gnd/132968592" xml:id="Bae_TB_8_2820">Francesco Bertolini</persName> 8. Band. 
           <persName key="HoepliUlrico" ref="https://d-nb.info/gnd/119422271" xml:id="Bae_TB_8_2821">Ulrico Hoepli</persName>
           <placeName key="Mailand" ref="https://www.geonames.org/3173435/milan.html" xml:id="Bae_TB_8_2822">Mailand</placeName> Corso Vittorio Emanuele. 
         </p>
-        <p xml:id="Bae_TB_8_2823">Carte segrete ratti ufficiali della Polizia austriaca in <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html">Italia</orgName> del 4 Giugno 1814 al 22 Marzo 1848, 3 vol Capolago 1851. </p>
+        <p xml:id="Bae_TB_8_2823">Carte segrete ratti ufficiali della Polizia austriaca in 
+          <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_5172">Italia</orgName> del 4 Giugno 1814 al 22 Marzo 1848, 3 vol Capolago 1851. 
+        </p>
         <p xml:id="Bae_TB_8_2825">Von 
           <persName key="SpringerAnton" ref="https://d-nb.info/gnd/117479373" xml:id="Bae_TB_8_2826">Springer</persName> zitiert Bd. 1 Seite 287. 
           <note type="editorial" xml:id="Bae_TB_8_2827">Gemeint ist: Anton Springer, Geschichte Oesterreichs seit dem Wiener Frieden 1809, Bd 1, Der Verfall des alten Reiches, Leipzig 1863.</note>
@@ -4374,7 +4379,13 @@
         </head>
         <p xml:id="Bae_TB_8_3305">Der 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_3306">Kaiser</persName> hat den 
-          <persName key="SternbergAdalbert" ref="https://d-nb.info/gnd/117232416" xml:id="Bae_TB_8_3307">Sternberg</persName> in <index><term key="KaiserFranzJoseph">Audienz</term><index><term key="Audienzen"/></index></index> empfangen. Die " 
+          <persName key="SternbergAdalbert" ref="https://d-nb.info/gnd/117232416" xml:id="Bae_TB_8_3307">Sternberg</persName> in 
+          <index xml:id="Bae_TB_8_5173">
+            <term key="KaiserFranzJoseph" xml:id="Bae_TB_8_5174">Audienz</term>
+            <index xml:id="Bae_TB_8_5175">
+              <term key="Audienzen" xml:id="Bae_TB_8_5176"/>
+            </index>
+          </index> empfangen. Die " 
           <orgName key="Arbeiterzeitung" ref="https://d-nb.info/gnd/1086227697" xml:id="Bae_TB_8_3308">Arbeiterzeitung</orgName>" druckt die "diesbezüglichen" Stellen der Reden 
           <persName key="SternbergAdalbert" ref="https://d-nb.info/gnd/117232416" xml:id="Bae_TB_8_3309">Sternbergs</persName> ab. 
           <note type="editorial" xml:id="Bae_TB_8_3310">Gemeint ist wohl: Zitate, in: Arbeiter-Zeitung, 9.2.1909, 4–5.</note> Der Rest ist Schweigen 
@@ -4388,7 +4399,13 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_3316">Wien</placeName>
           <date when="1909-02-21" type="diaryEntry" xml:id="Bae_TB_8_3317">21.2.09</date>
         </head>
-        <p xml:id="Bae_TB_8_3318">Projekt die <index><term key="Nationalitaetenkonflikt">Sprachenvorlagen</term><index><term key="Sprachenfrage"/></index></index> ins 
+        <p xml:id="Bae_TB_8_3318">Projekt die 
+          <index xml:id="Bae_TB_8_5177">
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_8_5178">Sprachenvorlagen</term>
+            <index xml:id="Bae_TB_8_5179">
+              <term key="Sprachenfrage" xml:id="Bae_TB_8_5180"/>
+            </index>
+          </index> ins 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_3319">Herrenhaus</orgName> einzubringen. Grosse Meinungsverschiedenheit, besser gesagt Meinungslosigkeit unter den Mitgliedern des 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_3320">
             <choice xml:id="Bae_TB_8_3321">
@@ -4463,7 +4480,13 @@
           <choice xml:id="Bae_TB_8_3370">
             <abbr xml:id="Bae_TB_8_3371">d.</abbr>
             <expan xml:id="Bae_TB_8_3372">deutsche</expan>
-          </choice> <index><term key="Parteien">Vollzugsausschuss</term><index><term key="Vollzugsausschuss"/></index></index> hat sich auch ablehnend ausgesprochen. 
+          </choice>
+          <index xml:id="Bae_TB_8_5181">
+            <term key="Parteien" xml:id="Bae_TB_8_5182">Vollzugsausschuss</term>
+            <index xml:id="Bae_TB_8_5183">
+              <term key="Vollzugsausschuss" xml:id="Bae_TB_8_5184"/>
+            </index>
+          </index> hat sich auch ablehnend ausgesprochen. 
         </p>
         <p xml:id="Bae_TB_8_3373">Idee wäre ja gut, aber von oben hat man seit Jahren das Ansehen des 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_3374">
@@ -4593,7 +4616,13 @@
           <choice xml:id="Bae_TB_8_3470">
             <abbr xml:id="Bae_TB_8_3471">öst.-ung.</abbr>
             <expan xml:id="Bae_TB_8_3472">österreichisch-ungarischen</expan>
-          </choice> <index><term key="OesterreichUngarn">Ausgleich</term><index><term key="Ausgleich"/></index></index> hinaus; Veterinärkontrolle durch ganz 
+          </choice>
+          <index xml:id="Bae_TB_8_5185">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_5186">Ausgleich</term>
+            <index xml:id="Bae_TB_8_5187">
+              <term key="Ausgleich" xml:id="Bae_TB_8_5188"/>
+            </index>
+          </index> hinaus; Veterinärkontrolle durch ganz 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3473">Serbien</placeName> notwendig; agrarischer Widerstand diesseits und jenseits der Leitha. 
           <persName key="FriedjungHeinrich" ref="https://d-nb.info/gnd/119480700" xml:id="Bae_TB_8_3474">
             <choice xml:id="Bae_TB_8_3475">
@@ -4617,7 +4646,7 @@
             <expan xml:id="Bae_TB_8_3488">und</expan>
           </choice>
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3489">England</placeName> wird "abgefunden", der Widerstand 
-          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_3490">Ungarns</placeName> wird "gebrochen", die Agrarier wird der Mund nötigenfalls die Taschen gestopft. Man glaubt, dass man in einem Irrenhause ist.
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_3490">Ungarns</placeName> wird "gebrochen", die Agrarier wird der Mund nötigenfalls die Taschen gestopft. Man glaubt, dass man in einem Irrenhause ist. 
         </p>
         <pb facs="#F_K-5_Bae_TB_8_125" n="55v" xml:id="Bae_TB_8_3493"/>
         <note type="editorial" xml:id="Bae_TB_8_3494">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
@@ -4668,7 +4697,7 @@
             </choice>
           </persName> dessen sicher? 
         </p>
-        <p xml:id="Bae_TB_8_3545">2.) sind wir sicher, dass wenn wir drin sind o. im Laufe der Ereignisse (
+        <p xml:id="Bae_TB_8_3545">2.) sind wir sicher, dass wenn wir drin sind o. im Laufe der Ereignisse ( 
           <placeName key="Antivari" ref="https://www.geonames.org/3204508/bar.html" xml:id="Bae_TB_8_3546">Antivari</placeName>, unsere Flotte, italienische Flotte usw.) nicht Einsprache von Aussen kommt? 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3547">Russland</placeName> in erster Reihe, 
           <placeName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_3548">Italien</placeName>? 
@@ -4696,7 +4725,7 @@
             <abbr xml:id="Bae_TB_8_3565">u.</abbr>
             <expan xml:id="Bae_TB_8_3566">und</expan>
           </choice> kann man dann 
-          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3567">Bosnien</placeName> noch friedlich regieren, wo alle Kunst darauf gerichtet sein muss, dass die beiden Confessionen nebeneinander leben.
+          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3567">Bosnien</placeName> noch friedlich regieren, wo alle Kunst darauf gerichtet sein muss, dass die beiden Confessionen nebeneinander leben. 
         </p>
         <p xml:id="Bae_TB_8_3568">5.) mit 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3569">Serbien</placeName> dürfen wir auf die Dauer nicht feindlich stehen, weil wir bei uns Millionen Serben haben. Wir dürfen 
@@ -4763,7 +4792,7 @@
               <expan xml:id="Bae_TB_8_5135">Fürstenberg</expan>
             </choice>
           </persName>. Erzählt, dass die Zusammenkunft 
-          <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_8_3618">Bülow</persName>-
+          <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_8_3618">Bülow</persName>- 
           <persName key="HardingeCharles" ref="https://d-nb.info/gnd/118720368" xml:id="Bae_TB_8_3619">Harding</persName> beim Königsbesuch in 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_8_3620">Berlin</placeName> kein positives Resultat hatte, aber 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3622">Russland</placeName> stellte fest, dass 
@@ -4824,13 +4853,13 @@
           <pb facs="#F_K-5_Bae_TB_8_131" n="58v" xml:id="Bae_TB_8_3667"/>
           <note type="editorial" xml:id="Bae_TB_8_3668">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8_132" n="59r" xml:id="Bae_TB_8_3669"/>Krieg mit 
-          <hi rendition="#ul" xml:id="Bae_TB_8_3670">drei</hi> Fronten.
+          <hi rendition="#ul" xml:id="Bae_TB_8_3670">drei</hi> Fronten. 
         </p>
         <p xml:id="Bae_TB_8_3671">Ich erzählte ihm, wie das 
           <choice xml:id="Bae_TB_8_5145">
             <abbr xml:id="Bae_TB_8_5146">M.</abbr>
             <expan xml:id="Bae_TB_8_5147">Ministerium</expan>
-          </choice> zu Stande kam.
+          </choice> zu Stande kam. 
         </p>
         <p xml:id="Bae_TB_8_3672">
           <persName key="HaerdtlGuido" ref="https://d-nb.info/gnd/136200621" xml:id="Bae_TB_8_3673">Härdtl</persName> sagt, er habe von dem neuen 
@@ -4880,7 +4909,7 @@
           <choice xml:id="Bae_TB_8_3708">
             <abbr xml:id="Bae_TB_8_3709">u.</abbr>
             <expan xml:id="Bae_TB_8_3710">und</expan>
-          </choice> wir (
+          </choice> wir ( 
           <persName key="GrabmayrKarl" ref="https://d-nb.info/gnd/11869684X" xml:id="Bae_TB_8_3711">Grabmayr</persName>, 
           <persName key="ExnerWilhelmFranz" ref="https://d-nb.info/gnd/101300891" xml:id="Bae_TB_8_3712">Exner</persName>
           <choice xml:id="Bae_TB_8_3713">
@@ -4909,7 +4938,7 @@
             <abbr xml:id="Bae_TB_8_3730">u.</abbr>
             <expan xml:id="Bae_TB_8_3731">und</expan>
           </choice> geschoben – heineinzugreifen, die Sachen im Kern erfassen, etwas Definitives schaffen, davor scheut jedermann zurück. Als ich ihm gestern erzählte, in welcher Richtung wir wünschen dass mehr politisches Bewusstsein und Styl in die 
-          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_8_5148">Partei</orgName> kommen sollte – hörte er kaum hin.
+          <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_8_5148">Partei</orgName> kommen sollte – hörte er kaum hin. 
         </p>
         <pb facs="#F_K-5_Bae_TB_8_133" n="59v" xml:id="Bae_TB_8_3733"/>
         <note type="editorial" xml:id="Bae_TB_8_3734">Diese Seite ist leer.</note>
@@ -5131,7 +5160,7 @@
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3907">England</placeName> werden sie beeinflusst, ja sie haben eine Wendung gemacht." 
         </p>
         <p xml:id="Bae_TB_8_3908">Der Rest des Gespräches innere Sachen, 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde Geschäftsordnung usw.
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde Geschäftsordnung usw. 
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_8_3914">
