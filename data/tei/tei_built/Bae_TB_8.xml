@@ -4777,7 +4777,7 @@
           </choice> à 1000 K. Diäten nach 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_3606">Wien</placeName> zu bringen war. Anzeichen, dass nicht alles in Ordnung ist in 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3607">Bosnien</placeName>: Bombenfund bei 
-          <placeName key="Banjaluka" ref="https://www.geonames.org/3294893/banja-luka.html" xml:id="Bae_TB_8_3608">Banjaluka</placeName>, von dem englische Zeitungen ("
+          <placeName key="Banjaluka" ref="https://www.geonames.org/3294893/banja-luka.html" xml:id="Bae_TB_8_3608">Banjaluka</placeName>, von dem englische Zeitungen (" 
           <orgName key="DailyTelegraph" ref="https://d-nb.info/gnd/6006746-9" xml:id="Bae_TB_8_5189">Daily Telegraf</orgName>") berichten. 
         </p>
       </div>
@@ -5143,13 +5143,7 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_3882">Wien</placeName>
           <date when="1909-03-15" type="diaryEntry" xml:id="Bae_TB_8_3883">15.3.09</date>
         </head>
-        <p xml:id="Bae_TB_8_3884"> Heute in 
-          <index xml:id="Bae_TB_8_5195">
-            <term key="KaiserFranzJoseph" xml:id="Bae_TB_8_5196">Audienz</term>
-            <index xml:id="Bae_TB_8_5197">
-              <term key="Audienzen" xml:id="Bae_TB_8_5198"/>
-            </index>
-          </index>. Nach einigen 
+        <p xml:id="Bae_TB_8_3884"> Heute in Audienz. Nach einigen 
           <choice xml:id="Bae_TB_8_5165">
             <abbr xml:id="Bae_TB_8_5166">allg.</abbr>
             <expan xml:id="Bae_TB_8_5167">allgemeinen</expan>
@@ -5164,8 +5158,7 @@
           <choice xml:id="Bae_TB_8_3897">
             <abbr xml:id="Bae_TB_8_3898">E.</abbr>
             <expan xml:id="Bae_TB_8_3899">Euerer</expan>
-          </choice>
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_5199">Majestät</persName> triumfieren möge." (Lachend) Ja, das würde ich auch wünschen, aber es ist schwer möglich geworden. 
+          </choice> Majestät triumfieren möge." (Lachend) Ja, das würde ich auch wünschen, aber es ist schwer möglich geworden. 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3901">Russland</placeName> vereitelt alles." – "Aber das Friedensbedürfnis in 
           <placeName key="Europa" ref="https://www.geonames.org/6255148/europe.html" xml:id="Bae_TB_8_3902">Europa</placeName> ist doch gross 
           <choice xml:id="Bae_TB_8_3903">
@@ -5175,13 +5168,7 @@
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3907">England</placeName> werden sie beeinflusst, ja sie haben eine Wendung gemacht." 
         </p>
         <p xml:id="Bae_TB_8_3908">Der Rest des Gespräches innere Sachen, 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde 
-          <index xml:id="Bae_TB_8_5200">
-            <term key="Reichsrat" xml:id="Bae_TB_8_5201">Geschäftsordnung</term>
-            <index xml:id="Bae_TB_8_5202">
-              <term key="Geschaeftsordnung" xml:id="Bae_TB_8_5203"/>
-            </index>
-          </index> usw. 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde Geschäftsordnung usw. 
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_8_3914">
@@ -5191,16 +5178,10 @@
         </head>
         <p xml:id="Bae_TB_8_3918">Nur in Schlagworten. Diner bei 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3919">Ährenthal</persName> wo er mir seine Pläne: definitive Ordnung in 
-          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3920">Serbien</placeName>, Meistbegünstigung, nur im Notfall Einmarsch usw. auseinandersetzte. Kämpfe in der 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3920"> Serbien</placeName>, Meistbegünstigung, nur im Notfall Einmarsch usw. auseinandersetzte. Kämpfe in der 
           <orgName key="KlubderLiberalen" ref="no_ref" xml:id="Bae_TB_8_3921">Partei</orgName>. 
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_8_3922">Plener</persName> und 
-          <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_8_3923">Unger</persName> verhinderten mich, zum 
-          <index xml:id="Bae_TB_8_5204">
-            <term key="Reichsrat" xml:id="Bae_TB_8_5205">Rekrutenkontingent</term>
-            <index xml:id="Bae_TB_8_5206">
-              <term key="Rekrutenkontingent" xml:id="Bae_TB_8_5207"/>
-            </index>
-          </index> zu sprechen. 
+          <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_8_3923">Unger</persName> verhinderten mich, zum Rekrutenkontingent zu sprechen. 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3924">
             <choice xml:id="Bae_TB_8_3925">
               <abbr xml:id="Bae_TB_8_3926">Fberg</abbr>
@@ -5251,8 +5232,7 @@
               <abbr xml:id="Bae_TB_8_3960">H.H.</abbr>
               <expan xml:id="Bae_TB_8_3961">Herrenhaus</expan>
             </choice>
-          </orgName> hat man Debatte unterdrückt, um 2. Erklärung zu vermeiden, auf Fingerdeut der 
-          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_8_5208">Soci</orgName> im 
+          </orgName> hat man Debatte unterdrückt, um 2. Erklärung zu vermeiden, auf Fingerdeut der Soci im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3962">
             <choice xml:id="Bae_TB_8_3963">
               <abbr xml:id="Bae_TB_8_3964">Abg.H.</abbr>
@@ -5326,7 +5306,7 @@
             <abbr xml:id="Bae_TB_8_4017">u.</abbr>
             <expan xml:id="Bae_TB_8_4018">und</expan>
           </choice> gegen ein ordentliches Regieren in 
-          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_4019">Serbien</placeName>. 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_4019"> Serbien</placeName>. 
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_8_4020">
@@ -5335,7 +5315,7 @@
           <date when="1909-04-23" type="diaryEntry" xml:id="Bae_TB_8_4023">23.4.1909</date>
         </head>
         <p xml:id="Bae_TB_8_4024">Unterhalb des " 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_4025">Wien</placeName> Sitzes" am rechten Ufer der Tepla erhebt sich ein Fels mit der Inschrift 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_4025"> Wien</placeName> Sitzes" am rechten Ufer der Tepla erhebt sich ein Fels mit der Inschrift 
         </p>
         <p xml:id="Bae_TB_8_4026">So kühn und frei</p>
         <p xml:id="Bae_TB_8_4027">wie dieser Fels</p>
@@ -5345,7 +5325,7 @@
         </p>
         <p xml:id="Bae_TB_8_4031">1808</p>
         <p xml:id="Bae_TB_8_4032">Eine interessante historische Reminiszenz. Ein Jahr vor der Schlacht bei 
-          <placeName key="Aspern" ref="https://www.geonames.org/2782316/aspern.html" xml:id="Bae_TB_8_4033">Aspern</placeName>
+          <placeName key="Aspern" ref="https://www.geonames.org/2782316/aspern.html" xml:id="Bae_TB_8_4033"> Aspern</placeName>
         </p>
         <pb facs="#F_K-5_Bae_TB_8_143" n="64v" xml:id="Bae_TB_8_4034"/>
         <note type="editorial" xml:id="Bae_TB_8_4035">Diese Seite ist leer.</note>
@@ -5389,7 +5369,7 @@
           </choice> Verbindungen dieser Campagne frug. 
         </p>
         <p xml:id="Bae_TB_8_4064">Freilich hat die Sache auch eine andere Seite, die in den Abschriften der beiden 
-          <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_TB_8_4065">Dumreicher'schen</persName> Briefe glänzend beleuchtet ist! 
+          <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_TB_8_4065"> Dumreicher'schen</persName> Briefe glänzend beleuchtet ist! 
         </p>
         <pb facs="#F_K-5_Bae_TB_8_145" n="65v" xml:id="Bae_TB_8_4066"/>
         <note type="editorial" xml:id="Bae_TB_8_4067">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
@@ -5422,13 +5402,7 @@
               <abbr xml:id="Bae_TB_8_4088">Athalschen</abbr>
               <expan xml:id="Bae_TB_8_4089">Aehrenthalschen</expan>
             </choice>
-          </persName> Politik? Hat man diese Situation ausgenützt?! Die 
-          <index xml:id="Bae_TB_8_5209">
-            <term key="AnnexionBosniens" xml:id="Bae_TB_8_5210">Annexionsvorlage</term>
-          </index> ist (fast ein Jahr nach der 
-          <index xml:id="Bae_TB_8_5211">
-            <term key="AnnexionBosniens" xml:id="Bae_TB_8_5212">Annexion</term>
-          </index>!) 
+          </persName> Politik? Hat man diese Situation ausgenützt?! Die Annexionsvorlage ist (fast ein Jahr nach der Annexion!) 
           <hi rendition="#ul" xml:id="Bae_TB_8_4090">nicht</hi> erledigt. Die türkische Entschädigung ist parlamentarisch auch noch nicht erledigt. Das Selbstbewusstsein und der Optimismus, der uns erfüllt hat, ist unfruchtbar geblieben. 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_4091">
             <choice xml:id="Bae_TB_8_4092">
@@ -5437,20 +5411,14 @@
             </choice>
           </persName> der wohl die Absicht gehabt hat, in unsere innern Verhältnisse klärend einzugreifen, hat dies aufgegeben, ruht auf seinen diplomatischen Lorbeeren. Ob er wohl einsieht dass unsere innern Verhältnisse ihn um die Früchte seiner Arbeit bringen werden, wenn das laisser aller so fortgeht. 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4095">Bienerth</persName> ist unfähig und untätig. Er krebst mit einem einzigen Gedanken: politische Keuschheit. Keuschheit ist aber oft nur die Folge von Impotenz. Die 
-          <orgName key="Arbeiterzeitung" ref="https://d-nb.info/gnd/1086227697" xml:id="Bae_TB_8_4096">Arbeiterzeitung</orgName> vom 25.7.09 hat einen ausgezeichneten Artikel! 
+          <orgName key="Arbeiterzeitung" ref="https://d-nb.info/gnd/1086227697" xml:id="Bae_TB_8_4096"> Arbeiterzeitung</orgName> vom 25.7.09 hat einen ausgezeichneten Artikel! 
           <note type="editorial" xml:id="Bae_TB_8_4097">Gemeint ist wohl: Parlamentskritiker. Eine Kritik der Kritiker, in: Arbeiter-Zeitung, 25.07.1909, 1–2.</note>
           <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_8_4098">Marchets</persName> Brief besagt auch viel. 
-          <note type="editorial" xml:id="Bae_TB_8_4099">Brief Gustav Marchet an JMB vom 15.7.1909 oder 27.7.1909 (?), NL Baernreither K. 48.</note> Die 
-          <index xml:id="Bae_TB_8_5213">
-            <term key="Reichsrat" xml:id="Bae_TB_8_5214">Obstruction</term>
-            <index xml:id="Bae_TB_8_5215">
-              <term key="Obstruktion" xml:id="Bae_TB_8_5216"/>
-            </index>
-          </index> hätte beseitigt werden können. Das ist jetzt erwiesen. Die Deutschen wollten die Formel 
+          <note type="editorial" xml:id="Bae_TB_8_4099">Brief Gustav Marchet an JMB vom 15.7.1909 oder 27.7.1909 (?), NL Baernreither K. 48.</note> Die Obstruction hätte beseitigt werden können. Das ist jetzt erwiesen. Die Deutschen wollten die Formel 
           <persName key="SustersicIvan" ref="https://d-nb.info/gnd/121008924" xml:id="Bae_TB_8_4100">Šusteršič</persName> bezüglich der bosnischen Angelegenheiten acceptieren. 
         </p>
         <p xml:id="Bae_TB_8_4101">Die 
-          <orgName key="Arbeiterzeitung" ref="https://d-nb.info/gnd/1086227697" xml:id="Bae_TB_8_4102">Arbeiterzeitung</orgName> war die einzige, die das rund heraus gesagt hat. Allerdings auch eine 
+          <orgName key="Arbeiterzeitung" ref="https://d-nb.info/gnd/1086227697" xml:id="Bae_TB_8_4102"> Arbeiterzeitung</orgName> war die einzige, die das rund heraus gesagt hat. Allerdings auch eine 
           <placeName key="Graz" ref="https://www.geonames.org/2778058/graz-stadt.html" xml:id="Bae_TB_8_4103">Grazer</placeName> Zeitung, wie das „ 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_8_4104">Prager</placeName> Montagblatt" vor kurzem meldete. 
           <persName key="HofmannPaul" ref="https://d-nb.info/gnd/1023211718" xml:id="Bae_TB_8_4105">Hofmann von Wellenhof</persName> wurde mit diesem Artikel in Verbindung gebracht. 
@@ -5474,8 +5442,7 @@
           <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html" xml:id="Bae_TB_8_4119"> Sarajewo</placeName>. 
           <note type="editorial" xml:id="Bae_TB_8_4120">
             <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_8_4121">Joseph Maria Baernreither</persName>, Das Museum von Sarajevo, in: Österreichische Rundschau Bd. 21 (1909). 
-          </note> Es ist für mich ein neuartiges Thema und beschäftigt mich daher sehr angenehm. In den zwei ersten Tagen meiner Anwesenheit schrieb ich für die 
-          <orgName key="DeutscheJuristenzeitung" ref="https://d-nb.info/gnd/1086704363" xml:id="Bae_TB_8_5217">deutsche Juristenzeitung</orgName> ein Resumé meines Gesetzes über die Jugendfürsorge, um das mich die Redaktion gebeten hatte. 
+          </note> Es ist für mich ein neuartiges Thema und beschäftigt mich daher sehr angenehm. In den zwei ersten Tagen meiner Anwesenheit schrieb ich für die deutsche Juristenzeitung ein Resumé meines Gesetzes über die Jugendfürsorge, um das mich die Redaktion gebeten hatte. 
           <note type="editorial" xml:id="Bae_TB_8_4122">
             <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_8_4123">Joseph Maria Baernreither</persName>, Der neue österreichische Entwurf betreffend das Jugendstrafrecht, in: Deutsche Juristenzeitung XIV (1909) Sp. 1113-1118. 
           </note> Im Bett nach dem Bade lese ich 
@@ -5547,7 +5514,7 @@
           <date when="1909-08-14" type="diaryEntry" xml:id="Bae_TB_8_4174">14.8.09</date>
         </head>
         <p xml:id="Bae_TB_8_4175">Ich war gestern in 
-          <placeName key="Mainz" ref="https://www.geonames.org/6554818/mainz.html" xml:id="Bae_TB_8_4176">Mainz</placeName>, um mir wieder einmal das 
+          <placeName key="Mainz" ref="https://www.geonames.org/6554818/mainz.html" xml:id="Bae_TB_8_4176"> Mainz</placeName>, um mir wieder einmal das 
           <orgName key="RoemischGermanischesMuseum" ref="https://d-nb.info/gnd/4028138-3" xml:id="Bae_TB_8_4177">Museum</orgName> anzusehen. Hatte vorher dem Direktor Prof. 
           <persName key="SchumacherKarl" ref="https://d-nb.info/gnd/118795597" xml:id="Bae_TB_8_4178">Dr. Schumacher</persName> geschrieben, der mich überall herumführte. Das 
           <orgName key="RoemischGermanischesMuseum" ref="https://d-nb.info/gnd/4028138-3" xml:id="Bae_TB_8_4179">Museum</orgName> wird jetzt ganz neu eingerichtet, 
