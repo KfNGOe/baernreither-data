@@ -5769,7 +5769,14 @@
           <date when="1909-09-08" type="diaryEntry" xml:id="Bae_TB_8_4371">8.9.09</date>
         </head>
         <p xml:id="Bae_TB_8_4372">Wieder einmal 
-          <hi rendition="#ul" xml:id="Bae_TB_8_4373"><index><term key="Nationalitaetenkonflikt">Ausgleichsconferenzen</term><index><term key="Ausgleichskonferenz"/></index></index>. Diesmal getrennt nach den beiden Nationen!</hi>
+          <hi rendition="#ul" xml:id="Bae_TB_8_4373">
+            <index xml:id="Bae_TB_8_5195">
+              <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_8_5196">Ausgleichsconferenzen</term>
+              <index xml:id="Bae_TB_8_5197">
+                <term key="Ausgleichskonferenz" xml:id="Bae_TB_8_5198"/>
+              </index>
+            </index>. Diesmal getrennt nach den beiden Nationen!
+          </hi>
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4374">Bienerth</persName> zuerst mit den 
           <choice xml:id="Bae_TB_8_4375">
             <abbr xml:id="Bae_TB_8_4376">D.</abbr>
@@ -5998,7 +6005,8 @@
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_8_4545">Prager</placeName>
             <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_4546">Landtage</orgName>
           </hi> gezeigt werde. An der Oberfläche ist es ein Streit um die Tagesordnung, im Wesen ist es ein tiefer Gegensatz. Die Czechen verfolgen unentwegt die Absicht das Ministerium 
-          <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4547">Bienerth</persName> zu beseitigen. So sehr sie sonst den <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2">Landtag</orgName> wünschen, diesmal ist er ihnen gleichgültig, denn der Ruf "kein Landtag kein 
+          <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4547">Bienerth</persName> zu beseitigen. So sehr sie sonst den 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_5199">Landtag</orgName> wünschen, diesmal ist er ihnen gleichgültig, denn der Ruf "kein Landtag kein 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_4548">Reichsrat</orgName>" wird ihnen eine Waffe sein. Aber so klein sie im Frühjahr waren, der Kamm ist ihnen wieder geschwollen. Sie verhindern 
           <del rendition="#s" xml:id="Bae_TB_8_4549">die Vorlage in</del> die Discussion der 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4550">Bienerth'schen</persName> Vorlagen, weil sie das Praejudiz einer solchen Ordnung der Dinge vermeiden wollen. Die Deutschen wollen den Landtag auch nicht. So oft sich eine Aussicht auf Flottmachung eröffnete waren sie missmutig 
