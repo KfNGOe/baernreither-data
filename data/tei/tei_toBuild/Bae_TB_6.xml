@@ -1156,7 +1156,7 @@
         </p>
         <pb facs="#F_K-4_Bae_TB_6_033" n="15v" xml:id="Bae_TB_6_902"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_903"/>
-        <p xml:id="Bae_TB_6_904">Resumé.</p>
+        <p xml:id="Bae_TB_6_904"><anchor/>Resumé.</p>
         <p xml:id="Bae_TB_6_905">über die</p>
         <p xml:id="Bae_TB_6_906">von den Unterzeichneten in 
           <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_907">London</placeName> bezüglich der 
@@ -1187,7 +1187,7 @@
           <persName key="CzarnikowJuliusCaesar" xml:id="Bae_TB_6_927">seinem Chef</persName> von der Royalkommission vernommen, wurde, vor welcher im Jahre 1898 die 
           <index xml:id="Bae_TB_6_928">
             <term key="Zuckerfrage" xml:id="Bae_TB_6_929">Zuckerfrage</term>
-          </index> erörtert wurde, gab uns gegenüber einer Auffassung Ausdruck, die wir hier nicht
+          </index> erörtert wurde, gab uns gegenüber einer Auffassung Ausdruck, die wir hier nicht <app from="#Bae_MF_4_1661" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_930"/>
         <!-- CA: anchor für den addspan 15v -->
@@ -1239,10 +1239,10 @@
           <placeName key="Ostende" ref="https://www.geonames.org/2789786/ostend.html" xml:id="Bae_TB_6_966">Ostende</placeName> – 
           <placeName key="Dover" ref="https://www.geonames.org/7296052/dover.html" xml:id="Bae_TB_6_967">Dover</placeName> nach 
           <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_968">London</placeName> furen, wo wir anderntags um 4 Uhr nachmittags eintrafen.<app from="#Bae_MF_4_1463" type="equal"><rdg wit="Bae_MF_4">der Kaiser den passiven Versuchen Szells die Obstruktion zu brechen, gesetzt habe. Die Folge bewies, dass ich die Intention des Kaisers vollkommen richtig aufgefasst hatte. Die nächsten Wochen war meine Zeit geteilt zwischen der Leitung des Zollausschusses und der Übersetzung meiner Denkschrift ins Englische. Ein Herr Langridge, der an der Exportakademie das Englische unterrichtet, hatte eine Uebersetzung angefertigt, aber sie war keineswegs ganz sinngemäß und ich mußte die Mühe auf mich nehmen, sie Satz für Satz mit ihm durchzunehmen. So saßen wir jeden Morgen zeitlich an der Arbeit, die aber dann, wie mir später in London gesagt wurde, ganz gelungen war. Auch nützte mir diese Durcharbeitung des ganzen Stoffes in englischer Sprache sehr viel für die Beherrschung all der technischen und juridischen Ausdrücke, die ich in London so notwendig zur Hand haben musste. LONDON Am 21. Mai, einem schönen Himmelfahrtstage verließen wir – d.h. dieselbe Gesellschaft wie sie sich für Berlin zusammengefunden hatte – Wien mit dem Ostendeexpress, mit dem wir ohne Aufenthalt via Ostende – Dover nach London fuhren, wo wir anderntags um 4 Uhr nachmittags eintrafen.</rdg></app>
-        </p><!-- CA: bis hier den Vergleich mit MF_4 gemacht - hier Arbeit fortsetzen -->
+        </p>
         <pb facs="#F_K-4_Bae_TB_6_035" n="16v" xml:id="Bae_TB_6_969"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_970"/>
-        <p xml:id="Bae_TB_6_971">unerwähnt lassen wollen. 
+        <p xml:id="Bae_TB_6_971"><anchor/>unerwähnt lassen wollen. 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_972">England</placeName> hat nach seiner Meinung überhaupt darum die 
           <index xml:id="Bae_TB_6_973">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_974">Brüsseler Konvention</term>
@@ -1284,12 +1284,12 @@
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1002">England</placeName> wird festgehalten werden.
         </p>
         <p xml:id="Bae_TB_6_1003">Aber auch mit einer Reihe anderer im öffentlichen Leben stehenden Persönlichkeiten hatten wir Gelegenheit zu verkehren, unter anderem mit dem Parlamentsmitgliede 
-          <persName key="GibsonBowlesThomas" ref="https://d-nb.info/gnd/12939646X" xml:id="Bae_TB_6_1004">Gibson Bowles</persName>, der
+          <persName key="GibsonBowlesThomas" ref="https://d-nb.info/gnd/12939646X" xml:id="Bae_TB_6_1004">Gibson Bowles</persName>, der <app from="#Bae_MF_4_1664" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1005"/>
         <!-- CA: anchor für addspan 16v -->
         <pb facs="#F_K-4_Bae_TB_6_036" n="17r" xml:id="Bae_TB_6_1006"/>
-        <p xml:id="Bae_TB_6_1007">Wir hatten das beste Wetter genossen, die Überfahrt war herrlich. Unser 
+        <p xml:id="Bae_TB_6_1007">Wir <app from="#Bae_MF_4_1497" type="equal"><rdg wit="Bae_MF_4">Wir</rdg></app><anchor/>hatten <app from="#Bae_MF_4_1500" type="notEqual"><rdg wit="Bae_MF_4">haben</rdg></app><anchor/>das beste Wetter genossen, die Überfahrt war herrlich. Unser 
           <persName key="StockingerFranz" xml:id="Bae_TB_6_1008">Generalkonsul</persName> hatte uns im 
           <orgName key="HotelHydePark" xml:id="Bae_TB_6_1009">Hyde Park Hotel</orgName> Wohnung 
           <add place="across" xml:id="Bae_TB_6_1010">im 8. Stock</add> bestellt. Ich machte jedoch ein anderes arrengement. Wir namen ein kleines aus 4 Schlafzimmern, ein Dienerzimmer, Badezimmer 
@@ -1317,8 +1317,7 @@
             <abbr xml:id="Bae_TB_6_1028">u.</abbr>
             <expan xml:id="Bae_TB_6_1029">und</expan>
           </choice> warm vor unseren Blicken. Ein alter Engländer, der uns besuchte, meinte auf unserm Balkon stehend, er lebe Decennien in 
-          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_1030">London</placeName>
-          <choice xml:id="Bae_TB_6_1031">
+          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_1030">London</placeName> <choice xml:id="Bae_TB_6_1031">
             <abbr xml:id="Bae_TB_6_1032">u.</abbr>
             <expan xml:id="Bae_TB_6_1033">und</expan>
           </choice> hätte nie gedacht, dass der 
@@ -1328,16 +1327,15 @@
           <choice xml:id="Bae_TB_6_1037">
             <abbr xml:id="Bae_TB_6_1038">u.</abbr>
             <expan xml:id="Bae_TB_6_1039">und</expan>
-          </choice> ein Publicum, das an Eleganz nicht überboten werden konnte. Sehr viel Amerikaner, insbesondere in Toiletten sehr luxuriöser Art 
-          <choice xml:id="Bae_TB_6_1040">
+          </choice> ein Publicum, das an Eleganz nicht überboten werden konnte. Sehr viel <app from="#Bae_MF_4_1503" type="equal"><rdg wit="Bae_MF_4">das beste Wetter genossen, die Ueberfahrt war herrlich. Unser Generalkonsul hatte uns im Hyde Park Hotel Wohnung im 8. Stock bestellt. Ich machte jedoch ein anderes Arrengement. Wir nahmen ein kleines aus 4 Schlafzimmern, ein Dienerzimmer, Badezimmer und einem großen Salon bestehendes abgeschlossenes Appartement im dritten Stock, wofür wir allerdings 6 f. täglich zu zahlen hatten, das aber ebenso bequem als gemütlich war. Aussicht auf den Hydepark, Rottenrow zu unseren Füssen, dahinter die Serpentine und die Baumriesen des Parks, ein Anblick, der uns früh, wenn alles, Jung und Alt im Park ritt, so wie Nachmittag, als der elegante Korso sich vor unsern Fenstern abspielte – immer von neuem entzückte. Die Sonne war uns während des ganzen Aufenthaltes gnädig und fast beständig lag der Park in jenem feinen Dunst, in dem in London alles gehüllt ist, aber sonnig und warm vor unseren Blicken. Ein alter Engländer, der uns besuchte, meinte auf unserm Balkon stehend, er lebe Dezennien in London und hätte nie gedacht, daß der Hydepark so schön sei! Das ganze Hotel war übrigens high style. Abends in den Speisesälen Musik und ein Publikum, das an Eleganz nicht überboten werden konnte. Sehr viel</rdg></app><anchor/>Amerikaner, insbesondere in Toiletten sehr luxuriöser Art <choice xml:id="Bae_TB_6_1040">
             <abbr xml:id="Bae_TB_6_1041">u.</abbr>
             <expan xml:id="Bae_TB_6_1042">und</expan>
-          </choice> in Schmuck strahlend die Amerikanerinnen. Aber 
-          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_1043">London</placeName> hat gegen die Zeit, in der ich zum ersten Mal hinkam, 
+          </choice> in Schmuck strahlend die Amerikanerinnen. <app from="#Bae_MF_4_1519" type="notEqual"><rdg wit="Bae_MF_4">Amerikanerinnen in Toiletten sehr luxuriöser und in Schmuck strahlend.</rdg></app><anchor/>Aber 
+          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_1043">London</placeName> hat gegen die Zeit, in der ich zum ersten Mal hinkam, <app from="#Bae_MF_4_1522" type="equal"><rdg wit="Bae_MF_4">Aber London hat gegen die Zeit, in der ich zum ersten Mal hinkam</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_037" n="17v" xml:id="Bae_TB_6_1044"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1045"/>
-        <p xml:id="Bae_TB_6_1046">die 
+        <p xml:id="Bae_TB_6_1046"><anchor/>die 
           <index xml:id="Bae_TB_6_1047">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_1048">Brüsseler Konvention</term>
           </index> auf das schärfste verurteilt und — wiewohl der Regierungspartei angehörend — der Regierung den schwersten Vorwurf daraus macht, daß sie 
@@ -1398,12 +1396,12 @@
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_6_1092">Berlin</placeName>, sondern eine rein sachliche Auslegung der 
           <index xml:id="Bae_TB_6_1093">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_1094">Konvention</term>
-          </index> darüber entscheiden müsse, ob
+          </index> darüber entscheiden müsse, ob <app from="#Bae_MF_4_1667" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1095"/>
         <!-- CA: anchor für addspan 17v -->
         <pb facs="#F_K-4_Bae_TB_6_038" n="18r" xml:id="Bae_TB_6_1096"/>
-        <p xml:id="Bae_TB_6_1097">riesige Fortschritte zur Continentalisirung oder vielleicht besser gesagt Amerikanisirung gemacht. Unsere altmodische Frage, ob wir in unserm Appartement rauchen dürfen, wurde belächelt; im Smoking room, das in ein ‚fumoir’ verwandelt war, sassen abends nach dem Diner ebenso viel Damen als Herren. Das Treiben am Sonntag ist ganz verändert. Schon Vormittags im Westend keine ausgestorbenen Strassen wie früher, Nachmittags 
+        <p xml:id="Bae_TB_6_1097"><anchor/>riesige Fortschritte zur Continentalisirung oder vielleicht besser gesagt Amerikanisirung gemacht. Unsere altmodische Frage, ob wir in unserm Appartement rauchen dürfen, wurde belächelt; im Smoking room, das in ein ‚fumoir’ verwandelt war, sassen abends nach dem Diner ebenso viel Damen als Herren. Das Treiben am Sonntag ist ganz verändert. Schon Vormittags im Westend keine ausgestorbenen Strassen wie früher, Nachmittags 
           <choice xml:id="Bae_TB_6_1098">
             <abbr xml:id="Bae_TB_6_1099">u.</abbr>
             <expan xml:id="Bae_TB_6_1100">und</expan>
@@ -1430,11 +1428,11 @@
           </choice> des Correspondenten der 
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_6_1117">Neuen Freien Presse</orgName>
           <persName key="Lunge" xml:id="Bae_TB_6_1118">Dr. Lunge</persName>, der sich als ein in politicis sehr unterrichteter Mann erwies. Mittags machten wir unseren Besuch auf der Botschaft, wo wir 
-          <persName key="MensdorffAlbert" ref="https://d-nb.info/gnd/117566993" xml:id="Bae_TB_6_1119">Graf Albert Mensdorff</persName> trafen. Wir verabredeten mit ihm alle Schritte, die wir in den nächsten Tagen zu machen für praktisch fanden.
+          <persName key="MensdorffAlbert" ref="https://d-nb.info/gnd/117566993" xml:id="Bae_TB_6_1119">Graf Albert Mensdorff</persName> trafen. Wir verabredeten mit ihm alle Schritte, die wir in den nächsten Tagen zu machen für praktisch fanden.<app from="#Bae_MF_4_1529" type="equal"><rdg wit="Bae_MF_4">riesige Fortschritte zur Kontinentalisierung, oder vielleicht besser gesagt Amerikanisierung gemacht. Unsere altmodische Frage, ob wir in unserm Appartement rauchen dürfen, wurde belächelt; im Smoking room, das in ein ‚fumoir’ verwandelt war, saßen abends nach dem Diner ebenso viel Damen als Herren. Das Treiben am Sonntag ist ganz verändert. Schon Vormittags im Westend keine ausgestorbenen Straßen wie früher. Nachmittag und Abends vollends ein Verkehr, wie früher nie. Offene Tabakläden! Sehr aufgefallen ist mir auch die ungeheure Zunahme der Deutschen in London. In einem gewöhnlichen Tabakladen wurde Hieronymi auf sein englisch gestelltes Begehr sofort deutsch angesprochen. In allen Restaurants, in allen Hotels deutsche Kellner. Wie anders gegen 1883, als ich zum ersten Mal nach London kam und jedes deutsche Wort erstaunt und freudig begrüßte! Samstag den 23., konnten wir nur wenig unternehmen, da an diesem letzten Wochentage das geschäftliche Leben bald nach Mittag aufhört. Morgens erhielten wir den Besuch des Generalkonsuls Stockinger und des Korrespondenten der Neuen Freien Presse, Dr. Lunge, der sich als ein in politics sehr unterrichteter Mann erwies. Mittags machten wir unseren Besuch auf der Botschaft, wo wir Graf Albert Mensdorff trafen. Wir verabredeten mit ihm alle Schritte, die wir in den nächsten Tagen zu machen für praktisch fanden.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_039" n="18v" xml:id="Bae_TB_6_1120"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1121"/>
-        <p xml:id="Bae_TB_6_1122">unsere 
+        <p xml:id="Bae_TB_6_1122"><anchor/>unsere 
           <index xml:id="Bae_TB_6_1123">
             <term key="ZuckerKontingentierung" xml:id="Bae_TB_6_1124">Kontingentierung</term>
           </index> mit den Bestimmungen der 
@@ -1492,12 +1490,12 @@
               <term key="Kolonialpolitik" xml:id="Bae_TB_6_1162"/>
             </index>
           </index> lückenhaft sei. Wir meinen, daß unsere Delegierten in 
-          <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_TB_6_1163">Brüssel</placeName> sich bei Beurteilung dieser Frage vor allem vor Augen halten sollten, daß dieselbe keine praktische Bedeutung hat, weil wir
+          <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_TB_6_1163">Brüssel</placeName> sich bei Beurteilung dieser Frage vor allem vor Augen halten sollten, daß dieselbe keine praktische Bedeutung hat, weil wir <app from="#Bae_MF_4_1670" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1164"/>
         <!-- CA: anchor für addspan 18v -->
         <pb facs="#F_K-4_Bae_TB_6_040" n="19r" xml:id="Bae_TB_6_1165"/>
-        <p xml:id="Bae_TB_6_1166">Nachmittags gingen wir ins 
+        <p xml:id="Bae_TB_6_1166"><anchor/>Nachmittags gingen wir ins 
           <orgName key="VictoriaandAlbertMuseum" ref="https://d-nb.info/gnd/38632-7" xml:id="Bae_TB_6_1167">Kensington Museum</orgName>, in die Maschinenabteilung, wo uns 
           <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_1168">Hieronymi</persName> sehr interessante Erläuterungen gab. Die erste englische Locomotive "the Rocket" ist dort erhalten, ausserdem eine ganze Anzahl der ältesten Locomotiven 
           <choice xml:id="Bae_TB_6_1169">
@@ -1533,11 +1531,11 @@
           <choice xml:id="Bae_TB_6_1193">
             <abbr xml:id="Bae_TB_6_1194">u.</abbr>
             <expan xml:id="Bae_TB_6_1195">und</expan>
-          </choice> einem noch kleineren Schreibzimmer mit zwei Pulten – sonst nichts. Auf Stellagen Zuckermuster aus der ganzen Welt, böhmischer Zucker neben westindischem,
+          </choice> einem noch kleineren Schreibzimmer mit zwei Pulten – sonst nichts. Auf Stellagen Zuckermuster aus der ganzen Welt, böhmischer Zucker neben westindischem,<app from="#Bae_MF_4_1542" type="equal"><rdg wit="Bae_MF_4">Nachmittags gingen wir ins Kensington Museum, in die Maschinenabteilung, wo uns Hieronymi sehr interessante Erläuterungen gab. Die erste englische Lokomotive "the Rocket" ist dort erhalten, außerdem eine ganze Anzahl der ältesten Lokomotiven und Dampfmaschinen. Die große Zahl von Maschinenmodellen ist sehr instruktiv, für den höheren Arbeiterstand eine unerschöpfliche Quelle von Belehrung und Aneiferung. Denn darauf laufen alle öffentlichen Institute in England hinaus. Gegen Abend fuhren wir nach Richmond, wo wir nach einem Spaziergang in Richmond Park im "Star and Garter" unser Diner einnahmen. Am Sonntag den 24. waren wir mit Vorbereitungen für unsere Konferenzen beschäftigt. Hieronymi las während des ganzen Tages die Aussagen Sir Neville Lubbocks vor der Royal Commission, um sich für seine Konversation mit ihm vorzubereiten. Ich stellte mir auch alles zusammen, was ich voraussichtlich notwendig haben würde. Spaziergang im Hydepark. Abends aßen wir in der Horse shoe Tavern. Montag fuhren wir zeitlich in die City und machten dem bekannten großen Zuckerhändler Czarnikow in Mincing Lane einen Besuch. Er ist Zuckerhändler im größten Stil, aber wie kostbar der Raum ist hier im Mittelpunkt des Welthandels zeigt sich in der Grösse seines Comptoirs. Er besteht aus einem kleinen Raum mit Oberlicht und einem noch kleineren Schreibzimmer mit zwei Pulten – sonst nichts. Auf Stellagen Zuckermuster aus der ganzen Welt, böhmischer Zucker neben westindischem,</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_041" n="19v" xml:id="Bae_TB_6_1196"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1197"/>
-        <p xml:id="Bae_TB_6_1198">auch hier versichert wurden, daß der Fall eines irgendwie bedeutenden Zuckerimportes aus den autonomen Kolonien nach 
+        <p xml:id="Bae_TB_6_1198"><anchor/>auch hier versichert wurden, daß der Fall eines irgendwie bedeutenden Zuckerimportes aus den autonomen Kolonien nach 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1199">England</placeName> während der Dauer der 
           <index xml:id="Bae_TB_6_1200">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_1201">Konvention</term>
@@ -1630,12 +1628,12 @@
           <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_1262">Hieronymi</persName>.
         </p>
         <p xml:id="Bae_TB_6_1263">
-          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_6_1264">Baernreither</persName>.
+          <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_6_1264">Baernreither</persName>. <app from="#Bae_MF_4_1673" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1265"/>
         <!-- CA: anchor für addspan 19v -->
         <pb facs="#F_K-4_Bae_TB_6_042" n="20r" xml:id="Bae_TB_6_1266"/>
-        <p xml:id="Bae_TB_6_1267">Proben in Gläsern, Düten, auf Papier ausgebreitet. 
+        <p xml:id="Bae_TB_6_1267"><anchor/>Proben in Gläsern, Düten, auf Papier ausgebreitet. 
           <persName key="CzarnikowJuliusCaesar" xml:id="Bae_TB_6_1268">Czarnikow</persName> ist Vertrauensmann der Regierung in 
           <index xml:id="Bae_TB_6_1269">
             <term key="Zuckerfrage" xml:id="Bae_TB_6_1270">Zuckersachen</term>
@@ -1654,9 +1652,9 @@
           <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_1280">London</placeName> so viel Zeit. Mit 
           <persName key="LubbockNevile" xml:id="Bae_TB_6_1281">Lubbock</persName> hatte es zudem eine kleine Confusion bezüglich der Stunde unseres Rendezvous gegeben, so dass der Nachmittag verloren war. Wir assen Abend in 
           <orgName key="HotelHydePark" xml:id="Bae_TB_6_1282">unserem Hotel</orgName> vorzüglich. 
-          <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_1283">Hieronymis</persName> und meine kulinarischen Erfahrungen ergänzten sich vorzüglich. 
+          <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_1283">Hieronymis</persName> und meine kulinarischen Erfahrungen ergänzten sich <app from="#Bae_MF_4_1565" type="equal"><rdg wit="Bae_MF_4">Proben in Gläsern, Düten, auf Papier ausgebreitet. Czarnikow ist Vertrauensmann der Regierung in Zuckersachen. Er hat den österreichisch-ungarischen Zucker auf dem Londoner Markt eingeführt und er sprach über die Welthandelsverhältnisse dieses Artikels mit großer Klarheit. Nach einem sehr rasch eingenommenen lunch hatten wir eine Besprechung mit Sir Neville Lubbock, einem nahen Verwandten des berühmten Gelehrten. Ein geradliniger, konsequenter Engländer, unerschütterlich in seiner Ueberzeugung, die er aber mit Argumenten verteidigt, nicht mit Eigensinn. Auch geht er auf Argumente ein, so daß unsere Diskussion, wenn auch erfolglos, so doch sehr interessant war. Damit war unser Arbeitstag zu Ende. Alles nimmt eben in London so viel Zeit. Mit Lubbock hatte es zudem eine kleine Konfusion bezüglich der Stunde unseres Rendezvous gegeben, so daß der Nachmittag verloren war. Wir aßen Abend in unserm Hotel vorzüglich. Hieronymis und meine kulinarischen Erfahrungen ergänzten sich</rdg></app><anchor/>vorzüglich. <app from="#Bae_MF_4_1581" type="notEqual"><rdg wit="Bae_MF_4">vortrefflich.</rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_1284">Am 
+        <p xml:id="Bae_TB_6_1284"><anchor/>Am 
           <date when="1903-05-26" xml:id="Bae_TB_6_1285">Dienstag den 26.</date> besuchte ich meinen alten Freund 
           <persName key="DrageGeoffrey" ref="https://d-nb.info/gnd/116194359" xml:id="Bae_TB_6_1286">Drage</persName>. Er bewohnt ganz in der Nähe des 
           <orgName key="HotelHydePark" xml:id="Bae_TB_6_1287">Hyde Park Hotels</orgName> ein Haus in Lowndes Square. Er ist jetzt nicht im 
@@ -1664,11 +1662,11 @@
           <placeName key="Woolwich" ref="https://www.geonames.org/2633583/woolwich.html" xml:id="Bae_TB_6_1289">Woolwich</placeName> wieder hineinzukommen. Um ¾ 2 Uhr war lunch beim 
           <persName key="DeymFranz" ref="https://d-nb.info/gnd/124667082" xml:id="Bae_TB_6_1290">Botschafter</persName>. Die 
           <persName key="DeymAnna" xml:id="Bae_TB_6_1291">Gräfin</persName>, die ich viele Jahre nicht gesehen habe, eigentlich seit der Zeit als sie jung verheiratet in unserem Hause in 
-          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_6_1292">Prag</placeName>
+          <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_6_1292">Prag</placeName><app from="#" type="equal"><rdg wit="Bae_MF_4">Am Dienstag den 26. besuchte ich meinen alten Freund Geoffrey Drage. Er bewohnt ganz in der Nähe des Hyde Park Hotel ein Haus in Lowndes Square. Er ist jetzt nicht im Parlament, das letzte Mal durchgefallen, hofft aber für Woolwich wieder hineinzukommen. Um ¾ 2 Uhr war lunch beim Botschafter. Die Gräfin, die ich viele Jahre nicht gesehen habe, eigentlich seit der Zeit als sie jung verheiratet in unserem Hause in Prag</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_043" n="20v" xml:id="Bae_TB_6_1293"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1294"/>
-        <p xml:id="Bae_TB_6_1295">Rede 
+        <p xml:id="Bae_TB_6_1295"><anchor/>Rede 
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1296">Chamberlains</persName> im 
           <orgName key="ParliamentUK" ref="https://d-nb.info/gnd/1221916-2" xml:id="Bae_TB_6_1297">Parlament</orgName> am 28.5.1903
         </p>
@@ -1699,11 +1697,11 @@
         <p xml:id="Bae_TB_6_1317">
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1318">Mr. Chamberlain</persName>: I shall have to explain at some length in order to put my position before the House, but I would now ack the right hon. Baronet not to quote me as having been committed to this, that, and the other proposition. (Opposition laughter.)
         </p>
-        <p xml:id="Bae_TB_6_1319">I am afraid I have not made myself quite clear. I have not the slightest objection to the right hon. baronet quoting me to any extent he likes. What I</p>
+        <p xml:id="Bae_TB_6_1319">I am afraid I have not made myself quite clear. I have not the slightest objection to the right hon. baronet quoting me to any extent he likes. What I<app from="#Bae_MF_4_1719" type="missing"><rdg wit="Bae_MF_4"></rdg></app></p>
         <anchor xml:id="Bae_TB_6_1320"/>
         <!-- CA: anchor für addspan 20v -->
         <pb facs="#F_K-4_Bae_TB_6_044" n="21r" xml:id="Bae_TB_6_1321"/>
-        <p xml:id="Bae_TB_6_1322">am Bethlehemsplatz wohnte – ist eine sehr imposante Dame geworden, frisch mit weissen Haaren. Er ist sehr leidend. Dagegen ist sein Stellvertreter 
+        <p xml:id="Bae_TB_6_1322"><anchor/>am Bethlehemsplatz wohnte – ist eine sehr imposante Dame geworden, frisch mit weissen Haaren. Er ist sehr leidend. Dagegen ist sein Stellvertreter 
           <persName key="MensdorffAlbert" ref="https://d-nb.info/gnd/117566993" xml:id="Bae_TB_6_1323">Graf Albert Mensdorff</persName> ebenso klug als liebenswürdig, ebenso unterrichtet als bereit sich informiren zu lassen, ebenso bereitwillig als besonnen. Es ist so wohltuend mit Menschen zu thun zu haben, die sich einer Sache mit Interesse 
           <choice xml:id="Bae_TB_6_1324">
             <abbr xml:id="Bae_TB_6_1325">u.</abbr>
@@ -1714,18 +1712,18 @@
           <persName key="DeymAnna" xml:id="Bae_TB_6_1329">Botschafterin</persName> meinte "die alte Eule" –. Wir fanden ihn aber sehr liebenswürdig, entgegenkommend. Er fürte uns zu 
           <persName key="LansdowneHenry" ref="https://d-nb.info/gnd/137201885" xml:id="Bae_TB_6_1330">Lord Landsdown</persName>, der englische Lord wie er im Buche steht. Unsere Conversation war eine angenehme, wenn auch Details vermieden wurden. Endlich sprachen wir auch noch bei dem Leiter der handelspolitischen Abteilung im 
           <orgName key="ForeignOfficeUK" ref="https://d-nb.info/gnd/35549-5" xml:id="Bae_TB_6_1331">Foreign Office</orgName>
-          <persName key="CampbellF" xml:id="Bae_TB_6_1332">F. Campbell</persName> vor, eine Arbeitsseele, ruhig, überlegt, mit einem weiten Blick, den die grossen Geschäfte 
+          <persName key="CampbellF" xml:id="Bae_TB_6_1332">F. Campbell</persName> vor, eine Arbeitsseele, ruhig, überlegt, mit <app from="#Bae_MF_4_1596" type="equal"><rdg wit="Bae_MF_4">am Bethlehemsplatz wohnte – ist eine sehr imposante Dame geworden, frisch mit weißen Haaren. Er ist sehr leidend. Dagegen ist sein Stellvertreter Graf Albert Mensdorff ebenso klug als liebenswürdig, ebenso unterrichtet als bereit sich informieren zu lassen, ebenso bereitwillig als besonnen. Es ist so wohltuend mit Menschen zu tun zu haben, die sich einer Sache mit Interesse und Hingebung annehmen, ohne die Ruhe zu verlieren. Er hatte uns im foreign Office sehr gut empfohlen, denn wir wurden dort Nachmittags sehr gut aufgenommen. Zuerst machten wir dem Permanent Secretary, Sir Thomas Sounderson, unseren Besuch. Von allen Seiten war er uns als red tape, als Bureaukrat reinsten Wassers geschildert worden, die Botschafterin meinte "die alte Eule". – Wir fanden ihn aber sehr liebenswürdig, entgegenkommend. Er führte uns zu Lord Landsdowne, der englische Lord, wie er im Buche steht. Unsere Konversation war eine angenehme, wenn auch Details vermieden wurden. Endlich sprachen wir auch noch bei dem Leiter der handelspolitischen Abteilung im Foreign Office F. Campbell vor, eine Arbeitsseele, ruhig, überlegt, mit</rdg></app><anchor/>einem <app from="#Bae_MF_4_1610" type="notEqual"><rdg wit="Bae_MF_4">jenem</rdg></app><anchor/>weiten Blick, den die grossen Geschäfte 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1333">Englands</placeName> ausbilden. Es wurde für 
           <date when="1903-05-28" xml:id="Bae_TB_6_1334">Donnerstag den 28.</date> eine Zusammentretung der Delegierten 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1335">Englands</placeName> bei der 
           <index xml:id="Bae_TB_6_1336">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_1337">Brüsseler Conferenz</term>
           </index> verabredet, wo wir, wie in 
-          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_6_1338">Berlin</placeName> mit den "Geheimräten" unsere Sache vor den Sachverständigen plaidiren sollten. 
+          <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_6_1338">Berlin</placeName> mit den "Geheimräten" unsere Sache vor den Sachverständigen plaidiren sollten. <app from="#Bae_MF_4_1613" type="equal"><rdg wit="Bae_MF_4">weiten Blick, den die großen Geschäfte Englands ausbilden. Es wurde für Donnerstag den 28. eine Zusammentretung der Delegierten Englands bei der Brüsseler Konferenz verabredet, wo wir, wie in Berlin mit den "Geheimräten" unsere Sache vor den Sachverständigen plaidieren sollten.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_045" n="21v" xml:id="Bae_TB_6_1339"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1340"/>
-        <p xml:id="Bae_TB_6_1341">mean is that he must not appeal to me to agree with him. That is all. (Ministerial cheers.)</p>
+        <p xml:id="Bae_TB_6_1341"><anchor/>mean is that he must not appeal to me to agree with him. That is all. (Ministerial cheers.)</p>
         <p xml:id="Bae_TB_6_1342">
           <persName key="DilkeCharles" ref="https://d-nb.info/gnd/118638793" xml:id="Bae_TB_6_1343">Sir C. Dilke</persName> said the main words used by 
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1344">Mr. Chamberlain</persName> were that a vast sum was to be provided by a review of their fiscal system, and it could not be denied that they must be read in connection with a general system of duties on foreign imports. His contention was that it was impossible to find that amount of money without imposing duties on food and raw materials. That the 
@@ -1821,12 +1819,12 @@
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1421">Hr. Chamberlain</persName>) and myself. In that amiable intention I think the right hon. gentlemen will fail – (Ministerial cheers)– and may I ask him what course he thinks my right hon. friend ought to have pursued in this matter after what occurred at the Colonial Conference last year? The Colonial Prime Ministers were asked to come to this 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1422">country</placeName>, and when in this 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1423">country</placeName> they were asked to confer with the 
-          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1424">Secretary of State for the Colonies</persName> and
+          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1424">Secretary of State for the Colonies</persName> and<app from="#Bae_MF_4_1722" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1425"/>
         <!-- CA: anchor für den addspan 21v -->
         <pb facs="#F_K-4_Bae_TB_6_046" n="22r" xml:id="Bae_TB_6_1426"/>
-        <p xml:id="Bae_TB_6_1427">In diesen Gesprächen mit den genannten Herren hatten wir eine Reihe wichtiger Gesichtspunkte ihrerseits kennen gelernt 
+        <p xml:id="Bae_TB_6_1427"><anchor/>In diesen Gesprächen mit den genannten Herren hatten wir eine Reihe wichtiger Gesichtspunkte ihrerseits kennen gelernt 
           <choice xml:id="Bae_TB_6_1428">
             <abbr xml:id="Bae_TB_6_1429">u.</abbr>
             <expan xml:id="Bae_TB_6_1430">und</expan>
@@ -1834,7 +1832,7 @@
           <choice xml:id="Bae_TB_6_1431">
             <abbr xml:id="Bae_TB_6_1432">u.</abbr>
             <expan xml:id="Bae_TB_6_1433">und</expan>
-          </choice> intensiv vorzubereiten. Speciell ich verbrachte den ganzen darauffolgenden Tag – während 
+          </choice> intensiv <app from="#Bae_MF_4_1622" type="equal"><rdg wit="Bae_MF_4">In diesen Gesprächen mit den genannten Herren hatten wir eine Reihe wichtiger Gesichtspunkte ihrerseits kennen gelernt und wir benützten die Zwischenzeit bis zu der erwähnten Besprechung uns so konkret und intensiv</rdg></app><anchor/><app from="#Bae_MF_4_1625" type="missing"><rdg wit="Bae_MF_4">als möglich</rdg></app><anchor/>vorzubereiten. Speciell ich verbrachte den ganzen darauffolgenden Tag – während 
           <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_1434">Hieronymi</persName>
           <choice xml:id="Bae_TB_6_1435">
             <abbr xml:id="Bae_TB_6_1436">u.</abbr>
@@ -1888,11 +1886,11 @@
           <choice xml:id="Bae_TB_6_1473">
             <abbr xml:id="Bae_TB_6_1474">u.</abbr>
             <expan xml:id="Bae_TB_6_1475">und</expan>
-          </choice> ausruhenden Arbeitern.
+          </choice> ausruhenden Arbeitern. <app from="#Bae_MF_4_1628" type="equal"><rdg wit="Bae_MF_4">vorzubereiten. Speziell ich verbrachte den ganzen darauffolgenden Tag – während Hieronymi und die jungen Herrn die Docks besichtigten – mit der Gruppierung aller der Argumente, die ich den Herren Engländern vorzuführen die Absicht hatte. Nach dem lunch machte ich einen Spaziergang in den Hydepark, wo es warm und still war. Ich setzte mich in eine der großen Alleen und genoß Ruhe und Natur wie in einem großen Park, der meilenweit von jeder großen Stadt liegt, denn in den ersten Nachmittagsstunden ist der Hydepark ein stiller Ort. Erst später füllen sich die Reitwege und Fahr- und Fußwege bis gegen Abend das volle Londoner Leben durchflutet. Tags vorher hatten wir den Anblick einer Ausfahrt des four in hand Clubs in Rottenrow. Es waren 29 Vierspänner, alles glänzende Pferde und Coaches meist von älteren Herren selbst kutschiert – eine Auffahrt, die man in dieser Feierlichkeit, Korrektheit und schweren Schönheit von Pferden und Wagen wohl nirgends auf der Welt wieder sieht. Hydepark hat eben eine Mischung von offiziellem und intimem Leben, wie kein anderer öffentlicher Garten. Meetings aller Art, offizielle Auffarten, der elegantesten Korso neben der ungeniertesten Reiterei von Knaben und Mädchen mit ihren Eltern oder Reitknechten, neben bücherlesen den Damen, Studenten und ausruhenden Arbeitern.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_047" n="22v" xml:id="Bae_TB_6_1476"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1477"/>
-        <p xml:id="Bae_TB_6_1478">other high officers of the Government upon questions material to the 
+        <p xml:id="Bae_TB_6_1478"><anchor/>other high officers of the Government upon questions material to the 
           <placeName key="BritishEmpire" ref="https://d-nb.info/gnd/4022153-2" xml:id="Bae_TB_6_1479">Empire</placeName> as a whole. They did engage in this discussion, and the result of their labours is embodied in the Blue Book. One conclusion which the Prime Ministers endorsed was this: “ That this conference recognises that the principle of preferential trade (between the 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1480">United Kingdom</placeName> and his 
           <persName key="KoenigEdward" ref="https://d-nb.info/gnd/118528955" xml:id="Bae_TB_6_1481">Majesty’s</persName> dominions beyond the sea would stimulate mutual commercial intercourse, and would, by promoting the development of the resources of industry of its several parts, strengthen the 
@@ -1955,12 +1953,12 @@
             <index xml:id="Bae_TB_6_1529">
               <term key="Kolonialpolitik" xml:id="Bae_TB_6_1530"/>
             </index>
-          </index>, but because we, und we alone, have been able to
+          </index>, but because we, und we alone, have been able to <app from="#Bae_MF_4_1725" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1531"/>
         <!-- CA: anchor für den addspan 22v -->
         <pb facs="#F_K-4_Bae_TB_6_048" n="23r" xml:id="Bae_TB_6_1532"/>
-        <p xml:id="Bae_TB_6_1533">Abend waren wir zu Tisch bei 
+        <p xml:id="Bae_TB_6_1533"><anchor/>Abend waren wir zu Tisch bei 
           <persName key="DrageGeoffrey" ref="https://d-nb.info/gnd/116194359" xml:id="Bae_TB_6_1534">Drage</persName>
           <choice xml:id="Bae_TB_6_1535">
             <abbr xml:id="Bae_TB_6_1536">u.</abbr>
@@ -1991,7 +1989,7 @@
             <abbr xml:id="Bae_TB_6_1556">u.</abbr>
             <expan xml:id="Bae_TB_6_1557">und</expan>
           </choice> Nachmittag die Conferenz im 
-          <orgName key="ForeignOfficeUK" ref="https://d-nb.info/gnd/35549-5" xml:id="Bae_TB_6_1558">foreign Office</orgName>, von der ich in meinem Berichte ausführlich erzähle.
+          <orgName key="ForeignOfficeUK" ref="https://d-nb.info/gnd/35549-5" xml:id="Bae_TB_6_1558">foreign Office</orgName>, von der ich in <app from="#Bae_MF_4_1640" type="equal"><rdg wit="Bae_MF_4">Abend waren wir zu Tisch bei Drage und wir sahen dann ein burleskes Stück, "The Torcador" im Gaily Theater. Ein Gemisch von Operette, Posse und Farce, an dem das englische Publikum unbegreiflicherweise Gefallen findet. Tags darauf, Donnerstag, den 28. Mai war unser Hauptarbeitstag. Morgens waren der Korrespondent der Neuen freien Presse, Dr. Lunge, der Lloyddirektor Janni und der ungarische Delegierte in London Herr von Ruttkay bei uns. Wir hatten lunch in unserem Salon und Nachmittag die Konferenz im Foreign Office, von der ich in</rdg></app><anchor/>meinem <app from="#Bae_MF_4_1655" type="notEqual"><rdg wit="Bae_MF_4">unserm</rdg></app><anchor/>Berichte ausführlich erzähle.<app from="#Bae_MF_4_1658" type="equal"><rdg wit="Bae_MF_4">Berichte ausführlich erzähle.</rdg></app>
         </p>
         <!-- DC hierher Einklebung Druckschrift von fol. 15v, 16v, 17v, 18v und 19v -->
         <anchor xml:id="Bae_TB_6_1559"/>
@@ -2014,7 +2012,7 @@
         <app from="#_041" type="insertion" xml:id="Bae_TB_6_1572">
           <rdg xml:id="Bae_TB_6_1573">[...]</rdg>
         </app>
-        <p xml:id="Bae_TB_6_1574">Der vornehme Hof des 
+        <p xml:id="Bae_TB_6_1574"><anchor/>Der vornehme Hof des 
           <orgName key="ForeignOfficeUK" ref="https://d-nb.info/gnd/35549-5" xml:id="Bae_TB_6_1575">Foreign office</orgName>, die in einfacher Eleganz ausgestatteten Bureau's, der stille Sitzungssaal, in dem wir unsere Beratungen pflogen, das gemessen, artige Benehmen aller dieser Beamten, ihre grosse Sachkenntniss, die Ruhe mit der sie verhandelten – alles dies zusammen gab ein Bild von einem ruhig 
           <choice xml:id="Bae_TB_6_1576">
             <abbr xml:id="Bae_TB_6_1577">u.</abbr>
@@ -2030,11 +2028,11 @@
           <add place="across" xml:id="Bae_TB_6_1585">mit</add> lautloser Präcision arbeitet, wie eine englische Dampfmaschine.
         </p>
         <p xml:id="Bae_TB_6_1586">Hätte man sich hier in 
-          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1587">England</placeName> rechtzeitig orientirt,
+          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1587">England</placeName> rechtzeitig orientirt,<app from="#Bae_MF_4_1676" type="equal"><rdg wit="Bae_MF_4">Der vornehme Hof des Foreign Office, die in einfacher Eleganz ausgestatteten Büros, der stille Sitzungssaal, in dem wir unsere Beratungen gepflogen, das gemessene, artige Benehmen aller dieser Beamten, ihre große Sachkenntniss, die Ruhe, mit der sie verhandelten – alles dies zusammen gab ein Bild von einem ruhig und groß geleiteten Staat, dessen Maschine, so heftig auch das politische und Parteileben sich draussen geltend macht, hier mit lautloser Präzision arbeitet, wie eine englische Dampfmaschine. Hätte man sich hier in England rechtzeitig orientiert,</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_049" n="23v" xml:id="Bae_TB_6_1588"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1589"/>
-        <p xml:id="Bae_TB_6_1590">create such a thing are those self-governing 
+        <p xml:id="Bae_TB_6_1590"><anchor/>create such a thing are those self-governing 
           <index xml:id="Bae_TB_6_1591">
             <term key="VereinigtesKoenigreich" xml:id="Bae_TB_6_1592">Colonies</term>
             <index xml:id="Bae_TB_6_1593">
@@ -2085,12 +2083,12 @@
         </p>
         <p xml:id="Bae_TB_6_1626">
           <persName key="BalfourArthurJames" ref="https://d-nb.info/gnd/119456605" xml:id="Bae_TB_6_1627">Mr. BALFOUR</persName>: Supposing he were not, and that on this point there was a difference of opinion between us, is that a reason why he should keep silence? Not at all! It would be an enormous loss to the really formative forces of this 
-          <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1628">country</placeName> and to the society in which we live if you prevent any man in public affairs having that freedom of expression on matters not immediately before the country or the,
+          <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1628">country</placeName> and to the society in which we live if you prevent any man in public affairs having that freedom of expression on matters not immediately before the country or the,<app from="#Bae_MF_4_1728" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1629"/>
         <!-- CA: anchor für addspan 23v -->
         <pb facs="#F_K-4_Bae_TB_6_050" n="24r" xml:id="Bae_TB_6_1630"/>
-        <p xml:id="Bae_TB_6_1631">wäre man rechtzeitig auf die Intention der englischen Regierung eingegangen, so hätte die 
+        <p xml:id="Bae_TB_6_1631"><anchor/>wäre man rechtzeitig auf die Intention der englischen Regierung eingegangen, so hätte die 
           <index xml:id="Bae_TB_6_1632">
             <term key="InternationaleBruesselerkonvention" xml:id="Bae_TB_6_1633">Brüsseler Convention</term>
           </index> eine andere Form haben können. Aber unser, wenn auch kurzer Aufenthalt belehrte uns, dass bei der Beurteilung der Frage in 
@@ -2130,11 +2128,11 @@
         <p xml:id="Bae_TB_6_1658">Aus dem 
           <orgName key="ForeignOfficeUK" ref="https://d-nb.info/gnd/35549-5" xml:id="Bae_TB_6_1659">Foreign Office</orgName> gingen wir ins 
           <orgName key="ParliamentUK" ref="https://d-nb.info/gnd/1221916-2" xml:id="Bae_TB_6_1660">Parlament</orgName>. 
-          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1661">Chamberlain</persName> konnte mit uns, wie er vorhatte über unsere Fragen nicht conferiren, aber er verschaffte uns auf das Liebenswürdigste sehr gute Plätze im Hause, von wo aus wir seine grosse
+          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1661">Chamberlain</persName> konnte mit uns, wie er vorhatte über unsere Fragen nicht <app from="#Bae_MF_4_1681" type="equal"><rdg wit="Bae_MF_4">wäre man rechtzeitig auf die Intention der englischen Regierung eingegangen, so hätte die Brüsseler Konvention eine andere Form haben können. Aber unser, wenn auch kurzer Aufenthalt belehrte uns, daß bei der Beurteilung der Frage in Wien niemand von den leitenden Personen auch nur eine blasse Vorstellung vom Stande der Dinge hatte. Ich erinnerte mich lebhaft, wie Schwegel als im Dezember 1901 der Konventionsgedanke zuerst greifbare Formen annahm, der Meinung war, man solle jemanden nach Berlin und London schicken, um sich zu verständigen. Aber Körber, der immer glaubt alles selber machen zu können und Böhm, dem internationale Beziehungen fern liegen, begriffen den Moment nicht und hatten von der Tragweite auch keine klare Vorstellung. So ließ man sich treiben – ins Unbekannte und machte erst krampfhafte Anstrengungen, als es zu spät war. Aus dem Foreign Office gingen wir ins Parlament. Chamberlain konnte mit uns, wie er vorhatte über unsere Fragen nicht</rdg></app><anchor/>conferiren<app from="#Bae_MF_4_1705" type="notEqual"><rdg wit="Bae_MF_4">sprechen</rdg></app><anchor/>, aber er verschaffte uns auf das Liebenswürdigste sehr gute Plätze im Hause, von wo aus wir seine grosse <app from="#Bae_MF_4_1708" type="equal"><rdg wit="Bae_MF_4">aber er verschaffte uns auf das Liebenswürdigste sehr gute Plätze im Hause, von wo aus wir seine große</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_051" n="24v" xml:id="Bae_TB_6_1662"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1663"/>
-        <p xml:id="Bae_TB_6_1664">House which, no doubt, ultimately tend to the formation of a sane and well-instructed public opinion. (Ministerial cheers.) I know some of the arguments I have adduced have been dry, and, perhaps, not easy to follow, but I am convinced that the trend of thought I have ventured to develop, in, I believe, absolute conformity with the views of my right hon. Friend – (
+        <p xml:id="Bae_TB_6_1664"><anchor/>House which, no doubt, ultimately tend to the formation of a sane and well-instructed public opinion. (Ministerial cheers.) I know some of the arguments I have adduced have been dry, and, perhaps, not easy to follow, but I am convinced that the trend of thought I have ventured to develop, in, I believe, absolute conformity with the views of my right hon. Friend – (
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1665">Mr. Chamberlain</persName>: Hear, hear) – is eminently worthy of consideration, not merely within these walls, not chiefly within these walls, but by public discussion, and by acquiring information, as we mean to acquire information, so far as we can. (Ministerial cheers.) Then, if public opinion ripens, if the Colonies and if the people of this 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1666">country</placeName> are of opinion that, we ought to do something to put the 
           <placeName key="BritishEmpire" ref="https://d-nb.info/gnd/4022153-2" xml:id="Bae_TB_6_1667">British Empire</placeName> in an economic position which will make it in any way equal to the magnificent economic position obtained by the 
@@ -2222,19 +2220,19 @@
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1733">country</placeName>. (Cheers.)
         </p>
         <p xml:id="Bae_TB_6_1734">
-          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1735">Mr. CHAMBERLAIN</persName>: I think we must all have observed that there is a certain unreality about this debate, because it has been carried on in the prospect and expectation of a still greater event. Notice has been given on behalf of the Leader of the party opposite of a discussion of this identical subject to take place on the second reading of the Finance Bill. Therefore, I suppose the present is only an affair of scouts, and that therefore gentlemen on the other side who have addressed us have been acting on behalf of their leaders as spies – (Opposition cries of "Oh!”) –-yes, spies in the military sense – a sort of military reconnaissance – to find out what are the weak points in our position. That prevents this debate from assuming the importance which the subject demands, but for
+          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1735">Mr. CHAMBERLAIN</persName>: I think we must all have observed that there is a certain unreality about this debate, because it has been carried on in the prospect and expectation of a still greater event. Notice has been given on behalf of the Leader of the party opposite of a discussion of this identical subject to take place on the second reading of the Finance Bill. Therefore, I suppose the present is only an affair of scouts, and that therefore gentlemen on the other side who have addressed us have been acting on behalf of their leaders as spies – (Opposition cries of "Oh!”) –-yes, spies in the military sense – a sort of military reconnaissance – to find out what are the weak points in our position. That prevents this debate from assuming the importance which the subject demands, but for <app from="#Bae_MF_4_1731" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1736"/>
         <!-- CA: anchor für addspan 24v-->
         <pb facs="#F_K-4_Bae_TB_6_052" n="25r" xml:id="Bae_TB_6_1737"/>
-        <p xml:id="Bae_TB_6_1738">Rede um die zukünftige 
+        <p xml:id="Bae_TB_6_1738"><anchor/>Rede um die zukünftige 
           <index xml:id="Bae_TB_6_1739">
             <term key="VereinigtesKoenigreich" xml:id="Bae_TB_6_1740">Zollpolitik</term>
             <index xml:id="Bae_TB_6_1741">
               <term key="Zollpolitik" xml:id="Bae_TB_6_1742"/>
             </index>
           </index>
-          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1743">Englands</placeName> anhören konnten. 
+          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1743">Englands</placeName> anhören konnten. <app from="#Bae_MF_4_1711" type="equal"><rdg wit="Bae_MF_4">Rede um die zukünftige Zollpolitik Englands anhören konnten.</rdg></app>
           <!-- DC: hierher Einklebung von Zeitungsausschnitt von fol. 20v, 21v, 22v, 23v, 24v, 25v, 26v, 27v, 28v -->
           <anchor xml:id="Bae_TB_6_1744"/>
           <app from="#_043" type="insertion" xml:id="Bae_TB_6_1745">
@@ -2275,7 +2273,7 @@
           <anchor xml:id="Bae_TB_6_1771"/>
           <app from="#_057" type="insertion" xml:id="Bae_TB_6_1772">
             <rdg xml:id="Bae_TB_6_1773">[...]</rdg>
-          </app> Er sprach vollkommen frei, nur mit einem Stück Papier in der Hand, auf das er manchmal einen Blick warf. Der erst Theil seiner Rede schien uns wolüberlegt, gegen den Schluss lies er sich durch die Zwischenrufe hinreissen. Er war sehr schlagfertig 
+          </app><anchor/>Er sprach vollkommen frei, nur mit einem Stück Papier in der Hand, auf das er manchmal einen Blick warf. Der erst Theil seiner Rede schien uns wolüberlegt, gegen den Schluss lies er sich durch die Zwischenrufe hinreissen. Er war sehr schlagfertig 
           <choice xml:id="Bae_TB_6_1774">
             <abbr xml:id="Bae_TB_6_1775">u.</abbr>
             <expan xml:id="Bae_TB_6_1776">und</expan>
@@ -2287,11 +2285,10 @@
           <hi rendition="#ul" xml:id="Bae_TB_6_1780">
             <placeName key="Birmingham" ref="https://www.geonames.org/3333125/city-and-borough-of-birmingham.html" xml:id="Bae_TB_6_1781">Birmingham</placeName>
           </hi> gehaltene Rede 
-          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1782">Chamberlains</persName> gemacht hatte, steigerte sich nach dieser Parlamentsrede, in der er noch weiter ging, noch bedeutend. Alle Zeitungen waren voll davon, überall sprach man davon. 
-          <orgName key="DailyTelegraph" ref="https://d-nb.info/gnd/6006746-9" xml:id="Bae_TB_6_1783">Daily Telegraph</orgName> hatte Tags darauf einen sehr guten ganz knappen Auszug aus dem ganzen Ideengang, den ich hier einfüge.
-        </p>
+          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1782">Chamberlains</persName> gemacht hatte, steigerte sich nach dieser Parlamentsrede, in der er noch weiter ging, noch bedeutend. Alle Zeitungen waren voll davon, überall sprach man davon. <app from="#Bae_MF_4_1749" type="equal"><rdg wit="Bae_MF_4">Er sprach vollkommen frei, nur mit einem Stück Papier in der Hand, auf das er manchmal einen Blick warf. Der erste Teil seiner Rede schien uns wohl überlegt, gegen den Schluß ließ er sich durch die Zwischenrufe hinreissen. Er war sehr schlagfertig und sprach wie einer, der von der Richtigkeit dessen was er sagt ganz erfüllt ist. Er lief so zu sagen über von dem, was ihn erfüllte. Das Haus war voll und man hörte ihn von allen Seiten mit der größten Aufmerksamkeit an. Das Aufsehen, welches die vor wenigen Tagen in Birmingham gehaltene Rede Chamberlains gemacht hatte, steigerte sich nach dieser Parlamentsrede, in der er noch weiter ging, noch bedeutend. Alle Zeitungen waren voll davon, überall sprach man davon.</rdg></app><anchor/>
+          <orgName key="DailyTelegraph" ref="https://d-nb.info/gnd/6006746-9" xml:id="Bae_TB_6_1783">Daily Telegraph</orgName> hatte Tags darauf einen sehr guten ganz knappen Auszug aus dem ganzen Ideengang, den ich hier einfüge.<app from="#Bae_MF_4_1754" type="missing"><rdg wit="Bae_MF_4"></rdg></app></p>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1784"/>
-        <p xml:id="Bae_TB_6_1785">IMPORTANT DECLARATIONS BY THE 
+        <p xml:id="Bae_TB_6_1785"><anchor/>IMPORTANT DECLARATIONS BY THE 
           <persName key="BalfourArthurJames" ref="https://d-nb.info/gnd/119456605" xml:id="Bae_TB_6_1786">PRIME MINISTER</persName> AND 
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1787">MR. CHAMBERLAIN</persName>
         </p>
@@ -2306,7 +2303,7 @@
           <persName key="BalfourArthurJames" ref="https://d-nb.info/gnd/119456605" xml:id="Bae_TB_6_1796">Mr. Balfour</persName> and 
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1797">Mr. Chamberlain</persName> were of the most decisive and important character. The policy outlined is this:
         </p>
-        <p xml:id="Bae_TB_6_1798">The subject having been unanimously brought to the attention of the Imperial Government at last year’s conference by the Colonial Premiers, it was 
+        <p xml:id="Bae_TB_6_1798"><anchor/>The subject having been unanimously brought to the attention of the Imperial Government at last year’s conference by the Colonial Premiers, it was 
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1799">Mr. Chamberlain’s</persName> duty to raise the discussion. When a dissolution occurs, the subject to be submitted to the judgement of the electorate will be:
         </p>
         <p xml:id="Bae_TB_6_1800">The advisability of reciprocal trade between the Mother Country and the Colonies, which would</p>
@@ -2318,7 +2315,7 @@
           <placeName key="BritishEmpire" ref="https://d-nb.info/gnd/4022153-2" xml:id="Bae_TB_6_1805">Empire</placeName> closer together in the bonds of reciprocal trade.
         </p>
         <p xml:id="Bae_TB_6_1806">The course of events indicated by the 
-          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1807">Colonial Secretary</persName> is this:
+          <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1807">Colonial Secretary</persName> is this:<app from="#Bae_MF_4_1757" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1808"/>
         <!-- CA: anchor für den addspan von 25r -->
@@ -2333,7 +2330,7 @@
         </app>
         <pb facs="#F_K-4_Bae_TB_6_053" n="25v" xml:id="Bae_TB_6_1815"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1816"/>
-        <p xml:id="Bae_TB_6_1817">my part should not think it wasted if it had only produced the speech to which we have just listened from 
+        <p xml:id="Bae_TB_6_1817"><anchor/>my part should not think it wasted if it had only produced the speech to which we have just listened from 
           <persName key="CecilHugh" ref="https://d-nb.info/gnd/118984063" xml:id="Bae_TB_6_1818">Lord H. Cecil</persName>. (Cheers.) I should like to make one or two remarks about that very interesting, moderate, and suggestive speech. My noble friend has fallen into the error which seems to me to have been made by everyone who has spoken, with the exception of the 
           <persName key="BalfourArthurJames" ref="https://d-nb.info/gnd/119456605" xml:id="Bae_TB_6_1819">Prime Minister</persName> – that a new policy has been proposed to the 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1820">country</placeName>, involving at a stroke an entire and absolute reversal of the whole fiscal policy of this 
@@ -2391,13 +2388,13 @@
           </index> or upon ourselves, which are already serious, and which may become much more serious. (Ministerial cheers.) These were the two points which I brought before the 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1864">country</placeName>, and the question on which I invited discussion was, “Are you determined to maintain your interpretation of Free Trade with such severity that you refuse to give us power to meet these cases?" If that is the answer of the 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1865">country</placeName>, let us at once announce that answer to our Colonies, for nothing can be worse than to leave them in doubt. (Hear, hear.) Let us say to our Colonies, “No matter what you are prepared to do for us, no matter how much consideration you will give to our produce, no matter how largely you are prepared to approach Free Trade between different parts of the 
-          <placeName key="BritishEmpire" ref="https://d-nb.info/gnd/4022153-2" xml:id="Bae_TB_6_1866">British Empire</placeName>, it is no use your coming to us and asking for anything in return, because our fiscal system, strictly interpreted by the mandate of the constituencies, will not allow us to give you anything." In the second place, we might say, “If you
+          <placeName key="BritishEmpire" ref="https://d-nb.info/gnd/4022153-2" xml:id="Bae_TB_6_1866">British Empire</placeName>, it is no use your coming to us and asking for anything in return, because our fiscal system, strictly interpreted by the mandate of the constituencies, will not allow us to give you anything." In the second place, we might say, “If you<app from="#Bae_MF_4_1734" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1867"/>
         <!-- CA: anchor für den addspan 25v -->
         <pb facs="#F_K-4_Bae_TB_6_054" n="26r" xml:id="Bae_TB_6_1868"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1869"/>
-        <p xml:id="Bae_TB_6_1870">First. The principle – not a fixed plan – of preferential trade must receive the verdict of the 
+        <p xml:id="Bae_TB_6_1870"><anchor/>First. The principle – not a fixed plan – of preferential trade must receive the verdict of the 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1871">country</placeName> for or against. "I promise I will raise the question before the constituencies, 
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1872">Mr. Chamberlain</persName> declared, after speaking for fifty minutes.
         </p>
@@ -2461,19 +2458,19 @@
           <orgName key="HouseofCommons" ref="https://d-nb.info/gnd/35578-1" xml:id="Bae_TB_6_1914">House of Commons</orgName> on the great question of preferential trade within the Empire. Members on all sides recognised that the utterances of the 
           <persName key="BalfourArthurJames" ref="https://d-nb.info/gnd/119456605" xml:id="Bae_TB_6_1915">Prime Minister</persName> and the 
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_1916">Colonial Secretary</persName> were not only notable in themselves, but might be fraught with far-reaching political and party consequences. Radicals, as might have been expected, were loud in their condemnation of the new policy. Some Unionists, particularly those associated with manufacturing and industrial centres, shook their heads dubiously over the situation, but a majority of the Ministerialists were delighted beyond measure at the prospect of having a popular rallying cry for the next general election. “It is the pluckiest thing in politics!“ “ It is the greatest fiscal revolution of our time!“ “It will give fresh life and vigour to the 
-          <orgName key="LiberalUnionistParty" ref="https://d-nb.info/gnd/7841348-5" xml:id="Bae_TB_6_1917">Unionist party</orgName>!” – these were the exclamations heard in many quarters. One thing was established beyond doubt that the debate was raised without the sanction of the official Opposition. All the leaders were absent from the front bench, and their absence was not unintentional. Having arranged for a full-dress discussion on the second reading of the Finance Bill, they were indignant at the attempt to cut the ground from under their feet, and kept away as a protest against the conduct of their lieutenants. “There is very good reason,“ remarked an ex-Cabinet Minister, “why we should stay away. No division can be taken to-day, whereas we intend to insist upon one, so that the public may know how members vote on this vital issue.”
+          <orgName key="LiberalUnionistParty" ref="https://d-nb.info/gnd/7841348-5" xml:id="Bae_TB_6_1917">Unionist party</orgName>!” – these were the exclamations heard in many quarters. One thing was established beyond doubt that the debate was raised without the sanction of the official Opposition. All the leaders were absent from the front bench, and their absence was not unintentional. Having arranged for a full-dress discussion on the second reading of the Finance Bill, they were indignant at the attempt to cut the ground from under their feet, and kept away as a protest against the conduct of their lieutenants. “There is very good reason,“ remarked an ex-Cabinet Minister, “why we should stay away. No division can be taken to-day, whereas we intend to insist upon one, so that the public may know how members vote on this vital issue.” <app from="#Bae_MF_4_1760" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1918"/>
         <!-- CA: anchor für addspan -->
-        <p xml:id="Bae_TB_6_1919">Ob 
+        <p xml:id="Bae_TB_6_1919"><anchor/>Ob 
           <choice xml:id="Bae_TB_6_1920">
             <abbr xml:id="Bae_TB_6_1921">u.</abbr>
             <expan xml:id="Bae_TB_6_1922">und</expan>
-          </choice> wie dieses Programm bestimmt sein wird die englische Politik der nächsten Zeit zu beeinflussen möchte ich nicht voraussagen. Wenn man weis, dass die ganze englische Entwicklung der letzten 50 Jahre mit ihren Erfolgen auf einem entgegengesetzten Weg errungen worden ist,
+          </choice> wie dieses Programm bestimmt sein wird die englische Politik der nächsten Zeit zu beeinflussen möchte ich nicht voraussagen. Wenn man weis, dass die ganze englische Entwicklung der letzten 50 Jahre mit ihren Erfolgen auf einem entgegengesetzten Weg errungen worden ist, <app from="#Bae_MF_4_1763" type="equal"><rdg wit="Bae_MF_4">Ob und wie dieses Programm bestimmt sein wird die englische Politik der nächsten Zeit zu beeinflußen möchte ich nicht voraussagen. Wenn man weiß, daß die ganze englische Entwicklung der letzten 50 Jahre mit ihren Erfolgen auf einem entgegengesetzten Weg errungen worden ist,</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_055" n="26v" xml:id="Bae_TB_6_1923"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1924"/>
-        <p xml:id="Bae_TB_6_1925">want to do any service to us which is likely to arouse any kind of animosity or opposition on the part of any foreign country, we are bound to tell you that we cannot help you; there is nothing that we can do to bring that foreign country to its bearings and to secure the defence of your interests. 
+        <p xml:id="Bae_TB_6_1925"><anchor/>want to do any service to us which is likely to arouse any kind of animosity or opposition on the part of any foreign country, we are bound to tell you that we cannot help you; there is nothing that we can do to bring that foreign country to its bearings and to secure the defence of your interests. 
           <persName key="CecilHugh" ref="https://d-nb.info/gnd/118984063" xml:id="Bae_TB_6_1926">Lord H. Cecil</persName> said that no one could resent more than he the action taken by 
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_6_1927">Germany</placeName> in regard to 
           <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_1928">Canada</placeName>. I should regret any invidious reference to Germans, but I am obliged to refer to 
@@ -2486,12 +2483,12 @@
           <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_1935">Canada</placeName> is likely to be satisfied with that? (Hear, hear.) What has happened? 
           <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_1936">Canada</placeName> gave us this preference five years ago, and for five years she has been penalised. We have been bearing hot resentment in our bosom – (laughter) – but much good that does to 
           <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_1937">Canada</placeName>. Whatever else that may be, it is not business. (Ministerial cheers.) Suppose we had, in consequence of the decision of the 
-          <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1938">country</placeName>, to make that statement to our Colonies. I cannot ask
+          <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_1938">country</placeName>, to make that statement to our Colonies. I cannot ask <app from="#Bae_MF_4_1737" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_1939"/>
         <!-- CA: anchor für addspan von 26v - erster Teil -->
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_1940"/>
-        <p xml:id="Bae_TB_6_1941">opposite will have to give their serious attention. (Opposition cheers.) If they can show that the whole of this business will mean a greater cost of living to the 
+        <p xml:id="Bae_TB_6_1941"><anchor/>opposite will have to give their serious attention. (Opposition cheers.) If they can show that the whole of this business will mean a greater cost of living to the 
           <index xml:id="Bae_TB_6_1942">
             <term key="Arbeiter" xml:id="Bae_TB_6_1943">working-man</term>
           </index> and no increase of income, I have not the least doubt whatever that all their most optimistic prophecies will come true. But if I can show that in return for what I ask I will give more than I take, then, Ithink, poorly as they may regard my judgment, I may still have a chance. (Ministerial laughter.) That suggests another issue. Suppose you put a duty, not for the purpose of Protection at all, but for the purpose of gaining these advantages, and having something to give to your Colonies you put a duty on these products. I suppose it would produce a very large revenue. We do not want it for the normal expenditure of the 
@@ -2572,11 +2569,11 @@
           </index> are injured by the reprisals of foreign countries. There is only one other point which will have to be considered. Is it not conceivable that we shall have to defend our own trade against unjust competition not against free exchange of commodities or of their natural price, but against something which I believe is absolutely new, and to which I am afraid insufficient, attention has been given at the present time? Has the House considered the practical working of the great trusts which are now being formed in 
           <placeName key="Amerika" ref="https://www.geonames.org/6252001/united-states.html" xml:id="Bae_TB_6_1999">America</placeName>, in 
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_6_2000">Germany</placeName>, and on the Continent? These enormous
-        </p>
+          <app from="#Bae_MF_4_1743" type="missing"><rdg wit="Bae_MF_4"></rdg></app></p>
         <anchor xml:id="Bae_TB_6_2001"/>
         <!-- CA: anchor für addspan von 26v zweiter Teil (nach Verweiszeichen) -->
         <pb facs="#F_K-4_Bae_TB_6_056" n="27r" xml:id="Bae_TB_6_2002"/>
-        <p xml:id="Bae_TB_6_2003">so ist es schon viel, wenn solche Sätze überhaupt verteidigt werden können 
+        <p xml:id="Bae_TB_6_2003"><anchor/>so ist es schon viel, wenn solche Sätze überhaupt verteidigt werden können 
           <choice xml:id="Bae_TB_6_2004">
             <abbr xml:id="Bae_TB_6_2005">u.</abbr>
             <expan xml:id="Bae_TB_6_2006">und</expan>
@@ -2606,11 +2603,11 @@
         <p xml:id="Bae_TB_6_2024">Am letzten Nachmittag besuchte ich mit 
           <persName key="JoasLeopold" ref="https://d-nb.info/gnd/1108295746" xml:id="Bae_TB_6_2025">Dr. Joas</persName> noch die Saisonausstellung in 
           <orgName key="BurlingtonHouse" ref="https://d-nb.info/gnd/7517061-9" xml:id="Bae_TB_6_2026">Burlingtonhouse</orgName>, den Londoner "Salon". Leider war dies die einzige Stunde unseres diesmaligen 
-          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_2027">Londoner</placeName> Aufenthaltes, die der Kunstbetrachtung gewidmet war.
+          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_2027">Londoner</placeName> Aufenthaltes, die der Kunstbetrachtung gewidmet war. <app from="#Bae_MF_4_1766" type="equal"><rdg wit="Bae_MF_4">so ist es schon viel, wenn solche Sätze überhaupt verteidigt werden können und ernst genommen werden. Hieronymi war ganz erfüllt von der Ueberzeugung, daß Chamberlains Ideen sicher durchdringen werden. Die folgenden zwei Tage verbrachten wir mit Besuchen bei der Botschaft, bei dem Abgeordneten Gibson Bowles und mit Einkäufen. Ich schrieb wieder den Bericht. Gibson Bowles ist ein großer Gegner der Konvention überdies ein Mann unbefriedigten Ehrgeizes, also ein frondeur in der eigenen konservativen Partei. Er bereitet ihr im Parlament manche Verlegenheit, hat aber keinen Einfluß. Wir machten ihm nur desswegen einen Besuch, weil Herr von Ruttkay, um uns gefällig zu sein, dieses Rendezvous in guter aber ganz unnützer Absicht verabredet hatte und wir seine Freundlichkeit nicht Lügen strafen wollten. In England machen sich aber alle diese Sachen leicht, denn engherzig ist der Engländer nicht, auch sagt er, wenn er nicht spezielle Gründe hat, seine Meinung offen heraus. Am letzten Nachmittag besuchte ich mit Dr. Joas noch die Saisonausstellung in Burlingtonhouse, den Londoner "Salon". Leider war dies die einzige Stunde unseres diesmaligen Londoner Aufenthaltes, die der Kunstbetrachtung gewidmet war.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_057" n="27v" xml:id="Bae_TB_6_2028"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2029"/>
-        <p xml:id="Bae_TB_6_2030">aggregations of capital, wielded by a single brain, which can be brought to bear in the way of destroying a particular industry in this 
+        <p xml:id="Bae_TB_6_2030"><anchor/>aggregations of capital, wielded by a single brain, which can be brought to bear in the way of destroying a particular industry in this 
           <placeName key="VereinigtesKoenigreich" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_2031">country</placeName> without running any risk whatever? We are the one open market of the world. We are the one dumping-ground of the world. (Loud Ministerial cheers.) Let me try to make clear what happens. Suppose a manufacturer sells goods to the extent of £50,000 a year, and makes a profit of £5,000. His fixed expenses would be probably £6,000. But now if he can increase his business, and sell £100,000, his profits will be not merely £10,000, but they will be added to by the reduction of the fixed expenses on the second £50,000. His profits on £100,000, instead of being £10,000, might probably be £15,000. The result of that would be that he could afford io sell, as compared with his previous condition, his second £100,000, not only without profits, but even at a loss. That is what is happening in 
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_6_2032">Germany</placeName> and in 
           <placeName key="Amerika" ref="https://www.geonames.org/6252001/united-states.html" xml:id="Bae_TB_6_2033">America</placeName>. In 
@@ -2658,11 +2655,11 @@
           <persName key="BalfourArthurJames" ref="https://d-nb.info/gnd/119456605" xml:id="Bae_TB_6_2069">Mr. Balfour</persName> to gratify a somewhat legitimate anxiety on that side of the House by answering this question: Were the views expressed by the 
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_2070">Colonial Secretary</persName> his own, or were they the views of the Cabinet? (Hear, hear.)
         </p>
-        <p xml:id="Bae_TB_6_2071">The SPEAKER, at 7.15, put the question that the House adjourn till “August 8.“ (Cries of "June” and laughter.) The right hon. gentleman having given effect to the correction, the House immediately adjourned.</p>
+        <p xml:id="Bae_TB_6_2071">The SPEAKER, at 7.15, put the question that the House adjourn till “August 8.“ (Cries of "June” and laughter.) The right hon. gentleman having given effect to the correction, the House immediately adjourned.<app from="#Bae_MF_4_1746" type="missing"><rdg wit="Bae_MF_4"></rdg></app></p>
         <anchor xml:id="Bae_TB_6_2072"/>
         <!-- CA: anchor für addspan -->
         <pb facs="#F_K-4_Bae_TB_6_058" n="28r" xml:id="Bae_TB_6_2073"/>
-        <p xml:id="Bae_TB_6_2074">Die Richtung der in dieser Ausstellung vertretenen modernen englischen Kunst würde von unserer "Moderne" als altmodisch bezeichnet werden. Ich habe aber schon lange keinen so woltuenden Eindruck von einer Ausstellung gehabt, wenn ich auch zugeben muss, dass nichts allerersten Ranges darin enthalten ist. Mit Ausname der Portraits. Die englischen Portraits haben mich von jeher angezogen. Es sind nicht Bilder, sondern Menschen, die aus den Ramen sehen. Unter den Aquarellen waren, wie gewönlich einige sehr schöne. Gern hätte ich mir das eine 
+        <p xml:id="Bae_TB_6_2074"><anchor/>Die Richtung der in dieser Ausstellung vertretenen modernen englischen Kunst würde von <app from="#Bae_MF_4_1787" type="equal"><rdg wit="Bae_MF_4">Die Richtung der in dieser Ausstellung vertretenen modernen englischen Kunst würde von</rdg></app><anchor/>unserer "Moderne" <app from="#Bae_MF_4_1790" type="notEqual"><rdg wit="Bae_MF_4">unserem "Modernen"</rdg></app><anchor/>als altmodisch bezeichnet werden. Ich habe aber schon lange keinen so woltuenden Eindruck von einer Ausstellung gehabt, wenn ich auch zugeben muss, dass nichts allerersten Ranges darin enthalten ist. Mit Ausname der Portraits. Die englischen Portraits haben mich von jeher angezogen. Es sind nicht Bilder, sondern Menschen, die aus den Ramen sehen. Unter den Aquarellen waren, wie gewönlich einige sehr schöne. Gern hätte ich mir das eine 
           <choice xml:id="Bae_TB_6_2075">
             <abbr xml:id="Bae_TB_6_2076">o.</abbr>
             <expan xml:id="Bae_TB_6_2077">oder</expan>
@@ -2688,11 +2685,11 @@
             <expan xml:id="Bae_TB_6_2093">und</expan>
           </choice> waren in wenigen Stunden in 
           <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_TB_6_2094">Brüssel</placeName>, wo uns Wohnung im 
-          <orgName key="HotelBellevue" xml:id="Bae_TB_6_2095">Hotel Bellevue</orgName> bestellt worden war.
+          <orgName key="HotelBellevue" xml:id="Bae_TB_6_2095">Hotel Bellevue</orgName> bestellt worden war. <app from="#Bae_MF_4_1794" type="equal"><rdg wit="Bae_MF_4">als altmodisch bezeichnet werden. Ich habe aber schon lange keinen so woltuenden Eindruck von einer Ausstellung gehabt, wenn ich auch zugeben muß, daß nichts allerersten Ranges darin enthalten ist. Mit Ausnahme der Portraits. Die englischen Portraits haben mich von jeher angezogen. Es sind nicht Bilder, sondern Menschen, die aus den Rahmen sehen. Unter den Aquarellen waren, wie gewöhnlich einige sehr schöne. Gern hätte ich mir das eine oder andere gekauft, wenn meine Pfundrechnung bei Rothschild nicht schon zu sehr belastet gewesen wäre. Am Pfingstsonntag früh verließen wir London. Es war ein schöner Tag, sonnig und ruhig. Die grünen Hügel, herrlichen Baumgruppen, die Hopfenpflanzungen und die unzähligen reinlichen, blinkenden Backsteinhäuser von Kent flogen an uns vorbei, bis wir Dover erreichten. Die Ueberfahrt nach Calais war sehr genußreich. Vollkommen ruhige See, wenig Reisende am Schiff, denn der große Strom der Pfingstausflügler war schon Tage vorher hinüber. In Calais aßen wir herrliche Kirschen stiegen in den Express und waren in wenigen Stunden in Brüssel, wo uns Wohnung im Hotel Bellevue bestellt worden war.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_059" n="28v" xml:id="Bae_TB_6_2096"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2097"/>
-        <p xml:id="Bae_TB_6_2098">trymen
+        <p xml:id="Bae_TB_6_2098"><anchor/>trymen
           <note type="editorial" xml:id="Bae_TB_6_2099">Hier fehlen davor eine oder mehrer Zeilen des Scans.</note>, that it you make that reply to our Colonies, you must, in the first place, give up all hope of anything of the nature of closer fiscal relations with them and in the second place, in the absence of that, you must abandon altogether the idea of securing at any time a closer political relationship. If you have to abandon the idea of closer fiscal and political relations, then I repeat the opinion which I expressed at 
           <placeName key="Birmingham" ref="https://www.geonames.org/3333125/city-and-borough-of-birmingham.html" xml:id="Bae_TB_6_2100">Birmingham</placeName>, and say that a united Empire will be beyond the bounds of possibility. (Ministerial cheers.) It is my firm conviction, and it is because of the immense importance of that conviction that I ask the House to join eagerly in the discussion to which I invite them. 
           <persName key="CecilHugh" ref="https://d-nb.info/gnd/118984063" xml:id="Bae_TB_6_2101">Lord H. Cecil</persName> says he does not think, and cannot conceive, that it would be advisable to progress towards closer union by taking fiscal union first. All I can say is that the great example of the world is altogether opposed to the conclusion of my noble friend. How was the union of 
@@ -2778,7 +2775,7 @@
         </p>
         <p xml:id="Bae_TB_6_2161">
           <persName key="ChamberlainJoseph" ref="https://d-nb.info/gnd/119173425" xml:id="Bae_TB_6_2162">Mr. CHAMBERLAIN</persName>: Yes, putting aside any economic question as to whether they would or would not pay the whole of any duty imposed, my argument would be: “I will assume that you pay every penny of the duty, and having assumed that, I would tell you what your cost will be. I know how many loaves you consume, I know how much meat you eat, I know what you take of this, that, and the other, on which it may be proposed to put a duty, and I will give to you a table from which you can tell for yourself how much extra wages you must get in order to cover the extra expenses of living? (Cheers.) There is the argument to which hon. members
-        </p>
+          <app from="#Bae_MF_4_1740" type="missing"><rdg wit="Bae_MF_4"></rdg></app> </p>
         <anchor xml:id="Bae_TB_6_2163"/>
         <!-- CA: anchor für addspan 28v -->
       </div>
@@ -2817,7 +2814,7 @@
             <index xml:id="Bae_TB_6_2190">
               <term key="BruesselerKonferenz" xml:id="Bae_TB_6_2191"/>
             </index>
-          </index> eben angekommen war. Speisten Abends in der 
+          </index> <app from="#Bae_MF_4_1810" type="equal"><rdg wit="Bae_MF_4">BRÜSSEL. Unser Gesandter Graf Siegfried Clary und Karl Fürstenberg hatten uns das Terrain in Brüssel, so gut es irgend ging geebnet. Der Ministerpräsident Smet de Nayer befand sich zwar auf Urlaub in Ostende, hatte uns aber wissen lassen, daß er Dienstag nach Pfingsten nach Brüssel kommen werde, um uns zu empfangen. Wir hatten demnach den Pfingstmontag frei. Trafen Professor Lammasch, der als österreichischer Delegierter zur Brüsseler Konferenz</rdg></app><anchor/>eben <app from="#Bae_MF_4_1827" type="notEqual"><rdg wit="Bae_MF_4">schon</rdg></app><anchor/>angekommen war. Speisten Abends in der 
           <orgName key="Laiterie" xml:id="Bae_TB_6_2192">laiterie</orgName>, einem sehr guten Restaurant im Park, nachdem wir am Tage sowol 
           <persName key="ClarySiegfried" ref="https://d-nb.info/gnd/1269647148" xml:id="Bae_TB_6_2193">Clary</persName> als 
           <persName key="FuerstenbergCarlEmil" xml:id="Bae_TB_6_2194">Fürstenberg</persName> unsere Besuche gemacht hatten. Dienstag empfing uns 
@@ -2840,11 +2837,11 @@
           <index xml:id="Bae_TB_6_2207">
             <term key="Dreibund" xml:id="Bae_TB_6_2208">Dreibundes</term>
           </index>, in 
-          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_2209">England</placeName> das Bedürfniss seines Marktes immer noch Zweifel übrig gelassen hatten, ob es nicht doch möglich wäre, dass wir mit unserm Standpunkt durchdringen könnten, hier fielen alle Schleier.
+          <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_2209">England</placeName> das Bedürfniss seines Marktes immer noch Zweifel übrig gelassen hatten, ob es nicht doch möglich wäre, dass wir mit unserm Standpunkt durchdringen könnten, hier fielen alle Schleier.<app from="#Bae_MF_4_1830" type="equal"><rdg wit="Bae_MF_4">angekommen war. Speisten Abends in der laiterie, einem sehr guten Restaurant im Park, nachdem wir am Tage sowohl Clary als Fürstenberg unsere Besuche gemacht hatten. Dienstag empfing uns Graf Smet. Ein vornehmer, lebhafter, sehr klar denkender und ebenso klar sprechender Mann. Er machte nur eine leichte, mehr formelle Verwahrung, daß er nicht als Präsident der Konferenz spreche, sprach aber dann erst recht ex cathedra und schenkte uns sofort reinen Wein ein. Wenn in Berlin die Politik des Dreibundes, in England das Bedürfniss seines Marktes immer noch Zweifel übrig gelassen hatten, ob es nicht doch möglich wäre, daß wir mit unserm Standpunkt durchdringen könnten, hier fielen alle Schleier.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_061" n="29v" xml:id="Bae_TB_6_2210"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2211"/>
-        <p xml:id="Bae_TB_6_2212">Resumé der von den Unterzeichneten in 
+        <p xml:id="Bae_TB_6_2212"><anchor/>Resumé der von den Unterzeichneten in 
           <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_TB_6_2213">Brüssel</placeName> und 
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2214">Paris</placeName> geführten Unterhandlungen in der 
           <index xml:id="Bae_TB_6_2215">
@@ -2887,13 +2884,13 @@
           </index> der Inlandpreis so erhöht werden kann, daß dadurch der Export erleichtert und somit eine versteckte Prämie geschaffen wird. Wenn auch die 
           <index xml:id="Bae_TB_6_2244">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_2245">Konvention</term>
-          </index> die freiwilligen Kartelle nicht verboten habe, könne doch prinzipiell nicht zugelassen werden, daß Kartelle durch gesetzgeberische Maßregeln verstärkt, auf eine längere Zeit gesichert und
+          </index> die freiwilligen Kartelle nicht verboten habe, könne doch prinzipiell nicht zugelassen werden, daß Kartelle durch gesetzgeberische Maßregeln verstärkt, auf eine längere Zeit gesichert und<app from="#" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_2246"/>
         <!-- CA: anchor für addspan 29v -->
         <!-- CA: wohin kommend die addspans 29, 30, 31 v?? -->
         <pb facs="#F_K-4_Bae_TB_6_062" n="30r" xml:id="Bae_TB_6_2247"/>
-        <p xml:id="Bae_TB_6_2248">
+        <p xml:id="Bae_TB_6_2248"><anchor/>
           <persName key="SmetdeNaeyerPaul" ref="https://d-nb.info/gnd/1075832896" xml:id="Bae_TB_6_2249">Graf Smet</persName> sagte uns rund heraus, dass wir nicht durchdringen würden 
           <choice xml:id="Bae_TB_6_2250">
             <abbr xml:id="Bae_TB_6_2251">u.</abbr>
@@ -2914,7 +2911,7 @@
             <abbr xml:id="Bae_TB_6_2262">u.</abbr>
             <expan xml:id="Bae_TB_6_2263">und</expan>
           </choice>
-          <persName key="JoasLeopold" ref="https://d-nb.info/gnd/1108295746" xml:id="Bae_TB_6_2264">Joas</persName> mitteile. Die Herren waren aber in ihrem Optimismus nicht zu erschüttern. Am selben Tage hatten wir lunch beim 
+          <persName key="JoasLeopold" ref="https://d-nb.info/gnd/1108295746" xml:id="Bae_TB_6_2264">Joas</persName> <app from="#Bae_MF_4_1848" type="equal"><rdg wit="Bae_MF_4">Graf Smet sagte uns rund heraus, daß wir nicht durchdringen würden und riet zum Rückzug. Er tat es aber in einer so feinen, ja wohlwollenden Weise, daß unser Gespräch keinerlei Schärfe an sich trug. Er hatte auch nicht das Bestreben die Pille zu verzuckern, sondern er anerkannte die Nützlichkeit unseres Standpunktes für uns, nur legte er ebenso natürlich als tendenzlos dar, daß unser Vorgehen mit Absicht und Sinn der Konvention nicht im Einklang stehe. Diese Mitteilungen wollte ich sofort zu Nutze machen, indem ich sie Lammasch, Telecky u. Joas</rdg></app><anchor/>mitteile. <app from="#Bae_MF_4_1862" type="notEqual"><rdg wit="Bae_MF_4">mitteile.</rdg></app><anchor/>Die Herren waren aber in ihrem Optimismus nicht zu erschüttern. Am selben Tage hatten wir lunch beim 
           <persName key="ClarySiegfried" ref="https://d-nb.info/gnd/1269647148" xml:id="Bae_TB_6_2265">Gesandten</persName>. Der Direktor im 
           <orgName key="MinisteriumAuswaertigeAngelegenheitenBelgien" ref="https://d-nb.info/gnd/40687-9" xml:id="Bae_TB_6_2266">Auswärtigen Amt</orgName>
           <persName key="CapelleLeon" xml:id="Bae_TB_6_2267">Capelle</persName> war anwesend 
@@ -2948,11 +2945,11 @@
             <abbr xml:id="Bae_TB_6_2288">u.</abbr>
             <expan xml:id="Bae_TB_6_2289">und</expan>
           </choice> kamen gegen Mitternacht nach 
-          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2290">Paris</placeName>.
+          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2290">Paris</placeName>. <app from="#Bae_MF_4_1865" type="equal"><rdg wit="Bae_MF_4">Die Herren waren aber in ihrem Optimismus nicht zu erschüttern. Am selben Tage hatten wir lunch beim Gesandten. Der Direktor im auswärtigen Amt Capelle war anwesend und die Herren der Gesandtschaft. Es war im Eßzimmer geschlossene Luft, das lunch aber vorzüglich und die Unterhaltung sehr angenehm. Die große Hitze der letzten Tage hatte nachgelassen und kühleren Nordwinden mit Regenschauern Platz gemacht. Das machte das Atmen, Schlafen und Denken leichter. Am Nachmittag des Dienstag verließen wir Brüssel und kamen gegen Mitternacht nach Paris.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_063" n="30v" xml:id="Bae_TB_6_2291"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2292"/>
-        <p xml:id="Bae_TB_6_2293">deren Auflösung unmöglich gemacht wird. Bei einem freiwilligen Kartell sind die Teilhaber immer der Eventualität ausgesetzt, daß einzelne aus dem Kartell austreten, neue Produktionsstätten entstehen, wodurch das Kartell in seinen Wirkungen immer bedeutend gestört wird, während es bei einer staatlichen Regelung der Produktion dies alles nicht zu fürchten habe.</p>
+        <p xml:id="Bae_TB_6_2293"><anchor/>deren Auflösung unmöglich gemacht wird. Bei einem freiwilligen Kartell sind die Teilhaber immer der Eventualität ausgesetzt, daß einzelne aus dem Kartell austreten, neue Produktionsstätten entstehen, wodurch das Kartell in seinen Wirkungen immer bedeutend gestört wird, während es bei einer staatlichen Regelung der Produktion dies alles nicht zu fürchten habe.</p>
         <p xml:id="Bae_TB_6_2294">Die Meinung des 
           <persName key="SmetdeNaeyerPaul" ref="https://d-nb.info/gnd/1075832896" xml:id="Bae_TB_6_2295">Grafen Smet de Nayer</persName> geht dahin, daß das Prinzip einer 
           <index xml:id="Bae_TB_6_2296">
@@ -3010,14 +3007,14 @@
         <p xml:id="Bae_TB_6_2334">Seine Bedenken, die er übrigens in der artigsten Form vorbrachte, wurzeln darin, daß seiner Meinung nach die 
           <index xml:id="Bae_TB_6_2335">
             <term key="ZuckerKontingentierung" xml:id="Bae_TB_6_2336">Kontingentierung</term>
-          </index> den Inlandpreis erhöhen und daß darin eine indirekte Prämie liege.
+          </index> den Inlandpreis erhöhen und daß darin eine indirekte Prämie liege.<app from="#" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_2337"/>
         <!-- CA: anchor für addspan -->
       </div>
       <div n="1903-06-06" type="diaryEntry" xml:id="Bae_TB_6_2338">
         <pb facs="#F_K-4_Bae_TB_6_064" n="31r" xml:id="Bae_TB_6_2339"/>
-        <p xml:id="Bae_TB_6_2340">
+        <p xml:id="Bae_TB_6_2340"><anchor/>
           <hi rendition="#ul" xml:id="Bae_TB_6_2341">
             <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2342">Paris</placeName>
           </hi>
@@ -3061,11 +3058,11 @@
           <choice xml:id="Bae_TB_6_2371">
             <abbr xml:id="Bae_TB_6_2372">u.</abbr>
             <expan xml:id="Bae_TB_6_2373">und</expan>
-          </choice> erläuterten unsere heimischen Verhältnisse. Darin war
+          </choice> erläuterten unsere heimischen Verhältnisse. Darin war <app from="#" type="equal"><rdg wit="Bae_MF_4">PARIS. In Brüssel war es klar, daß eine Reise nach Paris keinen Zweck haben würde. Dennoch riet ich unbedingt dazu, damit uns nicht der leiseste Vorwurf treffen könne, nicht alles versucht zu haben. Ueber den Ausgang unserer Mission gaben wir uns aber keiner Täuschung hin und waren deswegen bemüht, in möglichst kurzer Zeit unsere Besuche in Paris abzumachen. Ich hatte daher an die Botschaft geschrieben und sie ersucht uns Audienzen bei Delcassé und allen entscheidenden Männern zu erwirken. Graf Karl Kinsky war so freundlich noch in der Nacht am Dienstag nach unserer Ankunft ins Hotel zu kommen, um mit uns das Nötige zu besprechen. Er brachte die Nachricht, daß Ribot, der frühere Minister und jetzt derjenige Abgeordnete, der im französischen Parlament von der Zuckerfrage am meisten versteht – den Wunsch geäussert hätte uns zu sehen, wiewohl er wegen eines Fußleidens ans Bett gefesselt war. Er wohnt in einem altmodischen Haus in der Nähe des Luxembourgs, das ganz altfranzösisch entre cour et jardin steht. Er lag im Bett von Büchergestellen umgeben, war aber ganz frisch und gesprächig. Wir überreichten ihm die französische Ausgabe meiner Denkschrift und erläuterten unsere heimischen Verhältnisse. Darin war</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_065" n="31v" xml:id="Bae_TB_6_2374"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2375"/>
-        <p xml:id="Bae_TB_6_2376">Der Minister des 
+        <p xml:id="Bae_TB_6_2376"><anchor/>Der Minister des 
           <orgName key="AußenministeriumFrankreich" ref="https://d-nb.info/gnd/2028242-4" xml:id="Bae_TB_6_2377">Äußern</orgName>, 
           <persName key="DelcasseTheophile" ref="https://d-nb.info/gnd/118671332" xml:id="Bae_TB_6_2378">Delcassé</persName>, dem wir am 
           <date when="1903-06-04" xml:id="Bae_TB_6_2379">4. Juni</date> unseren Besuch machten, war ganz besonders liebenswürdig. Er entschuldigte sich, daß er das Detail der Frage nicht kenne, nahm das Memoire entgegen mit dem Versprechen, es zu lesen, betonte aber ausdrücklich, daß es sein lebhafter Wunsch sei, daß auch die österreichisch-ungarische Frage schon in der 
@@ -3141,8 +3138,8 @@
         <anchor xml:id="Bae_TB_6_2430"/>
         <!-- CA: anchor für addspan 31v -->
         <pb facs="#F_K-4_Bae_TB_6_066" n="32r" xml:id="Bae_TB_6_2431"/>
-        <p xml:id="Bae_TB_6_2432">
-          <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_2433">Hieronymi</persName> übrigens Meister. Breit, anschaulich, stark auftragend erklärte er den Franzosen unser staatsrechtliches Verhältniss 
+        <p xml:id="Bae_TB_6_2432"><anchor/>
+          <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_2433">Hieronymi</persName> übrigens Meister. Breit, anschaulich, stark auftragend erklärte er den Franzosen <app from="#Bae_MF_4_1895" type="equal"><rdg wit="Bae_MF_4"></rdg></app>unser staatsrechtliches Verhältniss <app from="#Bae_MF_4_1899" type="notEqual"><rdg wit="Bae_MF_4">unsere staatsrechtliche Verhältnisse </rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_2434">
             <abbr xml:id="Bae_TB_6_2435">u.</abbr>
             <expan xml:id="Bae_TB_6_2436">und</expan>
@@ -3188,7 +3185,7 @@
           <choice xml:id="Bae_TB_6_2468">
             <abbr xml:id="Bae_TB_6_2469">u.</abbr>
             <expan xml:id="Bae_TB_6_2470">und</expan>
-          </choice> seine stillen schattigen Alleen geniessend. Am Abend waren wir im 
+          </choice> <app from="#Bae_MF_4_1902" type="equal"><rdg wit="Bae_MF_4">und ich fand, daß man gerade ihm als den Ungarn mit besonderer Freundlichkeit entgegenkam. Während ich also in Berlin und in London im Vordertreffen gekämpft hatte, hatte in Frankreich Hieronymi die Führung und erledigte seine Aufgabe, da er ein sehr gutes Französisch spricht, auch sehr gut. Ribot frug und frug, von Ueberzeugen war aber keine Rede, so daß es wohl nur Neugierde gewesen sein mochte, einen österreichischen und einen ungarischen Minister interviewen zu können, was uns die Ehre verschafft hatte, von ihm empfangen zu werden. Wir trösteten uns über unsern Mißerfolg durch ein verspätetes, aber sehr gutes Frühstück bei Foyot. Dann fuhren wir ins Bois, den vollen Reiz des Place de la Concorde, der Champs Elisées, der Avenue du bois und</rdg></app><anchor/>seine <app from="#Bae_MF_4_1912" type="notEqual"><rdg wit="Bae_MF_4">seiner</rdg></app><anchor/>stillen schattigen Alleen geniessend. Am Abend waren wir im 
           <orgName key="ComedieFrancaise" ref="https://d-nb.info/gnd/115269-5" xml:id="Bae_TB_6_2471">Théâtre français</orgName> wo wir ein modernes Stück: 'les Affaires sont les affaires' sahen, anfangs nur einen Akt sehen wollten, aber von dem vorzüglichen Spiele verleitet, bis zu Ende blieben.
         </p>
         <p xml:id="Bae_TB_6_2472">Donnerstag den 
@@ -3201,11 +3198,11 @@
           <orgName key="AußenministeriumFrankreich" ref="https://d-nb.info/gnd/2028242-4" xml:id="Bae_TB_6_2478">Ministerium des Äussern</orgName>
           <persName key="LouisMarie" xml:id="Bae_TB_6_2479">Monsieur Louis</persName>. 
           <persName key="KinskyCarl" ref="https://d-nb.info/gnd/13877711X" xml:id="Bae_TB_6_2480">Kinsky</persName> begleitete uns zu beiden. 
-          <persName key="DelcasseTheophile" ref="https://d-nb.info/gnd/118671332" xml:id="Bae_TB_6_2481">Delcassé</persName> ein kleiner beweglicher Franzose von sehr grosser,
+          <persName key="DelcasseTheophile" ref="https://d-nb.info/gnd/118671332" xml:id="Bae_TB_6_2481">Delcassé</persName> ein kleiner beweglicher Franzose von sehr grosser, <app from="#Bae_MF_4_1918" type="equal"><rdg wit="Bae_MF_4">stillen schattigen Alleen genießend. Am Abend waren wir im Theatre français wo wir ein modernes Stück: "les Affaires sindont les Affaires" sahen, anfangs nur einen Akt sehen wollten, aber von dem vorzüglichen Spiele verleitet, bis zu Ende blieben. Donnerstag den 4. Juni sahen wir Delcassé und den Chef der handelspolitischen Abteilung im Ministerium des Aeussern Monsieur Louis. Kinsky begleitete uns zu beiden. Delcassé, ein kleiner beweglicher Franzose, von sehr großer,</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_067" n="32v" xml:id="Bae_TB_6_2482"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2483"/>
-        <p xml:id="Bae_TB_6_2484">Mein Brief an 
+        <p xml:id="Bae_TB_6_2484"><anchor/>Mein Brief an 
           <hi rendition="#ul" xml:id="Bae_TB_6_2485">
             <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_6_2486">Aehrenthal</persName>
           </hi> in 
@@ -3237,12 +3234,12 @@
           <choice xml:id="Bae_TB_6_2506">
             <abbr xml:id="Bae_TB_6_2507">u.</abbr>
             <expan xml:id="Bae_TB_6_2508">und</expan>
-          </choice> eingehend zu sprechen Gelegenheit hat.
+          </choice> eingehend zu sprechen Gelegenheit hat.<app from="#" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_2509"/>
         <!-- CA: anchor für addspan 32v -->
         <pb facs="#F_K-4_Bae_TB_6_068" n="33r" xml:id="Bae_TB_6_2510"/>
-        <p xml:id="Bae_TB_6_2511">ja auffallender Liebenswürdigkeit, zog sich 
+        <p xml:id="Bae_TB_6_2511"><anchor/>ja auffallender Liebenswürdigkeit, zog sich 
           <add place="across" xml:id="Bae_TB_6_2512">aber</add> sofort aus der affaire indem er erklärte, er verstehe von der Sache nichts. Nahm aber mehrere Exemplare des Memorandums entgegen 
           <choice xml:id="Bae_TB_6_2513">
             <abbr xml:id="Bae_TB_6_2514">u.</abbr>
@@ -3252,8 +3249,8 @@
           <choice xml:id="Bae_TB_6_2517">
             <abbr xml:id="Bae_TB_6_2518">u.</abbr>
             <expan xml:id="Bae_TB_6_2519">und</expan>
-          </choice> ist mit seiner Aussicht ins Grüne etwa so feierlich wie die Zimmer der 
-          <orgName key="Reichskanzlei" ref="https://d-nb.info/gnd/4049146-8" xml:id="Bae_TB_6_2520">Reichskanzlei</orgName> in 
+          </choice> ist mit seiner Aussicht ins Grüne etwa so feierlich wie die Zimmer <app from="#Bae_MF_4_1931" type="equal"><rdg wit="Bae_MF_4">ja auffallender Liebenswürdigkeit, zog sich aber sofort aus der affaire, indem er erklärte, er verstehe von der Sache nichts. Nahm aber mehrere Exemplare des Memorandums entgegen und telepfonierte sofort persönlich an den Finanzminister Rouvier, damit uns dieser empfange "da von dessen Meinung alles abhänge". – Sein Arbeitszimmer ist groß, in schwerem Barockstil eingerichtet, geht natürlich nicht auf die Gasse und ist mit seiner Aussicht ins Grüne etwa so feierlich wie die Zimmer</rdg></app><anchor/>der 
+          <orgName key="Reichskanzlei" ref="https://d-nb.info/gnd/4049146-8" xml:id="Bae_TB_6_2520">Reichskanzlei</orgName> <app from="#Bae_MF_4_1935" type="notEqual"><rdg wit="Bae_MF_4">des Reichskanzlers</rdg></app><anchor/>in 
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_6_2521">Berlin</placeName>
           <choice xml:id="Bae_TB_6_2522">
             <abbr xml:id="Bae_TB_6_2523">o.</abbr>
@@ -3281,7 +3278,7 @@
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2540">Paris</placeName>. 
           <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_2541">Hieronymi</persName> fuhr nach 
           <placeName key="Zuerich" ref="https://www.geonames.org/7287650/zuerich.html" xml:id="Bae_TB_6_2542">Zürich</placeName> seinen Sohn besuchen, ich nach 
-          <placeName key="Heidelberg" ref="https://www.geonames.org/2907911/heidelberg.html" xml:id="Bae_TB_6_2543">Heidelberg</placeName> meinen Arzt wegen meiner rheumatischen Schulter, die mich sehr plagte, zu consultiren. Wir gaben uns für 
+          <placeName key="Heidelberg" ref="https://www.geonames.org/2907911/heidelberg.html" xml:id="Bae_TB_6_2543">Heidelberg</placeName> <app from="#Bae_MF_4_1938" type="equal"><rdg wit="Bae_MF_4">in Berlin und das Arbeitszimmer Landsdownes in London. Alle diese Herren sind dem Lärm und Wagengerassel entrückt, lautlos öffnen und schließen sich die Türen, man hört die Staatsmaschine nicht so wie bei uns physisch knarren. Mit Herrn Louis hatten wir eine eingehende, aber ebenfalls resultatlose Konferenz. Die wahre Stimmung der Franzosen enthüllte uns ohne Umschweife am folgenden Tage Rouvier. Wir hatten genug und verließen Tags darauf Paris. Hieronymi fuhr nach Zürich seinen Sohn besuchen, ich nach Heidelberg</rdg></app><anchor/>meinen <app from="#Bae_MF_4_1953" type="notEqual"><rdg wit="Bae_MF_4">einen</rdg></app><anchor/>Arzt wegen meiner rheumatischen Schulter, die mich sehr plagte, zu consultiren. Wir gaben uns für 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_6_2544">Wien</placeName> ein Rendezvous, um wieder gemeinsam zu 
           <persName key="GoluchowskiAgenor" ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_TB_6_2545">Goluchowski</persName> zu gehen.
         </p>
@@ -3289,11 +3286,11 @@
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2547">Paris</placeName> abgehend über 
           <placeName key="Frouard" ref="https://www.geonames.org/6436621/frouard.html" xml:id="Bae_TB_6_2548">Frouard</placeName>-
           <placeName key="Metz" ref="https://www.geonames.org/6454365/metz.html" xml:id="Bae_TB_6_2549">Metz</placeName>-
-          <placeName key="Kaiserslautern" ref="https://www.geonames.org/2894003/kaiserslautern.html" xml:id="Bae_TB_6_2550">Kaiserslautern</placeName> nach
+          <placeName key="Kaiserslautern" ref="https://www.geonames.org/2894003/kaiserslautern.html" xml:id="Bae_TB_6_2550">Kaiserslautern</placeName> nach<app from="#Bae_MF_4_1956" type="equal"><rdg wit="Bae_MF_4">Arzt wegen meiner rheumatischen Schulter, die mich sehr plagte, zu konsultieren. Wir gaben uns für Wien ein Rendezvous, um wieder gemeinsam zu Goluchowski zu gehen. Ein ausgezeichneter Zug führte mich morgens von Paris abgehend über Frouard-Metz-Kaiserslautern nach</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_069" n="33v" xml:id="Bae_TB_6_2551"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2552"/>
-        <p xml:id="Bae_TB_6_2553">Das gibt ein Gesamtbild. Meine gemachten Erfarungen – ich meine nicht die concreten in der 
+        <p xml:id="Bae_TB_6_2553"><anchor/>Das gibt ein Gesamtbild. Meine gemachten Erfarungen – ich meine nicht die concreten in der 
           <index xml:id="Bae_TB_6_2554">
             <term key="Zuckerfrage" xml:id="Bae_TB_6_2555">Zuckerfrage</term>
           </index>, welche ich bei Seite lasse – die 
