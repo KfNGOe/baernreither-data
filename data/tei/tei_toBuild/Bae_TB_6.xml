@@ -3197,7 +3197,7 @@
           <index xml:id="Bae_TB_6_2244">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_2245">Konvention</term>
           </index> die freiwilligen Kartelle nicht verboten habe, könne doch prinzipiell nicht zugelassen werden, daß Kartelle durch gesetzgeberische Maßregeln verstärkt, auf eine längere Zeit gesichert und
-          <app from="#" type="missing" xml:id="Bae_TB_6_8037">
+          <app from="#Bae_MF_4_1995" type="missing" xml:id="Bae_TB_6_8037">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8038"/>
           </app>
         </p>
@@ -3337,7 +3337,7 @@
           <index xml:id="Bae_TB_6_2335">
             <term key="ZuckerKontingentierung" xml:id="Bae_TB_6_2336">Kontingentierung</term>
           </index> den Inlandpreis erhöhen und daß darin eine indirekte Prämie liege.
-          <app from="#" type="missing" xml:id="Bae_TB_6_8049">
+          <app from="#Bae_MF_4_1998" type="missing" xml:id="Bae_TB_6_8049">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8050"/>
           </app>
         </p>
@@ -3470,7 +3470,7 @@
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_6_2427">Baernreither</persName>. 
         </p>
         <p xml:id="Bae_TB_6_2428">
-          <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_2429">Hironymi</persName>. 
+          <persName key="HieronymiKaroly" ref="https://d-nb.info/gnd/1011856727" xml:id="Bae_TB_6_2429">Hironymi</persName>.<app from="#Bae_MF_4_2001" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_2430"/>
         <!-- CA: anchor für addspan 31v -->
@@ -3592,8 +3592,8 @@
             <abbr xml:id="Bae_TB_6_2507">u.</abbr>
             <expan xml:id="Bae_TB_6_2508">und</expan>
           </choice> eingehend zu sprechen Gelegenheit hat.
-          <app from="#" type="missing" xml:id="Bae_TB_6_8070">
-            <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8071"/>
+          <app from="#Bae_MF_4_2018" type="equal" xml:id="Bae_TB_6_8070">
+            <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8071">Mein Brief an Aehrenthal in St. Petersburg. Wien am 27.6.1903. Verehrte Exzellenz, Die Berichte die ich versprochenermaßen übersende kommen als moutarde après diner. Ich will auch davon schweigen, daß die Zuckerfrage jetzt bei uns heillos verfahren ist. Aber ich bin so erfüllt von den Erfahrungen, die ich auf meiner Rundreise gemacht habe, daß ich Ihnen davon doch – selbstverständlich ganz vertraulich – Mitteilung machen möchte. Es ist ja selten, daß jemand in Verfolgung einer konkreten aber wichtigen Frage, die nur aus der ganzen Handelspolitik des betreffenden Staates begriffen werden kann, sowohl die eigenen Vertretungen, als auch alle mit der Handelspolitik befassten Staatsmänner von Deutschland, England, Belgien und Frankreich hintereinander und in kurzer Frist offiziell und eingehend zu sprechen Gelegenheit hat.</rdg>
           </app>
         </p>
         <anchor xml:id="Bae_TB_6_2509"/>
@@ -3671,8 +3671,7 @@
         <pb facs="#F_K-4_Bae_TB_6_069" n="33v" xml:id="Bae_TB_6_2551"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2552"/>
         <p xml:id="Bae_TB_6_2553">
-          <anchor xml:id="Bae_TB_6_8087"/>
-          <!-- CA: -->Das gibt ein Gesamtbild. Meine gemachten Erfarungen – ich meine nicht die concreten in der 
+          <anchor xml:id="Bae_TB_6_8087"/>Das gibt ein Gesamtbild. Meine gemachten Erfarungen – ich meine nicht die concreten in der 
           <index xml:id="Bae_TB_6_2554">
             <term key="Zuckerfrage" xml:id="Bae_TB_6_2555">Zuckerfrage</term>
           </index>, welche ich bei Seite lasse – die 
@@ -3750,12 +3749,12 @@
           <del rendition="#s" xml:id="Bae_TB_6_2608">in 
             <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_6_2609">Wien</placeName>
           </del> muss jemand kommen, der 
-          <hi rendition="#ul" xml:id="Bae_TB_6_2610">wirklich etwas versteht</hi>. Auch eine 
+          <hi rendition="#ul" xml:id="Bae_TB_6_2610">wirklich etwas versteht</hi>. Auch eine<app from="#Bae_MF_4_2036" type="equal"><rdg wit="Bae_MF_4">Das gibt ein Gesamtbild. Meine gemachten Erfahrungen – ich meine nicht die konkreten in der Zuckerfrage, welche ich bei Seite lasse – die allgemeinen Erfahrungen sind sehr traurige. Ueberall dieselbe Klage. Kein Zusammenhang, keine Initiative von Wien aus, keine Antwort auf wichtige Berichte, keine genügenden und rechtzeitigen Informationen, keine Orientierung über das, was anzustreben wäre, kein Ziel, keine Richtung – daher auch keine Möglichkeit, die Kenntnisse, die Verbindungen, die Fähigkeiten, den Eifer zu verwerten, um zu informieren und zu nützen. Ich habe den Eindruck, dass wir nicht nur als Staatswesen sehr sehr viel an unserem Prestige verloren haben, sondern daß – von der "großen" Politik sehe ich ab, da sich auf dieselbe meine unmittelbaren Wahrnehmungen nicht erstrecken – der ganze Mechanismus unseres auswärtigen handelspolitischen Dienstes defekt und total unzureichend ist. Ich möchte dies auf drei Hauptursachen zurückführen. 1) Unser Ministerium des Aeussern ist in handelspolitischer Hinsicht nur der Briefträger zwischen Oesterreich und Ungarn. Sollte gerade umgekehrt sein. Ist in der Verfassung anders gedacht als heute geübt und wurde auch noch unter Andrassy anders geübt. Sollen Oesterreichund Ungarn nicht zwei handelspolitisch getrennt agierende Staaten werden – wozu es allerdings den Anschein hat! – muß in irgend einer Form eine Konzentration der Handelspolitik beim Ministerium des Äussern wieder hergestellt werden. 2) An die Spitze des handelspolitischen Departements am Ballplatz muß jemand kommen, der wirklich etwas versteht. Auch eine</rdg></app> 
         </p>
         <anchor xml:id="Bae_TB_6_2611"/>
         <!-- CA: anchor für addspan 33v -->
         <pb facs="#F_K-4_Bae_TB_6_070" n="34r" xml:id="Bae_TB_6_2612"/>
-        <p xml:id="Bae_TB_6_2613">
+        <p xml:id="Bae_TB_6_2613"><anchor/>
           <placeName key="Heidelberg" ref="https://www.geonames.org/2907911/heidelberg.html" xml:id="Bae_TB_6_2614">Heidelberg</placeName>, wo gerade an diesem Abend eine Schlossbeleuchtung stattfand. 
           <date when="1903-06-07" xml:id="Bae_TB_6_2615">Andern Tags</date> war ein herrlicher 
           <placeName key="Heidelberg" ref="https://www.geonames.org/2907911/heidelberg.html" xml:id="Bae_TB_6_2616">Heidelberger</placeName> Frühlingssonntag, wie ich deren in den glücklichen Tagen meiner Studentenzeit viele genossen hatte. Ich machte einen Schlossspaziergang, der alten Zeiten gedenkend. 
@@ -3768,7 +3767,7 @@
           <choice xml:id="Bae_TB_6_2622">
             <abbr xml:id="Bae_TB_6_2623">u.</abbr>
             <expan xml:id="Bae_TB_6_2624">und</expan>
-          </choice> ich ihm ins Gewissen, den aus der notwendigen Aufhebung der 
+          </choice> ich ihm ins Gewissen, den aus der <app from="#Bae_MF_4_4378" type="equal"><rdg wit="Bae_MF_4">Heidelberg, wo gerade an diesem Abend eine Schloßbeleuchtung stattfand. Andern Tags war ein herrlicher Heidelberger Frühlingssonntag, wie ich deren in den glücklichen Tagen meiner Studentenzeit viele genossen hatte. Ich machte einen Schloßspaziergang, der alten Zeiten gedenkend. In Wien angekommen hatte ich an zwei Stellen zu referieren. Von Paris aus hatte ich den letzten Bericht an Goluchowski geschrieben, jetzt redeten Hieronymi und ich ihm ins Gewissen den aus der</rdg></app><anchor/>notwendigen <app from="#Bae_MF_4_1979" type="notEqual"><rdg wit="Bae_MF_4">unausweichlichen</rdg></app><anchor/>Aufhebung der 
           <index xml:id="Bae_TB_6_2625">
             <term key="ZuckerKontingentierung" xml:id="Bae_TB_6_2626">Contingentirung</term>
           </index> zwischen 
@@ -3798,8 +3797,7 @@
             <choice xml:id="Bae_TB_6_2645">
               <abbr xml:id="Bae_TB_6_2646">v.</abbr>
               <expan xml:id="Bae_TB_6_2647">von</expan>
-            </choice> Bernatzki 
-          </persName>. 
+            </choice> Bernatzki</persName>.<app from="#Bae_MF_4_1982" type="equal"><rdg wit="Bae_MF_4">Aufhebung der Kontengentierung zwischen Oesterreich und Ungarn erwachsenden Schwierigkeiten mit Energie zu begegnen. Er stimmte wie gewöhnlich zu, tat nichts. Aehnlich war es, als ich im Kreise der österreichischen Minister und Sektionschefs referierte. Körber hörte zerstreut zu, Böhm wiegte sich immer noch in Illusionen, Call schwieg. Der Einzige, der die Situation ganz begriff war Ministerialrat v. Bernatzky</rdg></app> 
         </p>
         <anchor xml:id="Bae_TB_6_2648"/>
         <app from="#_061" type="insertion" xml:id="Bae_TB_6_2649">
@@ -3813,7 +3811,7 @@
         <app from="#_065" type="insertion" xml:id="Bae_TB_6_2655">
           <rdg xml:id="Bae_TB_6_2656">[...]</rdg>
         </app>
-        <p xml:id="Bae_TB_6_2657">Vor meiner Abreise nach 
+        <p xml:id="Bae_TB_6_2657"><anchor/>Vor meiner Abreise nach 
           <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_2658">London</placeName> war 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_6_2659">Louis Ährenthal</persName> bei mir gewesen. Ich hatte ihm versprochen über meine Reise zu schreiben. Jetzt schickte ich ihm die Berichte 
           <choice xml:id="Bae_TB_6_2660">
@@ -3825,11 +3823,11 @@
               <abbr xml:id="Bae_TB_6_2665">Cbad</abbr>
               <expan xml:id="Bae_TB_6_2666">Carlsbad</expan>
             </choice>
-          </placeName> erhielt. 
+          </placeName> erhielt.<app from="#Bae_MF_4_2005" type="equal"><rdg wit="Bae_MF_4">Vor meiner Abreise nach London war Louis Aehrenthal bei mir gewesen. Ich hatte ihm versprochen, über meine Reise zu schreiben. Jetzt schickte ich ihm die Berichte und schrieb ihm einen Brief dazu, worin ich die Wahrnehmungen niederlegte, die ich bezüglich unseres auswärtigen handelspolitischen Dienstes gemacht hatte. Sie fielen ziemlich pessimistisch aus, aber er bestätigte sie mir in einem Briefe, den ich hier in Karlsbad erhielt.</rdg></app> 
         </p>
         <pb facs="#F_K-4_Bae_TB_6_071" n="34v" xml:id="Bae_TB_6_2667"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2668"/>
-        <p xml:id="Bae_TB_6_2669">continuirlich wirkende Kraft, wie wir sie in 
+        <p xml:id="Bae_TB_6_2669"><anchor/>continuirlich wirkende Kraft, wie wir sie in 
           <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_2670">London</placeName> im 
           <orgName key="ForeignOfficeUK" ref="https://d-nb.info/gnd/35549-5" xml:id="Bae_TB_6_2671">Foreign office</orgName> in der Person des 
           <persName key="SandersonThomas" ref="https://d-nb.info/gnd/1055313451" xml:id="Bae_TB_6_2672">Sir Thomas Sanderson</persName>, in 
@@ -3904,12 +3902,12 @@
           <choice xml:id="Bae_TB_6_2725">
             <abbr xml:id="Bae_TB_6_2726">u.</abbr>
             <expan xml:id="Bae_TB_6_2727">und</expan>
-          </choice> Gesandtschaften gefunden, aber es fehlt jeder Zug, jede Einheit, 
+          </choice> Gesandtschaften gefunden, aber es fehlt jeder Zug, jede Einheit, <app from="#Bae_MF_4_2058" type="equal"><rdg wit="Bae_MF_4">kontinuierlich wirkende Kraft, wie wir sie in London im Foreign Office in der Person des Sir Thomas Sanderson, in Paris am Quai d’Orsay in der Person des Herrn Louis, in Berlin in der Person des Herrn von Körner gefunden haben. Mit wenigen glänzenden Ausnahmen sind auch unsere österreichischen Beamten unfähig. Der preussische Finanzminister v.von Rheinbaben hat soeben eine 6 wöchentliche "Studienreise" nach Amerika gemacht – in unsern Ministerien sitzen meist Minister und Sektionschefs, die ihr ganzes Leben nur auf der Ringstrasse spazierengegangen sind. 3) Die ganze Verbindung zwischen unsern Vertretungen im Auslande und Wien muß reorganisiert werden. Es handelt sich nicht darum, daß ein Botschaftsrat Berichte über Dinge schreibt, die ihm gerade wichtig scheinen und die er – mehr weniger glücklich – aufgreift. Das Ministerium des aeussern muss systematische, regelmäßige Berichte über die ganze handelspolitische Richtung im allgemeinen und in den wichtigen Details bekommen und muß aber auch seinerseits fortlaufend auf diese Berichte eingehend und sachlich reagieren, damit auch der Botschaftsrat weiß, was für die heimatliche Politik zu wissen notwendig ist. Und alles das rechtzeitig! Man hat mich und Hieronymi gerade um 1 1/2 Jahre zu spät ausgeschickt. In Berlin und London hat man uns das offen gesagt. Ich habe ausgezeichnet befähigte Männer bei unseren Botschaften und Gesandtschaften gefunden, aber es fehlt jeder Zug, jede Einheit,</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_2728"/>
         <!-- CA: anchor für addspan 34v -->
         <pb facs="#F_K-4_Bae_TB_6_072" n="35r" xml:id="Bae_TB_6_2729"/>
-        <p xml:id="Bae_TB_6_2730">Ich mag recht 
+        <p xml:id="Bae_TB_6_2730"><anchor/>Ich mag recht 
           <choice xml:id="Bae_TB_6_2731">
             <abbr xml:id="Bae_TB_6_2732">o.</abbr>
             <expan xml:id="Bae_TB_6_2733">oder</expan>
@@ -3917,7 +3915,7 @@
           <choice xml:id="Bae_TB_6_2734">
             <abbr xml:id="Bae_TB_6_2735">u.</abbr>
             <expan xml:id="Bae_TB_6_2736">und</expan>
-          </choice> dadurch die Ehre unserer Gesetzgebung gerettet zu haben, – dieses Verdienst können wir uns mit vollem Recht zuschreiben. 
+          </choice> dadurch die Ehre unserer Gesetzgebung gerettet zu haben, – dieses Verdienst können wir uns mit vollem Recht zuschreiben. <app from="#Bae_MF_4_2011" type="equal"><rdg wit="Bae_MF_4">Ich mag recht oder unrecht gehabt haben, die Mission in Betreff einer von vornherein verlorenen Sache zu übernehmen, von großem Nutzen war sie in einem Punkt. Unsere Gesetzgebung hatte Zweifel an unserer bona fides wachgerufen. Diese gründlich zerstört zu haben und dadurch die Ehre unserer Gesetzgebung gerettet zu haben – dieses Verdienst können wir uns mit vollem Recht zuschreiben.</rdg></app>
         </p>
         <!-- DC: Brief an Aehrenthal von fol. 32v bis 37v -->
         <anchor xml:id="Bae_TB_6_2737"/>
@@ -3960,11 +3958,11 @@
         <app from="#_079" type="insert" xml:id="Bae_TB_6_2765">
           <rdg xml:id="Bae_TB_6_2766">[...]</rdg>
         </app>
-        <p xml:id="Bae_TB_6_2767">
+        <p xml:id="Bae_TB_6_2767"><anchor/>
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_6_2768">Carlsbad</placeName>
-          <date when="1903-07-25" xml:id="Bae_TB_6_2769">25. Juli 1903</date>. 
+          <date when="1903-07-25" xml:id="Bae_TB_6_2769">25. Juli 1903</date>.<app from="#Bae_MF_4_2215" type="missing"><rdg wit="Bae_MF_4"></rdg></app> 
         </p>
-        <p xml:id="Bae_TB_6_2770">
+        <p xml:id="Bae_TB_6_2770"><anchor/>
           <persName key="LandesbergerJulius" ref="https://d-nb.info/gnd/136170862" xml:id="Bae_TB_6_2771">Dr. Landesberger</persName> hat mir heute eine Mitteilung gemacht die die 
           <index xml:id="Bae_TB_6_2772">
             <term key="Zuckerfrage" xml:id="Bae_TB_6_2773">"Zuckerfrage"</term>
@@ -3975,11 +3973,11 @@
           <index xml:id="Bae_TB_6_2777">
             <term key="ZuckerKontingentierung" xml:id="Bae_TB_6_2778">Contingentirungsfrage</term>
           </index> in 
-          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2779">Paris</placeName> Fühlung zu nehmen. Er berichtet: ganze 
+          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2779">Paris</placeName> Fühlung zu nehmen. Er <app from="#Bae_MF_4_2219" type="equal"><rdg wit="Bae_MF_4">Dr. Landesberger hat mir heute eine Mitteilung gemacht die die "Zuckerfrage" sehr eigentümlich ergänzt. Er hat Verbindungen in Paris. Wurde im April vom Finanzministerium ersucht, in der Kontingentierungsfrage in Paris Fühlung zu nehmen. Er</rdg></app><anchor/>berichtet: <app from="#Bae_MF_4_2231" type="notEqual"><rdg wit="Bae_MF_4">berichtete:</rdg></app><anchor/>ganze 
           <index xml:id="Bae_TB_6_2780">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_2781">Brüsseler Convention</term>
           </index> ist von 
-          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2782">Paris</placeName> ausgegangen. Die grossen Raffineure fürchteten das Erstarken der deutschen 
+          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2782">Paris</placeName> ausgegangen. Die grossen <app from="#Bae_MF_4_2235" type="equal"><rdg wit="Bae_MF_4">ganze Brüsseler Konvention ist von Paris ausgegangen. Die großen</rdg></app><anchor/>Raffineure <app from="#Bae_MF_4_2241" type="notEqual"><rdg wit="Bae_MF_4">Raffinerien</rdg></app><anchor/>fürchteten das Erstarken der deutschen 
           <choice xml:id="Bae_TB_6_2783">
             <abbr xml:id="Bae_TB_6_2784">u.</abbr>
             <expan xml:id="Bae_TB_6_2785">und</expan>
@@ -3988,11 +3986,11 @@
             <abbr xml:id="Bae_TB_6_2787">öst.</abbr>
             <expan xml:id="Bae_TB_6_2788">österreichischen</expan>
           </choice> Zuckerraffinerie unter der Herrschaft des Prämiensystems. Dazu das Interesse der französischen Fiscus, die hohen Prämiensummen los zu werden. Ausserdem soll ein grosses Projekt bezüglich Zuckerproduktion in 
-          <placeName key="Aegypten" ref="https://www.geonames.org/357994/egypt.html" xml:id="Bae_TB_6_2789">Egypten</placeName> mitgespielt haben. 
+          <placeName key="Aegypten" ref="https://www.geonames.org/357994/egypt.html" xml:id="Bae_TB_6_2789">Egypten</placeName> mitgespielt haben.<app from="#Bae_MF_4_2244" type="equal"><rdg wit="Bae_MF_4">fürchteten das Erstarken der deutschen und österrreichischen Zuckerraffinerien unter der Herrschaft des Prämiensystems. Dazu das Interesse der französischen Fiskus, die hohen Prämiensummen los zu werden. Ausserdem soll ein großes Projekt bezüglich Zuckerproduktion in Egypten mitgespielt haben.</rdg></app> 
         </p>
         <pb facs="#F_K-4_Bae_TB_6_073" n="35v" xml:id="Bae_TB_6_2790"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2791"/>
-        <p xml:id="Bae_TB_6_2792">jede Direktive. Alles lamentirt. Alles lässt die Flügel hängen. Es ist ja wahr, dass wir in die grossen Weltereignisse nicht mehr bestimmend eingreifen können, auch wirtschaftlich nicht – aber handels 
+        <p xml:id="Bae_TB_6_2792"><anchor/>jede <app from="#Bae_MF_4_2085" type="equal"><rdg wit="Bae_MF_4">jede</rdg></app><anchor/>Direktive. <app from="#Bae_MF_4_2088" type="notEqual"><rdg wit="Bae_MF_4">Direktion.</rdg></app><anchor/>Alles lamentirt. Alles lässt die Flügel hängen. Es ist ja wahr, dass wir in die grossen Weltereignisse nicht mehr bestimmend eingreifen können, <app from="#Bae_MF_4_2091" type="equal"><rdg wit="Bae_MF_4">Alles lamentiert. Alles läßt die Flügel hängen. Es ist ja wahr, daß wir in die großen Weltereignisse nicht mehr bestimmend eingreifen können,</rdg></app><anchor/>auch wirtschaftlich nicht – <app from="#Bae_MF_4_2094" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>aber handels 
           <choice xml:id="Bae_TB_6_2793">
             <abbr xml:id="Bae_TB_6_2794">u.</abbr>
             <expan xml:id="Bae_TB_6_2795">und</expan>
@@ -4054,12 +4052,12 @@
             <index xml:id="Bae_TB_6_2838">
               <term key="Paragraph14" xml:id="Bae_TB_6_2839"/>
             </index>
-          </index> angelangt, ganz am selben Fleck wie vor 3 1/2 Jahren, nur sind in- 
+          </index> angelangt, ganz am selben Fleck wie vor 3 1/2 Jahren, nur sind in-<app from="#Bae_MF_4_2098" type="equal"><rdg wit="Bae_MF_4">aber handels- und wirtschaftspolitisch bedeuten wir immer noch etwas und reiche, nützliche, eifrige Betätigung unserer Vertreter im Auslande wäre möglich, wenn nicht alle Leitseile gerissen wären. Und doch ist die Wirtschaftspolitik (im weitesten Sinne) das Agens, das Triebrad der ganzen Politik. Sie muß man bis in die letzten Motive und Chancen studieren und richtig beurteilen. Da scheint es mir allerdings, daß die Erziehung unserer jungen Diplomaten zu diesem Zwecke viel zu wünschen übrig lässt. Was einer wird, wird er allein durch sich selbst. Systematische Schulung verzweifelt wenig. Viel zu viel Inzucht, Protektionswesen und Kastengeist. Verzeihen Sie diese Expektorationen, aber ich könnte jedes Wort mit vollen Beweisen belegen und überdies weiß ich, daß Sie einer der Wenigen sind, die sich über unsere Schäden nicht absichtlich täuschen wollen. Gerade deswegen erlauben Sie mir noch ein Wort über unsere innern Zustände. Der Kriegsminister soll gestern zu jemanden gesagt haben: wir sind heute dort, wo Preussen im Jahre 1807 nach Jena war, bei der Auflösung und Desertion. Die konservativsten Menschen reden am ärgsten. Die Rückwirkung, die die ungarischen Zustände auf unsere österreichischen haben wird, insbesondere auf den Dualismus sind noch gar nicht abzusehen. Wir sind heute hier in Oesterreich wieder beim § 14 angelangt, ganz am selben Fleck wie vor 3 1/2 Jahren, nur sind in-</rdg></app> 
         </p>
         <anchor xml:id="Bae_TB_6_2840"/>
         <!-- CA: anchor für den addspan 35v -->
         <pb facs="#F_K-4_Bae_TB_6_074" n="36r" xml:id="Bae_TB_6_2841"/>
-        <p xml:id="Bae_TB_6_2842">Die 
+        <p xml:id="Bae_TB_6_2842"><anchor/>Die 
           <choice xml:id="Bae_TB_6_2843">
             <abbr xml:id="Bae_TB_6_2844">franz.</abbr>
             <expan xml:id="Bae_TB_6_2845">französische</expan>
@@ -4089,21 +4087,21 @@
           <choice xml:id="Bae_TB_6_2863">
             <abbr xml:id="Bae_TB_6_2864">insbes.</abbr>
             <expan xml:id="Bae_TB_6_2865">insbesondere</expan>
-          </choice> aber wurde 
-          <hi rendition="#ul" xml:id="Bae_TB_6_2866">ich</hi>, der gerade im Begriff war meine Rundreise zu machen von alledem 
+          </choice> aber <app from="#Bae_MF_4_2251" type="equal"><rdg wit="Bae_MF_4">Die französische Regierung wollte aber mit der österreichisch-ungarischen sich von vornherein ins Einvernehmen setzen. Die Reise von Ives-Guyot vor 2 Jahren hatte diesen Zweck. Er wurde aber in Wien von Böhm sehr kühl empfangen und man nahm die Sache nicht auf. In diesem Frühjahr wurde – schon nach Votierung des Kontingentierungsgesetzes – Dr. Landesberger nach Paris geschickt, konferierte mit einer Reihe von Personen und kam mit einem Vermittlungsvorschlag nach Wien zurück. Dies wurde aber nicht weiter beachtet, insbesondere aber</rdg></app><anchor/>wurde 
+          <hi rendition="#ul" xml:id="Bae_TB_6_2866">ich</hi>, der gerade im Begriff war meine <app from="#Bae_MF_4_2262" type="notEqual"><rdg wit="Bae_MF_4">wurden Hieronymi und ich, die gerade im Begriff waren, unsere</rdg></app><anchor/>Rundreise zu machen von alledem 
           <hi rendition="#ul" xml:id="Bae_TB_6_2867">nicht</hi> in Kenntniss gesetzt. 
           <persName key="LandesbergerJulius" ref="https://d-nb.info/gnd/136170862" xml:id="Bae_TB_6_2868">Landesberger</persName> meint, dass man zuerst hätte nach 
-          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2869">Paris</placeName> gehen sollen. Ich fixire dies hier nur, 
+          <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2869">Paris</placeName> gehen sollen. Ich <app from="#Bae_MF_4_2266" type="equal"><rdg wit="Bae_MF_4">Rundreise zu machen, von alledem nicht in Kenntnis gesetzt. Landesberger meint, daß man zuerst hätte nach Paris gehen sollen. Ich</rdg></app><anchor/>fixire <app from="#Bae_MF_4_2271" type="notEqual"><rdg wit="Bae_MF_4">fixierte</rdg></app><anchor/>dies hier nur, 
           <add place="across" xml:id="Bae_TB_6_2870">um</add> zu beweisen, wie 
-          <hi rendition="#ul" xml:id="Bae_TB_6_2871">zusammenhanglos</hi> das Vorgehen unserer Regierung in dieser Frage war, die alle möglichen Leute in der Sache engagirte, ohne sie untereinander in Verbindung zu setzen. 
+          <hi rendition="#ul" xml:id="Bae_TB_6_2871">zusammenhanglos</hi> das Vorgehen unserer Regierung in dieser Frage war, die alle möglichen Leute in der Sache engagirte, ohne sie untereinander in Verbindung zu setzen.<app from="#Bae_MF_4_2274" type="equal"><rdg wit="Bae_MF_4">dies hier nur, um zu beweisen, wie zusammenhanglos das Vorgehen unserer Regierung in dieser Frage war, die alle möglichen Leute in der Sache engagierte, ohne sie untereinander in Verbindung zu setzen.</rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_2872">
+        <p xml:id="Bae_TB_6_2872"><anchor/>
           <placeName key="Karlsbad" ref="https://www.geonames.org/3073803/karlovy-vary.html" xml:id="Bae_TB_6_2873">Carlsbad</placeName>
-          <date when="1903-07-30" xml:id="Bae_TB_6_2874">30.7.1903</date>
+          <date when="1903-07-30" xml:id="Bae_TB_6_2874">30.7.1903</date><app from="#Bae_MF_4_2279" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_075" n="36v" xml:id="Bae_TB_6_2875"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2876"/>
-        <p xml:id="Bae_TB_6_2877">zwischen viele Millionen vergeudet 
+        <p xml:id="Bae_TB_6_2877"><anchor/>zwischen viele Millionen vergeudet 
           <choice xml:id="Bae_TB_6_2878">
             <abbr xml:id="Bae_TB_6_2879">u.</abbr>
             <expan xml:id="Bae_TB_6_2880">und</expan>
@@ -4164,7 +4162,7 @@
           <choice xml:id="Bae_TB_6_2921">
             <abbr xml:id="Bae_TB_6_2922">u.</abbr>
             <expan xml:id="Bae_TB_6_2923">und</expan>
-          </choice> zu diesem Zwecke auch zusammengehen wollen. Die Raillirung der Deutschen ist zu diesem Zwecke geschehen. Die Politik der Conzessionen muss aber 
+          </choice> zu diesem Zwecke auch zusammengehen wollen. Die Raillirung der Deutschen ist zu diesem Zwecke geschehen. Die Politik der Conzessionen muss aber <app from="#Bae_MF_4_2116" type="equal"><rdg wit="Bae_MF_4">zwischen viele Millionen vergeudet und unser Budget ruiniert worden. Diejenige, die von jeher gesagt haben, daß man einen großen Staat nicht bloß mit der Tages-Opportunität regieren kann, sind verlacht oder als Störenfriede verschimpft worden. Sie haben blutig recht behalten. Wir brauchen Ausgleich und Zolltarif wie einen Bissen Brod und doch hat, unläugbar beeinflußt durch die Erfolge Kossuths, die čechische Obstruktion wieder unerbittlich eingesetzt, so daß vorläufig wieder die ganze Maschine zum Stillstand gekommen ist. Die Geschichte der ungarischen Kabinettsbildung steht einzig da. Man muß in der Politik ja manchmal nachgeben, aber zwischen einer klugen Vermittlung, wie sie Szell geübt hat und auch jetzt wieder geübt hätte und dem was geschehen ist, ist ein niederschmetternder Unterschied. Khuen ist ein Mann, der schon in Kroatien vor keinem Mittel zurückgeschreckt ist, er wird, falls er sich halten kann, der ungarische Taaffe werden. Hier in Oesterreich wäre immer noch nicht alles verloren. Das Abgeordnetenhaus, das von der Regierung offiziell immer verschimpft wird, enthält in der überwiegendsten Majorität Männer die Ordnung machen wollen und zu diesem Zwecke auch zusammengehen wollen. Die Raillierung der Deutschen ist zu diesem Zwecke geschehen. Die Politik der Konzessionen muß aber</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_2924"/>
         <!-- CA: anchor für den addspan 36v -->
@@ -4172,7 +4170,7 @@
         <note type="editorial" xml:id="Bae_TB_6_2926">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_6_076" n="37ar" xml:id="Bae_TB_6_2927"/>
         <addSpan spanTo="#" type="insert" xml:id="Bae_TB_6_2928"/>
-        <p xml:id="Bae_TB_6_2929">
+        <p xml:id="Bae_TB_6_2929"><anchor/>
           <add place="across" xml:id="Bae_TB_6_2930">Antwort 
             <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_6_2931">Ährenthals</persName>
           </add>
@@ -4195,13 +4193,13 @@
           </choice> möchte einen Conflict mit den 
           <index xml:id="Bae_TB_6_2945">
             <term key="InternationaleBruesselerZuckerkonvention" xml:id="Bae_TB_6_2946">Brüsseler Conventions-Staaten</term>
-          </index> vermeiden. 
+          </index> vermeiden. <app from="#Bae_MF_4_2163" type="equal"><rdg wit="Bae_MF_4">Antwort Aehrenthals. St. Petersburg, 20/7. Juli 1903. Verehrte Exzellenz! Besten Dank für den durch Musulin mir überbrachten Brief. Wie nicht anders zu erwarten, endet die Zuckerfrage mit einem schämhlichen[!] Fiasko! Mein Bruder wird Ihnen einen Bericht zukommen lassen, über das neueste russische Zucker Regulativ, welches bezweckt, die Ausfuhr von Sandzucker de facto unmöglich zu machen. Witte hat sich auch etwas verhaut und möchte einen Konflikt mit den Brüsseler Konventions-Staaten vermeiden.</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_2947"/>
         <!-- CA: anchor für addspan 37ar -->
         <pb facs="#F_K-4_Bae_TB_6_077" n="37av" xml:id="Bae_TB_6_2948"/>
         <addSpan spanTo="#" type="insert" xml:id="Bae_TB_6_2949"/>
-        <p xml:id="Bae_TB_6_2950">Die 
+        <p xml:id="Bae_TB_6_2950"><anchor/>Die 
           <hi rendition="#ul" xml:id="Bae_TB_6_2951">deutschen</hi> Wünsche in puncto 
           <index xml:id="Bae_TB_6_2952">
             <term key="OesterreichUngarn" xml:id="Bae_TB_6_2953">Handelsvertrag</term>
@@ -4218,7 +4216,7 @@
           <choice xml:id="Bae_TB_6_2961">
             <abbr xml:id="Bae_TB_6_2962">u.</abbr>
             <expan xml:id="Bae_TB_6_2963">und</expan>
-          </choice> deckt sich durchaus mit meinen Erfahrungen. - Doch dieser Zustand entspringt aus der falschen 
+          </choice> deckt sich durchaus mit meinen Erfahrungen. - Doch dieser Zustand entspringt aus der falschen <app from="#Bae_MF_4_2181" type="equal"><rdg wit="Bae_MF_4">Die deutschen Wünsche in puncto Handelsvertrag werden hier im Finanz-Ministerium studiert. Damit dürfte man bis Anfang August fertig werden und dann seinerseits die russischen desiderata auf schriftlichem Wege nach Berlin übermitteln. – Was Sie über die Leitung unserer Handelspolitik gegenüber dem Auslande sagen, ist mir aus der Seele gesprochen und deckt sich durchaus mit meinen Erfahrungen. - Doch dieser Zustand entspringt aus der falschen</rdg></app>
           <anchor xml:id="Bae_TB_6_2964"/>
           <!-- CA: anchor für addspan 37av -->
           <pb facs="#F_K-4_Bae_TB_6_078" n="37br" xml:id="Bae_TB_6_2965"/>
@@ -4246,11 +4244,11 @@
           <choice xml:id="Bae_TB_6_2981">
             <abbr xml:id="Bae_TB_6_2982">u.</abbr>
             <expan xml:id="Bae_TB_6_2983">und</expan>
-          </choice> Polen verfolgen eine Art Erpressungspolitik und die 
+          </choice> Polen verfolgen eine Art Erpressungspolitik und die <app from="#Bae_MF_4_2196" type="equal"><rdg wit="Bae_MF_4">Position, die das Ministerium des Aeussern in Wien und Budapest einnimmt. Die Verschärfung der ungarischen Krise könnte ihre gute Seite haben, wenn .....! Es ist jetzt klar, wohin der Kurs geht. – Betrübend war das Stillschweigen des österreichischen Reichsrates zu der aufgeworfenen Reichsfrage. Die Abgeordneten überlassen es einem Beamtenministerium die wichtigsten materiellen wie moralischen Interessen des Staates zu schützen! Die Čechen und Polen verfolgen eine Art Erpressungspolitik und die</rdg></app>
           <anchor xml:id="Bae_TB_6_2984"/>
           <!-- CA: anchor für addspan 37br -->
           <pb facs="#F_K-4_Bae_TB_6_079" n="37bv" xml:id="Bae_TB_6_2985"/>
-          <addSpan xml:id="Bae_TB_6_2986"/>Deutschen denken nur an den Schutz der eigenen Nationalität. Hierdurch erhält die allgemeine Situation noch mehr ein hippokratisches Gesicht. Auf wen soll sich die 
+          <addSpan xml:id="Bae_TB_6_2986"/><anchor/>Deutschen denken nur an den Schutz der eigenen Nationalität. Hierdurch erhält die allgemeine Situation noch mehr ein hippokratisches Gesicht. Auf wen soll sich die 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_6_2987">Krone</persName> stützen, in ihrem Widerstande gegen die Sondergelüste 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_6_2988">Ungarns</placeName>? Sie werden mir antworten eine zielbewusste Politik der thatkräftigen Männer in Scene gesetzt, würde Wandel schaffen! Wo sind letztere? – 
         </p>
@@ -4259,18 +4257,18 @@
         </p>
         <p xml:id="Bae_TB_6_2991">Beste Grüße Ihr ergebener</p>
         <p xml:id="Bae_TB_6_2992">
-          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_6_2993">L Aehrenthal</persName>. 
+          <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_6_2993">L Aehrenthal</persName>.<app from="#Bae_MF_4_2205" type="equal"><rdg wit="Bae_MF_4">Deutschen denken nur an den Schutz der eigenen Nationalität. Hierdurch erhält die allgemeine Situation noch mehr ein hippokratisches Gesicht. Auf wen soll sich die Krone stützen, in ihrem Widerstande gegen die Sondergelüste Ungarns? Sie werden mir antworten eine zielbewußte Politik der tatkräftigen Männer in Szene gesetzt, würde Wandel schaffen! Wo sind letztere? – Ich hoffe, daß Sie mit dem Verlauf der Karlsbader Kur zufrieden sein werden. Beste Grüße Ihr ergebener Aehrenthal.</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_2994"/>
         <!-- CA: anchor für addspan 37bv -->
         <pb facs="#F_K-4_Bae_TB_6_081" n="37v" xml:id="Bae_TB_6_2995"/>
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2996"/>
-        <p xml:id="Bae_TB_6_2997">aufhören 
+        <p xml:id="Bae_TB_6_2997"><anchor/>aufhören 
           <choice xml:id="Bae_TB_6_2998">
             <abbr xml:id="Bae_TB_6_2999">u.</abbr>
             <expan xml:id="Bae_TB_6_3000">und</expan>
           </choice> ein modus vivendi mit den Czechen ernstlich angestrebt werden. Im 
-          <date when="1902-12" xml:id="Bae_TB_6_3001">December</date> waren wir nahe daran, aber die Regierung, die immer einen Zusammenschluss der Parteien fürchtet, hat die Sache fallen lassen. Auch hat sie die Versuche des 
+          <date when="1902-12" xml:id="Bae_TB_6_3001">December</date> waren wir nahe daran, aber die Regierung, die immer einen Zusammenschluss der Parteien fürchtet, hat die Sache fallen lassen. Auch hat sie die Versuche <app from="#Bae_MF_4_2140" type="equal"><rdg wit="Bae_MF_4">aufhören und ein modus vivendi mit den Čechen ernstlich angestrebt werden. Im Dezember waren wir nahe daran, aber die Regierung, die immer einen Zusammenschluß der Parteien fürchtet, hat die Sache fallen lassen. Auch hat sie die Versuche</rdg></app><anchor/>des 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_6_3002">Herrenhauses</orgName>
           <choice xml:id="Bae_TB_6_3003">
             <abbr xml:id="Bae_TB_6_3004">u.</abbr>
@@ -4283,9 +4281,9 @@
               <term key="Geschaeftsordnung" xml:id="Bae_TB_6_3010"/>
             </index>
           </index> zu verbessern aus denselben Gründen hintertrieben 
-          <add place="across" xml:id="Bae_TB_6_3011">nicht ausgenützt</add>. 
+          <add place="across" xml:id="Bae_TB_6_3011">nicht ausgenützt</add>. <app from="#Bae_MF_4_2147" type="notEqual"><rdg wit="Bae_MF_4">die Geschäftsordnung zu verbessern, direkt verhindert.</rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_3012">Modus vivendi mit den Czechen 
+        <p xml:id="Bae_TB_6_3012"><anchor/>Modus vivendi mit den Czechen 
           <choice xml:id="Bae_TB_6_3013">
             <abbr xml:id="Bae_TB_6_3014">u.</abbr>
             <expan xml:id="Bae_TB_6_3015">und</expan>
@@ -4295,12 +4293,12 @@
             <index xml:id="Bae_TB_6_3018">
               <term key="Geschaeftsordnung" xml:id="Bae_TB_6_3019"/>
             </index>
-          </index> – das ist bei uns der einzig mögliche Weg! Freilich sind das nur die äussern Hebel für eine Besserung. Aber glauben Sie mir, man lechzt nach einer Politik, die nach gewissen Grundsätzen vorgeht. An der heutigen Unordnung haben nicht einmal die Radicalen ein Interesse. 
+          </index> – das ist bei uns der einzig mögliche Weg! Freilich sind das nur die äussern Hebel für eine Besserung. Aber glauben Sie mir, man lechzt nach einer Politik, die nach gewissen Grundsätzen vorgeht. An der heutigen Unordnung haben nicht einmal die Radicalen ein Interesse. <app from="#Bae_MF_4_2155" type="equal"><rdg wit="Bae_MF_4">Modus vivendi mit den Čechen und Reform der Geschäftsordnung – das ist bei uns der einzig mögliche Weg! Freilich sind das nur die äussern Hebel für eine Besserung. Aber glauben Sie mir, man lechzt nach einer Politik, die nach gewissen Grundsätzen vorgeht. An der heutigen Unordnung haben nicht einmal die Radikalen ein Interesse.</rdg></app>
         </p>
       </div>
       <pb facs="#F_K-4_Bae_TB_6_082" n="38r" xml:id="Bae_TB_6_3020"/>
       <div n="1903-09-04" type="diaryEntry" xml:id="Bae_TB_6_3021">
-        <p xml:id="Bae_TB_6_3022">
+        <p xml:id="Bae_TB_6_3022"><anchor/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_6_3023">Wien</placeName> - 
           <placeName key="Tirol" ref="https://www.geonames.org/2763587/tyrol.html" xml:id="Bae_TB_6_3024">Tyrol</placeName> - 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_6_3025">Wien</placeName>. 
@@ -4385,10 +4383,10 @@
             <expan xml:id="Bae_TB_6_3089">und</expan>
           </choice> die Windungen der Straße kühner, wilder als auf der tyroler Seite. In 
           <placeName key="Bormio" ref="https://www.geonames.org/6536122/bormio.html" xml:id="Bae_TB_6_3090">Bormio</placeName> fing es an zu regnen. Im Addatal ging es rasch nach 
-          <placeName key="Tirano" ref="https://www.geonames.org/6539619/tirano.html" xml:id="Bae_TB_6_3091">Tirano</placeName> unter Strömen. Die Fahrt muss bei schönem Wetter 
+          <placeName key="Tirano" ref="https://www.geonames.org/6539619/tirano.html" xml:id="Bae_TB_6_3091">Tirano</placeName> unter Strömen<app from="#Bae_MF_4_2293" type="equal"><rdg wit="Bae_MF_4">Wien - Tirol - Wien. In wenigen Tagen sehr viel schöne Natur genossen und politische Ratlosigkeit und Unverstand erduldet. Fuhr am 20. August nach Wien, war bei Körber, Multa, non multum. Kleinliche Schadenfreude über die ungarischen Verhältnisse, keine Spur einer Idee, was eigentlich werden soll. War sehr höflich, also sehr unsicher. Schrieb an Gross und Derschatta wegen Zusammentritts des 4. Ausschusses. Hatte bis Ende August Zeit, fuhr nach Innsbruck. Am 23. früh 6 Uhr bei herrlichem Wetter nach Landeck, wo mir der Postmeister sehr guten leichten Wagen mit zwei guten Pferden vermietete für ein paar Tage. Sofort nach Finstermünz. Prachtvolle Straße. Dann noch höher durch Nauders nach Reschen-Scheideck. An den Hochseen vorbei leider bei Wind und sich bewölkendem Himmel nach Mals. Dorfwirtshaus, alttirolerisch. Preisverteilung nach einem Schießen. Anderntags (24.) nach Sulden. Herrliches Wetter. Prachtvolle Aussicht des Ortler und der Königsspitze. Auf dem Wege traf ich Monts, der mir in der Geschwindigkeit versicherte, daß er Goluchowski für total unfähig halte. Abends in Trafoi. Spaziergang zu den heiligen drei Brunnen, wo ich vor 20 Jahren gewesen. Neben dem Kirchlein steht jetzt ein Wirtshaus und die drei heiligen Brunnen sind in einem Bretterschupfen. Poesie des Ortes, der so einsam und großartig war – dahin! Frühmorgens (25) auf. Stilvfser Joch. Wolken, Sonne, Gletscher, ragende Felsen. Immer wechselnde Ansichten, alle gleich groß und erhaben. Gab Idee durchs Münstertal die neue Strasse zu fahren auf und wendete mich nach Bormio. Die italienische Seite ohne Gletscheransichten, ohne Vegetation, aber die Zerklüftung der Felsen und die Windungen der Straße kühner, wilder als auf der tiroler Seite. In Bormio fing es an zu regnen. Im Addatal ging es rasch nach Tirano unter Strömen</rdg></app><anchor/><app from="#Bae_MF_4_2334" type="missing"><rdg wit="Bae_MF_4">von Regen</rdg></app><anchor/>. Die Fahrt muss bei schönem Wetter<app from="#Bae_MF_4_2337" type="equal"><rdg wit="Bae_MF_4">Die Fahrt muß bei schönem Wetter</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_083" n="38v" xml:id="Bae_TB_6_3092"/>
-        <p xml:id="Bae_TB_6_3093">Gerade in den 
+        <p xml:id="Bae_TB_6_3093"><anchor/>Gerade in den 
           <choice xml:id="Bae_TB_6_3094">
             <abbr xml:id="Bae_TB_6_3095">italien.</abbr>
             <expan xml:id="Bae_TB_6_3096">italienischen</expan>
@@ -4411,23 +4409,23 @@
           <choice xml:id="Bae_TB_6_3109">
             <abbr xml:id="Bae_TB_6_3110">zw.</abbr>
             <expan xml:id="Bae_TB_6_3111">zwischen</expan>
-          </choice> dem ziemlich schäbig angezogenen Tyroler mit dem was diese Leute sich offenbar unter einem Banquier vorstellen, nicht groß. 
+          </choice> dem ziemlich schäbig angezogenen Tyroler mit dem was diese Leute sich offenbar unter einem Banquier vorstellen, nicht groß.<app from="#Bae_MF_4_2347" type="equal"><rdg wit="Bae_MF_4">Gerade in den italienischen Bergen habe ich, so oft ich mich da und dort aufhielt immer den heitern manchmal kindlichen Sinn der Italiener erfahren. Diesmal hatte ich kein italienisches Geld, daher mit meinem Kutscher, der damit versehen war abgemacht, daß er so lange wir in Italien fahren für mich bezahle. Als daher im "Leone" in Edolo das Mädchen mit der Rechnung kam, sagte ich ihr: il vetturino pagera egli è il mio banchiere – darüber die höchste Heiterkeit. Als sie mir die saldierte Rechnung wiederbrachte, sagte sie lachend: il banchiere a pagato und beim Wegfahren neigten sich Hausfrau, Mädchen und einige Buben vor dem Kutscher: addio signor banchiere, a rivederci. Allerdings war der Kontrast zwischen dem ziemlich schäbig angezogenen Tiroler mit dem, was diese Leute sich offenbar unter einem Banquier vorstellen, nicht groß.</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_3112"/>
         <!-- anchor für addspan 38v -->
         <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_3113"/>
         <pb facs="#F_K-4_Bae_TB_6_084" n="39r" xml:id="Bae_TB_6_3114"/>
-        <p xml:id="Bae_TB_6_3115">äusserst lieblich sein. Abend in 
+        <p xml:id="Bae_TB_6_3115"><anchor/>äusserst lieblich sein. Abend in 
           <placeName key="Tirano" ref="https://www.geonames.org/6539619/tirano.html" xml:id="Bae_TB_6_3116">Tirano</placeName> gut untergebracht. Anderntags 
           <date when="1903-08-26" xml:id="Bae_TB_6_3117">(26)</date> sehr zeitlich ausgefaren. Baumhoher Mais, Weinpflanzungen an den Berglehnen bis hoch hinauf. Wände von Wein. Am linken Ufer der Adda geht es in grossen Kehren gegen den Apricapass. Die herrlichsten Kastanien, die ich je gesehen. Ganze Wälder. Einzelne Prachtexemplare. Zu Mittag Ankunft in 
-          <placeName key="Edolo" ref="https://www.geonames.org/6537169/edolo.html" xml:id="Bae_TB_6_3118">Edolo</placeName>. Ausgezeichneten Veltliner Wein getrunken. 
+          <placeName key="Edolo" ref="https://www.geonames.org/6537169/edolo.html" xml:id="Bae_TB_6_3118">Edolo</placeName>. Ausgezeichneten Veltliner Wein getrunken. <app from="#Bae_MF_4_2340" type="equal"><rdg wit="Bae_MF_4">äusserst lieblich sein. Abend in Tirano gut untergebracht. Anderntags (26) sehr zeitlich ausgefahren. Baumhoher Mais, Weinpflanzungen an den Berglehnen bis hoch hinauf. Wände von Wein. Am linken Ufer der Adda geht es in großen Kehren gegen den Aprikapass. Die herrlichsten Kastanien, die ich je gesehen. Ganze Wälder. Einzelne Prachtexemplare. Zu Mittag Ankunft in Edolo. Ausgezeichneten Veltliner Wein getrunken.</rdg></app>
         </p>
         <!-- hier die Ergänzung von 38v -->
         <anchor xml:id="Bae_TB_6_3119"/>
         <app from="#_083" type="insertion" xml:id="Bae_TB_6_3120">
           <rdg xml:id="Bae_TB_6_3121">[...]</rdg>
         </app>
-        <p xml:id="Bae_TB_6_3122">Bei grosser Hitze nach 
+        <p xml:id="Bae_TB_6_3122"><anchor/>Bei grosser Hitze nach 
           <placeName key="PontediLegno" ref="https://www.geonames.org/6540193/ponte-di-legno.html" xml:id="Bae_TB_6_3123">Ponte di Legno</placeName>. Karawanserei. Um 5 Uhr früh 
           <date when="1903-08-27" xml:id="Bae_TB_6_3124">(27)</date> bei Dämmerung ausgefaren, über den Tonalpass. Herrliche Aussicht der 
           <placeName key="Presanella" ref="https://www.geonames.org/3169850/cima-presanella.html" xml:id="Bae_TB_6_3125">Persanella</placeName>. Die 
@@ -4598,11 +4596,11 @@
           <choice xml:id="Bae_TB_6_3254">
             <abbr xml:id="Bae_TB_6_3255">u.</abbr>
             <expan xml:id="Bae_TB_6_3256">und</expan>
-          </choice> ohne an Festigkeit es fehlen zu lassen – 
+          </choice> ohne an Festigkeit es fehlen zu lassen – <app from="#" type="equal"><rdg wit="Bae_MF_4">Bei großer Hitze nach Ponte di Legno. Karawanserei. Um 5 Uhr früh (27) bei Dämmerung ausgefahren, über den Tonalpass. Herrliche Aussicht der Presanella. Die Tiroler Orte im Vergleich mit den italienischen viel wohlhabender und reinlicher. In Malé habe ich meinen Kutscher verabschiedet, weil ich den Schnellzug, der um 3 Uhr Nachmittags von San Michele abgeht, erreichen wollte. Zahlte 300 Frcs. und nahm Postpferde. Von San Michele über Bozen und Innsbruck in einer Tour nach Aussee wo ich Morgens um 9 Uhr (den 28.) ankam, von Chlumetzky am Bahnhof erwartet. Herrliches Soolbad, dann sehr gutes Diner bei Chlumecky, wo ich Hartel, das Ehepaar Andrian und eine junge geistreiche Dame, geschiedene Frau traf, deren Namen ich aber vergessen habe.  Chlumetzky lobte mit Recht die Art, wie sich Szell nach seinem Rücktritt benommen. Armeekreise und Fejervary hatten den Kaiser ungeduldig gemacht und als Szell am 8. Juni nichts ahnend nach Wien kam, erfuhr er von der Audienz von Szechenyi (dem a latere), daß er im Begriff sei, seine Demission zu erhalten. Wenige Tage darauf trat er voll in die Bresche mit einer glänzenden Verteidigung der Krone. Bei seinem Abgang lehnte er Fackelzug und Ovationen mit der Drohung ab, er würde nach Ratot fahren und nie wiederkommen und nur er war es, der seine Ressortminister bewog, von einem zum andern fahrend, in das Kabinett Khuen zu treten, das ohne seine Intervention ebenso wenig zustande gekommen wäre wie das Kabinett Tisza. Trotz Bitternissen diese Loyalität! Ich hatte in Lünz ein Memoire über die Zolltrennung und ihre Folgen geschrieben und es auch Chlumetzky mitgeteilt. Er ging aber nicht recht darauf ein. Seine Gedanken sind bei der Trennung des Heeres, nicht daß er es wünschte, aber er berechnete, was dabei von Oesterreich gewonnen würde und rechnete eine Ersparnis von 20 Millionen Kronen heraus. Daß wir aber dabei die letzten Reste einer Machtstellung gefährden, darüber zuckte er die Achseln. Der Pessimismus, die Animosität gegen Ungarn, eine Haltlosigkeit in Allem und Jedem greift so um sich, daß es einem allgemeinen Auflösungsprozeß der bisherigen politischen Gedanken und Grundsätze gleichkommt. Nach Wien zurückgekehrt, fand ich in allen Köpfen nur ein Trümmerfeld. Von den "Folgen" der Trennung spricht jeder, überlegt hat sie keiner. Ich hatte mein Memoire über die Zolltrennung an Präsidenten Neumann, Marchet, Spitzmüller u.A. gesendet. Alle stimmten den Konklusionen zu, jeder warnte vor einer solchen Veröffentlichung! Körber spielt auf zwei Flöten. Seine Demissionsgeschichte, das Gewährenlassen (oder vielleicht die direkten Anweisungen) der Presse gegen Ungarn loszugehen erhöhen seine Popularität. Kommt er aber mit jemanden zusammen, dem die Zukunft des Staates doch höher steht als all der Pflanz, beteuert er in einem Ministerratsprotokoll zum ewigen Gedächtnis alle drohenden Folgen der Trennung niedergelegt zu haben. So deckt er sich nach zwei Seiten und wäscht seine Hände in Unschuld. Weder Goluchowski, der die Einsicht in die Sache hat, noch er haben aber einen festen Plan, jene Höhe der Auffassung, die notwendig ist, um trotz der ungarischen Provokationen und ohne an Festigkeit es fehlen zu lassen -</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_087" n="40v" xml:id="Bae_TB_6_3257"/>
         <addSpan xml:id="Bae_TB_6_3258"/>
-        <p xml:id="Bae_TB_6_3259">mich auf meiner Reise nach 
+        <p xml:id="Bae_TB_6_3259"><anchor/>mich auf meiner Reise nach 
           <placeName key="Tirol" ref="https://www.geonames.org/2763587/tyrol.html" xml:id="Bae_TB_6_3260">Tyrol</placeName> ein Stück begleitete sehr richtig die möglichen Perspektiven skizzirt: in 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_6_3261">Ungarn</placeName> ein Compromiss – bei uns der 
           <index xml:id="Bae_TB_6_3262">
@@ -4624,12 +4622,12 @@
               <term key="Ausgleich" xml:id="Bae_TB_6_3274"/>
             </index>
           </index> ja – Concessionen nein. Das habe ich zum Ausdruck gebracht. Die Antwort 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_6_3275">Körbers</persName> zeigt, dass wir ins Schwarze geschossen haben. 
+          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_6_3275">Körbers</persName> zeigt, dass wir ins Schwarze geschossen haben.<app from="#Bae_MF_4_2468" type="missing"><rdg wit="Bae_MF_4"></rdg></app> 
         </p>
         <anchor xml:id="Bae_TB_6_3276"/>
         <!-- CA: anchor für addspan 40v -->
         <pb facs="#F_K-4_Bae_TB_6_088" n="41r" xml:id="Bae_TB_6_3277"/>
-        <p xml:id="Bae_TB_6_3278">in dieser schweren Zeit die Gemeinsamkeit für alle Fälle zu retten. 
+        <p xml:id="Bae_TB_6_3278"><anchor/>in dieser schweren Zeit die Gemeinsamkeit für alle Fälle zu retten. 
           <persName key="GoluchowskiAgenor" ref="https://d-nb.info/gnd/1011172178" xml:id="Bae_TB_6_3279">
             <choice xml:id="Bae_TB_6_3280">
               <abbr xml:id="Bae_TB_6_3281">Golu</abbr>
@@ -4690,12 +4688,11 @@
             <choice xml:id="Bae_TB_6_3322">
               <abbr xml:id="Bae_TB_6_3323">Septbr.</abbr>
               <expan xml:id="Bae_TB_6_3324">September</expan>
-            </choice> 1903 
-          </date>. 
+            </choice> 1903</date>. <app from="#Bae_MF_4_2434" type="equal"><rdg wit="Bae_MF_4">in dieser schweren Zeit die Gemeinsamkeit für alle Fälle zu retten. Goluchowski antwortete mir auf meine Besorgnisse, es sei lächerlich an eine Trennung zu denken. Dem Kaiser falle es nicht ein einzuwilligen, das sei keine Frage. Was Körber will, weiß man nie. Er auch nicht, denn ein Ziel verfolgt er nie, nur hat er eine feine bisher unfehlbare Spürnahe [!] dafür, wo er irgendwo herausschlüpfen kann. Hartel traf ich bei der Verfassung einer "Note" an Goluchowski. Unglaublich! Er erzählte mir, daß Goluchowski das Veto bei der Papstwahl habe ausüben lassen, ohne vorher mit Körber oder Hartel zu sprechen. Die ganze Affaire ging über den Kopf des Ministeriums weg. Zuerst wandte sich Goluchowski an Gruscha, der ablehnte, dann übernahm es Puzyna den Auftrag auszuführen. Aber wie er ausgeführt wurde, in welcher Form, davon weiß Hartel nur durch die Zeitungen und daher die "Note". Goluchowski hatte die Papstwal dem Kaiser gegenüber als großen Erfolg Oesterreichs gerühmt. Der Kultusminister weiß aber von der Sache nur durch die Zeitungen! So wird bei uns regiert! Lünz den 4. September 1903.</rdg></app>
         </p>
       </div>
       <div n="1903-09-10" type="diaryEntry" xml:id="Bae_TB_6_3325">
-        <p xml:id="Bae_TB_6_3326">Conferenzen im 
+        <p xml:id="Bae_TB_6_3326"><anchor/>Conferenzen im 
           <date when="1903-09" xml:id="Bae_TB_6_3327">
             <choice xml:id="Bae_TB_6_3328">
               <abbr xml:id="Bae_TB_6_3329">Septbr.</abbr>
@@ -4726,7 +4723,7 @@
           </index> ratificirte Alles. 
           <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_6_3346">Derschatta</persName> schwieg, froh wegen des Vorsitzes eine Meinung nicht äussern zu müssen. Den Tenor der ganzen Enunciation hatte ich ausgegeben. 
           <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_6_3347">Marchet</persName> hatte mir auf der Fahrt von 
-          <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_6_3348">Waidhofen</placeName>, von wo er 
+          <placeName key="WaidhofenYbbs" ref="https://www.geonames.org/7871490/waidhofen-an-der-ybbs.html" xml:id="Bae_TB_6_3348">Waidhofen</placeName>, von wo er <app from="#Bae_MF_4_2465" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
           <!-- hier 40v -->
           <anchor xml:id="Bae_TB_6_3349"/>
           <app from="#_087" type="insertion" xml:id="Bae_TB_6_3350">
@@ -4735,7 +4732,7 @@
         </p>
         <!-- DC: Die folgenden eingeklebten Seiten sind mit Tinte geschrieben, von 1. bis 8. paginiert und am Ende mit 4.9.1903 datiert -->
         <pb facs="#F_K-4_Bae_TB_6_089" n="41v" xml:id="Bae_TB_6_3352"/>
-        <p xml:id="Bae_TB_6_3353">
+        <p xml:id="Bae_TB_6_3353"><anchor/>
           <date when="1903-09-01" xml:id="Bae_TB_6_3354">Am 1. 
             <choice xml:id="Bae_TB_6_3355">
               <abbr xml:id="Bae_TB_6_3356">Septbr.</abbr>
@@ -5192,8 +5189,8 @@
         <p xml:id="Bae_TB_6_3670">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_6_3671">Lünz</placeName> am 
           <date when="1903-09-10" xml:id="Bae_TB_6_3672">10.9.1903</date>. 
-        </p>
-      </div>
+        </p><app from="#Bae_MF_4_2471" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
+      </div><!-- CA: bis hier den Textvergleich mit MF_4 erledigt -->
       <pb facs="#F_K-4_Bae_TB_6_099" n="45v" xml:id="Bae_TB_6_3673"/>
       <note type="editorial" xml:id="Bae_TB_6_3674">Diese Seite ist leer.</note>
       <div n="1904-07" type="diaryEntry" xml:id="Bae_TB_6_3675">
