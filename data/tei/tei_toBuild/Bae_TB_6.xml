@@ -5190,21 +5190,21 @@
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_6_3671">Lünz</placeName> am 
           <date when="1903-09-10" xml:id="Bae_TB_6_3672">10.9.1903</date>. 
         </p><app from="#Bae_MF_4_2471" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
-      </div><!-- CA: bis hier den Textvergleich mit MF_4 erledigt -->
+      </div>
       <pb facs="#F_K-4_Bae_TB_6_099" n="45v" xml:id="Bae_TB_6_3673"/>
       <note type="editorial" xml:id="Bae_TB_6_3674">Diese Seite ist leer.</note>
       <div n="1904-07" type="diaryEntry" xml:id="Bae_TB_6_3675">
         <pb facs="#F_K-4_Bae_TB_6_100" n="46r" xml:id="Bae_TB_6_3676"/>
-        <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_3677"/>
-        <p xml:id="Bae_TB_6_3678">Niederschrift unserer Unterredung mit 
-          <persName key="RooseveltTheodore" ref="https://d-nb.info/gnd/118749633" xml:id="Bae_TB_6_3679">Roosevelt</persName>. 
+        <addSpan spanTo="#Bae_TB_6_3769" type="insertion" xml:id="Bae_TB_6_3677"/>
+        <p xml:id="Bae_TB_6_3678"><anchor/>Niederschrift unserer Unterredung mit 
+          <persName key="RooseveltTheodore" ref="https://d-nb.info/gnd/118749633" xml:id="Bae_TB_6_3679">Roosevelt</persName>. <app from="#Bae_MF_4_2668" type="equal"><rdg wit="Bae_MF_4">Niederschrift unserer Unterredung mit Roosevelt</rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_3680">
+        <p xml:id="Bae_TB_6_3680"><anchor/>
           <date when="1904-06-25" xml:id="Bae_TB_6_3681">25.6.1904</date> Unser Empfang bei 
           <persName key="RooseveltTheodore" ref="https://d-nb.info/gnd/118749633" xml:id="Bae_TB_6_3682">Roosevelt</persName> in 
           <placeName key="Washington" ref="https://www.geonames.org/4140963/washington.html" xml:id="Bae_TB_6_3683">Washington</placeName>. 
-        </p>
-        <p xml:id="Bae_TB_6_3684">
+          <app from="#Bae_MF_4_2674" type="missing"><rdg wit="Bae_MF_4"></rdg></app></p>
+        <p xml:id="Bae_TB_6_3684"><anchor/>
           <choice xml:id="Bae_TB_6_3685">
             <abbr xml:id="Bae_TB_6_3686">Allgem.</abbr>
             <expan xml:id="Bae_TB_6_3687">Allgemeiner</expan>
@@ -5248,7 +5248,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_3716"/>
             <expan xml:id="Bae_TB_6_3717">zimmer</expan>
           </choice> erkennen liessen. Wir hatten über Empfehlung 
-          <persName key="HengelmuellerLadislaus" ref="https://d-nb.info/gnd/1011827654" xml:id="Bae_TB_6_3718">Hengelmüllers</persName> angefragt wann wir kommen dürfen 
+          <persName key="HengelmuellerLadislaus" ref="https://d-nb.info/gnd/1011827654" xml:id="Bae_TB_6_3718">Hengelmüllers</persName> angefragt wann wir kommen <app from="#Bae_MF_4_2677" type="equal"><rdg wit="Bae_MF_4">Allgemeiner Eindruck von Washington als Unionsstadt. Capitol. Architektur, Lage, landschaftliche Umgebung. Der Obelisk 159 Meter hoch als Denkmal Washingtons. Alle Dimensionen groß, frei. Breite Straßen, Avenuen. Das weiße Haus, gegenüber das Staatgebäude. Die Treasury. Roosevelt empfieng uns in einem Sitzungszimmer des weißen Hauses, dessen Tisch und große Sessel das Konferenzzimmer erkennen ließen. Wir hatten über Empfehlung Hengelmüllers, angefragt wann wir kommen</rdg></app><anchor/>dürfen <app from="#Bae_MF_4_2695" type="notEqual"><rdg wit="Bae_MF_4">können</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_3719">
             <abbr xml:id="Bae_TB_6_3720">u.</abbr>
             <expan xml:id="Bae_TB_6_3721">und</expan>
@@ -5315,13 +5315,13 @@
             <expan xml:id="Bae_TB_6_3766">und</expan>
           </choice> wir können das nur lebhaft bestätigen. Er sagte dass 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_6_3767">Österreich</placeName> in 
-          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_6_3768">Bosnien</placeName>
+          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_6_3768">Bosnien</placeName><app from="#Bae_MF_4_2700" type="equal"><rdg wit="Bae_MF_4">und erhielten für Samstag den 25. Mittag 12 Uhr die Stunde. Nachdem wir kurze Zeit gewartet hatten, kam Roosevelt herein und sagte uns freundlich, daß es ihm ein Vergnügen sei, uns zu empfangen. Nachdem wir zum Ausdruck gebracht, daß wir es nicht versäumen wollten, bei unserm Besuch der Vereinigten Staaten ihrem Oberhaupte unsern Respekt zu bezeugen lud er uns zum Sitzen ein und begann sofort über Oesterreich zu sprechen, anknüpfend daran, daß sich Merveldt als gewesener Statthalter und ich als gewesener Handelsminister vorgestellt hatten. Wir waren schon darauf vorbereitet worden, daß Roosevelt über österreichische Verhältnisse sehr gut unterrichte sei und wir können das nur lebhaft bestätigen. Er sagte, daß Oesterreich in Bosnien</rdg></app>
           <anchor xml:id="Bae_TB_6_3769"/>
           <!-- CA: anchor für addspan von 46r -->
           <pb facs="#F_K-4_Bae_TB_6_101" n="46v" xml:id="Bae_TB_6_3770"/>
           <note type="editorial" xml:id="Bae_TB_6_3771">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_6_102" n="47r" xml:id="Bae_TB_6_3772"/>
-          <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_3773"/>Phänomenales geleistet habe 
+          <addSpan spanTo="#Bae_TB_6_3871" type="insertion" xml:id="Bae_TB_6_3773"/><anchor/>Phänomenales geleistet habe 
           <choice xml:id="Bae_TB_6_3774">
             <abbr xml:id="Bae_TB_6_3775">u.</abbr>
             <expan xml:id="Bae_TB_6_3776">und</expan>
@@ -5436,8 +5436,7 @@
           <choice xml:id="Bae_TB_6_3859">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_3860"/>
             <expan xml:id="Bae_TB_6_3861">Entwicklung</expan>
-          </choice> immer verbunden ist mit einem Hass gegen andere 
-          <choice xml:id="Bae_TB_6_3862">
+          </choice> immer verbunden ist mit einem Hass gegen <app from="#Bae_MF_4_2711" type="equal"><rdg wit="Bae_MF_4">Phänomenales geleistet habe und sprach von Kallay voll Bewunderung. Er habe es verstanden die verschiedenen Nationen und Religionen in diesem Lande auf gleichem Fuße zu behandeln und dadurch so große Erfolge zu erzielen. Oesterreich sollte die gleiche Aufgabe in Mazedonien übernehmen, denn seine Leistungen in Bosnien seien ein Muster, wie man die dortigen Verhältnisse behandeln müsse. Amerika habe auf den Philipinen eine ähnliche Aufgabe. Oesterreich habe eine wunderbare Mission, wenn es ihm gelingt die zentrifugalen Kräfte zu binden und es ist geradezu bestimmt, die Nationen in der südöstlichen Ecke von Europa unter seinen Schutz zu vereinigen. Die Slaven haben auch keinen anderen Schutz als Oesterreich, da Russland ihre Individualitäten keineswegs respektieren würde. Hierauf kam er auf die verschiedenen Nationen Oesterreichs zu sprechen. Er erkundigte sich bei Merveldt über das Sprachenverhältnis in Schlesien und sprach mit mir über die Čechen. Er bezeichnete es als wunderbar, welche Entwicklung die Čechen im vergangenen Jahrhundert genommen haben, sie haben einen großen Weg gemacht. Aber es ist so schade, daß eine solche Entwicklung immer verbunden ist mit einem Hass gegen</rdg></app><anchor/>andere <choice xml:id="Bae_TB_6_3862">
             <abbr xml:id="Bae_TB_6_3863">u.</abbr>
             <expan xml:id="Bae_TB_6_3864">und</expan>
           </choice> dass dieselbe sie den anderen Nationen, mit denen sie im Staate lebe entfremdet (mit denen sie zu einer staatlichen 
@@ -5448,15 +5447,15 @@
           <choice xml:id="Bae_TB_6_3868">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_3869"/>
             <expan xml:id="Bae_TB_6_3870">sind entfremdet</expan>
-          </choice>). 
+          </choice>). <app from="#Bae_MF_4_2735" type="notEqual"><rdg wit="Bae_MF_4">Nationen, mit denen sie zu einer staatlichen Gemeinschaft verbunden sind.</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_3871"/>
         <!-- CA: anchor für addspan von 47r -->
         <pb facs="#F_K-4_Bae_TB_6_103" n="47v" xml:id="Bae_TB_6_3872"/>
         <note type="editorial" xml:id="Bae_TB_6_3873">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_6_104" n="48r" xml:id="Bae_TB_6_3874"/>
-        <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_3875"/>
-        <p xml:id="Bae_TB_6_3876">Ein Beispiel einer solchen von der 
+        <addSpan spanTo="#Bae_TB_6_3991" type="insertion" xml:id="Bae_TB_6_3875"/>
+        <p xml:id="Bae_TB_6_3876"><anchor/>Ein Beispiel einer solchen von der 
           <choice xml:id="Bae_TB_6_3877">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_3878"/>
             <expan xml:id="Bae_TB_6_3879">Entfernung</expan>
@@ -5515,7 +5514,7 @@
           <choice xml:id="Bae_TB_6_3919">
             <abbr xml:id="Bae_TB_6_3920">nat.</abbr>
             <expan xml:id="Bae_TB_6_3921">nationaler</expan>
-          </choice> Ziele liegt, sei oft ein Nachteil für das Individuum 
+          </choice> Ziele <app from="#Bae_MF_4_2739" type="equal"><rdg wit="Bae_MF_4">Ein Beispiel einer solchen von der Entfernung betrachtet unbegreiflichen Scheidung besteht zw. den Norw. u. Schweden, da man die Unterschiede auf eine gewisse Entfernung gar nicht gewahr wird. Sie setzen sich dh den Zwist beide der Gefar aus von Russland eingesteckt zu werden, wie dieses es mit Finnland bereits getan hat. Er machte nun über das Nat. bewusstsein ein paar sehr gute allgem. Bemerkungen. Das Abschliessen einer Nation gegen eine höhere Gemeinschaft mit anderen, die in der einseitigen Verfolgung nat. Ziele</rdg></app><anchor/>liegt, <app from="#Bae_MF_4_2744" type="notEqual"><rdg wit="Bae_MF_4">liege, </rdg></app><anchor/>sei oft ein Nachteil für das Individuum 
           <choice xml:id="Bae_TB_6_3922">
             <abbr xml:id="Bae_TB_6_3923">u.</abbr>
             <expan xml:id="Bae_TB_6_3924">und</expan>
@@ -5608,13 +5607,13 @@
           <choice xml:id="Bae_TB_6_3988">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_3989"/>
             <expan xml:id="Bae_TB_6_3990">Gemeinde</expan>
-          </choice> angehöre. Uebrigens sei es bemerkenswert, wie einzelne 
+          </choice> angehöre. Uebrigens sei es bemerkenswert, wie einzelne <app from="#Bae_MF_4_2747" type="equal"><rdg wit="Bae_MF_4">sei oft ein Nachteil für das Individuum und indem er darüber sprach, kam natürlich der amerikanische Standpunkt zum Ausdruck, der in der Verschmelzung verschiedener Nationen zu einem großen Gemeinwesen das Ziel erblickt. Auf meine Bemerkung, daß unsere Nationalitäten eben alle ihre Geschichte haben und daß es für Amerika ein Vorteil sei, daß die verschiedenen Rassen in den Vereinigten Staaten keine historischen Traditionen haben, stimmte er dem lebhaft zu, indem er wiederholte, daß es ein großes Glück sei, daß alle Nationen sich hier verschmelzen. Dabei erwähnte er, dass er selbst holländisches und hugenottisches Blut in den Adern habe und daß er auch religiös – da er reformiert sei – eigentlich einer verhältnismäßig kleinen religiösen Gemeinde angehöre. Uebrigens sei es bemerkenswert wie einzelne</rdg></app>
           <anchor xml:id="Bae_TB_6_3991"/>
           <!-- CA: anchor für addspan von 48r -->
           <pb facs="#F_K-4_Bae_TB_6_105" n="48v" xml:id="Bae_TB_6_3992"/>
           <note type="editorial" xml:id="Bae_TB_6_3993">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_6_106" n="49r" xml:id="Bae_TB_6_3994"/>
-          <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_3995"/>Nationalitäten in den 
+          <addSpan spanTo="#Bae_TB_6_4101" type="insertion" xml:id="Bae_TB_6_3995"/><anchor/>Nationalitäten in den 
           <placeName key="Amerika" ref="https://www.geonames.org/6252001/united-states.html" xml:id="Bae_TB_6_3996">
             <choice xml:id="Bae_TB_6_3997">
               <abbr xml:id="Bae_TB_6_3998">V.St.</abbr>
@@ -5644,7 +5643,7 @@
           </choice>
           <add place="across" xml:id="Bae_TB_6_4016">deutschen</add> Geistlichen, den wir auf der Ueberfahrt auf dem "Blücher" kennengelernt hatten. 
         </p>
-        <p xml:id="Bae_TB_6_4017">Genau wusste er 
+        <p xml:id="Bae_TB_6_4017">Genau wusste <app from="#Bae_MF_4_2755" type="equal"><rdg wit="Bae_MF_4">Nationalitäten in den Vereinigten Staaten zäh an ihrer europäischen Nationalität festhalten. Dies sei insbesondere bei den Polen der Fall und es stimmt dies auch überein mit der Ansicht eines in New York wirkenden katholischen deutschen Geistlichen, den wir auf der Ueberfahrt auf dem "Blücher" kennengelernt hatten. Genau wusste</rdg></app><anchor/>er <app from="#Bae_MF_4_2764" type="notEqual"><rdg wit="Bae_MF_4">Roosevelt</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_4018">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4019"/>
             <expan xml:id="Bae_TB_6_4020">auch</expan>
@@ -5751,15 +5750,15 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4098"/>
             <expan xml:id="Bae_TB_6_4099">welche</expan>
           </choice> er in 
-          <placeName key="Europa" ref="https://www.geonames.org/6255148/europe.html" xml:id="Bae_TB_6_4100">Europa</placeName> bevorzuge. 
+          <placeName key="Europa" ref="https://www.geonames.org/6255148/europe.html" xml:id="Bae_TB_6_4100">Europa</placeName> bevorzuge. <app from="#Bae_MF_4_2768" type="equal"><rdg wit="Bae_MF_4">auch über Ungarn Bescheid. Er meinte, daß die Ungarn die anderen Nationalitäten niederhalten, daß aber das rumänische Element immer mehr erstarke. Er wendete sich nun der Weltpolitik zu und sagte von Rußland, daß es auf die Dauer unmöglich sei, daß sich in einem Lande die Industrie so hoch fortentwickle, während das Land andererseits derartig niedergehalten werde. Von Japan sprach er mit einem unverkennbar sympathischen Lächeln. Wenn ich ihn recht verstanden habe meinte er, daß wenn New York, London und Paris den großen Gegensatz zwischen Reichtum und Elend in hohem Maße haben, Japan diesen Gegensatz nicht kenne. Nun kam er auf Literatur und Zeitungen. Er erzählte, daß er Manches von Jokai gelesen habe und lobte insbesondere die Romane von Sienkiewicz, von dessen Werken er einige zitierte, die ihm besonders gefallen hatten. So oft er nach Europa gekommen sei habe er den "Temps", die "Independance belge" und die "Neue Freie Presse" gelesen – dies seien die drei Zeitungen, welche er in Europa bevorzuge.</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_4101"/>
         <!-- CA: anchor für addspan von 49r -->
         <pb facs="#F_K-4_Bae_TB_6_107" n="49v" xml:id="Bae_TB_6_4102"/>
         <note type="editorial" xml:id="Bae_TB_6_4103">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_6_108" n="50r" xml:id="Bae_TB_6_4104"/>
-        <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_4105"/>
-        <p xml:id="Bae_TB_6_4106">Natürlich kamen 
+        <addSpan spanTo="#Bae_TB_6_4216" type="insertion" xml:id="Bae_TB_6_4105"/>
+        <p xml:id="Bae_TB_6_4106"><anchor/>Natürlich kamen 
           <choice xml:id="Bae_TB_6_4107">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4108"/>
             <expan xml:id="Bae_TB_6_4109">wir auch</expan>
@@ -5905,13 +5904,13 @@
           <choice xml:id="Bae_TB_6_4213">
             <abbr xml:id="Bae_TB_6_4214">u.</abbr>
             <expan xml:id="Bae_TB_6_4215">und</expan>
-          </choice> sein Interesse ist darum um so grösser. Aber deswegen 
+          </choice> sein Interesse ist darum um so grösser. Aber deswegen <app from="#" type="equal"><rdg wit="Bae_MF_4">Natürlich kamen wir auch auf amerikanische Verhältnisse zu sprechen. Es sei eine Schwierigkeit in Amerika, dass man sich so sicher fühlt u. nicht glaubt Kriegsrüstung zu Wasser o. zu Lande überhaupt nötig zu haben. Man sieht in A. keine Gefahr u. hat für die Kosten einer Kriegsrüstung kein Verständnis u. man ist daher auch geneigt die Weltverhältnisse leicht zu nehmen u. auch von den anderen leicht hin reden zu können. Er sei aber ganz gegen dieses absprechende Urteil seiner Landsleute – I will not stand it, sagte er. Der Gesamteindruck den er machte war der eines denkenden Menschen; er hat viel weniger von einem rough rider als von einem Professor, der sich bemüht seine Gedankenwelt in Ordnung zu halten u. der gerne spricht u. sich auch gerne sprechen hört. Er spricht sehr deutlich artikulirend, wie jemand der nicht missverstanden werden will. Er drückt sich sehr praecise aus u. beobachtet scharf den Zuhörer ob dieser ihn auch richtig verstanden hat. Die Art wie er über Österreich sprach, war sehr woltuend. Er beurteilt Österreich vom Standpunkt eines erfahrenen Staatstechnikers, der die Schwierigkeiten wohl ermisst, welche die Regierung Österreichs bietet u. sein Interesse ist darum um so grösser. Aber deswegen</rdg></app>
           <anchor xml:id="Bae_TB_6_4216"/>
           <!-- CA: anchor für addspan von 50r -->
           <pb facs="#F_K-4_Bae_TB_6_109" n="50v" xml:id="Bae_TB_6_4217"/>
           <note type="editorial" xml:id="Bae_TB_6_4218">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_6_110" n="51r" xml:id="Bae_TB_6_4219"/>
-          <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_4220"/>klingt kein Zweifel an der 
+          <addSpan spanTo="#Bae_TB_6_4315" type="insertion" xml:id="Bae_TB_6_4220"/><anchor/>klingt kein Zweifel an der 
           <choice xml:id="Bae_TB_6_4221">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4222"/>
             <expan xml:id="Bae_TB_6_4223">Möglichkeit</expan>
@@ -5940,16 +5939,15 @@
           <choice xml:id="Bae_TB_6_4240">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4241"/>
             <expan xml:id="Bae_TB_6_4242">Verfassung</expan>
-          </choice> aufzuräumen, die 
-          <choice xml:id="Bae_TB_6_4243">
+          </choice> aufzuräumen, <app from="#Bae_MF_4_2801" type="equal"><rdg wit="Bae_MF_4">klingt kein Zweifel an der Möglichkeit, Oesterreich ordentlich zu regieren durch und es ist gut, daß wir Oesterreicher immer wieder daran erinnert werden mit dem Kleinmut, dem Pessimismus und der fatalistischen Verfassung aufzuräumen,</rdg></app><anchor/>die <app from="#Bae_MF_4_2805" type="notEqual"><rdg wit="Bae_MF_4">der</rdg></app><anchor/><choice xml:id="Bae_TB_6_4243">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4244"/>
             <expan xml:id="Bae_TB_6_4245">bei uns</expan>
-          </choice> den frischen Hauch staatlicher Thatkraft nun schon seit langem 
+          </choice> den frischen Hauch staatlicher Thatkraft nun schon seit langem <app from="#Bae_MF_4_2808" type="equal"><rdg wit="Bae_MF_4">bei uns den frischen Hauch staatlicher Tatkraft nun schon seit langem</rdg></app><anchor/>
           <del rendition="#s" xml:id="Bae_TB_6_4246">lähmt</del> nieder 
           <choice xml:id="Bae_TB_6_4247">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4248"/>
             <expan xml:id="Bae_TB_6_4249">halten</expan>
-          </choice>. Es ist woltuend jemanden der doch eine reiche 
+          </choice>. <app from="#Bae_MF_4_2811" type="notEqual"><rdg wit="Bae_MF_4">niederhält.</rdg></app><anchor/>Es ist woltuend jemanden der doch eine reiche 
           <choice xml:id="Bae_TB_6_4250">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4251"/>
             <expan xml:id="Bae_TB_6_4252">Erfahrung</expan>
@@ -5958,11 +5956,11 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4254"/>
             <expan xml:id="Bae_TB_6_4255">Dingen hat</expan>
           </choice> zu hören, dass 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_6_4256">Österreichs</placeName>
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_6_4256">Österreichs</placeName> 
           <choice xml:id="Bae_TB_6_4257">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4258"/>
             <expan xml:id="Bae_TB_6_4259">Existenz</expan>
-          </choice> notwendiger ist, der seine Aufgabe natürlich auffasst, dessen Existenz als 
+          </choice> <app from="#Bae_MF_4_2814" type="equal"><rdg wit="Bae_MF_4">Es ist wohltuend, jemanden, der doch eine reiche Erfahrung in staatlichen Dingen hat, zu hören, daß Oesterreichs Existenz</rdg></app><anchor/>notwendiger <app from="#Bae_MF_4_2818" type="notEqual"><rdg wit="Bae_MF_4">notwendig</rdg></app><anchor/>ist, der seine Aufgabe natürlich auffasst, dessen Existenz als 
           <choice xml:id="Bae_TB_6_4260">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4261"/>
             <expan xml:id="Bae_TB_6_4262">selbst</expan>
@@ -5990,14 +5988,13 @@
           <choice xml:id="Bae_TB_6_4278">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4279"/>
             <expan xml:id="Bae_TB_6_4280">Schwierigkeiten</expan>
-          </choice> betrachtet. 
+          </choice> <app from="#Bae_MF_4_2821" type="equal"><rdg wit="Bae_MF_4">ist, der seine Aufgabe natürlich auffasst, dessen Existenz als selbstverständlich ansieht und sich bemüht, die spezifischen Schwierigkeiten dieses Staates nicht aus dem Gesichtspunkt der Resignation, sondern notwendiger und möglicher Ueberwindung der Schwierigkeiten</rdg></app><anchor/>betrachtet <app from="#Bae_MF_4_2824" type="notEqual"><rdg wit="Bae_MF_4">zu betrachten</rdg></app><anchor/>.
         </p>
         <p xml:id="Bae_TB_6_4281">Wir 
           <choice xml:id="Bae_TB_6_4282">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4283"/>
             <expan xml:id="Bae_TB_6_4284">schieden</expan>
-          </choice> hoch befriedigt. 
-          <persName key="RooseveltTheodore" ref="https://d-nb.info/gnd/118749633" xml:id="Bae_TB_6_4285">Roosevelt</persName> hätte noch fortgesprochen, wurde 
+          </choice> <app from="#Bae_MF_4_2827" type="equal"><rdg wit="Bae_MF_4">. Wir schieden</rdg></app><anchor/>hoch <app from="#Bae_MF_4_2831" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>befriedigt. <persName key="RooseveltTheodore" ref="https://d-nb.info/gnd/118749633" xml:id="Bae_TB_6_4285">Roosevelt</persName> hätte noch fortgesprochen, wurde 
           <choice xml:id="Bae_TB_6_4286">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4287"/>
             <expan xml:id="Bae_TB_6_4288">aber</expan>
@@ -6005,7 +6002,7 @@
           <choice xml:id="Bae_TB_6_4289">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4290"/>
             <expan xml:id="Bae_TB_6_4291">wir mehr</expan>
-          </choice> als 1/2 Stunde bei ihm 
+          </choice> als <app from="#Bae_MF_4_2835" type="equal"><rdg wit="Bae_MF_4">befriedigt. Roosevelt hätte noch fortgesprochen, wurde aber abgerufen, nachdem wir mehr als </rdg></app><anchor/>1/2 <app from="#Bae_MF_4_2839" type="notEqual"><rdg wit="Bae_MF_4">1</rdg></app><anchor/>Stunde bei ihm 
           <choice xml:id="Bae_TB_6_4292">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4293"/>
             <expan xml:id="Bae_TB_6_4294">gewesen</expan>
@@ -6036,17 +6033,17 @@
           <choice xml:id="Bae_TB_6_4312">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4313"/>
             <expan xml:id="Bae_TB_6_4314">unsere</expan>
-          </choice> Aufwartung. 
+          </choice> Aufwartung. <app from="#Bae_MF_4_2843" type="equal"><rdg wit="Bae_MF_4">Stunde bei ihm gewesen waren. Er gab uns die Hand, und drückte nochmals seine Befriedigung aus, uns empfangen zu haben und wir gingen. Unmittelbar darauf machten wir dem Staatssekretär Hay unsere Aufwartung.</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_4315"/>
         <!-- CA: anchor für addspan 51r -->
         <pb facs="#F_K-4_Bae_TB_6_111" n="51v" xml:id="Bae_TB_6_4316"/>
         <note type="editorial" xml:id="Bae_TB_6_4317">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_6_112" n="52r" xml:id="Bae_TB_6_4318"/>
-        <p xml:id="Bae_TB_6_4319">
-          <hi rendition="#ul" xml:id="Bae_TB_6_4320">Amerikafahrt</hi>
+        <p xml:id="Bae_TB_6_4319"><anchor/>
+          <hi rendition="#ul" xml:id="Bae_TB_6_4320">Amerikafahrt</hi><app from="#Bae_MF_4_2478" type="equal"><rdg wit="Bae_MF_4">AMERIKAFAHRT</rdg></app><anchor/><app from="#Bae_MF_4_2483" type="missing"><rdg wit="Bae_MF_4">Juni, July, August 1904</rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_4321">Bevor ich dazu komme, einige Zeilen über unsere unfruchtbaren 
+        <p xml:id="Bae_TB_6_4321"><anchor/>Bevor ich dazu komme, einige Zeilen über unsere unfruchtbaren 
           <choice xml:id="Bae_TB_6_4322">
             <abbr xml:id="Bae_TB_6_4323">polit.</abbr>
             <expan xml:id="Bae_TB_6_4324">politischen</expan>
@@ -6096,7 +6093,7 @@
           <choice xml:id="Bae_TB_6_4359">
             <abbr xml:id="Bae_TB_6_4360">u.</abbr>
             <expan xml:id="Bae_TB_6_4361">und</expan>
-          </choice> Verhältnisse sehr offen aussprach. 
+          </choice> Verhältnisse <app from="#Bae_MF_4_2489" type="equal"><rdg wit="Bae_MF_4">Bevor ich dazu komme, einige Zeilen über unsere unfruchtbaren politischen Verhältnisse während des Jahres 1904 niederzuschreiben und einige Eindrücke meiner Reise zu fixiren, will ich in Folgendem das Reisekalendarium aufbewahren. Am 7. Juni verließ ich Lünz bei herrlichem Frühjahrswetter und fuhr bis Stuttgart, wo ich abends ankam. Ich hatte die Absicht Fürstenberg auf eine dringende Einladung von ihm in Donaueschingen zu besuchen, fand aber bei Marquart ein Telegramm, welches mir sagte, daß sein Arzt jeden Besuch verbiete. Am 8. Juni Früh verließ ich Stuttgart und fuhr über Straßburg nach Paris, wo ich im Hotel des deux mondes abstieg. Am 9. Juni Früh kam Merveldt nach Paris. Wir erhielten eine Einladung zum Frühstück von Khevenhüller, der wie immer sehr lebendig und liebenswürdig war und sich über Menschen und Verhältnisse</rdg></app><anchor/>sehr <app from="#Bae_MF_4_2510" type="missing"><rdg wit="Bae_MF_4">sehr</rdg></app><anchor/>offen aussprach. 
           <persName key="LiechtensteinHeinrich" xml:id="Bae_TB_6_4362">Heinrich Lichtenstein</persName> war bei ihm zu Gast 
           <choice xml:id="Bae_TB_6_4363">
             <abbr xml:id="Bae_TB_6_4364">u.</abbr>
@@ -6152,7 +6149,7 @@
           <date when="1904-06-19" xml:id="Bae_TB_6_4403">19.</date> sehr zeitlich früh wurde Sandy hook gesichtet. Um 10 Uhr landeten wir nach allen übrigens leicht überstandenen Förmlichkeiten. 
         </p>
         <p xml:id="Bae_TB_6_4404">Das inliegende Blatt 
-          <note type="editorial" xml:id="Bae_TB_6_4405">Das Blatt liegt nicht ein.</note>, welches auf dem Schiffe den Passagieren auf ihren Wunsch ausgefertigt wird, zeigt die Etappen unserer Seereise. Am 
+          <note type="editorial" xml:id="Bae_TB_6_4405">Das Blatt liegt nicht ein.</note>, welches auf dem Schiffe den Passagieren auf ihren Wunsch ausgefertigt wird<app from="#Bae_MF_4_2513" type="equal"><rdg wit="Bae_MF_4">offen aussprach. Heinrich Liechtenstein war bei ihm zu Gast und beim Frühstück. Nachmittag im Louvre. Am 10. Juni Vormittag Kommissionen in Paris. Um 2 Uhr Abfahrt nach Cherbourg mittelst des Sonderzuges, der die Passagiere an Bord brachte. Prachtvolle Fahrt durch das schöne Land im Frühjahrsgewand. Felder und Wiesen im herrlichsten Grün. Der wahre prairial! Nach 9 Uhr Abend Ankunft in Cherbourg. Festungswerke und die französische Flotte auf der Rhede in dunklen Umrissen. Unser Schiff der Hamburg-Amerikalinie "Blücher" lag ziemlich weit draussen und glich von weitem einem großen elektrisch beleuchteten Hotel. Kaum hatte unser kleiner Trajektdampfer angelegt, so kam das Schwesterschiff der Blücher, der "Moltke" auf dem Weg nach Hamburg herein und beide Schiffe begrüßten sich mit der Wacht am Rhein! So macht der Weltverkehr und seine Interessen die Menschen duldsam. Nach kurzer Zeit lichteten wir die Anker. Sonntag den 19. sehr zeitlich früh wurde Sandy hook gesichtet. Um 10 Uhr landeten wir nach allen übrigens leicht überstandenen Förmlichkeiten. Das inliegende Blatt, welches auf dem Schiffe den Passagieren auf ihren Wunsch ausgefertigt wird</rdg></app><anchor/><app from="#Bae_MF_4_2535" type="missing"><rdg wit="Bae_MF_4">(Log)</rdg></app><anchor/>, zeigt die <app from="#Bae_MF_4_2539" type="equal"><rdg wit="Bae_MF_4">, zeigt die</rdg></app><anchor/><app from="#Bae_MF_4_2542" type="missing"><rdg wit="Bae_MF_4">täglichen</rdg></app><anchor/>Etappen unserer Seereise. Am 
           <date when="1904-06-12" xml:id="Bae_TB_6_4406">12.</date>
           <choice xml:id="Bae_TB_6_4407">
             <abbr xml:id="Bae_TB_6_4408">u.</abbr>
@@ -6172,11 +6169,11 @@
           <choice xml:id="Bae_TB_6_4419">
             <abbr xml:id="Bae_TB_6_4420">u.</abbr>
             <expan xml:id="Bae_TB_6_4421">und</expan>
-          </choice> allerhand Mummenschanz an Bord, der aber zu der ernsten Grösse der See schlecht passt. 
+          </choice> allerhand Mummenschanz an Bord, der aber zu der ernsten Grösse der See schlecht passt. <app from="#Bae_MF_4_2545" type="equal"><rdg wit="Bae_MF_4">Etappen unserer Seereise. Am 12. und 13. hatten wir sehr schlechte See, daher auch die geringe Meilenzahl. Capitain Kopff ein sehr angenehmer Mann, stets guter Laune. Alle Seeleute sind es eigentlich. Die Seeluft weht alles Dumpfige aus der Seele. Gegen Ende der Reise passierten wir den Golfstrom mit den schwimmenden Algen, hatten auch etwas Nebel in der Nähe der "banks", sahen Wallfische, Delfine und fliegende Fische, so daß nichts zu einem vollständigen Programm fehlte, als Eisberge, die zwar erwartet wurden, aber nicht eintrafen. Am letzten Abend war Tanz und allerhand Mumenschanz an Bord, der aber zu der ernsten Größe der See schlecht paßt.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_115" n="53v" xml:id="Bae_TB_6_4422"/>
         <addSpan xml:id="Bae_TB_6_4423"/>
-        <p xml:id="Bae_TB_6_4424">*Als wir ziemlich spät Abend in einem Bahnhof in 
+        <p xml:id="Bae_TB_6_4424"><anchor/>*Als wir ziemlich spät Abend in einem Bahnhof in 
           <placeName key="NewYork" ref="https://www.geonames.org/5128638/new-york.html" xml:id="Bae_TB_6_4425">
             <choice xml:id="Bae_TB_6_4426">
               <abbr xml:id="Bae_TB_6_4427">N.Y.</abbr>
@@ -6209,12 +6206,12 @@
             <abbr xml:id="Bae_TB_6_4447">u.</abbr>
             <expan xml:id="Bae_TB_6_4448">und</expan>
           </choice> er solle uns 
-          <orgName key="HotelWaldorfAstoria" ref="https://d-nb.info/gnd/4286031-3" xml:id="Bae_TB_6_4449">Waldorf Astoria</orgName> absetzen. Gewiss ein freundlicher Zug, der dadurch nicht getrübt wird, dass wir dem kleinen Kerl die Kleinigkeit von 5 Cent schenkten. 
+          <orgName key="HotelWaldorfAstoria" ref="https://d-nb.info/gnd/4286031-3" xml:id="Bae_TB_6_4449">Waldorf Astoria</orgName> absetzen. Gewiss ein freundlicher Zug, der dadurch nicht getrübt wird, dass wir dem kleinen Kerl <app from="#Bae_MF_4_2579" type="equal"><rdg wit="Bae_MF_4">Als wir ziemlich spät Abend in einem Bahnhof in New York ankamen schlug ich vor, den Weg ins Hotel zu Fuß zurückzulegen. Die Richtung war uns klar, die Entfernung nicht groß, aber nach einiger Zeit wurden wir doch zweifelhaft über den Weg und ich frug den Verkäufer bei einem großen Obstladen wie wir am besten zum Hotel Waldorf Astoria (denn nach diesem in ganz New York wohlbekannten Gebäude ging immer unser Kirchturmrennen) kommen würden. Er gab willig, aber sehr oberflächlich Auskunft. Als wir zögerten, sprang hinter ihm ein kleiner Knirps hervor, vielleicht 6 oder 7 Jahre alt, der uns mit der eigentümlich schnarrenden Stimme die man in Amerika so häufig hört, sagte, wir sollten nur stehen bleiben und eine Trolley (Tramway) abwarten. Wenn wir in den richtigen "car" einsteigen, bringe er uns direkt vor das Hotel. Als wir nun weiter forschten welches der richtige "car" sein werde, sagte er mit einer beschwichtigenden Handbewegung, "I’ll put you right", wartete ruhig neben uns, bezeichnete uns dann den betreffenden Wagen und rief dem Kondukteur, so laut er konnte zu, wir seien Fremde und er solle uns Waldorf Astoria absetzen. Gewiß ein freundlicher Zug, der dadurch nicht getrübt wird, daß wir dem kleinen Kerl</rdg></app><anchor/>die Kleinigkeit von 5 Cent<app from="#Bae_MF_4_2598" type="notEqual"><rdg wit="Bae_MF_4">einige Cents</rdg></app><anchor/>schenkten. <app from="#Bae_MF_4_2603"><rdg wit="Bae_MF_4">schenkten.</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_4450"/>
         <!-- CA: anchor für addspan 53v -->
         <pb facs="#F_K-4_Bae_TB_6_116" n="54r" xml:id="Bae_TB_6_4451"/>
-        <p xml:id="Bae_TB_6_4452">Sonntag 
+        <p xml:id="Bae_TB_6_4452"><anchor/>Sonntag 
           <date when="1904-06-19" xml:id="Bae_TB_6_4453">19. Juni</date> war der erste Tag in 
           <placeName key="NewYork" ref="https://www.geonames.org/5128638/new-york.html" xml:id="Bae_TB_6_4454">New York</placeName>. Wir stiegen im 
           <orgName key="HotelCambridge" xml:id="Bae_TB_6_4455">Hotel Cambridge</orgName> (vis à vis 
@@ -6227,15 +6224,15 @@
           </persName> bekannt, der in demselben 
           <orgName key="HotelCambridge" xml:id="Bae_TB_6_4461">Hotel</orgName> wohnte. Nachmittags furen wir nach 
           <placeName key="ManhattanBeach" ref="https://www.geonames.org/12035581/manhattan-beach.html" xml:id="Bae_TB_6_4462">Manhatten beach</placeName>, ein Seebad 1 Stunde Eisenbahnfart, wo es sehr voll war. Hübscher Blick auf 
-          <placeName key="ConeyIsland" ref="https://www.geonames.org/5113481/coney-island.html" xml:id="Bae_TB_6_4463">Coney island</placeName>, ein ganz in elektrisches Licht gebadeter Vergnügungsort, an dem so viel elektrische Lampen brennen wie in der ganzen Stadt 
-          <placeName key="Koeln" ref="https://www.geonames.org/6553049/koeln.html" xml:id="Bae_TB_6_4464">Köln</placeName>.* 
+          <placeName key="ConeyIsland" ref="https://www.geonames.org/5113481/coney-island.html" xml:id="Bae_TB_6_4463">Coney island</placeName>, ein ganz in elektrisches Licht gebadeter Vergnügungsort, <app from="#Bae_MF_4_2554" type="equal"><rdg wit="Bae_MF_4">Sonntag den 19. Juni war der erste Tag in New York. Wir stiegen im Hotel Cambridge (vis à vis Waldorf Astoria) ab und machten uns sofort mit dem Herrn Generalkonsul v. Dessewffy bekannt, der in demselben Hotel wohnte. Nachmittags fuhren wir nach Manhatternbeach, ein Seebad 1 Stunde Eisenbahnfart, wo es sehr voll war. Hübscher Blick auf Coney island, ein ganz in elektrisches Licht gebadeter Vergnügungsort,</rdg></app><anchor/>an <app from="#Bae_MF_4_2569" type="notEqual"><rdg wit="Bae_MF_4">in</rdg></app><anchor/>dem so viel elektrische Lampen brennen wie in der ganzen Stadt 
+          <placeName key="Koeln" ref="https://www.geonames.org/6553049/koeln.html" xml:id="Bae_TB_6_4464">Köln</placeName>.* <app from="#Bae_MF_4_2574" type="equal"><rdg wit="Bae_MF_4">dem so viel elektrische Lampen brennen wie in der ganzen Stadt Köln.</rdg></app>
         </p>
         <anchor xml:id="Bae_TB_6_4465"/>
         <app from="#_115" type="insertion" xml:id="Bae_TB_6_4466">
           <rdg xml:id="Bae_TB_6_4467">[...]</rdg>
         </app>
         <!-- DC: Ergänzung mit Tinte auf fol. 53v -->
-        <p xml:id="Bae_TB_6_4468">Am 
+        <p xml:id="Bae_TB_6_4468"><anchor/>Am 
           <date when="1904-06-20" xml:id="Bae_TB_6_4469">20. Juni</date> früh fur ich nach 
           <placeName key="Philadelphia" ref="https://www.geonames.org/4560347/city-of-philadelphia.html" xml:id="Bae_TB_6_4470">Philadelphia</placeName>. Mich hatte nämlich in 
           <placeName key="NewYork" ref="https://www.geonames.org/5128638/new-york.html" xml:id="Bae_TB_6_4471">New York</placeName> schon eine Einladung dahin erwartet, da ich 
@@ -6295,8 +6292,8 @@
             </choice> of Charities and Correction 
           </orgName>, 
           <orgName key="NYSocietyforthePreventionofCruelty" ref="https://d-nb.info/gnd/5087071-3" xml:id="Bae_TB_6_4514">Society for the prevention of cruelty</orgName> besucht. Am 
-          <date when="1904-06-23" xml:id="Bae_TB_6_4515">23.</date> gegen Abend holte uns 
-          <persName key="DessewffyThomas" xml:id="Bae_TB_6_4516">Dessewffy</persName> zu einer höchst interessanten Fahrt mit Auto durch 
+          <date when="1904-06-23" xml:id="Bae_TB_6_4515">23.</date> gegen Abend <app from="#Bae_MF_4_2607" type="equal"><rdg wit="Bae_MF_4">Am 20. Juni früh fuhr ich nach Philadelphia. Mich hatte nämlich in New York schon eine Einladung dahin erwartet, da ich Frau Friedrich Schoff treffen wollte, die nur noch kurz in Philadelphia anwesend war. Besuchte in Philadelphia sofort den jouvenile court, wo ich den Richter sah und alles gut sehen und hören konnte. Abend Diner bei Mrs. Schoff. Große Hitze, Abend ein Gewitter mit tropischem Regenfall, aber keine Abkühlung, sondern Temperatur wie in einem Ananashaus. Am 21. Juni war ich in Glennwills, dem berühmten Reformatory in Philadelphia. Tags vorher hatte ich noch die Pansylvania University, die Independence hHall besucht und dem Präsidenten Harrison der Universität meinen Besuch gemacht. Am 21. Juni Abend fuhr ich nach New York zurück. Am 22. und 23. Juni in New York die Children's Aid Society, Board of Charities and Correction, Society for the prevention of cruelty besucht. Am 23. gegen Abend</rdg></app><anchor/>holte uns 
+          <persName key="DessewffyThomas" xml:id="Bae_TB_6_4516">Dessewffy</persName> zu einer höchst interessanten <app from="#Bae_MF_4_2640" type="notEqual"><rdg wit="Bae_MF_4">hatten wir, Dessewffy und ich, eine höchst interessante</rdg></app><anchor/>Fahrt mit Auto durch 
           <placeName key="NewYork" ref="https://www.geonames.org/5128638/new-york.html" xml:id="Bae_TB_6_4517">New York</placeName>, 
           <del rendition="#s" xml:id="Bae_TB_6_4518">river drive</del>, den 
           <orgName key="CentralPark" ref="https://d-nb.info/gnd/4480303-5" xml:id="Bae_TB_6_4519">Centralpark</orgName>
@@ -6339,7 +6336,7 @@
             <abbr xml:id="Bae_TB_6_4550">u.</abbr>
             <expan xml:id="Bae_TB_6_4551">und</expan>
           </choice> Gärten bei tropischer Hitze. Unterredung mit 
-          <persName key="RooseveltTheodore" ref="https://d-nb.info/gnd/118749633" xml:id="Bae_TB_6_4552">Roosevelt</persName>. 
+          <persName key="RooseveltTheodore" ref="https://d-nb.info/gnd/118749633" xml:id="Bae_TB_6_4552">Roosevelt</persName>. <app from="#Bae_MF_4_2646" type="equal"><rdg wit="Bae_MF_4">Fahrt mit Auto durch New York, den Centralpark und river drive, die in Clermont, einem herrlich über dem Hudson gelegenen Restaurant (neben dem einfachen, aber imposanten Grantdenkmal) und mit einem ebenso guten als gemütlichen Diner endete. Whitefish nach Indianerart (auf einem Brett gebraten) und ein Cup, worin ausser Moselwein, Ananasschnitten, Zitronen, Krausmünz und einige Erdbeeren schwammen, natürlich geeist, bildeten die Glanzpunkte. Am 24. Juni Nachmittag Fahrt nach Washington, wohin Merveldt vorausgefahren war. Am 25. Juni Besichtigung von Washington, d.h. Capitol, library, Monument und Gärten bei tropischer Hitze. Unterredung mit Roosevelt.</rdg></app>
         </p>
         <!-- DC: hier befindet sich Verweiszeichen zu Aufzeichnung über Unterredung mit Roosevelt, daher hierher Einklebung der Niederschrift von fol. 46r bis 52r. -->
         <anchor xml:id="Bae_TB_6_4553"/>
@@ -6367,9 +6364,9 @@
           <rdg xml:id="Bae_TB_6_4570">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_6_4571">Nachmittags Rückreise nach 
-          <placeName key="NewYork" ref="https://www.geonames.org/5128638/new-york.html" xml:id="Bae_TB_6_4572">New York</placeName>, da bei der Hitze nichts anzufangen war. 
+          <placeName key="NewYork" ref="https://www.geonames.org/5128638/new-york.html" xml:id="Bae_TB_6_4572">New York</placeName>, <app from="#Bae_MF_4_2853" type="equal"><rdg wit="Bae_MF_4">Nachmittag Rückreise nach New York.</rdg></app><anchor/>da bei der Hitze nichts anzufangen war. <app from="#Bae_MF_4_2857" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_4573">
+        <p xml:id="Bae_TB_6_4573"><anchor/>
           <date when="1904-06-26" xml:id="Bae_TB_6_4574">26. Juni</date> Sonntag. Furchtbar heiss. Ganzen Tag zu Hause mit Correspondenz 
           <choice xml:id="Bae_TB_6_4575">
             <abbr xml:id="Bae_TB_6_4576">u.</abbr>
@@ -6393,8 +6390,8 @@
             <expan xml:id="Bae_TB_6_4590">und</expan>
           </choice> Vegetation gleich reizvoll. Gerühmte Ähnlichkeit mit dem 
           <orgName key="Rhein" ref="https://d-nb.info/gnd/4049739-2" xml:id="Bae_TB_6_4591">Rhein</orgName> doch nur bei sehr gutem Willen erkennbar. Abend gaben wir 
-          <persName key="DessewffyThomas" xml:id="Bae_TB_6_4592">Dessewffy</persName> seinem Attaché 
-          <persName key="HofstaetterWalther" xml:id="Bae_TB_6_4593">Walther 
+          <persName key="DessewffyThomas" xml:id="Bae_TB_6_4592">Dessewffy</persName> seinem Attaché <app from="#Bae_MF_4_2861" type="equal"><rdg wit="Bae_MF_4">26. Juni Sonntag. Furchtbar heiß. Ganzen Tag zu Hause mit Korrespondenz und Aufzeichnungen beschäftigt. Am 27. Juni besuchte ich das juvenile Asylum. Am 28. Juni wundervolle Fahrt auf dem Hudson bis Poughkeepsie und zurück. Landhäuser und Vegetation gleich reizvoll. Gerühmte Aehnlichkeit mit dem Rhein, doch nur bei sehr gutem Willen erkennbar. Abend gaben wir Dessewffy, seinem Attaché</rdg></app>
+          <persName key="HofstaetterWalther" xml:id="Bae_TB_6_4593">Walther <app from="#Bae_MF_4_2878" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>
             <choice xml:id="Bae_TB_6_4594">
               <abbr xml:id="Bae_TB_6_4595">v.</abbr>
               <expan xml:id="Bae_TB_6_4596">von</expan>
@@ -6418,7 +6415,7 @@
         <p xml:id="Bae_TB_6_4608">Am 
           <date when="1904-06-30" xml:id="Bae_TB_6_4609">30.</date> gegen Abend Fahrt nach 
           <placeName key="Boston" ref="https://www.geonames.org/4931029/city-of-boston.html" xml:id="Bae_TB_6_4610">Boston</placeName>. 
-          <persName key="MerveldtFranz" ref="https://d-nb.info/gnd/138144540" xml:id="Bae_TB_6_4611">Merveldt</persName> hatte es sich über den Rat 
+          <persName key="MerveldtFranz" ref="https://d-nb.info/gnd/138144540" xml:id="Bae_TB_6_4611">Merveldt</persName> hatte <app from="#Bae_MF_4_2881" type="equal"><rdg wit="Bae_MF_4">v.von Hofstätter und einigen andern Herren ein kleines Diner bei Waldorf Astoria, das sehr heiter war. Am 29. juvenile court in New York besucht, Bücher, Commissionen und Generalkonsulat. Am 30. gegen Abend Fahrt nach Boston. Merveldt hatte</rdg></app><anchor/>es sich über <app from="#Bae_MF_4_2898" type="notEqual"><rdg wit="Bae_MF_4">sich auf</rdg></app><anchor/>den Rat 
           <persName key="GiskraKarl" ref="https://d-nb.info/gnd/1272253058" xml:id="Bae_TB_6_4612">Giskra's</persName> in den Kopf gesetzt im 
           <orgName key="HotelTouraine" xml:id="Bae_TB_6_4613">Hotel Tourrain</orgName> abzusteigen. Ich fand es aber lärmend 
           <choice xml:id="Bae_TB_6_4614">
@@ -6468,7 +6465,7 @@
           <choice xml:id="Bae_TB_6_4648">
             <abbr xml:id="Bae_TB_6_4649">u.</abbr>
             <expan xml:id="Bae_TB_6_4650">und</expan>
-          </choice> Amerikanern Vieles möglich, was wir in unseren unregelmäßigen, zerrissenen Tag nicht unterzubringen im Stande sind. 
+          </choice> Amerikanern Vieles möglich, was wir in unseren unregelmäßigen, zerrissenen <app from="#Bae_MF_4_2903" type="equal"><rdg wit="Bae_MF_4">den Rat Giskras in den Kopf gesetzt im Hotel Tourraine abzusteigen. Ich fand es aber lärmend und ungemütlich, wenn auch äusserlich glänzend. Am 1. Juli übersiedelten wir in das Hotel Vendome, an der Commonwealth Avenue gelegen, sehr vornehm und still. Unser Aufenthalt in Boston war sehr genußreich, wenn man das Hasten abrechnet ohne dem es kein amerikanisches Leben gibt. Auf beschauliches Ausgenießen und Wirkenlassen der Eindrücke darf man da drüben nicht rechnen – kaum daß man am Ende des Tages oder oder an einem Sonntag (den man deswegen herbeisehnt) Ruhe findet, die notwendigen Aufzeichnungen zu machen. Am 1. Juli ging Merveldt sofort zu Herrn Atkinson, an den wir durch Max Kuebeck empfohlen waren und der uns sehr behilflich war und überhaupt ein sehr unterrichteter, ja gelehrter alter Herr ist, wiewohl seine Kräfte vor allem einer großen Versicherungsgesellschaft die er leitet gewidmet sind. Genaue, unverbrüchliche Zeiteinteilung macht den Engländern und Amerikanern Vieles möglich, was wir in unseren unregelmäßigen, zerrissenen</rdg></app><anchor/>Tag <app from="#Bae_MF_4_2923" type="notEqual"><rdg wit="Bae_MF_4">Tagen</rdg></app><anchor/>nicht unterzubringen im Stande sind. 
         </p>
         <p xml:id="Bae_TB_6_4651">Ich ging sofort zu 
           <persName key="PettigroveFrederick" xml:id="Bae_TB_6_4652">
@@ -6490,11 +6487,11 @@
           <date when="1904-07-02" xml:id="Bae_TB_6_4663">2. July</date> abermals bei 
           <persName xml:id="Bae_TB_6_4664">Pettigrove</persName>, der mir das ganze 
           <orgName key="MassachusettsStateHouse" xml:id="Bae_TB_6_4665">Statehouse</orgName> von 
-          <placeName key="Boston" ref="https://www.geonames.org/4931029/city-of-boston.html" xml:id="Bae_TB_6_4666">Boston</placeName>, die Sitzungssäle der legislativen Versammlung 
+          <placeName key="Boston" ref="https://www.geonames.org/4931029/city-of-boston.html" xml:id="Bae_TB_6_4666">Boston</placeName>, die Sitzungssäle der legislativen Versammlung <app from="#Bae_MF_4_2926" type="equal"><rdg wit="Bae_MF_4">nicht unterzubringen imstande sind. Ich ging sofort zu Herrn Pettiygrove, den Prisonercommissioner, wo ich sofort meine Pläne behufs Besichtigung von Anstalten und Gefängnissen machen konnte. Hatte lange Unterredung mit diesem in jeder Hinsicht gebildeten und erfahrenen Mann. Erhielt von ihm reiches Material. 2. Juli abermals bei Pettigrove, der mir das ganze Statehouse von Boston, die Sitzungssäle der legislativen Versammlung</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_4667">
             <abbr xml:id="Bae_TB_6_4668">u.</abbr>
             <expan xml:id="Bae_TB_6_4669">und</expan>
-          </choice> Bureau's sowie die Bibliothek zeigte. Stellte mich auch dem Gouverneur 
+          </choice> Bureau's sowie die Bibliothek <app from="#Bae_MF_4_2939" type="notEqual"><rdg wit="Bae_MF_4">und die Büros sowie die Bibliotheken</rdg></app><anchor/>zeigte. Stellte mich auch dem Gouverneur 
           <choice xml:id="Bae_TB_6_4670">
             <abbr xml:id="Bae_TB_6_4671">v.</abbr>
             <expan xml:id="Bae_TB_6_4672">von</expan>
@@ -6623,15 +6620,15 @@
           </choice> ein Haus bewohnt, das mir ebenfalls gezeigt wurde. Er arbeitete in einem Turmzimmer, in das man nur durch eine Falltüre gelangen konnte. Wollte er ungestört sein, so stellte er seinen Schreibtisch auf die Falltür 
           <pb facs="#F_K-4_Bae_TB_6_125" n="58v" xml:id="Bae_TB_6_4768"/>
           <note type="editorial" xml:id="Bae_TB_6_4769">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_6_126" n="59r" xml:id="Bae_TB_6_4770"/>und es konnte niemand herein. Auch der berühmte Rebenstock wurde mir gezeigt; von dieser Traube, die durch grosse Sorgfalt acclimatisirt wurde, stammen alle Weintrauben, die in dieser Gegend reif werden. Herrlicher Friedhof: sleepy hollow. Ein Park mit Hügeln 
+          <pb facs="#F_K-4_Bae_TB_6_126" n="59r" xml:id="Bae_TB_6_4770"/>und es konnte niemand herein. Auch der berühmte Rebenstock wurde mir gezeigt; von dieser Traube, die durch grosse Sorgfalt acclimatisirt wurde, stammen alle Weintrauben, die in dieser Gegend reif werden. <app from="#Bae_MF_4_2942" type="equal"><rdg wit="Bae_MF_4">zeigte. Stellte mich auch dem Gouverneur von Massachusets Mr. Bates vor, der gerade Empfangsstunde hatte und ohne jede Formalität empfieng, wer eben kam. Ich sah ihn, gerade bevor ich zu ihm eintreten konnte, mit einem ganz einfachen Mann, anscheinend einem Arbeiter, sehr lang und eingehend sprechen. Am 3. Juli, einem Sonntag, waren wir bei Atkinson zu Tisch geladen. Er wohnt in Brookline, dem geradezu wundervollen Park von Boston. Mit "Park" ist eigentlich zu viel und zu wenig gesagt. Nur ein Teil dieses Riesenterrains, welches kein Stadtviertel genannt werden kann, da man stundenlang der Kreuz und der Quer darin herumfahren kann, ist als ein großer Volksgarten auf das sorgfältigste gepflegt und dient ausschließlich als Spaziergang – im Uebrigen ist Brookline ein Villenviertel größten Stils. Hunderte von Villen stehen dort, größere und kleinere, in größeren und kleinern Gärten, von denen einige selbst wieder ganze Parks sind – alles inmitten einer wohlgepflegten Vegetation, durchzogen von ausgezeichneten Straßen und Wegen, überall elektrisches Licht, Tramways. Das Diner bei Atkinson war patriarchalisch einfach. Uns zu Ehren kalifornischer Burgunder. Nach Tisch eine genußreiche Rundfahrt durch den Park, wobei uns auch der dortige country club gezeigt wurde, ein Sommerclub, wo man wohnen, essen und alle denkbaren Sports betreiben kann. Am 4. Juli, dem Independence day, großer Lärm, Petarden schon vom frühen Morgen an. Allgemeiner Feiertag, während dem zwar feierliche Meetings, Ansprachen auch gehalten werden – aber alles übertönt wird durch infernalisches Spektakel. Kein erhebendes Schauspiel. Polizei sucht zu steuern, da dieser Tag in den großen Städten regelmäßig viele Menschenleben kostet. Soll dieses mal viel mäßiger gewesen sein. Mir war es genug. Abend waren wir wieder bei Atkinson draussen und sahen von seiner "piazza" (wie man die Veranden des Hauses nennt) das Feuerwerk. Von dieser piazza seines Hauses ist wirklich eine reizende Aussicht über einen großen Teich, Bäume in der Ferne, die Häuser Bostons überragt vom Statehouse, dessen Kuppel stets elektrisch beleuchtet ist und wiewohl die Entfernung mehr als 8 englische Meilen beträgt hell herüberglänzt. Am 5. Juli besuchten wir die sogenannte statefarm, eine interessante Anstalt, in der getrennte Abteilungen für Arme, irrsinnige Verbrecher und Arbeitsscheue unter einer Verwaltung vereinigt sind. Am 6. Juli war ich ganz in Anspruch genommen das "probation system" kennen zu lernen, das house of detention. Wurde einem der bekanntesten Richter (Mr. Brown) vorgestellt und verkehrte den ganzen Tag mit den probation officers. Am 7. war ich in Begleitung des Sheriffs von Boston und des Rev. Walker in Concord. Zuerst Strafanstalt besichtigt, dann die einige Kilometer entfernte Stadt. Urbild einer kleinen neuenglischen Stadt, in der sich aber die höchste Intelligenz ausgelebt hat. Emerson hat hier gewohnt und sein Haus wird noch von seiner Tochter bewohnt, die jedes Jahr einmal das Arbeitszimmer Emersons den Schulkindern zeigt. Hawthorne hat hier geschrieben und ein Haus bewohnt, das mir ebenfalls gezeigt wurde. Er arbeitete in einem Turmzimmer, in das man nur durch eine Falltüre gelangen konnte. Wollte er ungestört sein, so stellte er seinen Schreibtisch auf die Falltüre und es konnte niemand herein. Auch der berühmte Rebenstock wurde mir gezeigt; von dieser Traube, die durch große Sorgfalt akklimatisiert wurde, stammen alle Weintrauben, die in dieser Gegend reif werden.</rdg></app><anchor/>Herrlicher <app from="#Bae_MF_4_2998" type="notEqual"><rdg wit="Bae_MF_4">Stimmungsvoller</rdg></app><anchor/>Friedhof: sleepy hollow. Ein Park mit Hügeln 
           <choice xml:id="Bae_TB_6_4771">
             <abbr xml:id="Bae_TB_6_4772">u.</abbr>
             <expan xml:id="Bae_TB_6_4773">und</expan>
-          </choice> Thälern. Riesigen Bäumen 
+          </choice> Thälern. <app from="#Bae_MF_4_3003" type="equal"><rdg wit="Bae_MF_4">Friedhof: sleepy hollow. Ein Park mit Hügeln und Tälern</rdg></app><anchor/>Riesigen Bäumen 
           <choice xml:id="Bae_TB_6_4774">
             <abbr xml:id="Bae_TB_6_4775">u.</abbr>
             <expan xml:id="Bae_TB_6_4776">und</expan>
-          </choice> wohlgepflegten Wiesen. Die Gräber mit einfachen Grabsteinen darin verteilt. 
+          </choice> wohlgepflegten Wiesen. <app from="#Bae_MF_4_3009" type="notEqual"><rdg wit="Bae_MF_4">Riesige Bäume und wohlgepflegte Wiesen.</rdg></app><anchor/>Die Gräber mit einfachen Grabsteinen darin verteilt. 
           <persName key="EmersonRalph" ref="https://d-nb.info/gnd/118530127" xml:id="Bae_TB_6_4777">Emerson</persName> ruht unter einem Block von Rosengranit, den er sich bei Lebzeiten ausgesucht. 
           <placeName key="Concord" ref="https://www.geonames.org/4933769/town-of-concord.html" xml:id="Bae_TB_6_4778">Concord</placeName> hat eine von 
           <persName key="MunroeWilliam" xml:id="Bae_TB_6_4779">Monroe</persName> gestiftete Bibliothek. Es ist auch der Ort, an dem der erste Schuss im Befreiungskrieg gefallen ist; noch steht das kleine Wirtshaus in dem die englischen Soldaten übernachteten. Mit Stolz erzählte mir unser Führer, der Direktor der 
@@ -6673,9 +6670,9 @@
           </orgName> in 
           <placeName key="Boston" ref="https://www.geonames.org/4931029/city-of-boston.html" xml:id="Bae_TB_6_4809">Boston</placeName> October 
           <choice xml:id="Bae_TB_6_4810">
-            <abbr xml:id="Bae_TB_6_4811">a. D.</abbr>
-            <expan xml:id="Bae_TB_6_4812">anno Domini</expan>
-          </choice>
+            <abbr xml:id="Bae_TB_6_4811">a.</abbr>
+            <expan xml:id="Bae_TB_6_4812">anno</expan>
+          </choice> <app from="#Bae_MF_4_3012" type="equal"><rdg wit="Bae_MF_4">Die Gräber mit einfachen Grabsteinen darin verteilt. Emerson ruht unter einem Block von Rosengranit, den er sich bei Lebzeiten ausgesucht. Concord hat eine von Monroe gestiftete Bibliothek. Es ist auch der Ort, an dem der erste Schuß im Befreiungskrieg gefallen ist; noch steht das kleine Wirtshaus in dem die englischen Soldaten übernachteten. Mit Stolz erzählte mir unser Führer, der Direktor der Strafanstalt, daß Concord für seine Polizei $ 2100, für Erziehungszwecke $ 23.000 im Jahre ausgebe. Herrliche Alleen, wohlgepflegte Wege bilden den Ramen für das Städtchen, das in seiner Ruhe, Vornehmheit und Weihe auf mich einen Eindruck gemacht hat, wie kein anderer Ort da drüben. An einem der Abende waren wir auch im Stadtpark von Boston, dem common, der mitten in der Stadt liegt, große Bäume, gepflegte Blumenbeete, Wasserbassins und viele Denkmäler enthält. Dort sah ich, was nach meiner Meinung die schönste Statue in Amerika ist, eine Reiterstatue von Washington, die je mehr und von je mehr Seiten man sie betrachtet in ihrer Schönheit und Linienführung immer bedeutsamer hervortritt. Merkwürdig ein Denkmal zur Erinnerung an die Erfindung des Chloroforms als Betäubungsmittel, gesetzt im Jahre 1867 von Thomas Lee mit der Inschrift: "To commemorate the discovery that the inhaling of ether causes insensibility to pain first proved to the world at the Mass. General Hospital in Boston October a.</rdg></app><anchor/><choice><abbr>D.</abbr><expan>Domini</expan></choice> <app from="#Bae_MF_4_3039" type="missing"><rdg wit="Bae_MF_4">D.</rdg></app><anchor/>
           <date when="1846" xml:id="Bae_TB_6_4813">M.D.C.C.C.XLVI</date>. 
         </p>
         <p xml:id="Bae_TB_6_4814">Ein Denkmal zur Erinnerung an den Bürgerkrieg hat die Inschrift: To the men of 
@@ -6726,8 +6723,8 @@
           <persName key="SilvestriHugo" xml:id="Bae_TB_6_4851">Vizeconsul Silvestri</persName>. Abend war ein furchtbares Gewitter, das dräuend über den Michigansee heraufzog. 
         </p>
         <p xml:id="Bae_TB_6_4852">Am 
-          <date when="1904-07-12" xml:id="Bae_TB_6_4853">12.</date> Dienstag früh Fruchtbörse (mit furchtbarem Geschrei) – grosse Bank mit Säulenhof. Dann im Gerichthaus wo 
-          <persName key="MackJulian" xml:id="Bae_TB_6_4854">Richter Mack</persName> den Vorsitz führte. 
+          <date when="1904-07-12" xml:id="Bae_TB_6_4853">12.</date> Dienstag früh Fruchtbörse (mit furchtbarem Geschrei) – grosse Bank mit Säulenhof. Dann im Gerichthaus wo Richter <app from="#Bae_MF_4_3042" type="equal"><rdg wit="Bae_MF_4">M.D.C.C.C.XLVI. Ein Denkmal zur Erinnerung an den Bürgerkrieg hat die Inschrift: "To the men of Boston who died for their country on land and sea in the war which kept the Union whole, destroyed slavery and maintained the constitution – the grateful city has build this monument that their example may speak to coming generations." Glücklich ein Volk, das eine so gerade Politik mit so klaren Zielen verfolgen kann. In dieser großen Einheit trotz aller staatlicher Verschiedenheit liegt die Riesenkraft der Union. Am 8. Juli sehr zeitlich früh verließen wir Boston und fuhren über Albany nach Buffalo. Fahrt längst des Eriekanals, der aber von Schiffen sehr wenig belebt war, dagegen rechts und links von ihm Eisenbahnen mit 4 Geleisen. Abend Ankunft in Buffalo, wo wir in dem ausgezeichneten Hotel Niagara abstiegen. Am 9. Besuch des Niagarafalles, den wir von allen Seiten besahen. Dann zum Whirlpool, der großen Drehe des Flusses. Am 10. früh über Detroit nach Chicago, wo ich wegen einer großen Zugsverspätung erst um 1 Uhr nachts ankam. Am 11. Montag früh ging ich aufs Konsulat wo ich den in jeder Hinsicht ausgezeichnet informierten und liebenswürdigen Konsul v. Nuber kennen lernte. Lunch mit dem englischen Vizekonsul Elskin, Nuber und unsern Vizeconsul Silvestri. Abend war ein furchtbares Gewitter, das dräuend über den Michigansee heraufzog. Am 12. Dienstag früh Fruchtbörse (mit furchtbarem Geschrei) – große Bank mit Säulenhof. Dann im Gerichthaus wo Richter</rdg></app><anchor/>
+          <persName key="MackJulian" xml:id="Bae_TB_6_4854">Mack</persName> <app from="#Bae_MF_4_3087"><rdg wit="Bae_MF_4">Mark</rdg></app><anchor/>den Vorsitz führte. 
           <persName key="HurleyJames" xml:id="Bae_TB_6_4855">Mr. Hurley</persName> in der 
           <orgName key="GermanAidSociety" xml:id="Bae_TB_6_4856">Aid Society</orgName> besucht 
           <choice xml:id="Bae_TB_6_4857">
@@ -6838,10 +6835,10 @@
             <expan xml:id="Bae_TB_6_4941">und</expan>
           </choice>
           <persName key="ElliotGilbert" ref="https://d-nb.info/gnd/1068897562" xml:id="Bae_TB_6_4942">Lord Minto</persName>, wie ich dieselben sofort in 
-          <placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html" xml:id="Bae_TB_6_4943">Ottawa</placeName> niederschrieb. 
+          <placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html" xml:id="Bae_TB_6_4943">Ottawa</placeName> niederschrieb. <app from="#Bae_MF_4_3091" type="equal"><rdg wit="Bae_MF_4">den Vorsitz führte. Mr. Hurley in der Aid Society besucht und von ihm sehr wertvolles Material erhalten. Nachmittag bei Richter Tuthill im juvenile court. Abend Ausfahrt und Besichtigung von Chicago. Am 13. Detention house, John Worthy Scool – Abend lake forrest und der country club daselbst, wo wir aßen. Am 14. Donnerstag Briefen und Niederschriften gewidmet. Abend Abreise nach Toronto. Am 15. früh in Toronto angekommen. Besichtigung der Stadt, des Parlamentshauses, das herrlich in einem Park liegt und einen imposanten Eindruck macht. Abend Abreise nach Montreal. Am 16. Samstag, in Montreal uns umgesehen. Auf den Mont royal gefahren, wo herrliche Aussicht auf Stadt und Lorenzostrom. Am 17. Sonntag in Montreal. Auf der langen Brücke über den Lorenzostrom gefahren und die Stadt nach allen Richtungen durchstreift. Am 19. Dienstag fuhren wir nach Ottawa, dem Sitz der Colonialregierung und des Centralparlaments von Canada. Wir hatten eine Empfehlung an den Governor Lord Minto, sprachen aber zuerst bei Sir Wilfrid Laurier, dem Premierminister von Canada vor. Ein Mann halb Franzose, halb Engländer von den feinsten Formen und großer Gewandtheit. Wir hatten eine lange Unterredung mit ihm über alle möglichen Themata, sowie auch Tags darauf (den 20.) mit Lord Minto, der uns zum lunch eingeladen hatte. Es war ein furchtbar heißer Tag und gerade als wir um 1/2 1 Uhr Mittag zu Lord Minto fuhren, brach ein Gewitter tropischer Art mit Wassermassen und Wirbelwinden los. Lunch in Anbetracht der Hitze aus lauter geeisten Speisen und Getränken bestehend. Unsere Unterredungen mit Sir Wilfrid Laurier und Lord Minto, wie ich dieselben sofort in Ottawa niederschrieb.</rdg></app>
         </p>
         <!-- DC: es folgt auf fol. 63 bis fol. 67 eine Einklebung von Notizzetteln, die hier wiedergegeben werden -->
-        <p xml:id="Bae_TB_6_4944">
+        <p xml:id="Bae_TB_6_4944"><anchor/>
           <placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html" xml:id="Bae_TB_6_4945">Ottawa</placeName>
           <date when="1904-07-18" xml:id="Bae_TB_6_4946">18.7.1904.</date>
         </p>
@@ -6906,19 +6903,19 @@
           <choice xml:id="Bae_TB_6_4990">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4991"/>
             <expan xml:id="Bae_TB_6_4992">aber</expan>
-          </choice> geschmeidig 
+          </choice> <app from="#Bae_MF_4_3140" type="equal"><rdg wit="Bae_MF_4">Ottawa 18.7.1904. Wir kamen um 12 Uhr Mittags nach Ottawa und suchten Nachmittag sofort den Private Secretary von Sir Wilfrid Laurier auf, zeigten ihm unsere offiziellen Empfehlungsbrief an den Governor und wurden sofort zu Sir Wilfrid geführt. Französischer, katholischer Canadier. Wir sprachen englisch, aber er ist schon im Aueussern eine Mischung eines vornehmen Engländers und eines vornehmen Franzosen, sehr bestimmt, förmlich höflich, aber</rdg></app><anchor/>geschmeidig 
           <choice xml:id="Bae_TB_6_4993">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4994"/>
-            <expan xml:id="Bae_TB_6_4995">was die Engländer</expan>
-          </choice> in der 
+            <expan xml:id="Bae_TB_6_4995">was die </expan>
+          </choice> <app from="#Bae_MF_4_3151" type="notEqual"><rdg wit="Bae_MF_4">geschmeidiger als die</rdg></app><anchor/><choice><abbr type="shorthand" subtype="gabelsberger"></abbr><expan>Engländer</expan></choice> in der 
           <choice xml:id="Bae_TB_6_4996">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_4997"/>
             <expan xml:id="Bae_TB_6_4998">Regel sind</expan>
-          </choice>. In der Conversation 
+          </choice>. In der Conversation <app from="#Bae_MF_4_3155" type="equal"><rdg wit="Bae_MF_4">Engländer in der Regel sind. In der Konversation</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_4999">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5000"/>
             <expan xml:id="Bae_TB_6_5001">mit</expan>
-          </choice> mir 
+          </choice> mir <app from="#Bae_MF_4_3158" type="notEqual"><rdg wit="Bae_MF_4">kommt sein</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_5002">
             <abbr xml:id="Bae_TB_6_5003">französ.</abbr>
             <expan xml:id="Bae_TB_6_5004">französisches</expan>
@@ -6934,11 +6931,11 @@
           <choice xml:id="Bae_TB_6_5011">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5012"/>
             <expan xml:id="Bae_TB_6_5013">Licht erscheinen lässt</expan>
-          </choice>, was er bespricht, er plaidirt 
+          </choice>, was er bespricht, <app from="#Bae_MF_4_3163" type="equal"><rdg wit="Bae_MF_4">französisches Wesen dadurch sehr stark zum Ausdruck, dass er mehr "darstellt", in einem ihm genehmen Licht erscheinen läßt, was er bespricht,</rdg></app><anchor/>er plaidirt 
           <choice xml:id="Bae_TB_6_5014">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5015"/>
             <expan xml:id="Bae_TB_6_5016">mehr</expan>
-          </choice> als er aufklärt. Leider unterbrach ihn 
+          </choice> als er <app from="#Bae_MF_4_3172" type="notEqual"><rdg wit="Bae_MF_4">er mehr plaidiert als</rdg></app><anchor/>aufklärt. Leider unterbrach ihn 
           <persName key="MerveldtFranz" ref="https://d-nb.info/gnd/138144540" xml:id="Bae_TB_6_5017">Merveldt</persName> einige Male in seinen 
           <choice xml:id="Bae_TB_6_5018">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5019"/>
@@ -6960,7 +6957,7 @@
               <abbr xml:id="Bae_TB_6_5031">V.St.</abbr>
               <expan xml:id="Bae_TB_6_5032">Vereinigten Staaten</expan>
             </choice>
-          </placeName> überflügelt worden ist (overshadowed), dass es aber im 20. 
+          </placeName> überflügelt worden <app from="#Bae_MF_4_3179" type="equal"><rdg wit="Bae_MF_4">aufklärt. Leider unterbrach ihn Merveldt einigemale in seinen Auseinandersetzungen. Er führte zunächst den Gedanken aus (leider nicht zu Ende!) daß Canada von den Vereinigten Staaten überflügelt worden</rdg></app><anchor/>ist <app from="#Bae_MF_4_3188" type="notEqual"><rdg wit="Bae_MF_4">sei</rdg></app><anchor/>(overshadowed), dass es aber im 20. 
           <choice xml:id="Bae_TB_6_5033">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5034"/>
             <expan xml:id="Bae_TB_6_5035">Jahrhundert</expan>
@@ -6972,20 +6969,20 @@
           <choice xml:id="Bae_TB_6_5039">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5040"/>
             <expan xml:id="Bae_TB_6_5041">Fort</expan>
-          </choice>schritte machen 
-          <choice xml:id="Bae_TB_6_5042">
+          </choice>schritte machen <app from="#Bae_MF_4_3193" type="equal"><rdg wit="Bae_MF_4">(overshadowed), daß es aber im 20. Jahrhundert ganz gewiß große Fortschritte machen</rdg></app>
+          <anchor/><choice xml:id="Bae_TB_6_5042">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5043"/>
             <expan xml:id="Bae_TB_6_5044">wird</expan>
-          </choice>, 
+          </choice><app from="#Bae_MF_4_3196" type="notEqual"><rdg wit="Bae_MF_4">werde</rdg></app><anchor/>, 
           <choice xml:id="Bae_TB_6_5045">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5046"/>
             <expan xml:id="Bae_TB_6_5047">wenngleich nicht</expan>
           </choice> so sprunghaft wie die 
-          <placeName key="Amerika" ref="https://www.geonames.org/6252001/united-states.html" xml:id="Bae_TB_6_5048">Staaten</placeName>. Der Fortschritt sei 
+          <placeName key="Amerika" ref="https://www.geonames.org/6252001/united-states.html" xml:id="Bae_TB_6_5048">Staaten</placeName>. Der Fortschritt sei <app from="#" type="equal"><rdg wit="Bae_MF_4">, wenngleich nicht so sprunghaft wie die Staaten. Der Fortschritt sei</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_5049">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5050"/>
             <expan xml:id="Bae_TB_6_5051">langsamer</expan>
-          </choice>, aber stetiger. Bisher habe 
+          </choice>, aber stetiger. <app from="#Bae_MF_4_3204" type="notEqual"><rdg wit="Bae_MF_4">langsam, aber stetig.</rdg></app><anchor/>Bisher habe 
           <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_5052">Canada</placeName>, was es an 
           <choice xml:id="Bae_TB_6_5053">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5054"/>
@@ -7081,7 +7078,7 @@
           <choice xml:id="Bae_TB_6_5122">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5123"/>
             <expan xml:id="Bae_TB_6_5124">irgend eine</expan>
-          </choice> Nation, sie haben oft 10-12 Kinder, 
+          </choice> Nation, sie haben oft 10-12 Kinder<app from="#Bae_MF_4_3207" type="equal"><rdg wit="Bae_MF_4">Bisher habe Canada, was es an Einwanderung gewann, wieder an die Staaten abgegeben, jetzt aber sei eine bedeutende Einwanderung aus den Staaten im Gange, so daß die Bevölkerungszunahme von Canada eine wachsende sei. "Wir machen es auch den Einwanderern nicht so leicht canadische Bürger zu werden, als in den Staaten." Ausführlich erörterte er die Nationalitätenfrage. Zunächst bei Gericht. Jeder kann in seiner Sprache Schriftstücke überreichen Reden halten, aber es wird angenommen, daß jeder die andere Sprache versteht. Die Richter verstehen beide Sprachen. Die Franzosen vermehren sich in der Provinz Quebek mehr als irgend eine Nation, sie haben oft 10-12 Kinder.</rdg></app><anchor/>, 
           <choice xml:id="Bae_TB_6_5125">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5126"/>
             <expan xml:id="Bae_TB_6_5127">aber</expan>
@@ -7102,7 +7099,7 @@
           <choice xml:id="Bae_TB_6_5138">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5139"/>
             <expan xml:id="Bae_TB_6_5140">der Bevölkerung</expan>
-          </choice> einschränke. Die völlige Gleich 
+          </choice> einschränke. <app from="#Bae_MF_4_3222" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>Die völlige Gleich 
           <choice xml:id="Bae_TB_6_5141">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5142"/>
             <expan xml:id="Bae_TB_6_5143">berechtigung</expan>
@@ -7224,8 +7221,11 @@
           <hi rendition="#ul" xml:id="Bae_TB_6_5230">eine</hi> Nation 
           <choice xml:id="Bae_TB_6_5231">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5232"/>
-            <expan xml:id="Bae_TB_6_5233">wie sie</expan>
-          </choice> sagen. 
+            <expan xml:id="Bae_TB_6_5233">wie</expan>
+          </choice><app from="#Bae_MF_4_3226" type="equal"><rdg wit="Bae_MF_4">Die völlige Gleichberechtigung sei question of sentiment. Im Parlament in Ottawa können beide Sprachen gebraucht werden, in der Regel wird aber englisch gesprochen, da alle Deputierten englisch verstehen, aber nicht alle französisch, nämlich jene aus dem Teile von Canada, der keine gemischte Bevölkerung hat. Der Ministerpräsident spricht auch in der Regel englisch, kommt aber auch in die Gelegenheit wo er es passend findet, französisch zu reden. Die beiden Nationalitäten gehören beiden politischen Parteien an. Es gibt so gut konservative Franzosen wie Engländer und liberale Engländer und Franzosen. Laurier gibt zu, daß unter der französischen Bevölkerung eine Strömung besteht, ein ausschließlich französisches Canada zu konstituieren, diese Strömung kommt aber praktisch nicht zum Ausdruck; er selbst sei entschieden dagegen. Laurier behauptet, daß beide Nationalitäten gut miteinander auskommen – kleine Reibungen nicht ausgeschlossen. Beide Nationen fühlen sich aber nur als Canadier, sie bilden eine Nation wie</rdg></app><anchor/><choice>
+            <abbr type="shorthand" subtype="gabelsberger"/>
+            <expan>sie</expan>
+          </choice> <app from="#Bae_MF_4_3244" type="notEqual"><rdg wit="Bae_MF_4">wir</rdg></app><anchor/>sagen. 
           <persName key="LaurierWilfrid" ref="https://d-nb.info/gnd/118778951" xml:id="Bae_TB_6_5234">Laurier</persName> sagt 
           <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_5235">Canada</placeName> habe Platz für alle, es sei nicht notwendig sich 
           <choice xml:id="Bae_TB_6_5236">
@@ -7270,8 +7270,8 @@
               <abbr xml:id="Bae_TB_6_5266">Parl.</abbr>
               <expan xml:id="Bae_TB_6_5267">Parlament</expan>
             </choice>
-          </orgName> von 
-          <placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html" xml:id="Bae_TB_6_5268">Ottawa</placeName> verständlich machen wolle, muß man wohl 
+          </orgName> <app from="#Bae_MF_4_3247" type="equal"><rdg wit="Bae_MF_4">sagen. Laurier sagt, Canada habe Platz für alle, es sei nicht notwendig sich gegenseitig den Platz streitig zu machen, aber beide Nationen müssen fortschreiten, sich entwickeln, denn hier gäbe es keinen Stillstand, den könnte hier niemand ertragen. Alle Franzosen verstehen englisch, aber nicht umgekehrt, wenn man sich also im Parlament </rdg></app><anchor/>von 
+          <placeName key="Ottawa" ref="https://www.geonames.org/8581623/ottawa.html" xml:id="Bae_TB_6_5268">Ottawa</placeName> <app from="#Bae_MF_4_3253" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>verständlich machen wolle, muß man wohl 
           <choice xml:id="Bae_TB_6_5269">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5270"/>
             <expan xml:id="Bae_TB_6_5271">Englisch</expan>
@@ -7426,18 +7426,18 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5382"/>
             <expan xml:id="Bae_TB_6_5383">aber</expan>
           </choice>
-          <persName key="LaurierWilfrid" ref="https://d-nb.info/gnd/118778951" xml:id="Bae_TB_6_5384">Laurier</persName> so, dass in diesen Artikeln der 
+          <persName key="LaurierWilfrid" ref="https://d-nb.info/gnd/118778951" xml:id="Bae_TB_6_5384">Laurier</persName> so, dass in diesen Artikeln der <app from="#Bae_MF_4_3256" type="equal"><rdg wit="Bae_MF_4">verständlich machen wolle, muß man wohl englisch reden, bei französischen Reden ist die Aufmerksamkeit geringer. – Die stenografischen Protokolle des Parlamentes von Ottawa werden in beiden Sprachen gedruckt, nicht spaltenweise englisch und französisch, sondern in besonderen Bänden. Es besteht ein ein Uebersetzungsbüro. Auf meine Frage, ob diese doppelte Ausgabe der stenografischen Protokolle eine Notwendigkeit sei, sagte er mir: die französische Ausgabe werde allerdings wenig benützt aber "it is a question of sentiment." Die Uebersetzungen kosten uns Geld, aber es sei dies gut angewendet und es müsse so sein. Ausführlich sprachen wir ferner über die Handelspolitik von Canada. Der preferential tarif, den Canada England gewährt hat, besteht darin, daß von den Zollsätzen des canadischen Zolltarifes England gegenüber 1/3 abgestrichen wird. Ausnahmen, die aber praktisch nicht in Betracht kommen, nur bezüglich einzelner Waren, z.B. Wolle und Spiegel, für die Canada seinen Fabriken einen größeren Schutz gewähren wollte. Ich verstand aber Laurier so, daß in diesen Artikeln der</rdg></app><anchor/>
           <index xml:id="Bae_TB_6_5385">
             <term key="Kanada" xml:id="Bae_TB_6_5386">Zolltarif</term>
             <index xml:id="Bae_TB_6_5387">
               <term key="Zolltarif" xml:id="Bae_TB_6_5388"/>
             </index>
-          </index> erhöht würde, dass 1/3 Abzug 
+          </index> <app from="#Bae_MF_4_3275" type="notEqual"><rdg wit="Bae_MF_4">Zollsatz</rdg></app><anchor/>erhöht <app from="#Bae_MF_4_3284" type="equal"><rdg wit="Bae_MF_4">erhöht</rdg></app><anchor/>würde, dass <app from="#Bae_MF_4_3287" type="notEqual"><rdg wit="Bae_MF_4">wurde, der</rdg></app><anchor/>1/3 Abzug 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_6_5389">England</placeName>
           <choice xml:id="Bae_TB_6_5390">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5391"/>
             <expan xml:id="Bae_TB_6_5392">gegenüber</expan>
-          </choice> bleibt, was auf einem 
+          </choice> <app from="#Bae_MF_4_3295" type="equal"><rdg wit="Bae_MF_4">1/3 Abzug Englang gegenüber</rdg></app><anchor/><app from="#Bae_MF_4_3299" type="missing"><rdg wit="Bae_MF_4">aber</rdg></app><anchor/>bleibt, was auf einem 
           <choice xml:id="Bae_TB_6_5393">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5394"/>
             <expan xml:id="Bae_TB_6_5395">anderen</expan>
@@ -7500,7 +7500,7 @@
           <choice xml:id="Bae_TB_6_5439">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5440"/>
             <expan xml:id="Bae_TB_6_5441">sind</expan>
-          </choice> vorangegangen: 
+          </choice> vorangegangen: <app from="#Bae_MF_4_3303" type="equal"><rdg wit="Bae_MF_4">bleibt, was auf einem anderen Wege die Wirkung hat, daß diese Waren höher besteuert bleiben auch England gegenüber. Mit einigem Stolz machte er geltend, dass Canada diese Politik seit 1897 verfolge und zwar unabhängig davon, wie sich England dazu verhalte. Canada sei mit dieser Begünstigung vorangegangen, ohne zu warten, daß England in irgend einer Richtung Reziprozität übe. Grundsatz der canadischen Regierung sich in die englische Politik nicht zu mischen – die Canadier sind vorangegangen</rdg></app><anchor/><app from="#Bae_MF_4_3312" type="missing"><rdg wit="Bae_MF_4">und</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_5442">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5443"/>
             <expan xml:id="Bae_TB_6_5444">warten das</expan>
@@ -7561,19 +7561,18 @@
           </choice> die Eifersucht der Premierminister zu haben. 
         </p>
         <p xml:id="Bae_TB_6_5487">
-          <persName key="LaurierWilfrid" ref="https://d-nb.info/gnd/118778951" xml:id="Bae_TB_6_5488">Laurier</persName> war so liebens 
-          <choice xml:id="Bae_TB_6_5489">
+          <persName key="LaurierWilfrid" ref="https://d-nb.info/gnd/118778951" xml:id="Bae_TB_6_5488">Laurier</persName> war so liebens<choice xml:id="Bae_TB_6_5489">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5490"/>
             <expan xml:id="Bae_TB_6_5491">würdig uns</expan>
           </choice> auf die Gallerie des Hauses zu füren 
           <choice xml:id="Bae_TB_6_5492">
             <abbr xml:id="Bae_TB_6_5493">u.</abbr>
             <expan xml:id="Bae_TB_6_5494">und</expan>
-          </choice> uns 
+          </choice> uns <app from="#Bae_MF_4_3315" type="equal"><rdg wit="Bae_MF_4">warten das Weitere ab. England ist der größte Abnehmer canadischer Producte uund Laurier ist der Ansicht, daß je inniger sich die Handelsbeziehungen zwischen Canada und England gestalten, desto größer wird die Einfuhr und Ausfuhr. Diese Ansicht ist auch in einer ausgezeichneten Rede enthalten, die Fielding, der Finanzminister in Toronto vor kurzem gehalten hat (inliegend). Leider lernten wir Fielding nicht kennen, wiewohl wir Laurier darum ersuchten. Aber auch er scheint die Eifersucht der Premierminister zu haben. Laurier war so liebenswürdig, uns auf die Gallerie des Hauses zu führen und uns</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_5495">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5496"/>
             <expan xml:id="Bae_TB_6_5497">dieselbe</expan>
-          </choice> zu 
+          </choice> <app from="#Bae_MF_4_3329" type="notEqual"><rdg wit="Bae_MF_4">dasselbe</rdg></app><anchor/>zu 
           <choice xml:id="Bae_TB_6_5498">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5499"/>
             <expan xml:id="Bae_TB_6_5500">erklären</expan>
@@ -7858,11 +7857,11 @@
           <choice xml:id="Bae_TB_6_5709">
             <abbr xml:id="Bae_TB_6_5710">u.</abbr>
             <expan xml:id="Bae_TB_6_5711">und</expan>
-          </choice> so viele Rivalitäten es unter ihnen gibt, doch in erträglicher Harmonie. Freilich hat man sie nie durch Sprachenverordnungen beglückt 
+          </choice> so viele Rivalitäten es unter ihnen gibt, doch in erträglicher Harmonie. <app from="#Bae_MF_4_3334" type="equal"><rdg wit="Bae_MF_4">zu erklären. Dort lernten wir auch seine Frau kennen, die sehr dick und echauffiert war, da es an diesem Tage sehr heiß war (95 Fahrenheit). Tags darauf wurden wir von Lord Minto empfangen, der uns zum lunch geladen hatte. Seine verfassungsmäßige Stellung über den Parteien, unberührt durch die Fluktuationen der Politik, ist eine eigene. Er ist wie von einer hohen Warte imstande die politischen, sozialen und ökonomischen Gestaltungen der Kolonie zu verfolgen, darüber zu berichten und dadurch indirekt einen großen Einfluss zu üben, den er direkt allerdings gar nicht hat. Er nimmt von Zeit zu Zeit Aufenthalt in Montreal, Quebec, Toronto und anderen Orten des Dominions, wo er repräsentiert. Aber bei dieser Gelegenheit spricht er mit vielen Menschen, orientiert sich über vieles und bekommt einen von den kleinen Tagesfragen unbeeinflußten Ueberblick über die ganze Lage der Kolonie. In der sehr interessanten Konversation, die wir bei Tisch mit ihm und seinen Herrn (Capitain Bell und zwei andere) hatten, wurde manches ergänzt, aber auch berichtigt, was Laurier uns gesagt hatte. Es besteht – wie Minto sagt – ein gewisser Gegensatz zwischen Franzosen und Engländern. Das Ideal der radikalsten Franzosen wäre eine freie französische Republik am St. Laurence. Niemand will aber die Vereinigung mit Frankreich. Es ist daher ein Wiedersinn, daß die französischen Canadier, um ihre canadisch-französische Gesinnung auszudrücken, die Tricolore aushängen. Die Gesellschaft in Montreal, wo Minto manchmal repräsentiert, ist ganz in ein englisches und französisches Lager geteilt. Man kennt sich kaum. Die Franzosen vermehren sich sehr stark, aber große Kindersterblichkeit. Die Geistlichen suchen mit allen Mitteln gemischte Ehen zu verhindern und verbieten den französischen Mädchen daher Verkehr und Tanz mit Engländern. Mein Hauptinteresse in Canada war die Handelspolitik und die Sprachenfrage. Canada hat die einzig wirksamen Maßregeln gegen die trusts durch ein Gesetz ergriffen, wonach die Exekutive bevollmächtigt wird, Waren, die aus Ländern kommen in denen trusts den billigen Absatz im Ausland durch hochgehaltene Inlandspreise zu erreichen suchen, mit einem Zoll von Fall zu Fall zu belegen, der gleich ist der Differenz zwischen dem Inlandpreise, also dem Kartellpreis und dem für das Ausland fakturierten Verkaufspreis. Ist auf amerikanische Stahlschienen bereits angewendet. Ausserordentlich interessant ist die Sprachenfrage. Ich zog von allen Seiten Erkundigungen ein. Ein Advokat Dr. Goldstein gab mir die umfassendsten Auskünfte über den Gebrauch der beiden Sprachen vor Gericht. Die beiden Nationen leben, so verschieden sie sind und so viele Rivalitäten es unter ihnen gibt, doch in erträglicher Harmonie.</rdg></app><anchor/>Freilich <app from="#Bae_MF_4_3379" type="notEqual"><rdg wit="Bae_MF_4">Allerdings</rdg></app><anchor/>hat man sie nie durch Sprachenverordnungen beglückt 
           <choice xml:id="Bae_TB_6_5712">
             <abbr xml:id="Bae_TB_6_5713">u.</abbr>
             <expan xml:id="Bae_TB_6_5714">und</expan>
-          </choice> sie nie aufeinandergehetzt, sondern ist immer für ein natürliches 
+          </choice> sie nie <app from="#Bae_MF_4_3384" type="equal"><rdg wit="Bae_MF_4">hat man sie nie durch Sprachenverordnungen beglückt und sie nie</rdg></app><anchor/>aufeinandergehetzt, <app from="#Bae_MF_4_3387" type="notEqual"><rdg wit="Bae_MF_4">gegeneinander ausgespielt</rdg></app><anchor/>sondern ist immer für ein natürliches 
           <choice xml:id="Bae_TB_6_5715">
             <abbr xml:id="Bae_TB_6_5716">u.</abbr>
             <expan xml:id="Bae_TB_6_5717">und</expan>
@@ -7880,13 +7879,13 @@
           <choice xml:id="Bae_TB_6_5725">
             <abbr xml:id="Bae_TB_6_5726">u.</abbr>
             <expan xml:id="Bae_TB_6_5727">und</expan>
-          </choice> nach zu entfremden. Nachfolgende Notizen habe ich mir an Ort und Stelle über meine Beobachtungen gemacht. 
+          </choice> nach zu entfremden. Nachfolgende Notizen habe ich mir an Ort und Stelle über meine Beobachtungen gemacht. <app from="#Bae_MF_4_3392" type="equal"><rdg wit="Bae_MF_4">sondern ist immer für ein natürliches und gerechtes Verhältnis beider zu einander tätig gewesen. Freilich handelt es sich hier um zwei Weltsprachen, aber das Deutsche und Italienische sind auch Weltsprachen und doch hat man es bei uns fertig gebracht – allerdings dauern die Bemühungen der Regierung schon einige Jahre – die beiden Völker nach und nach zu entfremden. Nachfolgende Notizen habe ich mir an Ort und Stelle über meine Beobachtungen gemacht.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_145" n="68v" xml:id="Bae_TB_6_5728"/>
         <note type="editorial" xml:id="Bae_TB_6_5729">Diese Seite ist leer.</note>
         <!-- DC: Es folgen auf fol. 69r bis fol. 75r Einklebungen von Notizzetteln, die hier wiedergegeben werden -->
         <pb facs="#F_K-4_Bae_TB_6_146" n="69r" xml:id="Bae_TB_6_5730"/>
-        <p xml:id="Bae_TB_6_5731">Alle diese Angaben 
+        <p xml:id="Bae_TB_6_5731"><anchor/>Alle diese Angaben 
           <choice xml:id="Bae_TB_6_5732">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5733"/>
             <expan xml:id="Bae_TB_6_5734">wurden</expan>
@@ -7921,9 +7920,9 @@
           <choice xml:id="Bae_TB_6_5756">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5757"/>
             <expan xml:id="Bae_TB_6_5758">auseinandersetzte</expan>
-          </choice>. 
+          </choice>. <app from="#Bae_MF_4_3397" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_5759">Richter 
+        <p xml:id="Bae_TB_6_5759"><anchor/>Richter 
           <choice xml:id="Bae_TB_6_5760">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5761"/>
             <expan xml:id="Bae_TB_6_5762">müssen beide</expan>
@@ -7950,12 +7949,12 @@
           </choice>, aber es 
           <choice xml:id="Bae_TB_6_5778">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5779"/>
-            <expan xml:id="Bae_TB_6_5780">ist kein Gesetz dass die Richter</expan>
-          </choice> die Sprachen 
+            <expan xml:id="Bae_TB_6_5780">ist kein Gesetz dass</expan>
+          </choice> <app from="#" type="equal"><rdg wit="Bae_MF_4">Richter müssen beide Sprachen verstehen. Das Urteil fällen sie in jener Sprache, die ihnen geläufiger ist. Keine Vorschrift darüber. Alle Richter haben so viel Kenntnis der Sprache, daß sie die Sache ordentlich führen können, aber es ist kein Gesetz, daß</rdg></app><anchor/><choice><abbr type="shorthand" subtype="gabelsberger"></abbr><expan>die Richter</expan></choice> die Sprachen 
           <choice xml:id="Bae_TB_6_5781">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5782"/>
             <expan xml:id="Bae_TB_6_5783">können müssen</expan>
-          </choice>. Das kommt 
+          </choice>. <app from="#Bae_MF_4_3407" type="notEqual"><rdg wit="Bae_MF_4">der Richter die Sprachen können muß.</rdg></app><anchor/>Das kommt 
           <choice xml:id="Bae_TB_6_5784">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5785"/>
             <expan xml:id="Bae_TB_6_5786">bei</expan>
@@ -8211,7 +8210,7 @@
           <choice xml:id="Bae_TB_6_5973">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5974"/>
             <expan xml:id="Bae_TB_6_5975">treten</expan>
-          </choice> in diesen Fällen interpreter ein. Die Geschworenen 
+          </choice> in diesen Fällen <app from="#Bae_MF_4_3410" type="equal"><rdg wit="Bae_MF_4">Das kommt bei ihrer Ernennung in Betracht und es wird keiner ernannt, der nicht die beiden Sprachen genügend versteht. Es wird daraus kein großer Casus gemacht, weil es als selbstverständlich gilt. Beide Sprachen Sprachen sind bei Gericht vollkommen gleichberechtigt. Die Klage (writ, summons) kann englisch oder französisch sein und der Beklagte kann antworten wie er will. Aber niemand kann einwenden, daß er die Klage oder Gegenschrift nicht versteht. Seine Sache. Wenn ein Teil nicht antworten würde, so wäre das Contempt of court oder eventuell würde er in contumaciam behandelt. Bei den Gerichten, wo Advokaten plaidieren vermittelt der Advokat das Verständnis, wenn ein Teil wirklich des andern Sprache nicht versteht. Bei den andern Gerichten, wo keine Advokaten plaidieren und die Parteien selbst erscheinen, übernimmt dies, wenn nötig der Richter. Diese Sprachenverhältnisse bieten keine Schwierigkeiten; es ist darüber kein Streit. Prinzipiell wird bei Gericht kein Dolmetsch verwendet, weil die allgemeine Präsumtion herrscht, daß beide Sprachen gleichmäßig verstanden werden. Jede Partei muß sorgen, daß sie es versteht. Auch die Zeugen sagen aus in welcher Sprache sie wollen. Ihre Aussagen werden nicht übersetzt; eventuell erklärt der Advokat oder Richter dem einen oder andern Teil was sie gesagt haben. Aber solche Fälle kommen sehr selten vor. Eine Ausnahme von dieser Regel macht nur die Behandlung einer Geschwornenbank, auf der Franzosen und Engländer gemischt sitzen, von denen ein Teil die andere Sprache nicht versteht. Vom Richter verlangt man das Verständnis beider Sprachen, vom Geschworenen kann man es nicht verlangen, daher treten in diesen Fällen</rdg></app><anchor/>interpreter <app from="#Bae_MF_4_3421" type="notEqual"><rdg wit="Bae_MF_4">Dolmetscher</rdg></app><anchor/>ein. Die Geschworenen 
           <choice xml:id="Bae_TB_6_5976">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5977"/>
             <expan xml:id="Bae_TB_6_5978">müssen</expan>
@@ -8271,7 +8270,7 @@
           <choice xml:id="Bae_TB_6_6018">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6019"/>
             <expan xml:id="Bae_TB_6_6020">aber doch</expan>
-          </choice> der Versuch 
+          </choice> <app from="#Bae_MF_4_3426" type="equal"><rdg wit="Bae_MF_4">ein. Die Geschworenen müssen eben alles genau verstehen wie auch der Angeklagte; es ist das ein Fundamentalsatz, an dem mit allen Konsequenzen streng festgehalten wird. Die Grundlage der Gleichberechtigung ist jetzt der conf. act von 1867. Historisch war es nicht die Sprache, sondern die Religion, welche von den französischen Canadiern den Engländern gegenüber hartnäckig verteidigt wurde; "the language was taken as granted." 1840 wurde aber doch</rdg></app><anchor/>der <app from="#Bae_MF_4_3440" type="notEqual"><rdg wit="Bae_MF_4">ein</rdg></app><anchor/>Versuch 
           <choice xml:id="Bae_TB_6_6021">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6022"/>
             <expan xml:id="Bae_TB_6_6023">gemacht</expan>
@@ -8358,8 +8357,8 @@
           <placeName key="Quebec" ref="https://www.geonames.org/6325494/quebec.html" xml:id="Bae_TB_6_6085">Quebek</placeName>, aber 
           <choice xml:id="Bae_TB_6_6086">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6087"/>
-            <expan xml:id="Bae_TB_6_6088">das musste wieder zurückgenommen werden</expan>
-          </choice>, denn in jener 
+            <expan xml:id="Bae_TB_6_6088">das musste wieder</expan>
+          </choice> <app from="#Bae_MF_4_3443" type="equal"><rdg wit="Bae_MF_4">Versuch gemacht, die englische Sprache in Quebec als Staatssprache einzuführen, indem die Bestimmung gesetzt wurde, daß die englische Sprache die Sprache der Gesetzgebung sein solle, daß aber alles ins französische übersetzt werden muß. Nach einiger Zeit mußte jedoch diese Bestimmung wieder aufgehoben werden (u. zw. petitionierten sowohl Engländer als Franzosen in diese Richtung) u.und seither besteht die volle Gleichberechtigung. Man hat später auch in andern Provinzen: Manitoba und Nord Westen versucht, beide Sprachen in derselben Weise gleichberechtigt zu machen wiee wie in Quebec, aber das mußte wieder</rdg></app><anchor/><choice><abbr type="shorthand" subtype="gabelsberger"></abbr><expan>zurückgenommen</expan></choice> <app from="#Bae_MF_4_3460" type="notEqual"><rdg wit="Bae_MF_4">zurückgelegt</rdg></app><anchor/>werden, denn in jener 
           <choice xml:id="Bae_TB_6_6089">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6090"/>
             <expan xml:id="Bae_TB_6_6091">Gegend</expan>
@@ -8393,7 +8392,7 @@
           <choice xml:id="Bae_TB_6_6111">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6112"/>
             <expan xml:id="Bae_TB_6_6113">und</expan>
-          </choice> Amtirung nur einsprachig ist. Dieser 
+          </choice> Amtirung nur einsprachig <app from="#Bae_MF_4_3463" type="equal"><rdg wit="Bae_MF_4">werden, denn in jener Gegend sind zu wenig Franzosen angesiedelt und die Doppelsprachigkeit hatte deswegen praktisch keinen Sinn und war zu kostspielig. Ontario war nie zweisprachig. In Quebec (Stadt) überwiegt das Französische vollkommen. Auch in den Selbstverwaltungen (Municipal code für Gemeinden) alle Veröffentlichungen in der Regel zweisprachig. Aber mit einer gewissen Majorität kann beschlossen werden, daß Veröffentlichungen und Amtierung nur einsprachig</rdg></app><anchor/>ist. <app from="#Bae_MF_4_3475" type="notEqual"><rdg wit="Bae_MF_4">sind</rdg></app><anchor/>Dieser 
           <choice xml:id="Bae_TB_6_6114">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6115"/>
             <expan xml:id="Bae_TB_6_6116">Beschluss muss aber</expan>
@@ -8409,7 +8408,7 @@
           <choice xml:id="Bae_TB_6_6123">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6124"/>
             <expan xml:id="Bae_TB_6_6125">unter</expan>
-          </choice>liegt der Bestättigung durch den Levtenant Governor, 
+          </choice>liegt der Bestättigung durch den <app from="#Bae_MF_4_3480" type="equal"><rdg wit="Bae_MF_4">Dieser Beschluß muß aber kundgemacht werden und unterliegt der Bestätigung durch den</rdg></app><anchor/>Levtenant <app from="#Bae_MF_4_3483" type="notEqual"><rdg wit="Bae_MF_4">Lieutenant</rdg></app><anchor/>Governor, 
           <choice xml:id="Bae_TB_6_6126">
             <abbr xml:id="Bae_TB_6_6127">d.h.</abbr>
             <expan xml:id="Bae_TB_6_6128">das heißt</expan>
@@ -8467,30 +8466,29 @@
           <choice xml:id="Bae_TB_6_6166">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6167"/>
             <expan xml:id="Bae_TB_6_6168">Beschluss</expan>
-          </choice> bestätigt. 
+          </choice> bestätigt. <app from="#Bae_MF_4_3488" type="equal"><rdg wit="Bae_MF_4">Governor, d.h. den stellvertretenden Governor der Provinz. Wird nun gegen einen solchen Beschluß in der betreffenden Gemeinde protestiert und die Zweisprachigkeit verlangt, so versagt der Levtenant Governor die Bestätigung und es muß bei der Zweisprachigkeit bleiben. Es gibt aber Gemeinden, wo dies durchgeführt wird, insbesondere Sparsamkeitsrücksichten, wenn kein begründeter Widerspruch sich erhebt und wenn der Levtenant Governor den bezüglichen Beschluß bestätigt.</rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_6169">Das geltende Recht in 
-          <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_6170">Canada</placeName>. 
+        <p xml:id="Bae_TB_6_6169"><anchor/>Das geltende Recht in 
+          <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_6170">Canada</placeName>.<app from="#Bae_MF_4_3502" type="missing"><rdg wit="Bae_MF_4"></rdg></app> 
         </p>
-        <p xml:id="Bae_TB_6_6171">In ganz 
+        <p xml:id="Bae_TB_6_6171"><anchor/>In ganz 
           <placeName key="Kanada" ref="https://www.geonames.org/6251999/canada.html" xml:id="Bae_TB_6_6172">Canada</placeName> gilt in Strafsachen ein auf englischen 
           <choice xml:id="Bae_TB_6_6173">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6174"/>
             <expan xml:id="Bae_TB_6_6175">Grundlagen</expan>
-          </choice> ruhendes 
-          <choice xml:id="Bae_TB_6_6176">
+          </choice> <app from="#" type="equal"><rdg wit="Bae_MF_4">In ganz Canada gilt in Strafsachen ein auf englischen Grundlagen</rdg></app><anchor/>ruhendes <app from="#Bae_MF_4_3511" type="notEqual"><rdg wit="Bae_MF_4">beruhendes</rdg></app><anchor/><choice xml:id="Bae_TB_6_6176">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6177"/>
             <expan xml:id="Bae_TB_6_6178">Recht</expan>
-          </choice>. (In jeder Provinz besondere Code?) – Ich habe mir einen Code gekauft 
+          </choice>. <app from="#Bae_MF_4_3514" type="equal"><rdg wit="Bae_MF_4">Recht.</rdg></app><anchor/>(In jeder Provinz besondere Code?) – Ich habe mir einen Code gekauft 
           <choice xml:id="Bae_TB_6_6179">
             <abbr xml:id="Bae_TB_6_6180">u.</abbr>
             <expan xml:id="Bae_TB_6_6181">und</expan>
           </choice>
           <pb facs="#F_K-4_Bae_TB_6_151" n="71v" xml:id="Bae_TB_6_6182"/>
           <note type="editorial" xml:id="Bae_TB_6_6183">Diese Seite ist leer.</note>
-          <pb facs="#F_K-4_Bae_TB_6_152" n="72r" xml:id="Bae_TB_6_6184"/>aus diesem ist es zu ersehen. 
+          <pb facs="#F_K-4_Bae_TB_6_152" n="72r" xml:id="Bae_TB_6_6184"/>aus diesem ist es zu ersehen. <app from="#Bae_MF_4_3517" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_6185">Das Civil 
+        <p xml:id="Bae_TB_6_6185"><anchor/>Das Civil 
           <choice xml:id="Bae_TB_6_6186">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6187"/>
             <expan xml:id="Bae_TB_6_6188">recht</expan>
@@ -8562,11 +8560,11 @@
           <choice xml:id="Bae_TB_6_6238">
             <abbr xml:id="Bae_TB_6_6239">u.</abbr>
             <expan xml:id="Bae_TB_6_6240">und</expan>
-          </choice> man 
+          </choice> man <app from="#" type="equal"><rdg wit="Bae_MF_4">Das Zivilrecht ist verschieden. In den Provinzen ausser Quebec gilt common law of England. Sie haben keinen Code. Quebec hat einen Code civil. Habe mir denselben bei Mr. Theoret, law publishers 11 and 13 St. James Street Montreal gekauft und er versprach mir denselben (Mitte September) zu schicken, da die neue Ausgabe im Druck ist. Dieser Code (1866) beruht auf dem alten französischen Recht vor der Revolution. Dieses ist demnach in dem jetzigen Code erhalten und zwar ist es das Recht der coutumes de Paris. Aber bei der Codification wurde sowohl das in Louisiana geltende französische Recht als insbesondere der Code Napoleon mitbenützt. Aber die Tendenz der Codification war eine konservative, so daß viele Grundsätze des Code Napoleon nicht aufgenommen wurden und man</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_6241">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6242"/>
             <expan xml:id="Bae_TB_6_6243">sicher sein</expan>
-          </choice> kann dass das codificirte 
+          </choice> <app from="#Bae_MF_4_3541" type="notEqual"><rdg wit="Bae_MF_4">sagen</rdg></app><anchor/>kann dass das codificirte 
           <choice xml:id="Bae_TB_6_6244">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6245"/>
             <expan xml:id="Bae_TB_6_6246">Recht</expan>
@@ -8606,11 +8604,10 @@
           <choice xml:id="Bae_TB_6_6272">
             <abbr xml:id="Bae_TB_6_6273">C.N.</abbr>
             <expan xml:id="Bae_TB_6_6274">Code Napoleon</expan>
-          </choice> die Wittwe einen Anspruch 
-          <choice xml:id="Bae_TB_6_6275">
+          </choice> die Wittwe einen Anspruch <app from="#Bae_MF_4_3546" type="equal"><rdg wit="Bae_MF_4">kann, daß das codificierte Recht mehr nach der Seite des alten französischen Rechtes neigt. So wurde der Standpunkt des Code Napoleon bezüglich der Trennung der Kirche vom Staat nicht akzeptiert. Auch das Erbrecht der Wittwe ist anders geregelt, denn während nach dem Code Napoleon die Witwe einen Anspruch</rdg></app><anchor/><choice xml:id="Bae_TB_6_6275">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6276"/>
             <expan xml:id="Bae_TB_6_6277">gegenüber</expan>
-          </choice> dem Nachlasse ihres Mannes hat, so hat nach dem 
+          </choice> dem Nachlasse <app from="#Bae_MF_4_3551" type="notEqual"><rdg wit="Bae_MF_4">über den Nachlaß</rdg></app><anchor/>ihres Mannes hat, so hat nach dem 
           <choice xml:id="Bae_TB_6_6278">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6279"/>
             <expan xml:id="Bae_TB_6_6280">neuen Code von</expan>
@@ -8639,11 +8636,11 @@
           <choice xml:id="Bae_TB_6_6297">
             <abbr xml:id="Bae_TB_6_6298">französ.</abbr>
             <expan xml:id="Bae_TB_6_6299">französische</expan>
-          </choice> Jurisprudenz, sowol die Convention als die 
+          </choice> Jurisprudenz, sowol die <app from="#Bae_MF_4_3554" type="equal"><rdg wit="Bae_MF_4">ihres Mannes hat, so hat nach dem neuen Code von Quebek der Mann unbegrenztes Recht über seinen Nachlass, auch mit Ausschluß der Frau, zu verfügen. Dagegen lehnt sich das droit de succession an den Code Napoleon an. Die französische Jurisprudenz, sowohl die</rdg></app><anchor/>Convention als die 
           <choice xml:id="Bae_TB_6_6300">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6301"/>
             <expan xml:id="Bae_TB_6_6302">Unterscheidung</expan>
-          </choice> des französischen Obersten 
+          </choice> <app from="#Bae_MF_4_3562" type="notEqual"><rdg wit="Bae_MF_4">Comentare als Entscheidungen</rdg></app><anchor/>des französischen Obersten 
           <choice xml:id="Bae_TB_6_6303">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6304"/>
             <expan xml:id="Bae_TB_6_6305">Gerichts</expan>
@@ -8798,8 +8795,7 @@
           <choice xml:id="Bae_TB_6_6418">
             <abbr xml:id="Bae_TB_6_6419">u.</abbr>
             <expan xml:id="Bae_TB_6_6420">und</expan>
-          </choice> Bewegungsfreiheit als die französische. Sie übt sie rücksichtslos. 
-          <persName key="FreyeslebenFerdinand" xml:id="Bae_TB_6_6421">Konsul Ferdinand Freisleben</persName>
+          </choice> Bewegungsfreiheit als die französische. Sie übt sie rücksichtslos. Konsul <app from="#Bae_MF_4_3570" type="equal"><rdg wit="Bae_MF_4">des französischen Obersten Gerichtshofes haben für das Zivilrecht in Quebek große Bedeutung in allen Fällen, in denen das hiesige Recht mit dem französischen übereinstimmt. In allen jenen Rechtsfragen, wo das materielle Recht hier und im Code Napoleon übereinstimmt, wird die Jurisprudenz Frankreichs herangezogen. Der Code de procedure ist fortwährenden Aederungen unterworfen. Goldstein machte hierauf eine Reihe von Bemerkungen über die allgemeinen nationalen Verhältnisse. Die französische Bevölkerung wächst in Quebec schneller als die englische, aber die Geschäftssprache der Banken, Eisenbahnen, Dampfschifffahrtsgesellschaften u.s.w. "the business language" ist die englische. Die französischen Canadier gehen nach Frankreich, aber sie haben ihr eigenes Land lieber und sie sind auch in England im allgemeinen besser aufgenommen als in Frankreich. Es gibt keine Partei, die eine Vereinigung mit Frankreich will. Insbesondere die Geistlichkeit ist dagegen. Sie hat eine große Macht über die Bevölkerung, eine größere als vielleicht irgendwo. Seit der großen Revolution und der Verbreitung und Herrschaft ihrer Ideen in Frankreich hat die katholische Geistlichkeit der Idee einer Wiedervereinigung mit Frankreich immer widerstrebt und dieser Gedanke ist im Volke ganz ausgestorben. Die französischen Canadier wollen nichts anderes sein als Canadier. Die Geistlichkeit hat unter dem englischen Grundsatz der Religionsfreiheit viel mehr Macht und Bewegungsfreiheit als die französische. Sie übt sie rücksichtslos. Konsul</rdg></app><anchor/><persName key="FreyeslebenFerdinand" xml:id="Bae_TB_6_6421">Ferdinand <app from="#Bae_MF_4_3592" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>Freisleben</persName>
           <choice xml:id="Bae_TB_6_6422">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6423"/>
             <expan xml:id="Bae_TB_6_6424">erzählte</expan>
@@ -9005,14 +9001,14 @@
           <choice xml:id="Bae_TB_6_6575">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6576"/>
             <expan xml:id="Bae_TB_6_6577">Engländer</expan>
-          </choice> ist mehr man of business. 
+          </choice> ist mehr man of business.<app from="#Bae_MF_4_3595" type="equal"><rdg wit="Bae_MF_4">Freisleben erzählte mir, daß der Erzbischof eine ihm mißliebige französische Zeitung boykotieren ließ und daß diese infolge dessen einging. Eine Schadensersatzklage wurde abgewiesen. Die Geistlichkeit ist es auch, welche die Farmer auf einer gewissen stationären Stufe zu halten sich bemüht. Man ist im französischen Canada katholischer als in Rom. Die katholische Kirche erhebt von der Bevölkerung große Beträge für Kirchen, Klöster und geistliche Anstalten, "they keep the farmers poor and the church rich", wie Goldstein sagte. Es beginnt allerdings gegen diese Alleinherrschaft eine Reaktion unter der jüngeren Bevölkerung, insbesondere gegen die Beherrschung des politischen Gebietes durch die Geistlichen. Diese letzteren machen auch Geschäfte aller Art; z.B. die weibliche Kongregation hat Lohn-Wäschereien (laundries). Die französischen Canadier sind in beiden großen politischen Parteien des Landes vertreten. Heute sind von den 65 französischen Abgeordneten in Ottawa allerdings nur 15–20 konservativ, weil der liberale französisch katholische Sir Wilfrid Laurier eine große Anziehungskraft ausübt. Im Provinzialparlament von Quebec sind nur 4–5 konservative Franzosen, aber die Teilung in die zwei herrschenden Parteien vollzieht sich nicht nach Nationalität und die Teilnahme der französischen Canadier an der einen oder andern Partei ist daher schwankend. Goldstein meint, daß das Verhältnis zwischen Franzosen und Engländern in Quebec im allgemeinen ein gutes ist. Wo die Franzosen in der Majorität sind üben sie allerdings ihre Patronage uneingeschränkt aus. So sind z.B. von 70 in der city hall angestellten Beamten nur 3 Engländer. Für diese Art Dienste eignen sich auch die Franzosen besser. Der Engländer ist mehr man of business.</rdg></app>
         </p>
         <p xml:id="Bae_TB_6_6578">---</p>
         <!-- DC: Ende der Einklebung -->
         <pb facs="#F_K-4_Bae_TB_6_159" n="75v" xml:id="Bae_TB_6_6579"/>
         <note type="editorial" xml:id="Bae_TB_6_6580">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_6_160" n="76r" xml:id="Bae_TB_6_6581"/>
-        <p xml:id="Bae_TB_6_6582">Noch einige an Ort 
+        <p xml:id="Bae_TB_6_6582"><anchor/>Noch einige an Ort 
           <choice xml:id="Bae_TB_6_6583">
             <abbr xml:id="Bae_TB_6_6584">u.</abbr>
             <expan xml:id="Bae_TB_6_6585">und</expan>
@@ -9194,16 +9190,16 @@
           </choice> Thema 
           <choice xml:id="Bae_TB_6_6715">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6716"/>
-            <expan xml:id="Bae_TB_6_6717">auf das die</expan>
-          </choice> Amerikaner 
+            <expan xml:id="Bae_TB_6_6717">auf das</expan>
+          </choice> <app from="#" type="equal"><rdg wit="Bae_MF_4">Noch einige an Ort und Stelle gemachte Aufzeichnungen über Eindrücke in Ottawa und Montreal. Eindruck Ottawa. Parlamentsgebäude sehr imposant. Gothisch. Prachtvoll gelegen, besonders von der Wasserseite aus gesehen (im Mondschein). Alles dem englischen Parlament nachgebildet: der Speaker sowie die beiden Seiten des Hauses. Bibliothek, rund in eigenem Gebäude. Abends am Turm das elektrische Licht so lange das Haus tagt, wie in Westminster. Ein Mitglied des Senats ist über 100 Jahre alt. Hon. David Wark aus New Brunswik. Die Experimetal Farms. Sah leider nur Museum und fuhr durch die Farm. Zum Herumführen zu spät. Versuchsfelder, daneben schöne Anlagen mit sehr vielen Baumarten und Coniferen. Im Museum reiche Sammlung interessanter Getreidearten. Eindruck Montreal. Kathedrale, St. Peter in Rom nachgebildet. Ein Bild: offert par le gouvernement de la republique française – die Besitzergreifung des Landes durch die Franzosen darstellend. Das hat aber keine politische Spitze gegen den jetzigen Zustand der Dinge. Gar kein englisches Militär (ausser Flotte!) mehr in Canada. Nur Militz. Sah exerzieren; schottisch adjustiert. Publikum sitzt dabei, sieht zu und applaudiert den Uebungen. Die französische Tricolore hie und da ausgehängt. Zeichen der Nationalität, nicht etwa irgend eine politische Gesinnung irredentistischer Natur. Kirchen barbarischer Stil, wie überhaupt in Amerika. Auch die Kathedrale in Quebec überladen und geschmacklos. Die Architektur in Amerika ist ein Thema auf das</rdg></app><anchor/>die Amerikaner 
           <choice xml:id="Bae_TB_6_6718">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6719"/>
             <expan xml:id="Bae_TB_6_6720">nicht stolz sein können</expan>
-          </choice>. 
+          </choice>. <app from="#" type="notEqual"><rdg wit="Bae_MF_4">der Amerikaner nicht stolz sein kann,</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_6721">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6722"/>
             <expan xml:id="Bae_TB_6_6723">Einige öffentliche Gebäude</expan>
-          </choice> würdevoll. Colonialstyl der Wohnhäuser, hat Empireanklänge, 
+          </choice> <app from="#Bae_MF_4_3671" type="equal"><rdg wit="Bae_MF_4">einige öffentliche Gebäude</rdg></app><anchor/><app from="#Bae_MF_4_3674" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>würdevoll. Colonialstyl der Wohnhäuser, hat Empireanklänge, 
           <choice xml:id="Bae_TB_6_6724">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6725"/>
             <expan xml:id="Bae_TB_6_6726">sehr</expan>
@@ -9221,8 +9217,8 @@
         <note type="editorial" xml:id="Bae_TB_6_6734">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_6_164" n="78r" xml:id="Bae_TB_6_6735"/>
         <p xml:id="Bae_TB_6_6736">In 
-          <placeName key="Montreal" ref="https://www.geonames.org/8674139/montreal.html" xml:id="Bae_TB_6_6737">Montreal</placeName> im Club kennen gelernt 
-          <persName key="ShaughnessyThomas" xml:id="Bae_TB_6_6738">Sir Thomas Shaughnessy</persName> Präsidenten der 
+          <placeName key="Montreal" ref="https://www.geonames.org/8674139/montreal.html" xml:id="Bae_TB_6_6737">Montreal</placeName> im Club <app from="#Bae_MF_4_3678" type="equal"><rdg wit="Bae_MF_4">würdevoll. Colonialstil der Wohnhäuser, hat Empireanklänge, sehr charakteristisch, aber im Allgemeinen ein wirrer, geschmackloser Eklektizismus. In Montreal im Club</rdg></app><anchor/>kennen gelernt 
+          <persName key="ShaughnessyThomas" xml:id="Bae_TB_6_6738">Sir Thomas Shaughnessy</persName> <app from="#Bae_MF_4_3683" type="notEqual"><rdg wit="Bae_MF_4">Sir Thomas Shaughnessy kennen gelernt.</rdg></app><anchor/>Präsidenten der 
           <orgName key="CanadianPacificRailway" ref="https://d-nb.info/gnd/4227424-2" xml:id="Bae_TB_6_6739">Canadian Pacific Railway</orgName>. Noch junger Mann, der von der Arbeit seiner 
           <choice xml:id="Bae_TB_6_6740">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6741"/>
@@ -9241,11 +9237,11 @@
           <choice xml:id="Bae_TB_6_6750">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6751"/>
             <expan xml:id="Bae_TB_6_6752">unterhält</expan>
-          </choice> jetzt grossartige Bewässerungsanlagen längst der Bahn 
+          </choice> <app from="#Bae_MF_4_3687" type="equal"><rdg wit="Bae_MF_4">Präsidenten der Canadian Pacific Railway. Noch junger Mann, der von der Arbeit seiner Gesellschaft mit jener impulsiven Energie sprach, die hier Großes leistet. Er sprach von der Kolonisationsarbeit der C.P.R. Die Gesellschaft unterhält</rdg></app><anchor/>jetzt <app from="#Bae_MF_4_3695" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>grossartige Bewässerungsanlagen längst der Bahn 
           <choice xml:id="Bae_TB_6_6753">
             <abbr xml:id="Bae_TB_6_6754">u.</abbr>
             <expan xml:id="Bae_TB_6_6755">und</expan>
-          </choice> teilt das ihr von 
+          </choice> teilt <app from="#Bae_MF_4_3699" type="equal"><rdg wit="Bae_MF_4">großartige Bewässerungsanlagen längst der Bahn und teilt</rdg></app><anchor/>das <app from="#Bae_MF_4_3703" type="notEqual"><rdg wit="Bae_MF_4">die</rdg></app><anchor/>ihr von 
           <choice xml:id="Bae_TB_6_6756">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6757"/>
             <expan xml:id="Bae_TB_6_6758">der Regierung</expan>
@@ -9320,7 +9316,7 @@
           <date when="1904-07" xml:id="Bae_TB_6_6809">July 1904</date> eine gute Schilderung der Erntearbeiten in 
           <del rendition="#s" xml:id="Bae_TB_6_6810">
             <placeName key="Manitoba" ref="https://www.geonames.org/6065171/manitoba.html" xml:id="Bae_TB_6_6811">Manitoba</placeName>
-          </del> Westen! 
+          </del> Westen! <app from="#Bae_MF_4_3708" type="equal"><rdg wit="Bae_MF_4">ihr von der Regierung zugeteilte Area nach und nach auf und verkauft sie. Er ist erfüllt von der Idee, daß Canada in 10 Jahren allein imstande sein wird, den Brotbedarf Englands zu decken und ist deswegen Anhänger Chamberlains. Er meint, daß Chamberlain doch die Zukunft voraussage, wenn auch jetzt seine Ansichten noch nicht durchdringen. Dagegen billigt er die canadische preferential policy nicht. Er meint, daß man sie England gegenüber nicht hätte umsonst beginnen sollen. Hier zu Lande: zuerst Eisenbahn, Kommunikation, Licht, Wasser – dann Ansiedlungen! Das ist die Erschließungspolitik, in der die Eisenbahnen eine so große Rolle spielen. Ein homestead 160 acre. In den Zeitungen anonnciert. In Scribner's Magazin July 1904 eine gute Schilderung der Erntearbeiten im Westen!</rdg></app>
         </p>
         <!-- DC: Ende der Einklebungen -->
         <pb facs="#F_K-4_Bae_TB_6_165" n="78v" xml:id="Bae_TB_6_6812"/>
@@ -9328,12 +9324,12 @@
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_6_6814">Baernreithers</persName> für die Bearbeitung des entsprechenden Manuskripts Fragmente. 
         </note>
         <pb facs="#F_K-4_Bae_TB_6_166" n="79r" xml:id="Bae_TB_6_6815"/>
-        <p xml:id="Bae_TB_6_6816">Den 
+        <p xml:id="Bae_TB_6_6816"><anchor/>Den 
           <del rendition="#s" xml:id="Bae_TB_6_6817">
             <date when="1904-07-19" xml:id="Bae_TB_6_6818">19. Dienstag</date>
           </del>
           <add place="across" xml:id="Bae_TB_6_6819">
-            <date when="1904-07-20" xml:id="Bae_TB_6_6820"> 20. Mittwoch</date>
+            <date when="1904-07-20" xml:id="Bae_TB_6_6820">20. Mittwoch</date>
           </add> Abend waren wir wieder in 
           <placeName key="Montreal" ref="https://www.geonames.org/8674139/montreal.html" xml:id="Bae_TB_6_6821">Montreal</placeName>. 
           <del rendition="#s" xml:id="Bae_TB_6_6822">Mittwoch</del>
@@ -9372,13 +9368,12 @@
             <abbr xml:id="Bae_TB_6_6849">u.</abbr>
             <expan xml:id="Bae_TB_6_6850">und</expan>
           </choice> den bewaldeten Bergen im Hintergrund – ein einziges Bild. 
-          <date when="1904-07-23" xml:id="Bae_TB_6_6851">Samstag</date> zurück. 
+          <date when="1904-07-23" xml:id="Bae_TB_6_6851">Samstag</date> zurück. <app from="#" type="equal"><rdg wit="Bae_MF_4">Den 20. Mittwoch Abend waren wir wieder in Montreal. Donnerstag den 21. ebenfalls. Donnerstag Nachmittag nach Quebec. Freitag den ganzen Tag in Quebec: Vormittag am Hafen und in der unteren französischen Stadt, dann Abraham Schlachtfeld. Gemeinsames Monument von Wolfe und Montcalm. Leider etwas unwohl. Doch genoß ich die prachtvolle Terrasse des Hotel Frontenac und die herrliche Aussicht, welche eine der schönsten, die ich je gesehen: die große Krümmung des St. Lorenzo, die Mündung seines Nebenflusses, das ganze seeartig ausgebreitet mit den bewohnten und bebauten Hügeln am Ufer und den bewaldeten Bergen im Hintergrund – ein einziges Bild. Samstag zurück</rdg></app><anchor/><app from="#Bae_MF_4_3741" type="missing"><rdg wit="Bae_MF_4">nach Montreal.</rdg></app><anchor/>
           <date when="1904-07-24" xml:id="Bae_TB_6_6852">Sonntag</date> und 
           <date when="1904-07-25" xml:id="Bae_TB_6_6853">Montag</date> (den 24. und 25.) noch in 
-          <placeName key="Montreal" ref="https://www.geonames.org/8674139/montreal.html" xml:id="Bae_TB_6_6854">Montreal</placeName>. Am 
-          <date when="1904-07-26" xml:id="Bae_TB_6_6855">Dienstag</date> bei 
-          <orgName key="LakeChamplain" ref="https://d-nb.info/gnd/4098950-1" xml:id="Bae_TB_6_6856">Lake Champlain </orgName>
-          <choice xml:id="Bae_TB_6_6857">
+          <placeName key="Montreal" ref="https://www.geonames.org/8674139/montreal.html" xml:id="Bae_TB_6_6854">Montreal</placeName>. <app from="#Bae_MF_4_3746" type="equal"><rdg wit="Bae_MF_4">Sonntag und Montag (den 24. und 25.) noch in Montreal.</rdg></app><anchor/>Am 
+          <date when="1904-07-26" xml:id="Bae_TB_6_6855">Dienstag</date> bei <app from="#Bae_MF_4_3752" type="notEqual"><rdg wit="Bae_MF_4">Dienstag am</rdg></app><anchor/>
+          <orgName key="LakeChamplain" ref="https://d-nb.info/gnd/4098950-1" xml:id="Bae_TB_6_6856">Lake Champlain</orgName> <choice xml:id="Bae_TB_6_6857">
             <abbr xml:id="Bae_TB_6_6858">u.</abbr>
             <expan xml:id="Bae_TB_6_6859">und</expan>
           </choice> durch die 
@@ -9437,18 +9432,18 @@
           <placeName key="Plymouth" ref="https://www.geonames.org/3333181/plymouth.html" xml:id="Bae_TB_6_6900">Plymouth</placeName>, wo wir 
           <date when="1904-08-06" xml:id="Bae_TB_6_6901">Samstag</date> früh zeitlich anlegten war englisch verschleiert. Die 
           <orgName key="RadedeCherbourg" xml:id="Bae_TB_6_6902">Rheede</orgName> von 
-          <placeName key="Cherbourg" ref="https://www.geonames.org/6614508/cherbourg-en-cotentin.html" xml:id="Bae_TB_6_6903">Cherburg</placeName> fanden wir leer, da die französische Flotte ausgelaufen war. Ich schiffte mich mit einigen andern Passagieren aus. Der Kapitän war so liebenswürdig als unser kleiner Dampfer von dem grossen Lloydschiff abstiess unsere Volkshymne spielen zu lassen als Abschiedsgruss. 
+          <placeName key="Cherbourg" ref="https://www.geonames.org/6614508/cherbourg-en-cotentin.html" xml:id="Bae_TB_6_6903">Cherburg</placeName> fanden wir leer, da die französische Flotte ausgelaufen war. Ich schiffte mich mit einigen andern Passagieren aus. Der Kapitän war so liebenswürdig als unser kleiner Dampfer von dem grossen Lloydschiff abstiess unsere Volkshymne spielen zu lassen als Abschiedsgruss. <app from="#Bae_MF_4_3759" type="equal"><rdg wit="Bae_MF_4">Lake Champlain und durch die Adirondaks, leider bei schlechtem Wetter nach New York zurück, wo ich Mittwoch noch meine Geschäfte besorgte und Donnerstag den 28. mich auf den "Friedrich den Großen" des Norddeutschen Lloyd um 10 Uhr früh wieder nach Europa einschiffte. Diesmal war auf dem Schiff eine sehr angenehme Gesellschaft. Amerikaner, die sich sofort für meine Reisezwecke interessierten und mit denen ich eine Reihe sehr nützlicher Konversationen hatte, ein sehr liebenswürdiger Arzt mit Gattin aus New York, Mr. und Mrs. Swift, ein angenehmer Kapitän, aber ein langsames Schiff, da wir bei vollkommen ruhiger See von Donnerstag den 28. 10 Uhr früh bis Samstag den 6. August gegen 1 Uhr Mittag, da wir nach Cherbourg kamen, mehr als 9 Tage unterwegs waren. "Friedrich der Große" ist ein sogenanntes ten days ship, d.h. soll von Bremen bis New York in 10 Tagen fahren, braucht aber wohl immer etwas mehr besonders bei schlechtem Wetter. Wir hatten auf der ganzen Reise Sonne, nur als wir in dem[sic!] Kanal einfuhren regnete es; Plymouth, wo wir Samstag früh zeitlich anlegten war englisch verschleiert. Die Rheede von Cherbourg fanden wir leer, da die französische Flotte ausgelaufen war. Ich schiffte mich mit einigen andern Passagieren aus. Der Kapitän war so liebenswürdig, als unser kleiner Dampfer von dem großen Lloydschiff abstieß, unsere Volkshymne spielen zu lassen als Abschiedsgruß.</rdg></app>
         </p>
       </div>
       <div n="1904-11" type="diaryEntry" xml:id="Bae_TB_6_6904">
-        <p xml:id="Bae_TB_6_6905">Sommer und Herbst 1904.</p>
+        <p xml:id="Bae_TB_6_6905"><anchor/>Sommer und <app from="#Bae_MF_4_3793" type="equal"><rdg wit="Bae_MF_4">Sommer und</rdg></app><anchor/>Herbst <app from="#Bae_MF_4_3797" type="notEqual"><rdg wit="Bae_MF_4">Spätherbst</rdg></app><anchor/>1904.</p>
         <p xml:id="Bae_TB_6_6906">Am 
           <date when="1904-08-09" xml:id="Bae_TB_6_6907">9. August</date> war ich wieder in 
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_6_6908">Lünz</placeName>
           <choice xml:id="Bae_TB_6_6909">
             <abbr xml:id="Bae_TB_6_6910">u.</abbr>
             <expan xml:id="Bae_TB_6_6911">und</expan>
-          </choice> beschäftigte mich während dieses Monates das reiche Material das ich für meine Arbeit in 
+          </choice> <app from="#Bae_MF_4_3800" type="equal"><rdg wit="Bae_MF_4">1904. Am 9. August war ich wieder in Lünz und</rdg></app><anchor/>beschäftigte mich <app from="#Bae_MF_4_3806" type="notEqual"><rdg wit="Bae_MF_4">beschäftigt</rdg></app><anchor/>während dieses Monates das reiche Material das ich für meine Arbeit <app from="#Bae_MF_4_3809" type="equal"><rdg wit="Bae_MF_4">während dieses Monates das reiche Material, das ich für meine Arbeit</rdg></app><anchor/><app from="#Bae_MF_4_3812" type="missing"><rdg wit="Bae_MF_4">über "Jugendfürsorge und Strafrecht in den Vereinigten Staaten von Amerika"</rdg></app><anchor/>in 
           <placeName key="Amerika" ref="https://www.geonames.org/6252001/united-states.html" xml:id="Bae_TB_6_6912">Amerika</placeName> gesammelt zu sichten und durchzuarbeiten. Ich war damit bis Anfang 
           <date when="1904-09" xml:id="Bae_TB_6_6913">September</date> sehr intensiv beschäftigt, musste aber dann ein paar Tage unterbrechen, weil ich eine politische Orientierungsfart vornehmen musste. Zunächst ging ich nach 
           <placeName key="Innsbruck" ref="https://www.geonames.org/2775220/innsbruck.html" xml:id="Bae_TB_6_6914">Innsbruck</placeName>, wo der 
@@ -9507,21 +9502,20 @@
             <index xml:id="Bae_TB_6_6956">
               <term key="Schulwesen" xml:id="Bae_TB_6_6957"/>
             </index>
-          </index> wahres sei. 
+          </index> wahres sei. <app from="#Bae_MF_4_3815" type="equal"><rdg wit="Bae_MF_4">in Amerika gesammelt, zu sichten und durchzuarbeiten. Ich war damit bis Anfang September sehr intensiv beschäftigt, mußte aber dann ein paar Tage unterbrechen, weil ich eine politische Orientierungsfahrt vornehmen musste. Zunächst ging ich nach Innsbruck, wo der deutsche Juristentag versammelt war. Ausser der Kartelldebatte, in welcher Klein glänzend dominierte, nichts Bedeutendes. Sehr viel Worte und sehr wenig neue Gedanken. Aber ich hatte Gelegenheit mit Grabmayr, Kathrein, Erler u.a. über die politischen Verhältnisse zu sprechen. Jedermann sprach damals als von einer gewissen Sache, daß bei der Eröffnung der italienischen Fakultät Reibungen zwischen den Studenten ganz sicher zu erwarten seien – also wußte man davon, sprach öffentlich davon acht Wochen bevor diese Ereignisse wirklich eintraten. Die Regierung traf keine Vorkehrungen und die Explosion erfolgte bei Beginn des Reichsrates. In Salzburg traf ich Sylvester. Auch hier war man das Regime Körbers satt. Die vollständige Resultatlosigkeit seiner Politik leuchtete ein. In Wien sprach ich Körber flüchtig, ohne von ihm irgend etwas greifbares zu erfahren. Dann war ich in Troppau, um mich an Ort und Stelle davon zu überzeugen, was an dem Rummel in betreff der Parallelklassen Wahres sei.</rdg></app><anchor/><app from="#Bae_MF_4_3843" type="missing"><rdg wit="Bae_MF_4">Planlosigkeit und Ungeschicklichkeit der Regierung und des Landespräsidenten, zweifelhaftes Benehmen der Abgeordneten, seit Jahren keine Voraussicht – haben in dem sonst ruhigen Lande alle Kreise in Aufregung versetzt.</rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_6958">Dann war ich wieder bis Ende 
+        <p xml:id="Bae_TB_6_6958"><anchor/>Dann war ich wieder bis Ende 
           <date when="1904-10" xml:id="Bae_TB_6_6959">October</date> in 
-          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_6_6960">Lünz</placeName>. In den letzten Tagen liess uns ( 
+          <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_6_6960">Lünz</placeName>. In den letzten Tagen liess uns <app from="#Bae_MF_4_3850" type="equal"><rdg wit="Bae_MF_4">Dann war ich wieder bis Ende Oktober in Lünz. In den letzten Tagen ließ uns</rdg></app><anchor/>( 
           <index xml:id="Bae_TB_6_6961">
             <term key="Parteien" xml:id="Bae_TB_6_6962">4 Ausschuss</term>
             <index xml:id="Bae_TB_6_6963">
               <term key="Viererausschuss" xml:id="Bae_TB_6_6964"/>
             </index>
-          </index>: 
+          </index>: <app from="#Bae_MF_4_3855" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>
           <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_6_6965">Lueger</persName>, 
           <persName key="GrossGustav" ref="https://d-nb.info/gnd/134055136" xml:id="Bae_TB_6_6966">Gross</persName>, 
-          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_6_6967">Derschatta</persName> und mich) 
-          <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_6_6968">
+          <persName key="DerschattaJulius" ref="https://d-nb.info/gnd/136192165" xml:id="Bae_TB_6_6967">Derschatta</persName> und mich) <app from="#Bae_MF_4_3858" type="equal"><rdg wit="Bae_MF_4">Lueger, Gross, Derschatta und micht,</rdg></app><anchor/><app from="#Bae_MF_4_3864" type="missing"><rdg wit="Bae_MF_4">(den sogenannten Viererausschuß der deutschen Parteien)</rdg></app><anchor/><persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_6_6968">
             <choice xml:id="Bae_TB_6_6969">
               <abbr xml:id="Bae_TB_6_6970">K.</abbr>
               <expan xml:id="Bae_TB_6_6971">Körber</expan>
@@ -9532,12 +9526,12 @@
           <choice xml:id="Bae_TB_6_6973">
             <abbr xml:id="Bae_TB_6_6974">u.</abbr>
             <expan xml:id="Bae_TB_6_6975">und</expan>
-          </choice> unter dem Eindruck, dass er gar keinen Plan habe, gingen wir wieder heim. 
+          </choice> unter dem Eindruck, dass er gar keinen Plan habe, gingen wir wieder heim. <app from="#Bae_MF_4_3870" type="equal"><rdg wit="Bae_MF_4">Körber zu sich bitten, um uns die Rekonstruktion des Kabinettes anzuzeigen – nachdem wir die Sache schon in der Zeitung gelesen hatten. Sehr verstimmt und unter dem Eindruck, daß er gar keinen Plan habe, gingen wir wieder heim.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_171" n="81v" xml:id="Bae_TB_6_6976"/>
         <note type="editorial" xml:id="Bae_TB_6_6977">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_6_172" n="82r" xml:id="Bae_TB_6_6978"/>
-        <p xml:id="Bae_TB_6_6979">Folgende Blätter schrieb ich diesen Sommer nieder nachdem ich mit 
+        <p xml:id="Bae_TB_6_6979"><anchor/>Folgende Blätter schrieb ich diesen Sommer nieder nachdem ich mit 
           <persName key="HartelWilhelm" ref="https://d-nb.info/gnd/119035030" xml:id="Bae_TB_6_6980">K. Hardtl</persName> gesprochen 
           <choice xml:id="Bae_TB_6_6981">
             <abbr xml:id="Bae_TB_6_6982">u.</abbr>
@@ -9633,8 +9627,7 @@
           </hi>
           <hi rendition="#ul" xml:id="Bae_TB_6_7049">
             <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_6_7050">Körber</persName>
-          </hi> ( 
-          <date when="1904-09-17" xml:id="Bae_TB_6_7051">17.9.904</date>) 
+          </hi> (<date when="1904-09-17" xml:id="Bae_TB_6_7051">17.9.904</date>) 
         </p>
         <p xml:id="Bae_TB_6_7052">Er selbst hat mit niemanden ausser dem 
           <choice xml:id="Bae_TB_6_7053">
@@ -10347,24 +10340,23 @@
           <choice xml:id="Bae_TB_6_7585">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_7586"/>
             <expan xml:id="Bae_TB_6_7587">aber bis heute</expan>
-          </choice> ( 
-          <date when="1904-10-29" xml:id="Bae_TB_6_7588">29.10.1904</date>) keine Antwort 
+          </choice> (<date when="1904-10-29" xml:id="Bae_TB_6_7588">29.10.1904</date>) keine Antwort 
           <choice xml:id="Bae_TB_6_7589">
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_7590"/>
             <expan xml:id="Bae_TB_6_7591">gegeben</expan>
           </choice>. 
-        </p>
+        </p><app from="Bae_MF_4_3874" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
       </div>
       <pb facs="#F_K-4_Bae_TB_6_187" n="89v" xml:id="Bae_TB_6_7592"/>
       <note type="editorial" xml:id="Bae_TB_6_7593">Diese Seite ist leer.</note>
       <pb facs="#F_K-4_Bae_TB_6_188" n="90r" xml:id="Bae_TB_6_7594"/>
       <div n="1904-12-31" type="diaryEntry" xml:id="Bae_TB_6_7595">
-        <p xml:id="Bae_TB_6_7596">Die 
+        <p xml:id="Bae_TB_6_7596"><anchor/>Die 
           <hi rendition="#ul" xml:id="Bae_TB_6_7597">Herbstsession 
             <date when="1904" xml:id="Bae_TB_6_7598">1904</date>
-          </hi>
+          </hi><app from="#Bae_MF_4_3878" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
-        <p xml:id="Bae_TB_6_7599">Der 
+        <p xml:id="Bae_TB_6_7599"><anchor/>Der 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_6_7600">Reichsrat</orgName> wurde am 
           <date when="1904-11-17" xml:id="Bae_TB_6_7601">17. 
             <choice xml:id="Bae_TB_6_7602">
@@ -10428,8 +10420,8 @@
           <choice xml:id="Bae_TB_6_7646">
             <abbr xml:id="Bae_TB_6_7647">u.</abbr>
             <expan xml:id="Bae_TB_6_7648">und</expan>
-          </choice> der Wurstigkeit. Es wurde damals noch vielfach als Zeichen seiner festen Position angesehen – aber bald sollte sich zeigen, dass es tiefere Gründe hatte. Ob er damals schon seine Partie für verloren gab, weis ich nicht. Seine Satelliten waren sehr sicher. Die Abstimmung im 
-          <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_TB_6_7649">Budgetausschuss</orgName> überraschte alle; niemand hatte gedacht, dass die Regierung mit 14 : 29 Stimmen in der Minorität bleiben würde. Dann folgte die 
+          </choice> der Wurstigkeit. Es wurde damals noch vielfach als Zeichen seiner festen Position angesehen – aber bald sollte sich zeigen, dass es tiefere Gründe hatte. Ob er damals schon seine Partie für verloren gab, weis ich nicht. Seine Satelliten waren sehr sicher. <app from="#Bae_MF_4_3881" type="equal"><rdg wit="Bae_MF_4">Der Reichsrat wurde am 17. November ohne jede Vorbereitung von Seite der Regierung eröffnet. Vorher war eine Sitzung des Vollzugsausschusses der deutschen Parteien gewesen, in welcher nichts zustande kam, als eine von mir vorgeschlagene, aber in der Sitzung wesentlich verschärfte Kundgebung, die eine Warnung an die Regierung enthielt. Körber hielt in der ersten Sitzung eine unglückliche Rede, die deutschen Parteien waren sehr verstimmt: die Christlichsozialen wegen des verbotenen Fackelzuges am 60. Geburtstag Luegers, die deutsche Volkspartei wegen Innsbruck und Troppau. Der von mir vorgeschlagene Versuch sich mit Körber über die schwebenden Differenzen auszusprechen, mißlang, da Körber in seiner bisherigen Weise die Dinge erörterte. "Melodie ohne Ende", wiewohl ich ihm die einzelnen Fragen hatte durch Sieghart Tage vorher mitteilen lassen, um möglichst konkrete Resultate zu erzielen. Das Resultat der Besprechung bezeichnete Lueger als "jämmerlich". Wir knüpften nochmals an durch Ludwigstorff und Körber sagte in einer zweiten Rede den Deutschen einige angenehme Sachen. Aber es verfieng nichts mehr. Er war nicht imstande, das im Sande verrinnende Vertrauen für sich aufzuhalten. Auch gab er sich gar keine Mühe. Alle seine Schritte und Reden trugen den Stempel der Ermüdung und der Wurstigkeit. Es wurde damals noch vielfach als Zeichen seiner festen Position angesehen – aber bald sollte sich zeigen, daß es tiefere Gründe hatte. Ob er damals schon seine Partie für verloren gab, weis ich nicht. Seine Satelliten waren sehr sicher.</rdg></app><anchor/>Die <app from="#Bae_MF_4_3908" type="notEqual"><rdg wit="Bae_MF_4">Eine</rdg></app><anchor/>Abstimmung im 
+          <orgName key="Budgetausschuss" ref="https://d-nb.info/gnd/1701874-2" xml:id="Bae_TB_6_7649">Budgetausschuss</orgName> überraschte alle; niemand hatte gedacht, dass die Regierung mit 14 <app from="#Bae_MF_4_3911" type="equal"><rdg wit="Bae_MF_4">Abstimmung im Budgetausschuss überraschte alle; niemand hatte gedacht, daß die Regierung mit 14</rdg></app><anchor/>: <app from="#Bae_MF_4_3915" type="notEqual"><rdg wit="Bae_MF_4">gegen</rdg></app><anchor/>29 Stimmen in der Minorität bleiben würde. <app from="#Bae_MF_4_3918" type="equal"><rdg wit="Bae_MF_4">29 Stimmen in der Minorität bleiben würde.</rdg></app><anchor/>Dann folgte die 
           <del rendition="#s" xml:id="Bae_TB_6_7650">
             <index xml:id="Bae_TB_6_7651">
               <term key="Reichsrat" xml:id="Bae_TB_6_7652">Schließung</term>
@@ -10446,8 +10438,7 @@
         </p>
         <p xml:id="Bae_TB_6_7659">
           <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_6_7660">Ludwigstorff</persName> von 
-          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_6_7661">Stürgkh</persName> aufgehetzt verlangte einen Club, den 
-          <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_6_7662">Schwegel</persName> ganz unnötigerweise anordnete. 
+          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_6_7661">Stürgkh</persName> aufgehetzt verlangte <app from="#Bae_MF_4_3949" type="equal"><rdg wit="Bae_MF_4">Dann folgte die Vertagung des Hauses und hässliche Rekriminationen schlossen sich an. Ludwigstorff von Stürgh aufgehetzt verlangte</rdg></app><anchor/>einen Club, den <app from="#Bae_MF_4_3954" type="notEqual"><rdg wit="Bae_MF_4">eine Klubsitzung, die</rdg></app><anchor/><persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_6_7662">Schwegel</persName> ganz unnötigerweise anordnete. 
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_6_7663">Stürgkh</persName>
           <choice xml:id="Bae_TB_6_7664">
             <abbr xml:id="Bae_TB_6_7665">u.</abbr>
@@ -10480,7 +10471,7 @@
               <term key="Viererausschuss" xml:id="Bae_TB_6_7687"/>
             </index>
           </index> von der Regierung geplant sei. 
-          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_6_7688">Stürgkh</persName> behauptete, desswegen ich hätte "die Mittellinie" im 
+          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_6_7688">Stürgkh</persName> behauptete, <app from="#Bae_MF_4_3957" type="equal"><rdg wit="Bae_MF_4">Schwegel ganz unnötigerweise anordnete. Stürgkh und Ludwigstorff machten mir Vorwürfe, als hätte ich meinen Einfluß im Viererausschuss nicht zu Gunsten einer Verständigung mit Körber gebraucht. Ich verteidigte mich sehr energisch und Stürgkh und Ludwigstorff mußten ihre "Anregung" zu einer "Rekonstruktion" der Gemeinbürgschaft zurückziehen. Die Körberjournalisten sagten auch jedem, der es hören wollte, dass meine "Auswechslung" im Viererausschuss von der Regierung geplant sei. Stürgkh behauptete,</rdg></app><anchor/>desswegen <app from="#Bae_MF_4_3975" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>ich hätte "die Mittellinie" im 
           <index xml:id="Bae_TB_6_7689">
             <term key="Parteien" xml:id="Bae_TB_6_7690">4 Ausschuss</term>
             <index xml:id="Bae_TB_6_7691">
@@ -10490,18 +10481,18 @@
           <choice xml:id="Bae_TB_6_7693">
             <abbr xml:id="Bae_TB_6_7694">u.</abbr>
             <expan xml:id="Bae_TB_6_7695">und</expan>
-          </choice> ähnliches Blech. Der arme 
+          </choice> ähnliches Blech. Der <app from="#Bae_MF_4_3978" type="equal"><rdg wit="Bae_MF_4">ich hätte "die Mittellinie" im Viererausschuss nicht eingehalten, durch meine Budgetrede eine schlechte Stimmung gemacht und ähnliches Blech. Der </rdg></app><anchor/>arme <app from="#Bae_MF_4_3988" type="notEqual"><rdg wit="Bae_MF_4">gute</rdg></app><anchor/>
           <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_6_7696">Ludwigstorff</persName> hatte sich auf einige kleine Zettel allerhand Dinge aufgeschrieben, die er mir zu versetzen suchte, wobei er aber puterrot wurde 
           <choice xml:id="Bae_TB_6_7697">
             <abbr xml:id="Bae_TB_6_7698">u.</abbr>
             <expan xml:id="Bae_TB_6_7699">und</expan>
-          </choice> nichts rechtes vorbrachte. Sogar im Gespräch, das ich mit ihm im 
+          </choice> nichts rechtes vorbrachte. Sogar <app from="#Bae_MF_4_3993" type="equal"><rdg wit="Bae_MF_4">Ludwigstorff hatte sich auf einige kleine Zettel allerhand Dinge aufgeschrieben, die er mir zu versetzen suchte, wobei er aber puterrot wurde und nichts rechtes vorbrachte. Sogar</rdg></app><anchor/>im <app from="#Bae_MF_4_3997" type="notEqual"><rdg wit="Bae_MF_4">ein</rdg></app><anchor/>Gespräch, das ich mit ihm im 
           <orgName key="Jockeyclub" ref="https://d-nb.info/gnd/2016616-3" xml:id="Bae_TB_6_7700">Joquiclub</orgName> Tags vorher gehabt hatte, wollte er fructifiziren, hatte mich aber total missverstanden 
           <choice xml:id="Bae_TB_6_7701">
             <abbr xml:id="Bae_TB_6_7702">u.</abbr>
             <expan xml:id="Bae_TB_6_7703">und</expan>
           </choice> seine Aufzeichnung, die er bezeichnenderweise gleich nach unserm Gespräch gemacht hatte, war ganz confus. Das Ganze, höchst unerquicklich endete mit einer nichtssagenden Resolution 
-          <persName key="TerlagoRobert" ref="https://d-nb.info/gnd/117273228" xml:id="Bae_TB_6_7704">Terlago's</persName>. Was aber das Bezeichnendste war, war die scharfe Kritik, welcher die Haltung der Regierung von Seite 
+          <persName key="TerlagoRobert" ref="https://d-nb.info/gnd/117273228" xml:id="Bae_TB_6_7704">Terlago's</persName>. Was aber das Bezeichnendste war, war die scharfe Kritik, welcher die Haltung der Regierung <app from="#Bae_MF_4_4002" type="equal"><rdg wit="Bae_MF_4">Gespräch, das ich mit ihm im Jokeyklub Tags vorher gehabt hatte, wollte er fruktifizieren, hatte mich aber total mißverstanden und seine Aufzeichnung, die er bezeichnenderweise gleich nach unserem Gespräch gemacht hatte, war ganz konfus. Das Ganze, höchst unerquicklich endete mit einer nichtssagenden Resolution Terlagos. Was aber das Bezeichnendste war, war die scharfe Kritik, welcher die Haltung der Regierung</rdg></app><anchor/><app from="#Bae_MF_4_4007" type="missing"><rdg wit="Bae_MF_4">in unserem Klub</rdg></app><anchor/>von Seite 
           <persName key="TrauttmansdorffFerdinand" xml:id="Bae_TB_6_7705">Trauttmansdorffs</persName>, 
           <persName key="KhevenhuellerAlfred" xml:id="Bae_TB_6_7706">Khevenhüller's</persName>, 
           <persName key="EhrenfelsBernhard" ref="https://d-nb.info/gnd/117645796" xml:id="Bae_TB_6_7707">Ehrenfels</persName> unterzogen wurde. 
@@ -10522,20 +10513,20 @@
             <abbr xml:id="Bae_TB_6_7719">u. dh</abbr>
             <expan xml:id="Bae_TB_6_7720">und durch</expan>
           </choice>
-          <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_6_7721">Schwegel</persName> dementiren zu lassen. 
+          <persName key="SchwegelJoseph" ref="https://d-nb.info/gnd/130652784" xml:id="Bae_TB_6_7721">Schwegel</persName> dementiren zu lassen. <app from="#Bae_MF_4_4010" type="equal"><rdg wit="Bae_MF_4">von Seite Trauttmansdorffs, Khevenhüllers, Ehrenfels' unterzogen wurde. Ludwigstorff und Stürgkh waren unterlegen, aber der Leibjournalist des Letztern, ein neurasthenischer Israelit aus der Redaktion der Neuen Freien Presse rächte sich an mir durch einen perfiden Angriff in der "Bohemia", der dadurch Aufsehen erregte, daß ich mich hinreissen ließ ihn zu dementieren und durch Schwegel dementieren zu lassen.</rdg></app><anchor/><app from="#Bae_MF_4_4021" type="missing"><rdg wit="Bae_MF_4">Als ich in diesen Tagen in Prag den Baron Mladota begegnete, sagte er zu mir: das hat dir wohl Stingel [?] eingebrokt.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_193" n="92v" xml:id="Bae_TB_6_7722"/>
         <note type="editorial" xml:id="Bae_TB_6_7723">Hier finden sich Ergänzungen, Korrekturen oder Kommentare 
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_6_7724">Baernreithers</persName>. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente. 
         </note>
         <pb facs="#F_K-4_Bae_TB_6_194" n="93r" xml:id="Bae_TB_6_7725"/>
-        <p xml:id="Bae_TB_6_7726">Jetzt am 
+        <p xml:id="Bae_TB_6_7726"><anchor/>Jetzt am 
           <date when="1904-12-31" xml:id="Bae_TB_6_7727">Sylvestertage des Jahres 1904</date> ist die politische Welt erfüllt von der Nachricht der 
           <index xml:id="Bae_TB_6_7728">
             <term key="DemissionRegierung" xml:id="Bae_TB_6_7729">Demission</term>
           </index>
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_6_7730">Körber's</persName>, die der 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_6_7731">Monarch</persName> angenommen haben soll. 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_6_7731">Monarch</persName> angenommen <app from="#" type="equal"><rdg wit="Bae_MF_4">Jetzt, am Sylvestertage des Jahres 1904 ist die politische Welt erfüllt von der Nachricht der Demission Körbers, die der Monarch angenommen</rdg></app><anchor/>haben soll. <app from="#Bae_MF_4_4033" type="notEqual"><rdg wit="Bae_MF_4">hat.</rdg></app><anchor/> 
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_6_7732">
             <choice xml:id="Bae_TB_6_7733">
               <abbr xml:id="Bae_TB_6_7734">K.</abbr>
@@ -10544,7 +10535,7 @@
           </persName> soll seine 
           <index xml:id="Bae_TB_6_7736">
             <term key="DemissionRegierung" xml:id="Bae_TB_6_7737">Demission</term>
-          </index> mit Gesundheitsrücksichten begründet haben. Der Grund mag ja richtig sein, jedenfalls kommt er ihm gelegen. Seine unentschlossene Politik hat 5 Jahre kostbarer Zeit gekostet 
+          </index> mit Gesundheitsrücksichten begründet haben. Der Grund mag ja richtig sein, jedenfalls kommt er ihm gelegen. <app from="#Bae_MF_4_4036" type="equal"><rdg wit="Bae_MF_4">Körber soll seine Demission mit Gesundheitsrücksichten begründet haben. Der Grund mag ja richtig sein, jedenfalls kommt er ihm gelegen.</rdg></app><anchor/><app from="#Bae_MF_4_4042" type="missing"><rdg wit="Bae_MF_4">Ob es richtig ist, daß ihn der Kaiser zurückhalten wollte, kan ich nicht beurteilen, doch war seine Uhr längst abgelaufen.</rdg></app><anchor/>Seine unentschlossene Politik hat 5 Jahre kostbarer Zeit gekostet 
           <choice xml:id="Bae_TB_6_7738">
             <abbr xml:id="Bae_TB_6_7739">u.</abbr>
             <expan xml:id="Bae_TB_6_7740">und</expan>
@@ -10582,12 +10573,12 @@
           <choice xml:id="Bae_TB_6_7763">
             <abbr xml:id="Bae_TB_6_7764">u.</abbr>
             <expan xml:id="Bae_TB_6_7765">und</expan>
-          </choice> eine Politik verlangte, die auf den Kern der Sache losgehen sollte. 
+          </choice> eine Politik verlangte, die auf den Kern der Sache losgehen sollte. <app from="#Bae_MF_4_4045" type="equal"><rdg wit="Bae_MF_4">Seine unentschlossene Politik hat 5 Jahre kostbarer Zeit gekostet und wir sind da, wo wir waren, wo alle österreichischen Regierungen sein werden, wenn sie das eigentliche österreichische Problem, die Nationalitätenfrage zu lösen oder wenigstens zu mildern nicht verstehen. Die letzten Jahre Körbers waren durch widerliche journalistische Künste vergiftet. Er war ein Künstler in der indirekten Beeinflußung der Presse. Jeden direkten Einfluß läugnete er, konnte ihn auch läugnen, aber die von ihm abhängigen Reptilien wußten genau, womit sie ihm dienen können und verhinderten jeden Ansatz zu einer Verständigung oder Ordnung im Hause, verunglimpften und verdächtigten jeden, der eine unabhängige Gesinnung zur Schau trug, sich von den phrasenhaften Reden nicht blenden ließ und eine Politik verlangte, die auf den Kern der Sache losgehen sollte.</rdg></app><anchor/><app from="#Bae_MF_4_4057" type="missing"><rdg wit="Bae_MF_4">Eine der bezeichnendsten Episoden der Regierung Körbers war die Vereitlung der Geschäftsordnungsreform durch ihn. Es war mir, als Obmann des Geschäftsordnungsausschusses, und Grabmayr als sachkundigen Referenten, im Jahre 1903 gelungen, im Ausschuß eine Reform der Geschäftsordnung durchzubringen. Sie wurde, meines Erinnners, nahezu einhellig beschlossen. Nicht grundstürzend, sondern mit Schonung des Mißtrauens, das im Hause gegen eine stramme Geschäftsordnung herrschte, hatte sie doch den Vorzug der Geschäftsvereinfachung und der Erschwerung der Obstruktion durch die Dringlichkeitsanträge. Das passte Körber nicht. Durch Stürgkh, dem Gross sekundierte, ließ er gegen das Elaborat des Geschäftsordnungsausschusses Stimmung machen und es gelang ihm, auch die Möglichkeit eines Beschlußes im Plenum des Hauses zu untergraben. Der Entwurf des Ausschusses kam nicht zur Verhandlung. Körber suchte seine Stärke in der Schwäche des Parlamentes. In den letzten Jahren seines Regimes war das der ausgesprochene Zug seiner Politik.  Im Dezember 1905 erzählte mir Alois Lichtenstein folgende Geschichte. In den letzten Jahren Körbers beschloß der niederösterreichische Landtag ein Gesetz, das den Liberalen und Sozialdemokraten nicht recht war. Die Letzteren fanden es – trotz ihrer guten Verbindungen mit Körber – für notwendig, dagegen zu demonstrieren. Es wurde Körber in der Herrengasse und dem Unterrichtsministerium auf dem Minoritenplatz eine Katzenmusik gebracht und auf dem Wege auch vor der Nuntiatur demonstriert. Nachher zogen aber die Demonstranten vor das Rathaus, wo gerade in den Festräumen eine von vielen Frauen und Kindern besuchte Versammlung und Bescheerung stattfand. Die Demonstranten wollten den Aufgang erzwingen und konnten nur dadurch abgehalten werden, daß das Gittertor zugemacht und von innen so lange verteidigt wurde, bis die durch das Telefon herbeigerufene Polizei intervenierte. Kurze Zeit darauf hatte Liechtenstein seine Audienz. Er machte eine Bemerkung über die dem Ministerpräsidenten und dem Unterrichtsminister gebrachte Katzenmusik, die Körber verabredetermaßen zugelassen habe, beklagte sich aber, daß die Demonstranten auch gegen den Bürgermeister vorgegangen seien, worauf der Kaiser antwortete: "das war aber nicht vereinbart." So weit war es unter Körber, daß solche Dinge mit den Sozialdemokraten "abgemacht" wurden. Freilich übertrafen ihn seine Nachfolger darin noch weit.</rdg></app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_195" n="93v" xml:id="Bae_TB_6_7766"/>
         <note type="editorial" xml:id="Bae_TB_6_7767">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_6_196" n="94r" xml:id="Bae_TB_6_7768"/>
-        <p xml:id="Bae_TB_6_7769">Ich will im Folgenden in dieses Tagebuch das von mir genau aufgenommene Gespräch des 
+        <p xml:id="Bae_TB_6_7769"><anchor/>Ich will im Folgenden in dieses Tagebuch das von mir genau aufgenommene Gespräch des 
           <index xml:id="Bae_TB_6_7770">
             <term key="Parteien" xml:id="Bae_TB_6_7771">4 Ausschusses</term>
             <index xml:id="Bae_TB_6_7772">
@@ -10599,8 +10590,7 @@
               <abbr xml:id="Bae_TB_6_7776">K.</abbr>
               <expan xml:id="Bae_TB_6_7777">Koerber</expan>
             </choice>
-          </persName> einfügen. Es gibt ein Bild von der Art Verhandlungen, die wir ( 
-          <choice xml:id="Bae_TB_6_7778">
+          </persName> einfügen. Es gibt ein Bild von der Art Verhandlungen, die wir (<choice xml:id="Bae_TB_6_7778">
             <abbr xml:id="Bae_TB_6_7779">u.</abbr>
             <expan xml:id="Bae_TB_6_7780">und</expan>
           </choice> auch andere Parteien analog) mit ihm führten, von jener "Melodie ohn Ende" die er immer sang, von dem molusenhaften Wesen, das seine Politik war. Es war dies allerdings der Grund, warum er sich so lange hielt, aber auch der Grund seines Misserfolges. 
@@ -10611,25 +10601,25 @@
             <index xml:id="Bae_TB_6_7784">
               <term key="Viererausschuss" xml:id="Bae_TB_6_7785"/>
             </index>
-          </index> will ich einkleben. Nachdem ich sie gehalten, unmittelbar darauf, gratulirte mir die ganze Welt. 
-          <persName key="SkeneAlfred" ref="https://d-nb.info/gnd/133135829" xml:id="Bae_TB_6_7786">Skene</persName>, der Getreueste 
+          </index> will ich einkleben. Nachdem ich sie gehalten, unmittelbar darauf, <app from="#Bae_MF_4_3921" type="notEqual"><rdg wit="Bae_MF_4">Ich hatte im Budgetausschuß bei der Gelegenheit eine Rede gehalten und mich eingesetzt, damit der Regierung der verlangte Kredit bewilligt würde und nur verlangt, daß in den Krediten bei den einzelnen Ministerien eine gewisse Ordnung hergestellt werde, was auch das Verlangen des Obersten Rechnungshofes war. Von diesen Wünschen hatte ich Tags voher dem Finanzminister ganz ausführlich "notice" gegeben, weil ich ihn nicht überraschen wollte. Nachdem ich gesprochen,</rdg></app><anchor/>gratulirte mir die ganze Welt. 
+          <persName key="SkeneAlfred" ref="https://d-nb.info/gnd/133135829" xml:id="Bae_TB_6_7786">Skene</persName>, der <app from="#Bae_MF_4_3925" type="equal"><rdg wit="Bae_MF_4">gratulierte mir die ganze Welt, Skene, der</rdg></app><anchor/>Getreueste <app from="#Bae_MF_4_3929" type="notEqual"><rdg wit="Bae_MF_4">Getreue</rdg></app><anchor/>
           <persName key="KoerberErnest" ref="https://d-nb.info/gnd/118713434" xml:id="Bae_TB_6_7787">
             <choice xml:id="Bae_TB_6_7788">
               <abbr xml:id="Bae_TB_6_7789">K.'s</abbr>
               <expan xml:id="Bae_TB_6_7790">Koerbers</expan>
             </choice>
-          </persName> lobte sie in allen Tonarten. Aber das 
+          </persName> lobte <app from="#Bae_MF_4_3932" type="equal"><rdg wit="Bae_MF_4">Körbers lobte</rdg></app><anchor/>sie <app from="#Bae_MF_4_3936" type="notEqual"><rdg wit="Bae_MF_4">meine Rede</rdg></app><anchor/>in allen Tonarten. Aber das 
           <orgName key="TelegraphenKorrespondenzBureau" xml:id="Bae_TB_6_7791">Pressbureau</orgName> gab ein Signal – 
           <choice xml:id="Bae_TB_6_7792">
             <abbr xml:id="Bae_TB_6_7793">u.</abbr>
             <expan xml:id="Bae_TB_6_7794">und</expan>
-          </choice> bald darauf wurde sie mir von denselben, die sie "staatsmännisch" 
+          </choice> bald darauf wurde sie mir von denselben, die sie "staatsmännisch" <app from="#Bae_MF_4_3939" type="equal"><rdg wit="Bae_MF_4">in allen Tonarten. Aber das Pressbüro gab ein Signal und bald darauf wurde sie von denselben, die sie "staatsmännisch"</rdg></app><anchor/>
           <choice xml:id="Bae_TB_6_7795">
             <abbr xml:id="Bae_TB_6_7796">u.</abbr>
             <expan xml:id="Bae_TB_6_7797">und</expan>
-          </choice> weis was gepriesen hatten – als "aufreizend" bezeichnet. 
+          </choice> weis was <app from="#Bae_MF_4_3943" type="missing"><rdg wit="Bae_MF_4"></rdg></app><anchor/>gepriesen hatten – als "aufreizend" bezeichnet.<app from="#Bae_MF_4_3946" type="equal"><rdg wit="Bae_MF_4">gepriesen hatten, als "aufreizend" bezeichnet.</rdg></app> 
         </p>
-        <p xml:id="Bae_TB_6_7798">Nur in einem gesunden Compromiss 
+        <p xml:id="Bae_TB_6_7798"><anchor/>Nur in einem gesunden Compromiss 
           <choice xml:id="Bae_TB_6_7799">
             <abbr xml:id="Bae_TB_6_7800">zw. D. u. Č.</abbr>
             <expan xml:id="Bae_TB_6_7801">zwischen Deutschen und Čechen</expan>
@@ -10645,7 +10635,7 @@
         </p>
         <p xml:id="Bae_TB_6_7808">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_6_7809">Lünz</placeName> am 
-          <date when="1904-12-31" xml:id="Bae_TB_6_7810">Sylvesterabend 1904</date>. 
+          <date when="1904-12-31" xml:id="Bae_TB_6_7810">Sylvesterabend 1904</date>. <app from="#" type="missing"><rdg wit="Bae_MF_4"></rdg></app>
         </p>
       </div>
     </body>
