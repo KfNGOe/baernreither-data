@@ -3426,7 +3426,7 @@
           </choice> Ministerialbeamte geht vor. Dazu heute sehr charakteristische Äußerung von 
           <persName key="DumreicherAdele" xml:id="Bae_TB_8_2623">Adele D.</persName> Ihre Schwester 
           <persName key="HoeschMathildeFriederike" xml:id="Bae_TB_8_2624">Hösch</persName> hatte 2 Söhne, der eine Diplomat, der andere in dem Hause Hösch das grosse Industrien betreibt. Der 
-          <persName key="HoeschAlfred" xml:id="Bae_TB_8_2625"> Kaufmann</persName> ist gestorben, der 
+          <persName key="HoeschAlfred" xml:id="Bae_TB_8_2625">Kaufmann</persName> ist gestorben, der 
           <persName key="HoeschLeopold" ref="https://d-nb.info/gnd/116933062" xml:id="Bae_TB_8_2626">Diplomat</persName> muss ins Geschäft, was der junge 
           <persName key="DumreicherHans" xml:id="Bae_TB_8_2627">Dumreicher</persName> mit den Worten begleitete: "er muss jetzt in die Greislerei eintreten"! Alles will bei uns den 
           <pb facs="#F_K-5_Bae_TB_8_090" n="43v" xml:id="Bae_TB_8_2628"/>
@@ -3497,8 +3497,7 @@
         <p xml:id="Bae_TB_8_2670">Herrlicher Spaziergang Fragsburg. Auf dem Weg 
           <persName key="BeckPaul" ref="https://d-nb.info/gnd/142414956" xml:id="Bae_TB_8_2671">Dr. Beck</persName> getroffen. Wie immer interessant. Erzählt dass der franz. Botschafter 
           <persName key="BarrereCamille" ref="https://d-nb.info/gnd/116059680" xml:id="Bae_TB_8_2672">Barere</persName> in 
-          <placeName key="Rom" ref="https://www.geonames.org/3169071/roma.html" xml:id="Bae_TB_8_2673">Rom</placeName> 1/2 Mill. Frs Repraesentationsgelder hat die er zu umfangreicher Bestechung der 
-          <orgName key="Arbeiterzeitung" ref="https://d-nb.info/gnd/1086227697" xml:id="Bae_TB_8_2674">Presse</orgName>
+          <placeName key="Rom" ref="https://www.geonames.org/3169071/roma.html" xml:id="Bae_TB_8_2673">Rom</placeName> 1/2 Mill. Frs Repraesentationsgelder hat die er zu umfangreicher Bestechung der <index><term key="Presse">Presse</term></index>
           <choice xml:id="Bae_TB_8_2675">
             <abbr xml:id="Bae_TB_8_2676">u.</abbr>
             <expan xml:id="Bae_TB_8_2677">und</expan>
@@ -3523,11 +3522,11 @@
           </choice> falschen Berechnungen. 
         </p>
         <p xml:id="Bae_TB_8_2689">Dann kamen wir auf die 
-          <choice xml:id="Bae_TB_8_5088">
+          <index><term key="Nationalitaetenkonflikt"><choice xml:id="Bae_TB_8_5088">
             <abbr xml:id="Bae_TB_8_5089">böhm.</abbr>
             <expan xml:id="Bae_TB_8_5090">böhmischen</expan>
-          </choice> Verhältnisse zu sprechen. An Stelle des einstigen "Bohemismus" ist der Völkerhass getreten. 
-          <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_8_2690">Beck</persName> schreibt das Uebel der Entfremdung in den Schulen zu. 
+          </choice> Verhältnisse</term></index> zu sprechen. An Stelle des einstigen "Bohemismus" ist der Völkerhass getreten. 
+          <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_8_2690">Beck</persName> schreibt das Uebel der Entfremdung in den <index><term key="Nationalitaetenkonflikt">Schulen</term><index><term key="Schulwesen"/></index></index> zu. 
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_TB_8_2691">Herbst</persName>
           <choice xml:id="Bae_TB_8_2692">
             <abbr xml:id="Bae_TB_8_2693">u.</abbr>
@@ -3554,7 +3553,7 @@
               <expan xml:id="Bae_TB_8_5093">Augsburger</expan>
             </choice> Postzeitung 
           </orgName>
-          <note type="editorial" xml:id="Bae_TB_8_2707">Der Artikel ist nicht erhalten.</note> erhielt ich mit einem gedruckten Circular worin aufgefordert wird mitzuarbeiten, damit das deutsch-öst. Bündnis auf neue, sittliche Grundlagen gestellt würde. Ich witterte sofort clericale oder christlich- 
+          <note type="editorial" xml:id="Bae_TB_8_2707">Der Artikel ist nicht erhalten.</note> erhielt ich mit einem gedruckten Circular worin aufgefordert wird mitzuarbeiten, damit das <index><term key="Zweibund">deutsch-öst. Bündnis</term></index> auf neue, sittliche Grundlagen gestellt würde. Ich witterte sofort clericale oder christlich- 
           <choice xml:id="Bae_TB_8_5094">
             <abbr xml:id="Bae_TB_8_5095">soc.</abbr>
             <expan xml:id="Bae_TB_8_5096">sociale</expan>
@@ -3575,8 +3574,8 @@
           <choice xml:id="Bae_TB_8_2719">
             <abbr xml:id="Bae_TB_8_2720">u.</abbr>
             <expan xml:id="Bae_TB_8_2721">und</expan>
-          </choice> damit auch eine neue Aera diplomatischer Methode inauguriert. Unsere Diplomaten haben zu wenig Fühlung mit jenen Kreisen der Bevölkerung in denen die eigentlichen, letzten politischen Motive auch der äussern Politik liegen. Die Presse spielt heute als der Ausdruck der verschiedensten Strömungen eine immer noch nicht genügend bewertete Macht. In andern Staaten hat man das erkannt. Sehr interessant, wie 
-          <placeName key="Frankreich" ref="https://www.geonames.org/3017382/republic-of-france.html" xml:id="Bae_TB_8_2722">Frankreich</placeName> es z.B. versteht, in der italienischen Presse seine Interessen dem Verständnis des italienischen Publicums nahezubringen. Wir leiden immer noch an der Unterschätzung dieser grossen Wandlung im Volksleben 
+          </choice> damit auch eine neue Aera diplomatischer Methode inauguriert. Unsere Diplomaten haben zu wenig Fühlung mit jenen Kreisen der Bevölkerung in denen die eigentlichen, letzten politischen Motive auch der äussern Politik liegen. Die <index><term key="Presse">Presse</term></index> spielt heute als der Ausdruck der verschiedensten Strömungen eine immer noch nicht genügend bewertete Macht. In andern Staaten hat man das erkannt. Sehr interessant, wie 
+          <placeName key="Frankreich" ref="https://www.geonames.org/3017382/republic-of-france.html" xml:id="Bae_TB_8_2722">Frankreich</placeName> es z.B. versteht, in der italienischen <index><term key="Presse">Presse</term></index> seine Interessen dem Verständnis des italienischen Publicums nahezubringen. Wir leiden immer noch an der Unterschätzung dieser grossen Wandlung im Volksleben 
           <choice xml:id="Bae_TB_8_2723">
             <abbr xml:id="Bae_TB_8_2724">u.</abbr>
             <expan xml:id="Bae_TB_8_2725">und</expan>
@@ -3648,12 +3647,12 @@
           </orgName> angeschlagene Thema. Viel Wahres. Die Gefaren der polit. Situation werden nicht geringer. 
         </p>
         <p xml:id="Bae_TB_8_2769">
-          <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_8_2770">Lueger</persName> beantragt Handelsvertrag mit 
+          <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_8_2770">Lueger</persName> beantragt <index><term key="OesterreichUngarn">Handelsvertrag</term><index><term key="Handelsvertraege"/></index></index> mit 
           <placeName key="Rumaenien" ref="https://www.geonames.org/798549/romania.html" xml:id="Bae_TB_8_2771">Rumänien</placeName>. Es hängt das alles zusammen, Spitze gegen 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_2772">Ungarn</placeName>. 
         </p>
         <p xml:id="Bae_TB_8_2773">Ich war gestern in der hiesigen Krankencasse. Sie ist von lauter Soci geleitet ( 
-          <persName key="Pichler" xml:id="Bae_TB_8_2774">Pichler</persName>), die aber über die Socialversicherung sehr vernünftig sprachen. In der Zeitschrift Arbeitsschutz (N. 22, 23, 24 ex 1908) ist die Organisation der Vorlage critisirt. Die Herren machten bezüglich der Vorlage nachstehende Bemerkungen. Betrag von 2400 K als Grenze ist für Oest. hohe Löhne zu niedrig. Den Bezirksstellen wird die Evidenzhaltung sehr schwer werden, auch machtlos gg die Simulation. Regierungsvorlage wird Doppelarbeit machen. Evidenz müsse sowol bei den Krankenkassen als bei den Bezirksstellen gefürt werden. Kassa müsse bei den Krankencassen 
+          <persName key="Pichler" xml:id="Bae_TB_8_2774">Pichler</persName>), die aber über die <index><term key="Reichsrat">Socialversicherung</term><index><term key="Sozialversicherung"/></index></index> sehr vernünftig sprachen. In der Zeitschrift Arbeitsschutz (N. 22, 23, 24 ex 1908) ist die Organisation der Vorlage critisirt. Die Herren machten bezüglich der Vorlage nachstehende Bemerkungen. Betrag von 2400 K als Grenze ist für Oest. hohe Löhne zu niedrig. Den Bezirksstellen wird die Evidenzhaltung sehr schwer werden, auch machtlos gg die Simulation. Regierungsvorlage wird Doppelarbeit machen. Evidenz müsse sowol bei den Krankenkassen als bei den Bezirksstellen gefürt werden. Kassa müsse bei den Krankencassen 
           <choice xml:id="Bae_TB_8_2775">
             <abbr xml:id="Bae_TB_8_2776">u.</abbr>
             <expan xml:id="Bae_TB_8_2777">und</expan>
@@ -3675,10 +3674,10 @@
           </choice> praktisch ist, allerdings abweichend von den Regierungsformularien. 
         </p>
         <p xml:id="Bae_TB_8_2790">Die 
-          <choice xml:id="Bae_TB_8_5117">
+          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"><choice xml:id="Bae_TB_8_5117">
             <abbr xml:id="Bae_TB_8_5118">öster.</abbr>
             <expan xml:id="Bae_TB_8_5119">österreichische</expan>
-          </choice> Socialdemokratie arbeitet sachlich, wenn auch vielleicht im einseitigen Interesse ihrer Anhänger. Das Letztere müsste bei der Socialversicherung verhindert werden, aber die Autonomie der Kassen müsste man zu retten trachten. 
+          </choice> Socialdemokratie</orgName> arbeitet sachlich, wenn auch vielleicht im einseitigen Interesse ihrer Anhänger. Das Letztere müsste bei der <index><term key="Reichsrat">Socialversicherung</term><index><term key="Sozialversicherung"/></index></index> verhindert werden, aber die Autonomie der Kassen müsste man zu retten trachten. 
         </p>
         <p xml:id="Bae_TB_8_2792">Die 
           <placeName key="Mannheim" ref="https://www.geonames.org/6559162/mannheim-universitaetsstadt.html" xml:id="Bae_TB_8_2793">Mannheimer</placeName>
@@ -3687,10 +3686,10 @@
             <abbr xml:id="Bae_TB_8_5122">öst.</abbr>
             <expan xml:id="Bae_TB_8_5123">österreichischen</expan>
           </choice> Socialisten für das Budget mit Recht, die 
-          <choice xml:id="Bae_TB_8_5124">
+          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8"><choice xml:id="Bae_TB_8_5124">
             <abbr xml:id="Bae_TB_8_5125">öst.</abbr>
             <expan xml:id="Bae_TB_8_5126">österreichischen</expan>
-          </choice> Socialdemokratie habe dadurch den 
+          </choice> Socialdemokratie</orgName> habe dadurch den 
           <hi rendition="#ul" xml:id="Bae_TB_8_2795">Staat 
             <choice xml:id="Bae_TB_8_2796">
               <abbr xml:id="Bae_TB_8_2797">u.</abbr>
@@ -3729,7 +3728,7 @@
           <persName key="HoepliUlrico" ref="https://d-nb.info/gnd/119422271" xml:id="Bae_TB_8_2821">Ulrico Hoepli</persName>
           <placeName key="Mailand" ref="https://www.geonames.org/3173435/milan.html" xml:id="Bae_TB_8_2822">Mailand</placeName> Corso Vittorio Emanuele. 
         </p>
-        <p xml:id="Bae_TB_8_2823">Carte segrete ratti ufficiali della Polizia austriaca in 
+        <p xml:id="Bae_TB_8_2823">Carte segrete ratti ufficiali della <orgName key="Polizei" ref="https://d-nb.info/gnd/2080257-2">Polizia austriaca</orgName> in 
           <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_5172">Italia</orgName> del 4 Giugno 1814 al 22 Marzo 1848, 3 vol Capolago 1851. 
         </p>
         <p xml:id="Bae_TB_8_2825">Von 
@@ -3803,7 +3802,7 @@
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_2875">Bosniens</placeName> erzählt, von der Wahlordnung, über die jetzt entschieden werden wird und über die Stimmung der Serben. Diese seien in den Städten vielfach irredentistisch, das Landvolk sei aber gut. Er hält deswegen 
           <add place="across" xml:id="Bae_TB_8_2876">für 
             <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_2877">Österreich</placeName>
-          </add> ein breites Wahlrecht für besser. 
+          </add> ein breites <index><term key="Wahlrecht">Wahlrecht</term></index> für besser. 
         </p>
         <p xml:id="Bae_TB_8_2878">(Aus Seite 1 der beiliegenden Zusammenstellung).</p>
         <p xml:id="Bae_TB_8_2879">Alles bekannte Sachen, aber wann wird man die Konsequenzen ziehen?</p>
@@ -3942,12 +3941,12 @@
             <expan xml:id="Bae_TB_8_2971">und</expan>
           </choice> das Linvanisko polje in 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_2972">Bosnien</placeName> bei 
-          <placeName key="Livno" ref="https://www.geonames.org/3294775/livno.html" xml:id="Bae_TB_8_2973"> Livno</placeName>. Projekte liegen schon vor, aber kein Geld. Ebenso notwendig seien Cisternen für die Gemeinden, die kein Wasser haben. Man müsste solche bauen mit der Jahreszahl 1908. 
+          <placeName key="Livno" ref="https://www.geonames.org/3294775/livno.html" xml:id="Bae_TB_8_2973">Livno</placeName>. Projekte liegen schon vor, aber kein Geld. Ebenso notwendig seien Cisternen für die Gemeinden, die kein Wasser haben. Man müsste solche bauen mit der Jahreszahl 1908. 
           <anchor xml:id="Bae_TB_8_5105"/>
           <!-- CA: anchor für addspan 49e -->
           <pb facs="#F_K-5_Bae_TB_8_109" n="49f" xml:id="Bae_TB_8_2974"/>
           <addSpan spanTo="#Bae_TB_8_5107" type="insertion" xml:id="Bae_TB_8_5106"/>Ebenso Wasserleitungen, an denen auch grosser Mangel sei. Endlich Dammbauten an der 
-          <placeName key="Save" ref="https://www.geonames.org/1027190/save.html" xml:id="Bae_TB_8_2975">Save</placeName>. Das wären nützliche Zeichen der Annexion. Es wäre auf diese Weise viel Boden zu gewinnen. Mit einem Wort: er verlangt eine Aktion für 
+          <placeName key="Save" ref="https://www.geonames.org/1027190/save.html" xml:id="Bae_TB_8_2975">Save</placeName>. Das wären nützliche Zeichen der  <index><term key="AnnexionBosniens">Annexion</term></index>. Es wäre auf diese Weise viel Boden zu gewinnen. Mit einem Wort: er verlangt eine Aktion für 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_2976">Bosnien</placeName>, so wie man sie für 
           <placeName key="Dalmatien" ref="https://www.geonames.org/3202210/dalmatia.html" xml:id="Bae_TB_8_2977">Dalmatien</placeName> versprochen hat, ein Programm, aus dem die Bevölkerung sehen würde, dass es jetzt anders ist und endlich etwas für sie geschieht. 
         </p>
@@ -3970,7 +3969,7 @@
           </choice> jetzt Vielfältigkeit der Normen, die sehr schädlich. 
         </p>
         <p xml:id="Bae_TB_8_2990">
-          <hi rendition="#ul" xml:id="Bae_TB_8_2991">Wahlrecht</hi>. Er ist gegen die confessionellen Curien, sie würden die Confessionen noch mehr trennen. Er ist für Listenscrutinium mit Proporz, so dass alle zur Geltung kommen, aber zusammen wählen. Auf diese Weise wird es auch zu Compromissen 
+          <hi rendition="#ul" xml:id="Bae_TB_8_2991"><index><term key="Wahlrecht">Wahlrecht</term></index></hi>. Er ist gegen die confessionellen Curien, sie würden die Confessionen noch mehr trennen. Er ist für Listenscrutinium mit Proporz, so dass alle zur Geltung kommen, aber zusammen wählen. Auf diese Weise wird es auch zu Compromissen 
           <choice xml:id="Bae_TB_8_2992">
             <abbr xml:id="Bae_TB_8_2993">zw.</abbr>
             <expan xml:id="Bae_TB_8_2994">zwischen</expan>
@@ -4004,7 +4003,7 @@
           <choice xml:id="Bae_TB_8_3012">
             <abbr xml:id="Bae_TB_8_3013">allgem.</abbr>
             <expan xml:id="Bae_TB_8_3014">allgemeines</expan>
-          </choice> gleiches Wahlrecht, denn dann haben die armen Leute die Majorität 
+          </choice> gleiches <index><term key="Wahlrecht">Wahlrecht</term></index>, denn dann haben die armen Leute die Majorität 
           <choice xml:id="Bae_TB_8_3015">
             <abbr xml:id="Bae_TB_8_3016">u.</abbr>
             <expan xml:id="Bae_TB_8_3017">und</expan>
@@ -4028,7 +4027,7 @@
           <choice xml:id="Bae_TB_8_3028">
             <abbr xml:id="Bae_TB_8_3029">u.</abbr>
             <expan xml:id="Bae_TB_8_3030">und</expan>
-          </choice> diese verteilen sich vielleicht auf 100 Wahlstimmen, wenn man nur die Ältesten der Zadruga stimmen lässt. Daneben etwa 300 kleine Steuerzahler der andern Schichte. Wenn man nun ein Censuswahlrecht einführt, so überstimmen diese Kleinen die Ältesten der Zadruga, während wenn man ein breites Wahlrecht gewährt, alle Mitglieder der Zadruga diese kleinen Besitzer überstimmen. Diese Kleinen sind aber die wirtschaftlich 
+          </choice> diese verteilen sich vielleicht auf 100 Wahlstimmen, wenn man nur die Ältesten der Zadruga stimmen lässt. Daneben etwa 300 kleine Steuerzahler der andern Schichte. Wenn man nun ein Censuswahlrecht einführt, so überstimmen diese Kleinen die Ältesten der Zadruga, während wenn man ein breites <index><term key="Wahlrecht">Wahlrecht</term></index> gewährt, alle Mitglieder der Zadruga diese kleinen Besitzer überstimmen. Diese Kleinen sind aber die wirtschaftlich 
           <choice xml:id="Bae_TB_8_3031">
             <abbr xml:id="Bae_TB_8_3032">u.</abbr>
             <expan xml:id="Bae_TB_8_3033">und</expan>
@@ -4046,9 +4045,9 @@
               <abbr xml:id="Bae_TB_8_3042">Dvic</abbr>
               <expan xml:id="Bae_TB_8_3043">Dimitrijevic</expan>
             </choice>
-          </persName> ist der Überzeugung dass hier das breitere Wahlrecht das conservativere, für 
+          </persName> ist der Überzeugung dass hier das breitere <index><term key="Wahlrecht">Wahlrecht</term></index> das conservativere, für 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3044">Österreich</placeName> günstigere ist. Er glaubt auch, dass 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3045">Österreich</placeName> wenn es ein breites Wahlrecht gewährt, sich bei 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3045">Österreich</placeName> wenn es ein breites <index><term key="Wahlrecht">Wahlrecht</term></index> gewährt, sich bei 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3046">England</placeName> usw. im Ausland rechtfertigen 
           <choice xml:id="Bae_TB_8_3047">
             <abbr xml:id="Bae_TB_8_3048">u.</abbr>
@@ -4077,8 +4076,8 @@
           <placeName key="Zenica" ref="https://www.geonames.org/3186573/zenica.html" xml:id="Bae_TB_8_3065">Zenica</placeName>. Dadurch gemischtes System, aber die Hauptlinien zwischen 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3066">
             <choice xml:id="Bae_TB_8_3067">
-              <abbr xml:id="Bae_TB_8_3068">Ö.-U.</abbr>
-              <expan xml:id="Bae_TB_8_3069">Österreich-Ungarn</expan>
+              <abbr xml:id="Bae_TB_8_3068"><placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Ö.</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">U.</placeName></abbr>
+              <expan xml:id="Bae_TB_8_3069"><placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html">Österreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName></expan>
             </choice>
           </placeName> und dem Meere normalspurig. 
         </p>
@@ -4101,8 +4100,8 @@
           <choice xml:id="Bae_TB_8_3082">
             <abbr xml:id="Bae_TB_8_3083">u.</abbr>
             <expan xml:id="Bae_TB_8_3084">und</expan>
-          </choice> will indirektes Wahlrecht machen, und zwar die Urwahlen nach 
-          <hi rendition="#ul" xml:id="Bae_TB_8_3085">gleichem allgemeinen</hi> Wahlrecht, wodurch die Mitglieder der Zadruga stimmberechtigt werden. 
+          </choice> will indirektes <index><term key="Wahlrecht">Wahlrecht</term></index> machen, und zwar die Urwahlen nach 
+          <hi rendition="#ul" xml:id="Bae_TB_8_3085">gleichem allgemeinen</hi> <index><term key="Wahlrecht">Wahlrecht</term></index>, wodurch die Mitglieder der Zadruga stimmberechtigt werden. 
         </p>
         <p xml:id="Bae_TB_8_3086">Bezüglich der poljes sagt 
           <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755" xml:id="Bae_TB_8_3087">Burian</persName>, dass das Livanisko polje schon zum grossen Teil entwässert sei; auch sind die culturtechnischen Aufgaben nicht so einfach 
@@ -4144,7 +4143,7 @@
         <anchor xml:id="Bae_TB_8_3113"/>
         <!-- CA: anchor für den addspan ab fol. 49i -->
         <pb facs="#F_K-5_Bae_TB_8_114" n="50r" xml:id="Bae_TB_8_3114"/>
-        <p xml:id="Bae_TB_8_3115">Rechnung präsentiert erhalten würden. Die Freude an der Annexion würde uns durch eine nachträgliche Rechnung 
+        <p xml:id="Bae_TB_8_3115">Rechnung präsentiert erhalten würden. Die Freude an der  <index><term key="AnnexionBosniens">Annexion</term></index> würde uns durch eine nachträgliche Rechnung 
           <del rendition="#s" xml:id="Bae_TB_8_3116">gründlich verdorben</del>
           <add place="across" xml:id="Bae_TB_8_3117">getrübt</add> werden. 
           <del rendition="#s" xml:id="Bae_TB_8_3118">Aber ernst genommen: große parlamentarische Schwierigkeiten und keine leichte Form für die Sachen [...]</del>
@@ -4161,7 +4160,7 @@
           <add place="across" xml:id="Bae_TB_8_3127">Auf meine Frage ob</add>, wenn gezahlt ist, 
           <del rendition="#s" xml:id="Bae_TB_8_3128">wird</del> dann sicher Ruhe 
           <del rendition="#s" xml:id="Bae_TB_8_3129">sein</del>
-          <add place="across" xml:id="Bae_TB_8_3130">eintreten werde</add>, beantwortete er: jedenfalls wird unsere Stellung viel besser sein, das türkische Parlament 
+          <add place="across" xml:id="Bae_TB_8_3130">eintreten werde</add>, beantwortete er: jedenfalls wird unsere Stellung viel besser sein, das <orgName key="ParlamentOsmanischesReich" ref="https://d-nb.info/gnd/4532731-2">türkische Parlament</orgName> 
           <del rendition="#s" xml:id="Bae_TB_8_3131">müsste</del>
           <add place="across" xml:id="Bae_TB_8_3132">wird</add> zu dem Abkommen ja sagen 
           <choice xml:id="Bae_TB_8_3133">
@@ -4197,11 +4196,11 @@
         <pb facs="#F_K-5_Bae_TB_8_116" n="51r" xml:id="Bae_TB_8_3157"/>
         <p xml:id="Bae_TB_8_3158">
           <persName key="SchoenaichFranzXaver" ref="https://d-nb.info/gnd/129442577" xml:id="Bae_TB_8_3160">Schönaich</persName> stellt die ungarischen Forderungen als Notwendigkeit hin. 
-          <hi rendition="#ul" xml:id="Bae_TB_8_3161">Preis</hi>: die an das 9erComite gemachten Concessionen: Fahnenbänder, Regimentsprache ungarisch. Dafür: Wehrgesetz, Erhöhung des Rekrutenkontingents, Dauer der Abmachung bis 1926. Kommando- und Dienstsprache bleibt Deutsch. 
-          <choice xml:id="Bae_TB_8_3162">
+          <hi rendition="#ul" xml:id="Bae_TB_8_3161">Preis</hi>: die an das 9erComite gemachten Concessionen: Fahnenbänder, Regimentsprache ungarisch. Dafür: Wehrgesetz, Erhöhung des <index><term key="UngarischerReichstag">Rekrutenkontingents</term><index><term key="Rekrutenkontingent"/></index></index>, Dauer der Abmachung bis 1926. Kommando- und Dienstsprache bleibt Deutsch. 
+          <persName key="SchoenaichFranzXaver" ref="https://d-nb.info/gnd/129442577"><choice xml:id="Bae_TB_8_3162">
             <abbr xml:id="Bae_TB_8_3163">Sch.</abbr>
             <expan xml:id="Bae_TB_8_3164">Schönaich</expan>
-          </choice> meint, dass heute die ungarischen Regimenter sicherer sind als die böhmischen. In 
+          </choice></persName> meint, dass heute die ungarischen Regimenter sicherer sind als die böhmischen. In 
           <placeName key="Jungbunzlau" ref="https://www.geonames.org/3070543/okres-mlada-boleslav.html" xml:id="Bae_TB_8_3167">Jungbunzlau</placeName>
           <add place="across" xml:id="Bae_TB_8_3168">kam es</add> beim Einwaggonieren der Bataillone nach 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3169">Bosnien</placeName>
@@ -4221,7 +4220,7 @@
           <persName key="PacherRafael" ref="https://d-nb.info/gnd/124749275" xml:id="Bae_TB_8_3180">Pacher</persName>, 
           <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765" xml:id="Bae_TB_8_3181">Chiari</persName>, ich). Gegenstand: Flottmachung des 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3182">Landtages</orgName>. Ich machte den Vorschlag man solle für die Constituierung des 
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3183">Landtages</orgName> Obstruction ausschalten und stellte das gemeinverständliche Dilemma auf: Constituierung des 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3183">Landtages</orgName> <index><term key="BoehmischerLandtag">Obstruction</term><index><term key="Obstruktion"/></index></index> ausschalten und stellte das gemeinverständliche Dilemma auf: Constituierung des 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3184">Landtags</orgName> – Möglichkeit einer Coalition 
           <hi rendition="#ul" xml:id="Bae_TB_8_3185">oder</hi> kein 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3186">Landtag</orgName> – keine Coalition, sondern definitives Beamtenministerium. 
@@ -4229,7 +4228,7 @@
           <hi rendition="#ul" xml:id="Bae_TB_8_3188">für</hi> das Einlenken, 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_8_3189">Pergelt</persName> schwankte, 
           <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765" xml:id="Bae_TB_8_3190">Chiari</persName> entschieden 
-          <hi rendition="#ul" xml:id="Bae_TB_8_3191">gegen</hi> das Aufgeben der Obstruction ohne plausiblen 
+          <hi rendition="#ul" xml:id="Bae_TB_8_3191">gegen</hi> das Aufgeben der <index><term key="BoehmischerLandtag">Obstruction</term><index><term key="Obstruktion"/></index></index> ohne plausiblen 
           <choice xml:id="Bae_TB_8_3192">
             <abbr xml:id="Bae_TB_8_3193">u.</abbr>
             <expan xml:id="Bae_TB_8_3194">und</expan>
@@ -4241,7 +4240,7 @@
           <persName key="SylvesterJulius" ref="https://d-nb.info/gnd/120148595" xml:id="Bae_TB_8_3199">Sylvester</persName>. 
           <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765" xml:id="Bae_TB_8_3200">Chiari</persName> konnte nicht leugnen blieb aber fest bei seinem Versprechen. 
           <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_8_3201">Schreiner</persName> war sehr wenig orientiert. Sagte er habe 
-          <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_3202">Bienerth</persName> schon mehrmals gebeten er solle ihm den Entwurf des Sprachengesetzes lesen lassen, aber vergeblich. 
+          <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_3202">Bienerth</persName> schon mehrmals gebeten er solle ihm den Entwurf des <index><term key="Reichsrat">Sprachengesetzes</term><index><term key="Sprachengesetz"/></index></index> lesen lassen, aber vergeblich. 
           <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765" xml:id="Bae_TB_8_3203">Chiari</persName> und 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_8_3204">Pergelt</persName>, die von diesem Entwurf etwas wussten sagten es sei 
           <hi rendition="#ul" xml:id="Bae_TB_8_3205">
@@ -4348,7 +4347,7 @@
           <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X" xml:id="Bae_TB_8_3282">Nostitz</persName> Correspondenz geführt über die Einleitung unserer Beratungen in bohemicis mit den 
           <orgName key="BoehmischerKonservativerGroßgrundbesitz" xml:id="Bae_TB_8_3283">Conservativen</orgName>. Seine Briefe inliegend. 
         </p>
-        <p xml:id="Bae_TB_8_3284">Die bosnische Sache genau verfolgt. Zeitungsausschnitte inliegend sowie die Skizze eines Artikels den ich schreiben will gegen die Idee die Kosten der Annexion 
+        <p xml:id="Bae_TB_8_3284">Die bosnische Sache genau verfolgt. Zeitungsausschnitte inliegend sowie die Skizze eines Artikels den ich schreiben will gegen die Idee die Kosten der  <index><term key="AnnexionBosniens">Annexion</term></index>
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3285">Bosnien</placeName>
           <choice xml:id="Bae_TB_8_3286">
             <abbr xml:id="Bae_TB_8_3287">u.</abbr>
@@ -4418,14 +4417,12 @@
             <abbr xml:id="Bae_TB_8_3326">Standp</abbr>
             <expan xml:id="Bae_TB_8_3327">Standpunkt</expan>
           </choice> . 
-          <persName key="CzedikAlois" ref="https://d-nb.info/gnd/127800352" xml:id="Bae_TB_8_3328">Czedik</persName> dafür "patriotische That zu vollbringen" natürlich wird man sich nicht an die "Schlagworte" halten dürfen. Stimmung gegen die 
-          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_8_3329">
+          <persName key="CzedikAlois" ref="https://d-nb.info/gnd/127800352" xml:id="Bae_TB_8_3328">Czedik</persName> dafür "patriotische That zu vollbringen" natürlich wird man sich nicht an die "Schlagworte" halten dürfen. Stimmung gegen die
             <choice xml:id="Bae_TB_8_3330">
               <abbr xml:id="Bae_TB_8_3331">Dböhmen</abbr>
               <expan xml:id="Bae_TB_8_3332">Deutschböhmen</expan>
             </choice>
-          </placeName> . 
-          <persName key="SchoenbornFriedrich" ref="https://d-nb.info/gnd/116863854" xml:id="Bae_TB_8_3333">Schönburg</persName> will ja nichts tun, dass die Sachen ans 
+          <persName key="SchoenburgAlois" ref="https://d-nb.info/gnd/135929059" xml:id="Bae_TB_8_3333">Schönburg</persName> will ja nichts tun, dass die Sachen ans 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_3334">
             <choice xml:id="Bae_TB_8_3335">
               <abbr xml:id="Bae_TB_8_3336">H.H.</abbr>
@@ -4467,12 +4464,10 @@
           </choice> erhielt von Letzterem den inliegenden Brief. 
         </p>
         <p xml:id="Bae_TB_8_3362">Ich habe die 
-          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_8_3363">
             <choice xml:id="Bae_TB_8_3364">
               <abbr xml:id="Bae_TB_8_3365">Dböhmen</abbr>
               <expan xml:id="Bae_TB_8_3366">Deutschböhmen</expan>
             </choice>
-          </placeName> gewarnt, blind in das Projekt hineinzurennen 
           <choice xml:id="Bae_TB_8_3367">
             <abbr xml:id="Bae_TB_8_3368">u.</abbr>
             <expan xml:id="Bae_TB_8_3369">und</expan>
@@ -4498,12 +4493,10 @@
         </p>
         <p xml:id="Bae_TB_8_3378">Viel wichtiger als diese Dinge äussere Situation.</p>
         <p xml:id="Bae_TB_8_3379">
-          <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_8_3380">
             <choice xml:id="Bae_TB_8_3381">
               <abbr xml:id="Bae_TB_8_3382">Abg.</abbr>
               <expan xml:id="Bae_TB_8_3383">Abgeordneter</expan>
-            </choice> Redlich 
-          </persName> geht häufig zu 
+            </choice> <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724">Redlich</persName> geht häufig zu 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3384">
             <choice xml:id="Bae_TB_8_3385">
               <abbr xml:id="Bae_TB_8_3386">Athal</abbr>
@@ -4576,7 +4569,7 @@
           <choice xml:id="Bae_TB_8_3439">
             <abbr xml:id="Bae_TB_8_3440">u.</abbr>
             <expan xml:id="Bae_TB_8_3441">und</expan>
-          </choice> frug mich, wie so eine Zollunion aussehen würde. Ich erwiderte: gemeinsame Zollgrenze, also Bewachung der Zollgrenzen zw. 
+          </choice> frug mich, wie so eine <index><term key="OesterreichUngarn">Zollunion</term><index><term key="Zolleinheit"/></index></index> aussehen würde. Ich erwiderte: gemeinsame Zollgrenze, also Bewachung der Zollgrenzen zw. 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3443">Serbien</placeName> und 
           <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html" xml:id="Bae_TB_8_3444">Bulgarien</placeName>
           <choice xml:id="Bae_TB_8_3445">
@@ -4587,7 +4580,7 @@
           <choice xml:id="Bae_TB_8_3449">
             <abbr xml:id="Bae_TB_8_3450">öst.-ung.</abbr>
             <expan xml:id="Bae_TB_8_3451">österreichisch-ungarischer</expan>
-          </choice> Controlle. Freier Verkehr innerhalb des gemeinsamen Zollgebietes. Feststellung einer Quote aus den 
+          </choice> Controlle. Freier Verkehr innerhalb des gemeinsamen Zollgebietes. Feststellung einer <index><term key="OesterreichUngarn">Quote</term><index><term key="Quote"/></index></index> aus den 
           <choice xml:id="Bae_TB_8_3452">
             <abbr xml:id="Bae_TB_8_3453">gem.</abbr>
             <expan xml:id="Bae_TB_8_3454">gemeinsamen</expan>
