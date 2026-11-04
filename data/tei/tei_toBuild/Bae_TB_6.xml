@@ -1824,7 +1824,7 @@
           <persName key="DeymFranz" ref="https://d-nb.info/gnd/124667082" xml:id="Bae_TB_6_1290">Botschafter</persName>. Die 
           <persName key="DeymAnna" xml:id="Bae_TB_6_1291">Gräfin</persName>, die ich viele Jahre nicht gesehen habe, eigentlich seit der Zeit als sie jung verheiratet in unserem Hause in 
           <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_6_1292">Prag</placeName>
-          <app from="#" type="equal" xml:id="Bae_TB_6_7926">
+          <app from="#Bae_MF_4_4376" type="equal" xml:id="Bae_TB_6_7926">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_7927">Am Dienstag den 26. besuchte ich meinen alten Freund Geoffrey Drage. Er bewohnt ganz in der Nähe des Hyde Park Hotel ein Haus in Lowndes Square. Er ist jetzt nicht im Parlament, das letzte Mal durchgefallen, hofft aber für Woolwich wieder hineinzukommen. Um ¾ 2 Uhr war lunch beim Botschafter. Die Gräfin, die ich viele Jahre nicht gesehen habe, eigentlich seit der Zeit als sie jung verheiratet in unserem Hause in Prag</rdg>
           </app>
         </p>
@@ -2208,23 +2208,23 @@
         </p>
         <!-- DC hierher Einklebung Druckschrift von fol. 15v, 16v, 17v, 18v und 19v -->
         <anchor xml:id="Bae_TB_6_1559"/>
-        <app from="#_033" type="insertion" xml:id="Bae_TB_6_1560">
+        <app from="#Bae_TB_6_903" type="insertion" xml:id="Bae_TB_6_1560">
           <rdg xml:id="Bae_TB_6_1561">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_1562"/>
-        <app from="#_035" type="insertion" xml:id="Bae_TB_6_1563">
+        <app from="#Bae_TB_6_970" type="insertion" xml:id="Bae_TB_6_1563">
           <rdg xml:id="Bae_TB_6_1564">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_1565"/>
-        <app from="#_037" type="insertion" xml:id="Bae_TB_6_1566">
+        <app from="#Bae_TB_6_1045" type="insertion" xml:id="Bae_TB_6_1566">
           <rdg xml:id="Bae_TB_6_1567">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_1568"/>
-        <app from="#_039" type="insertion" xml:id="Bae_TB_6_1569">
+        <app from="#Bae_TB_6_1121" type="insertion" xml:id="Bae_TB_6_1569">
           <rdg xml:id="Bae_TB_6_1570">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_1571"/>
-        <app from="#_041" type="insertion" xml:id="Bae_TB_6_1572">
+        <app from="#Bae_TB_6_1197" type="insertion" xml:id="Bae_TB_6_1572">
           <rdg xml:id="Bae_TB_6_1573">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_6_1574">
@@ -2478,43 +2478,43 @@
           </app>
           <!-- DC: hierher Einklebung von Zeitungsausschnitt von fol. 20v, 21v, 22v, 23v, 24v, 25v, 26v, 27v, 28v -->
           <anchor xml:id="Bae_TB_6_1744"/>
-          <app from="#_043" type="insertion" xml:id="Bae_TB_6_1745">
+          <app from="#Bae_TB_6_1294" type="insertion" xml:id="Bae_TB_6_1745">
             <rdg xml:id="Bae_TB_6_1746">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1747"/>
-          <app from="#_045" type="insertion" xml:id="Bae_TB_6_1748">
+          <app from="#Bae_TB_6_1340" type="insertion" xml:id="Bae_TB_6_1748">
             <rdg xml:id="Bae_TB_6_1749">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1750"/>
-          <app from="#_047" type="insertion" xml:id="Bae_TB_6_1751">
+          <app from="#Bae_TB_6_1477" type="insertion" xml:id="Bae_TB_6_1751">
             <rdg xml:id="Bae_TB_6_1752">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1753"/>
-          <app from="#_049" type="insertion" xml:id="Bae_TB_6_1754">
+          <app from="#Bae_TB_6_1589" type="insertion" xml:id="Bae_TB_6_1754">
             <rdg xml:id="Bae_TB_6_1755">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1756"/>
-          <app from="#_051" type="insertion" xml:id="Bae_TB_6_1757">
+          <app from="#Bae_TB_6_1663" type="insertion" xml:id="Bae_TB_6_1757">
             <rdg xml:id="Bae_TB_6_1758">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1759"/>
-          <app from="#_053" type="insertion" xml:id="Bae_TB_6_1760">
+          <app from="#Bae_TB_6_1816" type="insertion" xml:id="Bae_TB_6_1760">
             <rdg xml:id="Bae_TB_6_1761">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1762"/>
-          <app from="#_055_01" type="insertion" xml:id="Bae_TB_6_1763">
+          <app from="#Bae_TB_6_1924" type="insertion" xml:id="Bae_TB_6_1763">
             <rdg xml:id="Bae_TB_6_1764">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1765"/>
-          <app from="#_059" type="insertion" xml:id="Bae_TB_6_1766">
+          <app from="#Bae_TB_6_2097" type="insertion" xml:id="Bae_TB_6_1766">
             <rdg xml:id="Bae_TB_6_1767">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1768"/>
-          <app from="#_055_2" type="insertion" xml:id="Bae_TB_6_1769">
+          <app from="#Bae_TB_6_1940" type="insertion" xml:id="Bae_TB_6_1769">
             <rdg xml:id="Bae_TB_6_1770">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_1771"/>
-          <app from="#_057" type="insertion" xml:id="Bae_TB_6_1772">
+          <app from="#Bae_TB_6_2029" type="insertion" xml:id="Bae_TB_6_1772">
             <rdg xml:id="Bae_TB_6_1773">[...]</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_7985"/>Er sprach vollkommen frei, nur mit einem Stück Papier in der Hand, auf das er manchmal einen Blick warf. Der erst Theil seiner Rede schien uns wolüberlegt, gegen den Schluss lies er sich durch die Zwischenrufe hinreissen. Er war sehr schlagfertig 
@@ -2578,11 +2578,11 @@
         <!-- CA: anchor für den addspan von 25r -->
         <!-- DC: Einklebung Zeitungausschnitt fol. 25r, 26r -->
         <anchor xml:id="Bae_TB_6_1809"/>
-        <app from="#_052" type="insertion" xml:id="Bae_TB_6_1810">
+        <app from="#Bae_TB_6_1784" type="insertion" xml:id="Bae_TB_6_1810">
           <rdg xml:id="Bae_TB_6_1811">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_1812"/>
-        <app from="#_054" type="insertion" xml:id="Bae_TB_6_1813">
+        <app from="#Bae_TB_6_1869" type="insertion" xml:id="Bae_TB_6_1813">
           <rdg xml:id="Bae_TB_6_1814">[...]</rdg>
         </app>
         <pb facs="#F_K-4_Bae_TB_6_053" n="25v" xml:id="Bae_TB_6_1815"/>
@@ -3206,7 +3206,6 @@
         </p>
         <anchor xml:id="Bae_TB_6_2246"/>
         <!-- CA: anchor für addspan 29v -->
-        <!-- CA: wohin kommend die addspans 29, 30, 31 v?? -->
         <pb facs="#F_K-4_Bae_TB_6_062" n="30r" xml:id="Bae_TB_6_2247"/>
         <p xml:id="Bae_TB_6_2248">
           <anchor xml:id="Bae_TB_6_8039"/>
@@ -3823,15 +3822,15 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_6_2648"/>
-        <app from="#_061" type="insertion" xml:id="Bae_TB_6_2649">
+        <app from="#Bae_TB_6_2211" type="insertion" xml:id="Bae_TB_6_2649">
           <rdg xml:id="Bae_TB_6_2650">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2651"/>
-        <app from="#_063" type="insertion" xml:id="Bae_TB_6_2652">
+        <app from="#Bae_TB_6_2292" type="insertion" xml:id="Bae_TB_6_2652">
           <rdg xml:id="Bae_TB_6_2653">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2654"/>
-        <app from="#_065" type="insertion" xml:id="Bae_TB_6_2655">
+        <app from="#Bae_TB_6_2375" type="insertion" xml:id="Bae_TB_6_2655">
           <rdg xml:id="Bae_TB_6_2656">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_6_2657">
@@ -3954,43 +3953,43 @@
         </p>
         <!-- DC: Brief an Aehrenthal von fol. 32v bis 37v -->
         <anchor xml:id="Bae_TB_6_2737"/>
-        <app from="#_067" type="insertion" xml:id="Bae_TB_6_2738">
+        <app from="#Bae_TB_6_2483" type="insertion" xml:id="Bae_TB_6_2738">
           <rdg xml:id="Bae_TB_6_2739">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2740"/>
-        <app from="#_069" type="insertion" xml:id="Bae_TB_6_2741">
+        <app from="#Bae_TB_6_2552" type="insertion" xml:id="Bae_TB_6_2741">
           <rdg xml:id="Bae_TB_6_2742">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2743"/>
-        <app from="#_071" type="insertion" xml:id="Bae_TB_6_2744">
+        <app from="#Bae_TB_6_2668" type="insertion" xml:id="Bae_TB_6_2744">
           <rdg xml:id="Bae_TB_6_2745">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2746"/>
-        <app from="#_073" type="insertion" xml:id="Bae_TB_6_2747">
+        <app from="#Bae_TB_6_2791" type="insertion" xml:id="Bae_TB_6_2747">
           <rdg xml:id="Bae_TB_6_2748">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2749"/>
-        <app from="#_075" type="insertion" xml:id="Bae_TB_6_2750">
+        <app from="#Bae_TB_6_2876" type="insertion" xml:id="Bae_TB_6_2750">
           <rdg xml:id="Bae_TB_6_2751">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2752"/>
-        <app from="#_081" type="insertion" xml:id="Bae_TB_6_2753">
+        <app from="#Bae_TB_6_2996" type="insertion" xml:id="Bae_TB_6_2753">
           <rdg xml:id="Bae_TB_6_2754">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2755"/>
-        <app from="#_076" type="insert" xml:id="Bae_TB_6_2756">
+        <app from="#Bae_TB_6_2928" type="insert" xml:id="Bae_TB_6_2756">
           <rdg xml:id="Bae_TB_6_2757">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2758"/>
-        <app from="#_077" type="insert" xml:id="Bae_TB_6_2759">
+        <app from="#Bae_TB_6_2949" type="insert" xml:id="Bae_TB_6_2759">
           <rdg xml:id="Bae_TB_6_2760">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2761"/>
-        <app from="#_078" type="insert" xml:id="Bae_TB_6_2762">
+        <app from="#Bae_TB_6_2966" type="insert" xml:id="Bae_TB_6_2762">
           <rdg xml:id="Bae_TB_6_2763">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_2764"/>
-        <app from="#_079" type="insert" xml:id="Bae_TB_6_2765">
+        <app from="#Bae_TB_6_2986" type="insert" xml:id="Bae_TB_6_2765">
           <rdg xml:id="Bae_TB_6_2766">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_6_2767">
@@ -4385,7 +4384,7 @@
         <anchor xml:id="Bae_TB_6_2994"/>
         <!-- CA: anchor für addspan 37bv -->
         <pb facs="#F_K-4_Bae_TB_6_081" n="37v" xml:id="Bae_TB_6_2995"/>
-        <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_2996"/>
+        <addSpan spanTo="#Bae_TB_6_8796" type="insertion" xml:id="Bae_TB_6_2996"/>
         <p xml:id="Bae_TB_6_2997">
           <anchor xml:id="Bae_TB_6_8175"/>aufhören 
           <choice xml:id="Bae_TB_6_2998">
@@ -4535,6 +4534,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_083" n="38v" xml:id="Bae_TB_6_3092"/>
+        <addSpan spanTo="#Bae_TB_6_3112" type="insertion" xml:id="Bae_TB_6_3113"/>
         <p xml:id="Bae_TB_6_3093">
           <anchor xml:id="Bae_TB_6_8193"/>Gerade in den 
           <choice xml:id="Bae_TB_6_3094">
@@ -4566,7 +4566,6 @@
         </p>
         <anchor xml:id="Bae_TB_6_3112"/>
         <!-- anchor für addspan 38v -->
-        <addSpan spanTo="#" type="insertion" xml:id="Bae_TB_6_3113"/>
         <pb facs="#F_K-4_Bae_TB_6_084" n="39r" xml:id="Bae_TB_6_3114"/>
         <p xml:id="Bae_TB_6_3115">
           <anchor xml:id="Bae_TB_6_8196"/>äusserst lieblich sein. Abend in 
@@ -4579,7 +4578,7 @@
         </p>
         <!-- hier die Ergänzung von 38v -->
         <anchor xml:id="Bae_TB_6_3119"/>
-        <app from="#_083" type="insertion" xml:id="Bae_TB_6_3120">
+        <app from="#Bae_TB_6_3113" type="insertion" xml:id="Bae_TB_6_3120">
           <rdg xml:id="Bae_TB_6_3121">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_6_3122">
@@ -4755,7 +4754,7 @@
             <abbr xml:id="Bae_TB_6_3255">u.</abbr>
             <expan xml:id="Bae_TB_6_3256">und</expan>
           </choice> ohne an Festigkeit es fehlen zu lassen – 
-          <app from="#" type="equal" xml:id="Bae_TB_6_8200">
+          <app from="#Bae_MF_4_4379" type="equal" xml:id="Bae_TB_6_8200">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8201">Bei großer Hitze nach Ponte di Legno. Karawanserei. Um 5 Uhr früh (27) bei Dämmerung ausgefahren, über den Tonalpass. Herrliche Aussicht der Presanella. Die Tiroler Orte im Vergleich mit den italienischen viel wohlhabender und reinlicher. In Malé habe ich meinen Kutscher verabschiedet, weil ich den Schnellzug, der um 3 Uhr Nachmittags von San Michele abgeht, erreichen wollte. Zahlte 300 Frcs. und nahm Postpferde. Von San Michele über Bozen und Innsbruck in einer Tour nach Aussee wo ich Morgens um 9 Uhr (den 28.) ankam, von Chlumetzky am Bahnhof erwartet. Herrliches Soolbad, dann sehr gutes Diner bei Chlumecky, wo ich Hartel, das Ehepaar Andrian und eine junge geistreiche Dame, geschiedene Frau traf, deren Namen ich aber vergessen habe. Chlumetzky lobte mit Recht die Art, wie sich Szell nach seinem Rücktritt benommen. Armeekreise und Fejervary hatten den Kaiser ungeduldig gemacht und als Szell am 8. Juni nichts ahnend nach Wien kam, erfuhr er von der Audienz von Szechenyi (dem a latere), daß er im Begriff sei, seine Demission zu erhalten. Wenige Tage darauf trat er voll in die Bresche mit einer glänzenden Verteidigung der Krone. Bei seinem Abgang lehnte er Fackelzug und Ovationen mit der Drohung ab, er würde nach Ratot fahren und nie wiederkommen und nur er war es, der seine Ressortminister bewog, von einem zum andern fahrend, in das Kabinett Khuen zu treten, das ohne seine Intervention ebenso wenig zustande gekommen wäre wie das Kabinett Tisza. Trotz Bitternissen diese Loyalität! Ich hatte in Lünz ein Memoire über die Zolltrennung und ihre Folgen geschrieben und es auch Chlumetzky mitgeteilt. Er ging aber nicht recht darauf ein. Seine Gedanken sind bei der Trennung des Heeres, nicht daß er es wünschte, aber er berechnete, was dabei von Oesterreich gewonnen würde und rechnete eine Ersparnis von 20 Millionen Kronen heraus. Daß wir aber dabei die letzten Reste einer Machtstellung gefährden, darüber zuckte er die Achseln. Der Pessimismus, die Animosität gegen Ungarn, eine Haltlosigkeit in Allem und Jedem greift so um sich, daß es einem allgemeinen Auflösungsprozeß der bisherigen politischen Gedanken und Grundsätze gleichkommt. Nach Wien zurückgekehrt, fand ich in allen Köpfen nur ein Trümmerfeld. Von den "Folgen" der Trennung spricht jeder, überlegt hat sie keiner. Ich hatte mein Memoire über die Zolltrennung an Präsidenten Neumann, Marchet, Spitzmüller u.A. gesendet. Alle stimmten den Konklusionen zu, jeder warnte vor einer solchen Veröffentlichung! Körber spielt auf zwei Flöten. Seine Demissionsgeschichte, das Gewährenlassen (oder vielleicht die direkten Anweisungen) der Presse gegen Ungarn loszugehen erhöhen seine Popularität. Kommt er aber mit jemanden zusammen, dem die Zukunft des Staates doch höher steht als all der Pflanz, beteuert er in einem Ministerratsprotokoll zum ewigen Gedächtnis alle drohenden Folgen der Trennung niedergelegt zu haben. So deckt er sich nach zwei Seiten und wäscht seine Hände in Unschuld. Weder Goluchowski, der die Einsicht in die Sache hat, noch er haben aber einen festen Plan, jene Höhe der Auffassung, die notwendig ist, um trotz der ungarischen Provokationen und ohne an Festigkeit es fehlen zu lassen -</rdg>
           </app>
         </p>
@@ -4900,7 +4899,7 @@
           </app>
           <!-- hier 40v -->
           <anchor xml:id="Bae_TB_6_3349"/>
-          <app from="#_087" type="insertion" xml:id="Bae_TB_6_3350">
+          <app from="#Bae_TB_6_3258" type="insertion" xml:id="Bae_TB_6_3350">
             <rdg xml:id="Bae_TB_6_3351">[...]</rdg>
           </app>
         </p>
@@ -6137,7 +6136,7 @@
             <abbr xml:id="Bae_TB_6_4214">u.</abbr>
             <expan xml:id="Bae_TB_6_4215">und</expan>
           </choice> sein Interesse ist darum um so grösser. Aber deswegen 
-          <app from="#" type="equal" xml:id="Bae_TB_6_8254">
+          <app from="#Bae_MF_4_4380" type="equal" xml:id="Bae_TB_6_8254">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8255">Natürlich kamen wir auch auf amerikanische Verhältnisse zu sprechen. Es sei eine Schwierigkeit in Amerika, dass man sich so sicher fühlt u. nicht glaubt Kriegsrüstung zu Wasser o. zu Lande überhaupt nötig zu haben. Man sieht in A. keine Gefahr u. hat für die Kosten einer Kriegsrüstung kein Verständnis u. man ist daher auch geneigt die Weltverhältnisse leicht zu nehmen u. auch von den anderen leicht hin reden zu können. Er sei aber ganz gegen dieses absprechende Urteil seiner Landsleute – I will not stand it, sagte er. Der Gesamteindruck den er machte war der eines denkenden Menschen; er hat viel weniger von einem rough rider als von einem Professor, der sich bemüht seine Gedankenwelt in Ordnung zu halten u. der gerne spricht u. sich auch gerne sprechen hört. Er spricht sehr deutlich artikulirend, wie jemand der nicht missverstanden werden will. Er drückt sich sehr praecise aus u. beobachtet scharf den Zuhörer ob dieser ihn auch richtig verstanden hat. Die Art wie er über Österreich sprach, war sehr woltuend. Er beurteilt Österreich vom Standpunkt eines erfahrenen Staatstechnikers, der die Schwierigkeiten wohl ermisst, welche die Regierung Österreichs bietet u. sein Interesse ist darum um so grösser. Aber deswegen</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_4216"/>
@@ -6497,7 +6496,7 @@
           </app>
         </p>
         <pb facs="#F_K-4_Bae_TB_6_115" n="53v" xml:id="Bae_TB_6_4422"/>
-        <addSpan xml:id="Bae_TB_6_4423"/>
+        <addSpan spanTo="#Bae_TB_6_4450" type="insertion" xml:id="Bae_TB_6_4423"/>
         <p xml:id="Bae_TB_6_4424">
           <anchor xml:id="Bae_TB_6_8322"/>*Als wir ziemlich spät Abend in einem Bahnhof in 
           <placeName key="NewYork" ref="https://www.geonames.org/5128638/new-york.html" xml:id="Bae_TB_6_4425">
@@ -6577,7 +6576,7 @@
           </app>
         </p>
         <anchor xml:id="Bae_TB_6_4465"/>
-        <app from="#_115" type="insertion" xml:id="Bae_TB_6_4466">
+        <app from="#Bae_TB_6_4423" type="insertion" xml:id="Bae_TB_6_4466">
           <rdg xml:id="Bae_TB_6_4467">[...]</rdg>
         </app>
         <!-- DC: Ergänzung mit Tinte auf fol. 53v -->
@@ -6701,27 +6700,27 @@
         </p>
         <!-- DC: hier befindet sich Verweiszeichen zu Aufzeichnung über Unterredung mit Roosevelt, daher hierher Einklebung der Niederschrift von fol. 46r bis 52r. -->
         <anchor xml:id="Bae_TB_6_4553"/>
-        <app from="#_100" type="insertion" xml:id="Bae_TB_6_4554">
+        <app from="#Bae_TB_6_3677" type="insertion" xml:id="Bae_TB_6_4554">
           <rdg xml:id="Bae_TB_6_4555">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_4556"/>
-        <app from="#_102" type="insertion" xml:id="Bae_TB_6_4557">
+        <app from="#Bae_TB_6_3773" type="insertion" xml:id="Bae_TB_6_4557">
           <rdg xml:id="Bae_TB_6_4558">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_4559"/>
-        <app from="#_104" type="insertion" xml:id="Bae_TB_6_4560">
+        <app from="#Bae_TB_6_3875" type="insertion" xml:id="Bae_TB_6_4560">
           <rdg xml:id="Bae_TB_6_4561">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_4562"/>
-        <app from="#_106" type="insertion" xml:id="Bae_TB_6_4563">
+        <app from="#Bae_TB_6_4101" type="insertion" xml:id="Bae_TB_6_4563">
           <rdg xml:id="Bae_TB_6_4564">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_4565"/>
-        <app from="#_108" type="insertion" xml:id="Bae_TB_6_4566">
+        <app from="#Bae_TB_6_4105" type="insertion" xml:id="Bae_TB_6_4566">
           <rdg xml:id="Bae_TB_6_4567">[...]</rdg>
         </app>
         <anchor xml:id="Bae_TB_6_4568"/>
-        <app from="#_110" type="insertion" xml:id="Bae_TB_6_4569">
+        <app from="#Bae_TB_6_4220" type="insertion" xml:id="Bae_TB_6_4569">
           <rdg xml:id="Bae_TB_6_4570">[...]</rdg>
         </app>
         <p xml:id="Bae_TB_6_4571">
@@ -7465,7 +7464,7 @@
             <expan xml:id="Bae_TB_6_5047">wenngleich nicht</expan>
           </choice> so sprunghaft wie die 
           <placeName key="Amerika" ref="https://www.geonames.org/6252001/united-states.html" xml:id="Bae_TB_6_5048">Staaten</placeName>. Der Fortschritt sei 
-          <app from="#" type="equal" xml:id="Bae_TB_6_8441">
+          <app from="#Bae_MF_4_4381" type="equal" xml:id="Bae_TB_6_8441">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8442">, wenngleich nicht so sprunghaft wie die Staaten. Der Fortschritt sei</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_8443"/>
@@ -8535,7 +8534,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_5779"/>
             <expan xml:id="Bae_TB_6_5780">ist kein Gesetz dass</expan>
           </choice>
-          <app from="#" type="equal" xml:id="Bae_TB_6_8516">
+          <app from="#Bae_MF_4_4382" type="equal" xml:id="Bae_TB_6_8516">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8517">Richter müssen beide Sprachen verstehen. Das Urteil fällen sie in jener Sprache, die ihnen geläufiger ist. Keine Vorschrift darüber. Alle Richter haben so viel Kenntnis der Sprache, daß sie die Sache ordentlich führen können, aber es ist kein Gesetz, daß</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_8518"/>
@@ -9125,7 +9124,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6174"/>
             <expan xml:id="Bae_TB_6_6175">Grundlagen</expan>
           </choice>
-          <app from="#" type="equal" xml:id="Bae_TB_6_8564">
+          <app from="#Bae_MF_4_4383" type="equal" xml:id="Bae_TB_6_8564">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8565">In ganz Canada gilt in Strafsachen ein auf englischen Grundlagen</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_8566"/>ruhendes 
@@ -9896,7 +9895,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6716"/>
             <expan xml:id="Bae_TB_6_6717">auf das</expan>
           </choice>
-          <app from="#" type="equal" xml:id="Bae_TB_6_8603">
+          <app from="#Bae_MF_4_4385" type="equal" xml:id="Bae_TB_6_8603">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8604">Noch einige an Ort und Stelle gemachte Aufzeichnungen über Eindrücke in Ottawa und Montreal. Eindruck Ottawa. Parlamentsgebäude sehr imposant. Gothisch. Prachtvoll gelegen, besonders von der Wasserseite aus gesehen (im Mondschein). Alles dem englischen Parlament nachgebildet: der Speaker sowie die beiden Seiten des Hauses. Bibliothek, rund in eigenem Gebäude. Abends am Turm das elektrische Licht so lange das Haus tagt, wie in Westminster. Ein Mitglied des Senats ist über 100 Jahre alt. Hon. David Wark aus New Brunswik. Die Experimetal Farms. Sah leider nur Museum und fuhr durch die Farm. Zum Herumführen zu spät. Versuchsfelder, daneben schöne Anlagen mit sehr vielen Baumarten und Coniferen. Im Museum reiche Sammlung interessanter Getreidearten. Eindruck Montreal. Kathedrale, St. Peter in Rom nachgebildet. Ein Bild: offert par le gouvernement de la republique française – die Besitzergreifung des Landes durch die Franzosen darstellend. Das hat aber keine politische Spitze gegen den jetzigen Zustand der Dinge. Gar kein englisches Militär (ausser Flotte!) mehr in Canada. Nur Militz. Sah exerzieren; schottisch adjustiert. Publikum sitzt dabei, sieht zu und applaudiert den Uebungen. Die französische Tricolore hie und da ausgehängt. Zeichen der Nationalität, nicht etwa irgend eine politische Gesinnung irredentistischer Natur. Kirchen barbarischer Stil, wie überhaupt in Amerika. Auch die Kathedrale in Quebec überladen und geschmacklos. Die Architektur in Amerika ist ein Thema auf das</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_8605"/>die Amerikaner 
@@ -9904,7 +9903,7 @@
             <abbr type="shorthand" subtype="gabelsberger" xml:id="Bae_TB_6_6719"/>
             <expan xml:id="Bae_TB_6_6720">nicht stolz sein können</expan>
           </choice>. 
-          <app from="#" type="notEqual" xml:id="Bae_TB_6_8606">
+          <app from="#Bae_MF_4_4386" type="notEqual" xml:id="Bae_TB_6_8606">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8607">der Amerikaner nicht stolz sein kann,</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_8608"/>
@@ -10117,7 +10116,7 @@
             <expan xml:id="Bae_TB_6_6850">und</expan>
           </choice> den bewaldeten Bergen im Hintergrund – ein einziges Bild. 
           <date when="1904-07-23" xml:id="Bae_TB_6_6851">Samstag</date> zurück. 
-          <app from="#" type="equal" xml:id="Bae_TB_6_8636">
+          <app from="#Bae_MF_4_4387" type="equal" xml:id="Bae_TB_6_8636">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8637">Den 20. Mittwoch Abend waren wir wieder in Montreal. Donnerstag den 21. ebenfalls. Donnerstag Nachmittag nach Quebec. Freitag den ganzen Tag in Quebec: Vormittag am Hafen und in der unteren französischen Stadt, dann Abraham Schlachtfeld. Gemeinsames Monument von Wolfe und Montcalm. Leider etwas unwohl. Doch genoß ich die prachtvolle Terrasse des Hotel Frontenac und die herrliche Aussicht, welche eine der schönsten, die ich je gesehen: die große Krümmung des St. Lorenzo, die Mündung seines Nebenflusses, das ganze seeartig ausgebreitet mit den bewohnten und bebauten Hügeln am Ufer und den bewaldeten Bergen im Hintergrund – ein einziges Bild. Samstag zurück</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_8638"/>
@@ -11595,7 +11594,7 @@
         <p xml:id="Bae_TB_6_7808">
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_6_7809">Lünz</placeName> am 
           <date when="1904-12-31" xml:id="Bae_TB_6_7810">Sylvesterabend 1904</date>. 
-          <app from="#" type="missing" xml:id="Bae_TB_6_8789">
+          <app from="#Bae_MF_4_4389" type="missing" xml:id="Bae_TB_6_8789">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8790"/>
           </app>
         </p>
