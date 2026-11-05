@@ -77,15 +77,15 @@
   </teiHeader>
   <text xml:id="Bae_TB_6_52">
     <body xml:id="Bae_TB_6_53">
-      <div n="1903-04" type="diaryEntry" xml:id="Bae_TB_6_54">
+      <div type="diaryEntry" xml:id="Bae_TB_6_54">
         <pb facs="#F_K-4_Bae_TB_6_002" n="1r" xml:id="Bae_TB_6_55"/>
-        <p xml:id="Bae_TB_6_56">
+        <head xml:id="Bae_TB_6_56">
           <anchor xml:id="Bae_TB_6_57"/>
           <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html" xml:id="Bae_TB_6_58">Berlin</placeName> – 
           <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_59">London</placeName> – 
           <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_TB_6_60">Brüssel</placeName> – 
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_61">Paris</placeName>. 
-        </p>
+        <date when="1903-04" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_6_62">
           <date when="1903" xml:id="Bae_TB_6_63">1903</date>. 
           <app from="#Bae_MF_4_1099" type="equal" xml:id="Bae_TB_6_64">
@@ -1326,10 +1326,10 @@
           <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_954">London</placeName> so notwendig zur Hand haben musste. 
         </p>
       </div>
-      <div n="1903-05" type="diaryEntry" xml:id="Bae_TB_6_955">
-        <p xml:id="Bae_TB_6_956">
-          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_957">London</placeName>
-        </p>
+      <div type="diaryEntry" xml:id="Bae_TB_6_955">
+        <head xml:id="Bae_TB_6_956">
+          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_TB_6_957">London</placeName><date when="1903-05" type="diaryEntry"></date>
+        </head>
         <p xml:id="Bae_TB_6_958">Am 
           <date when="1903-05-21" xml:id="Bae_TB_6_959">21. Mai</date>, einem schönen Himmelfahrtstage verliessen wir – 
           <choice xml:id="Bae_TB_6_960">
@@ -3081,12 +3081,12 @@
         <anchor xml:id="Bae_TB_6_2163"/>
         <!-- CA: anchor für addspan 28v -->
       </div>
-      <div n="1903-06" xml:id="Bae_TB_6_2164">
+      <div type="diaryEntry" xml:id="Bae_TB_6_2164">
         <pb facs="#F_K-4_Bae_TB_6_060" n="29r" xml:id="Bae_TB_6_2165"/>
-        <p xml:id="Bae_TB_6_2166">
+        <head xml:id="Bae_TB_6_2166">
           <anchor xml:id="Bae_TB_6_8793"/>
           <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_TB_6_2167">Brüssel</placeName>
-        </p>
+        <date when="1903-06" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_6_2168">Unser Gesandter 
           <persName key="ClarySiegfried" ref="https://d-nb.info/gnd/1269647148" xml:id="Bae_TB_6_2169">Graf Siegfried Clary</persName>
           <choice xml:id="Bae_TB_6_2170">
@@ -3346,14 +3346,14 @@
         <anchor xml:id="Bae_TB_6_2337"/>
         <!-- CA: anchor für addspan -->
       </div>
-      <div n="1903-06-06" type="diaryEntry" xml:id="Bae_TB_6_2338">
+      <div type="diaryEntry" xml:id="Bae_TB_6_2338">
         <pb facs="#F_K-4_Bae_TB_6_064" n="31r" xml:id="Bae_TB_6_2339"/>
-        <p xml:id="Bae_TB_6_2340">
+        <head xml:id="Bae_TB_6_2340">
           <anchor xml:id="Bae_TB_6_8051"/>
           <hi rendition="#ul" xml:id="Bae_TB_6_2341">
             <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2342">Paris</placeName>
-          </hi>
-        </p>
+          </hi><date when="1903-06-06" type="diaryEntry"></date>
+        </head>
         <p xml:id="Bae_TB_6_2343">In 
           <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_TB_6_2344">Brüssel</placeName> war es klar, dass eine Reise nach 
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_6_2345">Paris</placeName> keinen Zweck haben würde. Dennoch riet ich unbedingt dazu, damit uns nicht der leiseste Vorwurf treffen könne, nicht Alles versucht zu haben. Ueber den Ausgang unserer Mission gaben wir uns aber keiner Täuschung hin 
@@ -4433,13 +4433,13 @@
         <!-- CA: anchor für addspan 37v -->
       </div>
       <pb facs="#F_K-4_Bae_TB_6_082" n="38r" xml:id="Bae_TB_6_3020"/>
-      <div n="1903-09-04" type="diaryEntry" xml:id="Bae_TB_6_3021">
-        <p xml:id="Bae_TB_6_3022">
+      <div type="diaryEntry" xml:id="Bae_TB_6_3021">
+        <head xml:id="Bae_TB_6_3022">
           <anchor xml:id="Bae_TB_6_8184"/>
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_6_3023">Wien</placeName> - 
           <placeName key="Tirol" ref="https://www.geonames.org/2763587/tyrol.html" xml:id="Bae_TB_6_3024">Tyrol</placeName> - 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_6_3025">Wien</placeName>. 
-        </p>
+        <date when="1903-09-04" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_6_3026">In wenigen Tagen sehr viel schöne Natur genossen 
           <choice xml:id="Bae_TB_6_3027">
             <abbr xml:id="Bae_TB_6_3028">u.</abbr>
@@ -4860,16 +4860,16 @@
           </app>
         </p>
       </div>
-      <div n="1903-09-10" type="diaryEntry" xml:id="Bae_TB_6_3325">
-        <p xml:id="Bae_TB_6_3326">
-          <anchor xml:id="Bae_TB_6_8208"/>Conferenzen im 
-          <date when="1903-09" xml:id="Bae_TB_6_3327">
+      <div type="diaryEntry" xml:id="Bae_TB_6_3325">
+        <anchor xml:id="Bae_TB_6_8208"/>
+        <head xml:id="Bae_TB_6_3326">Conferenzen im 
+          <date when="1903-09-10" type="diaryEntry" xml:id="Bae_TB_6_3327">
             <choice xml:id="Bae_TB_6_3328">
               <abbr xml:id="Bae_TB_6_3329">Septbr.</abbr>
               <expan xml:id="Bae_TB_6_3330">September</expan>
             </choice> 1903 
           </date>
-        </p>
+        </head>
         <p xml:id="Bae_TB_6_3331">In 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_6_3332">Wien</placeName> war am 
           <date when="1903-09-01" xml:id="Bae_TB_6_3333">1. 
@@ -5370,8 +5370,9 @@
       </div>
       <pb facs="#F_K-4_Bae_TB_6_099" n="45v" xml:id="Bae_TB_6_3673"/>
       <note type="editorial" xml:id="Bae_TB_6_3674">Diese Seite ist leer.</note>
-      <div n="1904-07" type="diaryEntry" xml:id="Bae_TB_6_3675">
-        <pb facs="#F_K-4_Bae_TB_6_100" n="46r" xml:id="Bae_TB_6_3676"/>
+      <pb facs="#F_K-4_Bae_TB_6_100" n="46r" xml:id="Bae_TB_6_3676"/>
+      <div type="diaryEntry" xml:id="Bae_TB_6_3675">
+        <head><date when="1904-07" type="diaryEntry"></date></head>
         <addSpan spanTo="#Bae_TB_6_3769" type="insertion" xml:id="Bae_TB_6_3677"/>
         <p xml:id="Bae_TB_6_3678">
           <anchor xml:id="Bae_TB_6_8214"/>Niederschrift unserer Unterredung mit 
@@ -10202,8 +10203,8 @@
           </app>
         </p>
       </div>
-      <div n="1904-11" type="diaryEntry" xml:id="Bae_TB_6_6904">
-        <p xml:id="Bae_TB_6_6905">
+      <div type="diaryEntry" xml:id="Bae_TB_6_6904">
+        <head xml:id="Bae_TB_6_6905">
           <anchor xml:id="Bae_TB_6_8650"/>Sommer und 
           <app from="#Bae_MF_4_3793" type="equal" xml:id="Bae_TB_6_8651">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8652">Sommer und</rdg>
@@ -10213,7 +10214,7 @@
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8655">Spätherbst</rdg>
           </app>
           <anchor xml:id="Bae_TB_6_8656"/>1904. 
-        </p>
+        <date when="1904-11" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_6_6906">Am 
           <date when="1904-08-09" xml:id="Bae_TB_6_6907">9. August</date> war ich wieder in 
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_TB_6_6908">Lünz</placeName>
@@ -11177,8 +11178,8 @@
       <pb facs="#F_K-4_Bae_TB_6_187" n="89v" xml:id="Bae_TB_6_7592"/>
       <note type="editorial" xml:id="Bae_TB_6_7593">Diese Seite ist leer.</note>
       <pb facs="#F_K-4_Bae_TB_6_188" n="90r" xml:id="Bae_TB_6_7594"/>
-      <div n="1904-12-31" type="diaryEntry" xml:id="Bae_TB_6_7595">
-        <p xml:id="Bae_TB_6_7596">
+      <div type="diaryEntry" xml:id="Bae_TB_6_7595">
+        <head xml:id="Bae_TB_6_7596">
           <anchor xml:id="Bae_TB_6_8692"/>Die 
           <hi rendition="#ul" xml:id="Bae_TB_6_7597">Herbstsession 
             <date when="1904" xml:id="Bae_TB_6_7598">1904</date>
@@ -11186,7 +11187,7 @@
           <app from="#Bae_MF_4_3878" type="missing" xml:id="Bae_TB_6_8693">
             <rdg wit="Bae_MF_4" xml:id="Bae_TB_6_8694"/>
           </app>
-        </p>
+        <date when="1904-12-31" type="diaryEntry"></date></head>
         <p xml:id="Bae_TB_6_7599">
           <anchor xml:id="Bae_TB_6_8695"/>Der 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_6_7600">Reichsrat</orgName> wurde am 

@@ -1883,10 +1883,10 @@
       <pb facs="#F_K-11_Bae_MF_4_110" n="384v" xml:id="Bae_MF_4_1477"/>
       <note type="editorial" xml:id="Bae_MF_4_1478">Diese Seite ist leer.</note>
       <pb facs="#F_K-11_Bae_MF_4_111" n="385r" xml:id="Bae_MF_4_1479"/>
-      <div xml:id="Bae_MF_4_1480">
-        <p xml:id="Bae_MF_4_1481">
-          <placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_MF_4_1482">LONDON</placeName>
-        </p>
+      <div type="chapter" xml:id="Bae_MF_4_1480">
+        <head xml:id="Bae_MF_4_1481">
+          <title type="main"><placeName key="London" ref="https://www.geonames.org/2648110/greater-london.html" xml:id="Bae_MF_4_1482">LONDON</placeName></title><title type="short">London</title>
+        </head>
         <p xml:id="Bae_MF_4_1483">Am 
           <date when="1903-05-21" xml:id="Bae_MF_4_1484">21. Mai</date>, einem schönen Himmelfahrtstage verließen wir – 
           <choice xml:id="Bae_MF_4_1485">
@@ -2289,11 +2289,11 @@
           </app>
         </p>
       </div>
-      <div xml:id="Bae_MF_4_1809">
+      <div type="chapter" xml:id="Bae_MF_4_1809">
         <anchor xml:id="Bae_MF_4_1810"/>
-        <p xml:id="Bae_MF_4_1811">
-          <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_MF_4_1812">BRÜSSEL</placeName>
-        </p>
+        <head xml:id="Bae_MF_4_1811">
+          <title type="main"><placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_MF_4_1812">BRÜSSEL</placeName></title><title type="short">Brüssel</title>
+        </head>
         <p xml:id="Bae_MF_4_1813">Unser Gesandter 
           <persName key="ClarySiegfried" ref="https://d-nb.info/gnd/1269647148" xml:id="Bae_MF_4_1814">Graf Siegfried Clary</persName> und 
           <persName key="FuerstenbergCarlEmil" xml:id="Bae_MF_4_1815">Karl Fürstenberg</persName> hatten uns das Terrain in 
@@ -2375,13 +2375,13 @@
           </app>
         </p>
       </div>
-      <div xml:id="Bae_MF_4_1876">
-        <p xml:id="Bae_MF_4_1877">
+      <div type="chapter" xml:id="Bae_MF_4_1876">
+        <head xml:id="Bae_MF_4_1877">
           <anchor xml:id="Bae_MF_4_4377"/>
           <hi rendition="#ul" xml:id="Bae_MF_4_1878">
-            <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_MF_4_1879">PARIS</placeName>
-          </hi>
-        </p>
+            <title type="main"><placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_MF_4_1879">PARIS</placeName></title>
+          </hi><title type="short">Paris</title>
+        </head>
         <p xml:id="Bae_MF_4_1880">In 
           <placeName key="Bruessel" ref="https://www.geonames.org/2800866/brussels.html" xml:id="Bae_MF_4_1881">Brüssel</placeName> war es klar, daß eine Reise nach 
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_MF_4_1882">Paris</placeName> keinen Zweck haben würde. Dennoch riet ich unbedingt dazu, damit uns nicht der leiseste Vorwurf treffen könne, nicht alles versucht zu haben. Ueber den Ausgang unserer Mission gaben wir uns aber keiner Täuschung hin und waren deswegen bemüht, in möglichst kurzer Zeit unsere Besuche 
@@ -2897,8 +2897,8 @@
       <pb facs="#F_K-11_Bae_MF_4_150" n="404av" xml:id="Bae_MF_4_2284"/>
       <note type="editorial" xml:id="Bae_MF_4_2285">Diese Seite ist leer.</note>
       <pb facs="#F_K-11_Bae_MF_4_151" n="404br" xml:id="Bae_MF_4_2286"/>
-      <div xml:id="Bae_MF_4_2287">
-        <p xml:id="Bae_MF_4_2288">SOMMER und HERBST 1903</p>
+      <div type="chapter" xml:id="Bae_MF_4_2287">
+        <head xml:id="Bae_MF_4_2288"><title type="main">SOMMER und HERBST 1903</title><title type="short">Sommer 1903</title></head>
         <pb facs="#F_K-11_Bae_MF_4_152" n="404bv" xml:id="Bae_MF_4_2289"/>
         <note type="editorial" xml:id="Bae_MF_4_2290">Diese Seite ist leer.</note>
         <pb facs="#F_K-11_Bae_MF_4_153" n="405r" xml:id="Bae_MF_4_2291"/>
@@ -3129,8 +3129,8 @@
       <pb facs="#F_K-11_Bae_MF_4_163" n="410r" xml:id="Bae_MF_4_2476"/>
       <div xml:id="Bae_MF_4_2477">
         <anchor xml:id="Bae_MF_4_2478"/>
-        <p xml:id="Bae_MF_4_2479">
-          <hi rendition="#ul" xml:id="Bae_MF_4_2480">AMERIKAFAHRT</hi>
+        <head xml:id="Bae_MF_4_2479">
+          <hi rendition="#ul" xml:id="Bae_MF_4_2480"><title type="main">AMERIKAFAHRT</title></hi><title type="short">Amerika</title>
           <app from="#Bae_TB_6_8295" type="equal" xml:id="Bae_MF_4_2481">
             <rdg wit="Bae_TB_6" xml:id="Bae_MF_4_2482">Amerikafahrt</rdg>
           </app>
@@ -3141,7 +3141,7 @@
           <app from="#Bae_TB_6_8298" type="missing" xml:id="Bae_MF_4_2486">
             <rdg wit="Bae_TB_6" xml:id="Bae_MF_4_2487"/>
           </app>
-        </p>
+        </head>
         <p xml:id="Bae_MF_4_2488">
           <anchor xml:id="Bae_MF_4_2489"/>Bevor ich dazu komme, einige Zeilen über unsere unfruchtbaren politischen Verhältnisse während des Jahres 
           <date when="1904" xml:id="Bae_MF_4_2490">1904</date> niederzuschreiben und einige Eindrücke meiner Reise zu fixiren, will ich in Folgendem das Reisekalendarium aufbewahren. 
@@ -4769,9 +4769,9 @@
       <note type="editorial" xml:id="Bae_MF_4_3789">Diese Seite ist leer.</note>
       <pb facs="#F_K-11_Bae_MF_4_219" n="438r" xml:id="Bae_MF_4_3790"/>
       <div xml:id="Bae_MF_4_3791">
-        <p xml:id="Bae_MF_4_3792">
+        <head xml:id="Bae_MF_4_3792">
           <anchor xml:id="Bae_MF_4_3793"/>
-          <hi rendition="#ul" xml:id="Bae_MF_4_3794">Sommer und 
+          <title type="main"><hi rendition="#ul" xml:id="Bae_MF_4_3794">Sommer und 
             <app from="#Bae_TB_6_8650" type="equal" xml:id="Bae_MF_4_3795">
               <rdg wit="Bae_TB_6" xml:id="Bae_MF_4_3796">Sommer und</rdg>
             </app>
@@ -4780,8 +4780,8 @@
               <rdg wit="Bae_TB_6" xml:id="Bae_MF_4_3799">Herbst</rdg>
             </app>
             <anchor xml:id="Bae_MF_4_3800"/>1904. 
-          </hi>
-        </p>
+          </hi></title><title type="short">Sommer 1904</title>
+        </head>
         <p xml:id="Bae_MF_4_3801">Am 
           <date when="1904-08-09" xml:id="Bae_MF_4_3802">9. August</date> war ich wieder in 
           <placeName key="Luenz" ref="https://www.geonames.org/3070490/mlynce.html" xml:id="Bae_MF_4_3803">Lünz</placeName> und 
