@@ -133,12 +133,11 @@
         <p xml:id="Bae_TB_1_86">In der zweiten Hälfte 
           <date when="1897-01" xml:id="Bae_TB_1_87">Januar 1897</date> kam ich von 
           <placeName key="Nizza" ref="https://www.geonames.org/2990440/nice.html" xml:id="Bae_TB_1_88">Nizza</placeName> nach 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_89">Wien</placeName>
-          <choice xml:id="Bae_TB_1_90">
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_89">Wien</placeName> <choice xml:id="Bae_TB_1_90">
             <abbr xml:id="Bae_TB_1_91">u.z.</abbr>
             <expan xml:id="Bae_TB_1_92">und zwar</expan>
           </choice> am Tage des Schlusses des alten 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_93">Reichsrats</orgName>, dem ich in den letzten Wochen seines Daseins ferngeblieben war, weil die Agonie der Partei mich geradezu anwiderte 
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_93">Reichsrats</orgName>, dem ich in den letzten Wochen seines Daseins ferngeblieben war, weil die Agonie der Partei mich geradezu anwiederte 
           <choice xml:id="Bae_TB_1_94">
             <abbr xml:id="Bae_TB_1_95">u.</abbr>
             <expan xml:id="Bae_TB_1_96">und</expan>
@@ -152,14 +151,12 @@
           <app from="#Bae_MF_1_86" type="notEqual" xml:id="Bae_TB_1_102">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_103">Abgeordnetenhaus</rdg>
           </app>
-          <anchor xml:id="Bae_TB_1_104"/>zu scheiden. 
-        </p>
+          <anchor xml:id="Bae_TB_1_104"/>zu scheiden.</p>
         <p xml:id="Bae_TB_1_105">
           <pb facs="#F_K-6_Bae_TB_1_003" n="1v" xml:id="Bae_TB_1_5702"/>
           <note type="editorial" xml:id="Bae_TB_1_5772">Diese Seite ist leer.</note>
-          <pb facs="#F_K-6_Bae_TB_1_004" n="2r" xml:id="Bae_TB_1_106"/>Gleich tags darauf erhielt ich eine Einladung von 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_107">Badeni</persName>
-          <choice xml:id="Bae_TB_1_108">
+          <pb facs="#F_K-6_Bae_TB_1_004" n="2r" xml:id="Bae_TB_1_106"/>Gleich Tags darauf erhielt ich eine Einladung von 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_107">Badeni</persName> <choice xml:id="Bae_TB_1_108">
             <abbr xml:id="Bae_TB_1_109">u.</abbr>
             <expan xml:id="Bae_TB_1_110">und</expan>
           </choice> hatte 
@@ -260,7 +257,7 @@
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_230">Landtage</orgName>, einerseits sicherlich die Befriedigung der dringendsten wirthschaftlichen Bedürfnisse des Landes als patriotische Pflicht erscheint, andererseits dieser Sessionsabschnitt in der Vornahme der Wahlen für die Reichsvertretung und dem an dieselben sich unmittelbar anschließenden Zusammentritte dieser Körperschaft seine naturgemäße Begrenzung finden muß. Dagegen werden durch die aus der Vertagung sich ergebende Continuität der im hohen 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_231">Landtage</orgName> eingeleiteten Arbeiten, die politischen und nationalen Wünsche, die im Schoße dieser hohen Körperschaft gehegt werden und deren eingehender Würdigung sich die Regierung nicht zu entziehen beabsichtigt, in einem späteren, nicht ferne gerückten Zeitpuncte die von allen Parteien wie von der Regierung ersehnte Lösung finden können. — Was aber diese Lösung selbst anbelangt, muß die Regierung an dem Grundsatze der vollen Gleichberechtigung und Gleichwerthigkeit beider Nationalitäten im 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_232">Königreiche Böhmen</placeName> festhalten (Beifall bei den Großgrundbesitzern und 
-          <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_233">Jungčechen</orgName>), es als ihre ensteste Pflicht erachten, die Einheit desselben in Gesetzgebung und 
+          <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_233">Jungčechen</orgName>), es als ihre ernsteste Pflicht erachten, die Einheit desselben in Gesetzgebung und 
           <index xml:id="Bae_TB_1_234">
             <term key="Verwaltung" xml:id="Bae_TB_1_235">Verwaltung</term>
           </index> zu wahren (Neuerlicher Beifall der Großgrundbesitzer und 
@@ -275,7 +272,7 @@
           </index> des Landes – insoweit sichergestellt wird, als dies durch den hohen 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_242">Landtag</orgName> vorgesehen werden kann. (Rufe: Sehr gut! Bei den Großgrundbesitzern.) Soll die auf diesem Wege angestrebte innere Befriedigung beider Völker dieses Landes voll und ganz jene segensreichen Wirkungen üben, welche jeder Freund des Vaterlandes erwarten darf, so müssen dafür auch die weiteren Voraussetzungen geschaffen werden. Von dieser Uiberzeugung geleitet, wird zunächst die Regierung dem hohen 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_243">Landtage</orgName> einen Gesetzentwurf auf Einführung von Curien für die Wahlen in den Landesausschuß, in die Landesinstitute und in die Landtagscommissionen unterbreiten. Warum die Regierung diese Vorlage nicht schon in diesem, sondern in dem nächsten Sessionsabschnitt einzubringen beabsichtigt, (Rufe: Hört! Hört! bei den Deutschen), wurde schon angedeutet. So schwierige Fragen (Heiterkeit auf den deutschen Bänken) bedürfen einer ruhigen Erwägung von Seite aller Parteien des hohen 
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_244">Landtages</orgName> und der entsprechenden Vorbereitungen. Nur im vollen, gegenseitigen Einverständnisse kann dieses Princip der nationalen Unabhängigkeit seine legislative Verkörperung finden. Erst wenn die Wellen der politischen Bewegung, welche die nahe bevorvorstehenden Reichsrathswahlen erzeugen werden, sich gelegt haben, kann eine so eminente Friedensarbeit mit der Aussicht auf Erfolg vor den hohen 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_244">Landtages</orgName> und der entsprechenden Vorbereitungen. Nur im vollen, gegenseitigen Einverständnisse kann dieses Princip der nationalen Unabhängigkeit seine legislative Verkörperung finden. Erst wenn die Wellen der politischen Bewegung, welche die nahe bevorstehenden Reichsrathswahlen erzeugen werden, sich gelegt haben, kann eine so eminente Friedensarbeit mit der Aussicht auf Erfolg vor den hohen 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_245">Landtag</orgName> gelangen. Die Regierung ist ferner gesonnen, die Frage der 
           <index xml:id="Bae_TB_1_246">
             <term key="BoehmischerLandtag" xml:id="Bae_TB_1_247">Landtags-Wahlreform</term>
@@ -304,8 +301,7 @@
             <index xml:id="Bae_TB_1_164">
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_165"/>
             </index>
-          </index>
-          <choice xml:id="Bae_TB_1_166">
+          </index> <choice xml:id="Bae_TB_1_166">
             <abbr xml:id="Bae_TB_1_167">u.</abbr>
             <expan xml:id="Bae_TB_1_168">und</expan>
           </choice> zugleich ein Curiengesetz zu Stande zu bringen. Auch wurde in dieser Besprechung von mir die Bitte an ihn gerichtet 
@@ -404,10 +400,10 @@
             <index xml:id="Bae_TB_1_287">
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_288"/>
             </index>
-          </index> mit dem Prinzip, dass alle staatlichen Beamten in 
+          </index> mit dem Princip, dass alle staatlichen Beamten in 
           <index xml:id="Bae_TB_1_289">
             <term key="Verwaltung" xml:id="Bae_TB_1_290">Verwaltung</term>
-          </index>, Justiz, Post, Telegraf und Steuerämtern beider Landessprachen mächtig sein müssten. Davon gewisse Ausnamen für eine Uebergangszeit, so dass bei bestimmt bezeichneten Stellen vorläufig nur ein Beamter sein solle, der beiden Landessprachen mächtig sein solle. Die erste Eingabe solle entscheiden, wie der ganze Fall sprachlich geführt sein wird. Alle Circulare 
+          </index>, Justiz, Post, Telegraf <choice><abbr>u.</abbr><expan>und</expan></choice> Steuerämtern beider Landessprachen mächtig sein müssten. Davon gewisse Ausnamen für eine Uebergangszeit, so dass bei bestimmt bezeichneten Stellen vorläufig nur ein Beamter sein solle, der beiden Landessprachen mächtig sein solle. Die erste Eingabe solle entscheiden, wie der ganze Fall sprachlich geführt sein wird. Alle Circulare 
           <choice xml:id="Bae_TB_1_291">
             <abbr xml:id="Bae_TB_1_292">u.</abbr>
             <expan xml:id="Bae_TB_1_293">und</expan>
@@ -415,8 +411,7 @@
           <del rendition="#s" xml:id="Bae_TB_1_294">Behörden</del>
           <add place="across" xml:id="Bae_TB_1_295">Statthalterei</add> zweisprachig. Ferner ein Curiengesetz, welches 
           <hi rendition="#ul" xml:id="Bae_TB_1_296">sofort</hi> eingebracht würde. Die innere Amtssprache der Verordnung vorbehalten. Er sei geneigt in dieser Hinsicht Concessionen an die Čechen zu machen, jedoch sehr begrenzt; z.B. alle Eingaben der Beamten um Avancement, Urlaub etc. bleiben deutsch; alle Berichte der Unterbehörden an die Oberbehörden bleiben deutsch, auch die Requisitionen der Gerichte untereinander. Von einer Ausdehnung der Aktion auf 
-          <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_1_297">Mähren</placeName>
-          <choice xml:id="Bae_TB_1_298">
+          <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_1_297">Mähren</placeName> <choice xml:id="Bae_TB_1_298">
             <abbr xml:id="Bae_TB_1_299">o.</abbr>
             <expan xml:id="Bae_TB_1_300">oder</expan>
           </choice> die 
@@ -425,8 +420,7 @@
           <note type="editorial" xml:id="Bae_TB_1_5774">Diese Seite ist leer.</note>
           <pb facs="#F_K-6_Bae_TB_1_010" n="5r" xml:id="Bae_TB_1_302"/>soweit es mit den Anforderungen der Justiz zusammengeht. Bezüglich 
           <placeName key="Trautenau" ref="https://www.geonames.org/3063907/trutnov.html" xml:id="Bae_TB_1_303">Trauttenauer</placeName> Kreisgericht entwickelte er den etwas complicirten Plan dieses deutsche Kreisgericht dem 
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_304">Landtag</orgName>
-          <hi rendition="#ul" xml:id="Bae_TB_1_305">ohne</hi> dem čechischen Bezirk 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_1_304">Landtag</orgName> <hi rendition="#ul" xml:id="Bae_TB_1_305">ohne</hi> dem čechischen Bezirk 
           <placeName key="Politz" ref="https://www.geonames.org/3067885/police-nad-metuji.html" xml:id="Bae_TB_1_306">Politz</placeName>, jedoch 
           <hi rendition="#ul" xml:id="Bae_TB_1_307">mit</hi> dem gleichfalls 
           <choice xml:id="Bae_TB_1_308">
@@ -490,14 +484,12 @@
             <index xml:id="Bae_TB_1_352">
               <term key="Ausgleich" xml:id="Bae_TB_1_353"/>
             </index>
-          </index> eine feste Majorität im 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_356">
+          </index> eine feste Majorität im <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_356">
             <choice xml:id="Bae_TB_1_354">
-              <abbr xml:id="Bae_TB_1_355"> R.R. </abbr>
+              <abbr xml:id="Bae_TB_1_355"> R.R.</abbr>
               <expan xml:id="Bae_TB_1_357">Reichsrat</expan>
             </choice>
-          </orgName>
-          <hi rendition="#ul" xml:id="Bae_TB_1_358">nicht</hi> bedürfe, weil er sicher sein könne, dass dieDeutsch-Böhmen für den 
+          </orgName> <hi rendition="#ul" xml:id="Bae_TB_1_358">nicht</hi> bedürfe, weil er sicher sein könne, dass die Deutsch-Böhmen für den 
           <index xml:id="Bae_TB_1_359">
             <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_1_360">Ausgleich</term>
             <index xml:id="Bae_TB_1_361">
@@ -508,8 +500,7 @@
           <choice xml:id="Bae_TB_1_364">
             <abbr xml:id="Bae_TB_1_365">u.</abbr>
             <expan xml:id="Bae_TB_1_366">und</expan>
-          </choice>
-          <persName key="RichterAlexander" ref="https://d-nb.info/gnd/130134538" xml:id="Bae_TB_1_367">Alexander Richter</persName>, sonst ein Heissporn hatte geäussert: ich möchte mir den nordböhmischen Abgeordneten ansehen, der gegen den 
+          </choice> <persName key="RichterAlexander" ref="https://d-nb.info/gnd/130134538" xml:id="Bae_TB_1_367">Alexander Richter</persName>, sonst ein Heissporn hatte geäussert: ich möchte mir den nordböhmischen Abgeordneten ansehen, der gegen den 
           <index xml:id="Bae_TB_1_368">
             <term key="OesterreichUngarn" xml:id="Bae_TB_1_369">ungar. Ausgleich</term>
             <index xml:id="Bae_TB_1_370">
@@ -626,11 +617,9 @@
           <choice xml:id="Bae_TB_1_451">
             <abbr xml:id="Bae_TB_1_452">u.</abbr>
             <expan xml:id="Bae_TB_1_453">und</expan>
-          </choice>
-          <index xml:id="Bae_TB_1_454">
+          </choice> <index xml:id="Bae_TB_1_454">
             <term key="Wahlrechtsreform" xml:id="Bae_TB_1_455">Wahlreform</term>
-          </index> sollte beseitigt 
-          <choice xml:id="Bae_TB_1_456">
+          </index> sollte beseitigt <choice xml:id="Bae_TB_1_456">
             <abbr xml:id="Bae_TB_1_457">u.</abbr>
             <expan xml:id="Bae_TB_1_458">und</expan>
           </choice> das Versprechen gegeben werden in 
@@ -666,8 +655,7 @@
           <choice xml:id="Bae_TB_1_490">
             <abbr xml:id="Bae_TB_1_491">Abg.</abbr>
             <expan xml:id="Bae_TB_1_492">Abgeordneter</expan>
-          </choice>
-          <persName key="LippertJulius" ref="https://d-nb.info/gnd/118838040" xml:id="Bae_TB_1_493">Lippert</persName> hat auch einige Ausdrücke beanständet, die in der Regierungserklärung enthalten waren, nämlich Gleichberechtigung und Gleichwerthigkeit, und er hat sich verwahrt dagegen, daß diesen Ausdrücken eine Bedeutung zukommen solle, die nach seiner Ansicht für seine Partei verletzend sei. Ich kann nur erklären, diese Worte haben keine andere Bedeutung als jene, die ihnen nach ihrem natürlichen Sinne zukommt, und wenn er den Ausdruck Einheit der 
+          </choice> <persName key="LippertJulius" ref="https://d-nb.info/gnd/118838040" xml:id="Bae_TB_1_493">Lippert</persName> hat auch einige Ausdrücke beanständet, die in der Regierungserklärung enthalten waren, nämlich Gleichberechtigung und Gleichwerthigkeit, und er hat sich verwahrt dagegen, daß diesen Ausdrücken eine Bedeutung zukommen solle, die nach seiner Ansicht für seine Partei verletzend sei. Ich kann nur erklären, diese Worte haben keine andere Bedeutung als jene, die ihnen nach ihrem natürlichen Sinne zukommt, und wenn er den Ausdruck Einheit der 
           <index xml:id="Bae_TB_1_494">
             <term key="Verwaltung" xml:id="Bae_TB_1_495">Verwaltung</term>
           </index> beanständet und gemeint hat, dieses Wort sei dem Wortschatze einer Partei dieses hohen Hauses entnommen, so sage ich, dieser Ausdruck entstammt dem eigenen Wortschatze der Regierung und kann keine andere Bedeutung haben als jene, die ihm natürlicher Weise innewohnt, und daß dies Regierung nicht hat nahetreten wollen der Loyalität der Herren und des Volkes, das hinter ihnen steht, einer Loyalität, die über jeden Zweifel erhaben ist (Bravo!). Auch die 
@@ -680,8 +668,7 @@
           <choice xml:id="Bae_TB_1_500">
             <abbr xml:id="Bae_TB_1_501">Abg.</abbr>
             <expan xml:id="Bae_TB_1_502">Abgeordneter</expan>
-          </choice>
-          <persName key="LippertJulius" ref="https://d-nb.info/gnd/118838040" xml:id="Bae_TB_1_503">Lippert</persName> diese Angelegenheit berührt, so daß ich, obgleich mir ein eigentliches Substrat nicht vorliegt, in die Besprechung dieser Angelegenheit eintreten kann. Der 
+          </choice> <persName key="LippertJulius" ref="https://d-nb.info/gnd/118838040" xml:id="Bae_TB_1_503">Lippert</persName> diese Angelegenheit berührt, so daß ich, obgleich mir ein eigentliches Substrat nicht vorliegt, in die Besprechung dieser Angelegenheit eintreten kann. Der 
           <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_1_504">Statthalter</persName> beruft sich auf die vom Ministerpräsidenten in der Sitzung des Budgetausschusses des 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_505">Abgeordnetenhauses</orgName> vom 
           <date when="1896-10-26" xml:id="Bae_TB_1_506">26. October v. J.</date> Hinsichtlich der Sprachenfrage in 
@@ -883,8 +870,7 @@
           <choice xml:id="Bae_TB_1_634">
             <abbr xml:id="Bae_TB_1_635">u.</abbr>
             <expan xml:id="Bae_TB_1_636">und</expan>
-          </choice>
-          <orgName key="TschechenKlub" xml:id="Bae_TB_1_637">Čechen</orgName> zu einer grossen Parlamentsmajorität, mit der nicht nur der 
+          </choice> <orgName key="TschechenKlub" xml:id="Bae_TB_1_637">Čechen</orgName> zu einer grossen Parlamentsmajorität, mit der nicht nur der 
           <index xml:id="Bae_TB_1_638">
             <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_1_639">Ausgleich</term>
             <index xml:id="Bae_TB_1_640">
@@ -1119,8 +1105,7 @@
           <pb facs="#F_K-6_Bae_TB_1_025" n="12v" xml:id="Bae_TB_1_5780"/>
           <note type="editorial" xml:id="Bae_TB_1_5781">Diese Seite ist leer.</note>
           <pb facs="#F_K-6_Bae_TB_1_026" n="13r" xml:id="Bae_TB_1_803"/>immer mit seinem unausrottbaren Optimismus betrachtete. Der Faden war damit glücklich angesponnen. Im Herbst 
-          <date when="1896" xml:id="Bae_TB_1_804">1896</date> fand die erste " 
-          <index xml:id="Bae_TB_1_805">
+          <date when="1896" xml:id="Bae_TB_1_804">1896</date> fand die erste "<index xml:id="Bae_TB_1_805">
             <term key="Parteien" xml:id="Bae_TB_1_806">Obmännerconferenz</term>
             <index xml:id="Bae_TB_1_5961">
               <term key="Obmaennerkonferenz" xml:id="Bae_TB_1_5962"/>
@@ -1173,8 +1158,7 @@
           <choice xml:id="Bae_TB_1_838">
             <abbr xml:id="Bae_TB_1_839">u.z.</abbr>
             <expan xml:id="Bae_TB_1_840">und zwar</expan>
-          </choice>bezüglich 
-          <placeName key="Niederoesterreich" ref="https://www.geonames.org/2770542/niederoesterreich.html" xml:id="Bae_TB_1_841">Niederöstreichs</placeName>. Leider war die Zerfahrenheit in diesem Lande so gross, dass der Ausgang der Wahl im dortigen Grossgrundbesitz unseren bei der Conferenz gehegten Erwartungen leider nicht entsprach. 
+          </choice> bezüglich <placeName key="Niederoesterreich" ref="https://www.geonames.org/2770542/niederoesterreich.html" xml:id="Bae_TB_1_841">Niederöstreichs</placeName>. Leider war die Zerfahrenheit in diesem Lande so gross, dass der Ausgang der Wahl im dortigen Grossgrundbesitz unseren bei der Conferenz gehegten Erwartungen leider nicht entsprach. 
         </p>
         <p xml:id="Bae_TB_1_842">In 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_843">Böhmen</placeName> waren keine grossen Schwierigkeiten bezüglich der Wahlen im Grossgrundbesitz. Im 
@@ -1204,12 +1188,10 @@
           <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_861">Rohan</persName> eine allgemeine Wählerversammlung des 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_862">deutschen Grossgrundbesitzes</orgName> von 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_863">Böhmen</placeName>. Hierbei war eine kleine Etiquetteschwierigkeit zwischen 
-          <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_864">Rohan</persName>
-          <choice xml:id="Bae_TB_1_865">
+          <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_864">Rohan</persName> <choice xml:id="Bae_TB_1_865">
             <abbr xml:id="Bae_TB_1_866">u.</abbr>
             <expan xml:id="Bae_TB_1_867">und</expan>
-          </choice>
-          <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_1_868">Fürstenberg</persName> zu überwinden. Schliesslich wurde die Sache so eingerichtet, dass 
+          </choice> <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_1_868">Fürstenberg</persName> zu überwinden. Schliesslich wurde die Sache so eingerichtet, dass 
           <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_869">Rohan</persName> als Hausherr die Gäste begrüsste, 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_1_870">Fürstenberg</persName> aber die eigentlichen Verhandlungen leitete. Er that es mit jener wirkungsvollen Ursprünglichkeit und Liebenswürdigkeit, die alle Schwierigkeiten überwindet und trotz kleinen Fehlschüssen die Herzen gewinnt. 
           <app from="#Bae_MF_1_453" type="missing" xml:id="Bae_TB_1_871">
@@ -1226,8 +1208,7 @@
             <index xml:id="Bae_TB_1_880">
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_881"/>
             </index>
-          </index>
-          <choice xml:id="Bae_TB_1_882">
+          </index> <choice xml:id="Bae_TB_1_882">
             <abbr xml:id="Bae_TB_1_883">u.</abbr>
             <expan xml:id="Bae_TB_1_884">und</expan>
           </choice> seiner Zukunftspolitik hatte. Es waren immer 4-6 Herren, die zu ihm gebeten wurden, denen er seine Absichten auseinandersetzte 
@@ -1293,22 +1274,18 @@
           </app>
           <anchor xml:id="Bae_TB_1_927"/>kann, an eine elementare das ganze Schachbrett mit den künstlich gestellten Figuren umstürzende Bewegung aus dem Volk, dachte niemand. Seit Jahren sah man in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_928">Östreich</placeName> das Deutschtum protestirend aber resignirt zurückweichen. Wir alle standen unter dem deprimirenden Gefühl der Zerfahrenheit im deutschen Lager. Ein Kampf mit der Regierung mit den 
-          <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_1_929">Deutschnationalen</orgName>
-          <choice xml:id="Bae_TB_1_930">
+          <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_1_929">Deutschnationalen</orgName> <choice xml:id="Bae_TB_1_930">
             <abbr xml:id="Bae_TB_1_931">u.</abbr>
             <expan xml:id="Bae_TB_1_932">und</expan>
-          </choice> Antisemiten im Rücken schien ganz aussichtslos 
-          <choice xml:id="Bae_TB_1_933">
+          </choice> Antisemiten im Rücken schien ganz aussichtslos <choice xml:id="Bae_TB_1_933">
             <abbr xml:id="Bae_TB_1_934">u.</abbr>
             <expan xml:id="Bae_TB_1_935">und</expan>
-          </choice>
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_936">Badeni</persName> wiederholte auch zum Ueberdruss, dass wenn die 
+          </choice> <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_936">Badeni</persName> wiederholte auch zum Ueberdruss, dass wenn die 
           <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_937">fortschrittlichen Deutschen</orgName> sich seiner Politik nicht fügen wollen, er ohne sie regieren werde, aber wegen der zahlreichen Klerikalen, Nationalen 
           <choice xml:id="Bae_TB_1_938">
             <abbr xml:id="Bae_TB_1_939">u.</abbr>
             <expan xml:id="Bae_TB_1_940">und</expan>
-          </choice>
-          <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_TB_1_941">Christlichsocialen</orgName>, auf deren Mitwirkung er zählte, niemand ihm werde vorwerfen können, er regiere wie 
+          </choice> <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1" xml:id="Bae_TB_1_941">Christlichsocialen</orgName>, auf deren Mitwirkung er zählte, niemand ihm werde vorwerfen können, er regiere wie 
           <persName key="DunajewskiJulian" ref="https://d-nb.info/gnd/143957511" xml:id="Bae_TB_1_942">Dunajewski</persName> gegen die Deutschen. In diesen Besprechungen, 
           <app from="#Bae_MF_1_504" type="equal" xml:id="Bae_TB_1_943">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_944">kann, an eine elementare das ganze Schachbrett mit den künstlich gestellten Figuren umstürzende Bewegung aus dem Volk, dachte niemand. Seit Jahren sah man in Oesterreich das Deutschtum protestierend aber resigniert zurückweichen. Wir alle standen unter dem deprimierenden Gefühle der Zerfahrenheit im deutschen Lager. Ein Kampf mit der Regierung mit den Deutschnationalen und Antisemiten im Rücken schien ganz aussichtslos und Badeni wiederholte auch zum Ueberdruß, daß wenn die fortschrittlichen Deutschen sich seiner Politik nicht fügen wollen, er ohne sie regieren werde, aber wegen der zahlreichen Klerikalen, Nationalen und Christlich-Sozialen, auf deren Mitwirkung er zählte, niemand ihm werde vorwerfen können, er regiere wie Dunajewski gegen die Deutschen. In diesen Besprechungen</rdg>
@@ -1348,8 +1325,7 @@
             <abbr xml:id="Bae_TB_1_968">u.</abbr>
             <expan xml:id="Bae_TB_1_969">und</expan>
           </choice> mehr, so dass ich am 
-          <date when="1897-03-11" xml:id="Bae_TB_1_970">11. März</date>
-          <app from="#Bae_MF_1_517" type="equal" xml:id="Bae_TB_1_971">
+          <date when="1897-03-11" xml:id="Bae_TB_1_970">11. März</date> <app from="#Bae_MF_1_517" type="equal" xml:id="Bae_TB_1_971">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_972">trat er mehr und mehr mit der apodiktischen Behauptung auf, die Sprachenverordnung sei unausweichlich. Meine Bedenken gegen sein ganzes Vorgehen und gegen den Inhalt der Sprachenverordnungen die niemand zu Gesicht bekam, die er auch in verschiedener Weise darstellte – stiegen immer mehr und mehr, so daß ich am 11. März</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_973"/>sowol an 
@@ -1495,7 +1471,7 @@
           <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_1_1075">Eger</placeName>. 
         </p>
         <p xml:id="Bae_TB_1_1076"> Charakteristisch ist die Antwort 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1078">Badeni's</persName> die hier inliegt; es war ihm nicht zur rathen. 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1078">Badeni's</persName> die hier inliegt; es war ihm nicht zu rathen. 
           <app from="#Bae_MF_1_575" type="missing" xml:id="Bae_TB_1_1079">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1080"/>
           </app>
@@ -1515,7 +1491,7 @@
             <abbr xml:id="Bae_TB_1_1091">polit.</abbr>
             <expan xml:id="Bae_TB_1_1092">politischen</expan>
           </choice> Verhandlungen ein. Unsere Wahlen verliefen ganz ruhig, da in keinem Wahlkreis ein Wahlkampf stattfand. Trotzdem waren in 
-          <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_1_1093">Eger</placeName> ziemlich viel Wähler ver 
+          <placeName key="Eger" ref="https://www.geonames.org/11926248/cheb.html" xml:id="Bae_TB_1_1093">Eger</placeName> ziemlich viel Wähler ver- 
           <pb facs="#F_K-6_Bae_TB_1_037" n="18v" xml:id="Bae_TB_1_5717"/>
           <note type="editorial" xml:id="Bae_TB_1_5718">Diese Seite ist leer.</note>
           <pb facs="#F_K-6_Bae_TB_1_038" n="19r" xml:id="Bae_TB_1_1094"/>sammelt 
@@ -1554,8 +1530,7 @@
           <choice xml:id="Bae_TB_1_1119">
             <abbr xml:id="Bae_TB_1_1120">öster.</abbr>
             <expan xml:id="Bae_TB_1_1121">österreichische</expan>
-          </choice>
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_1122">Parlament</orgName> wird agrarisch in einem bisher nicht geahnten Maase sein, sobald es Musse findet, den wirtschaftlichen Angelegenheiten näher zu treten. Einer klugen Führung könnte es aber gelingen die Bewegung in vernünftigen Grenzen zu halten 
+          </choice> <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_1122">Parlament</orgName> wird agrarisch in einem bisher nicht geahnten Maase sein, sobald es Musse findet, den wirtschaftlichen Angelegenheiten näher zu treten. Einer klugen Führung könnte es aber gelingen die Bewegung in vernünftigen Grenzen zu halten 
           <choice xml:id="Bae_TB_1_1123">
             <abbr xml:id="Bae_TB_1_1124">u.</abbr>
             <expan xml:id="Bae_TB_1_1125">und</expan>
@@ -1599,12 +1574,10 @@
           </index> vom 
           <date when="1897-02" xml:id="Bae_TB_1_1150">Februar</date>, die den Grund gelegt hatte. Die zwei Mitglieder der 
           <orgName xml:id="Bae_TB_1_1151">mährischen Mittelpartei</orgName> schlossen sich uns ebenfalls an. Doch blieben wir eine freie Vereinigung, weil wir immer noch auf Anschluss aus anderen Wählerkreisen hofften. Mehrfache Besprechungen, in denen 
-          <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_1_1152">Mauthner</persName>
-          <choice xml:id="Bae_TB_1_1153">
+          <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_1_1152">Mauthner</persName> <choice xml:id="Bae_TB_1_1153">
             <abbr xml:id="Bae_TB_1_1154">u.</abbr>
             <expan xml:id="Bae_TB_1_1155">und</expan>
-          </choice>
-          <persName key="ProskowetzEmanuel" ref="https://d-nb.info/gnd/139238069" xml:id="Bae_TB_1_1156">Proskowetz</persName> den Vorsitz führten zeigten 
+          </choice> <persName key="ProskowetzEmanuel" ref="https://d-nb.info/gnd/139238069" xml:id="Bae_TB_1_1156">Proskowetz</persName> den Vorsitz führten zeigten 
           <app from="#Bae_MF_1_611" type="equal" xml:id="Bae_TB_1_1157">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1158">Kurz vor Eröffnung des Reichsrates beschäftigte uns die Klubbildung. Wir Großgrundbesitzer hielten sofort zusammen, dank der Obmännerkonferenz vom Februar, die den Grund gelegt hatte. Die zwei Mitglieder der mährischen Mittelpartei schloßen sich uns ebenfalls an. Doch blieben wir eine freie Vereinigung, weil wir immer noch auf Anschluß aus anderen Wählerkreisen hofften. Mehrfache Besprechungen, in denen Mauthner und Proskowetz den Vorsitz führten zeigten</rdg>
           </app>
@@ -1652,7 +1625,7 @@
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1224">Graf Badeni</persName> seinem Ziele zusteuerte. 
         </p>
         <p xml:id="Bae_TB_1_1225">Zweifel, ob der Preis, welchen der 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1226">Ministerpräsideut</persName> für die Unterstützung der 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1226">Ministerpräsident</persName> für die Unterstützung der 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_1227">Jungčechen</orgName> zu zahlen bereit sein würde, für die Deutschen nicht zu hoch, vielleicht unerschwinglich sein werde, begleiteten die ohne Unterlaß fortgesetzten Bemühungen der Regierung, sich mit den 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_1228">Jungčechen</orgName> auf den Friedensfuß zu setzen. 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1229">Graf Badeni</persName> ist seinem Versprechen, die deutschen Abgeordneten vor dem Abschluße des Handels von der Höhe des Preises zu unterrichten, nachgekommen, und er ist in einer jede Mißdeutung ausschließenden Weise davon benachrichtigt worden, daß die deutschfortschrittlichen Abgeordneten den Kaufpreis nicht nur für ungebührlich hoch erachten, sondern auch laute Einsprache gegen eine auf Kosten der Deutschen in 
@@ -1729,8 +1702,7 @@
           <choice xml:id="Bae_TB_1_1166">
             <abbr xml:id="Bae_TB_1_1167">u.</abbr>
             <expan xml:id="Bae_TB_1_1168">und</expan>
-          </choice> hätten in einem gemeinsamen Verband zu sehr überwogen. Gerade der gemäßigte Flügel der ehemaligen " 
-          <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_1_1169">Vereinigten Linken</orgName>" war durch die Wahlen eben sehr geschwächt, selbst 
+          </choice> hätten in einem gemeinsamen Verband zu sehr überwogen. Gerade der gemäßigte Flügel der ehemaligen "<orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_1_1169">Vereinigten Linken</orgName>" war durch die Wahlen eben sehr geschwächt, selbst 
           <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_1_1170">Marchet</persName>, auf den ich sehr als vermittelndes Element gerechnet hatte, war in 
           <placeName key="Baden" ref="https://www.geonames.org/2782067/baden.html" xml:id="Bae_TB_1_1171">Baden</placeName> trotz der grossen Verdienste, die er sich um die durch die Philoxera verwüsteten Weingebiete erworben hatte – durchgefallen, das eclatanteste Beispiel von Wählerundank. Auf diese Weise wurde die an sich richtige Idee eines "linken Centrums" zu nichte. 
           <app from="#Bae_MF_1_4196" type="equal" xml:id="Bae_TB_1_1172">
@@ -1749,8 +1721,7 @@
               </index>
             </index> des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_1182">Reichsrats</orgName> am 
-            <date when="1897-03-27" xml:id="Bae_TB_1_1183">27. März 1897</date> bis zu den Osterferien ( 
-            <date when="1897-04" type="diaryEntry" xml:id="Bae_TB_1_1184">April 1897</date>) 
+            <date when="1897-03-27" xml:id="Bae_TB_1_1183">27. März 1897</date> bis zu den Osterferien (<date when="1897-04" type="diaryEntry" xml:id="Bae_TB_1_1184">April 1897</date>) 
           </hi>
         </head>
         <p xml:id="Bae_TB_1_1185">Es war wohl kein zufälliges Zusammentreffen, dass am Tage der 
@@ -1760,10 +1731,8 @@
               <term key="Eroeffnung" xml:id="Bae_TB_1_1189"/>
             </index>
           </index> des 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_1190">Parlamentes</orgName> in der " 
-          <orgName key="Bohemia" ref="https://d-nb.info/014500817" xml:id="Bae_TB_1_1191">Bohemia</orgName>" ein Artikel erschien, von dem man wusste, dass er durch eine Unterredung zwischen 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1192">Badeni</persName>
-          <choice xml:id="Bae_TB_1_1193">
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_1190">Parlamentes</orgName> in der <orgName key="Bohemia" ref="https://d-nb.info/014500817" xml:id="Bae_TB_1_1191">"Bohemia"</orgName> ein Artikel erschien, von dem man wusste, dass er durch eine Unterredung zwischen 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1192">Badeni</persName> <choice xml:id="Bae_TB_1_1193">
             <abbr xml:id="Bae_TB_1_1194">u.</abbr>
             <expan xml:id="Bae_TB_1_1195">und</expan>
           </choice> dem 
@@ -1789,8 +1758,7 @@
           <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_1_1280">Mähren</placeName> an die Kenntniß der čechischen Sprache gebunden sein. Die Sprache der Behörden bleibt die deutsche, und nur in Parteisachen werden die Behörden je nach der Sprache der Eingabe oder der Betheiligten deutsche oder čechische Bescheide ausstellen. Auch im Verkehre mit den Behörden außer Landes und mit den Oberbehörden müssen sich alle Beamten in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_1281">Böhmen</placeName> ausschließlich der deutschen Sprache bedienen. 
         </p>
-        <p xml:id="Bae_TB_1_1282">Die Verordnung wird auch nicht ohne Rückwirkung auf die čechischen Beamten bleiben.</p>
-        <p xml:id="Bae_TB_1_1283">Es wird nicht angehen, daß man sich mit der oberflächlichen Kenntniß der deutschen Sprache begnügt, wie dies jetzt allzu oft wahrnehmbar ist; alle Beamten werden die deutsche Sprache in einem vollkommen ausreichendem Maße beherrschen müssen. Der Zwang trifft also beide Nationalitäten in gleicher Weise. Glauben Sie mir, daß die Regierung nicht leichten Herzens und gewiß nicht die Gefühle der Deutschen mißachtend mit dieser 
+        <p xml:id="Bae_TB_1_1282">Die Verordnung wird auch nicht ohne Rückwirkung auf die čechischen Beamten bleiben. Es wird nicht angehen, daß man sich mit der oberflächlichen Kenntniß der deutschen Sprache begnügt, wie dies jetzt allzu oft wahrnehmbar ist; alle Beamten werden die deutsche Sprache in einem vollkommen ausreichendem Maße beherrschen müssen. Der Zwang trifft also beide Nationalitäten in gleicher Weise. Glauben Sie mir, daß die Regierung nicht leichten Herzens und gewiß nicht die Gefühle der Deutschen mißachtend mit dieser 
           <index xml:id="Bae_TB_1_1284">
             <term key="Reichsrat" xml:id="Bae_TB_1_1285">Sprachenverordnung</term>
             <index xml:id="Bae_TB_1_1286">
@@ -1864,8 +1832,7 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1326">Sehr bezeichnend für die Badeni’sche Politik ist es aber, dass gerade dieser Artikel die Quelle von Missverständnissen geworden ist, welche die sich entwickelnde unheilvolle Situation nur noch mehr verschärften. Bei allen Verhandlungen mit Badeni über den Inhalt der Sprachenverordnungen (deren Text er uns ja immer noch nicht gezeigt hatte) wurde ihm klarzumachen versucht, daß ein großer Unterschied darin bestehe, ob der Zwang der Zweisprachigkeit (für den er ja Ausnamen konzedieren wollte) bloß</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_1327"/>
-          <hi rendition="#ul" xml:id="Bae_TB_1_1328">zeitlich</hi>
-          <app from="#Bae_MF_1_672" type="notEqual" xml:id="Bae_TB_1_1329">
+          <hi rendition="#ul" xml:id="Bae_TB_1_1328">zeitlich</hi> <app from="#Bae_MF_1_672" type="notEqual" xml:id="Bae_TB_1_1329">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1330">zeitlich</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_1331"/>hinausgeschoben werden solle oder ob er bezüglich des deutschen Sprachgebietes 
