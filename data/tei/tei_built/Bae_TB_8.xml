@@ -4425,7 +4425,7 @@
               <expan xml:id="Bae_TB_8_3332">Deutschböhmen</expan>
             </choice>
           </placeName> . 
-          <persName key="SchoenburgAlois" ref="https://d-nb.info/gnd/135929059" xml:id="Bae_TB_8_3333">Schönburg</persName> will ja nichts tun, dass die Sachen ans 
+          <persName key="SchoenbornFriedrich" ref="https://d-nb.info/gnd/116863854" xml:id="Bae_TB_8_3333">Schönburg</persName> will ja nichts tun, dass die Sachen ans 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_3334">
             <choice xml:id="Bae_TB_8_3335">
               <abbr xml:id="Bae_TB_8_3336">H.H.</abbr>
@@ -4466,11 +4466,13 @@
             <expan xml:id="Bae_TB_8_3361">und</expan>
           </choice> erhielt von Letzterem den inliegenden Brief. 
         </p>
-        <p xml:id="Bae_TB_8_3362">Ich habe die
+        <p xml:id="Bae_TB_8_3362">Ich habe die 
+          <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_8_3363">
             <choice xml:id="Bae_TB_8_3364">
               <abbr xml:id="Bae_TB_8_3365">Dböhmen</abbr>
               <expan xml:id="Bae_TB_8_3366">Deutschböhmen</expan>
             </choice>
+          </placeName> gewarnt, blind in das Projekt hineinzurennen 
           <choice xml:id="Bae_TB_8_3367">
             <abbr xml:id="Bae_TB_8_3368">u.</abbr>
             <expan xml:id="Bae_TB_8_3369">und</expan>
@@ -4496,11 +4498,12 @@
         </p>
         <p xml:id="Bae_TB_8_3378">Viel wichtiger als diese Dinge äussere Situation.</p>
         <p xml:id="Bae_TB_8_3379">
-          <choice xml:id="Bae_TB_8_3381">
+          <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_8_3380">
+            <choice xml:id="Bae_TB_8_3381">
               <abbr xml:id="Bae_TB_8_3382">Abg.</abbr>
               <expan xml:id="Bae_TB_8_3383">Abgeordneter</expan>
-          </choice> <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_8_3380">Redlich</persName> 
-          geht häufig zu 
+            </choice> Redlich 
+          </persName> geht häufig zu 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3384">
             <choice xml:id="Bae_TB_8_3385">
               <abbr xml:id="Bae_TB_8_3386">Athal</abbr>
