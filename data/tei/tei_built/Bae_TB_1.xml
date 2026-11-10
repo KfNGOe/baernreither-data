@@ -151,7 +151,7 @@
           <app from="#Bae_MF_1_86" type="notEqual" xml:id="Bae_TB_1_102">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_103">Abgeordnetenhaus</rdg>
           </app>
-          <anchor xml:id="Bae_TB_1_104"/>zu scheiden.
+          <anchor xml:id="Bae_TB_1_104"/>zu scheiden. 
         </p>
         <p xml:id="Bae_TB_1_105">
           <pb facs="#F_K-6_Bae_TB_1_003" n="1v" xml:id="Bae_TB_1_5702"/>
@@ -1122,7 +1122,7 @@
           <pb facs="#F_K-6_Bae_TB_1_025" n="12v" xml:id="Bae_TB_1_5780"/>
           <note type="editorial" xml:id="Bae_TB_1_5781">Diese Seite ist leer.</note>
           <pb facs="#F_K-6_Bae_TB_1_026" n="13r" xml:id="Bae_TB_1_803"/>immer mit seinem unausrottbaren Optimismus betrachtete. Der Faden war damit glücklich angesponnen. Im Herbst 
-          <date when="1896" xml:id="Bae_TB_1_804">1896</date> fand die erste "
+          <date when="1896" xml:id="Bae_TB_1_804">1896</date> fand die erste " 
           <index xml:id="Bae_TB_1_805">
             <term key="Parteien" xml:id="Bae_TB_1_806">Obmännerconferenz</term>
             <index xml:id="Bae_TB_1_5961">
@@ -1732,7 +1732,7 @@
           <choice xml:id="Bae_TB_1_1166">
             <abbr xml:id="Bae_TB_1_1167">u.</abbr>
             <expan xml:id="Bae_TB_1_1168">und</expan>
-          </choice> hätten in einem gemeinsamen Verband zu sehr überwogen. Gerade der gemäßigte Flügel der ehemaligen "
+          </choice> hätten in einem gemeinsamen Verband zu sehr überwogen. Gerade der gemäßigte Flügel der ehemaligen " 
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_1_1169">Vereinigten Linken</orgName>" war durch die Wahlen eben sehr geschwächt, selbst 
           <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_1_1170">Marchet</persName>, auf den ich sehr als vermittelndes Element gerechnet hatte, war in 
           <placeName key="Baden" ref="https://www.geonames.org/2782067/baden.html" xml:id="Bae_TB_1_1171">Baden</placeName> trotz der grossen Verdienste, die er sich um die durch die Philoxera verwüsteten Weingebiete erworben hatte – durchgefallen, das eclatanteste Beispiel von Wählerundank. Auf diese Weise wurde die an sich richtige Idee eines "linken Centrums" zu nichte. 
@@ -1752,7 +1752,7 @@
               </index>
             </index> des 
             <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_1182">Reichsrats</orgName> am 
-            <date when="1897-03-27" xml:id="Bae_TB_1_1183">27. März 1897</date> bis zu den Osterferien (
+            <date when="1897-03-27" xml:id="Bae_TB_1_1183">27. März 1897</date> bis zu den Osterferien ( 
             <date when="1897-04" type="diaryEntry" xml:id="Bae_TB_1_1184">April 1897</date>) 
           </hi>
         </head>
@@ -2092,7 +2092,8 @@
           <choice xml:id="Bae_TB_1_1489">
             <abbr xml:id="Bae_TB_1_1490">u.</abbr>
             <expan xml:id="Bae_TB_1_1491">und</expan>
-          </choice> <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_1492">Rohan</persName> im 
+          </choice>
+          <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_1492">Rohan</persName> im 
           <orgName key="Jockeyclub" ref="https://d-nb.info/gnd/2016616-3" xml:id="Bae_TB_1_1493">Jokeyclub</orgName> und sie waren die ersten, denen ich Mittheilung machte. Der erstere wies die Möglichkeit eines Eintrittes von mir ins 
           <choice xml:id="Bae_TB_1_1494">
             <abbr xml:id="Bae_TB_1_1495">M.</abbr>
@@ -2167,7 +2168,8 @@
             <expan xml:id="Bae_TB_1_1543">und</expan>
           </choice> gebrauchte auch den Ausdruck, es sei "ein grosser Moment" für die Deutschen in 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_1544">Österreich</placeName>. Sein Wunsch sei, dass sie ihn ausnützen möchten. Wenn 
-          <orgName key="TschechenKlub" xml:id="Bae_TB_1_1545">Čechen</orgName> <choice xml:id="Bae_TB_1_1546">
+          <orgName key="TschechenKlub" xml:id="Bae_TB_1_1545">Čechen</orgName>
+          <choice xml:id="Bae_TB_1_1546">
             <abbr xml:id="Bae_TB_1_1547">u.</abbr>
             <expan xml:id="Bae_TB_1_1548">und</expan>
           </choice> Deutsche sich nicht zu einem freisinnigen Regime vereinigen, sei die clerical slavische Reaction unausweichlich. Auf meine Frage ob er die 
@@ -2231,10 +2233,12 @@
           </choice> befleißigte sich, die Gunst 
           <persName key="SteinbachEmil" ref="https://d-nb.info/gnd/129263958" xml:id="Bae_TB_1_1591">Steinbachs</persName> zu erlangen. Als Landesgerichts- und Oberlandesgerichtspräsident wirkte er durch eine gewisse Energie. Der alte 
           <persName key="WaserJosef" ref="https://d-nb.info/gnd/117146056" xml:id="Bae_TB_1_1592">Waser</persName> nannte ihn einen juristischen Ignoranten. 
-          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_1_1593">Chlumecky</persName> <choice xml:id="Bae_TB_1_1594">
+          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_1_1593">Chlumecky</persName>
+          <choice xml:id="Bae_TB_1_1594">
             <abbr xml:id="Bae_TB_1_1595">u.</abbr>
             <expan xml:id="Bae_TB_1_1596">und</expan>
-          </choice> <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_1597">Plener</persName> hatten ihn in ihrer unfehlbaren Menschenkenntniss zum Justizminister ausersehen. Durch ersteren lebhaft empfohlen kam er ins Ministerium 
+          </choice>
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_1597">Plener</persName> hatten ihn in ihrer unfehlbaren Menschenkenntniss zum Justizminister ausersehen. Durch ersteren lebhaft empfohlen kam er ins Ministerium 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1598">Badeni</persName>. Bei der ersten Zusammenkunft mit ihm – es war in einer 
           <index xml:id="Bae_TB_1_1599">
             <term key="Parteien" xml:id="Bae_TB_1_1600">Obmännerconferenz</term>
@@ -2248,7 +2252,8 @@
             <abbr xml:id="Bae_TB_1_1604">u.</abbr>
             <expan xml:id="Bae_TB_1_1605">und</expan>
           </choice> des Gerichtsverfassungsgesetzes Gelegenheit ihn genau kennen zu lernen. Seine juristischen Kenntnisse sind minimal, aber er hatte die grosse Klugheit sich ganz dem 
-          <add place="across" xml:id="Bae_TB_1_1606">Sektionschef</add> <persName key="KleinFranz" ref="https://d-nb.info/gnd/118562878" xml:id="Bae_TB_1_1607">Klein</persName> unterzuordnen 
+          <add place="across" xml:id="Bae_TB_1_1606">Sektionschef</add>
+          <persName key="KleinFranz" ref="https://d-nb.info/gnd/118562878" xml:id="Bae_TB_1_1607">Klein</persName> unterzuordnen 
           <choice xml:id="Bae_TB_1_1608">
             <abbr xml:id="Bae_TB_1_1609">u.</abbr>
             <expan xml:id="Bae_TB_1_1610">und</expan>
@@ -2260,7 +2265,8 @@
           </choice> notwendig hielt. Vor 
           <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_1_1615">Unger</persName> hatte er einen grossen Respect, freute sich aber immer wenn 
           <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_1_1616">Unger</persName> einmal daneben schoss oder nachgeben musste. Wenn man ihm fest entgegentrat gab er nach. Auf diese Weise habe ich das ganze Gerichtsverfassungsgesetz umgeändert. Für alles Feinere im Leben, in der Politik, in der Juristerei fehlte ihm der Sinn. Seine Energie ist die des Naturburschen, der blind dreingeht. Folgt er dabei jemandem, der wie 
-          <persName key="KleinFranz" ref="https://d-nb.info/gnd/118562878" xml:id="Bae_TB_1_1617">Klein</persName> <del rendition="#s" xml:id="Bae_TB_1_1618">häufig</del> das Richtige trifft, ist er ganz gut. Sich selbst überlassen führt ihn seine mangelnde Kenntniss unserer österreichischen Verhältnisse ausserhalb 
+          <persName key="KleinFranz" ref="https://d-nb.info/gnd/118562878" xml:id="Bae_TB_1_1617">Klein</persName>
+          <del rendition="#s" xml:id="Bae_TB_1_1618">häufig</del> das Richtige trifft, ist er ganz gut. Sich selbst überlassen führt ihn seine mangelnde Kenntniss unserer österreichischen Verhältnisse ausserhalb 
           <placeName key="Steiermark" ref="https://www.geonames.org/2764581/steiermark.html" xml:id="Bae_TB_1_1619">Steiermarks</placeName>, seine Unfähigkeit sich zu informieren 
           <choice xml:id="Bae_TB_1_1620">
             <abbr xml:id="Bae_TB_1_1621">u.</abbr>
@@ -2319,7 +2325,8 @@
           <anchor xml:id="Bae_TB_1_1658"/>
           <date when="1897-03-31" xml:id="Bae_TB_1_1659">Denselben Tag</date>, an dem ich Vormittag mit 
           <persName key="GleispachJohann" ref="https://d-nb.info/gnd/136541127" xml:id="Bae_TB_1_1660">Gleispach</persName> die erzählte Unterredung hatte, wurde unter dem Vorsitz 
-          <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_1_1661">Carl Auersperg's</persName> <choice xml:id="Bae_TB_1_1662">
+          <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_1_1661">Carl Auersperg's</persName>
+          <choice xml:id="Bae_TB_1_1662">
             <abbr xml:id="Bae_TB_1_1663">u.</abbr>
             <expan xml:id="Bae_TB_1_1664">und</expan>
           </choice> in seinem Präsidialbureau die Conferenz abgehalten, welche über meine Ministerschaft sowie über die 
@@ -2329,10 +2336,12 @@
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_1668"/>
             </index>
           </index> die Entscheidung zu fällen hatte. Ich lud zu derselben 
-          <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_1_1669">Auersperg</persName> <choice xml:id="Bae_TB_1_1670">
+          <persName key="AuerspergKarlMaria" ref="https://d-nb.info/gnd/135828651" xml:id="Bae_TB_1_1669">Auersperg</persName>
+          <choice xml:id="Bae_TB_1_1670">
             <abbr xml:id="Bae_TB_1_1671">u.</abbr>
             <expan xml:id="Bae_TB_1_1672">und</expan>
-          </choice> <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_1673">Rohan</persName>, weil ich diesen Beiden vor so vielen 
+          </choice>
+          <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_1673">Rohan</persName>, weil ich diesen Beiden vor so vielen 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_1_1674">Herrenhaus</orgName> mitgliedern ein ruhiges, unabhängiges Urteil zutraue. 
           <persName key="OppenheimerLudwig" ref="https://d-nb.info/gnd/117138487" xml:id="Bae_TB_1_1675">Oppenheimer</persName> kam mehr zufällig dazu, weil er Tags vorher zu mir gekommen war 
           <choice xml:id="Bae_TB_1_1676">
@@ -2343,25 +2352,33 @@
             <abbr xml:id="Bae_TB_1_1680">u.</abbr>
             <expan xml:id="Bae_TB_1_1681">und</expan>
           </choice> sei zu weis Gott was bestimmt. Es ist selbstverständlich, dass 
-          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_1682">Ludwigstorff</persName> <choice xml:id="Bae_TB_1_1683">
+          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_1682">Ludwigstorff</persName>
+          <choice xml:id="Bae_TB_1_1683">
             <abbr xml:id="Bae_TB_1_1684">u.</abbr>
             <expan xml:id="Bae_TB_1_1685">und</expan>
-          </choice> <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_1686">Stürgkh</persName> dabei waren; 
+          </choice>
+          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_1686">Stürgkh</persName> dabei waren; 
           <persName key="FuerstlRudolf" xml:id="Bae_TB_1_1687">Fürstl</persName> bat ich, weil er mit meinen Wählern im engsten Contakt ist. Von den Deutschböhmen waren 
           <persName key="FunkeAlois" ref="https://d-nb.info/gnd/1072507609" xml:id="Bae_TB_1_1688">Funke</persName>, 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_1_1689">Pergelt</persName>, 
-          <persName key="NitscheFriedrich" ref="https://d-nb.info/gnd/1024517934" xml:id="Bae_TB_1_1690">Nitsche</persName> <choice xml:id="Bae_TB_1_1691">
+          <persName key="NitscheFriedrich" ref="https://d-nb.info/gnd/1024517934" xml:id="Bae_TB_1_1690">Nitsche</persName>
+          <choice xml:id="Bae_TB_1_1691">
             <abbr xml:id="Bae_TB_1_1692">u.</abbr>
             <expan xml:id="Bae_TB_1_1693">und</expan>
-          </choice> <persName key="FournierAugust" ref="https://d-nb.info/gnd/119034735" xml:id="Bae_TB_1_1694">Fournier</persName> anwesend, von den Mährern 
-          <persName key="GoetzLeopold" xml:id="Bae_TB_1_1695">Götz</persName> <choice xml:id="Bae_TB_1_1696">
+          </choice>
+          <persName key="FournierAugust" ref="https://d-nb.info/gnd/119034735" xml:id="Bae_TB_1_1694">Fournier</persName> anwesend, von den Mährern 
+          <persName key="GoetzLeopold" xml:id="Bae_TB_1_1695">Götz</persName>
+          <choice xml:id="Bae_TB_1_1696">
             <abbr xml:id="Bae_TB_1_1697">u.</abbr>
             <expan xml:id="Bae_TB_1_1698">und</expan>
-          </choice> <persName key="PromberAdolf" ref="https://d-nb.info/gnd/136829023" xml:id="Bae_TB_1_1699">Promber</persName>, von den Schlesiern 
-          <persName key="DemelLeonhard" ref="https://d-nb.info/gnd/1058142763" xml:id="Bae_TB_1_1700">Demel</persName> <choice xml:id="Bae_TB_1_1701">
+          </choice>
+          <persName key="PromberAdolf" ref="https://d-nb.info/gnd/136829023" xml:id="Bae_TB_1_1699">Promber</persName>, von den Schlesiern 
+          <persName key="DemelLeonhard" ref="https://d-nb.info/gnd/1058142763" xml:id="Bae_TB_1_1700">Demel</persName>
+          <choice xml:id="Bae_TB_1_1701">
             <abbr xml:id="Bae_TB_1_1702">u.</abbr>
             <expan xml:id="Bae_TB_1_1703">und</expan>
-          </choice> <persName key="HaaseTheodor" ref="https://d-nb.info/gnd/126563233" xml:id="Bae_TB_1_1704">Haase</persName>, endlich auch 
+          </choice>
+          <persName key="HaaseTheodor" ref="https://d-nb.info/gnd/126563233" xml:id="Bae_TB_1_1704">Haase</persName>, endlich auch 
           <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_1_1705">Mauthner</persName>, dessen gesunder Menschenverstand gewönlich ein durchschlagender ist. 
           <app from="#Bae_MF_1_782" type="equal" xml:id="Bae_TB_1_5999">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_6000">Denselben Tag, an dem ich Vormittag mit Gleispach die erzählte Unterredung hatte, wurde unter dem Vorsitz Carl Auersperg's und in seinem Präsidialbüro die Konferenz abgehalten, welche über meine Ministerschaft sowie über die Sprachenverordnung die Entscheidung zu fällen hatte. Ich lud zu derselben Auersperg und Rohan, weil ich diesen Beiden vor so vielen Herrenhausmitgliedern ein ruhiges, unabhängiges Urteil zutraue. Oppenheimer kam mehr zufällig dazu, weil er Tags vorher zu mir gekommen war und in seiner bekannten geheimniskrämerischen Weise mich wieder einmal versicherte, ich stehe vor einer wichtigen Entscheidung und sei zu weiß Gott was bestimmt. Es ist selbstverständlich, daß Ludwigstorff und Stürgkh dabei waren; Fürstl bat ich, weil er mit meinen Wählern im engsten Kontakt ist. Von den Deutschböhmen waren Funke, Pergelt, Nitsche und Fournier anwesend, von den Mährern Götz und Promber, von den Schlesiern Demel und Haase, endlich auch Mauthner, dessen gesunder Menschenverstand gewönlich ein durchschlagender ist.</rdg>
@@ -2375,7 +2392,8 @@
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1758">Badeni's</persName> Calcül, der eben mehr ein mechanischer als ein politischer war, war folgender: 
         </p>
         <p xml:id="Bae_TB_1_1759">Von den 425 Abgeordneten sind 34 Radicale verschiedener Art, die 
-          <hi rendition="#ul" xml:id="Bae_TB_1_1760">gegen jede</hi> Regierung sind. Dagegen 147 Abgeordnete (<orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_1_1762">Polen</orgName>, 
+          <hi rendition="#ul" xml:id="Bae_TB_1_1760">gegen jede</hi> Regierung sind. Dagegen 147 Abgeordnete (
+          <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_1_1762">Polen</orgName>, 
           <orgName key="KonservativerGrossgrundbesitz" xml:id="Bae_TB_1_1763">
             <choice xml:id="Bae_TB_1_1764">
               <abbr xml:id="Bae_TB_1_1765">conserv.</abbr>
@@ -2407,10 +2425,12 @@
           </orgName> 28 
         </p>
         <p xml:id="Bae_TB_1_1785">
-          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_1786">Fortschrittspartei</orgName> <choice xml:id="Bae_TB_1_1787">
+          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_1786">Fortschrittspartei</orgName>
+          <choice xml:id="Bae_TB_1_1787">
             <abbr xml:id="Bae_TB_1_1788">u.</abbr>
             <expan xml:id="Bae_TB_1_1789">und</expan>
-          </choice> <orgName xml:id="Bae_TB_1_1790">
+          </choice>
+          <orgName xml:id="Bae_TB_1_1790">
             <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_1_1791">Mauthner</persName>gruppe 
           </orgName> 50 
         </p>
@@ -2466,7 +2486,8 @@
             <abbr xml:id="Bae_TB_1_1827">u.</abbr>
             <expan xml:id="Bae_TB_1_1828">und</expan>
           </choice> mit 
-          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_1_1829">Kaizl</persName> <choice xml:id="Bae_TB_1_1830">
+          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_1_1829">Kaizl</persName>
+          <choice xml:id="Bae_TB_1_1830">
             <abbr xml:id="Bae_TB_1_1831">u.</abbr>
             <expan xml:id="Bae_TB_1_1832">und</expan>
           </choice> mir hoffte er ein modernes Regiment führen zu können. 
@@ -2549,10 +2570,13 @@
             <abbr xml:id="Bae_TB_1_1736">u.</abbr>
             <expan xml:id="Bae_TB_1_1737">und</expan>
           </choice> selbst die Coniventesten, 
-          <persName key="PromberAdolf" ref="https://d-nb.info/gnd/136829023" xml:id="Bae_TB_1_1738">Promber</persName> <choice xml:id="Bae_TB_1_1739">
+          <persName key="PromberAdolf" ref="https://d-nb.info/gnd/136829023" xml:id="Bae_TB_1_1738">Promber</persName>
+          <choice xml:id="Bae_TB_1_1739">
             <abbr xml:id="Bae_TB_1_1740">u.</abbr>
             <expan xml:id="Bae_TB_1_1741">und</expan>
-          </choice> <persName key="OppenheimerLudwig" ref="https://d-nb.info/gnd/117138487" xml:id="Bae_TB_1_1742">Oppenheimer</persName> erklärten dass von dem Eintritt irgend eines von uns nach Publicirung der <index xml:id="Bae_TB_1_1745">
+          </choice>
+          <persName key="OppenheimerLudwig" ref="https://d-nb.info/gnd/117138487" xml:id="Bae_TB_1_1742">Oppenheimer</persName> erklärten dass von dem Eintritt irgend eines von uns nach Publicirung der 
+          <index xml:id="Bae_TB_1_1745">
             <term key="Reichsrat" xml:id="Bae_TB_1_1746">
               <choice xml:id="Bae_TB_1_1743">
                 <abbr xml:id="Bae_TB_1_1744">S.V. </abbr>
@@ -2671,7 +2695,8 @@
           <persName key="RohanAlain" ref="https://d-nb.info/gnd/139262210" xml:id="Bae_TB_1_1899">Rohan</persName>, 
           <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_1900">Stürgkh</persName>, 
           <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_1901">Ludwigstorff</persName>, 
-          <persName key="PromberAdolf" ref="https://d-nb.info/gnd/136829023" xml:id="Bae_TB_1_1902">Promber</persName> <choice xml:id="Bae_TB_1_1903">
+          <persName key="PromberAdolf" ref="https://d-nb.info/gnd/136829023" xml:id="Bae_TB_1_1902">Promber</persName>
+          <choice xml:id="Bae_TB_1_1903">
             <abbr xml:id="Bae_TB_1_1904">u.</abbr>
             <expan xml:id="Bae_TB_1_1905">und</expan>
           </choice> mir dem 
@@ -2721,10 +2746,13 @@
           </choice> die Besprechung war zu Ende. 
         </p>
         <p xml:id="Bae_TB_1_1939">Noch am selben Tag richtete 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1940">Graf Badeni</persName> aber an uns <app from="#Bae_MF_1_937" type="equal" xml:id="Bae_TB_1_1941">
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_1940">Graf Badeni</persName> aber an uns 
+          <app from="#Bae_MF_1_937" type="equal" xml:id="Bae_TB_1_1941">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1942">sollte. Die Deutschböhmen wollten nicht teilnehmen, ermächtigten uns aber einen letzten Versuch bei Badeni zu machen, um die Publizierung der Sprachenverordnungen hintanzuhalten. Der Wortführer am andern Morgen war Auersperg. Er sagte, daß es unmöglich sei, auf das Anbot eines Portefeuilles unter den obwaltenden Umständen einzugehen, die Partei wolle und könne mich nicht opfern ohne Nutzen für die Sache und ohne Nutzen für das Ministerium. Er sowohl wie insbesondere Stürgkh drangen in Badeni noch einen Versuch der Verständigung zwischen den Vertretern beider Nationalitäten zu machen und die Publikation aufzuschieben. Badeni antwortete ausweichend und die Besprechung war zu Ende. Noch am selben Tag richtete Graf Badeni aber an uns</rdg>
           </app>
-          <anchor xml:id="Bae_TB_1_1943"/>(<persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_1944">Ludwigstorff</persName>) <app from="#Bae_MF_1_949" type="missing" xml:id="Bae_TB_1_1945">
+          <anchor xml:id="Bae_TB_1_1943"/>(
+          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_1944">Ludwigstorff</persName>) 
+          <app from="#Bae_MF_1_949" type="missing" xml:id="Bae_TB_1_1945">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_1946"/>
           </app>
           <anchor xml:id="Bae_TB_1_1947"/>eine geharnischte Anfrage, ob die Regierung bei der Majoritätsbildung auf uns rechnen könne oder nicht. Der 
@@ -2779,7 +2807,8 @@
           <choice xml:id="Bae_TB_1_1998">
             <abbr xml:id="Bae_TB_1_1999">u.</abbr>
             <expan xml:id="Bae_TB_1_2000">und</expan>
-          </choice> dies veranlasste die Gesamtdemission des Cabinets<app from="#Bae_MF_1_960" type="equal" xml:id="Bae_TB_1_2001">
+          </choice> dies veranlasste die Gesamtdemission des Cabinets
+          <app from="#Bae_MF_1_960" type="equal" xml:id="Bae_TB_1_2001">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2002">Man wird vielleicht der Meinung sein, die Antwort sei nicht ablehnend, sondern lavierend gewesen – ich war eben bei allen diesen Konzeptionen auf die größte Vorsicht angewiesen. Einmal wollte ich unsere Gruppe nicht ins Unrecht setzen lassen, anderseits hatten wir so viele Elemente unter uns, welche damals die Tragweite der Sprachenverordnungen noch nicht annähernd überblickten und die, wenn wir uns sofort entschieden gegen die Regierung gewendet hätten, ausgesprungen wären. Mein Ziel war aber die ganze kleine Armee zusammenzuhalten und ihre Bedeutung durch klares Eingreifen zur rechten Zeit zu erhöhen. Ich glaube, daß dies in den schwierigen und heissen Tagen, die kamen, gelungen ist. Wie wir – unverbürgt – hörten, habe Badeni auf diese Erklärung hin immer noch Verhandlungen und Pläne bauen wollen, aber der Ministerrat war der Meinung, daß die geplante Majoritätsbildung als gescheitert anzusehen sei und dies veranlasste die Gesamtdemission des Kabinetts</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_2003"/>. 
@@ -2805,14 +2834,16 @@
             </index>
           </index> die Regierung dann in anderen Fragen unterstützen würden, wenn sie nicht eine Majorität mit der Gruppe 
           <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_1_2020">Dipauli</persName> bildet. Es war dies der letzte Faden, der zwischen 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2021">Badeni</persName> <choice xml:id="Bae_TB_1_2022">
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2021">Badeni</persName>
+          <choice xml:id="Bae_TB_1_2022">
             <abbr xml:id="Bae_TB_1_2023">u.</abbr>
             <expan xml:id="Bae_TB_1_2024">und</expan>
           </choice> uns gesponnen wurde. Es war eigentlich mir ein Akt der Höflichkeit, keine politische Enunciation 
           <choice xml:id="Bae_TB_1_2025">
             <abbr xml:id="Bae_TB_1_2026">u.</abbr>
             <expan xml:id="Bae_TB_1_2027">und</expan>
-          </choice> <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2028">Badeni</persName> nahm auf denselben mit Recht keine Rücksicht, sondern das Demissionsgesuch hatte seinen Lauf. Es fand durch das gnädige Handschreiben des 
+          </choice>
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2028">Badeni</persName> nahm auf denselben mit Recht keine Rücksicht, sondern das Demissionsgesuch hatte seinen Lauf. Es fand durch das gnädige Handschreiben des 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_1_2029">Kaisers</persName>, welches 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2030">Badeni</persName> neuerlich die Geschäftefürung übertrug, seinen Abschluss.) 
           <app from="#Bae_MF_1_975" type="missing" xml:id="Bae_TB_1_2031">
@@ -2830,11 +2861,14 @@
             <abbr xml:id="Bae_TB_1_2040">u.</abbr>
             <expan xml:id="Bae_TB_1_2041">und</expan>
           </choice> den 
-          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_2042">Fortschrittlern</orgName> <add place="across" xml:id="Bae_TB_1_2043">wobei</add> über die politische Situation verhandelt wurde. Eines Tages war 
-          <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_1_2044">Prade</persName> <choice xml:id="Bae_TB_1_2045">
+          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_2042">Fortschrittlern</orgName>
+          <add place="across" xml:id="Bae_TB_1_2043">wobei</add> über die politische Situation verhandelt wurde. Eines Tages war 
+          <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_1_2044">Prade</persName>
+          <choice xml:id="Bae_TB_1_2045">
             <abbr xml:id="Bae_TB_1_2046">u.</abbr>
             <expan xml:id="Bae_TB_1_2047">und</expan>
-          </choice> <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_1_2048">Steinwender</persName> bei mir (jedenfalls vor Publication der 
+          </choice>
+          <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_1_2048">Steinwender</persName> bei mir (jedenfalls vor Publication der 
           <index xml:id="Bae_TB_1_2049">
             <term key="Reichsrat" xml:id="Bae_TB_1_2050">
               <choice xml:id="Bae_TB_1_2051">
@@ -2845,7 +2879,8 @@
             <index xml:id="Bae_TB_1_2054">
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_2055"/>
             </index>
-          </index>) <choice xml:id="Bae_TB_1_2056">
+          </index>) 
+          <choice xml:id="Bae_TB_1_2056">
             <abbr xml:id="Bae_TB_1_2057">u.</abbr>
             <expan xml:id="Bae_TB_1_2058">und</expan>
           </choice> ich teilte beiden die 
@@ -2869,16 +2904,20 @@
           <pb facs="#F_K-6_Bae_TB_1_060" n="30r" xml:id="Bae_TB_1_2070"/> Deutschböhmen zwischen zwei Feuer nehmen. Gleich nach dieser privaten Besprechung mit den genannten zwei 
           <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_1_2071">Deutschnationalen</orgName> – wenn ich nicht irre, war es Sonntag den 
           <date when="1897-04-04" xml:id="Bae_TB_1_2072">4. April</date> Nachmittag im grossen Salon des Präsidenten – hatte ich ausser 
-          <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_1_2073">Prade</persName> <choice xml:id="Bae_TB_1_2074">
+          <persName key="PradeHeinrich" ref="https://d-nb.info/gnd/127915672" xml:id="Bae_TB_1_2073">Prade</persName>
+          <choice xml:id="Bae_TB_1_2074">
             <abbr xml:id="Bae_TB_1_2075">u.</abbr>
             <expan xml:id="Bae_TB_1_2076">und</expan>
-          </choice> <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_1_2077">Steinwender</persName> noch einige Deutschböhmen, 
-          <persName key="ProskowetzEmanuel" ref="https://d-nb.info/gnd/139238069" xml:id="Bae_TB_1_2078">Proskowetz</persName> <choice xml:id="Bae_TB_1_2079">
+          </choice>
+          <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_1_2077">Steinwender</persName> noch einige Deutschböhmen, 
+          <persName key="ProskowetzEmanuel" ref="https://d-nb.info/gnd/139238069" xml:id="Bae_TB_1_2078">Proskowetz</persName>
+          <choice xml:id="Bae_TB_1_2079">
             <abbr xml:id="Bae_TB_1_2080">u.</abbr>
             <expan xml:id="Bae_TB_1_2081">und</expan>
           </choice>
           <persName key="MauthnerMax" ref="https://d-nb.info/gnd/1019408626" xml:id="Bae_TB_1_2082">Mauthner</persName>, 
-          <persName key="GoetzLeopold" xml:id="Bae_TB_1_2083">Götz</persName> <choice xml:id="Bae_TB_1_2084">
+          <persName key="GoetzLeopold" xml:id="Bae_TB_1_2083">Götz</persName>
+          <choice xml:id="Bae_TB_1_2084">
             <abbr xml:id="Bae_TB_1_2085">u.</abbr>
             <expan xml:id="Bae_TB_1_2086">und</expan>
           </choice> einige Grossgrundbesitzer geladen. In dieser Konferenz rechtfertigten wir unser Communiqué vom 
@@ -2897,10 +2936,12 @@
             </index>
           </index>die schärfste Opposition machen zu wollen. Schliesslich wurde den Herren die Frage vorgelegt: sind die Herren in der Lage zu erklären, dass – immer abgesehen von der Haltung in der Sprachenfrage – dem Grossgrundbesitz nicht entgegenzutreten sei, wenn er die Regierung unterstützt? – diese Frage wurde ganz entschieden bejahend von den 
           <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_1_2097">Deutschnationalen</orgName> beantwortet, weniger entschieden von den Uebrigen, verneint von 
-          <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_1_2098">Pergelt</persName> <choice xml:id="Bae_TB_1_2099">
+          <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_1_2098">Pergelt</persName>
+          <choice xml:id="Bae_TB_1_2099">
             <abbr xml:id="Bae_TB_1_2100">u.</abbr>
             <expan xml:id="Bae_TB_1_2101">und</expan>
-          </choice> <persName key="FunkeAlois" ref="https://d-nb.info/gnd/1072507609" xml:id="Bae_TB_1_2102">Funke</persName>. Eine zweite Frage dahingehend: welche von den Herren geneigt wären, Regierungsvorlagen nicht a priori oppositionell, sondern sachlich zu behandeln, wurde ebenfalls von den 
+          </choice>
+          <persName key="FunkeAlois" ref="https://d-nb.info/gnd/1072507609" xml:id="Bae_TB_1_2102">Funke</persName>. Eine zweite Frage dahingehend: welche von den Herren geneigt wären, Regierungsvorlagen nicht a priori oppositionell, sondern sachlich zu behandeln, wurde ebenfalls von den 
           <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_1_2103">Deutschnationalen</orgName> bejaht, während die Deutschböhmen sich in beredtes Schweigen hüllten. 
         </p>
         <p xml:id="Bae_TB_1_2104">Heute nach Verlauf von Monaten ist es leicht, diese 
@@ -2954,10 +2995,12 @@
             <abbr xml:id="Bae_TB_1_2141">insb.</abbr>
             <expan xml:id="Bae_TB_1_2142">insbesondere</expan>
           </choice> ihre Führer 
-          <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_1_2143">Dipauli</persName> <choice xml:id="Bae_TB_1_2144">
+          <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_1_2143">Dipauli</persName>
+          <choice xml:id="Bae_TB_1_2144">
             <abbr xml:id="Bae_TB_1_2145">u.</abbr>
             <expan xml:id="Bae_TB_1_2146">und</expan>
-          </choice> <persName key="EbenhochAlfred" ref="https://d-nb.info/gnd/132867745" xml:id="Bae_TB_1_2147">Ebenhoch</persName> verletzt 
+          </choice>
+          <persName key="EbenhochAlfred" ref="https://d-nb.info/gnd/132867745" xml:id="Bae_TB_1_2147">Ebenhoch</persName> verletzt 
           <choice xml:id="Bae_TB_1_2148">
             <abbr xml:id="Bae_TB_1_2149">u.</abbr>
             <expan xml:id="Bae_TB_1_2150">und</expan>
@@ -2995,7 +3038,8 @@
           <choice xml:id="Bae_TB_1_2173">
             <abbr xml:id="Bae_TB_1_2174">u.</abbr>
             <expan xml:id="Bae_TB_1_2175">und</expan>
-          </choice> <orgName key="Ruthenenklub" xml:id="Bae_TB_1_2176">Ruthenen</orgName> im 
+          </choice>
+          <orgName key="Ruthenenklub" xml:id="Bae_TB_1_2176">Ruthenen</orgName> im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_2177">Abgeordnetenhause</orgName> zu einem slavisch-klerikalen Club zusammengefunden, der etliche 30 Mann stark in die sich bildende Majorität einschwenkte. Der 
           <persName key="SukljeFranjo" ref="https://d-nb.info/gnd/104921417X" xml:id="Bae_TB_1_2178">Hofrat Šuklje</persName>, den ich einige Wochen vor den Wahlen traf 
           <choice xml:id="Bae_TB_1_2179">
@@ -3015,7 +3059,8 @@
           <choice xml:id="Bae_TB_1_2190">
             <abbr xml:id="Bae_TB_1_2191">u.</abbr>
             <expan xml:id="Bae_TB_1_2192">und</expan>
-          </choice> sich daher nicht entziehen könne – nach Zusammenschluss seiner Partei wurde er nicht einmal in den Vorstand gewählt! <del rendition="#s" xml:id="Bae_TB_1_2193">Wiewol mehr</del>
+          </choice> sich daher nicht entziehen könne – nach Zusammenschluss seiner Partei wurde er nicht einmal in den Vorstand gewählt! 
+          <del rendition="#s" xml:id="Bae_TB_1_2193">Wiewol mehr</del>
           <add place="across" xml:id="Bae_TB_1_2194">Weil er</add> als zahm 
           <add place="across" xml:id="Bae_TB_1_2195">gilt</add>, war er seinen Collegen national 
           <choice xml:id="Bae_TB_1_2196">
@@ -3048,10 +3093,12 @@
           <note type="editorial" xml:id="Bae_TB_1_5796">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
           <pb facs="#F_K-6_Bae_TB_1_066" n="33r" xml:id="Bae_TB_1_2217"/>Tagen des neuen 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_2218">Reichsrats</orgName> von Vornherein eine feindliche Haltung gegen die Deutschen ein, 
-          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_1_2219">Kaizl</persName> <choice xml:id="Bae_TB_1_2220">
+          <persName key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_1_2219">Kaizl</persName>
+          <choice xml:id="Bae_TB_1_2220">
             <abbr xml:id="Bae_TB_1_2221">u.</abbr>
             <expan xml:id="Bae_TB_1_2222">und</expan>
-          </choice> <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_1_2223">Kramař</persName> versuchten noch hie 
+          </choice>
+          <persName key="KramarKarel" ref="https://d-nb.info/gnd/122305116" xml:id="Bae_TB_1_2223">Kramař</persName> versuchten noch hie 
           <choice xml:id="Bae_TB_1_2224">
             <abbr xml:id="Bae_TB_1_2225">u.</abbr>
             <expan xml:id="Bae_TB_1_2226">und</expan>
@@ -3081,13 +3128,17 @@
         <p xml:id="Bae_TB_1_2244">
           <anchor xml:id="Bae_TB_1_2245"/>Die 
           <orgName key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_1_2246">Polen</orgName> vollendeten die Combination. In enger Fühlung mit den böhmischen Conservativen, mit 
-          <persName key="SchwarzenbergFriedrich" ref="https://d-nb.info/gnd/1229872299" xml:id="Bae_TB_1_2247">Schwarzenberg</persName> <choice xml:id="Bae_TB_1_2248">
+          <persName key="SchwarzenbergFriedrich" ref="https://d-nb.info/gnd/1229872299" xml:id="Bae_TB_1_2247">Schwarzenberg</persName>
+          <choice xml:id="Bae_TB_1_2248">
             <abbr xml:id="Bae_TB_1_2249">u.</abbr>
             <expan xml:id="Bae_TB_1_2250">und</expan>
-          </choice> <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_1_2251">Dipauli</persName> bethätigten sie wieder einmal glänzend das 
+          </choice>
+          <persName key="DipauliJosef" ref="https://d-nb.info/gnd/135666082" xml:id="Bae_TB_1_2251">Dipauli</persName> bethätigten sie wieder einmal glänzend das 
           <persName key="BismarckOtto" ref="https://d-nb.info/gnd/11851136X" xml:id="Bae_TB_1_2252">Bismark'sche</persName> Wort von der "besondern Befähigung der Polen zur politischen Intrigue". Uns gegenüber benahmen sie sich jedoch nicht nur falsch, sondern auch plump. Am Montag den 
           <date when="1897-04-05" xml:id="Bae_TB_1_2253">5. April</date> Mittags theilte 
-          <persName key="AbrahamowiczDawid" ref="https://d-nb.info/gnd/143832883" xml:id="Bae_TB_1_2254">Abrahamovicz David</persName> <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_2255">Ludwigstorff</persName> <choice xml:id="Bae_TB_1_2256">
+          <persName key="AbrahamowiczDawid" ref="https://d-nb.info/gnd/143832883" xml:id="Bae_TB_1_2254">Abrahamovicz David</persName>
+          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_2255">Ludwigstorff</persName>
+          <choice xml:id="Bae_TB_1_2256">
             <abbr xml:id="Bae_TB_1_2257">u.</abbr>
             <expan xml:id="Bae_TB_1_2258">und</expan>
           </choice> mir eine Resolution des 
@@ -3174,10 +3225,12 @@
         </p>
         <p xml:id="Bae_TB_1_2309">
           <anchor xml:id="Bae_TB_1_2310"/>Am Nachmittag war 
-          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_2311">Ludwigstorff</persName> <choice xml:id="Bae_TB_1_2312">
+          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_2311">Ludwigstorff</persName>
+          <choice xml:id="Bae_TB_1_2312">
             <abbr xml:id="Bae_TB_1_2313">u.</abbr>
             <expan xml:id="Bae_TB_1_2314">und</expan>
-          </choice> ich bei <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2315">Badeni</persName>; wir sagten ihm rund heraus, dass er hintergangen sei. Er konnte es nicht läugnen. Am selben Abend war eine von 
+          </choice> ich bei 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2315">Badeni</persName>; wir sagten ihm rund heraus, dass er hintergangen sei. Er konnte es nicht läugnen. Am selben Abend war eine von 
           <persName key="JaworskiApolinary" ref="http://d-nb.info/gnd/1012814300" xml:id="Bae_TB_1_2316">Jaworski</persName> zusammenberufene 
           <index xml:id="Bae_TB_1_2317">
             <term key="Parteien" xml:id="Bae_TB_1_2318">Obmännerconferenz</term>
@@ -3221,8 +3274,10 @@
         <addSpan spanTo="#Bae_TB_1_5689" type="insertion" xml:id="Bae_TB_1_2389"/>
         <p xml:id="Bae_TB_1_2390">
           <anchor xml:id="Bae_TB_1_2391"/>[handschriftlich:] Erklärung unserer Vereingigung vom 
-          <date when="1897-04-06" xml:id="Bae_TB_1_2392">6. April</date>.</p>
-        <p>z. <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_2393">Wien</placeName>, 
+          <date when="1897-04-06" xml:id="Bae_TB_1_2392">6. April</date>.
+        </p>
+        <p xml:id="Bae_TB_1_6122">z. 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_2393">Wien</placeName>, 
           <date when="1897-04-06" xml:id="Bae_TB_1_2394">6. April</date>. Der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2395">Club des verfassungstreuen Großgrundbesitzes</orgName> und die Vertreter verwandter Gruppen haben heute vor der Sitzung eine Berathung abgehalten, in welcher einstimmig die nachstehende Erklärung genehmigt wurde: Der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_2396">verfassungstreue Großgrundbesitz</orgName> hat es für seine Pflicht gehalten, seine guten Dienste unbeirrt und unermüdlich für die Bildung einer parlamentarischen Majorität einzusetzen, in welcher außer dem 
@@ -3339,8 +3394,10 @@
               <expan xml:id="Bae_TB_1_2417">Reichsrates</expan>
             </choice>
           </orgName> lies 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2418">Badeni</persName> <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_2419">Ludwigstorff</persName>, 
-          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_2420">Stürgkh</persName> <choice xml:id="Bae_TB_1_2421">
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_2418">Badeni</persName>
+          <persName key="LudwigstorffAnton" ref="https://d-nb.info/gnd/132995271" xml:id="Bae_TB_1_2419">Ludwigstorff</persName>, 
+          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_2420">Stürgkh</persName>
+          <choice xml:id="Bae_TB_1_2421">
             <abbr xml:id="Bae_TB_1_2422">u.</abbr>
             <expan xml:id="Bae_TB_1_2423">und</expan>
           </choice> mich bitten in Sachen der Präsidentenwahl zu ihm zu kommen. Auf dem Wege hin, den wir gemeinsam machten, wurden wir einig für den Fall als uns eine 
@@ -3367,10 +3424,12 @@
             <expan xml:id="Bae_TB_1_2442">und</expan>
           </choice> dem Widerstand der Parteien der Linken kam es vor Ostern gar nicht zur Entscheidung. Bei den Verhandlungen benahm sich 
           <persName key="SteinwenderOtto" ref="https://d-nb.info/gnd/120148269" xml:id="Bae_TB_1_2443">Steinwender</persName> wieder einmal sehr unverlässlich. Ich hielt es speciell für die Aufgabe des Grossgrundbesitzes, zwischen 
-          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_2444">Fortschrittspartei</orgName> <choice xml:id="Bae_TB_1_2445">
+          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_2444">Fortschrittspartei</orgName>
+          <choice xml:id="Bae_TB_1_2445">
             <abbr xml:id="Bae_TB_1_2446">u.</abbr>
             <expan xml:id="Bae_TB_1_2447">und</expan>
-          </choice> <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_1_2448">Deutschnationalen</orgName> zu vermitteln 
+          </choice>
+          <orgName key="DeutscheVolkspartei" ref="https://d-nb.info/gnd/1041438885" xml:id="Bae_TB_1_2448">Deutschnationalen</orgName> zu vermitteln 
           <choice xml:id="Bae_TB_1_2449">
             <abbr xml:id="Bae_TB_1_2450">u.</abbr>
             <expan xml:id="Bae_TB_1_2451">und</expan>
@@ -3439,7 +3498,8 @@
           <anchor xml:id="Bae_TB_1_2496"/>Ich hatte nur wenige Tage Zeit. Wir beschlossen nach 
           <placeName key="Modena" ref="https://www.geonames.org/3173331/modena.html" xml:id="Bae_TB_1_2497">Modena</placeName>, 
           <placeName key="Parma" ref="https://www.geonames.org/3171457/parma.html" xml:id="Bae_TB_1_2498">Parma</placeName>, 
-          <placeName key="Piacenza" ref="https://www.geonames.org/3171058/piacenza.html" xml:id="Bae_TB_1_2499">Piacenza</placeName> <choice xml:id="Bae_TB_1_2500">
+          <placeName key="Piacenza" ref="https://www.geonames.org/3171058/piacenza.html" xml:id="Bae_TB_1_2499">Piacenza</placeName>
+          <choice xml:id="Bae_TB_1_2500">
             <abbr xml:id="Bae_TB_1_2501">u.</abbr>
             <expan xml:id="Bae_TB_1_2502">und</expan>
           </choice> schliesslich 
@@ -3564,7 +3624,8 @@
             <persName key="ErzherzoginMariaLouise" ref="https://d-nb.info/gnd/118577891" xml:id="Bae_TB_1_2594">Maria Louise</persName> gesetzte 
           </add> Gedenksäule die unsterblichen Taten 
           <persName key="Hannibal" ref="http://d-nb.info/gnd/118545655" xml:id="Bae_TB_1_2595">Hanibals</persName>, den weniger bekannten Sieg 
-          <persName key="SuworowAlexander" ref="https://d-nb.info/gnd/118620134" xml:id="Bae_TB_1_2596">Suworow's</persName> <choice xml:id="Bae_TB_1_2597">
+          <persName key="SuworowAlexander" ref="https://d-nb.info/gnd/118620134" xml:id="Bae_TB_1_2596">Suworow's</persName>
+          <choice xml:id="Bae_TB_1_2597">
             <abbr xml:id="Bae_TB_1_2598">u.</abbr>
             <expan xml:id="Bae_TB_1_2599">und</expan>
           </choice> den gänzlich unbekannten Sieg eines 
@@ -3612,7 +3673,9 @@
             <abbr xml:id="Bae_TB_1_2633">u.</abbr>
             <expan xml:id="Bae_TB_1_2634">und</expan>
           </choice> vielleicht noch 
-          <orgName key="SantAmbrogio" ref="https://d-nb.info/gnd/4271516-7" xml:id="Bae_TB_1_2635">St. Ambrogio</orgName> <add place="across" xml:id="Bae_TB_1_2636"><choice xml:id="Bae_TB_1_2637">
+          <orgName key="SantAmbrogio" ref="https://d-nb.info/gnd/4271516-7" xml:id="Bae_TB_1_2635">St. Ambrogio</orgName>
+          <add place="across" xml:id="Bae_TB_1_2636">
+            <choice xml:id="Bae_TB_1_2637">
               <abbr xml:id="Bae_TB_1_2638">u.</abbr>
               <expan xml:id="Bae_TB_1_2639">und</expan>
             </choice> neuerdings 
@@ -3643,7 +3706,7 @@
               <expan xml:id="Bae_TB_1_2731">Neuen freien</expan>
             </choice>
           </orgName> Presse vom 
-          <date when="1897-04-14" xml:id="Bae_TB_1_2732">14.4.1897</date>)
+          <date when="1897-04-14" xml:id="Bae_TB_1_2732">14.4.1897</date>) 
         </p>
         <p xml:id="Bae_TB_1_2733">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_2734">Wien</placeName>, 
@@ -3720,15 +3783,18 @@
             <abbr xml:id="Bae_TB_1_2659">u.</abbr>
             <expan xml:id="Bae_TB_1_2660">und</expan>
           </choice> Baumgruppen in dem Maase zu begeistern wie er mich für die 
-          <persName key="LuiniBernardino" ref="https://d-nb.info/gnd/118780808" xml:id="Bae_TB_1_2661">Luini's</persName> <choice xml:id="Bae_TB_1_2662">
+          <persName key="LuiniBernardino" ref="https://d-nb.info/gnd/118780808" xml:id="Bae_TB_1_2661">Luini's</persName>
+          <choice xml:id="Bae_TB_1_2662">
             <abbr xml:id="Bae_TB_1_2663">u.</abbr>
             <expan xml:id="Bae_TB_1_2664">und</expan>
-          </choice> <persName key="FerrariGaudenzio" ref="https://d-nb.info/gnd/11868339X" xml:id="Bae_TB_1_2665">Ferrari's</persName>. 
+          </choice>
+          <persName key="FerrariGaudenzio" ref="https://d-nb.info/gnd/11868339X" xml:id="Bae_TB_1_2665">Ferrari's</persName>. 
           <app from="#Bae_MF_1_1346" type="notEqual" xml:id="Bae_TB_1_2666">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2667">und ich hoffe ich habe meinen Gefährten für die prachtvollen Bäume und Baumgruppen in dem Maße begeistert wie er mich für die Luinis und Ferraris.</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_2668"/>Tags darauf rief mich ein Telegramm nach 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_2669">Wien</placeName> <choice xml:id="Bae_TB_1_2670">
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_2669">Wien</placeName>
+          <choice xml:id="Bae_TB_1_2670">
             <abbr xml:id="Bae_TB_1_2671">u.</abbr>
             <expan xml:id="Bae_TB_1_2672">und</expan>
           </choice> ich musste es aufgeben mit 
@@ -3737,10 +3803,12 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2675">Tags darauf rief mich ein Telegramm nach Wien und ich mußte es aufgeben, mit Dumreicher in</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_2676"/>
-          <placeName key="Bergamo" ref="https://www.geonames.org/3182164/bergamo.html" xml:id="Bae_TB_1_2677">Bergamo</placeName> <app from="#Bae_MF_1_1354" type="notEqual" xml:id="Bae_TB_1_2678">
+          <placeName key="Bergamo" ref="https://www.geonames.org/3182164/bergamo.html" xml:id="Bae_TB_1_2677">Bergamo</placeName>
+          <app from="#Bae_MF_1_1354" type="notEqual" xml:id="Bae_TB_1_2678">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2679">Lugano</rdg>
           </app>
-          <anchor xml:id="Bae_TB_1_2680"/><choice xml:id="Bae_TB_1_2681">
+          <anchor xml:id="Bae_TB_1_2680"/>
+          <choice xml:id="Bae_TB_1_2681">
             <abbr xml:id="Bae_TB_1_2682">u.</abbr>
             <expan xml:id="Bae_TB_1_2683">und</expan>
           </choice>
@@ -3769,10 +3837,12 @@
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_2700">Bewegung</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_2701"/>wurde nicht von den Abgeordneten ins Volk getragen, – was 
-          <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_TB_1_2702">Schönerer</persName> <choice xml:id="Bae_TB_1_2703">
+          <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_TB_1_2702">Schönerer</persName>
+          <choice xml:id="Bae_TB_1_2703">
             <abbr xml:id="Bae_TB_1_2704">u.</abbr>
             <expan xml:id="Bae_TB_1_2705">und</expan>
-          </choice> <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_1_2706">Wolf</persName> in dieser Hinsicht leisteten reichte nicht aus – umgekehrt, wo ein Abgeordneter sich bei den Wählern blicken lies, wurde die politische Elektricität auf ihn abgeladen. Nichts hat aber die Erregung, ja die Erbitterung mehr gesteigert als die unbegreiflich taktlosen Enthüllungen 
+          </choice>
+          <persName key="WolfKarl" ref="https://d-nb.info/gnd/1013678079" xml:id="Bae_TB_1_2706">Wolf</persName> in dieser Hinsicht leisteten reichte nicht aus – umgekehrt, wo ein Abgeordneter sich bei den Wählern blicken lies, wurde die politische Elektricität auf ihn abgeladen. Nichts hat aber die Erregung, ja die Erbitterung mehr gesteigert als die unbegreiflich taktlosen Enthüllungen 
           <persName key="PacakBedrich" ref="https://d-nb.info/gnd/1024898318" xml:id="Bae_TB_1_2707">Pacak's</persName> über die Art 
           <choice xml:id="Bae_TB_1_2708">
             <abbr xml:id="Bae_TB_1_2709">u.</abbr>
@@ -3859,7 +3929,8 @@
           </index> besagt: die den Ministerien des 
           <orgName key="MinisteriumdesInnern" ref="https://d-nb.info/gnd/260143-6" xml:id="Bae_TB_1_2790">Innern</orgName>, der 
           <orgName key="Finanzministerium" ref="https://d-nb.info/gnd/118073-3" xml:id="Bae_TB_1_2791">Finanzen</orgName>, des 
-          <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_1_2792">Handels</orgName> <choice xml:id="Bae_TB_1_2793">
+          <orgName key="Handelsministerium" ref="https://d-nb.info/gnd/7648853-6" xml:id="Bae_TB_1_2792">Handels</orgName>
+          <choice xml:id="Bae_TB_1_2793">
             <abbr xml:id="Bae_TB_1_2794">u.s.w.</abbr>
             <expan xml:id="Bae_TB_1_2795">und so weiter</expan>
           </choice> untergeordneten Aemter und Gerichte haben sowohl im inneren Dienste als in der Correspondenz mit den staatlichen nicht militärischen Aemtern und Gerichten im Lande die polnische Sprache zu gebrauchen. Dann fährt er fort: Ich verrathe kein Geheimniß, wenn ich mittheile, daß gerade die Paragraphe, welche die czechische innere Dienstsprache anordnen, insbesondere §. 7 große Änderungen durchmachten und große Kämpfe hervorriefen. Darüber darf man sich nicht wundern, da jene, mit denen gekämpft werden mußte, von altbureaukratischen Bedenken durchtränkt waren, da sie sich an die alte deutsche Schablone zu halten gewöhnt hatten. Die 
@@ -3994,7 +4065,8 @@
           <choice xml:id="Bae_TB_1_2903">
             <abbr xml:id="Bae_TB_1_2904">u.</abbr>
             <expan xml:id="Bae_TB_1_2905">und</expan>
-          </choice> <persName key="GlanzHugo" ref="https://d-nb.info/gnd/1011357844" xml:id="Bae_TB_1_2906">Baron Glanz</persName>, mit dem ich im 
+          </choice>
+          <persName key="GlanzHugo" ref="https://d-nb.info/gnd/1011357844" xml:id="Bae_TB_1_2906">Baron Glanz</persName>, mit dem ich im 
           <date when="1897-06" xml:id="Bae_TB_1_2907">Juni 1897</date> eine eingehende Besprechung der Lage hatte, wusste von dem Memorandum gar nichts. 
         </p>
         <p xml:id="Bae_TB_1_2908">Aber wenn man heute die riesige Aufregung vor Augen hat, zu der die 
@@ -4077,10 +4149,12 @@
             <abbr xml:id="Bae_TB_1_2962">u.</abbr>
             <expan xml:id="Bae_TB_1_2963">und</expan>
           </choice> damals geschah eben der verhängnissvolle Fehler. Anstatt dass 
-          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_2964">Plener</persName> <choice xml:id="Bae_TB_1_2965">
+          <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_2964">Plener</persName>
+          <choice xml:id="Bae_TB_1_2965">
             <abbr xml:id="Bae_TB_1_2966">u.</abbr>
             <expan xml:id="Bae_TB_1_2967">und</expan>
-          </choice> <persName key="TomaszczukKonstantin" ref="https://d-nb.info/gnd/1062725182" xml:id="Bae_TB_1_2968">Tomaszuk</persName> ihre Anhänger mit den neuen Männern vereinigt hätten zu der überwiegend 
+          </choice>
+          <persName key="TomaszczukKonstantin" ref="https://d-nb.info/gnd/1062725182" xml:id="Bae_TB_1_2968">Tomaszuk</persName> ihre Anhänger mit den neuen Männern vereinigt hätten zu der überwiegend 
           <hi rendition="#ul" xml:id="Bae_TB_1_2969">grössern</hi> Partei 
           <choice xml:id="Bae_TB_1_2970">
             <abbr xml:id="Bae_TB_1_2971">u.</abbr>
@@ -4119,10 +4193,12 @@
             <expan xml:id="Bae_TB_1_2997">und</expan>
           </choice> nach alle Wurzeln. Schuld an dem Fehler von 
           <date when="1885" xml:id="Bae_TB_1_2998">1885</date> war nicht nur, wie ich damals naiver Weise glaubte, die mangelnde Einsicht in die politische Constellation, sondern vielmehr die leider in der Politik eine so grosse Rolle spielenden persönlichen Motive. 
-          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_1_2999">Chlumetzky</persName> <choice xml:id="Bae_TB_1_3000">
+          <persName key="ChlumeckyJohann" ref="https://d-nb.info/gnd/116505907" xml:id="Bae_TB_1_2999">Chlumetzky</persName>
+          <choice xml:id="Bae_TB_1_3000">
             <abbr xml:id="Bae_TB_1_3001">u.</abbr>
             <expan xml:id="Bae_TB_1_3002">und</expan>
-          </choice> <persName key="SturmEduard" ref="https://d-nb.info/gnd/1048747816" xml:id="Bae_TB_1_3003">Sturm</persName> brannten vor Begierde 
+          </choice>
+          <persName key="SturmEduard" ref="https://d-nb.info/gnd/1048747816" xml:id="Bae_TB_1_3003">Sturm</persName> brannten vor Begierde 
           <persName key="TaaffeEduard" ref="https://d-nb.info/gnd/118620428" xml:id="Bae_TB_1_3004">Taaffe</persName> zu stürzen, ihr Bestreben war es eine Regierungspartei der Zukunft zu bilden, um sofort mit einer solchen am Plan sein zu können. 
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_TB_1_3005">Herbst</persName> und 
           <persName key="PickertKarl" ref="https://d-nb.info/gnd/1024911209" xml:id="Bae_TB_1_3006">Pickert</persName> waren Todfeinde. 
@@ -4238,7 +4314,7 @@
           <choice xml:id="Bae_TB_1_3088">
             <abbr xml:id="Bae_TB_1_3089">u.</abbr>
             <expan xml:id="Bae_TB_1_3090">und</expan>
-          </choice> wiederholen, dass die Partei auf legislativem Gebiet Grossartiges geleistet hat. Je mehr die politische Bedeutung der Partei sank, je weniger sie sich nach Aussen betätigte 
+          </choice> wiederholen, dass die Partei auf legislativem Gebiet Grossartiges geleistet hat. Je mehr die politische Bedeutung der Partei sank, je weniger sie sich nach Aussen bethätigte 
           <choice xml:id="Bae_TB_1_3091">
             <abbr xml:id="Bae_TB_1_3092">u.</abbr>
             <expan xml:id="Bae_TB_1_3093">und</expan>
@@ -4470,7 +4546,7 @@
           <date when="1897-05-07" xml:id="Bae_TB_1_3280">7. Mai 97</date>
         </p>
         <p xml:id="Bae_TB_1_3281">Abg. 
-          <persName key="DubskyGuido" xml:id="Bae_TB_1_3282">Graf Dubsky</persName> ( 
+          <persName key="DubskyGuido" xml:id="Bae_TB_1_3282">Graf Dubsky</persName> (
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_3283">verfassungstreuer Großgrundbesitz</orgName>) gibt im eigenen und im Namen seiner engeren Gesinnungsgenossen folgende Erklärung ab: Wir haben die seinerzeit angekündigte Absicht der Regierung, Maßregeln zur Herstellung eines Modus vivendi zwischen den beiden Nationalitäten in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_3284">Böhmen</placeName> zu ergreifen, womit die Versicherung verbunden war, daß dies nur im Einvernehmen mit den Vertretern beider Nationalitäten geschehen würde, deßwegen mit besonderer Befriedigung entgegengenommen, weil die großen wirthschaftlichen und culturellen Aufgaben, die das 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_3285">Parlament</orgName> zu lösen hat, ein möglichst einträchtliches Zusammengehen dieser beiden Nationalitäten dringend gebieten würde. Wir haben ein solches Zusammengehen auch im Interesse der Stärkung der Position unserer Reichshälfte bei den 
@@ -4508,7 +4584,7 @@
             <index xml:id="Bae_TB_1_3306">
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_3307"/>
             </index>
-          </index>, betreffend den Gebrauch der Landessprachen bei den Behörden, zum Theile gar nicht durchführbar ist. (Lebhafte Zustimmung lints.) Wir fürchten, daß die Einheitlichkeit der 
+          </index>, betreffend den Gebrauch der Landessprachen bei den Behörden, zum Theile gar nicht durchführbar ist. (Lebhafte Zustimmung links.) Wir fürchten, daß die Einheitlichkeit der 
           <index xml:id="Bae_TB_1_3308">
             <term key="Verwaltung" xml:id="Bae_TB_1_3309">Verwaltung</term>
           </index> durch dieselbe gefährdet ist, insbesondere die oberste Controle der Centralstellen gehemmt wird, und daß das in 
@@ -4530,7 +4606,7 @@
             <index xml:id="Bae_TB_1_3321">
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_3322"/>
             </index>
-          </index> eingehen zu wollen, es für dringend geboten erachten, daß es de allseitigen Bemühungen gelingen möge, Abhilfe in der gegenwärtigen politischen Situation zu finden und Raum zu schaffen für eine fruchtbare Arbeit, welche die Bevölkerung des Reiches von uns verlangt, können wir uns dem äußersten, die Gegensätze noch mehr verschärfenden parlamentarischen Mittel, das ist einer Minister-Anklage, nicht anschließen. Wir sind auf das nachdrücklichste zu verlangen berechtigt, daß eine pflichtbewußte Regierung, von einer besseren Einsicht in die schwierigen Verhältnisse in 
+          </index> eingehen zu wollen, es für dringend geboten erachten, daß es den allseitigen Bemühungen gelingen möge, Abhilfe in der gegenwärtigen politischen Situation zu finden und Raum zu schaffen für eine fruchtbare Arbeit, welche die Bevölkerung des Reiches von uns verlangt, können wir uns dem äußersten, die Gegensätze noch mehr verschärfenden parlamentarischen Mittel, das ist einer Minister-Anklage, nicht anschließen. Wir sind auf das nachdrücklichste zu verlangen berechtigt, daß eine pflichtbewußte Regierung, von einer besseren Einsicht in die schwierigen Verhältnisse in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_3323">Böhmen</placeName> und 
           <placeName key="Maehren" ref="https://www.geonames.org/3070359/moravia.html" xml:id="Bae_TB_1_3324">Mähren</placeName> geleitet, sofort Mittel und Wege suchen und finden wird, die sprachlichen Verhältnisse unter Beseitigung der verfehlten Verfügungen (Zustimmung links) auf neuer Basis jener Ordnung entgegenzuführen, ohne welche die wirthschaftliche und politische Entwicklung unseres Vaterlandes unheilvoll ins Stocken gerathen würde. (Beifall links.) Mit Rücksicht auf diese Erklärung stelle ich im Namen meiner Gesinningsgenossen den Antrag: "Das hohe Haus wolle, indem es das Vorgehen der Regierung in Sachen der 
           <index xml:id="Bae_TB_1_3325">
@@ -4766,7 +4842,7 @@
         </p>
         <p xml:id="Bae_TB_1_3501">Die erhebenden Worte, mit welchen Euere 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_1_3502">Majestät</persName> den 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_3503">Reichsrath</orgName> am Beginne einer neuen, fassungsmäßigen Thätigkeit zu begrüßen geruht haben, legen dem 
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_3503">Reichsrath</orgName> am Beginne einer neuen, wichtigen und entscheidungsvollen Periode seiner verfassungsmäßigen Thätigkeit zu begrüßen geruht haben, legen dem 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3504">Abgeordnetenhause</orgName> die patriotische Pflicht auf, Euerer 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_1_3505">Majestät</persName> zuvörderst mit der tiefergebenen Bitte zu nahen, die Gefühle ehrfurchtsvollsten Dankes und unwandelbarer Treue an den Stufen des Allerhöchsten Thrones zum Ausdrucke bringen zu dürfen. Dankerfüllten Herzens nimmt das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3506">Abgeordnetenhaus</orgName> auch jene huldvolle Anerkennung entgegen, die in der Allerhöchsten Thronrede der fruchtbaren legislativen Arbeit der abgelaufenen Session gezollt wird. In dieser Anerkennung erblickt das 
@@ -4820,7 +4896,7 @@
             <abbr xml:id="Bae_TB_1_3454">u.</abbr>
             <expan xml:id="Bae_TB_1_3455">und</expan>
           </choice>
-          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_3456">Stürgkh</persName> nicht zuziehe. Dieses pädagogische Element ist seinerzeit in der " 
+          <persName key="StuergkhKarl" ref="https://d-nb.info/gnd/117677957" xml:id="Bae_TB_1_3456">Stürgkh</persName> nicht zuziehe. Dieses pädagogische Element ist seinerzeit in der "
           <orgName key="VereinigteDeutscheLinke" ref="https://d-nb.info/gnd/1279124679" xml:id="Bae_TB_1_3457">Vereinigten Linken</orgName>" ganz vernachlässigt worden. Weder 
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_TB_1_3458">Herbst</persName>, noch 
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_1_3459">Plener</persName> noch irgend einer dieser Parteimandarine hat "Schule" gemacht, politische 
@@ -4865,11 +4941,11 @@
         <addSpan spanTo="#Bae_TB_1_Bae_TB_1_3486" xml:id="Bae_TB_1_5894"/>
         <p xml:id="Bae_TB_1_3529">Die allergnädigste Zusicherung, dass die Regierung darauf bedacht sein werde, der Landwirtschaft genügenden Schutz gegen bedrohliche Gefahren zu bieten, nimmt das 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3530">Abgeordnetenhaus</orgName> mit Dank zur Kenntnis, doch kann es nicht umhin, auf ein solches bedrohliches Symptom, der jährlich wachsenden Verschuldung und drohenden Überschuldung besonders hinzuweisen. Das 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3531">Abgeordnetenhaus</orgName> verkennt nicht, dass ein Theil dieser fortschreitenden Verschuldung seine Compensation in einer steigenden Bodencultur und intensiveren Wirtschaft findet, aber die Frage der Entschuldung der Landwirtschaft in dem Sinne einer Regelung und Förderung des derzeit vielfach noch regel- und maßlosen landwirtschaftlichen Credits – zwar sowohl in Bezug auf seine Höhe, als bezüglich seiner rechtlichen Form — rückt dennoch unabweislich in den Vordergrund. 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3531">Abgeordnetenhaus</orgName> verkennt nicht, dass ein Theil dieser fortschreitenden Verschuldung seine Compensation in einer steigenden Bodencultur und intensiveren Wirtschaft findet, aber die Frage der Entschuldung der Landwirtschaft in dem Sinne einer Regelung und Förderung des derzeit vielfach noch regel- und maßlosen landwirtschaftlichen Credits – zwar sowohl in Bezug auf seine Höhe, als bezüglich seiner rechtlichen Form – rückt dennoch unabweislich in den Vordergrund. 
         </p>
         <p xml:id="Bae_TB_1_3532">Die allergnädigsten Intentionen, welche Euere 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_1_3533">Majestät</persName> in der Allerhöchsten Thronrede gegenüber allen Zweigen unserer vaterländischen Production ausgesprochen haben, möchte jedoch das 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3534">Abgeordnetenhaus</orgName> noch weiter damit ehrfurchtsvoll beantworten, dass seiner Überzeugung nach, eine wirksame Wirtschaftspolitik ihr Augenmerk nicht nur auf die besprochenen specifischen Förderungsmittel zu richten habe, sondern auch auf den innigen Zusammenhang aller Productionszweige, auf die Schonung der Steuerkraft aller, sowie auf die nothwendige Betheiligung aller Bevölkerungsschichten an socialen und wirtschaftlichen Reformen. Die allgemeine politische und wirtschaftliche Richtung der Regierung wird daher auf die Erziehung tüchtiger Individuen, auf die Weckung der Selbstthätigkeit, auf die Verbreitung nützlicher Kenntnisse, auf die Förderung des reellen Unternehmungsgeistes ebensosehr mit Kraft und Bewusstsein zu lenken sein, wie auf die Herstellung starker Schutzwehren gegen die unlautere Concurrenz, gegen die Wirkungen einer verderblichen Geschäftsmoral, aber auch gegen alle Versuche, bestehende Autoritäten zu untergraben oder Bevölkerungsclassen gegeneinander zu verhetzen, damit unser Vaterland durch die organisirten, vereinigten und geschulten Kräfte des Volkes in dem großen Wettkampfe der modernen Staaten, der ein geistiger und wirtschaftlicher zugleich ist ¬– seine achtunggebietende Stellung erhalte und befestige. 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3534">Abgeordnetenhaus</orgName> noch weiter damit ehrfurchtsvoll beantworten, dass seiner Überzeugung nach, eine wirksame Wirtschaftspolitik ihr Augenmerk nicht nur auf die besprochenen specifischen Förderungsmittel zu richten habe, sondern auch auf den innigen Zusammenhang aller Productionszweige, auf die Schonung der Steuerkraft aller, sowie auf die nothwendige Betheiligung aller Bevölkerungsschichten an socialen und wirtschaftlichen Reformen. Die allgemeine politische und wirtschaftliche Richtung der Regierung wird daher auf die Erziehung tüchtiger Individuen, auf die Weckung der Selbstthätigkeit, auf die Verbreitung nützlicher Kenntnisse, auf die Förderung des reellen Unternehmungsgeistes ebensosehr mit Kraft und Bewusstsein zu lenken sein, wie auf die Herstellung starker Schutzwehren gegen die unlautere Concurrenz, gegen die Wirkungen einer verderblichen Geschäftsmoral, aber auch gegen alle Versuche, bestehende Autoritäten zu untergraben oder Bevölkerungsclassen gegeneinander zu verhetzen, damit unser Vaterland durch die organisirten, vereinigten und geschulten Kräfte des Volkes in dem großen Wettkampfe der modernen Staaten, der ein geistiger und wirtschaftlicher zugleich ist – seine achtunggebietende Stellung erhalte und befestige. 
         </p>
         <p xml:id="Bae_TB_1_3535">Der Aufforderung Euerer 
           <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_1_3536">Majestät</persName>, die auf den 
@@ -5000,7 +5076,7 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_3560">Wien</placeName> aus durch Canäle und binnenländische Wasserstraßen mit den Häfen an den nordischen Meeren. Die Herstellung einer zweiten directen Eisenbahnlinie, die unsere Küste mit den industriereichen nördlichen Provinzen des Reiches näher verbinden soll, wird einem seit langem empfundenen Bedürfnisse entsprechen und der Hebung des Handelsverkehres unseres See-Emporiums, dessen wirtschaftliche Interessen dem 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3561">Abgeordnetenhause</orgName> stets am Herzen liegen werden, wirksam dienen. 
         </p>
-        <p xml:id="Bae_TB_1_3562">Die Belebung und Unterstützung des Seeverkehres nach jeder Richtung wird auch unseren Küstenländern, deren Entwicklung immer dringender eine erhöhte Sorgfalt der Regierung fordert, zugute kommen. Außerdem müßste aber ihren Verbindungen mit den Hinterländern, insbesondere jener 
+        <p xml:id="Bae_TB_1_3562">Die Belebung und Unterstützung des Seeverkehres nach jeder Richtung wird auch unseren Küstenländern, deren Entwicklung immer dringender eine erhöhte Sorgfalt der Regierung fordert, zugute kommen. Außerdem müsste aber ihren Verbindungen mit den Hinterländern, insbesondere jener 
           <placeName key="Dalmatien" ref="https://www.geonames.org/3202210/dalmatia.html" xml:id="Bae_TB_1_3563">Dalmatiens</placeName> mit 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_1_3564">Bosnien und der Hercegovina</placeName> eine größere Beachtung zugewendet werden, wenn in jenen Ländern der Peripherie des Reiches endlich neue und ergiebige Quellen des Wohlstandes erschlossen und unsere Küstenstriche durch einen gesunden Fortschritt noch enger und inniger mit den Gesammtinteressen der Monarchie verknüpft werden sollen. 
         </p>
@@ -5176,7 +5252,7 @@
             <expan xml:id="Bae_TB_1_3738">und</expan>
           </choice> sich ganz ruhig verhalten musste. Der dicke, unbeschreiblich gemeine 
           <persName key="GregorigJosef" ref="https://d-nb.info/gnd/1011385708" xml:id="Bae_TB_1_3739">Gregorik</persName> , der im 
-          <orgName key="LandtagNiederoesterreich" ref="https://d-nb.info/gnd/1223443-6" xml:id="Bae_TB_1_3740">niederösterreichischen Landtag</orgName> Alles durch seine Zwischen 
+          <orgName key="LandtagNiederoesterreich" ref="https://d-nb.info/gnd/1223443-6" xml:id="Bae_TB_1_3740">niederösterreichischen Landtag</orgName> Alles durch seine Zwischen- 
           <pb facs="#F_K-6_Bae_TB_1_109" n="54v" xml:id="Bae_TB_1_5746"/>
           <note type="editorial" xml:id="Bae_TB_1_5810">Diese Seite ist leer.</note>
           <pb facs="#F_K-6_Bae_TB_1_110" n="55r" xml:id="Bae_TB_1_3741"/>rufe terrorisirt hatte, machte nur einmal einen sofort von allen Seiten niedergeschrienen Versuch 
@@ -5185,7 +5261,7 @@
             <expan xml:id="Bae_TB_1_3744">und</expan>
           </choice> saß 
           <del xml:id="Bae_TB_1_3745">dann</del>
-          <add place="across" xml:id="Bae_TB_1_3746">seither</add> ruhig seine Cigarrn rauchend im Couloir wie ein Bierwirth vor der leeren Boutique. 
+          <add place="across" xml:id="Bae_TB_1_3746">seither</add> ruhig seine Cigarre rauchend im Couloir wie ein Bierwirth vor der leeren Boutique. 
         </p>
         <p xml:id="Bae_TB_1_3747">Viele viele Mitglieder der beiden deutschen Parteien schüttelten den Kopf 
           <choice xml:id="Bae_TB_1_3748">
@@ -5338,7 +5414,7 @@
             <index xml:id="Bae_TB_1_3886">
               <term key="Geschaeftsordnung" xml:id="Bae_TB_1_3887"/>
             </index>
-          </index>. Nach dem klaren Wortlaute des §. 6 hat der Präsident nur dann das Recht, die Sitzung zu unterbrechen, wenn dies wegen vorgekommener Störungen unmittelbar nothwendig geworden ist, ein Fall, der am 
+          </index> Nach dem klaren Wortlaute des §. 6 hat der Präsident nur dann das Recht, die Sitzung zu unterbrechen, wenn dies wegen vorgekommener Störungen unmittelbar nothwendig geworden ist, ein Fall, der am 
           <date when="1897-05-26" xml:id="Bae_TB_1_3888">26. Mai</date> nicht vorlag. (So ist es! links.) Es muß zugegeben werden, daß kürzere Unterbrechungen von Sitzungen auch schon aus anderen Gründen, stets mit Zustimmung des 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_3889">Hauses</orgName>, stattgefunden haben, aber niemals ist es vorgekommen und niemals wurde eine Auslegung der 
           <index xml:id="Bae_TB_1_3890">
@@ -5608,7 +5684,7 @@
           <choice xml:id="Bae_TB_1_4043">
             <abbr xml:id="Bae_TB_1_4044">u.</abbr>
             <expan xml:id="Bae_TB_1_4045">und</expan>
-          </choice> nach diesem Zeit 
+          </choice> nach diesem Zeit
           <del rendition="#s" xml:id="Bae_TB_1_4046">punkt</del>
           <add place="across" xml:id="Bae_TB_1_4047">raum</add>, in einer Menge kleiner Thatsachen und Vorkommnisse konnte ich entnehmen, dass die Erbitterung und der Verzweiflungsstandpunkt: es möge kommen was da wolle – geradezu erschreckend 
           <del rendition="#s" xml:id="Bae_TB_1_4048">zunahm</del> zugenommen habe. Die "Führung" – wenn man das überhaupt mit diesem Namen bezeichnen kann – hat jetzt 
@@ -5698,7 +5774,7 @@
         <app from="#Bae_TB_1_4079" type="insertion" xml:id="Bae_TB_1_5913">
           <rdg xml:id="Bae_TB_1_5914">…</rdg>
         </app>
-        <p xml:id="Bae_TB_1_4103">Die von ihm angekündigte Erklärung blieb aber bis jetzt ( 
+        <p xml:id="Bae_TB_1_4103">Die von ihm angekündigte Erklärung blieb aber bis jetzt (
           <date when="1897-09-08" xml:id="Bae_TB_1_4104">8.9.</date>) aus 
           <choice xml:id="Bae_TB_1_4105">
             <abbr xml:id="Bae_TB_1_4106">u.</abbr>
@@ -5766,7 +5842,7 @@
           </index> während der Dauer desselben sistiren, in demselben durch seine Regierung den Versuch machen, die nationalen Verhältnisse aber nicht nur in 
           <placeName key="Boehmen" ref="https://www.geonames.org/3078198/cechy.html" xml:id="Bae_TB_1_4152">Böhmen</placeName>, sondern in ganz 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_1_4153">Österreich</placeName> zu ordnen. Dieser Congress hätte aus Vertrauensmännern zu bestehen gehabt, seine Verhandlungen hätten vielleicht lange gedauert, auch 
-          <add place="across" xml:id="Bae_TB_1_4154">hätte er</add> parallel mit dem im Herbst zu 
+          <add place="across" xml:id="Bae_TB_1_4154">hätte er</add> parallel mit dem im Herbst zu- 
           <pb facs="#F_K-6_Bae_TB_1_125" n="62v" xml:id="Bae_TB_1_5816"/>
           <note type="editorial" xml:id="Bae_TB_1_5817">Diese Seite ist leer.</note>
           <pb facs="#F_K-6_Bae_TB_1_126" n="63r" xml:id="Bae_TB_1_4155"/>sammentretenden 
@@ -5998,7 +6074,7 @@
             <expan xml:id="Bae_TB_1_4328">und</expan>
           </choice> dem Antikencabinet in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_4329">Wien</placeName>. Nach Tisch wurde 
-          <add place="across" xml:id="Bae_TB_1_4330">vor allem das Glöckchen des Eremiten geläutet aber</add> natürlich auch von Politik gesprochen, aber ganz ohne Plan. Nichtsdestoweniger war in allen Zeitungen von diesem Diner die Rede. Die " 
+          <add place="across" xml:id="Bae_TB_1_4330">vor allem das Glöckchen des Eremiten geläutet aber</add> natürlich auch von Politik gesprochen, aber ganz ohne Plan. Nichtsdestoweniger war in allen Zeitungen von diesem Diner die Rede. Die "
           <orgName key="Reichswehr" xml:id="Bae_TB_1_4331">Reichswehr</orgName>" erblickte in diesem Symposion den "Anfang des Anfangs" nämlich eines 
           <choice xml:id="Bae_TB_1_4332">
             <abbr xml:id="Bae_TB_1_4333">polit.</abbr>
@@ -6040,11 +6116,10 @@
         <addSpan spanTo="#Bae_TB_1_5695" type="insertion" xml:id="Bae_TB_1_4377"/>
         <p xml:id="Bae_TB_1_4379">Auf Grund dieser Entscheidung des k. k. Ober-Landesgerichtes in 
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_4380">Wien</placeName> wiederholen wir im Folgenden aus dem von der k. k. Staatsanwaltschaft 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_4381">Wien</placeName> mit Beschlag belegten Morgenblatte der " 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_1_4381">Wien</placeName> mit Beschlag belegten Morgenblatte der "
           <orgName key="NeueFreiePresse" ref="https://d-nb.info/gnd/7640546-1" xml:id="Bae_TB_1_4382">Neuen Freien Presse</orgName>" vom 
           <date when="1897-06-11" xml:id="Bae_TB_1_4383">11.</date> d. den Erlaß, den 
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4384">Minister-Präsident</persName>
-          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4385">Graf Badeni</persName> am 
+          <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4384">Minister-Präsident Graf Badeni</persName> am 
           <date when="1897-06-02" xml:id="Bae_TB_1_4386">2.</date> d. unter der Zahl 5275 an die Statthaltereien und Landespräsidien hinausgegeben hat und in welchem Vorschriften bezüglich des Verhaltens der Regierungsvertreter in Versammlungen gemacht werden. Der Erlaß lautet: 
         </p>
         <p xml:id="Bae_TB_1_4387">"Zu allen in der nächsten Zeit stattfindenden politischen Versammlungen sind politische Conceptsbeamte zu entsenden, vorzugsweise solche, welche mit entsprechender Begabung ein energisches Auftreten verbinden. Hochverrätherischen und unpatriotischen Aeußerungen, wie solche bedauerlicherweise in den letzten Tagen in radical-deutsch-nationalen Versammlungen gefallen sein sollen, ist unbedingt mit allen gesetzlichen Mitteln entgegenzutreten. Hiebei hat als Richtschnur zu dienen, daß es nicht geboten erscheint, durch ein voreiliges Einschreiten zu verhindern, daß ein Redner sich ausspreche, denn, nur auf diese Weise kann der Thatbestand eines Delictes zu Tage treten, daß aber, sobald der Gedanke klar ausgedrückt ist, es sich empfiehlt, nach Constatirung des Sachverhaltes die gefallenen Aeußerungen zu beanstanden, eventuell wegen derselben die Versammlung aufzulösen, weil das passive Verhalten der behördlichen Abgeordneten nur zu oft die erfolgreiche Durchführung des Strafverfahrens erschwert hat und auch das 
@@ -6183,9 +6258,7 @@
             <index xml:id="Bae_TB_1_4470">
               <term key="SprachenverordnungenBadeni" xml:id="Bae_TB_1_4471"/>
             </index>
-          </index> hervorzutreten, ist nicht schwer zu ergründen. 
-        </p>
-        <p xml:id="Bae_TB_1_4472">Er wollte die Czechen – der Unterschied zwischen Alt- und 
+          </index> hervorzutreten, ist nicht schwer zu ergründen. Er wollte die Czechen – der Unterschied zwischen Alt- und 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_4473">Jungczechen</orgName> ist heute blos theoretisch und besteht fast nicht mehr – aus der Opposition herausführen, er brauchte sie für seine Majorität, zur Bewilligung des Budgets, der Wehrgesetze, des 
           <index xml:id="Bae_TB_1_4474">
             <term key="OesterreichUngarn" xml:id="Bae_TB_1_4475">Ausgleiches</term>
@@ -6197,11 +6270,11 @@
           <choice xml:id="Bae_TB_1_4479">
             <abbr xml:id="Bae_TB_1_4480">u.s.w.</abbr>
             <expan xml:id="Bae_TB_1_4481">und so weiter</expan>
-          </choice>, und da das alte Haus seine Legislaltuperiode beendet hatte und die Neuwahlen geänderte Parteiformationen zuwege brachten, so mußte es sein Bestreben sein, die 
+          </choice>, und da das alte Haus seine Legislatuperiode beendet hatte und die Neuwahlen geänderte Parteiformationen zuwege brachten, so mußte es sein Bestreben sein, die 
           <orgName key="Jungtschechen" ref="https://d-nb.info/gnd/3030733-8" xml:id="Bae_TB_1_4482">Jungczechen</orgName> zu gewinnen und eine Majorität zu bilden, aus welcher die gemäßigten Deutschen – der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4483">verfassungstreue Großgrundbesitz</orgName> – nicht ausgeschlossen waren. Dieser Kalkül ist bekanntlich gescheitert. Der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4484">verfassungstreue Großgrundbesitz</orgName> beugte sich unter dem Terrorismus der 
-          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_4485">Deutschfortschrittlichen</orgName> und ergriff im letzten Augenblick die Flucht. Was dann folgle, die Demission des Kabinets, der Zusammenschluß der antonomistischen Parteien, die wilde Obstruktion der Deutschfortschrittlichen, unter Führung des Herrn 
+          <orgName key="Fortschrittspartei" ref="https://d-nb.info/gnd/1041415753" xml:id="Bae_TB_1_4485">Deutschfortschrittlichen</orgName> und ergriff im letzten Augenblick die Flucht. Was dann folgte, die Demission des Kabinets, der Zusammenschluß der autonomistischen Parteien, die wilde Obstruktion der Deutschfortschrittlichen, unter Führung des Herrn 
           <persName key="SchoenererGeorg" ref="https://d-nb.info/gnd/118610163" xml:id="Bae_TB_1_4486">Schönerer</persName>, ist bekannt und braucht nicht wiederholt zu werden. Aber eine Thatsache ist noch nicht in die Oeffentlichkeit gekommen, verdient jedoch besonders hervorgehoben zu werden, weil sie die Tendenz der so gesteigerten Opposition der deutsch-böhmischen Abgeordneten, die noch jetzt den Lauf der Dinge in so hohem Maße beeinflussen, in ein anderes Licht zu stellen geeignet ist. Wenige Tage vor der Publikation der 
           <index xml:id="Bae_TB_1_4487">
             <term key="Reichsrat" xml:id="Bae_TB_1_4488">Sprachenverordnungen</term>
@@ -6227,7 +6300,7 @@
           <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_1_4502">Dr. Bärenreuther</persName> beim 
           <persName key="BadeniKasimir" ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_1_4503">Minister-Präsidenten</persName> erschienen sein und erklärt haben, daß gegen diese Verordnungen vom deutschen Standpunkte nichts einzuwenden sei. Und dennoch hat sich der 
           <orgName key="VerfassungstreuerGrossgrundbesitz" ref="https://d-nb.info/gnd/2120665-X" xml:id="Bae_TB_1_4504">verfassungstreue Großgrundbesitz</orgName> veranlaßt gesehen, der Obstruktion beizutreten oder nichts zu thun, was deren Mäßigung veranlaßt hätte. Unter allen Umständen ist ein solches Vorgehen unerklärlich. Von czechischer Seite wurde die wilde Obstruktion mit großer Befriedigung aufgenommen. Die Czechen sind von Hause aus Gegner des Zentralismus und möchten am liebsten die ganze legislative Thätigkeit in die Landtage zurückversetzt und das 
-          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_4505">Abgeordetenhaus</orgName> auf die Verhandlung der Budget- und Wehrvorlagen beschränkt sehen; darum ist von ihrer Seite – obwohl sie die stärkste Partei im 
+          <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_1_4505">Abgeordnetenhaus</orgName> auf die Verhandlung der Budget- und Wehrvorlagen beschränkt sehen; darum ist von ihrer Seite – obwohl sie die stärkste Partei im 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_1_4506">Parlament</orgName> bilden – nichts geschehen, um die Obstruktion einzudämmen. 
           <app from="#Bae_MF_1_4263" type="missing" xml:id="Bae_TB_1_6068">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_6069"/>
