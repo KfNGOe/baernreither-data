@@ -3494,10 +3494,11 @@
           <placeName key="Meran" ref="https://www.geonames.org/3173577/merano.html" xml:id="Bae_TB_8_2668">Meran</placeName>
           <date when="1908-12-09" type="diaryEntry" xml:id="Bae_TB_8_2669">19.12.08</date>
         </head>
-        <p xml:id="Bae_TB_8_2670">Herrlicher Spaziergang <orgName key="Fragsburg" ref="https://d-nb.info/gnd/1375646559">Fragsburg</orgName>. Auf dem Weg 
+        <p xml:id="Bae_TB_8_2670">Herrlicher Spaziergang 
+          <orgName key="Fragsburg" ref="https://d-nb.info/gnd/1375646559" xml:id="Bae_TB_8_5200">Fragsburg</orgName>. Auf dem Weg 
           <persName key="BeckPaul" ref="https://d-nb.info/gnd/142414956" xml:id="Bae_TB_8_2671">Dr. Beck</persName> getroffen. Wie immer interessant. Erzählt dass der franz. Botschafter 
           <persName key="BarrereCamille" ref="https://d-nb.info/gnd/116059680" xml:id="Bae_TB_8_2672">Barere</persName> in 
-          <placeName key="Rom" ref="https://www.geonames.org/3169071/roma.html" xml:id="Bae_TB_8_2673">Rom</placeName> 1/2 Mill. Frs Repraesentationsgelder hat die er zu umfangreicher Bestechung der Presse
+          <placeName key="Rom" ref="https://www.geonames.org/3169071/roma.html" xml:id="Bae_TB_8_2673">Rom</placeName> 1/2 Mill. Frs Repraesentationsgelder hat die er zu umfangreicher Bestechung der Presse 
           <choice xml:id="Bae_TB_8_2675">
             <abbr xml:id="Bae_TB_8_2676">u.</abbr>
             <expan xml:id="Bae_TB_8_2677">und</expan>
@@ -3526,7 +3527,13 @@
             <abbr xml:id="Bae_TB_8_5089">böhm.</abbr>
             <expan xml:id="Bae_TB_8_5090">böhmischen</expan>
           </choice> Verhältnisse zu sprechen. An Stelle des einstigen "Bohemismus" ist der Völkerhass getreten. 
-          <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_8_2690">Beck</persName> schreibt das Uebel der Entfremdung in den <index><term key="Nationalitaetenkonflikt">Schulen</term><index><term key="Schulwesen"/></index></index> zu. 
+          <persName key="BeckMaxWladimir" ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_8_2690">Beck</persName> schreibt das Uebel der Entfremdung in den 
+          <index xml:id="Bae_TB_8_5201">
+            <term key="Nationalitaetenkonflikt" xml:id="Bae_TB_8_5202">Schulen</term>
+            <index xml:id="Bae_TB_8_5203">
+              <term key="Schulwesen" xml:id="Bae_TB_8_5204"/>
+            </index>
+          </index> zu. 
           <persName key="HerbstEduard" ref="https://d-nb.info/gnd/116729074" xml:id="Bae_TB_8_2691">Herbst</persName>
           <choice xml:id="Bae_TB_8_2692">
             <abbr xml:id="Bae_TB_8_2693">u.</abbr>
@@ -3553,7 +3560,10 @@
               <expan xml:id="Bae_TB_8_5093">Augsburger</expan>
             </choice> Postzeitung 
           </orgName>
-          <note type="editorial" xml:id="Bae_TB_8_2707">Der Artikel ist nicht erhalten.</note> erhielt ich mit einem gedruckten Circular worin aufgefordert wird mitzuarbeiten, damit das <index><term key="Zweibund">deutsch-öst. Bündnis</term></index> auf neue, sittliche Grundlagen gestellt würde. Ich witterte sofort clericale oder christlich- 
+          <note type="editorial" xml:id="Bae_TB_8_2707">Der Artikel ist nicht erhalten.</note> erhielt ich mit einem gedruckten Circular worin aufgefordert wird mitzuarbeiten, damit das 
+          <index xml:id="Bae_TB_8_5205">
+            <term key="Zweibund" xml:id="Bae_TB_8_5206">deutsch-öst. Bündnis</term>
+          </index> auf neue, sittliche Grundlagen gestellt würde. Ich witterte sofort clericale oder christlich- 
           <choice xml:id="Bae_TB_8_5094">
             <abbr xml:id="Bae_TB_8_5095">soc.</abbr>
             <expan xml:id="Bae_TB_8_5096">sociale</expan>
@@ -3574,8 +3584,14 @@
           <choice xml:id="Bae_TB_8_2719">
             <abbr xml:id="Bae_TB_8_2720">u.</abbr>
             <expan xml:id="Bae_TB_8_2721">und</expan>
-          </choice> damit auch eine neue Aera diplomatischer Methode inauguriert. Unsere Diplomaten haben zu wenig Fühlung mit jenen Kreisen der Bevölkerung in denen die eigentlichen, letzten politischen Motive auch der äussern Politik liegen. Die <index><term key="Presse">Presse</term></index> spielt heute als der Ausdruck der verschiedensten Strömungen eine immer noch nicht genügend bewertete Macht. In andern Staaten hat man das erkannt. Sehr interessant, wie 
-          <placeName key="Frankreich" ref="https://www.geonames.org/3017382/republic-of-france.html" xml:id="Bae_TB_8_2722">Frankreich</placeName> es z.B. versteht, in der italienischen <index><term key="Presse">Presse</term></index> seine Interessen dem Verständnis des italienischen Publicums nahezubringen. Wir leiden immer noch an der Unterschätzung dieser grossen Wandlung im Volksleben 
+          </choice> damit auch eine neue Aera diplomatischer Methode inauguriert. Unsere Diplomaten haben zu wenig Fühlung mit jenen Kreisen der Bevölkerung in denen die eigentlichen, letzten politischen Motive auch der äussern Politik liegen. Die 
+          <index xml:id="Bae_TB_8_5207">
+            <term key="Presse" xml:id="Bae_TB_8_5208">Presse</term>
+          </index> spielt heute als der Ausdruck der verschiedensten Strömungen eine immer noch nicht genügend bewertete Macht. In andern Staaten hat man das erkannt. Sehr interessant, wie 
+          <placeName key="Frankreich" ref="https://www.geonames.org/3017382/republic-of-france.html" xml:id="Bae_TB_8_2722">Frankreich</placeName> es z.B. versteht, in der italienischen 
+          <index xml:id="Bae_TB_8_5209">
+            <term key="Presse" xml:id="Bae_TB_8_5210">Presse</term>
+          </index> seine Interessen dem Verständnis des italienischen Publicums nahezubringen. Wir leiden immer noch an der Unterschätzung dieser grossen Wandlung im Volksleben 
           <choice xml:id="Bae_TB_8_2723">
             <abbr xml:id="Bae_TB_8_2724">u.</abbr>
             <expan xml:id="Bae_TB_8_2725">und</expan>
@@ -3647,12 +3663,36 @@
           </orgName> angeschlagene Thema. Viel Wahres. Die Gefaren der polit. Situation werden nicht geringer. 
         </p>
         <p xml:id="Bae_TB_8_2769">
-          <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_8_2770">Lueger</persName> beantragt <index><term key="OesterreichUngarn">Handelsvertrag</term><index><term key="Handelsvertraege"/></index></index> mit 
+          <persName key="LuegerKarl" ref="https://d-nb.info/gnd/118729578" xml:id="Bae_TB_8_2770">Lueger</persName> beantragt 
+          <index xml:id="Bae_TB_8_5211">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_5212">Handelsvertrag</term>
+            <index xml:id="Bae_TB_8_5213">
+              <term key="Handelsvertraege" xml:id="Bae_TB_8_5214"/>
+            </index>
+          </index> mit 
           <placeName key="Rumaenien" ref="https://www.geonames.org/798549/romania.html" xml:id="Bae_TB_8_2771">Rumänien</placeName>. Es hängt das alles zusammen, Spitze gegen 
           <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_2772">Ungarn</placeName>. 
         </p>
         <p xml:id="Bae_TB_8_2773">Ich war gestern in der hiesigen Krankencasse. Sie ist von lauter Soci geleitet ( 
-          <persName key="Pichler" xml:id="Bae_TB_8_2774">Pichler</persName>), die aber über die <index><term key="Reichsrat">Socialversicherung</term><index><term key="Sozialversicherung"/></index></index> sehr vernünftig sprachen. In der Zeitschrift Arbeitsschutz (N. 22, 23, 24 ex 1908) ist die Organisation der Vorlage critisirt. Die Herren machten bezüglich der Vorlage nachstehende Bemerkungen. Betrag von 2400 K als Grenze ist für Oest. hohe Löhne zu niedrig. Den Bezirksstellen wird die Evidenzhaltung sehr schwer werden, auch machtlos gg die Simulation. Regierungsvorlage wird Doppelarbeit machen. Evidenz müsse sowol bei den <index><term key="Oesterreich">Krankenkassen</term><index><term key="Krankenkassen"/></index></index> als bei den Bezirksstellen gefürt werden. Kassa müsse bei den <index><term key="Oesterreich">Krankencassen</term><index><term key="Krankenkassen"/></index></index> 
+          <persName key="Pichler" xml:id="Bae_TB_8_2774">Pichler</persName>), die aber über die 
+          <index xml:id="Bae_TB_8_5215">
+            <term key="Reichsrat" xml:id="Bae_TB_8_5216">Socialversicherung</term>
+            <index xml:id="Bae_TB_8_5217">
+              <term key="Sozialversicherung" xml:id="Bae_TB_8_5218"/>
+            </index>
+          </index> sehr vernünftig sprachen. In der Zeitschrift Arbeitsschutz (N. 22, 23, 24 ex 1908) ist die Organisation der Vorlage critisirt. Die Herren machten bezüglich der Vorlage nachstehende Bemerkungen. Betrag von 2400 K als Grenze ist für Oest. hohe Löhne zu niedrig. Den Bezirksstellen wird die Evidenzhaltung sehr schwer werden, auch machtlos gg die Simulation. Regierungsvorlage wird Doppelarbeit machen. Evidenz müsse sowol bei den 
+          <index xml:id="Bae_TB_8_5219">
+            <term key="Oesterreich" xml:id="Bae_TB_8_5220">Krankenkassen</term>
+            <index xml:id="Bae_TB_8_5221">
+              <term key="Krankenkassen" xml:id="Bae_TB_8_5222"/>
+            </index>
+          </index> als bei den Bezirksstellen gefürt werden. Kassa müsse bei den 
+          <index xml:id="Bae_TB_8_5223">
+            <term key="Oesterreich" xml:id="Bae_TB_8_5224">Krankencassen</term>
+            <index xml:id="Bae_TB_8_5225">
+              <term key="Krankenkassen" xml:id="Bae_TB_8_5226"/>
+            </index>
+          </index>
           <choice xml:id="Bae_TB_8_2775">
             <abbr xml:id="Bae_TB_8_2776">u.</abbr>
             <expan xml:id="Bae_TB_8_2777">und</expan>
@@ -3660,7 +3700,13 @@
           <pb facs="#F_K-5_Bae_TB_8_098" n="47v" xml:id="Bae_TB_8_2778"/>
           <note type="editorial" xml:id="Bae_TB_8_2779">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8_099" n="48r" xml:id="Bae_TB_8_2780"/>Die Herren sind natürlich 
-          <hi rendition="#ul" xml:id="Bae_TB_8_2781">für</hi> die Organisation der <index><term key="Oesterreich">Krankenkasse</term><index><term key="Krankenkassen"/></index></index> und lehnen die "Bezirksstellen" energisch ab. Beamte derselben werden nicht die nötige Fühlung mit der Bevölkerung haben. Grosse Kosten. 
+          <hi rendition="#ul" xml:id="Bae_TB_8_2781">für</hi> die Organisation der 
+          <index xml:id="Bae_TB_8_5227">
+            <term key="Oesterreich" xml:id="Bae_TB_8_5228">Krankenkasse</term>
+            <index xml:id="Bae_TB_8_5229">
+              <term key="Krankenkassen" xml:id="Bae_TB_8_5230"/>
+            </index>
+          </index> und lehnen die "Bezirksstellen" energisch ab. Beamte derselben werden nicht die nötige Fühlung mit der Bevölkerung haben. Grosse Kosten. 
         </p>
         <p xml:id="Bae_TB_8_2782">Es ist die alte Geschichte. Man darf den Soci nicht die Gelegenheit absperren sich praktisch zu betätigen. Sie tun es im Falle der 
           <placeName key="Meran" ref="https://www.geonames.org/3173577/merano.html" xml:id="Bae_TB_8_2783">Meraner</placeName> Casse sehr gut. Ich überzeugte mich von ihrer Buchführung 
@@ -3677,7 +3723,20 @@
           <choice xml:id="Bae_TB_8_5117">
             <abbr xml:id="Bae_TB_8_5118">öster.</abbr>
             <expan xml:id="Bae_TB_8_5119">österreichische</expan>
-          </choice> <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8">Socialdemokratie</orgName> arbeitet sachlich, wenn auch vielleicht im einseitigen Interesse ihrer Anhänger. Das Letztere müsste bei der <index><term key="Reichsrat">Socialversicherung</term><index><term key="Sozialversicherung"/></index></index> verhindert werden, aber die Autonomie der <index><term key="Oesterreich">Kassen</term><index><term key="Krankenkassen"/></index></index> müsste man zu retten trachten. 
+          </choice>
+          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_8_5231">Socialdemokratie</orgName> arbeitet sachlich, wenn auch vielleicht im einseitigen Interesse ihrer Anhänger. Das Letztere müsste bei der 
+          <index xml:id="Bae_TB_8_5232">
+            <term key="Reichsrat" xml:id="Bae_TB_8_5233">Socialversicherung</term>
+            <index xml:id="Bae_TB_8_5234">
+              <term key="Sozialversicherung" xml:id="Bae_TB_8_5235"/>
+            </index>
+          </index> verhindert werden, aber die Autonomie der 
+          <index xml:id="Bae_TB_8_5236">
+            <term key="Oesterreich" xml:id="Bae_TB_8_5237">Kassen</term>
+            <index xml:id="Bae_TB_8_5238">
+              <term key="Krankenkassen" xml:id="Bae_TB_8_5239"/>
+            </index>
+          </index> müsste man zu retten trachten. 
         </p>
         <p xml:id="Bae_TB_8_2792">Die 
           <placeName key="Mannheim" ref="https://www.geonames.org/6559162/mannheim-universitaetsstadt.html" xml:id="Bae_TB_8_2793">Mannheimer</placeName>
@@ -3685,11 +3744,13 @@
           <choice xml:id="Bae_TB_8_5121">
             <abbr xml:id="Bae_TB_8_5122">öst.</abbr>
             <expan xml:id="Bae_TB_8_5123">österreichischen</expan>
-          </choice> <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8">Socialisten</orgName> für das Budget mit Recht, die 
+          </choice>
+          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_8_5240">Socialisten</orgName> für das Budget mit Recht, die 
           <choice xml:id="Bae_TB_8_5124">
             <abbr xml:id="Bae_TB_8_5125">öst.</abbr>
             <expan xml:id="Bae_TB_8_5126">österreichischen</expan>
-          </choice> <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8">Socialdemokratie</orgName> habe dadurch den 
+          </choice>
+          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_8_5241">Socialdemokratie</orgName> habe dadurch den 
           <hi rendition="#ul" xml:id="Bae_TB_8_2795">Staat 
             <choice xml:id="Bae_TB_8_2796">
               <abbr xml:id="Bae_TB_8_2797">u.</abbr>
@@ -3728,7 +3789,8 @@
           <persName key="HoepliUlrico" ref="https://d-nb.info/gnd/119422271" xml:id="Bae_TB_8_2821">Ulrico Hoepli</persName>
           <placeName key="Mailand" ref="https://www.geonames.org/3173435/milan.html" xml:id="Bae_TB_8_2822">Mailand</placeName> Corso Vittorio Emanuele. 
         </p>
-        <p xml:id="Bae_TB_8_2823">Carte segrete ratti ufficiali della <orgName key="Polizei" ref="https://d-nb.info/gnd/2080257-2">Polizia austriaca</orgName> in 
+        <p xml:id="Bae_TB_8_2823">Carte segrete ratti ufficiali della 
+          <orgName key="Polizei" ref="https://d-nb.info/gnd/2080257-2" xml:id="Bae_TB_8_5242">Polizia austriaca</orgName> in 
           <orgName key="Italien" ref="https://www.geonames.org/3175395/italian-republic.html" xml:id="Bae_TB_8_5172">Italia</orgName> del 4 Giugno 1814 al 22 Marzo 1848, 3 vol Capolago 1851. 
         </p>
         <p xml:id="Bae_TB_8_2825">Von 
@@ -3799,10 +3861,19 @@
           <persName key="DimitrijevicLazo" xml:id="Bae_TB_8_2872">Dr. Dimitrijevic</persName>, Redakteur des " 
           <orgName key="Dan" xml:id="Bae_TB_8_2873">Dan</orgName>" aus 
           <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html" xml:id="Bae_TB_8_2874">Sarajewo</placeName>, bei mir. Er hat mir stundenlang von den agrarischen Verhältnissen 
-          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_2875">Bosniens</placeName> erzählt, von der <index><term key="Bosnien">Wahlordnung</term><index><term key="Wahlordnung"/></index></index>, über die jetzt entschieden werden wird und über die Stimmung der Serben. Diese seien in den Städten vielfach irredentistisch, das Landvolk sei aber gut. Er hält deswegen 
+          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_2875">Bosniens</placeName> erzählt, von der 
+          <index xml:id="Bae_TB_8_5243">
+            <term key="Bosnien" xml:id="Bae_TB_8_5244">Wahlordnung</term>
+            <index xml:id="Bae_TB_8_5245">
+              <term key="Wahlordnung" xml:id="Bae_TB_8_5246"/>
+            </index>
+          </index>, über die jetzt entschieden werden wird und über die Stimmung der Serben. Diese seien in den Städten vielfach irredentistisch, das Landvolk sei aber gut. Er hält deswegen 
           <add place="across" xml:id="Bae_TB_8_2876">für 
             <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_2877">Österreich</placeName>
-          </add> ein breites <index><term key="Wahlrecht">Wahlrecht</term></index> für besser. 
+          </add> ein breites 
+          <index xml:id="Bae_TB_8_5247">
+            <term key="Wahlrecht" xml:id="Bae_TB_8_5248">Wahlrecht</term>
+          </index> für besser. 
         </p>
         <p xml:id="Bae_TB_8_2878">(Aus Seite 1 der beiliegenden Zusammenstellung).</p>
         <p xml:id="Bae_TB_8_2879">Alles bekannte Sachen, aber wann wird man die Konsequenzen ziehen?</p>
@@ -3946,7 +4017,13 @@
           <!-- CA: anchor für addspan 49e -->
           <pb facs="#F_K-5_Bae_TB_8_109" n="49f" xml:id="Bae_TB_8_2974"/>
           <addSpan spanTo="#Bae_TB_8_5107" type="insertion" xml:id="Bae_TB_8_5106"/>Ebenso Wasserleitungen, an denen auch grosser Mangel sei. Endlich Dammbauten an der 
-          <placeName key="Save" ref="https://www.geonames.org/1027190/save.html" xml:id="Bae_TB_8_2975">Save</placeName>. Das wären nützliche Zeichen der <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index>. Es wäre auf diese Weise viel Boden zu gewinnen. Mit einem Wort: er verlangt eine Aktion für 
+          <placeName key="Save" ref="https://www.geonames.org/1027190/save.html" xml:id="Bae_TB_8_2975">Save</placeName>. Das wären nützliche Zeichen der 
+          <index xml:id="Bae_TB_8_5249">
+            <term key="Bosnien" xml:id="Bae_TB_8_5250">Annexion</term>
+            <index xml:id="Bae_TB_8_5251">
+              <term key="Annexion" xml:id="Bae_TB_8_5252"/>
+            </index>
+          </index>. Es wäre auf diese Weise viel Boden zu gewinnen. Mit einem Wort: er verlangt eine Aktion für 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_2976">Bosnien</placeName>, so wie man sie für 
           <placeName key="Dalmatien" ref="https://www.geonames.org/3202210/dalmatia.html" xml:id="Bae_TB_8_2977">Dalmatien</placeName> versprochen hat, ein Programm, aus dem die Bevölkerung sehen würde, dass es jetzt anders ist und endlich etwas für sie geschieht. 
         </p>
@@ -3999,7 +4076,13 @@
           <choice xml:id="Bae_TB_8_3009">
             <abbr xml:id="Bae_TB_8_3010">u.</abbr>
             <expan xml:id="Bae_TB_8_3011">und</expan>
-          </choice> Land getrennt in den <index><term key="Bosnien">Wahlen</term><index><term key="Wahlordnung"/></index></index>, aber in beiden 
+          </choice> Land getrennt in den 
+          <index xml:id="Bae_TB_8_5253">
+            <term key="Bosnien" xml:id="Bae_TB_8_5254">Wahlen</term>
+            <index xml:id="Bae_TB_8_5255">
+              <term key="Wahlordnung" xml:id="Bae_TB_8_5256"/>
+            </index>
+          </index>, aber in beiden 
           <choice xml:id="Bae_TB_8_3012">
             <abbr xml:id="Bae_TB_8_3013">allgem.</abbr>
             <expan xml:id="Bae_TB_8_3014">allgemeines</expan>
@@ -4027,7 +4110,13 @@
           <choice xml:id="Bae_TB_8_3028">
             <abbr xml:id="Bae_TB_8_3029">u.</abbr>
             <expan xml:id="Bae_TB_8_3030">und</expan>
-          </choice> diese verteilen sich vielleicht auf 100 Wahlstimmen, wenn man nur die Ältesten der Zadruga stimmen lässt. Daneben etwa 300 kleine Steuerzahler der andern Schichte. Wenn man nun ein <index><term key="Bosnien">Censuswahlrecht</term><index><term key="Wahlordnung"/></index></index> einführt, so überstimmen diese Kleinen die Ältesten der Zadruga, während wenn man ein breites Wahlrecht gewährt, alle Mitglieder der Zadruga diese kleinen Besitzer überstimmen. Diese Kleinen sind aber die wirtschaftlich 
+          </choice> diese verteilen sich vielleicht auf 100 Wahlstimmen, wenn man nur die Ältesten der Zadruga stimmen lässt. Daneben etwa 300 kleine Steuerzahler der andern Schichte. Wenn man nun ein 
+          <index xml:id="Bae_TB_8_5257">
+            <term key="Bosnien" xml:id="Bae_TB_8_5258">Censuswahlrecht</term>
+            <index xml:id="Bae_TB_8_5259">
+              <term key="Wahlordnung" xml:id="Bae_TB_8_5260"/>
+            </index>
+          </index> einführt, so überstimmen diese Kleinen die Ältesten der Zadruga, während wenn man ein breites Wahlrecht gewährt, alle Mitglieder der Zadruga diese kleinen Besitzer überstimmen. Diese Kleinen sind aber die wirtschaftlich 
           <choice xml:id="Bae_TB_8_3031">
             <abbr xml:id="Bae_TB_8_3032">u.</abbr>
             <expan xml:id="Bae_TB_8_3033">und</expan>
@@ -4045,7 +4134,13 @@
               <abbr xml:id="Bae_TB_8_3042">Dvic</abbr>
               <expan xml:id="Bae_TB_8_3043">Dimitrijevic</expan>
             </choice>
-          </persName> ist der Überzeugung dass hier das breitere <index><term key="Bosnien">Wahlrecht</term><index><term key="Wahlordnung"/></index></index> das conservativere, für 
+          </persName> ist der Überzeugung dass hier das breitere 
+          <index xml:id="Bae_TB_8_5261">
+            <term key="Bosnien" xml:id="Bae_TB_8_5262">Wahlrecht</term>
+            <index xml:id="Bae_TB_8_5263">
+              <term key="Wahlordnung" xml:id="Bae_TB_8_5264"/>
+            </index>
+          </index> das conservativere, für 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3044">Österreich</placeName> günstigere ist. Er glaubt auch, dass 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3045">Österreich</placeName> wenn es ein breites Wahlrecht gewährt, sich bei 
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3046">England</placeName> usw. im Ausland rechtfertigen 
@@ -4074,10 +4169,12 @@
           <placeName key="Bugojno" ref="https://www.geonames.org/3203099/bugojno.html" xml:id="Bae_TB_8_3063">Bugojno</placeName>- 
           <placeName key="Travnik" ref="https://www.geonames.org/3188924/travnik.html" xml:id="Bae_TB_8_3064">Travnik</placeName>- 
           <placeName key="Zenica" ref="https://www.geonames.org/3186573/zenica.html" xml:id="Bae_TB_8_3065">Zenica</placeName>. Dadurch gemischtes System, aber die Hauptlinien zwischen 
-            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_8_3067">
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_5265">
+            <choice xml:id="Bae_TB_8_3067">
               <abbr xml:id="Bae_TB_8_3068">Ö.-U.</abbr>
               <expan xml:id="Bae_TB_8_3069">Österreich-Ungarn</expan>
-            </choice></placeName>
+            </choice>
+          </placeName>
         </p>
         <p xml:id="Bae_TB_8_3070">
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3071">Serbien</placeName> ist wirtschaftlich erdrosselt. Das darf 
@@ -4098,8 +4195,20 @@
           <choice xml:id="Bae_TB_8_3082">
             <abbr xml:id="Bae_TB_8_3083">u.</abbr>
             <expan xml:id="Bae_TB_8_3084">und</expan>
-          </choice> will indirektes <index><term key="Bosnien">Wahlrecht</term><index><term key="Wahlordnung"/></index></index> machen, und zwar die Urwahlen nach 
-          <hi rendition="#ul" xml:id="Bae_TB_8_3085">gleichem allgemeinen</hi> <index><term key="Bosnien">Wahlrecht</term><index><term key="Wahlordnung"/></index></index>, wodurch die Mitglieder der Zadruga stimmberechtigt werden. 
+          </choice> will indirektes 
+          <index xml:id="Bae_TB_8_5266">
+            <term key="Bosnien" xml:id="Bae_TB_8_5267">Wahlrecht</term>
+            <index xml:id="Bae_TB_8_5268">
+              <term key="Wahlordnung" xml:id="Bae_TB_8_5269"/>
+            </index>
+          </index> machen, und zwar die Urwahlen nach 
+          <hi rendition="#ul" xml:id="Bae_TB_8_3085">gleichem allgemeinen</hi>
+          <index xml:id="Bae_TB_8_5270">
+            <term key="Bosnien" xml:id="Bae_TB_8_5271">Wahlrecht</term>
+            <index xml:id="Bae_TB_8_5272">
+              <term key="Wahlordnung" xml:id="Bae_TB_8_5273"/>
+            </index>
+          </index>, wodurch die Mitglieder der Zadruga stimmberechtigt werden. 
         </p>
         <p xml:id="Bae_TB_8_3086">Bezüglich der poljes sagt 
           <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755" xml:id="Bae_TB_8_3087">Burian</persName>, dass das Livanisko polje schon zum grossen Teil entwässert sei; auch sind die culturtechnischen Aufgaben nicht so einfach 
@@ -4141,7 +4250,13 @@
         <anchor xml:id="Bae_TB_8_3113"/>
         <!-- CA: anchor für den addspan ab fol. 49i -->
         <pb facs="#F_K-5_Bae_TB_8_114" n="50r" xml:id="Bae_TB_8_3114"/>
-        <p xml:id="Bae_TB_8_3115">Rechnung präsentiert erhalten würden. Die Freude an der <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> würde uns durch eine nachträgliche Rechnung 
+        <p xml:id="Bae_TB_8_3115">Rechnung präsentiert erhalten würden. Die Freude an der 
+          <index xml:id="Bae_TB_8_5274">
+            <term key="Bosnien" xml:id="Bae_TB_8_5275">Annexion</term>
+            <index xml:id="Bae_TB_8_5276">
+              <term key="Annexion" xml:id="Bae_TB_8_5277"/>
+            </index>
+          </index> würde uns durch eine nachträgliche Rechnung 
           <del rendition="#s" xml:id="Bae_TB_8_3116">gründlich verdorben</del>
           <add place="across" xml:id="Bae_TB_8_3117">getrübt</add> werden. 
           <del rendition="#s" xml:id="Bae_TB_8_3118">Aber ernst genommen: große parlamentarische Schwierigkeiten und keine leichte Form für die Sachen [...]</del>
@@ -4158,7 +4273,8 @@
           <add place="across" xml:id="Bae_TB_8_3127">Auf meine Frage ob</add>, wenn gezahlt ist, 
           <del rendition="#s" xml:id="Bae_TB_8_3128">wird</del> dann sicher Ruhe 
           <del rendition="#s" xml:id="Bae_TB_8_3129">sein</del>
-          <add place="across" xml:id="Bae_TB_8_3130">eintreten werde</add>, beantwortete er: jedenfalls wird unsere Stellung viel besser sein, das <orgName key="ParlamentOsmanischesReich" ref="https://d-nb.info/gnd/4532731-2">türkische Parlament</orgName> 
+          <add place="across" xml:id="Bae_TB_8_3130">eintreten werde</add>, beantwortete er: jedenfalls wird unsere Stellung viel besser sein, das 
+          <orgName key="ParlamentOsmanischesReich" ref="https://d-nb.info/gnd/4532731-2" xml:id="Bae_TB_8_5278">türkische Parlament</orgName>
           <del rendition="#s" xml:id="Bae_TB_8_3131">müsste</del>
           <add place="across" xml:id="Bae_TB_8_3132">wird</add> zu dem Abkommen ja sagen 
           <choice xml:id="Bae_TB_8_3133">
@@ -4194,11 +4310,19 @@
         <pb facs="#F_K-5_Bae_TB_8_116" n="51r" xml:id="Bae_TB_8_3157"/>
         <p xml:id="Bae_TB_8_3158">
           <persName key="SchoenaichFranzXaver" ref="https://d-nb.info/gnd/129442577" xml:id="Bae_TB_8_3160">Schönaich</persName> stellt die ungarischen Forderungen als Notwendigkeit hin. 
-          <hi rendition="#ul" xml:id="Bae_TB_8_3161">Preis</hi>: die an das 9erComite gemachten Concessionen: Fahnenbänder, Regimentsprache ungarisch. Dafür: Wehrgesetz, Erhöhung des <index><term key="UngarischerReichstag">Rekrutenkontingents</term><index><term key="Rekrutenkontingent"/></index></index>, Dauer der Abmachung bis 1926. Kommando- und Dienstsprache bleibt Deutsch. 
-          <persName key="SchoenaichFranzXaver" ref="https://d-nb.info/gnd/129442577"><choice xml:id="Bae_TB_8_3162">
-            <abbr xml:id="Bae_TB_8_3163">Sch.</abbr>
-            <expan xml:id="Bae_TB_8_3164">Schönaich</expan>
-          </choice></persName> meint, dass heute die ungarischen Regimenter sicherer sind als die böhmischen. In 
+          <hi rendition="#ul" xml:id="Bae_TB_8_3161">Preis</hi>: die an das 9erComite gemachten Concessionen: Fahnenbänder, Regimentsprache ungarisch. Dafür: Wehrgesetz, Erhöhung des 
+          <index xml:id="Bae_TB_8_5279">
+            <term key="UngarischerReichstag" xml:id="Bae_TB_8_5280">Rekrutenkontingents</term>
+            <index xml:id="Bae_TB_8_5281">
+              <term key="Rekrutenkontingent" xml:id="Bae_TB_8_5282"/>
+            </index>
+          </index>, Dauer der Abmachung bis 1926. Kommando- und Dienstsprache bleibt Deutsch. 
+          <persName key="SchoenaichFranzXaver" ref="https://d-nb.info/gnd/129442577" xml:id="Bae_TB_8_5283">
+            <choice xml:id="Bae_TB_8_3162">
+              <abbr xml:id="Bae_TB_8_3163">Sch.</abbr>
+              <expan xml:id="Bae_TB_8_3164">Schönaich</expan>
+            </choice>
+          </persName> meint, dass heute die ungarischen Regimenter sicherer sind als die böhmischen. In 
           <placeName key="Jungbunzlau" ref="https://www.geonames.org/3070543/okres-mlada-boleslav.html" xml:id="Bae_TB_8_3167">Jungbunzlau</placeName>
           <add place="across" xml:id="Bae_TB_8_3168">kam es</add> beim Einwaggonieren der Bataillone nach 
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3169">Bosnien</placeName>
@@ -4218,7 +4342,13 @@
           <persName key="PacherRafael" ref="https://d-nb.info/gnd/124749275" xml:id="Bae_TB_8_3180">Pacher</persName>, 
           <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765" xml:id="Bae_TB_8_3181">Chiari</persName>, ich). Gegenstand: Flottmachung des 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3182">Landtages</orgName>. Ich machte den Vorschlag man solle für die Constituierung des 
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3183">Landtages</orgName> <index><term key="BoehmischerLandtag">Obstruction</term><index><term key="Obstruktion"/></index></index> ausschalten und stellte das gemeinverständliche Dilemma auf: Constituierung des 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3183">Landtages</orgName>
+          <index xml:id="Bae_TB_8_5284">
+            <term key="BoehmischerLandtag" xml:id="Bae_TB_8_5285">Obstruction</term>
+            <index xml:id="Bae_TB_8_5286">
+              <term key="Obstruktion" xml:id="Bae_TB_8_5287"/>
+            </index>
+          </index> ausschalten und stellte das gemeinverständliche Dilemma auf: Constituierung des 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3184">Landtags</orgName> – Möglichkeit einer Coalition 
           <hi rendition="#ul" xml:id="Bae_TB_8_3185">oder</hi> kein 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_3186">Landtag</orgName> – keine Coalition, sondern definitives Beamtenministerium. 
@@ -4226,7 +4356,13 @@
           <hi rendition="#ul" xml:id="Bae_TB_8_3188">für</hi> das Einlenken, 
           <persName key="PergeltAnton" ref="https://d-nb.info/gnd/102579642X" xml:id="Bae_TB_8_3189">Pergelt</persName> schwankte, 
           <persName key="ChiariKarl" ref="https://d-nb.info/gnd/116504765" xml:id="Bae_TB_8_3190">Chiari</persName> entschieden 
-          <hi rendition="#ul" xml:id="Bae_TB_8_3191">gegen</hi> das Aufgeben der <index><term key="BoehmischerLandtag">Obstruction</term><index><term key="Obstruktion"/></index></index> ohne plausiblen 
+          <hi rendition="#ul" xml:id="Bae_TB_8_3191">gegen</hi> das Aufgeben der 
+          <index xml:id="Bae_TB_8_5288">
+            <term key="BoehmischerLandtag" xml:id="Bae_TB_8_5289">Obstruction</term>
+            <index xml:id="Bae_TB_8_5290">
+              <term key="Obstruktion" xml:id="Bae_TB_8_5291"/>
+            </index>
+          </index> ohne plausiblen 
           <choice xml:id="Bae_TB_8_3192">
             <abbr xml:id="Bae_TB_8_3193">u.</abbr>
             <expan xml:id="Bae_TB_8_3194">und</expan>
@@ -4344,7 +4480,13 @@
         <p xml:id="Bae_TB_8_3281">Mit 
           <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X" xml:id="Bae_TB_8_3282">Nostitz</persName> Correspondenz geführt über die Einleitung unserer Beratungen in bohemicis mit den Conservativen. Seine Briefe inliegend. 
         </p>
-        <p xml:id="Bae_TB_8_3284">Die bosnische Sache genau verfolgt. Zeitungsausschnitte inliegend sowie die Skizze eines Artikels den ich schreiben will gegen die Idee die Kosten der <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> 
+        <p xml:id="Bae_TB_8_3284">Die bosnische Sache genau verfolgt. Zeitungsausschnitte inliegend sowie die Skizze eines Artikels den ich schreiben will gegen die Idee die Kosten der 
+          <index xml:id="Bae_TB_8_5292">
+            <term key="Bosnien" xml:id="Bae_TB_8_5293">Annexion</term>
+            <index xml:id="Bae_TB_8_5294">
+              <term key="Annexion" xml:id="Bae_TB_8_5295"/>
+            </index>
+          </index>
           <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3285">Bosnien</placeName>
           <choice xml:id="Bae_TB_8_3286">
             <abbr xml:id="Bae_TB_8_3287">u.</abbr>
@@ -4415,10 +4557,10 @@
             <expan xml:id="Bae_TB_8_3327">Standpunkt</expan>
           </choice> . 
           <persName key="CzedikAlois" ref="https://d-nb.info/gnd/127800352" xml:id="Bae_TB_8_3328">Czedik</persName> dafür "patriotische That zu vollbringen" natürlich wird man sich nicht an die "Schlagworte" halten dürfen. Stimmung gegen die 
-            <choice xml:id="Bae_TB_8_3330">
-              <abbr xml:id="Bae_TB_8_3331">Dböhmen</abbr>
-              <expan xml:id="Bae_TB_8_3332">Deutschböhmen</expan>
-            </choice>
+          <choice xml:id="Bae_TB_8_3330">
+            <abbr xml:id="Bae_TB_8_3331">Dböhmen</abbr>
+            <expan xml:id="Bae_TB_8_3332">Deutschböhmen</expan>
+          </choice>
           <persName key="SchoenburgAlois" ref="https://d-nb.info/gnd/135929059" xml:id="Bae_TB_8_3333">Schönburg</persName> will ja nichts tun, dass die Sachen ans 
           <orgName key="Herrenhaus" ref="https://d-nb.info/gnd/41999-0" xml:id="Bae_TB_8_3334">
             <choice xml:id="Bae_TB_8_3335">
@@ -4462,9 +4604,9 @@
         </p>
         <p xml:id="Bae_TB_8_3362">Ich habe die 
           <choice xml:id="Bae_TB_8_3364">
-              <abbr xml:id="Bae_TB_8_3365">Dböhmen</abbr>
-              <expan xml:id="Bae_TB_8_3366">Deutschböhmen</expan>
-            </choice>
+            <abbr xml:id="Bae_TB_8_3365">Dböhmen</abbr>
+            <expan xml:id="Bae_TB_8_3366">Deutschböhmen</expan>
+          </choice>
           <choice xml:id="Bae_TB_8_3367">
             <abbr xml:id="Bae_TB_8_3368">u.</abbr>
             <expan xml:id="Bae_TB_8_3369">und</expan>
@@ -4585,10 +4727,13 @@
             <expan xml:id="Bae_TB_8_3454">gemeinsamen</expan>
           </choice> Zolleinnamen für 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3455">Serbien</placeName>, das ja auch die Zolleinnamen der Waren aus 
-            <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_8_3457">
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_5296">
+            <choice xml:id="Bae_TB_8_3457">
               <abbr xml:id="Bae_TB_8_3458">Öst.-Ung.</abbr>
               <expan xml:id="Bae_TB_8_3459">Österreich-Ungarn</expan>
-            </choice></placeName> <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3460">Serbien</placeName> hat bis 1917 laufende Verträge mit 
+            </choice>
+          </placeName>
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3460">Serbien</placeName> hat bis 1917 laufende Verträge mit 
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_3461">
             <choice xml:id="Bae_TB_8_3462">
               <abbr xml:id="Bae_TB_8_3463">Dland</abbr>
@@ -4641,7 +4786,13 @@
         <note type="editorial" xml:id="Bae_TB_8_3494">Hier finden sich Ergänzungen, Korrekturen oder Kommentare Baernreithers. Diese finden sich an der entsprechenden Stelle im Tagebuch oder im Manuskript Fragmente.</note>
         <pb facs="#F_K-5_Bae_TB_8_126" n="56r" xml:id="Bae_TB_8_3495"/>
         <p xml:id="Bae_TB_8_3496">Sprach über die Sache zweimal mit 
-          <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_8_3498">Rössler</persName>. Das erstemal leugnete er jede <index><term key="OesterreichUngarn">Kriegsabsicht</term><index><term key="Zollkrieg"/></index></index>, jede Idee an Zolleinigung mit 
+          <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_8_3498">Rössler</persName>. Das erstemal leugnete er jede 
+          <index xml:id="Bae_TB_8_5297">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_5298">Kriegsabsicht</term>
+            <index xml:id="Bae_TB_8_5299">
+              <term key="Zollkrieg" xml:id="Bae_TB_8_5300"/>
+            </index>
+          </index>, jede Idee an Zolleinigung mit 
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3499">Serbien</placeName>. Das zweitemal enger gepresst gab er zu, dass beide Projekte bestehen, will aber nicht zugeben, dass 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_3500">Aehrenthal</persName> sie hegt. Was insbesondere die "Zollunion" betrifft, erklärt er die Sache als hellen Wahnsinn 
           <choice xml:id="Bae_TB_8_3506">
@@ -4670,7 +4821,8 @@
           <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_8_3532">Redlich</persName> gibt es keine Schwierigkeiten. Es handle sich nur um ein ‚pactum de contrahendo'! bezüglich der Zollunion. 
         </p>
         <p xml:id="Bae_TB_8_3533">
-          <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_8_3534">Rössler</persName> scheint mir von seiner Dienstleistung im <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2">Äussern</orgName> schon enttäuscht. Er sagte mir, die diplomatische Orthodoxie sei unglaublich 
+          <persName key="RoesslerMauriz" ref="https://d-nb.info/gnd/1028553323" xml:id="Bae_TB_8_3534">Rössler</persName> scheint mir von seiner Dienstleistung im 
+          <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2" xml:id="Bae_TB_8_5301">Äussern</orgName> schon enttäuscht. Er sagte mir, die diplomatische Orthodoxie sei unglaublich 
           <choice xml:id="Bae_TB_8_3535">
             <abbr xml:id="Bae_TB_8_3536">u.</abbr>
             <expan xml:id="Bae_TB_8_3537">und</expan>
@@ -4707,7 +4859,13 @@
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_3560">Östreich</placeName> ein Volkskrieg. 
         </p>
         <p xml:id="Bae_TB_8_3561">3.) sind wir sicher, dass in 
-          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3562">Bosnien</placeName> nicht Aufstand ausbricht? Wenn ja, dann unsere ganze Legitimation der <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> beim Teufel. 
+          <placeName key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html" xml:id="Bae_TB_8_3562">Bosnien</placeName> nicht Aufstand ausbricht? Wenn ja, dann unsere ganze Legitimation der 
+          <index xml:id="Bae_TB_8_5302">
+            <term key="Bosnien" xml:id="Bae_TB_8_5303">Annexion</term>
+            <index xml:id="Bae_TB_8_5304">
+              <term key="Annexion" xml:id="Bae_TB_8_5305"/>
+            </index>
+          </index> beim Teufel. 
         </p>
         <p xml:id="Bae_TB_8_3563">4.) sollen nur deutsche Regimenter bluten? Kann man Czechen und Südslawen auf Südslawen loslassen? Nur wenn man den Religionshass schürt 
           <choice xml:id="Bae_TB_8_3564">
@@ -4729,9 +4887,16 @@
             </choice>
           </persName> das alles bedacht hat und vorgesehen, so gut man überhaupt in der Politik vorsehen kann, dann ist sein Verhalten zu billigen, und er behält Recht und erwirbt Ruhm. 
         </p>
-        <p xml:id="Bae_TB_8_3577">In einem Punkt begeht er aber schon offenkundige Fehler: er hat nicht den Finger gerührt um die bosnischen Verwaltungszustände seit der <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> in einer richtigen Weise zu beeinflussen. 
+        <p xml:id="Bae_TB_8_3577">In einem Punkt begeht er aber schon offenkundige Fehler: er hat nicht den Finger gerührt um die bosnischen Verwaltungszustände seit der 
+          <index xml:id="Bae_TB_8_5306">
+            <term key="Bosnien" xml:id="Bae_TB_8_5307">Annexion</term>
+            <index xml:id="Bae_TB_8_5308">
+              <term key="Annexion" xml:id="Bae_TB_8_5309"/>
+            </index>
+          </index> in einer richtigen Weise zu beeinflussen. 
           <persName key="BurianIstvanStephan" ref="https://d-nb.info/gnd/124541755" xml:id="Bae_TB_8_3578">Burian</persName> ist ungeeignet, 
-          <persName key="HorowitzEduard" ref="no_ref" xml:id="Bae_TB_8_3579">Horowitz</persName>, um milde zu sprechen, abgebraucht – er lässt aber alles geschehen: den Scandal mit der <orgName key="AgrarbankBosnien">Agrarbank</orgName>, die lächerliche Verfassungsenquete 
+          <persName key="HorowitzEduard" ref="no_ref" xml:id="Bae_TB_8_3579">Horowitz</persName>, um milde zu sprechen, abgebraucht – er lässt aber alles geschehen: den Scandal mit der 
+          <orgName key="AgrarbankBosnien" xml:id="Bae_TB_8_5310">Agrarbank</orgName>, die lächerliche Verfassungsenquete 
           <choice xml:id="Bae_TB_8_3580">
             <abbr xml:id="Bae_TB_8_3581">u.</abbr>
             <expan xml:id="Bae_TB_8_3582">und</expan>
@@ -4976,10 +5141,12 @@
               <expan xml:id="Bae_TB_8_3762">Deutschlands</expan>
             </choice>
           </placeName> betrachtet, von 
-          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html"><choice xml:id="Bae_TB_8_3764">
-            <abbr xml:id="Bae_TB_8_3765">Dland</abbr>
-            <expan xml:id="Bae_TB_8_3766">Deutschland</expan>
-          </choice></placeName> vorgeschoben 
+          <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_5311">
+            <choice xml:id="Bae_TB_8_3764">
+              <abbr xml:id="Bae_TB_8_3765">Dland</abbr>
+              <expan xml:id="Bae_TB_8_3766">Deutschland</expan>
+            </choice>
+          </placeName> vorgeschoben 
           <choice xml:id="Bae_TB_8_3767">
             <abbr xml:id="Bae_TB_8_3768">u.</abbr>
             <expan xml:id="Bae_TB_8_3769">und</expan>
@@ -5022,23 +5189,48 @@
         </p>
         <p xml:id="Bae_TB_8_3799">Mittelweg möglich: Besetzung mit der Absicht und Endzweck (Analogie 
           <persName key="BismarckOtto" ref="https://d-nb.info/gnd/11851136X" xml:id="Bae_TB_8_3800">Bismarcks</persName> 1866) schließlich mit 
-          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3801">Serbien</placeName> auf guten Fuß zu kommen: Dynastiewechsel, <index><term key="OesterreichUngarn">Handelsvertrag</term><index><term key="Handelsvertraege"/></index></index>, Eisenbahnmöglichkeiten usw. Wir dürfen aber da nicht als die angreifenden erscheinen, sondern der äusserste Notfall muss offen da liegen 
+          <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3801">Serbien</placeName> auf guten Fuß zu kommen: Dynastiewechsel, 
+          <index xml:id="Bae_TB_8_5312">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_5313">Handelsvertrag</term>
+            <index xml:id="Bae_TB_8_5314">
+              <term key="Handelsvertraege" xml:id="Bae_TB_8_5315"/>
+            </index>
+          </index>, Eisenbahnmöglichkeiten usw. Wir dürfen aber da nicht als die angreifenden erscheinen, sondern der äusserste Notfall muss offen da liegen 
           <choice xml:id="Bae_TB_8_3802">
             <abbr xml:id="Bae_TB_8_3803">u.</abbr>
             <expan xml:id="Bae_TB_8_3804">und</expan>
           </choice> von aller Welt anerkannt werden. 
         </p>
-        <p xml:id="Bae_TB_8_3805">Ich machte geltend, dass die <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> ja nur das Prestige 
+        <p xml:id="Bae_TB_8_3805">Ich machte geltend, dass die 
+          <index xml:id="Bae_TB_8_5316">
+            <term key="Bosnien" xml:id="Bae_TB_8_5317">Annexion</term>
+            <index xml:id="Bae_TB_8_5318">
+              <term key="Annexion" xml:id="Bae_TB_8_5319"/>
+            </index>
+          </index> ja nur das Prestige 
           <placeName key="Russland" ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_8_3806">
             <choice xml:id="Bae_TB_8_3807">
               <abbr xml:id="Bae_TB_8_3808">Rland</abbr>
               <expan xml:id="Bae_TB_8_3809">Russlands</expan>
             </choice>
-          </placeName> verletzt hat, tatsächlich ist die <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> das Gegenteil 
+          </placeName> verletzt hat, tatsächlich ist die 
+          <index xml:id="Bae_TB_8_5320">
+            <term key="Bosnien" xml:id="Bae_TB_8_5321">Annexion</term>
+            <index xml:id="Bae_TB_8_5322">
+              <term key="Annexion" xml:id="Bae_TB_8_5323"/>
+            </index>
+          </index> das Gegenteil 
           <pb facs="#F_K-5_Bae_TB_8_135" n="60v" xml:id="Bae_TB_8_3810"/>
           <note type="editorial" xml:id="Bae_TB_8_3811">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8_136" n="61r" xml:id="Bae_TB_8_3812"/>von Expansion. Handelspolitisch sind wir heute schwächer am 
-          <placeName key="Balkan" ref="https://www.geonames.org/685608/balkan-peninsula.html" xml:id="Bae_TB_8_3813">Balkan</placeName> als vor der <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index>, wir haben uns reducirt (<placeName key="Sandschak" ref="https://www.geonames.org/3191303/sandzak.html">Sandschak</placeName>, Sandschakbahn, Boykott, 
+          <placeName key="Balkan" ref="https://www.geonames.org/685608/balkan-peninsula.html" xml:id="Bae_TB_8_3813">Balkan</placeName> als vor der 
+          <index xml:id="Bae_TB_8_5324">
+            <term key="Bosnien" xml:id="Bae_TB_8_5325">Annexion</term>
+            <index xml:id="Bae_TB_8_5326">
+              <term key="Annexion" xml:id="Bae_TB_8_5327"/>
+            </index>
+          </index>, wir haben uns reducirt (
+          <placeName key="Sandschak" ref="https://www.geonames.org/3191303/sandzak.html" xml:id="Bae_TB_8_5328">Sandschak</placeName>, Sandschakbahn, Boykott, 
           <choice xml:id="Bae_TB_8_5157">
             <abbr xml:id="Bae_TB_8_5158">handelspolit.</abbr>
             <expan xml:id="Bae_TB_8_5159">handelspolitische</expan>
@@ -5132,7 +5324,13 @@
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_3882">Wien</placeName>
           <date when="1909-03-15" type="diaryEntry" xml:id="Bae_TB_8_3883">15.3.09</date>
         </head>
-        <p xml:id="Bae_TB_8_3884"> Heute in <index><term key="KaiserFranzJoseph">Audienz</term><index><term key="Audienzen"/></index></index>. Nach einigen 
+        <p xml:id="Bae_TB_8_3884"> Heute in 
+          <index xml:id="Bae_TB_8_5329">
+            <term key="KaiserFranzJoseph" xml:id="Bae_TB_8_5330">Audienz</term>
+            <index xml:id="Bae_TB_8_5331">
+              <term key="Audienzen" xml:id="Bae_TB_8_5332"/>
+            </index>
+          </index>. Nach einigen 
           <choice xml:id="Bae_TB_8_5165">
             <abbr xml:id="Bae_TB_8_5166">allg.</abbr>
             <expan xml:id="Bae_TB_8_5167">allgemeinen</expan>
@@ -5157,7 +5355,13 @@
           <placeName key="England" ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html" xml:id="Bae_TB_8_3907">England</placeName> werden sie beeinflusst, ja sie haben eine Wendung gemacht." 
         </p>
         <p xml:id="Bae_TB_8_3908">Der Rest des Gespräches innere Sachen, 
-          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde <index><term key="Reichsrat">Geschäftsordnung</term><index><term key="Geschaeftsordnung"/></index></index> usw. 
+          <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_8_3911">Reichsrat</orgName>, Ursachen seiner Arbeitsunfähigkeit. Mangelnde 
+          <index xml:id="Bae_TB_8_5333">
+            <term key="Reichsrat" xml:id="Bae_TB_8_5334">Geschäftsordnung</term>
+            <index xml:id="Bae_TB_8_5335">
+              <term key="Geschaeftsordnung" xml:id="Bae_TB_8_5336"/>
+            </index>
+          </index> usw. 
         </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_8_3914">
@@ -5170,7 +5374,13 @@
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_8_3920">Serbien</placeName>, Meistbegünstigung, nur im Notfall Einmarsch usw. auseinandersetzte. Kämpfe in der 
           <orgName key="Verfassungspartei" xml:id="Bae_TB_8_3921">Partei</orgName>. 
           <persName key="PlenerErnst" ref="https://d-nb.info/gnd/116209550" xml:id="Bae_TB_8_3922">Plener</persName> und 
-          <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_8_3923">Unger</persName> verhinderten mich, zum <index><term key="Reichsrat">Rekrutenkontingent</term><index><term key="Rekrutenkontingent"/></index></index> zu sprechen. 
+          <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_8_3923">Unger</persName> verhinderten mich, zum 
+          <index xml:id="Bae_TB_8_5337">
+            <term key="Reichsrat" xml:id="Bae_TB_8_5338">Rekrutenkontingent</term>
+            <index xml:id="Bae_TB_8_5339">
+              <term key="Rekrutenkontingent" xml:id="Bae_TB_8_5340"/>
+            </index>
+          </index> zu sprechen. 
           <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_3924">
             <choice xml:id="Bae_TB_8_3925">
               <abbr xml:id="Bae_TB_8_3926">Fberg</abbr>
@@ -5205,7 +5415,14 @@
           <note type="editorial" xml:id="Bae_TB_8_3947">Diese Seite ist leer.</note>
           <pb facs="#F_K-5_Bae_TB_8_140" n="63r" xml:id="Bae_TB_8_3948"/>mich bei nächsten Gelegenheit 
           <hi rendition="#ul" xml:id="Bae_TB_8_3949">nicht</hi> abhalten lassen werde. Diese Gelegenheit kam umgehend beim 
-          <del rendition="#s" xml:id="Bae_TB_8_3950"><index><term key="Reichsrat">Recrutencontinget</term><index><term key="Rekrutenkontingent"/></index></index></del>
+          <del rendition="#s" xml:id="Bae_TB_8_3950">
+            <index xml:id="Bae_TB_8_5341">
+              <term key="Reichsrat" xml:id="Bae_TB_8_5342">Recrutencontinget</term>
+              <index xml:id="Bae_TB_8_5343">
+                <term key="Rekrutenkontingent" xml:id="Bae_TB_8_5344"/>
+              </index>
+            </index>
+          </del>
           <add place="across" xml:id="Bae_TB_8_3951">Ermächtigungsgesetz</add>. 
         </p>
         <p xml:id="Bae_TB_8_3952">
@@ -5221,7 +5438,8 @@
               <abbr xml:id="Bae_TB_8_3960">H.H.</abbr>
               <expan xml:id="Bae_TB_8_3961">Herrenhaus</expan>
             </choice>
-          </orgName> hat man Debatte unterdrückt, um 2. Erklärung zu vermeiden, auf Fingerdeut der <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8">Soci</orgName> im 
+          </orgName> hat man Debatte unterdrückt, um 2. Erklärung zu vermeiden, auf Fingerdeut der 
+          <orgName key="Sozialdemokraten" ref="https://d-nb.info/gnd/505671-8" xml:id="Bae_TB_8_5345">Soci</orgName> im 
           <orgName key="Abgeordnetenhaus" ref="https://d-nb.info/gnd/41998-9" xml:id="Bae_TB_8_3962">
             <choice xml:id="Bae_TB_8_3963">
               <abbr xml:id="Bae_TB_8_3964">Abg.H.</abbr>
@@ -5252,7 +5470,8 @@
         <note type="editorial" xml:id="Bae_TB_8_3980">Dieser Eintrag ist mit Bleistift verfasst.</note>
         <p xml:id="Bae_TB_8_3981">
           <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_8_3982">Schulz</persName> erzählt mir, dass 
-          <persName key="MontsAnton" ref="https://d-nb.info/gnd/101806477" xml:id="Bae_TB_8_3983">Monts</persName> ihm geschrieben: "es ist tragisch, dass ein <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892">Kaiser</persName>, der den 
+          <persName key="MontsAnton" ref="https://d-nb.info/gnd/101806477" xml:id="Bae_TB_8_3983">Monts</persName> ihm geschrieben: "es ist tragisch, dass ein 
+          <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_8_5346">Kaiser</persName>, der den 
           <persName key="BismarckOtto" ref="https://d-nb.info/gnd/11851136X" xml:id="Bae_TB_8_3984">Bismarck</persName> fortgeschickt hat, einen 
           <persName key="BuelowBernhard" ref="https://d-nb.info/gnd/118517023" xml:id="Bae_TB_8_3985">Bülow</persName> ertragen muss." 
           <persName key="UngerJosef" ref="https://d-nb.info/gnd/118763725" xml:id="Bae_TB_8_3986">Unger</persName> hat, als man entschuldigend von 
@@ -5279,7 +5498,13 @@
             <expan xml:id="Bae_TB_8_4003">Oktober</expan>
           </choice> den 
           <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892" xml:id="Bae_TB_8_4004">Kaiser</persName> mit dem Brief unseres 
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_4005">Kaisers</persName> [...] <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> aufsuchte, dieser ihn mit den Worten empfing: Ich habe es ja schon in der Zeitung gelesen und [...] hat es ihr College ( 
+          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_8_4005">Kaisers</persName> [...] 
+          <index xml:id="Bae_TB_8_5347">
+            <term key="Bosnien" xml:id="Bae_TB_8_5348">Annexion</term>
+            <index xml:id="Bae_TB_8_5349">
+              <term key="Annexion" xml:id="Bae_TB_8_5350"/>
+            </index>
+          </index> aufsuchte, dieser ihn mit den Worten empfing: Ich habe es ja schon in der Zeitung gelesen und [...] hat es ihr College ( 
           <persName key="KhevenhuellerRudolf" ref="https://d-nb.info/gnd/129199443" xml:id="Bae_TB_8_4006">Khevenhüller</persName>) in 
           <placeName key="Paris" ref="https://www.geonames.org/2988507/paris.html" xml:id="Bae_TB_8_4007">Paris</placeName> schon gestern dem 
           <persName key="FallieresArmand" ref="https://d-nb.info/gnd/117498556" xml:id="Bae_TB_8_4008">Falliéres</persName> gesagt. Also wirklich [...] grobes Versehen. Dazu 
@@ -5330,7 +5555,10 @@
           </placeName>
           <date when="1909-07-30" type="diaryEntry" xml:id="Bae_TB_8_4043">30.7.09</date>
         </head>
-        <p xml:id="Bae_TB_8_4044">In den ersten Monaten des Jahres war in einem Teil der <index><term key="Presse">Centrumspresse</term></index> ( 
+        <p xml:id="Bae_TB_8_4044">In den ersten Monaten des Jahres war in einem Teil der 
+          <index xml:id="Bae_TB_8_5351">
+            <term key="Presse" xml:id="Bae_TB_8_5352">Centrumspresse</term>
+          </index> ( 
           <placeName key="Deutschland" ref="https://www.geonames.org/2921044/federal-republic-of-germany.html" xml:id="Bae_TB_8_4045">
             <choice xml:id="Bae_TB_8_4046">
               <abbr xml:id="Bae_TB_8_4047">Dland</abbr>
@@ -5341,11 +5569,15 @@
             <abbr xml:id="Bae_TB_8_4050">u.</abbr>
             <expan xml:id="Bae_TB_8_4051">und</expan>
           </choice>
-          <placeName key="Schweiz" ref="https://www.geonames.org/2658434/switzerland.html" xml:id="Bae_TB_8_4052">Schweiz</placeName>) das Thema "Gefährdung des <index><term key="Zweibund">deutsch- 
-          <choice xml:id="Bae_TB_8_4053">
-            <abbr xml:id="Bae_TB_8_4054">öster.</abbr>
-            <expan xml:id="Bae_TB_8_4055">österreichischen</expan>
-          </choice> Bündnisses"</term></index> angeschlagen – wie die folgenden Monate zeigten, ganz grundlos. Siehe die anreihenden Blätter 
+          <placeName key="Schweiz" ref="https://www.geonames.org/2658434/switzerland.html" xml:id="Bae_TB_8_4052">Schweiz</placeName>) das Thema "Gefährdung des 
+          <index xml:id="Bae_TB_8_5353">
+            <term key="Zweibund" xml:id="Bae_TB_8_5354">deutsch- 
+              <choice xml:id="Bae_TB_8_4053">
+                <abbr xml:id="Bae_TB_8_4054">öster.</abbr>
+                <expan xml:id="Bae_TB_8_4055">österreichischen</expan>
+              </choice> Bündnisses"
+            </term>
+          </index> angeschlagen – wie die folgenden Monate zeigten, ganz grundlos. Siehe die anreihenden Blätter 
           <choice xml:id="Bae_TB_8_4056">
             <abbr xml:id="Bae_TB_8_4057">u.</abbr>
             <expan xml:id="Bae_TB_8_4058">und</expan>
@@ -5391,7 +5623,13 @@
               <abbr xml:id="Bae_TB_8_4088">Athalschen</abbr>
               <expan xml:id="Bae_TB_8_4089">Aehrenthalschen</expan>
             </choice>
-          </persName> Politik? Hat man diese Situation ausgenützt?! Die Annexionsvorlage ist (fast ein Jahr nach der <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index>!) 
+          </persName> Politik? Hat man diese Situation ausgenützt?! Die Annexionsvorlage ist (fast ein Jahr nach der 
+          <index xml:id="Bae_TB_8_5355">
+            <term key="Bosnien" xml:id="Bae_TB_8_5356">Annexion</term>
+            <index xml:id="Bae_TB_8_5357">
+              <term key="Annexion" xml:id="Bae_TB_8_5358"/>
+            </index>
+          </index>!) 
           <hi rendition="#ul" xml:id="Bae_TB_8_4090">nicht</hi> erledigt. Die türkische Entschädigung ist parlamentarisch auch noch nicht erledigt. Das Selbstbewusstsein und der Optimismus, der uns erfüllt hat, ist unfruchtbar geblieben. 
           <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_8_4091">
             <choice xml:id="Bae_TB_8_4092">
@@ -5403,7 +5641,13 @@
           <orgName key="Arbeiterzeitung" ref="https://d-nb.info/gnd/1086227697" xml:id="Bae_TB_8_4096">Arbeiterzeitung</orgName> vom 25.7.09 hat einen ausgezeichneten Artikel! 
           <note type="editorial" xml:id="Bae_TB_8_4097">Gemeint ist wohl: Parlamentskritiker. Eine Kritik der Kritiker, in: Arbeiter-Zeitung, 25.07.1909, 1–2.</note>
           <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_8_4098">Marchets</persName> Brief besagt auch viel. 
-          <note type="editorial" xml:id="Bae_TB_8_4099">Brief Gustav Marchet an JMB vom 15.7.1909 oder 27.7.1909 (?), NL Baernreither K. 48.</note> Die <index><term key="Reichsrat">Obstruction</term><index><term key="Obstruktion"/></index></index> hätte beseitigt werden können. Das ist jetzt erwiesen. Die Deutschen wollten die Formel 
+          <note type="editorial" xml:id="Bae_TB_8_4099">Brief Gustav Marchet an JMB vom 15.7.1909 oder 27.7.1909 (?), NL Baernreither K. 48.</note> Die 
+          <index xml:id="Bae_TB_8_5359">
+            <term key="Reichsrat" xml:id="Bae_TB_8_5360">Obstruction</term>
+            <index xml:id="Bae_TB_8_5361">
+              <term key="Obstruktion" xml:id="Bae_TB_8_5362"/>
+            </index>
+          </index> hätte beseitigt werden können. Das ist jetzt erwiesen. Die Deutschen wollten die Formel 
           <persName key="SustersicIvan" ref="https://d-nb.info/gnd/121008924" xml:id="Bae_TB_8_4100">Šusteršič</persName> bezüglich der bosnischen Angelegenheiten acceptieren. 
         </p>
         <p xml:id="Bae_TB_8_4101">Die 
@@ -5431,7 +5675,8 @@
           <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html" xml:id="Bae_TB_8_4119">Sarajewo</placeName>. 
           <note type="editorial" xml:id="Bae_TB_8_4120">
             <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_8_4121">Joseph Maria Baernreither</persName>, Das Museum von Sarajevo, in: Österreichische Rundschau Bd. 21 (1909). 
-          </note> Es ist für mich ein neuartiges Thema und beschäftigt mich daher sehr angenehm. In den zwei ersten Tagen meiner Anwesenheit schrieb ich für die <orgName key="DeutscheJuristenzeitung" ref="https://d-nb.info/gnd/1086704363">deutsche Juristenzeitung</orgName> ein Resumé meines Gesetzes über die Jugendfürsorge, um das mich die Redaktion gebeten hatte. 
+          </note> Es ist für mich ein neuartiges Thema und beschäftigt mich daher sehr angenehm. In den zwei ersten Tagen meiner Anwesenheit schrieb ich für die 
+          <orgName key="DeutscheJuristenzeitung" ref="https://d-nb.info/gnd/1086704363" xml:id="Bae_TB_8_5363">deutsche Juristenzeitung</orgName> ein Resumé meines Gesetzes über die Jugendfürsorge, um das mich die Redaktion gebeten hatte. 
           <note type="editorial" xml:id="Bae_TB_8_4122">
             <persName key="BaernreitherJosephMaria" ref="https://d-nb.info/gnd/118505858" xml:id="Bae_TB_8_4123">Joseph Maria Baernreither</persName>, Der neue österreichische Entwurf betreffend das Jugendstrafrecht, in: Deutsche Juristenzeitung XIV (1909) Sp. 1113-1118. 
           </note> Im Bett nach dem Bade lese ich 
@@ -5710,7 +5955,13 @@
               <abbr xml:id="Bae_TB_8_4336">R.Rat</abbr>
               <expan xml:id="Bae_TB_8_4337">Reichsrat</expan>
             </choice>
-          </orgName> nicht einberuft wenn die Czechen der <index><term key="Reichsrat">Obstruktion</term><index><term key="Obstruktion"/></index></index> nicht abschwören, dasselbe für den 
+          </orgName> nicht einberuft wenn die Czechen der 
+          <index xml:id="Bae_TB_8_5364">
+            <term key="Reichsrat" xml:id="Bae_TB_8_5365">Obstruktion</term>
+            <index xml:id="Bae_TB_8_5366">
+              <term key="Obstruktion" xml:id="Bae_TB_8_5367"/>
+            </index>
+          </index> nicht abschwören, dasselbe für den 
           <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_4338">
             <choice xml:id="Bae_TB_8_4339">
               <abbr xml:id="Bae_TB_8_4340">böhm.</abbr>
@@ -5764,7 +6015,7 @@
               <index xml:id="Bae_TB_8_5197">
                 <term key="Ausgleichskonferenz" xml:id="Bae_TB_8_5198"/>
               </index>
-            </index>. Diesmal getrennt nach den beiden Nationen!
+            </index>. Diesmal getrennt nach den beiden Nationen! 
           </hi>
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4374">Bienerth</persName> zuerst mit den 
           <choice xml:id="Bae_TB_8_4375">
@@ -5913,8 +6164,7 @@
           <choice xml:id="Bae_TB_8_4482">
             <abbr xml:id="Bae_TB_8_4483">u.</abbr>
             <expan xml:id="Bae_TB_8_4484">und</expan>
-          </choice> Vorträgen bei der 
-          Landesregierung benutzt habe. Und in der Tat machte das Exemplar, das er hatte, den Eindruck, viel gelesen zu sein, mit einer Menge von Randbemerkungen usw. Wieder, wie so oft, musste ich denken: hätte ich nur ein paar solcher Bücher geschrieben, wie viel mehr hätte ich für meine Gedanken 
+          </choice> Vorträgen bei der Landesregierung benutzt habe. Und in der Tat machte das Exemplar, das er hatte, den Eindruck, viel gelesen zu sein, mit einer Menge von Randbemerkungen usw. Wieder, wie so oft, musste ich denken: hätte ich nur ein paar solcher Bücher geschrieben, wie viel mehr hätte ich für meine Gedanken 
           <choice xml:id="Bae_TB_8_4486">
             <abbr xml:id="Bae_TB_8_4487">u.</abbr>
             <expan xml:id="Bae_TB_8_4488">und</expan>
@@ -5994,10 +6244,12 @@
             <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_4546">Landtage</orgName>
           </hi> gezeigt werde. An der Oberfläche ist es ein Streit um die Tagesordnung, im Wesen ist es ein tiefer Gegensatz. Die Czechen verfolgen unentwegt die Absicht das Ministerium 
           <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4547">Bienerth</persName> zu beseitigen. So sehr sie sonst den 
-          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_5199">Landtag</orgName> wünschen, diesmal ist er ihnen gleichgültig, denn der Ruf "kein <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2">Landtag</orgName> kein 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_5199">Landtag</orgName> wünschen, diesmal ist er ihnen gleichgültig, denn der Ruf "kein 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_5368">Landtag</orgName> kein 
           <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4" xml:id="Bae_TB_8_4548">Reichsrat</orgName>" wird ihnen eine Waffe sein. Aber so klein sie im Frühjahr waren, der Kamm ist ihnen wieder geschwollen. Sie verhindern 
           <del rendition="#s" xml:id="Bae_TB_8_4549">die Vorlage in</del> die Discussion der 
-          <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4550">Bienerth'schen</persName> Vorlagen, weil sie das Praejudiz einer solchen Ordnung der Dinge vermeiden wollen. Die Deutschen wollen den <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2">Landtag</orgName> auch nicht. So oft sich eine Aussicht auf Flottmachung eröffnete waren sie missmutig 
+          <persName key="BienerthRichard" ref="https://d-nb.info/gnd/116165650" xml:id="Bae_TB_8_4550">Bienerth'schen</persName> Vorlagen, weil sie das Praejudiz einer solchen Ordnung der Dinge vermeiden wollen. Die Deutschen wollen den 
+          <orgName key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_8_5369">Landtag</orgName> auch nicht. So oft sich eine Aussicht auf Flottmachung eröffnete waren sie missmutig 
           <choice xml:id="Bae_TB_8_4551">
             <abbr xml:id="Bae_TB_8_4552">u.</abbr>
             <expan xml:id="Bae_TB_8_4553">und</expan>
@@ -6022,8 +6274,13 @@
         </p>
         <p xml:id="Bae_TB_8_4568">Wenn zwei nicht zusammenkommen 
           <hi rendition="#ul" xml:id="Bae_TB_8_4569">wollen</hi>, mühen sich Vermittler vergebens ab. Der Oberstlandmarschall, der sich diesmal nicht 
-          <add place="across" xml:id="Bae_TB_8_4570">nur</add> ganz correct, sondern auch sehr klug benommen hat, war mit Vertretern <index><term key="Parteien">beider Gruppen des 
-            Grossgrundbesitzes</term><index><term key="Großgrundbesitz"/></index></index> in enger Fühlung 
+          <add place="across" xml:id="Bae_TB_8_4570">nur</add> ganz correct, sondern auch sehr klug benommen hat, war mit Vertretern 
+          <index xml:id="Bae_TB_8_5370">
+            <term key="Parteien" xml:id="Bae_TB_8_5371">beider Gruppen des Grossgrundbesitzes</term>
+            <index xml:id="Bae_TB_8_5372">
+              <term key="Großgrundbesitz" xml:id="Bae_TB_8_5373"/>
+            </index>
+          </index> in enger Fühlung 
           <choice xml:id="Bae_TB_8_4572">
             <abbr xml:id="Bae_TB_8_4573">u.</abbr>
             <expan xml:id="Bae_TB_8_4574">und</expan>
@@ -6050,14 +6307,28 @@
         </app>
         <addSpan spanTo="#Bae_TB_8_4601" type="insertion" xml:id="Bae_TB_8_4590"/>
         <p xml:id="Bae_TB_8_4591">Citat 
-          <orgName key="OesterreichischeRundschau" ref="https://d-nb.info/gnd/4526691-8"><choice xml:id="Bae_TB_8_4592">
-            <abbr xml:id="Bae_TB_8_4593">öst.</abbr>
-            <expan xml:id="Bae_TB_8_4594">österreichische</expan>
-          </choice> Rundschau</orgName> vom 1.10.09. 
+          <orgName key="OesterreichischeRundschau" ref="https://d-nb.info/gnd/4526691-8" xml:id="Bae_TB_8_5374">
+            <choice xml:id="Bae_TB_8_4592">
+              <abbr xml:id="Bae_TB_8_4593">öst.</abbr>
+              <expan xml:id="Bae_TB_8_4594">österreichische</expan>
+            </choice> Rundschau
+          </orgName> vom 1.10.09. 
         </p>
         <p xml:id="Bae_TB_8_4595">
           <persName key="JusthGyula" ref="https://d-nb.info/gnd/1012930025" xml:id="Bae_TB_8_4596">Herr v. Justh</persName> hat dies ganz unumwunden zugegeben und öffentlich erklärt: "Wir können heute alles erreichen, wenn wir noch einige Monate aushalten. 
-          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_4597">Wien</placeName> war uns nie so sehr ausgeliefert als jetzt, da sein Interesse ganz von unserer Zustimmung abhängt. Heute können wir die Machthaber in einen dreifachen ex lex-Zustand treiben, indem wir erstens das ungarische <index><term key="Ungarn">Budget</term><index><term key="Budget"/></index></index>, zweitens das <index><term key="OesterreichUngarn">gemeinsame Budget</term><index><term key="Budget"/></index></index> und drittens das Geld für die außerordentlichen Marine- und Artillerie-Ausrüstungen verweigern. Ja, wir können sogar noch einen vierten ex lex-Zustand heraufbeschwören, indem wir die Verlängerung des Bankprivilegiums verweigern. Damit kommt die Großmachtstellung der Monarchie in eine solche Lage, daß ihre materiellen Hilfsquellen selbst dann erschöpft sein werden, wenn sie sich die Steuereinkünfte mit absolutistischen Mitteln beschafft." 
+          <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_4597">Wien</placeName> war uns nie so sehr ausgeliefert als jetzt, da sein Interesse ganz von unserer Zustimmung abhängt. Heute können wir die Machthaber in einen dreifachen ex lex-Zustand treiben, indem wir erstens das ungarische 
+          <index xml:id="Bae_TB_8_5375">
+            <term key="Ungarn" xml:id="Bae_TB_8_5376">Budget</term>
+            <index xml:id="Bae_TB_8_5377">
+              <term key="Budget" xml:id="Bae_TB_8_5378"/>
+            </index>
+          </index>, zweitens das 
+          <index xml:id="Bae_TB_8_5379">
+            <term key="OesterreichUngarn" xml:id="Bae_TB_8_5380">gemeinsame Budget</term>
+            <index xml:id="Bae_TB_8_5381">
+              <term key="Budget" xml:id="Bae_TB_8_5382"/>
+            </index>
+          </index> und drittens das Geld für die außerordentlichen Marine- und Artillerie-Ausrüstungen verweigern. Ja, wir können sogar noch einen vierten ex lex-Zustand heraufbeschwören, indem wir die Verlängerung des Bankprivilegiums verweigern. Damit kommt die Großmachtstellung der Monarchie in eine solche Lage, daß ihre materiellen Hilfsquellen selbst dann erschöpft sein werden, wenn sie sich die Steuereinkünfte mit absolutistischen Mitteln beschafft." 
         </p>
         <p xml:id="Bae_TB_8_4598">
           <persName key="JusthGyula" ref="https://d-nb.info/gnd/1012930025" xml:id="Bae_TB_8_4599">Herrn von Justh</persName> scheint die Empfindung für das Widerliche dieser Revolverpolitik völlig abhanden gekommen zu sein, sowie überhaupt weite Kreise 
@@ -6093,7 +6364,8 @@
             <choice xml:id="Bae_TB_8_4621">
               <abbr xml:id="Bae_TB_8_4622">u.</abbr>
               <expan xml:id="Bae_TB_8_4623">und</expan>
-            </choice> in die Ressource gegangen. Dort erwarteten mich schon der <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920">Statthalter</persName> 
+            </choice> in die Ressource gegangen. Dort erwarteten mich schon der 
+            <persName key="CoudenhoveKarl" ref="https://d-nb.info/gnd/143806920" xml:id="Bae_TB_8_5383">Statthalter</persName>
             <choice xml:id="Bae_TB_8_4624">
               <abbr xml:id="Bae_TB_8_4625">u.</abbr>
               <expan xml:id="Bae_TB_8_4626">und</expan>
@@ -6139,8 +6411,7 @@
             <choice xml:id="Bae_TB_8_4657">
               <abbr xml:id="Bae_TB_8_4658">u.</abbr>
               <expan xml:id="Bae_TB_8_4659">und</expan>
-            </choice> ich. Soupé mit ausgezeichneten 
-            Raibentaler. Lange Conferenz, deren Ergebnis die Zusammenberufung der Parteiconferenz für nächsten Abend. Danach noch mit 
+            </choice> ich. Soupé mit ausgezeichneten Raibentaler. Lange Conferenz, deren Ergebnis die Zusammenberufung der Parteiconferenz für nächsten Abend. Danach noch mit 
             <persName key="NostitzErwein" ref="https://d-nb.info/gnd/13012589X" xml:id="Bae_TB_8_4661">Nostitz</persName> in der Resource 
             <choice xml:id="Bae_TB_8_4662">
               <abbr xml:id="Bae_TB_8_4663">u.</abbr>
@@ -6213,7 +6484,8 @@
             <placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html" xml:id="Bae_TB_8_4711">Prag</placeName> ab nach 
             <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_4712">Wien</placeName>. Ich trenne mich in 
             <placeName key="Wesseli" ref="https://de.wikipedia.org/wiki/Veselí_nad_Lužnicí" xml:id="Bae_TB_8_4713">Wessly</placeName> [?] und fahre nach 
-            <placeName key="Salzburg" ref="https://www.geonames.org/2766823/salzburg.html" xml:id="Bae_TB_8_4714">Salzburg</placeName>, wo ich um 4 Uhr ankomme, <orgName key="HoteldelEurope" ref="https://d-nb.info/gnd/415401-0">Hotel de l'Europe</orgName>, wo ich 
+            <placeName key="Salzburg" ref="https://www.geonames.org/2766823/salzburg.html" xml:id="Bae_TB_8_4714">Salzburg</placeName>, wo ich um 4 Uhr ankomme, 
+            <orgName key="HoteldelEurope" ref="https://d-nb.info/gnd/415401-0" xml:id="Bae_TB_8_5384">Hotel de l'Europe</orgName>, wo ich 
             <persName key="KuebeckMax" ref="https://d-nb.info/gnd/136202144" xml:id="Bae_TB_8_4715">Kübeck</persName>
             <choice xml:id="Bae_TB_8_4716">
               <abbr xml:id="Bae_TB_8_4717">u.</abbr>
@@ -6252,7 +6524,8 @@
             <choice xml:id="Bae_TB_8_4741">
               <abbr xml:id="Bae_TB_8_4742">u.</abbr>
               <expan xml:id="Bae_TB_8_4743">und</expan>
-            </choice> <persName key="BrauerCarola" ref="https://d-nb.info/gnd/1252555407">Gattin</persName> zu Gast sind, korrigiere. Sehr angenehmer Abend. Die Correctur gebe ich in 
+            </choice>
+            <persName key="BrauerCarola" ref="https://d-nb.info/gnd/1252555407" xml:id="Bae_TB_8_5385">Gattin</persName> zu Gast sind, korrigiere. Sehr angenehmer Abend. Die Correctur gebe ich in 
             <placeName key="Tegernsee" ref="https://www.geonames.org/6558221/tegernsee.html" xml:id="Bae_TB_8_4744">Tegernsee</placeName> nach 
             <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_4745">Wien</placeName> auf die Post. 
           </p>
@@ -6270,11 +6543,13 @@
           </head>
           <p xml:id="Bae_TB_8_4753">Vormittag grossen Spaziergang mit 
             <persName key="BrauerArthur" ref="https://d-nb.info/gnd/116414995" xml:id="Bae_TB_8_4754">Brauers</persName> bei Regen. Nachmittag Abreise nach 
-            <placeName key="Salzburg" ref="https://www.geonames.org/2766823/salzburg.html" xml:id="Bae_TB_8_4755">Salzburg</placeName>. <orgName key="HotelOesterreichischerHof">Hotel 
-            <choice xml:id="Bae_TB_8_4756">
-              <abbr xml:id="Bae_TB_8_4757">Öst.</abbr>
-              <expan xml:id="Bae_TB_8_4758">Österreichischer</expan>
-            </choice> Hof</orgName>. 
+            <placeName key="Salzburg" ref="https://www.geonames.org/2766823/salzburg.html" xml:id="Bae_TB_8_4755">Salzburg</placeName>. 
+            <orgName key="HotelOesterreichischerHof" xml:id="Bae_TB_8_5386">Hotel 
+              <choice xml:id="Bae_TB_8_4756">
+                <abbr xml:id="Bae_TB_8_4757">Öst.</abbr>
+                <expan xml:id="Bae_TB_8_4758">Österreichischer</expan>
+              </choice> Hof
+            </orgName>. 
           </p>
         </div>
         <div type="diaryEntry" xml:id="Bae_TB_8_4759">
@@ -6293,11 +6568,13 @@
               <choice xml:id="Bae_TB_8_4768">
                 <abbr xml:id="Bae_TB_8_4769">u.</abbr>
                 <expan xml:id="Bae_TB_8_4770">und</expan>
-              </choice> nach <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName> zurücksende. 
+              </choice> nach 
+              <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_8_5387">Wien</placeName> zurücksende. 
             </del>Um 1/2 11 Uhr Abfahrt nach 
             <placeName key="Triest" ref="https://www.geonames.org/3165185/trieste.html" xml:id="Bae_TB_8_4771">Triest</placeName> via 
             <placeName key="BadGastein" ref="https://www.geonames.org/2782058/bad-gastein.html" xml:id="Bae_TB_8_4772">Gastein</placeName>- 
-            <placeName key="Assling" ref="https://www.geonames.org/3198647/jesenice.html" xml:id="Bae_TB_8_4773">Assling</placeName>. Abend <orgName key="HoteldelaVille">Hotel de la ville</orgName> mit Hofrat 
+            <placeName key="Assling" ref="https://www.geonames.org/3198647/jesenice.html" xml:id="Bae_TB_8_4773">Assling</placeName>. Abend 
+            <orgName key="HoteldelaVille" xml:id="Bae_TB_8_5388">Hotel de la ville</orgName> mit Hofrat 
             <persName key="PhilippovichEugen" ref="https://d-nb.info/gnd/116176199" xml:id="Bae_TB_8_4774">Philippovich</persName>
             <choice xml:id="Bae_TB_8_4775">
               <abbr xml:id="Bae_TB_8_4776">u.</abbr>
@@ -6394,7 +6671,8 @@
             <placeName key="Triest" ref="https://www.geonames.org/3165185/trieste.html" xml:id="Bae_TB_8_4838">Triest</placeName> auf dem 
             <del rendition="#s" xml:id="Bae_TB_8_4839">"Hohenlohe"</del>
             <add place="across" xml:id="Bae_TB_8_4840">"Gautsch"</add> um 8 Uhr früh nach 
-            <placeName key="Gravosa" ref="https://www.geonames.org/3199500/gruz.html" xml:id="Bae_TB_8_4841">Gravosa</placeName>. Sehr liebenswürdiger Capitän. Ausgezeichnete Cabinen. Gesellschaft: <persName key="ThunChristiane" ref="https://d-nb.info/gnd/121927075">Gräfin Salm</persName> 
+            <placeName key="Gravosa" ref="https://www.geonames.org/3199500/gruz.html" xml:id="Bae_TB_8_4841">Gravosa</placeName>. Sehr liebenswürdiger Capitän. Ausgezeichnete Cabinen. Gesellschaft: 
+            <persName key="ThunChristiane" ref="https://d-nb.info/gnd/121927075" xml:id="Bae_TB_8_5389">Gräfin Salm</persName>
             <note type="editorial" xml:id="Bae_TB_8_4842">Hier ist unklar, wer gemeint ist.</note>
             <choice xml:id="Bae_TB_8_4843">
               <abbr xml:id="Bae_TB_8_4844">u.</abbr>
@@ -6439,7 +6717,8 @@
             <placeName key="Gravosa" ref="https://www.geonames.org/3199500/gruz.html" xml:id="Bae_TB_8_4870">Gravosa</placeName>. 
           </p>
           <p xml:id="Bae_TB_8_4871">In 
-            <placeName key="Ragusa" ref="https://www.geonames.org/3201047/dubrovnik.html" xml:id="Bae_TB_8_4872">Ragusa</placeName> <orgName key="HotelImperial">Hotel Imperial</orgName>. Nehme sofort einen Wagen und fahre nach 
+            <placeName key="Ragusa" ref="https://www.geonames.org/3201047/dubrovnik.html" xml:id="Bae_TB_8_4872">Ragusa</placeName>
+            <orgName key="HotelImperial" xml:id="Bae_TB_8_5390">Hotel Imperial</orgName>. Nehme sofort einen Wagen und fahre nach 
             <placeName key="Epidaurus" ref="https://www.geonames.org/3202825/cavtat.html" xml:id="Bae_TB_8_4873">Ragusa vecchia</placeName> ( 
             <placeName key="Epidaurus" ref="https://www.geonames.org/3202825/cavtat.html" xml:id="Bae_TB_8_4874">Epidaurus</placeName>). Wundervolle Fahrt, der Corniche ähnlich. Höchst interessante Hafensituation (Doppelhafen) in 
             <placeName key="Epidaurus" ref="https://www.geonames.org/3202825/cavtat.html" xml:id="Bae_TB_8_4875">Epidaurus</placeName>. Abend im Hotel soupiert mit Hofrat 
@@ -6502,7 +6781,9 @@
               <expan xml:id="Bae_TB_8_4918">Abgeordneter</expan>
             </choice> aufs Schiff mit dem ich mich gut unterhalte. Im Übrigen schreibe ich mein Tagebuch von 
             <placeName key="Mogorjelo" ref="https://www.geonames.org/3261346/mogorjelo.html" xml:id="Bae_TB_8_4919">Mogorelo</placeName>. Pünktliche Ankunft in 
-            <placeName key="Triest" ref="https://www.geonames.org/3165185/trieste.html" xml:id="Bae_TB_8_4920">Triest</placeName>. Besuch des <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816">Statthalters</persName>, wo ich 1 Stunde bleibe. Dann Abendessen im <orgName key="HoteldelaVille">Hotel de la Ville</orgName>, wohin Präsident 
+            <placeName key="Triest" ref="https://www.geonames.org/3165185/trieste.html" xml:id="Bae_TB_8_4920">Triest</placeName>. Besuch des 
+            <persName key="HohenloheKonrad" ref="https://d-nb.info/gnd/137601816" xml:id="Bae_TB_8_5391">Statthalters</persName>, wo ich 1 Stunde bleibe. Dann Abendessen im 
+            <orgName key="HoteldelaVille" xml:id="Bae_TB_8_5392">Hotel de la Ville</orgName>, wohin Präsident 
             <persName key="DellesAnton" xml:id="Bae_TB_8_4921">Delles</persName> kommt, mit dem ich noch wegen der Enquete spreche. Abend 3/4 9 Uhr Abfahrt mit der Staatsbahn nach 
             <placeName key="Linz" ref="https://www.geonames.org/2772395/linz-stadt.html" xml:id="Bae_TB_8_4922">Linz</placeName>. 
           </p>
@@ -6532,11 +6813,14 @@
               </choice>
             </orgName>. Besuch von Dr. 
             <persName key="JunkerCarl" ref="https://d-nb.info/gnd/117659827" xml:id="Bae_TB_8_4940">Junker</persName> wegen " 
-            <orgName key="OesterreichischeRundschau" ref="https://d-nb.info/gnd/4526691-8"><choice xml:id="Bae_TB_8_4941">
-              <abbr xml:id="Bae_TB_8_4942">Öst.</abbr>
-              <expan xml:id="Bae_TB_8_4943">Österreichischer</expan>
-            </choice> Rundschau"</orgName>. Ich verfasse einen Antrag wegen Fürsorge für Seeleute, den ich 
-            <persName key="HütterottJohannGeorg" ref="https://d-nb.info/gnd/13764597X" xml:id="Bae_TB_8_4944">Hütterott</persName> zum Mitunterschreiben schicke. Abend im <orgName key="Stephanskeller">Stefanskeller</orgName>: 
+            <orgName key="OesterreichischeRundschau" ref="https://d-nb.info/gnd/4526691-8" xml:id="Bae_TB_8_5393">
+              <choice xml:id="Bae_TB_8_4941">
+                <abbr xml:id="Bae_TB_8_4942">Öst.</abbr>
+                <expan xml:id="Bae_TB_8_4943">Österreichischer</expan>
+              </choice> Rundschau"
+            </orgName>. Ich verfasse einen Antrag wegen Fürsorge für Seeleute, den ich 
+            <persName key="HütterottJohannGeorg" ref="https://d-nb.info/gnd/13764597X" xml:id="Bae_TB_8_4944">Hütterott</persName> zum Mitunterschreiben schicke. Abend im 
+            <orgName key="Stephanskeller" xml:id="Bae_TB_8_5394">Stefanskeller</orgName>: 
             <persName key="MarchetGustav" ref="https://d-nb.info/gnd/129095648" xml:id="Bae_TB_8_4945">Marchet</persName> , 
             <persName key="RedlichJosef" ref="https://d-nb.info/gnd/118743724" xml:id="Bae_TB_8_4946">Redlich</persName>, 
             <persName key="UrbanKarl" ref="https://d-nb.info/gnd/1148771107" xml:id="Bae_TB_8_4947">Urban</persName> , 
@@ -6547,7 +6831,7 @@
           <pb facs="#F_K-5_Bae_TB_8_179" n="82v" xml:id="Bae_TB_8_4951"/>
           <note type="editorial" xml:id="Bae_TB_8_4952">Diese Seite ist leer.</note>
         </div>
-        <pb facs="#F_K-5_Bae_TB_8_180" n="83r" xml:id="Bae_zTB_8_4954"/>
+        <pb facs="#F_K-5_Bae_TB_8_180" n="83r" xml:id="Bae_TB_8_5395"/>
         <div type="diaryEntry" xml:id="Bae_TB_8_4953">
           <head xml:id="Bae_TB_8_4955">
             <date when="1909-10-20" type="diaryEntry" xml:id="Bae_TB_8_4956">
@@ -6567,7 +6851,8 @@
               <abbr xml:id="Bae_TB_8_4966">u.</abbr>
               <expan xml:id="Bae_TB_8_4967">und</expan>
             </choice> seiner Tochter 
-            <persName key="HaanHilda" xml:id="Bae_TB_8_4968">Hilda</persName> im <orgName key="Matschakerhof" ref="https://d-nb.info/gnd/1336473088">Matschakerhof</orgName> soupiert. Danach noch 
+            <persName key="HaanHilda" xml:id="Bae_TB_8_4968">Hilda</persName> im 
+            <orgName key="Matschakerhof" ref="https://d-nb.info/gnd/1336473088" xml:id="Bae_TB_8_5396">Matschakerhof</orgName> soupiert. Danach noch 
             <orgName key="Jockeyclub" ref="https://d-nb.info/gnd/2016616-3" xml:id="Bae_TB_8_4969">Joqaiclub</orgName> : 
             <persName key="FuerstenbergMaxEgon" ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_8_4970">
               <choice xml:id="Bae_TB_8_4971">
@@ -6609,11 +6894,13 @@
                 <expan xml:id="Bae_TB_8_4997">Fürstenberg</expan>
               </choice>
             </persName>. Um 5 Uhr in der Bibergasse 2 lang mit Dr. 
-            <persName key="LedererSiegfried" ref="https://d-nb.info/gnd/116852283" xml:id="Bae_TB_8_4998">Lederer</persName> conferirt. Soupiert bei <orgName key="HotelMeissl">Meissl</orgName> 
+            <persName key="LedererSiegfried" ref="https://d-nb.info/gnd/116852283" xml:id="Bae_TB_8_4998">Lederer</persName> conferirt. Soupiert bei 
+            <orgName key="HotelMeissl" xml:id="Bae_TB_8_5397">Meissl</orgName>
             <choice xml:id="Bae_TB_8_4999">
               <abbr xml:id="Bae_TB_8_5000">u.</abbr>
               <expan xml:id="Bae_TB_8_5001">und</expan>
-            </choice> dann bei <orgName key="CafePucher">Pucher</orgName>. Langer Plausch mit 
+            </choice> dann bei 
+            <orgName key="CafePucher" xml:id="Bae_TB_8_5398">Pucher</orgName>. Langer Plausch mit 
             <persName key="SchulzPaul" ref="https://d-nb.info/gnd/1033250007" xml:id="Bae_TB_8_5002">Schulz</persName> . 
           </p>
         </div>
@@ -6648,8 +6935,7 @@
                 <abbr xml:id="Bae_TB_8_5025">B.</abbr>
                 <expan xml:id="Bae_TB_8_5026">Baernreither</expan>
               </choice>
-            </persName> hat im 
-            Club scharf gegen die Regierung gesprochen! Feiner Cavalier! 
+            </persName> hat im Club scharf gegen die Regierung gesprochen! Feiner Cavalier! 
           </p>
           <pb facs="#F_K-5_Bae_TB_8_181" n="83v" xml:id="Bae_TB_8_5028"/>
           <note type="editorial" xml:id="Bae_TB_8_5029">Diese Seite ist leer.</note>
@@ -6675,7 +6961,8 @@
           <persName key="DolgorukowNikolai" ref="https://d-nb.info/gnd/1161136630" xml:id="Bae_TB_8_5044">Fürsten Dolgoruky</persName>, dem russischen Botschafter beim 
           <orgName key="Quirinal" ref="https://d-nb.info/gnd/5255442-9" xml:id="Bae_TB_8_5045">Quirinal</orgName>, der sich folgendermaßen äußerte: Die Zusammenkunft von 
           <placeName key="Racconigi" ref="https://www.geonames.org/6542129/racconigi.html" xml:id="Bae_TB_8_5046">Racconigi</placeName> besitze jedenfalls eine große politische Bedeutung, ohne sich aber gegen andere Mächte zu richten. Die italienisch-russischen Beziehungen hätten durchaus keinen aggressiven Charakter. Nur wenn 
-          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_5047">Oesterreich</placeName>-<placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html">Ungarn</placeName> versuchen sollte, sich auf der Balkanhalbinsel noch weiter auszudehnen, wäre der Friede gefährdet. Die vom 
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_5047">Oesterreich</placeName>-
+          <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_8_5399">Ungarn</placeName> versuchen sollte, sich auf der Balkanhalbinsel noch weiter auszudehnen, wäre der Friede gefährdet. Die vom 
           <persName key="NikolausII" ref="https://d-nb.info/gnd/11873492X" xml:id="Bae_TB_8_5048">Zaren</persName> gewählte Reiseroute bedeute keine Unhöflichkeit gegen 
           <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_8_5049">Oesterreich</placeName>, 
           <hi rendition="#ul" xml:id="Bae_TB_8_5050">da keine Verpflichtung</hi> bestanden habe, österreichisches Gebiet zu durchqueren. 
