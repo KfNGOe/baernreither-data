@@ -7713,7 +7713,7 @@
         <pb facs="#F_K-6_Bae_TB_1_170" n="87r" xml:id="Bae_TB_1_5452"/>
         <p xml:id="Bae_TB_1_6126">
           <anchor xml:id="Bae_TB_1_6127"/>Doch sah ich ein, dass er recht gehandelt habe. 
-          <app from="#" type="equal" xml:id="Bae_TB_1_5453">
+          <app from="#Bae_MF_1_4324" type="equal" xml:id="Bae_TB_1_5453">
             <rdg wit="Bae_MF_1" xml:id="Bae_TB_1_5454">Doch sah ich ein, daß er recht gehandelt habe.</rdg>
           </app>
           <anchor xml:id="Bae_TB_1_5455"/>Mitten 
@@ -7794,8 +7794,7 @@
             <abbr xml:id="Bae_TB_1_5509">u.</abbr>
             <expan xml:id="Bae_TB_1_5510">und</expan>
           </choice> hauptsächlich 
-          <hi rendition="#ul" xml:id="Bae_TB_1_5511">durch</hi>
-          <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_TB_1_5512">Dumreicher</persName> in die Tiefen der italienischen Kunstgeschichte einige wertvolle Einblicke erhielt. Diesmal sind es die beiden der Zeit 
+          <hi rendition="#ul" xml:id="Bae_TB_1_5511">durch</hi> <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_TB_1_5512">Dumreicher</persName> in die Tiefen der italienischen Kunstgeschichte einige wertvolle Einblicke erhielt. Diesmal sind es die beiden der Zeit 
           <choice xml:id="Bae_TB_1_5513">
             <abbr xml:id="Bae_TB_1_5514">u.</abbr>
             <expan xml:id="Bae_TB_1_5515">und</expan>

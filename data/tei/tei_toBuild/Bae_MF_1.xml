@@ -3305,7 +3305,7 @@
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_2319">Als ich jedoch in Prag ankam, wurde ich schon im "blauen Stern" sehr erregt gefragt, warum wir das gethan hätten u. warum wir uns vom "deutschen Volke" trennen? Ich fuhr sofort zu Schlesinger, wo ich wusste, dass Thun zu finden war. Wir drei hatten dann (es war um 6 Uhr am 22. August) eine eingehende Conferenz. Anfangs war mir die Sache auch in die Nase gefahren, dass Thun ohne weiters angenommen hatte, um so mehr als in der letzten am 11. Juli in Wien abgehaltenen Obmännerconferenz beschlossen worden war, dass wenn eine Einladung zu einer Friedensconferenz erfolgen würde, sofort eine neuerliche Besprechung zu veranstalten sei, um Stellung zu nehmen. Thun hatte also eigentlich gar nicht die Legitimation die Einladung anzunehmen.</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_4324"/>Doch sah ich ein, daß er recht gehandelt habe. 
-          <app from="#" type="equal" xml:id="Bae_MF_1_4325">
+          <app from="#Bae_TB_1_6127" type="equal" xml:id="Bae_MF_1_4325">
             <rdg wit="Bae_TB_1" xml:id="Bae_MF_1_4326">Doch sah ich ein, dass er recht gehandelt habe.</rdg>
           </app>
           <anchor xml:id="Bae_MF_1_2320"/>Selbst mitten 
@@ -3345,8 +3345,7 @@
           <anchor xml:id="Bae_MF_1_2345"/>Wir fuhren nach 
           <placeName key="Bologna" ref="https://www.geonames.org/3181928/bologna.html" xml:id="Bae_MF_1_2346">Bologna</placeName>, wo ich wieder drei Tage in intensivster und angenehmster Weise 
           <hi rendition="#ul" xml:id="Bae_MF_1_2347">mit</hi> und hauptsächlich 
-          <hi rendition="#ul" xml:id="Bae_MF_1_2348">durch</hi>
-          <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_MF_1_2349">Dumreicher</persName> in die Tiefen der italienischen Kunstgeschichte einige wertvolle Einblicke erhielt. Diesmal sind es die beiden die Zeit und Richtung allerdings ziemlich weit auseinanderliegenden Meister: 
+          <hi rendition="#ul" xml:id="Bae_MF_1_2348">durch</hi> <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_MF_1_2349">Dumreicher</persName> in die Tiefen der italienischen Kunstgeschichte einige wertvolle Einblicke erhielt. Diesmal sind es die beiden die Zeit und Richtung allerdings ziemlich weit auseinanderliegenden Meister: 
           <persName key="FranciaFrancesco" ref="https://d-nb.info/gnd/102458979" xml:id="Bae_MF_1_2350">Francesco Francia</persName> und 
           <persName key="ReniGuido" ref="https://d-nb.info/gnd/118599712" xml:id="Bae_MF_1_2351">Guido Reni</persName>, deren näheres Studium mir 
           <persName key="DumreicherArmand" ref="https://d-nb.info/gnd/116251093" xml:id="Bae_MF_1_2352">Dumreicher</persName> vermittelte. Die betreffenden Tagebuchblätter 
