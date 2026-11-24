@@ -584,7 +584,7 @@
               <abbr xml:id="Bae_TB_9_403">M.</abbr>
               <expan xml:id="Bae_TB_9_404">Ministerium</expan>
             </choice>
-          </orgName> nimmt in keiner Sprachenfrage Stellung, Alles bleibt liegen. <!-- identity unknown -->
+          </orgName> nimmt in keiner <index><term key="Nationalitaetenkonflikt">Sprachenfrage</term><index><term key="Sprachenfrage"/></index></index> Stellung, Alles bleibt liegen. <!-- identity unknown -->
           <persName key="KrausViktor" ref="no_ref" xml:id="Bae_TB_9_405">Kraus</persName> an die
           Stelle <!-- identity unknown -->
           <persName key="SafarikFrantisek" ref="https://d-nb.info/gnd/170152413"
@@ -640,7 +640,7 @@
           Wahlreform).</p>
         <p xml:id="Bae_TB_9_438">2. Verwaltungsreform: Entwürfe, betreffend die Einführung von
           Kreisregierungen und Kreisvertretungen.</p>
-        <p xml:id="Bae_TB_9_439">3. Sprachenfrage: Entwürfe, betreffend den Sprachengebrauch bei den
+        <p xml:id="Bae_TB_9_439">3. <index><term key="Nationalitaetenkonflikt">Sprachenfrage</term><index><term key="Sprachenfrage"/></index></index>: Entwürfe, betreffend den Sprachengebrauch bei den
           landesfürstlichen und autonomen Behörden, Aemternund Anstalten.</p>
         <p xml:id="Bae_TB_9_440">4. Volksschule: Novelle zu den böhmischen Landesgesetzen,
           betreffend die Schulpflicht, die Schulerrichtung, Schulerhaltung und den Schulbesuch
@@ -662,7 +662,7 @@
           deutschen landesfürstlichen Aemter mit den Parteien jener faktische Zustand wieder
           hergestellt werde, wie er vor Erlassung der <persName key="BadeniKasimir"
             ref="https://d-nb.info/gnd/118651625" xml:id="Bae_TB_9_446">Badenischen</persName>
-          Sprachenverorbnung bestand; weiter dafür zu sorgen, daß von politischer Seite jeder
+          <index><term key="Reichsrat">Sprachenverorbnung</term><index><term key="SprachenverordnungenBadeni"/></index></index> bestand; weiter dafür zu sorgen, daß von politischer Seite jeder
           Versuch unterlassen werde, die deutschen landesfürstlichen Aemter im Sinne, einer diesem
           Zustande widersprechenden Praxis zu beeinflussen. </p>
         <p xml:id="Bae_TB_9_447">Der <orgName key="LandtagBoehmen"
@@ -746,7 +746,7 @@
             ref="https://www.geonames.org/6354998/schloss-schoenbrunn.html" xml:id="Bae_TB_9_496"
             >Schönbrunn</placeName> klugerweise gesagt, dass <!-- identity unknown -->
           <persName key="KoenigEdward" ref="https://d-nb.info/gnd/118528955" xml:id="Bae_TB_9_497"
-            >Eduard</persName> sich über die Annexion sehr ärgere. Darüber unverhohlene Freude
+            >Eduard</persName> sich über die <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> sehr ärgere. Darüber unverhohlene Freude
             <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892"
             xml:id="Bae_TB_9_498">Wilhelms</persName>, dass "der jenseits des Canals sich ärgere".
           Die <choice xml:id="Bae_TB_9_499">
@@ -870,7 +870,7 @@
                 <abbr xml:id="Bae_TB_9_575">böhm.</abbr>
                 <expan xml:id="Bae_TB_9_577">böhmischen</expan>
               </choice>
-            </placeName> Landtag </orgName> den Sturz <persName key="BeckMaxWladimir"
+            </placeName> Landtag</orgName> den Sturz <persName key="BeckMaxWladimir"
             ref="https://d-nb.info/gnd/118654373" xml:id="Bae_TB_9_579">Beck's</persName> planmässig
           vorbereitet haben. In der letzten Sitzung haben die <choice xml:id="Bae_TB_9_580">
             <abbr xml:id="Bae_TB_9_581">čech.</abbr>
@@ -883,7 +883,7 @@
           Länge gezogen <choice xml:id="Bae_TB_9_585">
             <abbr xml:id="Bae_TB_9_586">u.</abbr>
             <expan xml:id="Bae_TB_9_587">und</expan>
-          </choice> die nächste Sitzung für den nächsten Tag angeordnet. Es sollte die Obstruction
+          </choice> die nächste Sitzung für den nächsten Tag angeordnet. Es sollte die <index><term key="BoehmischerLandtag">Obstruction</term><index><term key="Obstruktion"/></index></index>
           besiegt werden. <pb facs="#F_K-4_Bae_TB_9_019" n="8av" xml:id="Bae_TB_9_588"/>
           <note type="editorial" xml:id="Bae_TB_9_589">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_9_020" n="9r" xml:id="Bae_TB_9_590"/>Das haben wie <!-- identity unknown -->
@@ -932,7 +932,8 @@
           die Zustände für ganz unhaltbar <choice xml:id="Bae_TB_9_618">
             <abbr xml:id="Bae_TB_9_619">u.</abbr>
             <expan xml:id="Bae_TB_9_620">und</expan>
-          </choice> redeten viel darüber herum was zu machen. "Den Kaiser in ein anderes Milieu
+          </choice> redeten viel darüber herum was zu machen. "Den <persName key="KaiserFranzJosef"
+            ref="https://d-nb.info/gnd/118535013">Kaiser</persName> in ein anderes Milieu
           bringen"! – aber <hi rendition="#ul" xml:id="Bae_TB_9_621">wie</hi> frug ich. "Ein
           Ministerium der That vorbereiten" – wer wird es einsetzen frug ich. Schliesslich kamen wir
           überein bei <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033"
