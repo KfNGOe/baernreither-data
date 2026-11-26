@@ -941,7 +941,7 @@
           oberflächlich gekleistertes Coalitionsministerium zu Stande komme. <persName
             key="DzieduszyckiWojciech" ref="https://d-nb.info/gnd/119285320" xml:id="Bae_TB_9_623"
             >Dzieduszycki</persName> erzählte von dem Portefeuillehunger in seiner <orgName
-            key="Verfassungspartei" ref="no_ref" xml:id="Bae_TB_9_624">Partei</orgName>. Jeder will
+              key="Polenklub" ref="https://d-nb.info/gnd/1050830423" xml:id="Bae_TB_9_624">Partei</orgName>. Jeder will
           Minister werden, wie bei den Deutschen. </p>
         <p xml:id="Bae_TB_9_625">Ich arbeitete den ganzen Tag an meiner Skizze über die böhmischen
           Angelegenheiten für die Conferenz, die wir mit den conservativen Herren aus <placeName
@@ -994,7 +994,7 @@
         <p xml:id="Bae_TB_9_654">Am <date when="1909-07-02" xml:id="Bae_TB_9_655">2. Juli
             1909</date> fand bei <persName key="FuerstenbergMaxEgon"
             ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_9_656">Fürstenberg</persName> eine
-          Conferenz statt ( <persName key="FuerstenbergMaxEgon"
+          Conferenz statt (<persName key="FuerstenbergMaxEgon"
             ref="https://d-nb.info/gnd/116847034" xml:id="Bae_TB_9_657">
             <choice xml:id="Bae_TB_9_658">
               <abbr xml:id="Bae_TB_9_659">Fberg</abbr>
@@ -1316,7 +1316,8 @@
             xml:id="Bae_TB_9_852">Wien</placeName>
           <date when="1909-11-20" type="diaryEntry" xml:id="Bae_TB_9_853">20.11.09</date>
           <app from="#" type="notEqual">
-            <rdg wit="Bae_MF_SSP">IV. Aehrenthal und Milanovich.</rdg>
+            <rdg wit="Bae_MF_SSP">IV. <persName key="AehrenthalAloys"
+              ref="https://d-nb.info/gnd/119182033">Aehrenthal</persName> und <persName key="MilovanovicMilovan" ref="https://d-nb.info/gnd/118949470">Milanovich</persName>.</rdg>
           </app></head>
         <p xml:id="Bae_TB_9_854">Gestern Abend bei Hr. <!-- identity unknown -->
           <persName key="DespicPero" ref="no_ref" xml:id="Bae_TB_9_855">Pero Despić</persName> mit <!-- identity unknown -->
@@ -1416,10 +1417,10 @@
               >Bulgarien</placeName>
           </hi> hat natürlich eine Anziehungskraft weil man <placeName key="Russland"
             ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_9_917"
-            >Russland</placeName> hinter <choice xml:id="Bae_TB_9_918">
+            >Russland</placeName> hinter <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html"><choice xml:id="Bae_TB_9_918">
             <abbr xml:id="Bae_TB_9_919">B.</abbr>
             <expan xml:id="Bae_TB_9_920">Bulgarien</expan>
-          </choice> weis, auch wegen der slawischen Idee. In dem letzten Jahr hat <add
+          </choice></placeName> weis, auch wegen der slawischen Idee. In dem letzten Jahr hat <add
             place="across" xml:id="Bae_TB_9_921">Hinneigung zu</add>
           <placeName key="Bulgarien" ref="https://www.geonames.org/732800/republic-of-bulgaria.html"
             xml:id="Bae_TB_9_922">Bulgarien</placeName> bedeutend zugenommen, auch natürlich, da von
@@ -1459,10 +1460,11 @@
             >Serbien</placeName> den <choice xml:id="Bae_TB_9_945">
             <abbr xml:id="Bae_TB_9_946">öster.</abbr>
             <expan xml:id="Bae_TB_9_947">österreichischen</expan>
-          </choice> Stempel. <choice xml:id="Bae_TB_9_948">
+            </choice> Stempel. <placeName key="Oesterreich"
+              ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_948">
             <abbr xml:id="Bae_TB_9_949">Ö.</abbr>
             <expan xml:id="Bae_TB_9_950">Österreich</expan>
-          </choice> ist natürliches Absatzgebiet unserer Producte <choice xml:id="Bae_TB_9_951">
+          </choice></placeName> ist natürliches Absatzgebiet unserer Producte <choice xml:id="Bae_TB_9_951">
             <abbr xml:id="Bae_TB_9_952">u.</abbr>
             <expan xml:id="Bae_TB_9_953">und</expan>
           </choice> unser Kaufhaus – alles andere ist gegen die geografische Lage. Die äussere
@@ -1485,23 +1487,25 @@
         <p xml:id="Bae_TB_9_966">
           <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"
             xml:id="Bae_TB_9_967">Serbien</placeName> wird jetzt seinen Minimaltarif in einigen
-          Punkten revidiren um mit <choice xml:id="Bae_TB_9_968">
+          Punkten revidiren um mit <placeName key="Oesterreich"
+            ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_968">
             <abbr xml:id="Bae_TB_9_969">Ö.</abbr>
             <expan xml:id="Bae_TB_9_970">Österreich</expan>
-          </choice> wenigstens zu einem Meistbegünstigungsvertrag zu kommen. Auf meine ausdrückliche
-          Frage: allerdings wäre Zoll <choice xml:id="Bae_TB_9_971">
+          </choice></placeName> wenigstens zu einem Meistbegünstigungsvertrag zu kommen. Auf meine ausdrückliche
+          Frage: allerdings wäre <index><term key="OesterreichUngarn">Zoll <choice xml:id="Bae_TB_9_971">
             <abbr xml:id="Bae_TB_9_972">u.</abbr>
             <expan xml:id="Bae_TB_9_973">und</expan>
-          </choice> Handelsbündnis das richtige, aber zuerst müsste es zu Handelsvertrag kommen,
+          </choice> Handelsbündnis</term><index><term key="Zollbuendnis"/></index></index> das richtige, aber zuerst müsste es zu <index><term key="OesterreichUngarn">Handelsvertrag</term><index><term key="Handelsvertraege"/></index></index> kommen,
           schrittweise, denn die beiden Productionsgebiete müssen sich nach <choice
             xml:id="Bae_TB_9_974">
             <abbr xml:id="Bae_TB_9_975">u.</abbr>
             <expan xml:id="Bae_TB_9_976">und</expan>
           </choice> nach aneinander anpassen. Ja je länger es dauert desto schwerer wird es werden.
-          Platz von <choice xml:id="Bae_TB_9_977">
+          Platz von <placeName key="Oesterreich"
+            ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_977">
             <abbr xml:id="Bae_TB_9_978">Ö.</abbr>
             <expan xml:id="Bae_TB_9_979">Österreich</expan>
-          </choice> nimmt <placeName key="England"
+          </choice></placeName> nimmt <placeName key="England"
             ref="https://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html"
             xml:id="Bae_TB_9_980">England</placeName>
           <choice xml:id="Bae_TB_9_981">
@@ -1517,44 +1521,46 @@
             </choice>
           </placeName> ein. Engländer sind wieder zu verdrängen, die Deutschen nicht. Grosse
           Anpassungsfähigkeit an die Bedürfnisse, Wünsche, Formen der Bevölkerung. Darin ist der
-          deutsche Comis [...] ein Meister. Das wird <choice xml:id="Bae_TB_9_987">
+          deutsche Comis [...] ein Meister. Das wird <placeName key="Oesterreich"
+            ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_987">
             <abbr xml:id="Bae_TB_9_988">Ö.</abbr>
             <expan xml:id="Bae_TB_9_989">Österreich</expan>
-          </choice> nicht mehr zurückerobern. Die deutschen Waaren kommen auf der Donau mit der <!-- identity unknown -->
-          <orgName key="SueddeutscheDonauSchifffahrt" ref="no_ref" xml:id="Bae_TB_9_990">
+          </choice></placeName> nicht mehr zurückerobern. Die deutschen Waaren kommen auf der Donau mit der <!-- identity unknown -->
+          <orgName key="SueddeutscheDonauSchifffahrt" xml:id="Bae_TB_9_990">
             <choice xml:id="Bae_TB_9_991">
               <abbr xml:id="Bae_TB_9_992">Südd.</abbr>
               <expan xml:id="Bae_TB_9_993">Süddeutschen</expan>
-            </choice> Dampfgesellschaft </orgName> und der <!-- identity unknown -->
+            </choice> Dampfgesellschaft</orgName> und der <!-- identity unknown -->
           <orgName key="OesterreichischeDonaudampfschifffahrtsgesellschaft"
             ref="https://d-nb.info/gnd/1056582-6" xml:id="Bae_TB_9_994">Ö.D.D.G.</orgName> auch mit
-          der Eisenbahn. <choice xml:id="Bae_TB_9_995">
+          der Eisenbahn. <placeName key="Oesterreich"
+            ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_995">
             <abbr xml:id="Bae_TB_9_996">Ö.</abbr>
             <expan xml:id="Bae_TB_9_997">Österreich</expan>
-          </choice> fürt seinen gefärlichsten Concurrenten seine Waren herein. Keine Gefaren der
-          Viehseuchen. Das Vieh lebt in <choice xml:id="Bae_TB_9_998">
+          </choice></placeName> fürt seinen gefärlichsten Concurrenten seine Waren herein. Keine Gefaren der
+          Viehseuchen. Das Vieh lebt in <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"><choice xml:id="Bae_TB_9_998">
             <abbr xml:id="Bae_TB_9_999">S.</abbr>
             <expan xml:id="Bae_TB_9_1000">Serbien</expan>
-          </choice> in natürlichen Verhältnissen, gesunde Weide, keine Fabriken <choice
+          </choice></placeName> in natürlichen Verhältnissen, gesunde Weide, keine Fabriken <choice
             xml:id="Bae_TB_9_1001">
             <abbr xml:id="Bae_TB_9_1002">o.</abbr>
             <expan xml:id="Bae_TB_9_1003">oder</expan>
           </choice> Stallfütterung. Die Schweinepest ist von <placeName key="Ungarn"
             ref="https://www.geonames.org/719819/hungary.html" xml:id="Bae_TB_9_1004"
-            >Ungarn</placeName> nach <choice xml:id="Bae_TB_9_1005">
+            >Ungarn</placeName> nach <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"><choice xml:id="Bae_TB_9_1005">
             <abbr xml:id="Bae_TB_9_1006">S.</abbr>
             <expan xml:id="Bae_TB_9_1007">Serbien</expan>
-          </choice> gekommen <choice xml:id="Bae_TB_9_1008">
+          </choice></placeName> gekommen <choice xml:id="Bae_TB_9_1008">
             <abbr xml:id="Bae_TB_9_1009">u.</abbr>
             <expan xml:id="Bae_TB_9_1010">und</expan>
           </choice> dort erloschen. Keine endemischen Viehkrankheiten. Schlachthäuser in <placeName
             key="Belgrad" ref="https://www.geonames.org/8199669/belgrade.html"
             xml:id="Bae_TB_9_1011">Belgrad</placeName>. </p>
         <p xml:id="Bae_TB_9_1012">2. <hi rendition="#ul" xml:id="Bae_TB_9_1013">Verkehrswege</hi>.
-            <choice xml:id="Bae_TB_9_1014">
+          <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_1014">
             <abbr xml:id="Bae_TB_9_1015">Ö.</abbr>
             <expan xml:id="Bae_TB_9_1016">Österreich</expan>
-          </choice> kann <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"
+          </choice></placeName> kann <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"
             xml:id="Bae_TB_9_1017">Serbien</placeName> nicht abschliessen von der Welt: Weg nach
             <placeName key="Thessaloniki"
             ref="https://www.geonames.org/734075/nomos-thessalonikis.html" xml:id="Bae_TB_9_1018"
@@ -1562,10 +1568,10 @@
           <choice xml:id="Bae_TB_9_1019">
             <abbr xml:id="Bae_TB_9_1020">u.</abbr>
             <expan xml:id="Bae_TB_9_1021">und</expan>
-          </choice> Donau. Aber Umweg, nächste Verbindung nach <choice xml:id="Bae_TB_9_1022">
+          </choice> Donau. Aber Umweg, nächste Verbindung nach <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_1022">
             <abbr xml:id="Bae_TB_9_1023">Ö.</abbr>
             <expan xml:id="Bae_TB_9_1024">Österreich</expan>
-          </choice>. Meine Frage Donau-Adria hat er überhört <choice xml:id="Bae_TB_9_1025">
+          </choice></placeName>. Meine Frage Donau-Adria hat er überhört <choice xml:id="Bae_TB_9_1025">
             <abbr xml:id="Bae_TB_9_1026">o.</abbr>
             <expan xml:id="Bae_TB_9_1027">oder</expan>
           </choice> ist ihr ausgewichen, ich vergass darauf zurückzukommen. <placeName
@@ -1574,11 +1580,11 @@
           <choice xml:id="Bae_TB_9_1029">
             <abbr xml:id="Bae_TB_9_1030">u.</abbr>
             <expan xml:id="Bae_TB_9_1031">und</expan>
-          </choice> Donauweg werden aber zurücktreten wenn sich nun die Tür nach <choice
+          </choice> Donauweg werden aber zurücktreten wenn sich nun die Tür nach <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice
             xml:id="Bae_TB_9_1032">
             <abbr xml:id="Bae_TB_9_1033">Ö.</abbr>
             <expan xml:id="Bae_TB_9_1034">Österreich</expan>
-          </choice> öffnet. Er scheut es, hart zu empfinden, dass Waffenlieferungen über <placeName
+          </choice></placeName> öffnet. Er scheut es, hart zu empfinden, dass Waffenlieferungen über <placeName
             key="Thessaloniki" ref="https://www.geonames.org/734075/nomos-thessalonikis.html"
             xml:id="Bae_TB_9_1035">Saloniki</placeName> müssen statt über <placeName
             key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"
@@ -1608,14 +1614,12 @@
           Klarheit in der Frage: wie <hi rendition="#ul" xml:id="Bae_TB_9_1053">wird sich <placeName
               key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"
               xml:id="Bae_TB_9_1054">Österreich</placeName> zu diesen Interessen verhalten </hi>? Es
-          wäre nötig, dass wir klar sehen welche Linie unsere Interessen <choice
+          wäre nötig, dass wir klar sehen welche Linie unsere Interessen <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice
             xml:id="Bae_TB_9_1055">
             <abbr xml:id="Bae_TB_9_1056">Ö.</abbr>
             <expan xml:id="Bae_TB_9_1057">Österreich</expan>
-          </choice> anerkennt. Wenn es zu einer wirklichen Entente kommen soll muss auch über diesen
-          Punkt Klarheit geschaffen werden. <placeName key="Serbien"
-            ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_9_1058"
-            >Altserbien</placeName>
+          </choice></placeName> anerkennt. Wenn es zu einer wirklichen Entente kommen soll muss auch über diesen
+          Punkt Klarheit geschaffen werden. Altserbien
           <placeName key="Amselfeld" ref="https://www.geonames.org/789229/kosovo-polje.html"
             xml:id="Bae_TB_9_1059">Amselfeld</placeName>. (dies ist mit ihm fortzusetzen.
           Vereinigung <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"
@@ -1642,10 +1646,10 @@
             xml:id="Bae_TB_9_1073">Trentino</placeName> würde). </p>
         <p xml:id="Bae_TB_9_1074">
           <add place="left" xml:id="Bae_TB_9_1075">Zusicherung, dass wenn es zum Klappen kommt
-              <choice xml:id="Bae_TB_9_1076">
+            <placeName key="Serbien" ref="https://www.geonames.org/6290252/serbia.html"><choice xml:id="Bae_TB_9_1076">
               <abbr xml:id="Bae_TB_9_1077">S.</abbr>
               <expan xml:id="Bae_TB_9_1078">Serbien</expan>
-            </choice> auf gewisse Teile rechnen kann. </add>
+            </choice></placeName> auf gewisse Teile rechnen kann. </add>
           <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_1079"
             >Österreich</placeName> müsste also eine ganz andere Politik machen um den Anschluss zu
@@ -1668,11 +1672,12 @@
             <expan xml:id="Bae_TB_9_1092">öffentlichen</expan>
           </choice> Meinung <placeName key="Serbien"
             ref="https://www.geonames.org/6290252/serbia.html" xml:id="Bae_TB_9_1093"
-            >Serbiens</placeName> zu Stande käme würde das anders werden. In <choice
+            >Serbiens</placeName> zu Stande käme würde das anders werden. In <placeName key="Serbien"
+              ref="https://www.geonames.org/6290252/serbia.html"><choice
             xml:id="Bae_TB_9_1094">
             <abbr xml:id="Bae_TB_9_1095">S.</abbr>
             <expan xml:id="Bae_TB_9_1096">Serbien</expan>
-          </choice> entscheidet die Volksstimmung <choice xml:id="Bae_TB_9_1097">
+          </choice></placeName> entscheidet die Volksstimmung <choice xml:id="Bae_TB_9_1097">
             <abbr xml:id="Bae_TB_9_1098">u.</abbr>
             <expan xml:id="Bae_TB_9_1099">und</expan>
           </choice>
@@ -1773,10 +1778,10 @@
           einen modernen Staat nicht assimilierbar. Hindernisse der Culturentwicklung in <placeName
             key="Bosnien" ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html"
             xml:id="Bae_TB_9_1167">Bosnien</placeName>, die nur in der Emancipation der Bauern auf
-          Kosten der Grundherren bestehen kann. <choice xml:id="Bae_TB_9_1168">
+          Kosten der Grundherren bestehen kann. <placeName key="Oesterreich" ref="https://www.geonames.org/2782113/republic-of-austria.html"><choice xml:id="Bae_TB_9_1168">
             <abbr xml:id="Bae_TB_9_1169">Ö.</abbr>
             <expan xml:id="Bae_TB_9_1170">Österreich</expan>
-          </choice> kann die Mohammedaner daher nie zufriedenstellen <choice xml:id="Bae_TB_9_1171">
+          </choice></placeName> kann die Mohammedaner daher nie zufriedenstellen <choice xml:id="Bae_TB_9_1171">
             <abbr xml:id="Bae_TB_9_1172">u.</abbr>
             <expan xml:id="Bae_TB_9_1173">und</expan>
           </choice> muss mit ihnen in Conflikt kommen. In <placeName key="Serbien"
@@ -1820,10 +1825,10 @@
             >Darányi</persName>, der alles vereitelt <choice xml:id="Bae_TB_9_1198">
             <abbr xml:id="Bae_TB_9_1199">u.</abbr>
             <expan xml:id="Bae_TB_9_1200">und</expan>
-          </choice> den Abschluss der <choice xml:id="Bae_TB_9_1201">
+            </choice> den Abschluss der <index><term key="OesterreichUngarn"><choice xml:id="Bae_TB_9_1201">
             <abbr xml:id="Bae_TB_9_1202">H.</abbr>
             <expan xml:id="Bae_TB_9_1203">Handels</expan>
-          </choice>Verträge hindert. <persName key="AehrenthalAloys"
+            </choice>Verträge</term><index><term key="Handelsvertraege"/></index></index> hindert. <persName key="AehrenthalAloys"
             ref="https://d-nb.info/gnd/119182033" xml:id="Bae_TB_9_1204">
             <choice xml:id="Bae_TB_9_1205">
               <abbr xml:id="Bae_TB_9_1206">Athal.</abbr>
@@ -1855,7 +1860,7 @@
           </choice> findet ihn sehr gut. Für die Gesamtmonarchie, der Mann der Zukunft, jetzt aber
             <add place="across" xml:id="Bae_TB_9_1223">noch</add> nicht. Die Politik <persName
             key="KossuthLajos" ref="https://d-nb.info/gnd/118565702" xml:id="Bae_TB_9_1224"
-            >Kossuth</persName>- <persName key="JusthGyula" ref="https://d-nb.info/gnd/1012930025"
+            >Kossuth</persName>-<persName key="JusthGyula" ref="https://d-nb.info/gnd/1012930025"
             xml:id="Bae_TB_9_1225">Just</persName> aufzubrauchen <choice xml:id="Bae_TB_9_1226">
             <abbr xml:id="Bae_TB_9_1227">u.</abbr>
             <expan xml:id="Bae_TB_9_1228">und</expan>
@@ -1875,8 +1880,8 @@
         <p xml:id="Bae_TB_9_1237">Aber was jetzt? Ein Schwebezustand. <choice xml:id="Bae_TB_9_1238">
             <abbr xml:id="Bae_TB_9_1239">Militär.</abbr>
             <expan xml:id="Bae_TB_9_1240">Militärische</expan>
-          </choice> Concessionen macht <persName key="KaiserFranzJosef"
-            ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_1241">der Kaiser</persName>
+        </choice> Concessionen macht der <persName key="KaiserFranzJosef"
+            ref="https://d-nb.info/gnd/118535013" xml:id="Bae_TB_9_1241">Kaiser</persName>
           nicht. Keine Compagniesprache, aber Unterhandlungen auf wirtschaftlichem Gebiet: <hi
             rendition="#ul" xml:id="Bae_TB_9_1242">Barzahlungen</hi> und <hi rendition="#ul"
             xml:id="Bae_TB_9_1243">Zwischenzolllinie</hi>. Aber Unterhandlungen die <hi
@@ -1972,10 +1977,10 @@
           fertig sein? Antwort: wir kämen nur um 1/2 Jahr zu spät. Meine Replik: wenn für die
           Dreadnoughts alles in <placeName key="Oesterreich"
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_1313"
-            >Österreich</placeName>- <choice xml:id="Bae_TB_9_1314">
+            >Österreich</placeName>- <placeName key="Ungarn" ref="https://www.geonames.org/719819/hungary.html"><choice xml:id="Bae_TB_9_1314">
             <abbr xml:id="Bae_TB_9_1315">U.</abbr>
             <expan xml:id="Bae_TB_9_1316">Ungarn</expan>
-          </choice> beschafft werden soll <choice xml:id="Bae_TB_9_1317">
+          </choice></placeName> beschafft werden soll <choice xml:id="Bae_TB_9_1317">
             <abbr xml:id="Bae_TB_9_1318">u.</abbr>
             <expan xml:id="Bae_TB_9_1319">und</expan>
           </choice> der Bau auch können wir 3 solcher Schiffe nicht in 3 1/2 Jahren bauen, besonders
@@ -1990,7 +1995,7 @@
           </choice> meinte bei diesen Verhältnissen sei es schwer <choice xml:id="Bae_TB_9_1327">
             <abbr xml:id="Bae_TB_9_1328">M.</abbr>
             <expan xml:id="Bae_TB_9_1329">Minister</expan>
-          </choice> des Äussern sein. Der grosse Erfolg des Frühjahres sei aufgezehrt. </p>
+          </choice> des <orgName key="MinisteriumdesAeussern" ref="https://d-nb.info/gnd/119828-2">Äussern</orgName> sein. Der grosse Erfolg des Frühjahres sei aufgezehrt. </p>
         <pb facs="#F_K-4_Bae_TB_9_047" n="22v" xml:id="Bae_TB_9_1330"/>
         <note type="editorial" xml:id="Bae_TB_9_1331">Diese Seite ist leer.</note>
         <pb facs="#F_K-4_Bae_TB_9_048" n="23r" xml:id="Bae_TB_9_1332"/>
@@ -2048,7 +2053,7 @@
             <abbr xml:id="Bae_TB_9_1376">Cz.</abbr>
             <expan xml:id="Bae_TB_9_1377">Czechen</expan>
           </choice> miteinander in merito verhandeln. Er ist einverstanden ja keine voreilige
-          Anwendung des § 14 in der Sprachenfrage. § 14 aber überhaupt nur um ernste Sachen zu
+          Anwendung des <index><term key="KaiserlichesNotverordnungsrecht">§ 14</term><index><term key="Paragraph14"/></index></index> in der <index><term key="Nationalitaetenkonflikt">Sprachenfrage</term><index><term key="Sprachenfrage"/></index></index>. <index><term key="KaiserlichesNotverordnungsrecht">§ 14</term><index><term key="Paragraph14"/></index></index> aber überhaupt nur um ernste Sachen zu
           entscheiden. Hier versandete die Conversation leider, wiewol ich trachtete so concret zu
           sprechen als möglich. Sehr lebhaft erklärte er sich einverstanden, als ich sagte, dass die
           Deutschen die Aufgabe haben die Slawen in <placeName key="Oesterreich"
@@ -2180,7 +2185,7 @@
             <expan xml:id="Bae_TB_9_1462">militärischen</expan>
           </choice> Kraft der <placeName key="Tuerkei"
             ref="https://www.geonames.org/298795/republic-of-turkey.html" xml:id="Bae_TB_9_1463"
-            >Türkei</placeName> ( <persName key="GoltzColmar" ref="https://d-nb.info/gnd/118696319"
+            >Türkei</placeName> (<persName key="GoltzColmar" ref="https://d-nb.info/gnd/118696319"
             xml:id="Bae_TB_9_1464">Golz</persName>!) zu Gunsten eines Zusammenschlusses der beiden
           Mächte, nur wirksam gegen <placeName key="Russland"
             ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_9_1465"
@@ -2190,7 +2195,7 @@
             <expan xml:id="Bae_TB_9_1468">oder</expan>
           </choice> fernern Zukunft gilt als unvermeidlich, weil <placeName key="Russland"
             ref="https://www.geonames.org/2017370/russian-federation.html" xml:id="Bae_TB_9_1469"
-            >Russland</placeName> die Annexion von <placeName key="Bosnien"
+            >Russland</placeName> die <index><term key="Bosnien">Annexion</term><index><term key="Annexion"/></index></index> von <placeName key="Bosnien"
             ref="https://www.geonames.org/3277605/bosnia-and-herzegovina.html"
             xml:id="Bae_TB_9_1470">
             <choice xml:id="Bae_TB_9_1471">
@@ -2293,7 +2298,7 @@
           <placeName key="Racconigi" ref="https://www.geonames.org/6542129/racconigi.html"
             xml:id="Bae_TB_9_1537">Racconigi</placeName>
           <note type="editorial" xml:id="Bae_TB_9_1538">Gemeint ist der russisch-italienische
-            Vertrag von Racconigi aus dem Jahr 1909 zum Erhalt des status quo auf dem Balkan und der
+            Vertrag von <placeName key="Racconigi" ref="https://www.geonames.org/6542129/racconigi.html">Racconigi</placeName> aus dem Jahr 1909 zum Erhalt des status quo auf dem Balkan und der
             Anerkennung italienischer Interessen in Nordafrika.</note> war sehr <choice
             xml:id="Bae_TB_9_1539">
             <abbr xml:id="Bae_TB_9_1540">gg.</abbr>
@@ -2451,7 +2456,7 @@
             xml:id="Bae_TB_9_1637">Hermenegild Wagner</persName> (der Redakteur des <!-- identity unknown -->
           <orgName key="SarajevoerTagblatt" ref="no_ref" xml:id="Bae_TB_9_1638">
             <placeName key="Sarajevo" ref="https://www.geonames.org/3191281/sarajevo.html"
-              xml:id="Bae_TB_9_1639">Sarajewoer</placeName> Tagblattes </orgName>, das
+              xml:id="Bae_TB_9_1639">Sarajewoer</placeName> Tagblattes</orgName>, das
           christlichsocial ist) und – <!-- identity unknown -->
           <persName key="HofrichterAdolf" ref="https://d-nb.info/gnd/126424128"
             xml:id="Bae_TB_9_1640">Hofrichter</persName>, der Giftmischer. Letzteres meinte er
@@ -2848,7 +2853,7 @@
             xml:id="Bae_TB_9_1877">Radowitz</persName> besucht, der mir sagte dass <placeName
             key="Konstantinopel" ref="https://www.geonames.org/745044/istanbul.html"
             xml:id="Bae_TB_9_1878">Constantinopel</placeName> im Februar scheusslich sei. </p>
-        <p xml:id="Bae_TB_9_1879">Prager Tage vom <date when="1910-01-06" xml:id="Bae_TB_9_1880"
+        <p xml:id="Bae_TB_9_1879"><placeName key="Prag" ref="https://www.geonames.org/3067696/prague.html">Prager</placeName> Tage vom <date when="1910-01-06" xml:id="Bae_TB_9_1880"
             >6.</date>- <date when="1910-01-10" xml:id="Bae_TB_9_1881">10.</date>
           <placeName key="Aussig" ref="https://www.geonames.org/3063548/usti-nad-labem.html"
             xml:id="Bae_TB_9_1882">Aussig</placeName> ( <!-- identity unknown -->
@@ -2934,7 +2939,7 @@
             >Wien</placeName> kein Schutz mehr für sie ist wird es zu einem Pakt mit den Czechen
           gedrängt: Erweiterung der <orgName key="LandtagBoehmen"
             ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_1938">Landtagsautonomie</orgName>
-          – eigene nationale Autonomie – allgemeines Stimmrecht. In diesen drei Worten liegen wenn
+          – eigene nationale Autonomie – <index><term key="BoehmischerLandtag">allgemeines Stimmrecht</term><index><term key="Wahlreform "/></index></index>. In diesen drei Worten liegen wenn
           man sie ausdenkt so schwerwiegende Compensationen für beide Theile, dass so ein Programm
           unter Hülfe der Soci's wohl einmal das Licht der Welt erblicken <choice
             xml:id="Bae_TB_9_1939">
@@ -3127,7 +3132,7 @@
             ref="https://www.geonames.org/2782113/republic-of-austria.html" xml:id="Bae_TB_9_2066"
             >Österreich</placeName> gute Politik mit hinterhältiger Methode. Er opfert kaltblütig
           seine Freunde, lässt Menschen, die für ihn arbeiten einfach sitzen. Von Volksströmungen,
-          politischen Situationen im Parlament hat er keine Idee <choice xml:id="Bae_TB_9_2067">
+          politischen Situationen im <orgName key="Reichsrat" ref="https://d-nb.info/gnd/35882-4">Parlament</orgName> hat er keine Idee <choice xml:id="Bae_TB_9_2067">
             <abbr xml:id="Bae_TB_9_2068">u.</abbr>
             <expan xml:id="Bae_TB_9_2069">und</expan>
           </choice> es kommt seiner Politik insgeheim zu Gute, dass jetzt auf absehbare Zeit keine
@@ -3292,10 +3297,10 @@
             <abbr xml:id="Bae_TB_9_2175">offiz.</abbr>
             <expan xml:id="Bae_TB_9_2176">öffiziösen</expan>
           </choice> Blätter ( <!-- identity unknown -->
-          <orgName key="PragerZeitung" ref="no_ref" xml:id="Bae_TB_9_2177">Prager Zeitung</orgName>,
+          <orgName key="PragerZeitung" xml:id="Bae_TB_9_2177">Prager Zeitung</orgName>,
             <orgName key="PragerAbendblatt" ref="no_ref" xml:id="Bae_TB_9_2178">Prager
             Abendblatt</orgName>, <!-- identity unknown -->
-          <orgName key="PrazskeNoviny" ref="no_ref" xml:id="Bae_TB_9_2179">Pražský
+          <orgName key="PrazskeNoviny" xml:id="Bae_TB_9_2179">Pražský
           novinky</orgName>) ihr Papier von der <!-- identity unknown -->
           <orgName key="Elbemuehle" ref="https://d-nb.info/gnd/1043681051" xml:id="Bae_TB_9_2180"
             >Elbemühle</orgName> ( <placeName key="Arnau"
@@ -3307,13 +3312,13 @@
             <expan xml:id="Bae_TB_9_2185">das heißt</expan>
           </choice> circa um 20% teurer als wie sie es sich wo anders verschaffen könnten. Das in
           einer Auflage von 60.000 erscheinende <!-- identity unknown -->
-          <orgName key="PragerAbendblatt" ref="no_ref" xml:id="Bae_TB_9_2186">Prager
+          <orgName key="PragerAbendblatt" xml:id="Bae_TB_9_2186">Prager
             Abendblatt</orgName> ist ein Privatunternehmen der <orgName key="StatthaltereiBoehmen"
             ref="https://d-nb.info/gnd/5057353-6" xml:id="Bae_TB_9_2187">Statthalterei</orgName>,
           während die offizöse <!-- identity unknown -->
-          <orgName key="PragerZeitung" ref="no_ref" xml:id="Bae_TB_9_2188">Prager Zeitung</orgName>
+          <orgName key="PragerZeitung" xml:id="Bae_TB_9_2188">Prager Zeitung</orgName>
           Staatssache ist. Die Druckerei des <!-- identity unknown -->
-          <orgName key="PragerAbendblatt" ref="no_ref" xml:id="Bae_TB_9_2189">Prager
+          <orgName key="PragerAbendblatt" xml:id="Bae_TB_9_2189">Prager
             Abendblattes</orgName> ist aber auch wieder ein Unternehmen für sich, dass man sich
           denken kann wie da durch Verrechnungen, was Drucken <choice xml:id="Bae_TB_9_2190">
             <abbr xml:id="Bae_TB_9_2191">u.</abbr>
@@ -3351,7 +3356,7 @@
           </choice> rufen lassen <choice xml:id="Bae_TB_9_2216">
             <abbr xml:id="Bae_TB_9_2217">u.</abbr>
             <expan xml:id="Bae_TB_9_2218">und</expan>
-          </choice> ihm erklärt, er müsse seine Demission geben. Darauf hin frug <persName
+          </choice> ihm erklärt, er müsse seine <index><term key="DemissionRegierung">Demission</term></index> geben. Darauf hin frug <persName
             key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_2219">
             <choice xml:id="Bae_TB_9_2220">
               <abbr xml:id="Bae_TB_9_2221">Sch.</abbr>
@@ -3420,8 +3425,7 @@
           </choice> in welchem Grade? Oder wird man es schlucken. Wenn letzteres geschieht, dann
           muss die bestehende geheime Gegnerschaft gegen <persName key="SchreinerGustav"
             ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_2263">Schreiner</persName> sehr
-          stark sein. Frau <persName key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500"
-            xml:id="Bae_TB_9_2264">Schreiner</persName> hatte am Morgen des fatalen Tages eine
+          stark sein. <persName key="SchreinerAmalie">Frau Schreiner</persName> hatte am Morgen des fatalen Tages eine
           Wohnung in <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
             xml:id="Bae_TB_9_2265">Wien</placeName> aufgenommen – die ehemalige Wohnung <persName
             key="KaizlJoseph" ref="https://d-nb.info/gnd/130553727" xml:id="Bae_TB_9_2266">
@@ -3462,7 +3466,7 @@
           Parteifreunde füllen die Zimmer. Wer aus dem Krankenzimmer kommt, wird mit Fragen
           bestürmt. Bestürzung auf allen Gesichtern. Auf einigen <add place="across"
             xml:id="Bae_TB_9_2290">ist</add> auch zu lesen wie die Gedanken weiter schweifen. Was
-          wird geschehen mit der <orgName key="Verfassungspartei" ref="no_ref"
+          wird geschehen mit der <orgName key="ChristlichsozialePartei" ref="https://d-nb.info/gnd/5199156-1"
             xml:id="Bae_TB_9_2291">Partei</orgName>, mit <placeName key="Wien"
             ref="https://www.geonames.org/2761369/vienna.html" xml:id="Bae_TB_9_2292"
             >Wien</placeName> mit dem Amt des Bürgermeisters? Ein bekannter Fiaker fragt mich: wer
@@ -3549,24 +3553,20 @@
               <abbr xml:id="Bae_TB_9_2346">Athal</abbr>
               <expan xml:id="Bae_TB_9_2347">Aehrenthal</expan>
             </choice>
-          </persName> die Brillanten zum schwarzen Adler beim <choice xml:id="Bae_TB_9_2348">
+          </persName> die Brillanten zum schwarzen Adler beim <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892"><choice xml:id="Bae_TB_9_2348">
             <abbr xml:id="Bae_TB_9_2349">d.</abbr>
             <expan xml:id="Bae_TB_9_2350">deutschen</expan>
-          </choice>
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
-            xml:id="Bae_TB_9_2351">Kaiser</persName> ausgeboten habe. <persName
+          </choice> Kaiser</persName> ausgeboten habe. <persName
             key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005"
             xml:id="Bae_TB_9_2352">
             <choice xml:id="Bae_TB_9_2353">
               <abbr xml:id="Bae_TB_9_2354">F.F.</abbr>
               <expan xml:id="Bae_TB_9_2355">Franz Ferdinand</expan>
             </choice>
-          </persName> habe dem <choice xml:id="Bae_TB_9_2356">
+          </persName> habe dem <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892"><choice xml:id="Bae_TB_9_2356">
             <abbr xml:id="Bae_TB_9_2357">d.</abbr>
             <expan xml:id="Bae_TB_9_2358">deutschen</expan>
-          </choice>
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
-            xml:id="Bae_TB_9_2359">Kaiser</persName> sehr erfüllt von gegnerischen Gefülen zu
+          </choice> Kaiser</persName> sehr erfüllt von gegnerischen Gefülen zu
             <persName key="AehrenthalAloys" ref="https://d-nb.info/gnd/119182033"
             xml:id="Bae_TB_9_2360">
             <choice xml:id="Bae_TB_9_2361">
@@ -3608,12 +3608,10 @@
             xml:id="Bae_TB_9_2387">
             <abbr xml:id="Bae_TB_9_2388">u.</abbr>
             <expan xml:id="Bae_TB_9_2389">und</expan>
-          </choice> Stimmungen des <choice xml:id="Bae_TB_9_2390">
+          </choice> Stimmungen des <persName key="KaiserWilhelmII" ref="https://d-nb.info/gnd/118632892"><choice xml:id="Bae_TB_9_2390">
             <abbr xml:id="Bae_TB_9_2391">d.</abbr>
             <expan xml:id="Bae_TB_9_2392">deutschen</expan>
-          </choice>
-          <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
-            xml:id="Bae_TB_9_2393">Kaisers</persName> ist, entnahm ich dass die Verstimmung in
+          </choice> Kaisers</persName> ist, entnahm ich dass die Verstimmung in
             <placeName key="Berlin" ref="https://www.geonames.org/6547383/berlin-stadt.html"
             xml:id="Bae_TB_9_2394">Berlin</placeName>
           <choice xml:id="Bae_TB_9_2395">
@@ -3667,7 +3665,7 @@
             >Doczi</persName> der Meinung ist dass um den Preis der von <persName
             key="AndrassyGyula" ref="https://d-nb.info/gnd/118502875" xml:id="Bae_TB_9_2426"
             >Andrassy</persName> geforderten militärischen Concession eine vollständige Reform des
-          Wehrgesetzes, Erhöhung des Recrutencontingents <choice xml:id="Bae_TB_9_2427">
+          Wehrgesetzes, Erhöhung des <index><term key="Reichsrat">Recrutencontingents</term><index><term key="Rekrutenkontingent"/></index></index> <choice xml:id="Bae_TB_9_2427">
             <abbr xml:id="Bae_TB_9_2428">u.</abbr>
             <expan xml:id="Bae_TB_9_2429">und</expan>
           </choice> Herstellung einer imposanten Wehrmacht <placeName key="Oesterreich"
@@ -3713,7 +3711,7 @@
         <p xml:id="Bae_TB_9_2455">
           <placeName key="Wien" ref="https://www.geonames.org/2761369/vienna.html"
             xml:id="Bae_TB_9_2456">Wien</placeName>
-          <date when="1910-03-03" type="diaryEntry" xml:id="Bae_TB_9_2457">3.3.10</date>. Audienz.
+          <date when="1910-03-03" type="diaryEntry" xml:id="Bae_TB_9_2457">3.3.10</date>. <index><term key="KaiserFranzJoseph">Audienz</term><index><term key="Audienzen"/></index></index>.
             <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"
             xml:id="Bae_TB_9_2458">Kaiser</persName> sehr frisch <choice xml:id="Bae_TB_9_2459">
             <abbr xml:id="Bae_TB_9_2460">u.</abbr>
@@ -3738,10 +3736,10 @@
           <persName key="BailletLatourVinzenz" ref="https://d-nb.info/gnd/130217212"
             xml:id="Bae_TB_9_2473">Latour</persName> über die <persName key="BoehmBawerkEugen"
             ref="https://d-nb.info/gnd/118660691" xml:id="Bae_TB_9_2474">Böhm</persName> [?] gesagt.
-          Dann sprach ich von der Eisenbahnreform. <choice xml:id="Bae_TB_9_2475">
+          Dann sprach ich von der Eisenbahnreform. <persName key="KaiserFranzJosef" ref="https://d-nb.info/gnd/118535013"><choice xml:id="Bae_TB_9_2475">
             <abbr xml:id="Bae_TB_9_2476">K.</abbr>
             <expan xml:id="Bae_TB_9_2477">Kaiser</expan>
-          </choice> sagte zu viel Beamte. "Es wird viel zu viel geschrieben" – aber es ist schon
+          </choice></persName> sagte zu viel Beamte. "Es wird viel zu viel geschrieben" – aber es ist schon
           schwer auf einmal zu machen. </p>
       </div>
       <div type="diaryEntry" xml:id="Bae_TB_9_2478">
@@ -3817,7 +3815,7 @@
             <choice xml:id="Bae_TB_9_2523">
               <abbr xml:id="Bae_TB_9_2524">v.</abbr>
               <expan xml:id="Bae_TB_9_2525">von</expan>
-            </choice> Perger </persName> mir neulich über die Entlassung <persName
+            </choice> Perger</persName> mir neulich über die Entlassung <persName
             key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_2526"
             >Schreiner's</persName> erzählte. Jetzt kann man auch den Schlussakt dieser Episode
           übersehen. Der Anstoss ging von <persName key="CzerninOttokar"
@@ -3833,7 +3831,7 @@
           stattfand <choice xml:id="Bae_TB_9_2533">
             <abbr xml:id="Bae_TB_9_2534">u.</abbr>
             <expan xml:id="Bae_TB_9_2535">und</expan>
-          </choice> in der das Nichtabgehen von der Obstruction beschlossen wurde, hatte <persName
+          </choice> in der das Nichtabgehen von der <index><term key="BoehmischerLandtag">Obstruction</term><index><term key="Obstruktion"/></index></index> beschlossen wurde, hatte <persName
             key="SchreinerGustav" ref="https://d-nb.info/gnd/1032808500" xml:id="Bae_TB_9_2536"
             >Schreiner</persName> namens der Regierung den Wunsch nach Arbeitsfähigkeit des <orgName
             key="LandtagBoehmen" ref="https://d-nb.info/gnd/5005623-2" xml:id="Bae_TB_9_2537"
@@ -3848,7 +3846,7 @@
           gewachsen. <add place="across" xml:id="Bae_TB_9_2544">Anscheinend</add> scherzhaft sagte
             <persName key="CzerninOttokar" ref="https://d-nb.info/gnd/118677659"
             xml:id="Bae_TB_9_2545">Czernin</persName> zu ihm nach der Sitzung: "sie haben heute
-          ausgezeichnet für die Obstruction gesprochen." – <pb facs="#F_K-4_Bae_TB_9_113" n="55v"
+          ausgezeichnet für die <index><term key="BoehmischerLandtag">Obstruction</term><index><term key="Obstruktion"/></index></index> gesprochen." – <pb facs="#F_K-4_Bae_TB_9_113" n="55v"
             xml:id="Bae_TB_9_2546"/>
           <note type="editorial" xml:id="Bae_TB_9_2547">Diese Seite ist leer.</note>
           <pb facs="#F_K-4_Bae_TB_9_114" n="56r" xml:id="Bae_TB_9_2548"/>Es war aber kein Scherz.
@@ -3880,7 +3878,7 @@
             </choice>
           </persName> bestätigte es) dass <persName key="CzerninOttokar"
             ref="https://d-nb.info/gnd/118677659" xml:id="Bae_TB_9_2567">Czernin</persName> auch auf
-          den Tronfolger in demselben Sinne gewirkt hat <choice xml:id="Bae_TB_9_2568">
+          den <persName key="ErzherzogFranzFerdinand" ref="https://d-nb.info/gnd/118535005">Tronfolger</persName> in demselben Sinne gewirkt hat <choice xml:id="Bae_TB_9_2568">
             <abbr xml:id="Bae_TB_9_2569">u.</abbr>
             <expan xml:id="Bae_TB_9_2570">und</expan>
           </choice> dass dieser die Entlassung <persName key="SchreinerGustav"
